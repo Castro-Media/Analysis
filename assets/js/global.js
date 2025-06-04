@@ -57,3 +57,21 @@ function ArrTabler(arr){
 
     return table;
 }
+
+function FREDTable($container){
+    fetch('./latest.json')
+        .then(r => r.json())
+        .then(d => {
+            if (d.observations){
+                var arr = d.observations.map(o => ({ date: o.date, value: o.value }));
+                var table = ArrTabler(arr);
+                $container.append(table);
+                $(table).tablesorter();
+            } else {
+                $container.text("This source isn't supported for tables yet.");
+            }
+        })
+        .catch(() => {
+            $container.text("This source isn't supported for tables yet.");
+        });
+}
