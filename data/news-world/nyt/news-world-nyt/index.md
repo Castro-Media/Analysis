@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - World News from the New York Times
-date: 2025-07-09T15:52
+date: 2025-07-09T16:55
 ---
 
 ## nyt - World News from the New York Times
@@ -44,3 +44,4 @@ document.addEventListener('DOMContentLoaded', function(){
 27. [2025-07-09-13.json](./2025-07-09-13.json)
 28. [2025-07-09-14.json](./2025-07-09-14.json)
 29. [2025-07-09-15.json](./2025-07-09-15.json)
+30. [2025-07-09-16.json](./2025-07-09-16.json)
