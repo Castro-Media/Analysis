@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Asia News from Deutsche Welle
-date: 2025-07-09T08:55
+date: 2025-07-09T09:52
 ---
 
 ## dw - Asia News from Deutsche Welle
