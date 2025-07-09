@@ -1,7 +1,7 @@
 ---
 layout: default
 title: startribune - Business News from the Star Tribune
-date: 2025-07-09T07:51
+date: 2025-07-09T08:55
 ---
 
 ## startribune - Business News from the Star Tribune

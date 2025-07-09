@@ -1,7 +1,7 @@
 ---
 layout: default
 title: latimes - Business News from the Los Angeles Times
-date: 2025-07-09T07:51
+date: 2025-07-09T08:55
 ---
 
 ## latimes - Business News from the Los Angeles Times
@@ -35,3 +35,4 @@ document.addEventListener('DOMContentLoaded', function(){
 18. [2025-07-09-04.json](./2025-07-09-04.json)
 19. [2025-07-09-05.json](./2025-07-09-05.json)
 20. [2025-07-09-07.json](./2025-07-09-07.json)
+21. [2025-07-09-08.json](./2025-07-09-08.json)
