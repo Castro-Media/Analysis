@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News World
-date: 2025-07-09T16:55
+date: 2025-07-09T17:52
 ---
 
 ## bbc - BBC News World
