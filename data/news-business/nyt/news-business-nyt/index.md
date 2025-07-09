@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Business News from the New York Times
-date: 2025-07-09T21:51
+date: 2025-07-09T22:51
 ---
 
 ## nyt - Business News from the New York Times
@@ -44,3 +44,4 @@ document.addEventListener('DOMContentLoaded', function(){
 27. [2025-07-09-19.json](./2025-07-09-19.json)
 28. [2025-07-09-20.json](./2025-07-09-20.json)
 29. [2025-07-09-21.json](./2025-07-09-21.json)
+30. [2025-07-09-22.json](./2025-07-09-22.json)

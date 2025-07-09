@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wsj - US Politics News from the Wall Street Journal
-date: 2025-07-09T21:51
+date: 2025-07-09T22:51
 ---
 
 ## wsj - US Politics News from the Wall Street Journal
@@ -28,3 +28,4 @@ document.addEventListener('DOMContentLoaded', function(){
 11. [2025-07-09-00.json](./2025-07-09-00.json)
 12. [2025-07-09-01.json](./2025-07-09-01.json)
 13. [2025-07-09-20.json](./2025-07-09-20.json)
+14. [2025-07-09-22.json](./2025-07-09-22.json)
