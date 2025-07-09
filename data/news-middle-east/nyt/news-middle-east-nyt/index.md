@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Middle East News from the New York Times
-date: 2025-07-09T22:51
+date: 2025-07-09T23:51
 ---
 
 ## nyt - Middle East News from the New York Times
