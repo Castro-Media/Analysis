@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Asia
-date: 2025-07-09T00:47
+date: 2025-07-09T01:14
 ---
 
 ## bbc - BBC News Asia
@@ -24,3 +24,4 @@ document.addEventListener('DOMContentLoaded', function(){
 7. [2025-07-07-16.json](./2025-07-07-16.json)
 8. [2025-07-08-18.json](./2025-07-08-18.json)
 9. [2025-07-08-23.json](./2025-07-08-23.json)
+10. [2025-07-09-01.json](./2025-07-09-01.json)
