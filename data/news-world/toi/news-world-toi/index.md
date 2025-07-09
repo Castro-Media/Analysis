@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - World News from the Times of India
-date: 2025-07-09T14:53
+date: 2025-07-09T15:52
 ---
 
 ## toi - World News from the Times of India
@@ -41,3 +41,4 @@ document.addEventListener('DOMContentLoaded', function(){
 24. [2025-07-09-11.json](./2025-07-09-11.json)
 25. [2025-07-09-13.json](./2025-07-09-13.json)
 26. [2025-07-09-14.json](./2025-07-09-14.json)
+27. [2025-07-09-15.json](./2025-07-09-15.json)
