@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Asia
-date: 2025-07-09T04:03
+date: 2025-07-09T05:53
 ---
 
 ## bbc - BBC News Asia
