@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Asia News from the New York Times
-date: 2025-07-10T20:52
+date: 2025-07-10T21:51
 ---
 
 ## nyt - Asia News from the New York Times
@@ -53,3 +53,4 @@ document.addEventListener('DOMContentLoaded', function(){
 36. [2025-07-10-18.json](./2025-07-10-18.json)
 37. [2025-07-10-19.json](./2025-07-10-19.json)
 38. [2025-07-10-20.json](./2025-07-10-20.json)
+39. [2025-07-10-21.json](./2025-07-10-21.json)
