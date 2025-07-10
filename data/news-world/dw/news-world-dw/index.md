@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - World News from Deutsche Welle
-date: 2025-07-10T09:52
+date: 2025-07-10T10:53
 ---
 
 ## dw - World News from Deutsche Welle
@@ -36,3 +36,4 @@ document.addEventListener('DOMContentLoaded', function(){
 19. [2025-07-09-23.json](./2025-07-09-23.json)
 20. [2025-07-10-04.json](./2025-07-10-04.json)
 21. [2025-07-10-05.json](./2025-07-10-05.json)
+22. [2025-07-10-10.json](./2025-07-10-10.json)
