@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Europe
-date: 2025-07-10T13:54
+date: 2025-07-10T14:53
 ---
 
 ## bbc - BBC News Europe
@@ -42,3 +42,4 @@ document.addEventListener('DOMContentLoaded', function(){
 25. [2025-07-10-08.json](./2025-07-10-08.json)
 26. [2025-07-10-10.json](./2025-07-10-10.json)
 27. [2025-07-10-13.json](./2025-07-10-13.json)
+28. [2025-07-10-14.json](./2025-07-10-14.json)
