@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India
-date: 2025-07-10T04:57
+date: 2025-07-10T05:52
 ---
 
 ## toi - Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India
@@ -27,3 +27,4 @@ document.addEventListener('DOMContentLoaded', function(){
 10. [2025-07-09-15.json](./2025-07-09-15.json)
 11. [2025-07-09-16.json](./2025-07-09-16.json)
 12. [2025-07-10-04.json](./2025-07-10-04.json)
+13. [2025-07-10-05.json](./2025-07-10-05.json)
