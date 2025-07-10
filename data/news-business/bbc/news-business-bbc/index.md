@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Business
-date: 2025-07-10T03:16
+date: 2025-07-10T04:03
 ---
 
 ## bbc - BBC News Business
@@ -42,3 +42,4 @@ document.addEventListener('DOMContentLoaded', function(){
 25. [2025-07-09-23.json](./2025-07-09-23.json)
 26. [2025-07-10-01.json](./2025-07-10-01.json)
 27. [2025-07-10-02.json](./2025-07-10-02.json)
+28. [2025-07-10-04.json](./2025-07-10-04.json)
