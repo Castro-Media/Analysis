@@ -1,7 +1,7 @@
 ---
 layout: default
 title: cbc - CBC | World News
-date: 2025-07-11T04:57
+date: 2025-07-11T05:52
 ---
 
 ## cbc - CBC | World News
@@ -56,3 +56,4 @@ document.addEventListener('DOMContentLoaded', function(){
 39. [2025-07-11-01.json](./2025-07-11-01.json)
 40. [2025-07-11-03.json](./2025-07-11-03.json)
 41. [2025-07-11-04.json](./2025-07-11-04.json)
+42. [2025-07-11-05.json](./2025-07-11-05.json)
