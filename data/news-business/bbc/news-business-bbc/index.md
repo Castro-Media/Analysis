@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Business
-date: 2025-07-11T17:51
+date: 2025-07-11T18:54
 ---
 
 ## bbc - BBC News Business
