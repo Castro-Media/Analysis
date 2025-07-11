@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Europe News from the New York Times
-date: 2025-07-11T16:54
+date: 2025-07-11T17:51
 ---
 
 ## nyt - Europe News from the New York Times
@@ -74,3 +74,4 @@ document.addEventListener('DOMContentLoaded', function(){
 57. [2025-07-11-14.json](./2025-07-11-14.json)
 58. [2025-07-11-15.json](./2025-07-11-15.json)
 59. [2025-07-11-16.json](./2025-07-11-16.json)
+60. [2025-07-11-17.json](./2025-07-11-17.json)
