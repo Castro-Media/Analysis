@@ -7,57 +7,57 @@ economics,fred,json,CLVMNACSCAB1GQDE,https://api.stlouisfed.org/fred/series/obse
 economics,fred,json,GFDEBTN,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEBTN&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-07-07T16:29,US Federal Debt: Total US Public Debt,https://fred.stlouisfed.org/series/GFDEBTN
 economics,fred,json,GFDEGDQ188S,https://api.stlouisfed.org/fred/series/observations?series_id=GFDEGDQ188S&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-07-07T16:29,US Federal Debt: Total Public Debt as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/GFDEGDQ188S
 economics,fred,json,TDSP,https://api.stlouisfed.org/fred/series/observations?series_id=TDSP&file_type=json&observation_end=[date %Y-%m-%d],FRED_API_KEY,monthly,2025-07-07T16:29,US Household Debt Service Payments as a Percent of Disposable Personal Income,https://fred.stlouisfed.org/series/TDSP
-news-us,nyt,rss,news-us-nyt,https://rss.nytimes.com/services/xml/rss/nyt/US.xml,,hourly,2025-07-11T18:54,US News from the New York Times,https://www.nytimes.com
-news-world,nyt,rss,news-world-nyt,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,,hourly,2025-07-11T18:54,World News from the New York Times,https://www.nytimes.com
-news-africa,nyt,rss,news-africa-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml,,hourly,2025-07-11T18:54,Africa News from the New York Times,https://www.nytimes.com
-news-europe,nyt,rss,news-europe-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml,,hourly,2025-07-11T18:54,Europe News from the New York Times,https://www.nytimes.com
-news-asia,nyt,rss,news-asia-nyt,https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml,,hourly,2025-07-11T18:54,Asia News from the New York Times,https://www.nytimes.com
-news-americas,nyt,rss,news-americas-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml,,hourly,2025-07-11T18:54,Americas' News from the New York Times,https://www.nytimes.com
-news-middle-east,nyt,rss,news-middle-east-nyt,https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml,,hourly,2025-07-11T18:54,Middle East News from the New York Times,https://www.nytimes.com
-news-business,nyt,rss,news-business-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,,hourly,2025-07-11T18:54,Business News from the New York Times,https://www.nytimes.com
-news-economy,nyt,rss,news-economy-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml,,hourly,2025-07-11T18:54,Economic News from the New York Times,https://www.nytimes.com
-news-politics,nyt,rss,news-us-politics-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml,,hourly,2025-07-11T18:54,US Politics News from the New York Times,https://www.nytimes.com
-news-world,wsj,rss,news-world-wsj,https://feeds.content.dowjones.io/public/rss/RSSWorldNews,,hourly,2025-07-11T18:54,World News from the Wall Street Journal,https://www.wsj.com
-news-us,wsj,rss,news-us-wsj,https://feeds.content.dowjones.io/public/rss/RSSUSNews,,hourly,2025-07-11T18:54,US News from the Wall Street Journal,https://www.wsj.com
-news-business,wsj,rss,news-business-wsj,https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness,,hourly,2025-07-11T18:54,US Business News from the Wall Street Journal,https://www.wsj.com
-news-business,wsj,rss,news-markets-wsj,https://feeds.content.dowjones.io/public/rss/RSSMarketsMain,,hourly,2025-07-11T18:54,US Market News from the Wall Street Journal,https://www.wsj.com
-news-economy,wsj,rss,news-economy-wsj,https://feeds.content.dowjones.io/public/rss/socialeconomyfeed,,hourly,2025-07-11T18:54,US Economy News from the Wall Street Journal,https://www.wsj.com
-news-politics,wsj,rss,news-us-politics-wsj,https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed,,hourly,2025-07-11T18:54,US Politics News from the Wall Street Journal,https://www.wsj.com
+news-us,nyt,rss,news-us-nyt,https://rss.nytimes.com/services/xml/rss/nyt/US.xml,,hourly,2025-07-11T19:50,US News from the New York Times,https://www.nytimes.com
+news-world,nyt,rss,news-world-nyt,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,,hourly,2025-07-11T19:50,World News from the New York Times,https://www.nytimes.com
+news-africa,nyt,rss,news-africa-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml,,hourly,2025-07-11T19:50,Africa News from the New York Times,https://www.nytimes.com
+news-europe,nyt,rss,news-europe-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml,,hourly,2025-07-11T19:50,Europe News from the New York Times,https://www.nytimes.com
+news-asia,nyt,rss,news-asia-nyt,https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml,,hourly,2025-07-11T19:50,Asia News from the New York Times,https://www.nytimes.com
+news-americas,nyt,rss,news-americas-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml,,hourly,2025-07-11T19:50,Americas' News from the New York Times,https://www.nytimes.com
+news-middle-east,nyt,rss,news-middle-east-nyt,https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml,,hourly,2025-07-11T19:50,Middle East News from the New York Times,https://www.nytimes.com
+news-business,nyt,rss,news-business-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Business.xml,,hourly,2025-07-11T19:50,Business News from the New York Times,https://www.nytimes.com
+news-economy,nyt,rss,news-economy-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml,,hourly,2025-07-11T19:50,Economic News from the New York Times,https://www.nytimes.com
+news-politics,nyt,rss,news-us-politics-nyt,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml,,hourly,2025-07-11T19:50,US Politics News from the New York Times,https://www.nytimes.com
+news-world,wsj,rss,news-world-wsj,https://feeds.content.dowjones.io/public/rss/RSSWorldNews,,hourly,2025-07-11T19:50,World News from the Wall Street Journal,https://www.wsj.com
+news-us,wsj,rss,news-us-wsj,https://feeds.content.dowjones.io/public/rss/RSSUSNews,,hourly,2025-07-11T19:50,US News from the Wall Street Journal,https://www.wsj.com
+news-business,wsj,rss,news-business-wsj,https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness,,hourly,2025-07-11T19:50,US Business News from the Wall Street Journal,https://www.wsj.com
+news-business,wsj,rss,news-markets-wsj,https://feeds.content.dowjones.io/public/rss/RSSMarketsMain,,hourly,2025-07-11T19:50,US Market News from the Wall Street Journal,https://www.wsj.com
+news-economy,wsj,rss,news-economy-wsj,https://feeds.content.dowjones.io/public/rss/socialeconomyfeed,,hourly,2025-07-11T19:50,US Economy News from the Wall Street Journal,https://www.wsj.com
+news-politics,wsj,rss,news-us-politics-wsj,https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed,,hourly,2025-07-11T19:50,US Politics News from the Wall Street Journal,https://www.wsj.com
 news-politics,wapo,rss,news-us-politics-wapo,https://www.washingtonpost.com/arcio/rss/category/politics/,,hourly,2025-06-13T04:23,US Politics News from the Washington Post,https://www.washingtonpost.com
-news-us,wapo,rss,news-us-wapo,http://feeds.washingtonpost.com/rss/national,,hourly,2025-07-11T17:51,US News from the Washington Post,https://www.washingtonpost.com
-news-world,wapo,rss,news-world-wapo,https://feeds.washingtonpost.com/rss/world,,hourly,2025-07-11T16:54,World News from the Washington Post,https://www.washingtonpost.com
+news-us,wapo,rss,news-us-wapo,http://feeds.washingtonpost.com/rss/national,,hourly,2025-07-11T19:50,US News from the Washington Post,https://www.washingtonpost.com
+news-world,wapo,rss,news-world-wapo,https://feeds.washingtonpost.com/rss/world,,hourly,2025-07-11T19:50,World News from the Washington Post,https://www.washingtonpost.com
 news-business,wapo,rss,news-business-wapo,http://feeds.washingtonpost.com/rss/business,,hourly,2025-07-11T18:54,Business News from the Washington Post,https://www.washingtonpost.com
-news-business,latimes,rss,latimes-business,https://www.latimes.com/business/rss2.0.xml,,hourly,2025-07-11T18:54,Business News from the Los Angeles Times,https://www.latimes.com
-news-us,latimes,rss,latimes-us,https://www.latimes.com/local/rss2.0.xml,,hourly,2025-07-11T18:54,US News from the Los Angeles Times,https://www.latimes.com
-news-politics,latimes,rss,latimes-us-politics,https://www.latimes.com/politics/rss2.0.xml,,hourly,2025-07-11T18:54,US Politics News from the Los Angeles Times,https://www.latimes.com
-news-world,chitri,rss,news-world-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc,,hourly,2025-07-11T18:54,Chicago News from the Chicago Tribune,https://www.chicagotribune.com
-news-business,chitri,rss,news-business-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc,,hourly,2025-07-11T18:54,Business News from the Chicago Tribune,https://www.chicagotribune.com
-news-politics,chitri,rss,news-us-politics-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/,,hourly,2025-07-11T18:54,US Politics News from the Chicago Tribune,https://www.chicagotribune.com
-news-business,startribune,rss,news-us-business-startribune,https://www.startribune.com/rss?sf=1&s=%2F,,hourly,2025-07-11T18:54,Business News from the Star Tribune,https://www.startribune.com
+news-business,latimes,rss,latimes-business,https://www.latimes.com/business/rss2.0.xml,,hourly,2025-07-11T19:50,Business News from the Los Angeles Times,https://www.latimes.com
+news-us,latimes,rss,latimes-us,https://www.latimes.com/local/rss2.0.xml,,hourly,2025-07-11T19:50,US News from the Los Angeles Times,https://www.latimes.com
+news-politics,latimes,rss,latimes-us-politics,https://www.latimes.com/politics/rss2.0.xml,,hourly,2025-07-11T19:50,US Politics News from the Los Angeles Times,https://www.latimes.com
+news-world,chitri,rss,news-world-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc,,hourly,2025-07-11T19:50,Chicago News from the Chicago Tribune,https://www.chicagotribune.com
+news-business,chitri,rss,news-business-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc,,hourly,2025-07-11T19:50,Business News from the Chicago Tribune,https://www.chicagotribune.com
+news-politics,chitri,rss,news-us-politics-chi-tribune,https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/,,hourly,2025-07-11T19:50,US Politics News from the Chicago Tribune,https://www.chicagotribune.com
+news-business,startribune,rss,news-us-business-startribune,https://www.startribune.com/rss?sf=1&s=%2F,,hourly,2025-07-11T19:50,Business News from the Star Tribune,https://www.startribune.com
 news-politics,startribune,rss,news-us-politics-startribune,https://www.startribune.com/politics/index.rss2,,hourly,2025-06-07T20:06,US Politics News from the Star Tribune,https://www.startribune.com
-news-us,nypost,rss,news-us-nypost,https://nypost.com/us-news/feed/,,hourly,2025-07-11T18:54,US News from the New York Post,https://nypost.com
-news-world,nypost,rss,news-world-nypost,https://nypost.com/world-news/feed/,,hourly,2025-07-11T18:54,World News from the New York Post,https://nypost.com
-news-politics,nypost,rss,news-us-politics-nypost,https://nypost.com/politics/feed/,,hourly,2025-07-11T18:54,US Politics News from the New York Post,https://nypost.com
-news-business,nypost,rss,news-business-nypost,https://nypost.com/business/feed/,,hourly,2025-07-11T18:54,Business News from the New York Post,
-news-world,toi,rss,news-world-toi,http://timesofindia.indiatimes.com/rssfeeds/296589292.cms,,hourly,2025-07-11T18:54,World News from the Times of India,https://timesofindia.indiatimes.com
-news-business,toi,rss,news-business-toi,http://timesofindia.indiatimes.com/rssfeeds/1898055.cms,,hourly,2025-07-11T18:54,"Latest Business News Today: Stock Markets, Financial News, India Business & World Business News",http://indiatimes.com
-news-us,toi,rss,news-us-toi,https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms,,hourly,2025-07-11T18:54,US News from the Times of India,https://timesofindia.indiatimes.com
-news-middle-east,toi,rss,news-middle-east-toi,http://timesofindia.indiatimes.com/rssfeeds/1898272.cms,,hourly,2025-07-11T18:54,"Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India",http://indiatimes.com
-news-europe,toi,rss,news-europe-toi,http://timesofindia.indiatimes.com/rssfeeds/1898274.cms,,hourly,2025-07-11T18:54,"Europe News Headlines, Latest Europe News and Live Updates - Times of India",http://indiatimes.com
-news-world,cbc,rss,news-world-cbc,https://www.cbc.ca/webfeed/rss/rss-world,,hourly,2025-07-11T18:54,CBC | World News,https://cbc.ca
-news-politics,cbc,rss,news-politics-cbc,https://www.cbc.ca/webfeed/rss/rss-politics,,hourly,2025-07-11T18:54,CBC | Politics News,https://cbc.ca
-news-africa,bbc,rss,news-africa-bbc,http://feeds.bbci.co.uk/news/world/africa/rss.xml,,hourly,2025-07-11T18:54,BBC News Africa,http://bbc.co.uk
-news-asia,bbc,rss,news-asia-bbc,http://feeds.bbci.co.uk/news/world/asia/rss.xml,,hourly,2025-07-11T18:54,BBC News Asia,http://bbc.co.uk
-news-europe,bbc,rss,news-europe-bbc,http://feeds.bbci.co.uk/news/world/europe/rss.xml,,hourly,2025-07-11T18:54,BBC News Europe,http://bbc.co.uk
-news-latin-america,bbc,rss,news-latin-america-bbc,http://feeds.bbci.co.uk/news/world/latin_america/rss.xml,,hourly,2025-07-11T18:54,BBC News Latin America,http://bbc.co.uk
-news-middle-east,bbc,rss,news-middle-east-bbc,http://feeds.bbci.co.uk/news/world/middle_east/rss.xml,,hourly,2025-07-11T18:54,BBC News Middle East,http://bbc.co.uk
-news-us,bbc,rss,news-us-bbc,http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml,,hourly,2025-07-11T18:54,BBC News US & Canada,http://bbc.co.uk
-news-world,bbc,rss,news-world-bbc,https://feeds.bbci.co.uk/news/world/rss.xml,,hourly,2025-07-11T18:54,BBC News World,http://bbc.co.uk
-news-business,bbc,rss,news-business-bbc,https://feeds.bbci.co.uk/news/business/rss.xml,,hourly,2025-07-11T18:54,BBC News Business,http://bbc.co.uk
-news-politics,bbc,rss,news-politics-bbc,https://feeds.bbci.co.uk/news/politics/rss.xml,,hourly,2025-07-11T18:54,BBC News Politics,http://bbc.co.uk
-news-top,dw,rss,news-top-dw,https://rss.dw.com/rdf/rss-en-all,,hourly,2025-07-11T18:54,Top News from Deutsche Welle,https://www.dw.com
-news-europe,dw,rss,news-europe-dw,https://rss.dw.com/rdf/rss-en-eu,,hourly,2025-07-11T18:54,Europe News from Deutsche Welle,https://www.dw.com
-news-world,dw,rss,news-world-dw,https://rss.dw.com/rdf/rss-en-world,,hourly,2025-07-11T18:54,World News from Deutsche Welle,https://www.dw.com
-news-business,dw,rss,news-business-dw,https://rss.dw.com/rdf/rss-en-bus,,hourly,2025-07-11T18:54,Business News from Deutsche Welle,https://www.dw.com
-news-asia,dw,rss,news-asia-dw,https://rss.dw.com/rdf/rss-en-asia,,hourly,2025-07-11T18:54,Asia News from Deutsche Welle,https://www.dw.com
+news-us,nypost,rss,news-us-nypost,https://nypost.com/us-news/feed/,,hourly,2025-07-11T19:50,US News from the New York Post,https://nypost.com
+news-world,nypost,rss,news-world-nypost,https://nypost.com/world-news/feed/,,hourly,2025-07-11T19:50,World News from the New York Post,https://nypost.com
+news-politics,nypost,rss,news-us-politics-nypost,https://nypost.com/politics/feed/,,hourly,2025-07-11T19:50,US Politics News from the New York Post,https://nypost.com
+news-business,nypost,rss,news-business-nypost,https://nypost.com/business/feed/,,hourly,2025-07-11T19:50,Business News from the New York Post,
+news-world,toi,rss,news-world-toi,http://timesofindia.indiatimes.com/rssfeeds/296589292.cms,,hourly,2025-07-11T19:50,World News from the Times of India,https://timesofindia.indiatimes.com
+news-business,toi,rss,news-business-toi,http://timesofindia.indiatimes.com/rssfeeds/1898055.cms,,hourly,2025-07-11T19:50,"Latest Business News Today: Stock Markets, Financial News, India Business & World Business News",http://indiatimes.com
+news-us,toi,rss,news-us-toi,https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms,,hourly,2025-07-11T19:50,US News from the Times of India,https://timesofindia.indiatimes.com
+news-middle-east,toi,rss,news-middle-east-toi,http://timesofindia.indiatimes.com/rssfeeds/1898272.cms,,hourly,2025-07-11T19:50,"Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India",http://indiatimes.com
+news-europe,toi,rss,news-europe-toi,http://timesofindia.indiatimes.com/rssfeeds/1898274.cms,,hourly,2025-07-11T19:50,"Europe News Headlines, Latest Europe News and Live Updates - Times of India",http://indiatimes.com
+news-world,cbc,rss,news-world-cbc,https://www.cbc.ca/webfeed/rss/rss-world,,hourly,2025-07-11T19:50,CBC | World News,https://cbc.ca
+news-politics,cbc,rss,news-politics-cbc,https://www.cbc.ca/webfeed/rss/rss-politics,,hourly,2025-07-11T19:50,CBC | Politics News,https://cbc.ca
+news-africa,bbc,rss,news-africa-bbc,http://feeds.bbci.co.uk/news/world/africa/rss.xml,,hourly,2025-07-11T19:50,BBC News Africa,http://bbc.co.uk
+news-asia,bbc,rss,news-asia-bbc,http://feeds.bbci.co.uk/news/world/asia/rss.xml,,hourly,2025-07-11T19:50,BBC News Asia,http://bbc.co.uk
+news-europe,bbc,rss,news-europe-bbc,http://feeds.bbci.co.uk/news/world/europe/rss.xml,,hourly,2025-07-11T19:50,BBC News Europe,http://bbc.co.uk
+news-latin-america,bbc,rss,news-latin-america-bbc,http://feeds.bbci.co.uk/news/world/latin_america/rss.xml,,hourly,2025-07-11T19:50,BBC News Latin America,http://bbc.co.uk
+news-middle-east,bbc,rss,news-middle-east-bbc,http://feeds.bbci.co.uk/news/world/middle_east/rss.xml,,hourly,2025-07-11T19:50,BBC News Middle East,http://bbc.co.uk
+news-us,bbc,rss,news-us-bbc,http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml,,hourly,2025-07-11T19:50,BBC News US & Canada,http://bbc.co.uk
+news-world,bbc,rss,news-world-bbc,https://feeds.bbci.co.uk/news/world/rss.xml,,hourly,2025-07-11T19:50,BBC News World,http://bbc.co.uk
+news-business,bbc,rss,news-business-bbc,https://feeds.bbci.co.uk/news/business/rss.xml,,hourly,2025-07-11T19:50,BBC News Business,http://bbc.co.uk
+news-politics,bbc,rss,news-politics-bbc,https://feeds.bbci.co.uk/news/politics/rss.xml,,hourly,2025-07-11T19:50,BBC News Politics,http://bbc.co.uk
+news-top,dw,rss,news-top-dw,https://rss.dw.com/rdf/rss-en-all,,hourly,2025-07-11T19:50,Top News from Deutsche Welle,https://www.dw.com
+news-europe,dw,rss,news-europe-dw,https://rss.dw.com/rdf/rss-en-eu,,hourly,2025-07-11T19:50,Europe News from Deutsche Welle,https://www.dw.com
+news-world,dw,rss,news-world-dw,https://rss.dw.com/rdf/rss-en-world,,hourly,2025-07-11T19:50,World News from Deutsche Welle,https://www.dw.com
+news-business,dw,rss,news-business-dw,https://rss.dw.com/rdf/rss-en-bus,,hourly,2025-07-11T19:50,Business News from Deutsche Welle,https://www.dw.com
+news-asia,dw,rss,news-asia-dw,https://rss.dw.com/rdf/rss-en-asia,,hourly,2025-07-11T19:50,Asia News from Deutsche Welle,https://www.dw.com
 demographics,census,csv,zip-demo-ca,,,static,2025-06-18,California Zip Code Demographics by ZIP Code,https://www.census.gov
