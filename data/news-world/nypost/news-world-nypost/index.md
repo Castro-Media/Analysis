@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nypost - World News from the New York Post
-date: 2025-07-11T11:51
+date: 2025-07-11T13:03
 ---
 
 ## nypost - World News from the New York Post
@@ -54,3 +54,4 @@ document.addEventListener('DOMContentLoaded', function(){
 37. [2025-07-11-07.json](./2025-07-11-07.json)
 38. [2025-07-11-10.json](./2025-07-11-10.json)
 39. [2025-07-11-11.json](./2025-07-11-11.json)
+40. [2025-07-11-13.json](./2025-07-11-13.json)
