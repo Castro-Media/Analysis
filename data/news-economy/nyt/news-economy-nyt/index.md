@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Economic News from the New York Times
-date: 2025-07-11T21:51
+date: 2025-07-11T22:52
 ---
 
 ## nyt - Economic News from the New York Times
@@ -49,3 +49,4 @@ document.addEventListener('DOMContentLoaded', function(){
 32. [2025-07-11-15.json](./2025-07-11-15.json)
 33. [2025-07-11-17.json](./2025-07-11-17.json)
 34. [2025-07-11-18.json](./2025-07-11-18.json)
+35. [2025-07-11-22.json](./2025-07-11-22.json)
