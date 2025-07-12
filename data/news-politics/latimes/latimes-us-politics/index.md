@@ -1,7 +1,7 @@
 ---
 layout: default
 title: latimes - US Politics News from the Los Angeles Times
-date: 2025-07-12T01:15
+date: 2025-07-12T02:30
 ---
 
 ## latimes - US Politics News from the Los Angeles Times
