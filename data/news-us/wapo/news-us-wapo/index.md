@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wapo - US News from the Washington Post
-date: 2025-07-12T21:51
+date: 2025-07-12T22:52
 ---
 
 ## wapo - US News from the Washington Post
@@ -49,3 +49,4 @@ document.addEventListener('DOMContentLoaded', function(){
 32. [2025-07-12-01.json](./2025-07-12-01.json)
 33. [2025-07-12-15.json](./2025-07-12-15.json)
 34. [2025-07-12-19.json](./2025-07-12-19.json)
+35. [2025-07-12-22.json](./2025-07-12-22.json)
