@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Middle East News from the New York Times
-date: 2025-07-12T10:52
+date: 2025-07-12T11:51
 ---
 
 ## nyt - Middle East News from the New York Times
@@ -66,3 +66,4 @@ document.addEventListener('DOMContentLoaded', function(){
 49. [2025-07-12-05.json](./2025-07-12-05.json)
 50. [2025-07-12-09.json](./2025-07-12-09.json)
 51. [2025-07-12-10.json](./2025-07-12-10.json)
+52. [2025-07-12-11.json](./2025-07-12-11.json)
