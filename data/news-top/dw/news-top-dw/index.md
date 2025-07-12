@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Top News from Deutsche Welle
-date: 2025-07-12T22:52
+date: 2025-07-12T23:51
 ---
 
 ## dw - Top News from Deutsche Welle
@@ -91,3 +91,4 @@ document.addEventListener('DOMContentLoaded', function(){
 74. [2025-07-12-18.json](./2025-07-12-18.json)
 75. [2025-07-12-19.json](./2025-07-12-19.json)
 76. [2025-07-12-21.json](./2025-07-12-21.json)
+77. [2025-07-12-23.json](./2025-07-12-23.json)

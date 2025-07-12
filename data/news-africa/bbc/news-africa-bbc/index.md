@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Africa
-date: 2025-07-12T22:52
+date: 2025-07-12T23:51
 ---
 
 ## bbc - BBC News Africa
@@ -61,3 +61,4 @@ document.addEventListener('DOMContentLoaded', function(){
 44. [2025-07-12-07.json](./2025-07-12-07.json)
 45. [2025-07-12-21.json](./2025-07-12-21.json)
 46. [2025-07-12-22.json](./2025-07-12-22.json)
+47. [2025-07-12-23.json](./2025-07-12-23.json)
