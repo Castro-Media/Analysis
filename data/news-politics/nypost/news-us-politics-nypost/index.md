@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nypost - US Politics News from the New York Post
-date: 2025-07-12T17:51
+date: 2025-07-12T18:53
 ---
 
 ## nypost - US Politics News from the New York Post
