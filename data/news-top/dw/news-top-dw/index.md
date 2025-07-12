@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Top News from Deutsche Welle
-date: 2025-07-12T02:30
+date: 2025-07-12T03:18
 ---
 
 ## dw - Top News from Deutsche Welle
