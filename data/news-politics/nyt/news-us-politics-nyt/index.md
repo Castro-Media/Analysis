@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - US Politics News from the New York Times
-date: 2025-07-12T07:51
+date: 2025-07-12T08:53
 ---
 
 ## nyt - US Politics News from the New York Times
