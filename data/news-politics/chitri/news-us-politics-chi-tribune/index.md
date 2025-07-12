@@ -1,7 +1,7 @@
 ---
 layout: default
 title: chitri - US Politics News from the Chicago Tribune
-date: 2025-07-12T04:03
+date: 2025-07-12T04:55
 ---
 
 ## chitri - US Politics News from the Chicago Tribune
