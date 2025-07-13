@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wapo - World News from the Washington Post
-date: 2025-07-13T13:52
+date: 2025-07-13T14:51
 ---
 
 ## wapo - World News from the Washington Post
@@ -63,3 +63,4 @@ document.addEventListener('DOMContentLoaded', function(){
 46. [2025-07-13-08.json](./2025-07-13-08.json)
 47. [2025-07-13-09.json](./2025-07-13-09.json)
 48. [2025-07-13-13.json](./2025-07-13-13.json)
+49. [2025-07-13-14.json](./2025-07-13-14.json)
