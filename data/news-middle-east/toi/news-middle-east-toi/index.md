@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India
-date: 2025-07-13T01:15
+date: 2025-07-13T02:36
 ---
 
 ## toi - Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India
