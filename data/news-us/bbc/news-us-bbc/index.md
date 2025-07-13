@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News US & Canada
-date: 2025-07-13T21:51
+date: 2025-07-13T22:51
 ---
 
 ## bbc - BBC News US & Canada
@@ -84,3 +84,4 @@ document.addEventListener('DOMContentLoaded', function(){
 67. [2025-07-13-15.json](./2025-07-13-15.json)
 68. [2025-07-13-20.json](./2025-07-13-20.json)
 69. [2025-07-13-21.json](./2025-07-13-21.json)
+70. [2025-07-13-22.json](./2025-07-13-22.json)
