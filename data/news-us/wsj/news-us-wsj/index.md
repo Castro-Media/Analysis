@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wsj - US News from the Wall Street Journal
-date: 2025-07-13T04:57
+date: 2025-07-13T05:52
 ---
 
 ## wsj - US News from the Wall Street Journal
