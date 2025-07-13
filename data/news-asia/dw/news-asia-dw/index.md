@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Asia News from Deutsche Welle
-date: 2025-07-13T08:53
+date: 2025-07-13T09:51
 ---
 
 ## dw - Asia News from Deutsche Welle
@@ -50,3 +50,4 @@ document.addEventListener('DOMContentLoaded', function(){
 33. [2025-07-12-10.json](./2025-07-12-10.json)
 34. [2025-07-13-04.json](./2025-07-13-04.json)
 35. [2025-07-13-08.json](./2025-07-13-08.json)
+36. [2025-07-13-09.json](./2025-07-13-09.json)
