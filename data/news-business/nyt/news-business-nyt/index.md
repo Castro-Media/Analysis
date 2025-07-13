@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Business News from the New York Times
-date: 2025-07-13T20:51
+date: 2025-07-13T21:51
 ---
 
 ## nyt - Business News from the New York Times
