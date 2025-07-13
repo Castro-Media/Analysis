@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nypost - Business News from the New York Post
-date: 2025-07-13T19:51
+date: 2025-07-13T20:51
 ---
 
 ## nypost - Business News from the New York Post
@@ -66,3 +66,4 @@ document.addEventListener('DOMContentLoaded', function(){
 49. [2025-07-13-13.json](./2025-07-13-13.json)
 50. [2025-07-13-16.json](./2025-07-13-16.json)
 51. [2025-07-13-18.json](./2025-07-13-18.json)
+52. [2025-07-13-20.json](./2025-07-13-20.json)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Europe
-date: 2025-07-13T19:51
+date: 2025-07-13T20:51
 ---
 
 ## bbc - BBC News Europe
