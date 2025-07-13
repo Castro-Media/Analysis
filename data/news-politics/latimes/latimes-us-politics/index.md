@@ -1,7 +1,7 @@
 ---
 layout: default
 title: latimes - US Politics News from the Los Angeles Times
-date: 2025-07-13T18:53
+date: 2025-07-13T19:51
 ---
 
 ## latimes - US Politics News from the Los Angeles Times
@@ -112,3 +112,4 @@ document.addEventListener('DOMContentLoaded', function(){
 95. [2025-07-13-15.json](./2025-07-13-15.json)
 96. [2025-07-13-17.json](./2025-07-13-17.json)
 97. [2025-07-13-18.json](./2025-07-13-18.json)
+98. [2025-07-13-19.json](./2025-07-13-19.json)
