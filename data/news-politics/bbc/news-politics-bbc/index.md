@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Politics
-date: 2025-07-13T10:52
+date: 2025-07-13T11:51
 ---
 
 ## bbc - BBC News Politics
@@ -67,3 +67,4 @@ document.addEventListener('DOMContentLoaded', function(){
 50. [2025-07-13-08.json](./2025-07-13-08.json)
 51. [2025-07-13-09.json](./2025-07-13-09.json)
 52. [2025-07-13-10.json](./2025-07-13-10.json)
+53. [2025-07-13-11.json](./2025-07-13-11.json)
