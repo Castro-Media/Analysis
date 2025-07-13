@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wapo - US News from the Washington Post
-date: 2025-07-13T04:07
+date: 2025-07-13T07:51
 ---
 
 ## wapo - US News from the Washington Post
