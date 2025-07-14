@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wsj - World News from the Wall Street Journal
-date: 2025-07-14T05:53
+date: 2025-07-14T06:57
 ---
 
 ## wsj - World News from the Wall Street Journal
@@ -87,3 +87,4 @@ document.addEventListener('DOMContentLoaded', function(){
 70. [2025-07-14-02.json](./2025-07-14-02.json)
 71. [2025-07-14-03.json](./2025-07-14-03.json)
 72. [2025-07-14-04.json](./2025-07-14-04.json)
+73. [2025-07-14-06.json](./2025-07-14-06.json)
