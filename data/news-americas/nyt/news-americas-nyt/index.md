@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Americas' News from the New York Times
-date: 2025-07-13T23:51
+date: 2025-07-14T01:14
 ---
 
 ## nyt - Americas' News from the New York Times
