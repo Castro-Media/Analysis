@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wsj - US Politics News from the Wall Street Journal
-date: 2025-07-14T13:56
+date: 2025-07-14T14:53
 ---
 
 ## wsj - US Politics News from the Wall Street Journal
