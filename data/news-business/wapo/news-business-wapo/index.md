@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wapo - Business News from the Washington Post
-date: 2025-07-14T17:52
+date: 2025-07-14T23:51
 ---
 
 ## wapo - Business News from the Washington Post
@@ -58,3 +58,4 @@ document.addEventListener('DOMContentLoaded', function(){
 41. [2025-07-14-15.json](./2025-07-14-15.json)
 42. [2025-07-14-16.json](./2025-07-14-16.json)
 43. [2025-07-14-17.json](./2025-07-14-17.json)
+44. [2025-07-14-23.json](./2025-07-14-23.json)
