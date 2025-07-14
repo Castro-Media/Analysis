@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Middle East
-date: 2025-07-14T19:51
+date: 2025-07-14T20:52
 ---
 
 ## bbc - BBC News Middle East
@@ -57,3 +57,4 @@ document.addEventListener('DOMContentLoaded', function(){
 40. [2025-07-14-13.json](./2025-07-14-13.json)
 41. [2025-07-14-14.json](./2025-07-14-14.json)
 42. [2025-07-14-16.json](./2025-07-14-16.json)
+43. [2025-07-14-20.json](./2025-07-14-20.json)
