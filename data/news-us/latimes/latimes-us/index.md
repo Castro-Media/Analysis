@@ -1,7 +1,7 @@
 ---
 layout: default
 title: latimes - US News from the Los Angeles Times
-date: 2025-07-14T11:51
+date: 2025-07-14T13:04
 ---
 
 ## latimes - US News from the Los Angeles Times
