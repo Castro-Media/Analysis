@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Politics
-date: 2025-07-14T06:57
+date: 2025-07-14T07:52
 ---
 
 ## bbc - BBC News Politics
