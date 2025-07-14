@@ -1,7 +1,7 @@
 ---
 layout: default
 title: cbc - CBC | Politics News
-date: 2025-07-14T08:57
+date: 2025-07-14T09:53
 ---
 
 ## cbc - CBC | Politics News
@@ -67,3 +67,4 @@ document.addEventListener('DOMContentLoaded', function(){
 50. [2025-07-13-21.json](./2025-07-13-21.json)
 51. [2025-07-14-06.json](./2025-07-14-06.json)
 52. [2025-07-14-08.json](./2025-07-14-08.json)
+53. [2025-07-14-09.json](./2025-07-14-09.json)
