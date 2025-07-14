@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wsj - US Economy News from the Wall Street Journal
-date: 2025-07-14T08:57
+date: 2025-07-14T09:53
 ---
 
 ## wsj - US Economy News from the Wall Street Journal
@@ -73,3 +73,4 @@ document.addEventListener('DOMContentLoaded', function(){
 56. [2025-07-14-04.json](./2025-07-14-04.json)
 57. [2025-07-14-05.json](./2025-07-14-05.json)
 58. [2025-07-14-06.json](./2025-07-14-06.json)
+59. [2025-07-14-09.json](./2025-07-14-09.json)
