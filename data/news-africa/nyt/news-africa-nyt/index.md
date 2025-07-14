@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Africa News from the New York Times
-date: 2025-07-14T01:14
+date: 2025-07-14T02:34
 ---
 
 ## nyt - Africa News from the New York Times
@@ -38,3 +38,4 @@ document.addEventListener('DOMContentLoaded', function(){
 21. [2025-07-13-19.json](./2025-07-13-19.json)
 22. [2025-07-13-20.json](./2025-07-13-20.json)
 23. [2025-07-13-22.json](./2025-07-13-22.json)
+24. [2025-07-14-02.json](./2025-07-14-02.json)
