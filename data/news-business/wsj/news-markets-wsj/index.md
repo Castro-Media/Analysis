@@ -1,7 +1,7 @@
 ---
 layout: default
 title: wsj - US Market News from the Wall Street Journal
-date: 2025-07-14T15:52
+date: 2025-07-14T16:55
 ---
 
 ## wsj - US Market News from the Wall Street Journal
@@ -92,3 +92,4 @@ document.addEventListener('DOMContentLoaded', function(){
 75. [2025-07-14-13.json](./2025-07-14-13.json)
 76. [2025-07-14-14.json](./2025-07-14-14.json)
 77. [2025-07-14-15.json](./2025-07-14-15.json)
+78. [2025-07-14-16.json](./2025-07-14-16.json)
