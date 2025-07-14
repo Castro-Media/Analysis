@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Europe News from Deutsche Welle
-date: 2025-07-14T20:52
+date: 2025-07-14T21:51
 ---
 
 ## dw - Europe News from Deutsche Welle
