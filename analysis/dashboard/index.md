@@ -1,0 +1,27 @@
+---
+layout: default
+title: Data Source Dashboard
+date: 2025-06-05
+---
+
+## Data Source Dashboard
+
+A summary of all data sources and their current headline counts.
+
+<div id="dashboard-table"></div>
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+  loadCsvTable('#dashboard-table', './latest.csv');
+});
+</script>
+
+## File Versions:
+{% assign csv_files = site.static_files | where:"extname", ".csv" | where_exp:"f","f.path contains 'analysis/dashboard/'" | sort: 'name' | reverse %}
+<ol>
+  <li><a href="./latest.csv">Latest version</a></li>
+  {% for file in csv_files %}
+    {% unless file.name == 'latest.csv' %}
+  <li><a href="./{{ file.name }}">{{ file.name }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ol>
