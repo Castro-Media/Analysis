@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Business News from Deutsche Welle
-date: 2025-07-15T14:53
+date: 2025-07-15T15:52
 ---
 
 ## dw - Business News from Deutsche Welle
