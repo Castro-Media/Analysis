@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Business News from Deutsche Welle
-date: 2025-07-15T09:53
+date: 2025-07-15T10:53
 ---
 
 ## dw - Business News from Deutsche Welle
@@ -31,3 +31,4 @@ document.addEventListener('DOMContentLoaded', function(){
 14. [2025-07-14-08.json](./2025-07-14-08.json)
 15. [2025-07-14-17.json](./2025-07-14-17.json)
 16. [2025-07-15-09.json](./2025-07-15-09.json)
+17. [2025-07-15-10.json](./2025-07-15-10.json)
