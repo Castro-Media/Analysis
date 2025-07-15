@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nypost - US Politics News from the New York Post
-date: 2025-07-14T23:51
+date: 2025-07-15T01:15
 ---
 
 ## nypost - US Politics News from the New York Post
@@ -110,3 +110,4 @@ document.addEventListener('DOMContentLoaded', function(){
 93. [2025-07-14-20.json](./2025-07-14-20.json)
 94. [2025-07-14-21.json](./2025-07-14-21.json)
 95. [2025-07-14-22.json](./2025-07-14-22.json)
+96. [2025-07-15-01.json](./2025-07-15-01.json)
