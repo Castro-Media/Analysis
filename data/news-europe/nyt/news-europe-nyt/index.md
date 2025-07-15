@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Europe News from the New York Times
-date: 2025-07-15T03:21
+date: 2025-07-15T04:07
 ---
 
 ## nyt - Europe News from the New York Times
