@@ -1,7 +1,7 @@
 ---
 layout: default
 title: latimes - US News from the Los Angeles Times
-date: 2025-07-15T13:56
+date: 2025-07-15T14:53
 ---
 
 ## latimes - US News from the Los Angeles Times
@@ -160,3 +160,4 @@ document.addEventListener('DOMContentLoaded', function(){
 143. [2025-07-15-10.json](./2025-07-15-10.json)
 144. [2025-07-15-11.json](./2025-07-15-11.json)
 145. [2025-07-15-13.json](./2025-07-15-13.json)
+146. [2025-07-15-14.json](./2025-07-15-14.json)
