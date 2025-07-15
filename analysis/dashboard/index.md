@@ -10,6 +10,25 @@ A summary of all data sources and their current headline counts.
 
 <div id="dashboard-table"></div>
 <script>
+function loadCsvTable(sel, csvPath){
+  fetch(csvPath)
+    .then(r => r.text())
+    .then(text => {
+      const rows = csvToObjects(text);
+      const table = ArrTabler(rows);
+      $(sel).html(table);
+      new DataTable(sel + ' table', {
+        order: [[0, 'desc']],
+        columnDefs: [
+          { targets: '_all', className: 'dt-head-left dt-body-left' }
+        ]
+      });
+    })
+    .catch(() => {
+      $(sel).text('Unable to load data.');
+    });
+}
+
 document.addEventListener('DOMContentLoaded', function(){
   loadCsvTable('#dashboard-table', './latest.csv');
 });
