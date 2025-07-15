@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News World
-date: 2025-07-15T01:15
+date: 2025-07-15T02:33
 ---
 
 ## bbc - BBC News World
@@ -129,3 +129,4 @@ document.addEventListener('DOMContentLoaded', function(){
 112. [2025-07-14-22.json](./2025-07-14-22.json)
 113. [2025-07-14-23.json](./2025-07-14-23.json)
 114. [2025-07-15-01.json](./2025-07-15-01.json)
+115. [2025-07-15-02.json](./2025-07-15-02.json)
