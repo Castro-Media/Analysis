@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - US News from the Times of India
-date: 2025-07-15T13:05
+date: 2025-07-15T13:56
 ---
 
 ## toi - US News from the Times of India
