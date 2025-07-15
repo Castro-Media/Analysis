@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - Americas' News from the New York Times
-date: 2025-07-15T20:52
+date: 2025-07-15T21:51
 ---
 
 ## nyt - Americas' News from the New York Times
@@ -88,3 +88,4 @@ document.addEventListener('DOMContentLoaded', function(){
 71. [2025-07-15-15.json](./2025-07-15-15.json)
 72. [2025-07-15-18.json](./2025-07-15-18.json)
 73. [2025-07-15-19.json](./2025-07-15-19.json)
+74. [2025-07-15-21.json](./2025-07-15-21.json)
