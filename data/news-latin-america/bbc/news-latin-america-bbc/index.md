@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Latin America
-date: 2025-07-15T19:51
+date: 2025-07-15T20:52
 ---
 
 ## bbc - BBC News Latin America
