@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Middle East
-date: 2025-07-15T22:52
+date: 2025-07-15T23:52
 ---
 
 ## bbc - BBC News Middle East
