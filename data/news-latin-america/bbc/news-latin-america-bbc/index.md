@@ -1,7 +1,7 @@
 ---
 layout: default
 title: bbc - BBC News Latin America
-date: 2025-07-16T06:56
+date: 2025-07-16T07:51
 ---
 
 ## bbc - BBC News Latin America
@@ -42,3 +42,4 @@ document.addEventListener('DOMContentLoaded', function(){
 25. [2025-07-16-03.json](./2025-07-16-03.json)
 26. [2025-07-16-04.json](./2025-07-16-04.json)
 27. [2025-07-16-05.json](./2025-07-16-05.json)
+28. [2025-07-16-07.json](./2025-07-16-07.json)
