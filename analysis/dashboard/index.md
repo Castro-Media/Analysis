@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Data Source Dashboard
-date: 2025-07-16 03:46:24
+date: 2025-07-16 04:07:35
 ---
 
 ## Data Source Dashboard
 
 A summary of all data sources and their current headline counts.
 
-<p>Last updated: <strong>2025-07-16 03:46:24</strong></p>
+<p>Last updated: <strong>2025-07-16 04:07:35</strong></p>
 
 <div id="dashboard-table"></div>
 <script>
