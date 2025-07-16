@@ -10,11 +10,12 @@ title: Home
 <div markdown="0">
 
 <ul>
-{% assign pages = site.pages | sort: "title" %}
-{% for p in pages %}
-{% if p.path contains "analysis/" and p.name == "index.md" %}
-<li><a href="{{ p.url }}">{{ p.title }}</a>{% if p.blurb %}
-  <p>{{ p.blurb }}</p>{% endif %}</li>
+{% assign metas = site.pages | where: "name", "metadata.md" | sort: "folder" %}
+{% for m in metas %}
+{% if m.path contains "analysis/" %}
+  {% assign idx_path = m.path | replace: 'metadata.md', 'index.md' %}
+  {% assign idx = site.pages | where: 'path', idx_path | first %}
+  <li><a href="{{ idx.url }}">{{ idx.title }}</a> - {{ m.description }}</li>
 {% endif %}
 {% endfor %}
 </ul>
@@ -28,11 +29,12 @@ title: Home
 <div markdown="0">
 
 <ul>
-{% assign pages = site.pages | sort: "title" %}
-{% for d in pages %}
-{% if d.path contains "data/" and d.name == "index.md" %}
-<li><a href="{{ d.url }}">{{ d.title }}</a>{% if d.blurb %}
-  <p>{{ d.blurb }}</p>{% endif %}</li>
+{% assign metas = site.pages | where: "name", "metadata.md" | sort: "folder" %}
+{% for m in metas %}
+{% if m.path contains "data/" %}
+  {% assign idx_path = m.path | replace: 'metadata.md', 'index.md' %}
+  {% assign idx = site.pages | where: 'path', idx_path | first %}
+  <li><a href="{{ idx.url }}">{{ idx.title }}</a> - {{ m.description }}</li>
 {% endif %}
 {% endfor %}
 </ul>
@@ -60,6 +62,8 @@ There is still no application code here—only the data, notebooks and rendered 
 * **[analysis/](https://github.com/Castro-Media/Analysis/tree/main/analysis)** — contains one sub-directory per research project. Inside each project folder you keep the working notebook, a rendered Markdown version of that notebook, and any static figures (PNG, SVG) the analysis produces.
 * **`assets/js/`** — custom scripts powering interactive DataTables and charts.
 * Each dataset folder has an `index.md` page generated automatically with links to each snapshot and built-in visualizations when possible.
+* Each dataset and analysis folder also contains a `metadata.md` file describing the columns and providing a short blurb. These metadata files drive the project and data lists at the top of this page.
+* News feeds are organized by region under `data/news/<region>/<source>/`.
 
 ---
 
