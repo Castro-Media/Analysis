@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dw - Europe News from Deutsche Welle
-date: 2025-07-16T03:20
+date: 2025-07-16T04:06
 ---
 
 ## dw - Europe News from Deutsche Welle
@@ -60,3 +60,4 @@ document.addEventListener('DOMContentLoaded', function(){
 43. [2025-07-15-22.json](./2025-07-15-22.json)
 44. [2025-07-15-23.json](./2025-07-15-23.json)
 45. [2025-07-16-03.json](./2025-07-16-03.json)
+46. [2025-07-16-04.json](./2025-07-16-04.json)
