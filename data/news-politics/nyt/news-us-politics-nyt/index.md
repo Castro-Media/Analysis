@@ -1,7 +1,7 @@
 ---
 layout: default
 title: nyt - US Politics News from the New York Times
-date: 2025-07-16T08:56
+date: 2025-07-16T09:53
 ---
 
 ## nyt - US Politics News from the New York Times
@@ -158,3 +158,4 @@ document.addEventListener('DOMContentLoaded', function(){
 141. [2025-07-16-04.json](./2025-07-16-04.json)
 142. [2025-07-16-05.json](./2025-07-16-05.json)
 143. [2025-07-16-07.json](./2025-07-16-07.json)
+144. [2025-07-16-09.json](./2025-07-16-09.json)

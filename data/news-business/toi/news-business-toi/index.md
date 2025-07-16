@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - Latest Business News Today: Stock Markets, Financial News, India Business & World Business News
-date: 2025-07-16T08:56
+date: 2025-07-16T09:53
 ---
 
 ## toi - Latest Business News Today: Stock Markets, Financial News, India Business & World Business News
@@ -145,3 +145,4 @@ document.addEventListener('DOMContentLoaded', function(){
 128. [2025-07-16-06.json](./2025-07-16-06.json)
 129. [2025-07-16-07.json](./2025-07-16-07.json)
 130. [2025-07-16-08.json](./2025-07-16-08.json)
+131. [2025-07-16-09.json](./2025-07-16-09.json)
