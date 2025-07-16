@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "title": "The impact of President Trump’s whirlwind six months back in office is beginning to show up in the economy",
-      "link": "https://www.wsj.com/economy/trump-effect-starts-to-show-up-in-economy-45c83c7a",
-      "published": "Wed, 16 Jul 2025 01:00:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Asian Currencies Consolidate; Fading Fed Rate-Cut Prospects May Weigh",
-      "link": "https://www.wsj.com/economy/central-banking/asian-currencies-consolidate-fading-fed-rate-cut-prospects-may-weigh-62ddbd69",
-      "published": "Wed, 16 Jul 2025 00:32:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "President Trump wants tariffs, the higher the better, WSJ’s @greg_ip writes. Whether that is achieved unilaterally or through deals is secondary.",
-      "link": "https://www.wsj.com/economy/trade/forget-taco-trump-is-winning-his-trade-war-8af6f777",
-      "published": "Wed, 16 Jul 2025 00:00:00 GMT",
-      "sentiment": 0.03000000000000001
-    },
-    {
-      "title": "Labor Department Relied More on Fuzzier Price Guesses in June Inflation Data",
-      "link": "https://www.wsj.com/economy/labor-department-relied-more-on-fuzzier-price-guesses-in-june-inflation-data-a07da246",
-      "published": "Tue, 15 Jul 2025 21:39:00 GMT",
-      "sentiment": 0.28125
-    },
-    {
       "title": "Inflation picked up in June, a potential sign that companies are starting to pass tariff costs on to consumers",
       "link": "https://www.wsj.com/economy/inflation-hit-2-7-in-june-in-line-with-expectations-8f92a8cd",
       "published": "Tue, 15 Jul 2025 20:41:00 GMT",
@@ -35,6 +11,30 @@
       "link": "https://www.wsj.com/economy/global/leading-economies-must-work-together-to-fix-imbalances-or-face-instability-says-boes-bailey-0fab8109",
       "published": "Tue, 15 Jul 2025 20:17:00 GMT",
       "sentiment": -0.027678571428571434
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon sounded Wall Street’s clearest warning against the Trump administration’s attacks on Fed Chair Jerome Powell",
+      "link": "https://www.wsj.com/economy/central-banking/dimon-defends-fed-independence-after-trump-attacks-6cb6b05f",
+      "published": "Tue, 15 Jul 2025 19:03:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Canada Inflation Accelerates in June, Likely Keeping Central Bank On Sidelines Again",
+      "link": "https://www.wsj.com/economy/central-banking/canada-inflation-accelerates-in-june-likely-keeping-central-bank-on-sidelines-again-d0023776",
+      "published": "Tue, 15 Jul 2025 16:09:00 GMT",
+      "sentiment": -0.01020408163265306
+    },
+    {
+      "title": "Europe’s Factories Boosted by Tariff Frontrunning as August Deadline Looms",
+      "link": "https://www.wsj.com/economy/europes-factories-boosted-by-tariff-frontrunning-as-august-deadline-looms-ef264cdc",
+      "published": "Tue, 15 Jul 2025 09:28:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "China’s economy showed resilience in a turbulent first half of the year, remaining on track to hit its official growth target for the year despite President Trump’s tariff assault",
+      "link": "https://www.wsj.com/world/china/chinas-economy-slows-in-line-with-expectations-1c34e51f",
+      "published": "Tue, 15 Jul 2025 03:45:00 GMT",
+      "sentiment": 0.020833333333333336
     },
     {
       "title": "U.K. Economy Unexpectedly Slumps to Second Straight Month of Contraction",
@@ -97,18 +97,6 @@
       "sentiment": 0.4
     },
     {
-      "title": "JPMorgan CEO Jamie Dimon sounded Wall Street’s clearest warning against the Trump administration’s attacks on Fed Chair Jerome Powell",
-      "link": "https://www.wsj.com/economy/central-banking/dimon-defends-fed-independence-after-trump-attacks-6cb6b05f",
-      "published": "Tue, 15 Jul 2025 19:03:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Canada Inflation Accelerates in June, Likely Keeping Central Bank On Sidelines Again",
-      "link": "https://www.wsj.com/economy/central-banking/canada-inflation-accelerates-in-june-likely-keeping-central-bank-on-sidelines-again-d0023776",
-      "published": "Tue, 15 Jul 2025 16:09:00 GMT",
-      "sentiment": -0.01020408163265306
-    },
-    {
       "title": "Calls for Greater RBA Board Transparency Set to Grow",
       "link": "https://www.wsj.com/articles/calls-for-greater-rba-board-transparency-set-to-grow-7a5cc2d4",
       "published": "Tue, 15 Jul 2025 03:42:00 GMT",
@@ -125,6 +113,18 @@
       "link": "https://www.wsj.com/economy/central-banking/jerome-powell-fed-renovations-trump-fb9793df",
       "published": "Sat, 12 Jul 2025 01:53:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Latest Tariff Threats Could Delay Rate Cuts, Chicago Fed’s Goolsbee Says",
+      "link": "https://www.wsj.com/economy/central-banking/latest-tariff-threats-could-delay-rate-cuts-chicago-feds-goolsbee-says-ff7e83a8",
+      "published": "Fri, 11 Jul 2025 18:54:00 GMT",
+      "sentiment": 0.12727272727272726
+    },
+    {
+      "title": "Canada Unemployment Rate Slips to 6.9% in June",
+      "link": "https://www.wsj.com/economy/central-banking/canada-unemployment-rate-slips-to-6-9-in-june-ba2bbd79",
+      "published": "Fri, 11 Jul 2025 16:41:00 GMT",
+      "sentiment": 0.03148148148148148
     },
     {
       "title": "The Conference Board’s June consumer-confidence index fell to 93, from 98.4 in May, surprising analysts",

@@ -1,54 +1,6 @@
 {
   "entries": [
     {
-      "title": "Trump's Big Beautiful Bill: How much money will people in each state save? WH releases interactive map by region for classification",
-      "link": "https://timesofindia.indiatimes.com/world/us/trumps-big-beautiful-bill-how-much-money-will-people-in-each-state-save-wh-releases-interactive-map-by-region-for-classification/articleshow/122545110.cms",
-      "published": "2025-07-16T07:15:39+05:30",
-      "sentiment": 0.2211363636363636
-    },
-    {
-      "title": "US tariffs: Trump plans to levy 10% duties on goods from African and Caribbean nations",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/us-tariffs-trump-plans-to-levy-10-duties-on-goods-from-african-and-caribbean-nations-targets-pharma-and-chip-sectors-next/articleshow/122544838.cms",
-      "published": "2025-07-16T06:51:27+05:30",
-      "sentiment": -0.010227272727272729
-    },
-    {
-      "title": "'It's a delicate subject, but...': Trump aide Mike Johnson on release of Epstein files",
-      "link": "https://timesofindia.indiatimes.com/world/us/its-a-delicate-subject-but-trump-aide-mike-johnson-on-release-of-epstein-files-demands-pam-bondi-to-come-forward/articleshow/122543931.cms",
-      "published": "2025-07-16T06:32:12+05:30",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "'Pretty boring stuff': Donald Trump downplays 'fascination' surrounding Epstein files; blames ‘bad people’ for keeping it alive",
-      "link": "https://timesofindia.indiatimes.com/world/us/pretty-boring-stuff-donald-trump-downplays-fascination-surrounding-epstein-files-blames-bad-people-for-keeping-it-alive/articleshow/122542816.cms",
-      "published": "2025-07-16T06:19:30+05:30",
-      "sentiment": -0.18888888888888886
-    },
-    {
-      "title": "Trump eases immigration crackdown? 2,000 National Guard troops to leave Los Angeles; Newsom calls them ‘political pawns of president’",
-      "link": "https://timesofindia.indiatimes.com/world/us/trump-eases-immigration-crackdown-2000-national-guard-troops-to-leave-los-angeles-newsom-calls-them-political-pawns-of-president/articleshow/122541881.cms",
-      "published": "2025-07-16T05:58:40+05:30",
-      "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "‘Devastated’: ‘American Idol’ music supervisor found dead along with her husband inside their home; family could not reach them for 4 days",
-      "link": "https://timesofindia.indiatimes.com/world/us/devastated-american-idol-music-supervisor-found-dead-along-with-her-husband-inside-their-home-family-could-not-reach-them-for-4-days/articleshow/122539505.cms",
-      "published": "2025-07-16T04:57:10+05:30",
-      "sentiment": -0.08095238095238096
-    },
-    {
-      "title": "White House security breach: ‘Phone’ was thrown over the fence; lockdown imposed briefly",
-      "link": "https://timesofindia.indiatimes.com/world/us/white-house-security-breach-phone-was-thrown-over-the-fence-lockdown-imposed-briefly/articleshow/122537329.cms",
-      "published": "2025-07-16T04:06:01+05:30",
-      "sentiment": -0.08194444444444444
-    },
-    {
-      "title": "‘Whatever she thinks is credible’: Trump reacts again on Epstein files; says Pam Bondi has ‘handled it very well’",
-      "link": "https://timesofindia.indiatimes.com/world/us/whatever-she-thinks-is-credible-trump-reacts-again-on-epstein-files-says-pam-bondi-has-handled-it-very-well/articleshow/122535035.cms",
-      "published": "2025-07-16T03:26:03+05:30",
-      "sentiment": 0.07777777777777778
-    },
-    {
       "title": "‘One of us’: US citizen who spied on Ukraine gets citizenship in Russia; says becoming Russian citizen was a ‘dream’",
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/one-of-us-us-citizen-who-spied-on-ukraine-gets-citizenship-in-russia-says-becoming-russian-citizen-was-a-dream/articleshow/122531649.cms",
       "published": "2025-07-16T01:52:30+05:30",
@@ -119,6 +71,54 @@
       "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-etihad-airways-announces-7-new-routes-including-medina-and-baku-launching-november-2025/articleshow/122498387.cms",
       "published": "2025-07-15T15:34:47+05:30",
       "sentiment": 0.03896103896103896
+    },
+    {
+      "title": "How did Wizz Air Abu Dhabi manage to keep fares so low? Which airlines now offer the best alternatives?",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/how-did-wizz-air-abu-dhabi-manage-to-keep-fares-so-low-which-airlines-now-offer-the-best-alternatives/articleshow/122494762.cms",
+      "published": "2025-07-15T16:20:44+05:30",
+      "sentiment": 0.25
+    },
+    {
+      "title": "18 survive speedboat capsizing in Indonesia's Mentawai Islands",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/18-survive-speedboat-capsizing-in-indonesias-mentawai-islands/articleshow/122503413.cms",
+      "published": "2025-07-15T16:05:12+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘Immediate strike’: Netanyahu orders IDF to hit Syrian forces in Sweida; cites threat to Druze community",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/immediate-strike-netanyahu-orders-idf-to-hit-syrian-forces-in-sweida-cites-threat-to-druze-community/articleshow/122502665.cms",
+      "published": "2025-07-15T16:12:28+05:30",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "'Can you hit Moscow?' Trump asks Zelenskyy to strike deep inside Russia - report",
+      "link": "https://timesofindia.indiatimes.com/world/us/can-you-hit-moscow-trump-asks-zelenskyy-to-strike-deep-inside-russia-report/articleshow/122501587.cms",
+      "published": "2025-07-15T15:36:39+05:30",
+      "sentiment": 0.11904761904761904
+    },
+    {
+      "title": "Who is Omar Fateh? Minneapolis' 'Zohran Mamdani' running for mayor",
+      "link": "https://timesofindia.indiatimes.com/world/us/who-is-omar-fateh-minneapolis-zohran-mamdani-running-for-mayor/articleshow/122490718.cms",
+      "published": "2025-07-15T12:35:31+05:30",
+      "sentiment": -0.13333333333333336
+    },
+    {
+      "title": "Explained: Why critics say new Superman movie is 'anti-Israel' — decoding the politics of James Gunn film",
+      "link": "https://timesofindia.indiatimes.com/world/us/explained-why-critics-say-new-superman-movie-is-anti-israel-decoding-the-politics-of-james-gunn-film/articleshow/122502931.cms",
+      "published": "2025-07-15T16:10:24+05:30",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Trump administration says it won't publish major climate change report on Nasa website as promised",
+      "link": "https://timesofindia.indiatimes.com/world/us/trump-administration-says-it-wont-publish-major-climate-change-report-on-nasa-website-as-promised/articleshow/122499929.cms",
+      "published": "2025-07-15T15:04:36+05:30",
+      "sentiment": 0.03125
+    },
+    {
+      "title": "Trump post-assassination photo: Photographer claims image shows 'angel wings' behind US president; ‘That’s just the ghost of Epstein,’ says social media",
+      "link": "https://timesofindia.indiatimes.com/world/us/trump-post-assassination-photo-photographer-claims-image-shows-angel-wings-behind-us-president-thats-just-the-ghost-of-epstein-says-social-media/articleshow/122497024.cms",
+      "published": "2025-07-15T17:05:00+05:30",
+      "sentiment": -0.12222222222222223
     }
   ]
 }

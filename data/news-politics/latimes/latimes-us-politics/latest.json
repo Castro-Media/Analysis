@@ -1,12 +1,6 @@
 {
   "entries": [
     {
-      "title": "Trump accuses Schiff of mortgage fraud, which Schiff calls false 'political retaliation'",
-      "link": "https://www.latimes.com/politics/story/2025-07-15/trump-accuses-schiff-of-mortgage-fraud-which-schiff-calls-false-political-retaliation",
-      "published": "Tue, 15 Jul 2025 22:36:03 GMT",
-      "sentiment": -0.12500000000000003
-    },
-    {
       "title": "Can the courts stop Trump's mass immigration arrests around L.A.? Here is what we know",
       "link": "https://www.latimes.com/california/story/2025-07-15/can-courts-stop-trump-immigration-arrests-l-a",
       "published": "Tue, 15 Jul 2025 15:48:41 GMT",
@@ -61,16 +55,16 @@
       "sentiment": 0.24666666666666667
     },
     {
-      "title": "Contributor: ICE raids are cruel, but so is an economy built on undocumented labor",
-      "link": "https://www.latimes.com/opinion/story/2025-07-14/california-immigration-poverty-welfare-deportation-wages",
-      "published": "Mon, 14 Jul 2025 10:00:00 GMT",
-      "sentiment": -1.0
-    },
-    {
       "title": "Contributor: Alligator Alcatraz, the concentration camp in Florida, is a national disgrace",
       "link": "https://www.latimes.com/opinion/story/2025-07-14/alligator-alcatraz-florida-immigration-detention",
       "published": "Mon, 14 Jul 2025 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Contributor: ICE raids are cruel, but so is an economy built on undocumented labor",
+      "link": "https://www.latimes.com/opinion/story/2025-07-14/california-immigration-poverty-welfare-deportation-wages",
+      "published": "Mon, 14 Jul 2025 10:00:00 GMT",
+      "sentiment": -1.0
     },
     {
       "title": "ICE raids are leaving some L.A. cats and dogs homeless",
@@ -115,10 +109,10 @@
       "sentiment": 0.18714285714285714
     },
     {
-      "title": "Calmes: Thoughts and prayers? Sure, but hold the Trump administration accountable",
-      "link": "https://www.latimes.com/opinion/story/2025-07-10/texas-guadalupe-river-donald-trump",
+      "title": "South Korea struggles with uncertainty over U.S. trade negotiations",
+      "link": "https://www.latimes.com/world-nation/story/2025-07-10/despite-a-tariff-extension-a-thorny-pat-ahead-for-u-s-korea-trade-deal",
       "published": "Thu, 10 Jul 2025 10:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.2333333333333333
     },
     {
       "title": "Glimpse of Newsom's presidential appeal, challenges seen during South Carolina tour",
@@ -127,10 +121,10 @@
       "sentiment": 0.45
     },
     {
-      "title": "South Korea struggles with uncertainty over U.S. trade negotiations",
-      "link": "https://www.latimes.com/world-nation/story/2025-07-10/despite-a-tariff-extension-a-thorny-pat-ahead-for-u-s-korea-trade-deal",
+      "title": "Calmes: Thoughts and prayers? Sure, but hold the Trump administration accountable",
+      "link": "https://www.latimes.com/opinion/story/2025-07-10/texas-guadalupe-river-donald-trump",
       "published": "Thu, 10 Jul 2025 10:00:00 GMT",
-      "sentiment": 0.2333333333333333
+      "sentiment": 0.0
     },
     {
       "title": "Amid ICE raids, bishop tells SoCal worshippers they can stay home on Sundays",
@@ -199,12 +193,6 @@
       "sentiment": 0.15
     },
     {
-      "title": "NIH budget cuts threaten the future of biomedical research — and the young scientists behind it",
-      "link": "https://www.latimes.com/science/story/2025-07-06/nih-budget-cuts-threaten-the-future-of-medical-research-and-young-scientists",
-      "published": "Sun, 6 Jul 2025 10:00:00 GMT",
-      "sentiment": -0.03333333333333334
-    },
-    {
       "title": "Is Hollywood inspired by the CIA, or the other way around?",
       "link": "https://www.latimes.com/politics/story/2025-07-06/cia-hollywood-entertainment-spies-movies-batman-argo",
       "published": "Sun, 6 Jul 2025 10:00:00 GMT",
@@ -215,6 +203,12 @@
       "link": "https://www.latimes.com/opinion/story/2025-07-06/california-gasoline-costs-refineries-pollution-imports",
       "published": "Sun, 6 Jul 2025 10:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "NIH budget cuts threaten the future of biomedical research — and the young scientists behind it",
+      "link": "https://www.latimes.com/science/story/2025-07-06/nih-budget-cuts-threaten-the-future-of-medical-research-and-young-scientists",
+      "published": "Sun, 6 Jul 2025 10:00:00 GMT",
+      "sentiment": -0.03333333333333334
     },
     {
       "title": "Abcarian: Oh please, the right is reviving a tired trope about women",
@@ -421,16 +415,16 @@
       "sentiment": 0.15555555555555556
     },
     {
-      "title": "Flaw in Edison's equipment in Sylmar sparked two major wildfires in last six years, lawyers say",
-      "link": "https://www.latimes.com/environment/story/2025-06-28/flaw-in-edisons-equipment-sparked-the-deadly-2019-saddleridge-fire-and-the-jan-7-hurst-fire-lawyers-say",
-      "published": "Sat, 28 Jun 2025 10:00:00 GMT",
-      "sentiment": 0.020833333333333332
-    },
-    {
       "title": "Arellano: MAGA lost in Huntington Beach. That means it can happen anywhere",
       "link": "https://www.latimes.com/california/story/2025-06-28/huntington-beach-library-measures-victory",
       "published": "Sat, 28 Jun 2025 10:00:00 GMT",
       "sentiment": 0.14444444444444443
+    },
+    {
+      "title": "Flaw in Edison's equipment in Sylmar sparked two major wildfires in last six years, lawyers say",
+      "link": "https://www.latimes.com/environment/story/2025-06-28/flaw-in-edisons-equipment-sparked-the-deadly-2019-saddleridge-fire-and-the-jan-7-hurst-fire-lawyers-say",
+      "published": "Sat, 28 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.020833333333333332
     },
     {
       "title": "California hopes law from bloody era of U.S. history can rein in Trump's use of troops",
@@ -487,12 +481,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump administration restores funds for HIV prevention following outcry",
-      "link": "https://www.latimes.com/science/story/2025-06-27/trump-hiv-cuts-restored-funding-surpasses",
-      "published": "Fri, 27 Jun 2025 10:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "Chabria: Zohran Mamdani and Donald Trump have a lot in common. California should pay attention",
       "link": "https://www.latimes.com/california/story/2025-06-27/chabria-column-zohran-mamdani-lessons-for-california",
       "published": "Fri, 27 Jun 2025 10:00:00 GMT",
@@ -503,6 +491,12 @@
       "link": "https://www.latimes.com/opinion/story/2025-06-27/operation-midnight-hammer-trump-america-first",
       "published": "Fri, 27 Jun 2025 10:00:00 GMT",
       "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Trump administration restores funds for HIV prevention following outcry",
+      "link": "https://www.latimes.com/science/story/2025-06-27/trump-hiv-cuts-restored-funding-surpasses",
+      "published": "Fri, 27 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "ICE seizes 6-year-old with cancer outside L.A. court. His mom is fighting for his release",
@@ -529,12 +523,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Arellano: What an L.A. County politician meant when she hit up 'cholos' to fight ICE",
-      "link": "https://www.latimes.com/california/story/2025-06-26/cynthia-gonzalez-cudahy-video-cholos",
-      "published": "Thu, 26 Jun 2025 10:00:00 GMT",
-      "sentiment": -0.4
-    },
-    {
       "title": "L.A. immigration raids force the undocumented to trade their freedom for safety",
       "link": "https://www.latimes.com/politics/story/2025-06-26/online-church-school-and-doctor-afraid-of-ice-raids-immigrants-go-digital",
       "published": "Thu, 26 Jun 2025 10:00:00 GMT",
@@ -545,6 +533,12 @@
       "link": "https://www.latimes.com/opinion/story/2025-06-26/supreme-court-shadow-docket-deportation",
       "published": "Thu, 26 Jun 2025 10:00:00 GMT",
       "sentiment": 0.35
+    },
+    {
+      "title": "Arellano: What an L.A. County politician meant when she hit up 'cholos' to fight ICE",
+      "link": "https://www.latimes.com/california/story/2025-06-26/cynthia-gonzalez-cudahy-video-cholos",
+      "published": "Thu, 26 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.4
     },
     {
       "title": "A decade after marriage equality victory, a movement grapples with steep backsliding on transgender rights",
@@ -577,12 +571,6 @@
       "sentiment": -0.21333333333333332
     },
     {
-      "title": "Contributor: Children's Hospital Los Angeles threw trans kids overboard",
-      "link": "https://www.latimes.com/opinion/story/2025-06-25/childrens-hospital-of-los-angeles-trans-children-healthcare",
-      "published": "Wed, 25 Jun 2025 10:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "Chabria: How conflict with Iran could supercharge Trump's domestic agenda",
       "link": "https://www.latimes.com/california/story/2025-06-25/chabria-column-conflict-with-iran-trump-domestic-agenda",
       "published": "Wed, 25 Jun 2025 10:00:00 GMT",
@@ -595,10 +583,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Cable's civic-minded C-SPAN looks for help as streaming takes a toll",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-06-25/c-span-looks-for-help-as-cord-cutting-takes-a-toll",
+      "published": "Wed, 25 Jun 2025 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Barabak: You can't separate sports from politics. Just ask the L.A. Dodgers",
       "link": "https://www.latimes.com/politics/story/2025-06-25/dodgers-ice-raids-trump-immigration-los-angeles-sports-politics",
       "published": "Wed, 25 Jun 2025 10:00:00 GMT",
       "sentiment": -0.3771428571428571
+    },
+    {
+      "title": "Contributor: Children's Hospital Los Angeles threw trans kids overboard",
+      "link": "https://www.latimes.com/opinion/story/2025-06-25/childrens-hospital-of-los-angeles-trans-children-healthcare",
+      "published": "Wed, 25 Jun 2025 10:00:00 GMT",
+      "sentiment": -0.125
     }
   ]
 }
