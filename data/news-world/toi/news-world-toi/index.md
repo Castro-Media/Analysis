@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - World News from the Times of India
-date: 2025-07-16T20:53
+date: 2025-07-16T21:51
 ---
 
 ## toi - World News from the Times of India
