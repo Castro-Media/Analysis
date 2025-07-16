@@ -1,7 +1,7 @@
 ---
 layout: default
 title: chitri - Chicago News from the Chicago Tribune
-date: 2025-07-15T20:16
+date: 2025-07-16T03:20
 ---
 
 ## chitri - Chicago News from the Chicago Tribune
