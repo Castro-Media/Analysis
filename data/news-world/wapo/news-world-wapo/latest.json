@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "title": "Trump plans to send migrants to ‘third countries.’ Others have tried that.",
-      "link": "https://www.washingtonpost.com/world/2025/07/15/trump-third-countries-migrants-deportation/",
-      "published": "Wed, 16 Jul 2025 00:18:37 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nvidia says Trump administration lifts ban on AI chip sales to China",
-      "link": "https://www.washingtonpost.com/world/2025/07/15/nvidia-ai-chip-sales-china/",
-      "published": "Tue, 15 Jul 2025 20:54:22 +0000",
-      "sentiment": -0.21666666666666667
-    },
-    {
       "title": "Israeli airstrikes target Syrian government troops amid sectarian unrest",
       "link": "https://www.washingtonpost.com/world/2025/07/15/syria-druze-sweida-israel-unrest/",
       "published": "Tue, 15 Jul 2025 20:50:52 +0000",
@@ -35,6 +23,12 @@
       "link": "https://www.washingtonpost.com/world/2025/07/15/sycamore-gap-tree-newcastle-england/",
       "published": "Tue, 15 Jul 2025 19:28:12 +0000",
       "sentiment": 0.2722222222222222
+    },
+    {
+      "title": "Nvidia says Trump administration lifts ban on AI chip sales to China",
+      "link": "https://www.washingtonpost.com/world/2025/07/15/nvidia-ai-chip-sales-china/",
+      "published": "Tue, 15 Jul 2025 18:36:40 +0000",
+      "sentiment": -0.21666666666666667
     },
     {
       "title": "A timeline of Trump’s quotes, shifts and U-turns on Russia and Ukraine",
@@ -113,6 +107,18 @@
       "link": "https://www.washingtonpost.com/world/2025/07/14/trump-flatter-pander-defy-world-global-leaders-nobel-opposition/",
       "published": "Mon, 14 Jul 2025 04:00:15 +0000",
       "sentiment": 0.3125
+    },
+    {
+      "title": "Ukraine says it killed Russian agents who assassinated senior intel officer",
+      "link": "https://www.washingtonpost.com/world/2025/07/13/ukraine-russia-sbu-assassination/",
+      "published": "Mon, 14 Jul 2025 01:43:05 +0000",
+      "sentiment": 0.016666666666666663
+    },
+    {
+      "title": "IDF blames ‘error’ for Gaza strike that killed children collecting water",
+      "link": "https://www.washingtonpost.com/world/2025/07/13/israel-gaza-idf-children-killed/",
+      "published": "Sun, 13 Jul 2025 23:44:33 +0000",
+      "sentiment": -0.1
     }
   ]
 }

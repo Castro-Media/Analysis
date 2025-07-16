@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "title": "Mamdani Clarifies ‘Globalize the Intifada’ Stance in Meeting With Business Elites",
-      "link": "https://www.wsj.com/politics/elections/mamdani-clarifies-globalize-the-intifada-stance-in-meeting-with-business-elites-4bd47420?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 16 Jul 2025 00:08:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "PCAOB Chair Erica Williams to Resign at Request of SEC Chairman",
-      "link": "https://www.wsj.com/articles/pcaob-chair-erica-williams-to-resign-at-request-of-sec-chairman-81203556?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 15 Jul 2025 22:06:00 GMT",
-      "sentiment": -0.08518518518518518
-    },
-    {
       "title": "Aquarian Nears Deal for U.S. Insurer Brighthouse",
       "link": "https://www.wsj.com/business/deals/aquarian-nears-deal-for-u-s-insurer-brighthouse-709acb15?mod=pls_whats_news_us_business_f",
       "published": "Tue, 15 Jul 2025 20:40:00 GMT",
@@ -34,6 +22,18 @@
       "title": "Apple Commits $500 Million for Rare-Earth Magnets From U.S. Supplier",
       "link": "https://www.wsj.com/tech/apple-commits-500-million-for-rare-earth-magnets-from-u-s-supplier-e4f6c6eb?mod=pls_whats_news_us_business_f",
       "published": "Tue, 15 Jul 2025 14:54:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tesla’s Top North American Sales Executive Leaves Amid Slump",
+      "link": "https://www.wsj.com/business/autos/tesla-troy-jones-north-american-sales-leaves-b2ac616d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 15 Jul 2025 14:41:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Nvidia Can Sell AI Chip to China Again After CEO Meets Trump",
+      "link": "https://www.wsj.com/tech/nvidia-wins-ok-to-resume-sales-of-ai-chip-to-china-after-ceo-meets-trump-68f55d71?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 15 Jul 2025 14:17:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -127,12 +127,6 @@
       "sentiment": -0.06875
     },
     {
-      "title": "Tesla’s Top North American Sales Executive Leaves Amid Slump",
-      "link": "https://www.wsj.com/business/autos/tesla-troy-jones-north-american-sales-leaves-b2ac616d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 15 Jul 2025 14:41:00 GMT",
-      "sentiment": 0.3333333333333333
-    },
-    {
       "title": "The Best EV Deals Now Are on the Used Market",
       "link": "https://www.wsj.com/business/autos/electric-vehicle-sales-used-cars-ab74b8dc?mod=pls_whats_news_us_business_f",
       "published": "Sun, 13 Jul 2025 00:00:00 GMT",
@@ -157,15 +151,9 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Opinion | Tariff Man Is No Ally of the American Worker",
-      "link": "https://www.wsj.com/opinion/tariff-man-is-no-ally-of-the-american-worker-e8a1abfb?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 15 Jul 2025 21:49:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Opinion | The Truth About the Air India Crash",
-      "link": "https://www.wsj.com/opinion/the-truth-about-the-air-india-crash-error-flight-plane-investigation-c689ab9f?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 15 Jul 2025 20:56:00 GMT",
+      "title": "Trump’s Megabill Gives Chinese EV Makers a Leg Up, Says Head of Auto Group",
+      "link": "https://www.wsj.com/business/autos/trumps-megabill-gives-chinese-ev-makers-a-leg-up-says-head-of-auto-group-8d12948d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 08 Jul 2025 12:01:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -191,6 +179,18 @@
       "link": "https://www.wsj.com/opinion/upton-sinclair-was-1934s-mamdani-socialist-democrat-election-ec5b0874?mod=pls_whats_news_us_business_f",
       "published": "Mon, 14 Jul 2025 16:13:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Al Gore Helped the U.S. Surpass Europe",
+      "link": "https://www.wsj.com/opinion/al-gore-helped-the-u-s-surpass-europe-bastille-day-climate-economy-e0f6ad5a?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 13 Jul 2025 18:46:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | A Soap Opera of Trade Deals",
+      "link": "https://www.wsj.com/opinion/a-soap-opera-of-trade-deals-asia-tariffs-trump-93f447c8?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 13 Jul 2025 15:37:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "OPEC Expects Progress on Trade, Holds Oil-Demand Outlook Steady",
@@ -433,12 +433,6 @@
       "sentiment": 0.09
     },
     {
-      "title": "Nvidia Can Sell AI Chip to China Again After CEO Meets Trump",
-      "link": "https://www.wsj.com/tech/nvidia-wins-ok-to-resume-sales-of-ai-chip-to-china-after-ceo-meets-trump-68f55d71?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 15 Jul 2025 14:17:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "America’s Biggest Rare-Earth Producer Makes a Play to End China’s Dominance",
       "link": "https://www.wsj.com/business/us-rare-earth-producer-texas-58796240?mod=pls_whats_news_us_business_f",
       "published": "Tue, 15 Jul 2025 13:09:00 GMT",
@@ -461,6 +455,12 @@
       "link": "https://www.wsj.com/finance/commodities-futures/new-copper-mines-trump-tariffs-1659321d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 14 Jul 2025 11:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "SpaceX to Invest $2 Billion Into Elon Musk’s xAI",
+      "link": "https://www.wsj.com/tech/spacex-to-invest-2-billion-into-elon-musks-xai-413934de?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 12 Jul 2025 22:23:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "How Much Money Can You Make Chasing High-Yield Savings Rates?",
@@ -487,6 +487,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Air India Chief Says Preliminary Crash Report Raises Fresh Questions",
+      "link": "https://www.wsj.com/business/airlines/air-india-chief-says-preliminary-crash-report-raises-fresh-questions-cdce3ec0?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 14 Jul 2025 16:32:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Tesla’s Top North American Sales Executive Leaves Amid Slump",
       "link": "https://www.wsj.com/business/autos/tesla-troy-jones-north-american-sales-leaves-b2ac616d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 15 Jul 2025 14:41:00 GMT",
@@ -499,16 +505,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Air India Chief Says Preliminary Crash Report Raises Fresh Questions",
-      "link": "https://www.wsj.com/business/airlines/air-india-chief-says-preliminary-crash-report-raises-fresh-questions-cdce3ec0?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 14 Jul 2025 16:32:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Inside the Shadowy, Lucrative Business of ‘Superfake’ Luxury Handbags",
-      "link": "https://www.wsj.com/business/retail/luxury-counterfeits-handbags-superfakes-a490fb42?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 12 Jul 2025 09:30:00 GMT",
-      "sentiment": 0.16818181818181818
+      "title": "Starbucks Tells White-Collar Workers to Come to the Office More—Or Take a Buyout",
+      "link": "https://www.wsj.com/business/hospitality/starbucks-reduces-remote-work-options-for-corporate-employees-69267e61?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 14 Jul 2025 18:30:00 GMT",
+      "sentiment": 0.13636363636363635
     }
   ]
 }

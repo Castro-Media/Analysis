@@ -1,27 +1,9 @@
 {
   "entries": [
     {
-      "title": "A 900-Year-Old Typo May Unravel a Chaucer Mystery",
-      "link": "https://www.nytimes.com/2025/07/15/world/europe/chaucer-wade-mystery.html",
-      "published": "Tue, 15 Jul 2025 23:01:05 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "State Dept. Layoffs Hit Russia and Ukraine Analysts",
-      "link": "https://www.nytimes.com/2025/07/15/us/politics/state-department-layoffs-russia-ukraine.html",
-      "published": "Tue, 15 Jul 2025 23:20:30 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Much Military Aid Has the U.S. Given to Ukraine? Here’s What to Know.",
-      "link": "https://www.nytimes.com/2025/07/15/us/politics/trump-military-aid-explainer.html",
-      "published": "Tue, 15 Jul 2025 22:19:23 +0000",
-      "sentiment": -0.1
-    },
-    {
       "title": "Republicans in Congress Shift to Backing Ukraine, Matching Trump’s Reversal",
       "link": "https://www.nytimes.com/2025/07/15/us/politics/ukraine-republicans-trump.html",
-      "published": "Wed, 16 Jul 2025 01:22:14 +0000",
+      "published": "Tue, 15 Jul 2025 20:21:13 +0000",
       "sentiment": 0.25
     },
     {
@@ -33,13 +15,13 @@
     {
       "title": "Three Aid Workers Were ‘Intentionally Killed’ in Tigray Region of Ethiopia, M.S.F. Says",
       "link": "https://www.nytimes.com/2025/07/15/world/africa/ethiopia-tigray-msf.html",
-      "published": "Tue, 15 Jul 2025 19:37:29 +0000",
+      "published": "Tue, 15 Jul 2025 19:37:28 +0000",
       "sentiment": -0.1
     },
     {
       "title": "Men Who Cut Down Beloved Tree in England Get More Than 4 Years in Prison",
       "link": "https://www.nytimes.com/2025/07/15/world/europe/sycamore-gap-tree-sentencing-prison.html",
-      "published": "Tue, 15 Jul 2025 20:29:03 +0000",
+      "published": "Tue, 15 Jul 2025 20:29:02 +0000",
       "sentiment": 0.07777777777777775
     },
     {
@@ -51,7 +33,7 @@
     {
       "title": "Trump’s Shift on Ukraine Is Good News for Europe, for Now",
       "link": "https://www.nytimes.com/2025/07/15/world/europe/ukraine-weapons-europe-trump.html",
-      "published": "Wed, 16 Jul 2025 01:33:21 +0000",
+      "published": "Tue, 15 Jul 2025 12:14:19 +0000",
       "sentiment": 0.22000000000000003
     },
     {
@@ -119,6 +101,24 @@
       "link": "https://www.nytimes.com/2025/07/14/world/europe/gregg-wallace-masterchef-bbc.html",
       "published": "Mon, 14 Jul 2025 15:48:36 +0000",
       "sentiment": 0.5
+    },
+    {
+      "title": "Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race",
+      "link": "https://www.nytimes.com/2025/07/14/science/apollo-soyuz-test-project-1975-anniversary.html",
+      "published": "Tue, 15 Jul 2025 16:46:08 +0000",
+      "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "Companies in Europe Are Frozen as Tariff Uncertainty Drags On",
+      "link": "https://www.nytimes.com/2025/07/14/business/tariffs-trump-europe-companies-impact.html",
+      "published": "Mon, 14 Jul 2025 18:05:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "E.U. Says Trump’s Threat of 30% Tariffs Would Hobble Trade With U.S.",
+      "link": "https://www.nytimes.com/2025/07/14/world/europe/eu-tariffs-trump-us-trade.html",
+      "published": "Mon, 14 Jul 2025 16:57:54 +0000",
+      "sentiment": 0.0
     }
   ]
 }
