@@ -10,11 +10,12 @@ title: Home
 <div markdown="0">
 
 <ul>
-{% assign pages = site.pages | sort: "title" %}
-{% for p in pages %}
-{% if p.path contains "analysis/" and p.name == "index.md" %}
-<li><a href="{{ p.url }}">{{ p.title }}</a>{% if p.blurb %}
-  <p>{{ p.blurb }}</p>{% endif %}</li>
+{% assign metas = site.pages | where: "name", "metadata.md" | sort: "folder" %}
+{% for m in metas %}
+{% if m.path contains "analysis/" %}
+  {% assign idx_path = m.path | replace: 'metadata.md', 'index.md' %}
+  {% assign idx = site.pages | where: 'path', idx_path | first %}
+  <li><a href="{{ idx.url }}">{{ idx.title }}</a> - {{ m.description }}</li>
 {% endif %}
 {% endfor %}
 </ul>
@@ -28,11 +29,12 @@ title: Home
 <div markdown="0">
 
 <ul>
-{% assign pages = site.pages | sort: "title" %}
-{% for d in pages %}
-{% if d.path contains "data/" and d.name == "index.md" %}
-<li><a href="{{ d.url }}">{{ d.title }}</a>{% if d.blurb %}
-  <p>{{ d.blurb }}</p>{% endif %}</li>
+{% assign metas = site.pages | where: "name", "metadata.md" | sort: "folder" %}
+{% for m in metas %}
+{% if m.path contains "data/" %}
+  {% assign idx_path = m.path | replace: 'metadata.md', 'index.md' %}
+  {% assign idx = site.pages | where: 'path', idx_path | first %}
+  <li><a href="{{ idx.url }}">{{ idx.title }}</a> - {{ m.description }}</li>
 {% endif %}
 {% endfor %}
 </ul>
