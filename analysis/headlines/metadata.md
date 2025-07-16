@@ -7,4 +7,6 @@ columns:
   - source
   - title
   - link
+dependencies:
+  - data/news
 ---

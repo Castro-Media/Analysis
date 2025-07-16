@@ -8,4 +8,6 @@ columns:
   - source
   - title
   - link
+dependencies:
+  - analysis/headlines
 ---
