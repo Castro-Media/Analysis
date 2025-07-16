@@ -8,4 +8,7 @@ columns:
   - last_fetched
   - headline_count
   - last_24h_count
+dependencies:
+  - analysis/headlines
+  - data
 ---
