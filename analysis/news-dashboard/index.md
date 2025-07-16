@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Data Source Dashboard
+title: News Data Dashboard
 date: 2025-07-16 16:22:05
 ---
 
-## Data Source Dashboard
+## News Data Dashboard
 
-A summary of all data sources and their current headline counts.
+A summary of all news data sources and their current headline counts.
 
 <p>Last updated: <strong>2025-07-16 16:22:05</strong></p>
 
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function(){
 </script>
 
 ## File Versions:
-{% assign csv_files = site.static_files | where:"extname", ".csv" | where_exp:"f","f.path contains 'analysis/dashboard/'" | sort: 'name' | reverse %}
+{% assign csv_files = site.static_files | where:"extname", ".csv" | where_exp:"f","f.path contains 'analysis/news-dashboard/'" | sort: 'name' | reverse %}
 <ol>
   <li><a href="./latest.csv">Latest version</a></li>
   {% for file in csv_files %}
