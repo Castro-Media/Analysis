@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - US News from the Times of India
-date: 2025-07-16T02:30
+date: 2025-07-15T20:16
 ---
 
 ## toi - US News from the Times of India
@@ -21,3 +21,4 @@ document.addEventListener('DOMContentLoaded', function(){
 4. [2025-06-12-23.json](./2025-06-12-23.json)
 5. [2025-06-13-03.json](./2025-06-13-03.json)
 6. [2025-06-18-13.json](./2025-06-18-13.json)
+7. [2025-07-15-20.json](./2025-07-15-20.json)

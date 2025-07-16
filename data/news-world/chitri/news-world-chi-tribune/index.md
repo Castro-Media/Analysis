@@ -1,7 +1,7 @@
 ---
 layout: default
 title: chitri - Chicago News from the Chicago Tribune
-date: 2025-07-16T02:30
+date: 2025-07-15T20:16
 ---
 
 ## chitri - Chicago News from the Chicago Tribune
@@ -17,3 +17,4 @@ document.addEventListener('DOMContentLoaded', function(){
 ## File Versions:
 1. [Latest version](./latest.json)
 2. [2025-06-07-21.json](./2025-06-07-21.json)
+3. [2025-07-15-20.json](./2025-07-15-20.json)

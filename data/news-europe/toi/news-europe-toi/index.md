@@ -1,7 +1,7 @@
 ---
 layout: default
 title: toi - Europe News Headlines, Latest Europe News and Live Updates - Times of India
-date: 2025-07-16T02:30
+date: 2025-07-15T20:16
 ---
 
 ## toi - Europe News Headlines, Latest Europe News and Live Updates - Times of India
@@ -20,3 +20,4 @@ document.addEventListener('DOMContentLoaded', function(){
 3. [2025-06-18-13.json](./2025-06-18-13.json)
 4. [2025-07-07-16.json](./2025-07-07-16.json)
 5. [2025-07-08-18.json](./2025-07-08-18.json)
+6. [2025-07-15-20.json](./2025-07-15-20.json)
