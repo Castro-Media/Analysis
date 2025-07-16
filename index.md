@@ -62,6 +62,8 @@ There is still no application code here—only the data, notebooks and rendered 
 * **[analysis/](https://github.com/Castro-Media/Analysis/tree/main/analysis)** — contains one sub-directory per research project. Inside each project folder you keep the working notebook, a rendered Markdown version of that notebook, and any static figures (PNG, SVG) the analysis produces.
 * **`assets/js/`** — custom scripts powering interactive DataTables and charts.
 * Each dataset folder has an `index.md` page generated automatically with links to each snapshot and built-in visualizations when possible.
+* Each dataset and analysis folder also contains a `metadata.md` file describing the columns and providing a short blurb. These metadata files drive the project and data lists at the top of this page.
+* News feeds are organized by region under `data/news/<region>/<source>/`.
 
 ---
 
