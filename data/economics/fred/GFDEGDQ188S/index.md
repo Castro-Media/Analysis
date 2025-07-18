@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fred - US Federal Debt: Total Public Debt as Percent of Gross Domestic Product
+title: "fred - US Federal Debt: Total Public Debt as Percent of Gross Domestic Product"
 date: 2025-07-07T16:29
 category: economics
 source: fred
