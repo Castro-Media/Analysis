@@ -10,7 +10,7 @@ title: Home
 <div markdown="0">
 
 <ul>
-{% assign metas = site.pages | where: "name", "metadata.md" | sort: "folder" %}
+{% assign metas = site.pages | where: "name", "index.md" | sort: "folder" %}
 {% for m in metas %}
 {% if m.path contains "analysis/" %}
   {% assign idx_path = m.path | replace: 'metadata.md', 'index.md' %}
@@ -29,7 +29,7 @@ title: Home
 <div markdown="0">
 
 <ul>
-{% assign metas = site.pages | where: "name", "metadata.md" | sort: "folder" %}
+{% assign metas = site.pages | where: "name", "index.md" | sort: "folder" %}
 {% for m in metas %}
 {% if m.path contains "data/" %}
   {% assign idx_path = m.path | replace: 'metadata.md', 'index.md' %}
