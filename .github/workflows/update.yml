@@ -27,18 +27,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install jupyter nbconvert
 
-      - name: Execute update notebook
+      - name: Execute run notebook
         run: |
-          jupyter nbconvert --to notebook --execute data/update.ipynb --output update.ipynb --output-dir data
+          jupyter nbconvert --to notebook --execute run.ipynb --output run.ipynb --output-dir .
 
       - name: Create pull request
         id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
-          commit-message: 'Automated data update'
-          branch: data-refresh
-          title: 'Automated data update'
-          body: 'This PR contains results from running `data/update.ipynb`.'
+          commit-message: 'Automated pipeline run'
+          branch: pipeline-run
+          title: 'Automated pipeline run'
+          body: 'This PR contains results from running `run.ipynb`.'
           delete-branch: true
           merge: true
           merge-method: squash
