@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fred - US Federal Debt: Total US Public Debt
+title: "fred - US Federal Debt: Total US Public Debt"
 date: 2025-07-07T16:29
 category: economics
 source: fred
