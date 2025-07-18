@@ -2,6 +2,16 @@
 layout: default
 title: bbc - BBC News Business
 date: 2025-07-16T15:53
+category: news-business
+source: bbc
+filetype: rss
+folder: news-business-bbc
+url: "https://feeds.bbci.co.uk/news/business/rss.xml"
+api_key: 
+cadence: hourly
+last_fetched: "2025-07-16T17:52"
+description: BBC News Business
+link: "http://bbc.co.uk"
 ---
 
 ## bbc - BBC News Business
