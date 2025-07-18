@@ -6,12 +6,12 @@ category: news-us
 source: wapo
 filetype: rss
 folder: news-us-wapo
-url: "http://feeds.washingtonpost.com/rss/national"
-api_key: 
+url: http://feeds.washingtonpost.com/rss/national
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T22:52
 description: US News from the Washington Post
-link: "https://www.washingtonpost.com"
+link: https://www.washingtonpost.com
 ---
 
 ## wapo - US News from the Washington Post
