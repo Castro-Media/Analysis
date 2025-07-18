@@ -6,12 +6,12 @@ category: news-world
 source: wapo
 filetype: rss
 folder: news-world-wapo
-url: "https://feeds.washingtonpost.com/rss/world"
-api_key: 
+url: https://feeds.washingtonpost.com/rss/world
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T16:56"
+last_fetched: 2025-07-18T15:32
 description: World News from the Washington Post
-link: "https://www.washingtonpost.com"
+link: https://www.washingtonpost.com
 ---
 
 ## wapo - World News from the Washington Post

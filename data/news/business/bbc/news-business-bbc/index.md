@@ -6,12 +6,12 @@ category: news-business
 source: bbc
 filetype: rss
 folder: news-business-bbc
-url: "https://feeds.bbci.co.uk/news/business/rss.xml"
-api_key: 
+url: https://feeds.bbci.co.uk/news/business/rss.xml
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T15:32
 description: BBC News Business
-link: "http://bbc.co.uk"
+link: http://bbc.co.uk
 ---
 
 ## bbc - BBC News Business

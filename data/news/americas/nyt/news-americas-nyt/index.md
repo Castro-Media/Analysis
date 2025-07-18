@@ -6,12 +6,12 @@ category: news-americas
 source: nyt
 filetype: rss
 folder: news-americas-nyt
-url: "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml"
-api_key: 
+url: https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T15:32
 description: Americas' News from the New York Times
-link: "https://www.nytimes.com"
+link: https://www.nytimes.com
 ---
 
 ## nyt - Americas' News from the New York Times

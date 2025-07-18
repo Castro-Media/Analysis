@@ -6,12 +6,12 @@ category: news-politics
 source: nypost
 filetype: rss
 folder: news-us-politics-nypost
-url: "https://nypost.com/politics/feed/"
-api_key: 
+url: https://nypost.com/politics/feed/
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T15:32
 description: US Politics News from the New York Post
-link: "https://nypost.com"
+link: https://nypost.com
 ---
 
 ## nypost - US Politics News from the New York Post

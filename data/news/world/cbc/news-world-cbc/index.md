@@ -6,12 +6,12 @@ category: news-world
 source: cbc
 filetype: rss
 folder: news-world-cbc
-url: "https://www.cbc.ca/webfeed/rss/rss-world"
-api_key: 
+url: https://www.cbc.ca/webfeed/rss/rss-world
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T15:32
 description: CBC | World News
-link: "https://cbc.ca"
+link: https://cbc.ca
 ---
 
 ## cbc - CBC | World News

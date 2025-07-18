@@ -6,12 +6,12 @@ category: news-europe
 source: bbc
 filetype: rss
 folder: news-europe-bbc
-url: "http://feeds.bbci.co.uk/news/world/europe/rss.xml"
-api_key: 
+url: http://feeds.bbci.co.uk/news/world/europe/rss.xml
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T15:32
 description: BBC News Europe
-link: "http://bbc.co.uk"
+link: http://bbc.co.uk
 ---
 
 ## bbc - BBC News Europe

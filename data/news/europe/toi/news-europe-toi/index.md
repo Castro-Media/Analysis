@@ -1,17 +1,19 @@
 ---
 layout: default
-title: toi - Europe News Headlines, Latest Europe News and Live Updates - Times of India
+title: toi - Europe News Headlines, Latest Europe News and Live Updates - Times of
+  India
 date: 2025-07-16T15:53
 category: news-europe
 source: toi
 filetype: rss
 folder: news-europe-toi
-url: "http://timesofindia.indiatimes.com/rssfeeds/1898274.cms"
-api_key: 
+url: http://timesofindia.indiatimes.com/rssfeeds/1898274.cms
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
-description: Europe News Headlines, Latest Europe News and Live Updates - Times of India
-link: "http://indiatimes.com"
+last_fetched: 2025-07-18T15:32
+description: Europe News Headlines, Latest Europe News and Live Updates - Times of
+  India
+link: http://indiatimes.com
 ---
 
 ## toi - Europe News Headlines, Latest Europe News and Live Updates - Times of India

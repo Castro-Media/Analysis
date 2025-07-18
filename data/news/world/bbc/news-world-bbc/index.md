@@ -6,12 +6,12 @@ category: news-world
 source: bbc
 filetype: rss
 folder: news-world-bbc
-url: "https://feeds.bbci.co.uk/news/world/rss.xml"
-api_key: 
+url: https://feeds.bbci.co.uk/news/world/rss.xml
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T15:32
 description: BBC News World
-link: "http://bbc.co.uk"
+link: http://bbc.co.uk
 ---
 
 ## bbc - BBC News World

@@ -1,26 +1,14 @@
 ---
 layout: default
 title: Data Source Dashboard
-date: 2025-07-16 20:54:16
-category: analysis
-folder: dashboard
-description: A summary of all data sources and their current headline counts.
-columns:
-  - path
-  - filetype
-  - last_fetched
-  - headline_count
-  - last_24h_count
-dependencies:
-  - analysis/headlines
-  - data
+date: 2025-07-18 22:34:03
 ---
 
 ## Data Source Dashboard
 
 A summary of all data sources and their current headline counts.
 
-<p>Last updated: <strong>2025-07-16 20:54:16</strong></p>
+<p>Last updated: <strong>2025-07-18 22:34:03</strong></p>
 
 <div id="dashboard-table"></div>
 <script>

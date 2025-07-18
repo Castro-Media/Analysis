@@ -6,12 +6,12 @@ category: news-europe
 source: nyt
 filetype: rss
 folder: news-europe-nyt
-url: "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
-api_key: 
+url: https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml
+api_key: null
 cadence: hourly
-last_fetched: "2025-07-16T17:52"
+last_fetched: 2025-07-18T15:32
 description: Europe News from the New York Times
-link: "https://www.nytimes.com"
+link: https://www.nytimes.com
 ---
 
 ## nyt - Europe News from the New York Times
