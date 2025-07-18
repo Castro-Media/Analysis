@@ -2,6 +2,17 @@
 layout: default
 title: Top News Topics
 date: 2025-06-05
+category: analysis
+folder: news-topics
+description: Highlights news stories by scoring and ranking the latest headlines.
+columns:
+  - score
+  - pubdate
+  - source
+  - title
+  - link
+dependencies:
+  - analysis/headlines
 ---
 
 ## Top News Topics
