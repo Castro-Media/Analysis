@@ -9,7 +9,7 @@ folder: news-europe-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml
 api_key: null
 cadence: hourly
-last_fetched: 2025-07-19T18:54
+last_fetched: 2025-07-19T20:53
 description: Europe News from the New York Times
 link: https://www.nytimes.com
 ---
