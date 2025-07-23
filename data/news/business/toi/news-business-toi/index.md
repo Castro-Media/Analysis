@@ -10,7 +10,7 @@ folder: news-business-toi
 url: http://timesofindia.indiatimes.com/rssfeeds/1898055.cms
 api_key: null
 cadence: hourly
-last_fetched: 2025-07-23T20:54
+last_fetched: 2025-07-23T22:53
 description: 'Latest Business News Today: Stock Markets, Financial News, India Business
   & World Business News'
 link: http://indiatimes.com
