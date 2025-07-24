@@ -1,314 +1,314 @@
 [
   {
-    "title": "bbc - BBC News Africa",
-    "category": "news-africa",
-    "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\africa\\bbc\\news-africa-bbc"
-  },
-  {
-    "title": "nyt - Africa News from the New York Times",
-    "category": "news-africa",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\africa\\nyt\\news-africa-nyt"
-  },
-  {
-    "title": "nyt - Americas' News from the New York Times",
-    "category": "news-americas",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\americas\\nyt\\news-americas-nyt"
-  },
-  {
-    "title": "bbc - BBC News Asia",
-    "category": "news-asia",
-    "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\asia\\bbc\\news-asia-bbc"
-  },
-  {
-    "title": "dw - Asia News from Deutsche Welle",
-    "category": "news-asia",
-    "source": "dw",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\asia\\dw\\news-asia-dw"
-  },
-  {
-    "title": "nyt - Asia News from the New York Times",
-    "category": "news-asia",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\asia\\nyt\\news-asia-nyt"
-  },
-  {
-    "title": "bbc - BBC News Business",
-    "category": "news-business",
-    "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\bbc\\news-business-bbc"
-  },
-  {
-    "title": "chitri - Business News from the Chicago Tribune",
-    "category": "news-business",
-    "source": "chitri",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\chitri\\news-business-chi-tribune"
-  },
-  {
     "title": "dw - Business News from Deutsche Welle",
     "category": "news-business",
     "source": "dw",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\dw\\news-business-dw"
-  },
-  {
-    "title": "latimes - Business News from the Los Angeles Times",
-    "category": "news-business",
-    "source": "latimes",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\latimes\\latimes-business"
-  },
-  {
-    "title": "nypost - Business News from the New York Post",
-    "category": "news-business",
-    "source": "nypost",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\nypost\\news-business-nypost"
-  },
-  {
-    "title": "nyt - Business News from the New York Times",
-    "category": "news-business",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\nyt\\news-business-nyt"
-  },
-  {
-    "title": "startribune - Business News from the Star Tribune",
-    "category": "news-business",
-    "source": "startribune",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\startribune\\news-us-business-startribune"
-  },
-  {
-    "title": "toi - Latest Business News Today: Stock Markets, Financial News, India Business & World Business News",
-    "category": "news-business",
-    "source": "toi",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\toi\\news-business-toi"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/dw/news-business-dw"
   },
   {
     "title": "wapo - Business News from the Washington Post",
     "category": "news-business",
     "source": "wapo",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\wapo\\news-business-wapo"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/wapo/news-business-wapo"
+  },
+  {
+    "title": "latimes - Business News from the Los Angeles Times",
+    "category": "news-business",
+    "source": "latimes",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/latimes/latimes-business"
+  },
+  {
+    "title": "chitri - Business News from the Chicago Tribune",
+    "category": "news-business",
+    "source": "chitri",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/chitri/news-business-chi-tribune"
+  },
+  {
+    "title": "startribune - Business News from the Star Tribune",
+    "category": "news-business",
+    "source": "startribune",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/startribune/news-us-business-startribune"
+  },
+  {
+    "title": "nypost - Business News from the New York Post",
+    "category": "news-business",
+    "source": "nypost",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/nypost/news-business-nypost"
+  },
+  {
+    "title": "nyt - Business News from the New York Times",
+    "category": "news-business",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/nyt/news-business-nyt"
   },
   {
     "title": "wsj - US Business News from the Wall Street Journal",
     "category": "news-business",
     "source": "wsj",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\wsj\\news-business-wsj"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/wsj/news-business-wsj"
   },
   {
     "title": "wsj - US Market News from the Wall Street Journal",
     "category": "news-business",
     "source": "wsj",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\business\\wsj\\news-markets-wsj"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/wsj/news-markets-wsj"
   },
   {
-    "title": "nyt - Economic News from the New York Times",
-    "category": "news-economy",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\economy\\nyt\\news-economy-nyt"
+    "title": "toi - Latest Business News Today: Stock Markets, Financial News, India Business & World Business News",
+    "category": "news-business",
+    "source": "toi",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/toi/news-business-toi"
   },
   {
-    "title": "wsj - US Economy News from the Wall Street Journal",
-    "category": "news-economy",
-    "source": "wsj",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\economy\\wsj\\news-economy-wsj"
-  },
-  {
-    "title": "bbc - BBC News Europe",
-    "category": "news-europe",
+    "title": "bbc - BBC News Business",
+    "category": "news-business",
     "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\europe\\bbc\\news-europe-bbc"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/business/bbc/news-business-bbc"
   },
   {
     "title": "dw - Europe News from Deutsche Welle",
     "category": "news-europe",
     "source": "dw",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\europe\\dw\\news-europe-dw"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/europe/dw/news-europe-dw"
   },
   {
     "title": "nyt - Europe News from the New York Times",
     "category": "news-europe",
     "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\europe\\nyt\\news-europe-nyt"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/europe/nyt/news-europe-nyt"
   },
   {
     "title": "toi - Europe News Headlines, Latest Europe News and Live Updates - Times of India",
     "category": "news-europe",
     "source": "toi",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\europe\\toi\\news-europe-toi"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/europe/toi/news-europe-toi"
+  },
+  {
+    "title": "bbc - BBC News Europe",
+    "category": "news-europe",
+    "source": "bbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/europe/bbc/news-europe-bbc"
+  },
+  {
+    "title": "nyt - Economic News from the New York Times",
+    "category": "news-economy",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/economy/nyt/news-economy-nyt"
+  },
+  {
+    "title": "wsj - US Economy News from the Wall Street Journal",
+    "category": "news-economy",
+    "source": "wsj",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/economy/wsj/news-economy-wsj"
   },
   {
     "title": "bbc - BBC News Latin America",
     "category": "news-latin-america",
     "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\latin-america\\bbc\\news-latin-america-bbc"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/latin-america/bbc/news-latin-america-bbc"
   },
   {
-    "title": "bbc - BBC News Middle East",
-    "category": "news-middle-east",
-    "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\middle-east\\bbc\\news-middle-east-bbc"
-  },
-  {
-    "title": "nyt - Middle East News from the New York Times",
-    "category": "news-middle-east",
+    "title": "nyt - Americas' News from the New York Times",
+    "category": "news-americas",
     "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\middle-east\\nyt\\news-middle-east-nyt"
-  },
-  {
-    "title": "toi - Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India",
-    "category": "news-middle-east",
-    "source": "toi",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\middle-east\\toi\\news-middle-east-toi"
-  },
-  {
-    "title": "bbc - BBC News Politics",
-    "category": "news-politics",
-    "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\bbc\\news-politics-bbc"
-  },
-  {
-    "title": "cbc - CBC | Politics News",
-    "category": "news-politics",
-    "source": "cbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\cbc\\news-politics-cbc"
-  },
-  {
-    "title": "chitri - US Politics News from the Chicago Tribune",
-    "category": "news-politics",
-    "source": "chitri",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\chitri\\news-us-politics-chi-tribune"
-  },
-  {
-    "title": "latimes - US Politics News from the Los Angeles Times",
-    "category": "news-politics",
-    "source": "latimes",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\latimes\\latimes-us-politics"
-  },
-  {
-    "title": "nypost - US Politics News from the New York Post",
-    "category": "news-politics",
-    "source": "nypost",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\nypost\\news-us-politics-nypost"
-  },
-  {
-    "title": "nyt - US Politics News from the New York Times",
-    "category": "news-politics",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\nyt\\news-us-politics-nyt"
-  },
-  {
-    "title": "wapo - US Politics News from the Washington Post",
-    "category": "news-politics",
-    "source": "wapo",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\wapo\\news-us-politics-wapo"
-  },
-  {
-    "title": "wsj - US Politics News from the Wall Street Journal",
-    "category": "news-politics",
-    "source": "wsj",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\politics\\wsj\\news-us-politics-wsj"
-  },
-  {
-    "title": "dw - Top News from Deutsche Welle",
-    "category": "news-top",
-    "source": "dw",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\top\\dw\\news-top-dw"
-  },
-  {
-    "title": "bbc - BBC News US & Canada",
-    "category": "news-us",
-    "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\us\\bbc\\news-us-bbc"
-  },
-  {
-    "title": "latimes - US News from the Los Angeles Times",
-    "category": "news-us",
-    "source": "latimes",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\us\\latimes\\latimes-us"
-  },
-  {
-    "title": "nypost - US News from the New York Post",
-    "category": "news-us",
-    "source": "nypost",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\us\\nypost\\news-us-nypost"
-  },
-  {
-    "title": "nyt - US News from the New York Times",
-    "category": "news-us",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\us\\nyt\\news-us-nyt"
-  },
-  {
-    "title": "toi - US News from the Times of India",
-    "category": "news-us",
-    "source": "toi",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\us\\toi\\news-us-toi"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/americas/nyt/news-americas-nyt"
   },
   {
     "title": "wapo - US News from the Washington Post",
     "category": "news-us",
     "source": "wapo",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\us\\wapo\\news-us-wapo"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/us/wapo/news-us-wapo"
+  },
+  {
+    "title": "latimes - US News from the Los Angeles Times",
+    "category": "news-us",
+    "source": "latimes",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/us/latimes/latimes-us"
+  },
+  {
+    "title": "nypost - US News from the New York Post",
+    "category": "news-us",
+    "source": "nypost",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/us/nypost/news-us-nypost"
+  },
+  {
+    "title": "nyt - US News from the New York Times",
+    "category": "news-us",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/us/nyt/news-us-nyt"
   },
   {
     "title": "wsj - US News from the Wall Street Journal",
     "category": "news-us",
     "source": "wsj",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\us\\wsj\\news-us-wsj"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/us/wsj/news-us-wsj"
   },
   {
-    "title": "bbc - BBC News World",
-    "category": "news-world",
+    "title": "toi - US News from the Times of India",
+    "category": "news-us",
+    "source": "toi",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/us/toi/news-us-toi"
+  },
+  {
+    "title": "bbc - BBC News US & Canada",
+    "category": "news-us",
     "source": "bbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\bbc\\news-world-bbc"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/us/bbc/news-us-bbc"
   },
   {
-    "title": "cbc - CBC | World News",
-    "category": "news-world",
-    "source": "cbc",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\cbc\\news-world-cbc"
+    "title": "nyt - Middle East News from the New York Times",
+    "category": "news-middle-east",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/middle-east/nyt/news-middle-east-nyt"
   },
   {
-    "title": "chitri - Chicago News from the Chicago Tribune",
-    "category": "news-world",
+    "title": "toi - Gulf News, Latest Middle East News Headlines & Live News Updates - Times of India",
+    "category": "news-middle-east",
+    "source": "toi",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/middle-east/toi/news-middle-east-toi"
+  },
+  {
+    "title": "bbc - BBC News Middle East",
+    "category": "news-middle-east",
+    "source": "bbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/middle-east/bbc/news-middle-east-bbc"
+  },
+  {
+    "title": "wapo - US Politics News from the Washington Post",
+    "category": "news-politics",
+    "source": "wapo",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/wapo/news-us-politics-wapo"
+  },
+  {
+    "title": "latimes - US Politics News from the Los Angeles Times",
+    "category": "news-politics",
+    "source": "latimes",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/latimes/latimes-us-politics"
+  },
+  {
+    "title": "chitri - US Politics News from the Chicago Tribune",
+    "category": "news-politics",
     "source": "chitri",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\chitri\\news-world-chi-tribune"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/chitri/news-us-politics-chi-tribune"
+  },
+  {
+    "title": "nypost - US Politics News from the New York Post",
+    "category": "news-politics",
+    "source": "nypost",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/nypost/news-us-politics-nypost"
+  },
+  {
+    "title": "nyt - US Politics News from the New York Times",
+    "category": "news-politics",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/nyt/news-us-politics-nyt"
+  },
+  {
+    "title": "wsj - US Politics News from the Wall Street Journal",
+    "category": "news-politics",
+    "source": "wsj",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/wsj/news-us-politics-wsj"
+  },
+  {
+    "title": "bbc - BBC News Politics",
+    "category": "news-politics",
+    "source": "bbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/bbc/news-politics-bbc"
+  },
+  {
+    "title": "cbc - CBC | Politics News",
+    "category": "news-politics",
+    "source": "cbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/politics/cbc/news-politics-cbc"
+  },
+  {
+    "title": "dw - Top News from Deutsche Welle",
+    "category": "news-top",
+    "source": "dw",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/top/dw/news-top-dw"
+  },
+  {
+    "title": "dw - Asia News from Deutsche Welle",
+    "category": "news-asia",
+    "source": "dw",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/asia/dw/news-asia-dw"
+  },
+  {
+    "title": "nyt - Asia News from the New York Times",
+    "category": "news-asia",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/asia/nyt/news-asia-nyt"
+  },
+  {
+    "title": "bbc - BBC News Asia",
+    "category": "news-asia",
+    "source": "bbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/asia/bbc/news-asia-bbc"
+  },
+  {
+    "title": "nyt - Africa News from the New York Times",
+    "category": "news-africa",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/africa/nyt/news-africa-nyt"
+  },
+  {
+    "title": "bbc - BBC News Africa",
+    "category": "news-africa",
+    "source": "bbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/africa/bbc/news-africa-bbc"
   },
   {
     "title": "dw - World News from Deutsche Welle",
     "category": "news-world",
     "source": "dw",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\dw\\news-world-dw"
-  },
-  {
-    "title": "nypost - World News from the New York Post",
-    "category": "news-world",
-    "source": "nypost",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\nypost\\news-world-nypost"
-  },
-  {
-    "title": "nyt - World News from the New York Times",
-    "category": "news-world",
-    "source": "nyt",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\nyt\\news-world-nyt"
-  },
-  {
-    "title": "toi - World News from the Times of India",
-    "category": "news-world",
-    "source": "toi",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\toi\\news-world-toi"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/dw/news-world-dw"
   },
   {
     "title": "wapo - World News from the Washington Post",
     "category": "news-world",
     "source": "wapo",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\wapo\\news-world-wapo"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/wapo/news-world-wapo"
+  },
+  {
+    "title": "chitri - Chicago News from the Chicago Tribune",
+    "category": "news-world",
+    "source": "chitri",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/chitri/news-world-chi-tribune"
+  },
+  {
+    "title": "nypost - World News from the New York Post",
+    "category": "news-world",
+    "source": "nypost",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/nypost/news-world-nypost"
+  },
+  {
+    "title": "nyt - World News from the New York Times",
+    "category": "news-world",
+    "source": "nyt",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/nyt/news-world-nyt"
   },
   {
     "title": "wsj - World News from the Wall Street Journal",
     "category": "news-world",
     "source": "wsj",
-    "path": "c:\\Users\\cj\\Documents\\GitHub\\Analysis\\data\\news\\world\\wsj\\news-world-wsj"
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/wsj/news-world-wsj"
+  },
+  {
+    "title": "toi - World News from the Times of India",
+    "category": "news-world",
+    "source": "toi",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/toi/news-world-toi"
+  },
+  {
+    "title": "bbc - BBC News World",
+    "category": "news-world",
+    "source": "bbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/bbc/news-world-bbc"
+  },
+  {
+    "title": "cbc - CBC | World News",
+    "category": "news-world",
+    "source": "cbc",
+    "path": "/home/runner/work/Analysis/Analysis/data/news/world/cbc/news-world-cbc"
   }
 ]
