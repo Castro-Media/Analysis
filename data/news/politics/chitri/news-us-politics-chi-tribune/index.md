@@ -9,7 +9,7 @@ folder: news-us-politics-chi-tribune
 url: https://www.chicagotribune.com/arc/outboundfeeds/rss/section/politics/&sort=display_date:desc/
 api_key: null
 cadence: hourly
-last_fetched: 2025-07-24T22:53
+last_fetched: 2025-07-25T01:15
 description: US Politics News from the Chicago Tribune
 link: https://www.chicagotribune.com
 ---
