@@ -9,7 +9,7 @@ folder: news-us-politics-wsj
 url: https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed
 api_key: null
 cadence: hourly
-last_fetched: 2025-07-27T06:56
+last_fetched: 2025-07-27T08:54
 description: US Politics News from the Wall Street Journal
 link: https://www.wsj.com
 ---
