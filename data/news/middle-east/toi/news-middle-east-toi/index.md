@@ -10,7 +10,7 @@ folder: news-middle-east-toi
 url: http://timesofindia.indiatimes.com/rssfeeds/1898272.cms
 api_key: null
 cadence: hourly
-last_fetched: 2025-07-28T05:29
+last_fetched: 2025-07-28T06:59
 description: Gulf News, Latest Middle East News Headlines & Live News Updates - Times
   of India
 link: http://indiatimes.com
