@@ -9,7 +9,7 @@ folder: latimes-us
 url: https://www.latimes.com/local/rss2.0.xml
 api_key: null
 cadence: hourly
-last_fetched: 2025-07-29T13:07
+last_fetched: 2025-07-29T14:56
 description: US News from the Los Angeles Times
 link: https://www.latimes.com
 ---
