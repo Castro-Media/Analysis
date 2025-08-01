@@ -9,7 +9,7 @@ folder: news-us-wapo
 url: http://feeds.washingtonpost.com/rss/national
 api_key: null
 cadence: hourly
-last_fetched: 2025-08-01T16:56
+last_fetched: 2025-08-01T18:57
 description: US News from the Washington Post
 link: https://www.washingtonpost.com
 ---
