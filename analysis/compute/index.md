@@ -5,9 +5,58 @@ title: Compute
 
 # Compute
 
-This project catalogues estimated int8 compute accessible to different actors.
+This project catalogues estimated int8 compute accessible to different actors. The chart compares relative compute power of different classes of entities, versus stakeholder counts.
 
 - [Oligarchs](./oligarchs/)
 - [Empires](./empires/)
 - [Institutions](./institutions/)
 - [Individuals](./individuals/)
+
+<a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
+
+<div id="data-table"></div>
+
+<script>
+$(document).ready(function () {
+    loadCsv();
+});
+
+function loadCsv() {
+    $.get('data.csv', function (text) {
+        renderTable(text);
+    });
+}
+
+function renderTable(text) {
+    const rows = text.trim().split('\n');
+    const headers = rows[0].split(',');
+    const table = $('<table id="mmlu-table" class="tablesorter"></table>');
+    const thead = $('<thead></thead>');
+    const tbody = $('<tbody></tbody>');
+    const headerRow = $('<tr></tr>');
+
+    headers.forEach(function (header) {
+        headerRow.append($('<th></th>').text(header));
+    });
+    
+    thead.append(headerRow);
+    table.append(thead);
+
+    for (let i = 1; i < rows.length; i++) {
+        const cells = rows[i].split(',');
+        const row = $('<tr></tr>');
+
+        cells.forEach(function (cell) {
+            row.append($('<td></td>').text(cell));
+        });
+
+        tbody.append(row);
+    }
+
+    table.append(tbody);
+    $('#data-table').empty().append(table);
+    $('#mmlu-table').tablesorter();
+    $('#mmlu-table').addClass('tablesorter');
+    $('#mmlu-table').addClass('tablesorter-ice');
+}
+</script>
