@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Compute
+description: Catalogues estimated int8 compute accessible to different actors.
 ---
 
 # Compute
