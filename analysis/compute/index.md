@@ -14,8 +14,11 @@ The chart compares relative compute power of different classes of entities, vers
 
 {% assign entity_pages = site.pages | where_exp: "page", "page.path contains 'analysis/compute/entities/'" | sort: "title" %}
 {% for entity in entity_pages %}
+{% if entity.title != 'Government of Japan' %}
 - [{{ entity.title }}]({{ entity.url | relative_url }})
+{% endif %}
 {% endfor %}
+- [Government of Japan](entities/government-of-japan)
 
 <a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
 
