@@ -6,18 +6,18 @@ description: Catalogues estimated int8 compute accessible to different actors.
 
 # Compute
 
-This project catalogues estimated int8 compute accessible to different actors. You will notice that OpenAI is absent; they don't own any hardware, they rent it from Microsoft. This is a list of people/groups who own and control decisions about how ai compute is used.
+This project catalogues estimated int8 compute accessible to different actors. You will notice
+that OpenAI is absent; they don't own any hardware, they rent it from Microsoft. This is a
+list of people or groups who own and control decisions about how AI compute is used.
 
-The chart compares relative compute power of different classes of entities, versus stakeholder counts:
+<a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
+
+<div id="data-table"></div>
 
 {% assign entity_pages = site.pages | where_exp: "page", "page.path contains 'analysis/compute/entities/'" | sort: "title" %}
 {% for entity in entity_pages %}
 - [{{ entity.title }}]({{ entity.url | relative_url }})
 {% endfor %}
-
-<a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
-
-<div id="data-table"></div>
 
 <script>
 $(document).ready(function () {

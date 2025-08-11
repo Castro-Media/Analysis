@@ -1,6 +1,6 @@
 Entities must include citations to justify the values they provide.
 
-
+Agents should not commit updates to any atifacts such as data.csv or chart.svg. These are generated when the analysis runs.
 
 
 
