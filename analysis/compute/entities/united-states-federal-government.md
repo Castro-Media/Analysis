@@ -2,6 +2,7 @@
 layout: default
 title: United States Federal Government
 name: United States Federal Government
+category: empires
 compute: 5e18
 stakeholder: 600
 ---

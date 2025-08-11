@@ -2,6 +2,7 @@
 layout: default
 title: Amazon
 name: Amazon
+category: institutions
 compute: 4e19
 stakeholder: 15
 ---

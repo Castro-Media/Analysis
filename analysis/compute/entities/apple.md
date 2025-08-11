@@ -2,6 +2,7 @@
 layout: default
 title: Apple
 name: Apple
+category: institutions
 compute: 2e18
 stakeholder: 12
 ---

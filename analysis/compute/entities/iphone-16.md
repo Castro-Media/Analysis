@@ -2,6 +2,7 @@
 layout: default
 title: iPhone 16
 name: iPhone 16
+category: individuals
 compute: 8.6e12
 stakeholder: 1
 ---
