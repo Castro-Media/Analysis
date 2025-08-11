@@ -6,8 +6,7 @@ description: Catalogues estimated int8 compute accessible to different actors.
 
 # Compute
 
-This project catalogues estimated int8 compute accessible to different actors. The chart compares relative compute power of different classes of entities, versus stakeholder counts.
-
+This project catalogues estimated int8 compute accessible to different actors. The chart compares relative compute power of different classes of entities, versus stakeholder counts:
 - [Amazon](./entities/amazon.md)
 - [Apple](./entities/apple.md)
 - [California State University](./entities/california-state-university.md)
