@@ -8,6 +8,8 @@ description: Catalogues estimated int8 compute accessible to different actors.
 
 This project catalogues estimated int8 compute accessible to different actors. You will notice that OpenAI is absent; they don't own any hardware, they rent it from Microsoft. This is a list of people/groups who own and control decisions about how ai compute is used.
 
+Recent entries include state actors such as the [European Union](entities/european-union).
+
 The chart compares relative compute power of different classes of entities, versus stakeholder counts:
 
 {% assign entity_pages = site.pages | where_exp: "page", "page.path contains 'analysis/compute/entities/'" | sort: "title" %}
