@@ -2,7 +2,7 @@
 layout: default
 title: University of Tokyo
 name: University of Tokyo
-category: state actors
+category: academia
 compute: 1e17
 stakeholder: 60
 ---

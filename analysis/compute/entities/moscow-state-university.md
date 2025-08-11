@@ -2,7 +2,7 @@
 layout: default
 title: Moscow State University
 name: Moscow State University
-category: state actors
+category: academia
 compute: 2e17
 stakeholder: 70
 ---

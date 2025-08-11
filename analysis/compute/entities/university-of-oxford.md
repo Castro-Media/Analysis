@@ -2,7 +2,7 @@
 layout: default
 title: University of Oxford
 name: University of Oxford
-category: state actors
+category: academia
 compute: 8e15
 stakeholder: 50
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Tsinghua University
 name: Tsinghua University
-category: state actors
+category: academia
 compute: 1e18
 stakeholder: 80
 ---

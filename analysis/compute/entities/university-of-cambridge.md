@@ -2,7 +2,7 @@
 layout: default
 title: University of Cambridge
 name: University of Cambridge
-category: state actors
+category: academia
 compute: 5e16
 stakeholder: 60
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: University of Texas at Austin
 name: University of Texas at Austin
-category: state actors
+category: academia
 compute: 3e17
 stakeholder: 100
 ---

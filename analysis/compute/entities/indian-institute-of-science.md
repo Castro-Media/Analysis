@@ -2,7 +2,7 @@
 layout: default
 title: Indian Institute of Science
 name: Indian Institute of Science
-category: state actors
+category: academia
 compute: 3e16
 stakeholder: 50
 ---

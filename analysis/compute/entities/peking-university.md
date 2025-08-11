@@ -2,7 +2,7 @@
 layout: default
 title: Peking University
 name: Peking University
-category: state actors
+category: academia
 compute: 1e17
 stakeholder: 60
 ---

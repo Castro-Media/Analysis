@@ -2,7 +2,7 @@
 layout: default
 title: Seoul National University
 name: Seoul National University
-category: state actors
+category: academia
 compute: 5e16
 stakeholder: 40
 ---

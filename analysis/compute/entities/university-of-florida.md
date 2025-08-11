@@ -2,7 +2,7 @@
 layout: default
 title: University of Florida
 name: University of Florida
-category: state actors
+category: academia
 compute: 7e17
 stakeholder: 50
 ---

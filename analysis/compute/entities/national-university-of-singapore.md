@@ -2,7 +2,7 @@
 layout: default
 title: National University of Singapore
 name: National University of Singapore
-category: state actors
+category: academia
 compute: 8e16
 stakeholder: 60
 ---

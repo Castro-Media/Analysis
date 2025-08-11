@@ -2,7 +2,7 @@
 layout: default
 title: University of Wisconsin–Madison
 name: University of Wisconsin–Madison
-category: state actors
+category: academia
 compute: 6e16
 stakeholder: 70
 ---

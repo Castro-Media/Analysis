@@ -2,7 +2,7 @@
 layout: default
 title: ETH Zürich
 name: ETH Zürich
-category: state actors
+category: academia
 compute: 2e17
 stakeholder: 70
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: University of Michigan
 name: University of Michigan
-category: state actors
+category: academia
 compute: 6e16
 stakeholder: 80
 ---
