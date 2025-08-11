@@ -3,7 +3,7 @@ layout: default
 title: Coral USB Accelerator
 name: Coral USB Accelerator
 category: individuals
-compute: 4e12
+compute: 4e+12
 stakeholders: 1
 ---
 

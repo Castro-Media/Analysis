@@ -3,7 +3,7 @@ layout: default
 title: Russian Federation
 name: Russian Federation
 category: state actor
-compute: 2e17
+compute: 2e+17
 stakeholders: 250
 ---
 

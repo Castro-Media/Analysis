@@ -3,7 +3,7 @@ layout: default
 title: People's Republic of China
 name: People's Republic of China
 category: state actor
-compute: 1e19
+compute: 1e+19
 stakeholders: 500
 ---
 

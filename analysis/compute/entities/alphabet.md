@@ -3,7 +3,7 @@ layout: default
 title: Alphabet
 name: Alphabet
 category: corporation
-compute: 2e19
+compute: 2e+19
 stakeholders: 15
 ---
 

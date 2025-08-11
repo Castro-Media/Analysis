@@ -3,7 +3,7 @@ layout: default
 title: University of Oxford
 name: University of Oxford
 category: academia
-compute: 8e15
+compute: 8e+15
 stakeholders: 50
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Indian Institute of Science
 name: Indian Institute of Science
 category: academia
-compute: 3e16
+compute: 3e+16
 stakeholders: 50
 ---
 

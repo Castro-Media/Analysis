@@ -3,7 +3,7 @@ layout: default
 title: California State University
 name: California State University
 category: academia
-compute: 5e16
+compute: 5e+16
 stakeholders: 200
 ---
 

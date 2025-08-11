@@ -3,7 +3,7 @@ layout: default
 title: United States Federal Government
 name: United States Federal Government
 category: empire
-compute: 5e19
+compute: 5e+19
 stakeholders: 600
 ---
 

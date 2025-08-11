@@ -3,7 +3,7 @@ layout: default
 title: Seoul National University
 name: Seoul National University
 category: academia
-compute: 5e16
+compute: 5e+16
 stakeholders: 40
 ---
 

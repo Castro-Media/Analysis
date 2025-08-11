@@ -3,7 +3,7 @@ layout: default
 title: Jetson Orin NX
 name: Jetson Orin NX
 category: individuals
-compute: 1e14
+compute: 1e+14
 stakeholders: 1
 ---
 

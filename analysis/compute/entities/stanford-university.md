@@ -3,7 +3,7 @@ layout: default
 title: Stanford University
 name: Stanford University
 category: academia
-compute: 1e18
+compute: 1e+18
 stakeholders: 200
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: University of Wisconsin–Madison
 name: University of Wisconsin–Madison
 category: academia
-compute: 6e16
+compute: 6e+16
 stakeholders: 70
 ---
 

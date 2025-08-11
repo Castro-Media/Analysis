@@ -3,7 +3,7 @@ layout: default
 title: Microsoft
 name: Microsoft
 category: corporation
-compute: 2e19
+compute: 2e+19
 stakeholders: 15
 ---
 

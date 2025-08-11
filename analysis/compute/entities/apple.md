@@ -3,7 +3,7 @@ layout: default
 title: Apple
 name: Apple
 category: corporation
-compute: 5e19
+compute: 5e+19
 stakeholders: 12
 ---
 

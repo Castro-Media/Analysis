@@ -3,7 +3,7 @@ layout: default
 title: University of Michigan
 name: University of Michigan
 category: academia
-compute: 6e16
+compute: 6e+16
 stakeholders: 80
 ---
 

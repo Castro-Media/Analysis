@@ -3,7 +3,7 @@ layout: default
 title: University of Florida
 name: University of Florida
 category: academia
-compute: 7e17
+compute: 7e+17
 stakeholders: 50
 ---
 

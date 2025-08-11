@@ -3,7 +3,7 @@ layout: default
 title: Moscow State University
 name: Moscow State University
 category: academia
-compute: 2e17
+compute: 2e+17
 stakeholders: 70
 ---
 
