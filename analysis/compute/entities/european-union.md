@@ -2,9 +2,9 @@
 layout: default
 title: European Union
 name: European Union
-category: state actors
+category: empire
 compute: 1.4e19
-stakeholder: 100
+stakeholders: 100
 ---
 
 The EuroHPC Joint Undertaking coordinates EU-wide investments in high-performance

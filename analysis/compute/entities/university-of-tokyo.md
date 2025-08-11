@@ -4,7 +4,7 @@ title: University of Tokyo
 name: University of Tokyo
 category: academia
 compute: 1e17
-stakeholder: 60
+stakeholders: 60
 ---
 
 The university's Wisteria/BDEC-01 system delivers about 16 petaflops

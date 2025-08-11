@@ -4,7 +4,7 @@ title: University of Oxford
 name: University of Oxford
 category: academia
 compute: 8e15
-stakeholder: 50
+stakeholders: 50
 ---
 
 Oxford's Advanced Research Computing facility offers about 1 petaflop

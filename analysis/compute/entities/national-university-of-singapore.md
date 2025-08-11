@@ -4,7 +4,7 @@ title: National University of Singapore
 name: National University of Singapore
 category: academia
 compute: 8e16
-stakeholder: 60
+stakeholders: 60
 ---
 
 Through Singapore's National Supercomputing Centre, NUS researchers

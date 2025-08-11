@@ -4,7 +4,7 @@ title: Seoul National University
 name: Seoul National University
 category: academia
 compute: 5e16
-stakeholder: 40
+stakeholders: 40
 ---
 
 Seoul National University's supercomputing center operates GPU and CPU

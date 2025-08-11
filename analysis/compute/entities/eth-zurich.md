@@ -4,7 +4,7 @@ title: ETH Zürich
 name: ETH Zürich
 category: academia
 compute: 2e17
-stakeholder: 70
+stakeholders: 70
 ---
 
 ETH Zürich, via the Swiss National Supercomputing Centre, operates Piz

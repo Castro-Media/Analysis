@@ -4,7 +4,7 @@ title: University of Cambridge
 name: University of Cambridge
 category: academia
 compute: 5e16
-stakeholder: 60
+stakeholders: 60
 ---
 
 Cambridge's CSD3 facility supplies around 6 petaflops of FP64

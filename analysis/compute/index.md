@@ -10,7 +10,7 @@ This project catalogues estimated int8 compute accessible to different actors. Y
 that OpenAI is absent; they don't own any hardware, they rent it from Microsoft. This is a
 list of people or groups who own and control decisions about how AI compute is used.
 
-<a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
+<a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus counts of stakeholders." style="width: 100%; height: 100%;"></a>
 
 <div id="data-table"></div>
 

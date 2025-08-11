@@ -4,7 +4,7 @@ title: Moscow State University
 name: Moscow State University
 category: academia
 compute: 2e17
-stakeholder: 70
+stakeholders: 70
 ---
 
 The university's Lomonosov-2 supercomputer peaks near 20 petaflops of

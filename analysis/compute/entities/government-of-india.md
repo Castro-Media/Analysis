@@ -2,9 +2,9 @@
 layout: default
 title: Government of India
 name: Government of India
-category: state actors
+category: state actor
 compute: 1e16
-stakeholder: 100
+stakeholders: 100
 ---
 
 India's National Supercomputing Mission operates systems such as **Pratyush** and **Aaditya**.

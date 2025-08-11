@@ -4,7 +4,7 @@ title: Peking University
 name: Peking University
 category: academia
 compute: 1e17
-stakeholder: 60
+stakeholders: 60
 ---
 
 Peking University's supercomputing platform supports research with

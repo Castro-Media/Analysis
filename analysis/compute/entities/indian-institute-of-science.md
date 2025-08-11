@@ -4,7 +4,7 @@ title: Indian Institute of Science
 name: Indian Institute of Science
 category: academia
 compute: 3e16
-stakeholder: 50
+stakeholders: 50
 ---
 
 IISc hosts the Param Pravega supercomputer with roughly 3 petaflops of

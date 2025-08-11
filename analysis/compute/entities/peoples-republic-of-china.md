@@ -2,9 +2,9 @@
 layout: default
 title: People's Republic of China
 name: People's Republic of China
-category: state actors
+category: state actor
 compute: 1e19
-stakeholder: 500
+stakeholders: 500
 ---
 
 The People's Republic of China operates a network of national supercomputing centers.
