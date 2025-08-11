@@ -10,18 +10,10 @@ This project catalogues estimated int8 compute accessible to different actors. Y
 
 The chart compares relative compute power of different classes of entities, versus stakeholder counts:
 
-- [Alphabet](./entities/alphabet.md)
-- [Amazon](./entities/amazon.md)
-- [Apple](./entities/apple.md)
-- [California State University](./entities/california-state-university.md)
-- [Elon Musk](./entities/elon-musk.md)
-- [iPhone 16](./entities/iphone-16.md)
-- [RTX 4090 PC](./entities/rtx-4090.md)
-- [Meta](./entities/meta.md)
-- [Microsoft](./entities/microsoft.md)
-- [People's Republic of China](./entities/peoples-republic-of-china.md)
-- [United States Federal Government](./entities/united-states-federal-government.md)
-- [University of California](./entities/university-of-california.md)
+{% assign entity_pages = site.pages | where_exp: "page", "page.path contains 'analysis/compute/entities/'" | sort: "title" %}
+{% for entity in entity_pages %}
+- [{{ entity.title }}]({{ entity.url | relative_url }})
+{% endfor %}
 
 <a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
 
