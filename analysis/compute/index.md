@@ -10,11 +10,13 @@ This project catalogues estimated int8 compute accessible to different actors. Y
 
 The chart compares relative compute power of different classes of entities, versus stakeholder counts:
 
+- [Alphabet](./entities/alphabet.md)
 - [Amazon](./entities/amazon.md)
 - [Apple](./entities/apple.md)
 - [California State University](./entities/california-state-university.md)
 - [Elon Musk](./entities/elon-musk.md)
 - [iPhone 16](./entities/iphone-16.md)
+- [RTX 4090 PC](./entities/rtx-4090.md)
 - [Meta](./entities/meta.md)
 - [Microsoft](./entities/microsoft.md)
 - [People's Republic of China](./entities/peoples-republic-of-china.md)
