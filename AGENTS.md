@@ -50,6 +50,9 @@ A lightweight coding standard focused on clarity, simplicity, and vibe.
             + Third-party packages
             + Local application imports
 
+5. Documentation
+    - All functions and cells must be documented with a complete explanation of what's happening.
+
 5. Examples
     - Bad:
         + x=doStuff(y,z); return x+y*z if x>0 else None
