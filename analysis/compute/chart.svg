@@ -1,36 +1,41 @@
-<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+<rect width="100%" height="100%" fill="white"/>
 <line x1="60" y1="440" x2="740" y2="440" stroke="black"/>
 <line x1="60" y1="440" x2="60" y2="60" stroke="black"/>
-<text x="400.0" y="490" text-anchor="middle" font-size="12">Number of stakeholders</text>
-<text x="15" y="250.0" transform="rotate(-90,15,250.0)" text-anchor="middle" font-size="12">Estimated int8 ops per second</text>
-<circle cx="342.81" cy="111.03" r="4" fill="#1f77b4"/>
-<text x="347.81" y="111.03081002401035" font-size="10" alignment-baseline="middle">Amazon</text>
-<circle cx="320.38" cy="174.78" r="4" fill="#1f77b4"/>
-<text x="325.38" y="174.78448862237718" font-size="10" alignment-baseline="middle">Apple</text>
-<circle cx="603.19" cy="272.79" r="4" fill="#d62728"/>
-<text x="608.19" y="272.7894213462074" font-size="10" alignment-baseline="middle">California State University</text>
-<circle cx="70.59" cy="62.03" r="4" fill="#2ca02c"/>
-<text x="75.59" y="62.028343662095324" font-size="10" alignment-baseline="middle">Elon Musk</text>
-<circle cx="70.59" cy="437.76" r="4" fill="#ff7f0e"/>
-<text x="75.59" y="437.7577701079948" font-size="10" alignment-baseline="middle">iPhone 16</text>
-<circle cx="342.81" cy="140.53" r="4" fill="#1f77b4"/>
-<text x="347.81" y="140.5332344969138" font-size="10" alignment-baseline="middle">Meta</text>
-<circle cx="342.81" cy="62.03" r="4" fill="#1f77b4"/>
-<text x="347.81" y="62.028343662095324" font-size="10" alignment-baseline="middle">Microsoft</text>
-<circle cx="695.30" cy="140.53" r="4" fill="#9467bd"/>
-<text x="700.30" y="140.5332344969138" font-size="10" alignment-baseline="middle">People's Republic of China</text>
-<circle cx="713.63" cy="155.28" r="4" fill="#9467bd"/>
-<text x="718.63" y="155.28444673336548" font-size="10" alignment-baseline="middle">United States Federal Government</text>
-<circle cx="643.95" cy="160.03" r="4" fill="#d62728"/>
-<text x="648.95" y="160.0332763859255" font-size="10" alignment-baseline="middle">University of California</text>
+<circle cx="347.87" cy="109.56" r="4" fill="#1f77b4"/>
+<text x="352.87" y="104.56" font-size="10">Amazon</text>
+<circle cx="347.87" cy="89.84" r="4" fill="#1f77b4"/>
+<text x="352.87" y="84.84" font-size="10">Alphabet</text>
+<circle cx="324.15" cy="174.04" r="4" fill="#1f77b4"/>
+<text x="329.15" y="169.04" font-size="10">Apple</text>
+<circle cx="623.22" cy="273.16" r="4" fill="#d62728"/>
+<text x="628.22" y="268.16" font-size="10">California State University</text>
+<circle cx="60.00" cy="60.00" r="4" fill="#2ca02c"/>
+<text x="65.00" y="55.00" font-size="10">Elon Musk</text>
+<circle cx="60.00" cy="440.00" r="4" fill="#ff7f0e"/>
+<text x="65.00" y="435.00" font-size="10">iPhone 16</text>
+<circle cx="347.87" cy="139.40" r="4" fill="#1f77b4"/>
+<text x="352.87" y="134.40" font-size="10">Meta</text>
+<circle cx="720.62" cy="139.40" r="4" fill="#9467bd"/>
+<text x="725.62" y="134.40" font-size="10">People's Republic of China</text>
+<circle cx="646.94" cy="223.60" r="4" fill="#8c564b"/>
+<text x="651.94" y="218.60" font-size="10">Russian Federation</text>
+<circle cx="60.00" cy="288.08" r="4" fill="#ff7f0e"/>
+<text x="65.00" y="283.08" font-size="10">RTX 4090 PC</text>
+<circle cx="740.00" cy="154.32" r="4" fill="#9467bd"/>
+<text x="745.00" y="149.32" font-size="10">United States Federal Government</text>
+<circle cx="666.32" cy="159.12" r="4" fill="#d62728"/>
+<text x="671.32" y="154.12" font-size="10">University of California</text>
 <circle cx="750" cy="60" r="5" fill="#1f77b4"/>
-<text x="760" y="65" font-size="10">institutions</text>
+<text x="760" y="64" font-size="10">institutions</text>
 <circle cx="750" cy="80" r="5" fill="#d62728"/>
-<text x="760" y="85" font-size="10">academia</text>
+<text x="760" y="84" font-size="10">academia</text>
 <circle cx="750" cy="100" r="5" fill="#2ca02c"/>
-<text x="760" y="105" font-size="10">oligarchs</text>
+<text x="760" y="104" font-size="10">oligarchs</text>
 <circle cx="750" cy="120" r="5" fill="#ff7f0e"/>
-<text x="760" y="125" font-size="10">individuals</text>
+<text x="760" y="124" font-size="10">individuals</text>
 <circle cx="750" cy="140" r="5" fill="#9467bd"/>
-<text x="760" y="145" font-size="10">empires</text>
+<text x="760" y="144" font-size="10">empires</text>
+<circle cx="750" cy="160" r="5" fill="#8c564b"/>
+<text x="760" y="164" font-size="10">state-actors</text>
 </svg>
