@@ -2,7 +2,7 @@
 layout: default
 title: Russian Federation
 name: Russian Federation
-category: state-actors
+category: state actors
 compute: 2e17
 stakeholder: 250
 ---
