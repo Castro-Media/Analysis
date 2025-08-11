@@ -4,7 +4,7 @@ title: University of Wisconsin–Madison
 name: University of Wisconsin–Madison
 category: academia
 compute: 6e16
-stakeholder: 70
+stakeholders: 70
 ---
 
 UW–Madison's Center for High Throughput Computing offers a pool of

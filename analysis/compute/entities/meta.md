@@ -2,9 +2,9 @@
 layout: default
 title: Meta
 name: Meta
-category: institutions
+category: corporation
 compute: 1e19
-stakeholder: 15
+stakeholders: 15
 ---
 
 Meta's AI Research SuperCluster combines 16,000 NVIDIA A100 GPUs. Each A100 delivers about 6.24×10¹⁴ dense INT8 operations per second, for a total near 10¹⁹ INT8 ops.[^1][^2]

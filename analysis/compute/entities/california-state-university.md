@@ -4,7 +4,7 @@ title: California State University
 name: California State University
 category: academia
 compute: 5e16
-stakeholder: 200
+stakeholders: 200
 ---
 
 The California State University system maintains shared research compute such as San Diego State University's TIDE cluster. It includes 17 nodes with four NVIDIA L40 GPUs each and one node with four A100 GPUs, totaling 72 GPUs. Using 362 TOPS for the L40 and 624 TOPS for the A100, the cluster reaches roughly 5×10¹⁶ dense INT8 ops.[^1][^2][^3]

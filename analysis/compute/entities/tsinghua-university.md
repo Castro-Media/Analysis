@@ -4,7 +4,7 @@ title: Tsinghua University
 name: Tsinghua University
 category: academia
 compute: 1e18
-stakeholder: 80
+stakeholders: 80
 ---
 
 Tsinghua University collaborates with national labs on systems like the

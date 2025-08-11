@@ -4,7 +4,7 @@ title: Pixel 8 Pro
 name: Pixel 8 Pro
 category: individuals
 compute:
-stakeholder: 1
+stakeholders: 1
 ---
 
 The Pixel 8 Pro's Tensor G3 neural processing unit is claimed to reach about

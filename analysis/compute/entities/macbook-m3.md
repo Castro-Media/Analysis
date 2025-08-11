@@ -4,7 +4,7 @@ title: MacBook M3
 name: MacBook M3
 category: individuals
 compute: 1.8e13
-stakeholder: 1
+stakeholders: 1
 ---
 
 Apple's M3 chip includes a neural engine rated for 18 INT8 TOPS,

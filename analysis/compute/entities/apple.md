@@ -2,9 +2,9 @@
 layout: default
 title: Apple
 name: Apple
-category: institutions
+category: corporation
 compute: 5e19
-stakeholder: 12
+stakeholders: 12
 ---
 
 Reports indicate Apple plans to purchase 2,000–3,000 AI servers in 2024, each with eight NVIDIA H100 GPUs, for 16,000–24,000 GPUs in total. With each H100 delivering about 1.979×10¹⁵ dense INT8 ops, this yields roughly 3–5×10¹⁹ operations per second.[^1]

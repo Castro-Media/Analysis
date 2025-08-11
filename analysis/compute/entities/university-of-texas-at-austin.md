@@ -4,7 +4,7 @@ title: University of Texas at Austin
 name: University of Texas at Austin
 category: academia
 compute: 3e17
-stakeholder: 100
+stakeholders: 100
 ---
 
 The Texas Advanced Computing Center at UT Austin runs the Frontera

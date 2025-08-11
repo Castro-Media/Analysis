@@ -2,9 +2,9 @@
 layout: default
 title: Government of Japan
 name: Government of Japan
-category: state actors
+category: state actor
 compute: 4e18
-stakeholder: 200
+stakeholders: 200
 ---
 
 The Government of Japan coordinates national supercomputing through agencies such as

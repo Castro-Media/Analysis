@@ -2,9 +2,9 @@
 layout: default
 title: United States Federal Government
 name: United States Federal Government
-category: empires
+category: empire
 compute: 5e18
-stakeholder: 600
+stakeholders: 600
 ---
 
 The United States federal government controls compute across multiple agencies. The Department of Energy operates exascale systems like the Frontier (1.1×10¹⁸ int8 ops/s) and Aurora (>2×10¹⁸ int8 ops/s) supercomputers.[^1][^2] The National Security Agency runs datacenters estimated near an exaflop,[^3] while the Department of Defense and NASA maintain additional petascale resources.[^4]

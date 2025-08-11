@@ -4,7 +4,7 @@ title: University of Michigan
 name: University of Michigan
 category: academia
 compute: 6e16
-stakeholder: 80
+stakeholders: 80
 ---
 
 The Great Lakes cluster provides about 8 petaflops of FP64

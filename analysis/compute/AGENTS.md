@@ -4,7 +4,7 @@ Agents should not commit updates to any atifacts such as data.csv or chart.svg. 
 
 ## Adding a new entity
 
-1. Create a markdown file in `analysis/compute/entities` with front matter for layout, title, name, category, compute, and stakeholder count.
+1. Create a markdown file in `analysis/compute/entities` with front matter for layout, title, name, category, compute, and a count of stakeholders.
 2. Derive the compute figure in dense INT8 TOPS using the conversion rules below. If citations are missing or inaccessible, leave the `compute` field blank and add a note that further development is needed.
 3. Provide a concise description that states the compute figure and cites accessible sources.
 4. Include the number of stakeholders who control the resource.

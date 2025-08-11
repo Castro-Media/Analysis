@@ -4,7 +4,7 @@ title: University of Florida
 name: University of Florida
 category: academia
 compute: 7e17
-stakeholder: 50
+stakeholders: 50
 ---
 
 The HiPerGator AI cluster hosts about 1,100 Nvidia A100 GPUs.

@@ -2,9 +2,9 @@
 layout: default
 title: Microsoft
 name: Microsoft
-category: institutions
+category: corporation
 compute: 2e19
-stakeholder: 15
+stakeholders: 15
 ---
 
 Microsoft partnered with OpenAI to build an Azure supercomputer with 10,000 GPUs and 285,000 CPU cores. Assuming modern NVIDIA hardware at about 2×10¹⁵ INT8 ops per GPU, the system reaches roughly 2×10¹⁹ operations per second.[^1]

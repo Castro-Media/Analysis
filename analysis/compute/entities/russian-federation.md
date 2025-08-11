@@ -2,9 +2,9 @@
 layout: default
 title: Russian Federation
 name: Russian Federation
-category: state actors
+category: state actor
 compute: 2e17
-stakeholder: 250
+stakeholders: 250
 ---
 
 The Russian Federation operates supercomputing facilities across academic, industrial, and government sectors. Systems such as

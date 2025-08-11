@@ -4,7 +4,7 @@ title: iPhone 16
 name: iPhone 16
 category: individuals
 compute: 8.6e12
-stakeholder: 1
+stakeholders: 1
 ---
 
 A modern iPhone 16-class device includes a neural engine capable of roughly 8.6×10¹² int8 operations per second.[^1]

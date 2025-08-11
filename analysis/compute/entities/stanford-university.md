@@ -4,7 +4,7 @@ title: Stanford University
 name: Stanford University
 category: academia
 compute: 1e18
-stakeholder: 200
+stakeholders: 200
 ---
 
 Stanford University operates campus high performance computing resources like the

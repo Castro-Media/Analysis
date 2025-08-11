@@ -2,9 +2,9 @@
 layout: default
 title: United Kingdom Government
 name: United Kingdom Government
-category: state actors
+category: state actor
 compute: 2e17
-stakeholder: 100
+stakeholders: 100
 ---
 
 The United Kingdom maintains national high-performance computing assets through UK Research and
