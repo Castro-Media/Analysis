@@ -11,7 +11,7 @@ Agents should not commit updates to any atifacts such as data.csv or chart.svg. 
 
 ## Proper formatting for entities
 
-1. The `compute` field must be in dense INT8 TOPS (tera 8-bit operations per second) using the conversion rules below, or blank.
+1. The `compute` field must be in dense INT8 TOPS (tera 8-bit operations per second) using the conversion rules below, or blank. It should only ever be written in the format 1e+16, etc. Never use commas or other formatting.
 2. The `stakeholders` field must be a number representing how many people or groups control the resource.
 3. Citations must be included in the description to justify the compute figure.
 4. Use markdown formatting for clarity and readability.
