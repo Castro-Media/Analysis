@@ -23,6 +23,8 @@
 <text x="718.63" y="155.28444673336548" font-size="10" alignment-baseline="middle">United States Federal Government</text>
 <circle cx="643.95" cy="160.03" r="4" fill="#d62728"/>
 <text x="648.95" y="160.0332763859255" font-size="10" alignment-baseline="middle">University of California</text>
+<circle cx="533.51" cy="223.79" r="4" fill="#8c564b"/>
+<text x="538.51" y="223.7888582480696" font-size="10" alignment-baseline="middle">United Kingdom Government</text>
 <circle cx="750" cy="60" r="5" fill="#1f77b4"/>
 <text x="760" y="65" font-size="10">institutions</text>
 <circle cx="750" cy="80" r="5" fill="#d62728"/>
@@ -33,4 +35,6 @@
 <text x="760" y="125" font-size="10">individuals</text>
 <circle cx="750" cy="140" r="5" fill="#9467bd"/>
 <text x="760" y="145" font-size="10">empires</text>
+<circle cx="750" cy="160" r="5" fill="#8c564b"/>
+<text x="760" y="165" font-size="10">state-actors</text>
 </svg>

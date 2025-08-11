@@ -6,7 +6,13 @@ description: Catalogues estimated int8 compute accessible to different actors.
 
 # Compute
 
-This project catalogues estimated int8 compute accessible to different actors. You will notice that OpenAI is absent; they don't own any hardware, they rent it from Microsoft. This is a list of people/groups who own and control decisions about how ai compute is used.
+This project catalogues estimated int8 compute accessible to different actors. You will notice
+that OpenAI is absent; they don't own any hardware, they rent it from Microsoft. This is a
+list of people or groups who own and control decisions about how AI compute is used.
+
+The list now includes state actors like the
+[United Kingdom Government](entities/united-kingdom-government.md), which runs national
+facilities such as ARCHER2.
 
 The chart compares relative compute power of different classes of entities, versus stakeholder counts:
 
