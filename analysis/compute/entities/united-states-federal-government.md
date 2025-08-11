@@ -3,17 +3,30 @@ layout: default
 title: United States Federal Government
 name: United States Federal Government
 category: empire
-compute: 5e18
+compute: 5e19
 stakeholders: 600
 ---
 
-The United States federal government controls compute across multiple agencies. The Department of Energy operates exascale systems like the Frontier (1.1×10¹⁸ int8 ops/s) and Aurora (>2×10¹⁸ int8 ops/s) supercomputers.[^1][^2] The National Security Agency runs datacenters estimated near an exaflop,[^3] while the Department of Defense and NASA maintain additional petascale resources.[^4]
+## Description
+The United States federal government oversees extensive supercomputing resources across civilian and defense agencies.
 
-Aggregating these capacities yields roughly five exaflops (≈5×10¹⁸ int8 operations per second) available to the federal government.
+## Scope
+- Department of Energy systems include Frontier (~8.8×10^18 INT8 ops/s), Aurora (>1.6×10^19), and the forthcoming El Capitan (~1.6×10^19), alongside legacy machines like Summit (~1.6×10^18) and Sierra (~1×10^18).[^1][^2][^3][^4][^5]
+- Intelligence and defense bodies operate large data centers such as the NSA's Utah facility (~8×10^18) and DoD's High Performance Computing Modernization Program (~3.8×10^17).[^6][^7]
+- Civil agencies maintain additional capacity: NOAA's weather forecasting machines (≈1.9×10^17) and NASA's Aitken and Pleiades clusters (≈1.3×10^17), with other departments like Justice procuring cloud resources for analytics.[^8][^9]
 
-Decision making over these resources spans the executive branch, Congress, and independent agencies, resulting in an estimated 600 stakeholders.
+Summing the quantifiable systems yields on the order of 5×10^19 dense INT8 operations per second. Further study is required to capture compute obtained through commercial cloud contracts and smaller agency clusters.
 
+## Implications
+Control of massive compute gives the U.S. government significant leverage in scientific research, national security, and weather prediction, but centralization raises oversight questions and the risk of dual-use military applications. Efficient coordination across agencies could accelerate innovation, while mismanagement or misuse poses global stability concerns.
+
+## Works cited
 [^1]: U.S. Department of Energy, "Frontier Supercomputer Makes History," 2022. <https://www.energy.gov/nnsa/articles/frontier-supercomputer-makes-history>
 [^2]: Argonne National Laboratory, "Aurora Supercomputer to Exceed 2 Exaflops," 2023. <https://www.anl.gov/article/aurora-supercomputer-to-exceed-2-exaflops>
-[^3]: Wired, "The NSA Is Building the Country's Biggest Spy Center," 2012. <https://www.wired.com/2012/03/ff-nsadatacenter/>
-[^4]: U.S. DoD High Performance Computing Modernization Program, "HPCMP at 47 Petaflops," 2021. <https://www.hpc.mil/>
+[^3]: Lawrence Livermore National Laboratory, "LLNL's El Capitan Supercomputer," 2023. <https://www.llnl.gov/news/llnls-el-capitan-supercomputer>
+[^4]: Oak Ridge Leadership Computing Facility, "Summit," 2021. <https://www.olcf.ornl.gov/summit/>
+[^5]: Lawrence Livermore National Laboratory, "Sequoia and Sierra Supercomputers," 2018. <https://www.llnl.gov/news/sequoia-and-sierra-supercomputers>
+[^6]: Wired, "The NSA Is Building the Country's Biggest Spy Center," 2012. <https://www.wired.com/2012/03/ff-nsadatacenter/>
+[^7]: U.S. DoD High Performance Computing Modernization Program, "HPCMP at 47 Petaflops," 2021. <https://www.hpc.mil/>
+[^8]: NOAA, "NOAA upgrades weather forecasting supercomputers," 2022. <https://www.noaa.gov/news-release/noaa-upgrades-weather-forecasting-supercomputers>
+[^9]: NASA, "Aitken Supercomputer," 2023. <https://www.nas.nasa.gov/hecc/resources/aitken.html>
