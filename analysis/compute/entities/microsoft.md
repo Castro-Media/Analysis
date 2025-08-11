@@ -2,6 +2,7 @@
 layout: default
 title: Microsoft
 name: Microsoft
+category: institutions
 compute: 4e20
 stakeholder: 15
 ---

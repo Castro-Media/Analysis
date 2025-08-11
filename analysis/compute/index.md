@@ -8,10 +8,15 @@ description: Catalogues estimated int8 compute accessible to different actors.
 
 This project catalogues estimated int8 compute accessible to different actors. The chart compares relative compute power of different classes of entities, versus stakeholder counts.
 
-- [Oligarchs](./oligarchs/)
-- [Empires](./empires/)
-- [Institutions](./institutions/)
-- [Individuals](./individuals/)
+- [Amazon](./entities/amazon.md)
+- [Apple](./entities/apple.md)
+- [California State University](./entities/california-state-university.md)
+- [Elon Musk](./entities/elon-musk.md)
+- [iPhone 16](./entities/iphone-16.md)
+- [Meta](./entities/meta.md)
+- [Microsoft](./entities/microsoft.md)
+- [United States Federal Government](./entities/united-states-federal-government.md)
+- [University of California](./entities/university-of-california.md)
 
 <a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
 

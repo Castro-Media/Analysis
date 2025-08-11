@@ -2,6 +2,7 @@
 layout: default
 title: Meta
 name: Meta
+category: institutions
 compute: 1e19
 stakeholder: 15
 ---

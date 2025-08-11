@@ -1,10 +1,10 @@
-name,ops,stakeholders
-United States Federal Government,5e+18,600
-iPhone 16,8.6e+12,1
-Amazon,4e+19,15
-Apple,2e+18,12
-California State University,2e+16,200
-Meta,1e+19,15
-Microsoft,4e+20,15
-University of California,4e+18,300
-Elon Musk,4e+20,1
+name,category,ops,stakeholders
+Amazon,institutions,4e+19,15
+Apple,institutions,2e+18,12
+California State University,institutions,2e+16,200
+Elon Musk,oligarchs,4e+20,1
+Meta,institutions,1e+19,15
+Microsoft,institutions,4e+20,15
+United States Federal Government,empires,5e+18,600
+University of California,institutions,4e+18,300
+iPhone 16,individuals,8.6e+12,1
