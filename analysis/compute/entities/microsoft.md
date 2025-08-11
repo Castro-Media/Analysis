@@ -3,12 +3,12 @@ layout: default
 title: Microsoft
 name: Microsoft
 category: institutions
-compute: 4e20
+compute: 2e19
 stakeholder: 15
 ---
 
-Microsoft is reportedly investing in a supercomputer project targeting around one million Nvidia H100 GPUs to power AI services. At roughly 4×10^14 INT8 ops each, the planned system would provide on the order of 4×10^20 INT8 operations per second.[^1]
+Microsoft partnered with OpenAI to build an Azure supercomputer with 10,000 GPUs and 285,000 CPU cores. Assuming modern NVIDIA hardware at about 2×10¹⁵ INT8 ops per GPU, the system reaches roughly 2×10¹⁹ operations per second.[^1]
 
 Strategic decisions involve the board and executive leadership, about 15 stakeholders.
 
-[^1]: The Information, "Microsoft's $100 Billion AI Supercomputer Plan," 2024. <https://www.theinformation.com/articles/microsofts-100-billion-ai-supercomputer-plan>
+[^1]: HPCwire, "Microsoft Builds Massive AI Supercomputer for OpenAI," 2020. <https://www.hpcwire.com/2020/05/19/microsoft-builds-massive-ai-supercomputer-for-openai/>
