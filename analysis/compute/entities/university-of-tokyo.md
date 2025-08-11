@@ -3,7 +3,7 @@ layout: default
 title: University of Tokyo
 name: University of Tokyo
 category: academia
-compute: 1e17
+compute: 1e+17
 stakeholders: 60
 ---
 

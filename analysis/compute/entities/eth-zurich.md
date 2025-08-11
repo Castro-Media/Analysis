@@ -3,7 +3,7 @@ layout: default
 title: ETH Zürich
 name: ETH Zürich
 category: academia
-compute: 2e17
+compute: 2e+17
 stakeholders: 70
 ---
 

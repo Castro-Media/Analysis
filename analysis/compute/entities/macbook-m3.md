@@ -3,7 +3,7 @@ layout: default
 title: MacBook M3
 name: MacBook M3
 category: individuals
-compute: 1.8e13
+compute: 1.8e+13
 stakeholders: 1
 ---
 

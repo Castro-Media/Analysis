@@ -3,7 +3,7 @@ layout: default
 title: Xbox Series X
 name: Xbox Series X
 category: individuals
-compute: 4.8e13
+compute: 4.8e+13
 stakeholders: 1
 ---
 

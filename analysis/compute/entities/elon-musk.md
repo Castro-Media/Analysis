@@ -3,7 +3,7 @@ layout: default
 title: Elon Musk
 name: Elon Musk
 category: oligarch
-compute: 2e20
+compute: 2e+20
 stakeholders: 1
 ---
 

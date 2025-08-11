@@ -3,7 +3,7 @@ layout: default
 title: Tsinghua University
 name: Tsinghua University
 category: academia
-compute: 1e18
+compute: 1e+18
 stakeholders: 80
 ---
 

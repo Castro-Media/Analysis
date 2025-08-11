@@ -3,7 +3,7 @@ layout: default
 title: University of California
 name: University of California
 category: academia
-compute: 4e18
+compute: 4e+18
 stakeholders: 300
 ---
 

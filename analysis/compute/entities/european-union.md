@@ -3,7 +3,7 @@ layout: default
 title: European Union
 name: European Union
 category: state actor
-compute: 1.4e19
+compute: 1.4e+19
 stakeholders: 100
 ---
 

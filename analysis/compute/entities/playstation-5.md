@@ -3,7 +3,7 @@ layout: default
 title: PlayStation 5
 name: PlayStation 5
 category: individuals
-compute: 4.1e13
+compute: 4.1e+13
 stakeholders: 1
 ---
 

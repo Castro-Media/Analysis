@@ -3,7 +3,7 @@ layout: default
 title: Government of India
 name: Government of India
 category: state actor
-compute: 1e16
+compute: 1e+16
 stakeholders: 100
 ---
 

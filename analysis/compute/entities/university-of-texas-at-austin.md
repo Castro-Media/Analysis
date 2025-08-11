@@ -3,7 +3,7 @@ layout: default
 title: University of Texas at Austin
 name: University of Texas at Austin
 category: academia
-compute: 3e17
+compute: 3e+17
 stakeholders: 100
 ---
 

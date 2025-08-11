@@ -3,7 +3,7 @@ layout: default
 title: Meta
 name: Meta
 category: corporation
-compute: 1e19
+compute: 1e+19
 stakeholders: 15
 ---
 

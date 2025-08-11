@@ -3,7 +3,7 @@ layout: default
 title: Peking University
 name: Peking University
 category: academia
-compute: 1e17
+compute: 1e+17
 stakeholders: 60
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: University of Cambridge
 name: University of Cambridge
 category: academia
-compute: 5e16
+compute: 5e+16
 stakeholders: 60
 ---
 
