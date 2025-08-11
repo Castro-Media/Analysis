@@ -2,7 +2,7 @@
 layout: default
 title: United Kingdom Government
 name: United Kingdom Government
-category: state-actors
+category: state actors
 compute: 2e17
 stakeholder: 100
 ---

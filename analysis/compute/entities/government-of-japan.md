@@ -2,7 +2,7 @@
 layout: default
 title: Government of Japan
 name: Government of Japan
-category: state-actors
+category: state actors
 compute: 4e18
 stakeholder: 200
 ---
