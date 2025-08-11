@@ -15,6 +15,7 @@ The chart compares relative compute power of different classes of entities, vers
 - [California State University](./entities/california-state-university.md)
 - [Elon Musk](./entities/elon-musk.md)
 - [iPhone 16](./entities/iphone-16.md)
+- [RTX 4090 PC](./entities/rtx-4090.md)
 - [Meta](./entities/meta.md)
 - [Microsoft](./entities/microsoft.md)
 - [United States Federal Government](./entities/united-states-federal-government.md)
