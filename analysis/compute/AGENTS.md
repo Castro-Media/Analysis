@@ -2,7 +2,6 @@ Entities must include citations to justify the values they provide.
 
 Agents should not commit updates to any atifacts such as data.csv or chart.svg. These are generated when the analysis runs.
 
-
 ## Adding a new entity
 
 1. Create a markdown file in `analysis/compute/entities` with front matter for layout, title, name, category, compute, and stakeholder count.
@@ -10,12 +9,24 @@ Agents should not commit updates to any atifacts such as data.csv or chart.svg. 
 3. Provide a concise description that states the compute figure and cites accessible sources.
 4. Include the number of stakeholders who control the resource.
 
+## Proper formatting for entities
+
+1. The `compute` field must be in dense INT8 TOPS (tera 8-bit operations per second) using the conversion rules below, or blank.
+2. The `stakeholders` field must be a number representing how many people or groups control the resource.
+3. Citations must be included in the description to justify the compute figure.
+4. Use markdown formatting for clarity and readability.
+5. All entities must start with a simple description of who they are and what they do.
+6. Next comes a scope section which elaborates on all compute resources controlled by that entity. Be sure not to leave anything out, even if we don't have data or measures for the scale of the resource. For example, we may know a lot about one aspect of an entity's compute resources, but not everything. Be sure to include all known resources, even if we don't have a measure for them. Whenever possible, include citations to justify the values provided. Estimates are ok, if there is a citation or justification and sufficient elaboration in this section to justify the estimate. Each scope section should end with a summary of the total compute resources controlled by the entity (broken down by each scope), in dense INT8 TOPS, or a note that further development is needed if citations are missing or inaccessible.
+7. Finally, include a section on the implications of this entity's compute resources. This should be a short paragraph or two about what the compute resources mean for the entity and for the broader AI ecosystem. What are they using it for? What are the risks and threats to society and human survival? What are the opportunities and benefits? This section should be more speculative and less about hard data.
+8. Every entity must have a category. The current categories are: oligarch, empire, academia, state actor, corporation, and individual. If there is a compelling reason to add another category, that is always an option. Make sure there are enough colors in the notebook palette to support the new category; add more colors if necessary.
+
+
 ## Reviewing existing entries
 
 1. Confirm that citations are accessible and support the stated compute value.
 2. Recompute figures using the conversion guidance and update the file when necessary.
 3. If data cannot be verified, keep the entry but clear the `compute` field and add a note indicating that citations and further development are needed.
-4. Avoid deleting entries unless there is a compelling reason such as duplication or irrelevance.
+4. Avoid deleting entries unless there is a compelling reason such as duplication or redundancy. For example, when the american empire is already listed, we don't need another entity for sub-aspects of the federal government. Other institutions which aren't under the direct control of the executive department or the federal government should be listed separately, such as universities or 
 5. Run `pytest` after making changes to ensure the repository remains healthy.
 
 Here’s a compact, practical way to normalize any advertised compute number into **dense INT8 TOPS** so you can compare chips and systems apples-to-apples.
