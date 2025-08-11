@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data Source Dashboard
+description: Summarizes all data sources and their current headline counts.
 date: 2025-07-18 22:34:03
 ---
 
