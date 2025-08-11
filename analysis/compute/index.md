@@ -63,3 +63,7 @@ function renderTable(text) {
     $('#mmlu-table').addClass('tablesorter-ice');
 }
 </script>
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
