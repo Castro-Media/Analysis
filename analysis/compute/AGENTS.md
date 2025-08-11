@@ -1,3 +1,13 @@
+Entities must include citations to justify the values they provide.
+
+
+
+
+
+
+
+
+
 Here’s a compact, practical way to normalize any advertised compute number into **dense INT8 TOPS** so you can compare chips and systems apples-to-apples.
 
 # The target standard

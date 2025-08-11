@@ -2,7 +2,7 @@
 layout: default
 title: People's Republic of China
 name: People's Republic of China
-category: empires
+category: state actors
 compute: 1e19
 stakeholder: 500
 ---
