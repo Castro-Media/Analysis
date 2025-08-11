@@ -3,13 +3,24 @@ layout: default
 title: Elon Musk
 name: Elon Musk
 category: oligarch
-compute: 4e20
+compute: 2e20
 stakeholders: 1
 ---
 
-Elon Musk controls ventures like Tesla and xAI. Reports indicate xAI is building a supercomputer with about 100,000 NVIDIA H100 GPUs. Each H100 performs roughly 1.979×10¹⁵ dense INT8 ops per second, so the cluster would reach around 4×10²⁰ operations.[^1][^2]
+## Description
+Elon Musk controls ventures such as Tesla, SpaceX, and xAI.
 
-As an oligarch, Musk ultimately decides how this compute is used, leaving the number of stakeholders at one.
+## Scope
+- xAI is building a supercomputer with roughly 100,000 NVIDIA H100 GPUs delivering about 2×10^20 dense INT8 operations per second.[^1][^2]
+- Tesla develops the Dojo supercomputer, expected to reach around 2×10^18 INT8 operations per second when fully deployed.[^3]
+- Tesla and SpaceX also maintain conventional GPU clusters and HPC resources for vehicle training and rocket simulations, though public compute figures are scarce.
 
-[^1]: Wikipedia, "Colossus (supercomputer)," 2024. <https://en.wikipedia.org/wiki/Colossus_(supercomputer)>
+Combined, Musk-controlled projects provide at least 2×10^20 dense INT8 operations per second from the xAI cluster alone. Further data is needed to quantify Tesla and SpaceX resources.
+
+## Implications
+Musk's centralized control over large-scale compute enables rapid development of proprietary AI systems but concentrates power and decision-making in a single individual, raising concerns around oversight and misuse. At the same time, this infrastructure can accelerate technological innovation across automotive, aerospace, and AI industries.
+
+## Works cited
+[^1]: Reuters, "Elon Musk says xAI's new supercomputer will be completed next year," 2024. <https://www.reuters.com/technology/elon-musk-says-xais-new-supercomputer-will-be-completed-next-year-2024-06-20/>
 [^2]: Colfax, "NVIDIA H100 Tensor Core GPU," 2023. <https://colfaxresearch.com/nvidia-h100-performance/>
+[^3]: Reuters, "Tesla builds Dojo supercomputer," 2023. <https://www.reuters.com/technology/tesla-builds-dojo-supercomputer-2023-07-19/>
