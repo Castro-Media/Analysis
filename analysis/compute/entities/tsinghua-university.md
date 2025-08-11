@@ -1,0 +1,18 @@
+---
+layout: default
+title: Tsinghua University
+name: Tsinghua University
+category: state actors
+compute: 1e18
+stakeholder: 80
+---
+
+Tsinghua University collaborates with national labs on systems like the
+Sunway series, giving access to on the order of 1×10^18 INT8 ops per
+second of compute.[^1]
+
+These resources are overseen by university leadership and state
+partners, roughly 80 stakeholders.
+
+[^1]: Tsinghua University, "High Performance Computing," 2023.
+<https://www.tsinghua.edu.cn/en/research/hpc/>
