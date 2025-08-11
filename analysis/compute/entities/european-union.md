@@ -2,7 +2,7 @@
 layout: default
 title: European Union
 name: European Union
-category: empire
+category: state actor
 compute: 1.4e19
 stakeholders: 100
 ---
