@@ -7,8 +7,9 @@ compute: 1e19
 stakeholder: 15
 ---
 
-Meta's AI Research SuperCluster combines 16,000 Nvidia A100 GPUs. Each A100 can deliver about 6.2×10^14 INT8 operations per second, for a total near 10^19 INT8 ops.[^1]
+Meta's AI Research SuperCluster combines 16,000 NVIDIA A100 GPUs. Each A100 delivers about 6.24×10¹⁴ dense INT8 operations per second, for a total near 10¹⁹ INT8 ops.[^1][^2]
 
 Decisions over these resources involve Meta's board and executive team, around 15 stakeholders.
 
-[^1]: Meta AI, "Introducing the AI Research SuperCluster," 2022. <https://ai.facebook.com/blog/ai-rsc/>
+[^1]: InsideHPC, "Meta Builds AI Research SuperCluster," 2022. <https://insidehpc.com/2022/01/meta-builds-ai-research-supercluster/>
+[^2]: DataCrunch, "NVIDIA A100 80GB Specs," 2024. <https://datacrunch.io/blog/nvidia-a100-80gb-specs/>

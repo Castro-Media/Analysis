@@ -3,10 +3,20 @@ Entities must include citations to justify the values they provide.
 Agents should not commit updates to any atifacts such as data.csv or chart.svg. These are generated when the analysis runs.
 
 
+## Adding a new entity
 
+1. Create a markdown file in `analysis/compute/entities` with front matter for layout, title, name, category, compute, and stakeholder count.
+2. Derive the compute figure in dense INT8 TOPS using the conversion rules below. If citations are missing or inaccessible, leave the `compute` field blank and add a note that further development is needed.
+3. Provide a concise description that states the compute figure and cites accessible sources.
+4. Include the number of stakeholders who control the resource.
 
+## Reviewing existing entries
 
-
+1. Confirm that citations are accessible and support the stated compute value.
+2. Recompute figures using the conversion guidance and update the file when necessary.
+3. If data cannot be verified, keep the entry but clear the `compute` field and add a note indicating that citations and further development are needed.
+4. Avoid deleting entries unless there is a compelling reason such as duplication or irrelevance.
+5. Run `pytest` after making changes to ensure the repository remains healthy.
 
 Here’s a compact, practical way to normalize any advertised compute number into **dense INT8 TOPS** so you can compare chips and systems apples-to-apples.
 

@@ -3,12 +3,14 @@ layout: default
 title: California State University
 name: California State University
 category: academia
-compute: 2e16
+compute: 5e16
 stakeholder: 200
 ---
 
-The California State University system maintains shared research compute such as a 100‑GPU V100 cluster at San Diego State University. Each V100 performs about 1.25×10^14 INT8 operations per second, yielding roughly 1.3×10^16 INT8 ops across the system.[^1]
+The California State University system maintains shared research compute such as San Diego State University's TIDE cluster. It includes 17 nodes with four NVIDIA L40 GPUs each and one node with four A100 GPUs, totaling 72 GPUs. Using 362 TOPS for the L40 and 624 TOPS for the A100, the cluster reaches roughly 5×10¹⁶ dense INT8 ops.[^1][^2][^3]
 
 Given oversight across 23 campuses and the Chancellor's Office, about 200 stakeholders participate in compute decisions.
 
-[^1]: San Diego State University, "SDSU installs 100-GPU high-performance cluster," 2023. <https://hpc.sdsu.edu/100-gpu-cluster>
+[^1]: Campus Technology, "San Diego State Deploys TIDE Supercomputer," 2024. <https://campustechnology.com/articles/2024/04/02/sdsu-deploys-tide-supercomputer.aspx>
+[^2]: Panchaea, "NVIDIA L40 GPU," 2024. <https://panchaea.com/products/nvidia-l40>
+[^3]: DataCrunch, "NVIDIA A100 80GB Specs," 2024. <https://datacrunch.io/blog/nvidia-a100-80gb-specs/>
