@@ -17,6 +17,7 @@ The chart compares relative compute power of different classes of entities, vers
 - [iPhone 16](./entities/iphone-16.md)
 - [Meta](./entities/meta.md)
 - [Microsoft](./entities/microsoft.md)
+- [People's Republic of China](./entities/peoples-republic-of-china.md)
 - [United States Federal Government](./entities/united-states-federal-government.md)
 - [University of California](./entities/university-of-california.md)
 
