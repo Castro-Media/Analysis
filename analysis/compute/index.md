@@ -1,8 +1,6 @@
 ---
 layout: default
-name: Compute Index
-compute: 0
-stakeholder: 0
+title: Compute
 ---
 
 # Compute

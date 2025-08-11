@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Apple
 name: Apple
 compute: 2e18
 stakeholder: 12

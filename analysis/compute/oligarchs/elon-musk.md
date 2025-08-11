@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Elon Musk
 name: Elon Musk
 compute: 4e20
 stakeholder: 1

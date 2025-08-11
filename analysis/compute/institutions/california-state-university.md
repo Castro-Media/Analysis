@@ -1,5 +1,6 @@
 ---
 layout: default
+title: California State University
 name: California State University
 compute: 2e16
 stakeholder: 200

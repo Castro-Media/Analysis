@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Microsoft
 name: Microsoft
 compute: 4e20
 stakeholder: 15

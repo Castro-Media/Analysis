@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Meta
 name: Meta
 compute: 1e19
 stakeholder: 15

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: University of California
 name: University of California
 compute: 4e18
 stakeholder: 300

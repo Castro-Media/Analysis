@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Amazon
 name: Amazon
 compute: 4e19
 stakeholder: 15
