@@ -10,9 +10,12 @@ This project catalogues estimated int8 compute accessible to different actors. Y
 
 The chart compares relative compute power of different classes of entities, versus stakeholder counts:
 
+- [Government of India]({{ '/analysis/compute/entities/government-of-india' | relative_url }})
 {% assign entity_pages = site.pages | where_exp: "page", "page.path contains 'analysis/compute/entities/'" | sort: "title" %}
 {% for entity in entity_pages %}
+{% unless entity.title == 'Government of India' %}
 - [{{ entity.title }}]({{ entity.url | relative_url }})
+{% endunless %}
 {% endfor %}
 
 <a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus stakeholder counts." style="width: 100%; height: 100%;"></a>
