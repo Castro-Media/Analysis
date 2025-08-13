@@ -4,7 +4,7 @@ title: University of Bristol
 name: University of Bristol
 category: academia
 compute: 2e+19
-stakeholders: 10
+stakeholders: 50
 ---
 
 ## Description
