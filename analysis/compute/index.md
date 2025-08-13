@@ -21,6 +21,11 @@ Learn more about the DBSCAN analytical technique [here](https://cjtrowbridge.com
 
 <a href="cluster_shapes.svg"><img src="cluster_shapes.svg" alt="DBSCAN cluster shapes for compute versus stakeholder counts." style="width: 100%; height: 100%;"></a>
 
+<h2>Entity List</h2>
+This is the list of the data from all the entity files when the analysis was last run, along with their estimated
+int8 compute capcaity and number of stakeholders. You can sort the table by clicking on the column headers.
+You can edit the data in the appropriate entity file, linked below.
+
 <div id="data-table"></div>
 
 <div class="row">
