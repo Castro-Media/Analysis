@@ -2,7 +2,7 @@
 layout: default
 title: Larry Ellison
 name: Larry Ellison
-category: oligarch
+category: oligarchs
 compute: 5e+19
 stakeholders: 1
 ---
