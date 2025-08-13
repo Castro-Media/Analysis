@@ -12,6 +12,13 @@ list of people or groups who own and control decisions about how AI compute is u
 
 <a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus counts of stakeholders." style="width: 100%; height: 100%;"></a>
 
+## Cluster shapes
+
+This figure outlines DBSCAN clusters for compute versus stakeholder counts. Learn more about
+the analytical technique [here](https://cjtrowbridge.com/ai).
+
+<a href="cluster_shapes.svg"><img src="cluster_shapes.svg" alt="DBSCAN cluster shapes for compute versus stakeholder counts." style="width: 100%; height: 100%;"></a>
+
 <div id="data-table"></div>
 
 <div class="row">
