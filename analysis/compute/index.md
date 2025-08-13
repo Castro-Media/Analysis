@@ -14,10 +14,37 @@ list of people or groups who own and control decisions about how AI compute is u
 
 <div id="data-table"></div>
 
-{% assign entity_pages = site.pages | where_exp: "page", "page.path contains 'analysis/compute/entities/'" | sort: "title" %}
-{% for entity in entity_pages %}
-- [{{ entity.title }}]({{ entity.url | relative_url }})
-{% endfor %}
+<div class="row">
+    <div class="col-4">
+        <div class="card mb-3">
+            <div class="card-body">
+                <h2 class="card-title">Entities</h2>
+                <ul class="list-unstyled mb-0">
+                    {% assign entity_pages = site.pages | where_exp: "page", "page.path contains 'analysis/compute/entities/'" | sort: "title" %}
+                    {% for entity in entity_pages %}
+                    <li><a href="{{ entity.url | relative_url }}">{{ entity.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="card mb-3">
+            <div class="card-body">
+                <h2 class="card-title">Files</h2>
+                <ul class="list-unstyled mb-0">
+                    <li><a href="{{ '/analysis/compute/' | relative_url }}">index.md</a></li>
+                    {% assign compute_files = site.static_files | where_exp: 'file', "file.path contains '/analysis/compute/'" %}
+                    {% for file in compute_files %}
+                    {% unless file.path contains '/analysis/compute/entities/' %}
+                    <li><a href="{{ file.path | relative_url }}">{{ file.name }}</a></li>
+                    {% endunless %}
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
 
 <script>
 $(document).ready(function () {
