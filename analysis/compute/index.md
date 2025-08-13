@@ -29,7 +29,7 @@ You can edit the data in the appropriate entity file, linked below.
 <div id="data-table"></div>
 
 <div class="row">
-    <div class="col-4">
+    <div class="col-md-6">
         <div class="card mb-3">
             <div class="card-body">
                 <h2 class="card-title">Entities</h2>
@@ -42,7 +42,7 @@ You can edit the data in the appropriate entity file, linked below.
             </div>
         </div>
     </div>
-    <div class="col-4">
+    <div class="col-md-6">
         <div class="card mb-3">
             <div class="card-body">
                 <h2 class="card-title">Files</h2>
