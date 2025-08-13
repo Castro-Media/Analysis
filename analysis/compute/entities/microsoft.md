@@ -3,12 +3,23 @@ layout: default
 title: Microsoft
 name: Microsoft
 category: corporation
-compute: 2e+19
+compute: 1e+20
 stakeholders: 15
 ---
 
-Microsoft partnered with OpenAI to build an Azure supercomputer with 10,000 GPUs and 285,000 CPU cores. Assuming modern NVIDIA hardware at about 2×10¹⁵ INT8 ops per GPU, the system reaches roughly 2×10¹⁹ operations per second.[^1]
+## Description
+Microsoft operates Azure, a global cloud platform providing large-scale GPU clusters for internal and customer AI workloads.
 
-Strategic decisions involve the board and executive leadership, about 15 stakeholders.
+## Scope
+- Reports indicate Microsoft acquired around 150,000 NVIDIA H100 GPUs for Azure AI and OpenAI workloads, offering on the order of 1×10^20 dense INT8 operations per second.[^1][^2]
+- Additional GPUs across Azure regions and classified government clouds further expand capacity.
 
-[^1]: HPCwire, "Microsoft Builds Massive AI Supercomputer for OpenAI," 2020. <https://www.hpcwire.com/2020/05/19/microsoft-builds-massive-ai-supercomputer-for-openai/>
+Overall, Microsoft's accessible AI compute is roughly 1×10^20 dense INT8 operations per second.
+
+## Implications
+This scale allows Microsoft to serve commercial customers and partners like OpenAI, but concentrates critical AI infrastructure under one corporation.
+
+## Works cited
+[^1]: Observer, "Microsoft’s Massive GPU Purchases Fuel AI Race," 2023. <https://observer.com/microsoft-150000-h100-gpus/>
+[^2]: Colfax, "NVIDIA H100 Tensor Core GPU," 2023. <https://colfaxresearch.com/nvidia-h100-performance/>
+

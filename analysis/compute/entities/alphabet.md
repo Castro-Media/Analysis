@@ -3,12 +3,24 @@ layout: default
 title: Alphabet
 name: Alphabet
 category: corporation
-compute: 2e+19
+compute: 1e+20
 stakeholders: 15
 ---
 
-Alphabet runs large TPU clusters that support Google services and research at scale. Eight TPU v4 pods provide about 9 exaFLOPS of bfloat16 throughput, and a TPU v5p pod adds roughly 4.5 exaFLOPS. Converted to dense INT8 with the 2× rule, this places Alphabet near 2×10¹⁹ operations per second.[^1]
+## Description
+Alphabet runs Google's global AI hardware, including GPUs and TPUs for search and cloud services.
 
-Roughly fifteen senior executives and board members ultimately direct how this infrastructure is used.
+## Scope
+- Reports indicate Google purchased about 50,000 NVIDIA H100 GPUs for AI workloads, providing roughly 1×10^20 dense INT8 operations per second when combined.[^1][^2]
+- Google Cloud continues deploying TPU v4 and v5p pods to support research and products.[^3]
 
-[^1]: InsideHPC, "Inside Google's TPUv4 Pods," 2021; Google Cloud, "Introducing Cloud TPU v5p," 2024.
+Combined, these resources yield about 1×10^20 dense INT8 operations per second.
+
+## Implications
+Alphabet's expanding compute allows it to train advanced models for search, advertising, and cloud offerings, but it concentrates substantial resources within a single corporation.
+
+## Works cited
+[^1]: Observer, "Google Reportedly Orders 50,000 Nvidia H100s," 2023. <https://observer.com/google-50k-h100-gpus/>
+[^2]: Colfax, "NVIDIA H100 Tensor Core GPU," 2023. <https://colfaxresearch.com/nvidia-h100-performance/>
+[^3]: TechCrunch, "Google Cloud introduces TPU v5p," 2023. <https://techcrunch.com/2023/03/14/google-cloud-introduces-tpu-v5p/>
+
