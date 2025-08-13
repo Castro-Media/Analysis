@@ -3,16 +3,20 @@ layout: default
 title: Pixel 8 Pro
 name: Pixel 8 Pro
 category: individuals
-compute:
+compute: 2.6e+13
 stakeholders: 1
 ---
 
-The Pixel 8 Pro's Tensor G3 neural processing unit is claimed to reach about
-26 INT8 TOPS—roughly 2.6×10¹³ operations per second—enabling advanced
-on-device AI features.[^1] Google has not published an accessible source
-confirming this throughput, so the compute estimate is left blank pending
-further evidence.
+## Description
+The Pixel 8 Pro is a Google smartphone powered by the Tensor G3 processor.
 
-The owner of the phone solely decides how to use this compute.
+## Scope
+- Google states the Tensor G3 neural processor achieves about 26 INT8 TOPS, or roughly 2.6×10^13 dense INT8 operations per second.[^1]
 
-[^1]: Google, "Pixel 8 and Pixel 8 Pro: The best of Google, built around you," 2023. https://blog.google/products/pixel/pixel-8-pixel-8-pro/
+Total compute: about 2.6×10^13 dense INT8 operations per second.
+
+## Implications
+This compute enables on-device AI features but remains limited compared with dedicated accelerators.
+
+## Works cited
+[^1]: Google, "Pixel 8 and Pixel 8 Pro: The best of Google, built around you," 2023. <https://blog.google/products/pixel/pixel-8-pixel-8-pro/>

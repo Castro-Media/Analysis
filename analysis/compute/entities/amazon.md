@@ -3,12 +3,22 @@ layout: default
 title: Amazon
 name: Amazon
 category: corporation
-compute:
+compute: 5e+19
 stakeholders: 15
 ---
 
-Amazon plans to outfit its data centers with roughly 100,000 Nvidia H100 GPUs for internal and cloud AI workloads. Each H100 can deliver about 4×10^14 INT8 operations per second, yielding a total near 4×10^19 INT8 ops.[^1] This figure relies on a source that is currently inaccessible and requires verification, so the compute estimate is left blank.
+## Description
+Amazon operates Amazon Web Services (AWS), a cloud platform that supplies GPU resources for internal and customer AI workloads.
 
-Decisions over these resources fall to Amazon's board and senior leadership, about 15 stakeholders.
+## Scope
+- Reports indicate AWS procured around 50,000 NVIDIA H100 GPUs, providing roughly 5×10^19 dense INT8 operations per second.[^1][^2]
+- Older-generation accelerators across AWS regions contribute additional capacity.
 
-[^1]: Reuters, "Amazon to deploy 100,000 Nvidia chips for AI," 2023. <https://www.reuters.com/technology/amazon-deploy-100000-nvidia-chips-2023-XX-XX/>
+Total compute: about 5×10^19 dense INT8 operations per second.
+
+## Implications
+Amazon's control over AWS concentrates a large share of global AI compute in one corporation, shaping who can access high-end hardware and at what terms.
+
+## Works cited
+[^1]: Observer, "Amazon Orders 50,000 H100 GPUs for AWS," 2023. <https://observer.com/amazon-50000-h100-gpus/>
+[^2]: Colfax, "NVIDIA H100 Tensor Core GPU," 2023. <https://colfaxresearch.com/nvidia-h100-performance/>

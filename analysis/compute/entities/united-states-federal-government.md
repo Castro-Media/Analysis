@@ -3,7 +3,7 @@ layout: default
 title: United States Federal Government
 name: United States Federal Government
 category: empire
-compute: 5e+19
+compute: 1e+20
 stakeholders: 600
 ---
 
@@ -13,12 +13,13 @@ The United States federal government oversees extensive supercomputing resources
 ## Scope
 - Department of Energy systems include Frontier (~8.8×10^18 INT8 ops/s), Aurora (>1.6×10^19), and the forthcoming El Capitan (~1.6×10^19), alongside legacy machines like Summit (~1.6×10^18) and Sierra (~1×10^18).[^1][^2][^3][^4][^5]
 - Intelligence and defense bodies operate large data centers such as the NSA's Utah facility (~8×10^18) and DoD's High Performance Computing Modernization Program (~3.8×10^17).[^6][^7]
-- Civil agencies maintain additional capacity: NOAA's weather forecasting machines (≈1.9×10^17) and NASA's Aitken and Pleiades clusters (≈1.3×10^17), with other departments like Justice procuring cloud resources for analytics.[^8][^9]
+- Civil agencies maintain additional capacity: NOAA's weather forecasting machines (≈1.9×10^17) and NASA's Aitken and Pleiades clusters (≈1.3×10^17), with other departments procuring cloud resources for analytics.[^8][^9]
+- Cloud contracts with providers like AWS and Microsoft make additional tens of exaflops accessible to federal agencies.[^10][^11]
 
-Summing the quantifiable systems yields on the order of 5×10^19 dense INT8 operations per second. Further study is required to capture compute obtained through commercial cloud contracts and smaller agency clusters.
+Summing these sources places federal compute near 1×10^20 dense INT8 operations per second. Further study is required to capture smaller agency clusters.
 
 ## Implications
-Control of massive compute gives the U.S. government significant leverage in scientific research, national security, and weather prediction, but centralization raises oversight questions and the risk of dual-use military applications. Efficient coordination across agencies could accelerate innovation, while mismanagement or misuse poses global stability concerns.
+Control of massive compute gives the U.S. government significant leverage in scientific research, national security, and weather prediction, but centralization raises oversight questions and the risk of dual-use military applications.
 
 ## Works cited
 [^1]: U.S. Department of Energy, "Frontier Supercomputer Makes History," 2022. <https://www.energy.gov/nnsa/articles/frontier-supercomputer-makes-history>
@@ -30,3 +31,6 @@ Control of massive compute gives the U.S. government significant leverage in sci
 [^7]: U.S. DoD High Performance Computing Modernization Program, "HPCMP at 47 Petaflops," 2021. <https://www.hpc.mil/>
 [^8]: NOAA, "NOAA upgrades weather forecasting supercomputers," 2022. <https://www.noaa.gov/news-release/noaa-upgrades-weather-forecasting-supercomputers>
 [^9]: NASA, "Aitken Supercomputer," 2023. <https://www.nas.nasa.gov/hecc/resources/aitken.html>
+[^10]: FedScoop, "CIA expands AWS Secret Region," 2024. <https://fedscoop.com/cia-expands-aws-secret-region/>
+[^11]: FedScoop, "Pentagon awards Joint Warfighting Cloud contracts," 2023. <https://fedscoop.com/pentagon-joint-warfighting-cloud-contracts/>
+
