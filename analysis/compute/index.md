@@ -14,8 +14,10 @@ list of people or groups who own and control decisions about how AI compute is u
 
 ## Cluster shapes
 
-This figure outlines DBSCAN clusters for compute versus stakeholder counts. Learn more about
-the analytical technique [here](https://cjtrowbridge.com/ai).
+This figure outlines DBSCAN clusters for compute versus stakeholder counts. 
+It looks for groups of entities with similar characteristics which are 
+sufficiently separate from other groups to be considered distinct.
+Learn more about the DBSCAN analytical technique [here](https://cjtrowbridge.com/ai).
 
 <a href="cluster_shapes.svg"><img src="cluster_shapes.svg" alt="DBSCAN cluster shapes for compute versus stakeholder counts." style="width: 100%; height: 100%;"></a>
 
