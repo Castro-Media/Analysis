@@ -2,7 +2,7 @@
 layout: default
 title: Mark Zuckerberg
 name: Mark Zuckerberg
-category: oligarch
+category: oligarchs
 compute: 1e+19
 stakeholders: 1
 ---
