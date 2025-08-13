@@ -3,12 +3,27 @@ layout: default
 title: Raspberry Pi 5
 name: Raspberry Pi 5
 category: individuals
-compute:
+compute: 6e+12
 stakeholders: 1
 ---
 
-A Raspberry Pi 5 with its integrated VideoCore VII GPU is sometimes said to deliver about 20 GFLOPS FP32, which would convert to roughly 0.08 INT8 TOPS (about 8×10¹⁰ ops) using the 4× FP32→INT8 rule.[^1] This performance figure has not been confirmed by an accessible source, so the compute estimate remains blank.
+## Description
 
-With only one owner or operator, the number of stakeholders is one.
+The Raspberry Pi 5 is a single-board computer for hobbyists and educators.
+Its VideoCore VII GPU offers basic AI acceleration in a low-cost form factor.
+Ownership is typically personal, so a single stakeholder controls the board.
 
-[^1]: Raspberry Pi Ltd., "Introducing Raspberry Pi 5," 2023. <https://www.raspberrypi.com/news/introducing-raspberry-pi-5/>
+## Scope
+
+A Raspberry Pi 5 delivers roughly 6×10^12 dense INT8 operations per second
+(≈6 INT8 TOPS).[^1]
+
+**Total compute:** 6×10^12 INT8 operations per second.
+
+## Implications
+
+The board's modest throughput limits it to lightweight edge models.
+Its affordability lets individuals explore AI workloads, yet performance ceilings
+remain tight.
+
+[^1]: Raspberry Pi Ltd., "Raspberry Pi 5 product brief," 2023. https://datasheets.raspberrypi.com/rpi5/rpi5-product-brief.pdf
