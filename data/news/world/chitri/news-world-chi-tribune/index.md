@@ -9,7 +9,7 @@ folder: news-world-chi-tribune
 url: https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc
 api_key: null
 cadence: hourly
-last_fetched: 2025-08-14T08:56
+last_fetched: 2025-08-14T10:53
 description: Chicago News from the Chicago Tribune
 link: https://www.chicagotribune.com
 ---
