@@ -9,7 +9,7 @@ folder: latimes-business
 url: https://www.latimes.com/business/rss2.0.xml
 api_key: null
 cadence: hourly
-last_fetched: 2025-08-17T01:16
+last_fetched: 2025-08-17T02:32
 description: Business News from the Los Angeles Times
 link: https://www.latimes.com
 ---
