@@ -9,7 +9,7 @@ folder: news-latin-america-bbc
 url: http://feeds.bbci.co.uk/news/world/latin_america/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2025-08-31T01:15
+last_fetched: 2025-08-31T02:22
 description: BBC News Latin America
 link: http://bbc.co.uk
 ---
