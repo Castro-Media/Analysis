@@ -9,7 +9,7 @@ folder: news-asia-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml
 api_key: null
 cadence: hourly
-last_fetched: 2025-10-01T02:24
+last_fetched: 2025-10-01T03:56
 description: Asia News from the New York Times
 link: https://www.nytimes.com
 ---
