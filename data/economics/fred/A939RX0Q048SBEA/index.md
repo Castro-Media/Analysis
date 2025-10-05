@@ -10,7 +10,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=A939RX0Q048SB
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2025-09-05T17:52
+last_fetched: 2025-10-05T17:52
 description: US Nominal GDP (quarterly)
 link: https://fred.stlouisfed.org/series/A939RX0Q048SBEA
 ---
