@@ -46,7 +46,7 @@ For each headline we sum the scores of the words it contains and sort the list f
 
 ### 4. Select top headlines
 
-After removing the most common word from the score list and re-ranking, this step repeats ten times to highlight varied stories.
+After removing the most common word from the score list and re-ranking, this step repeats ten times to highlight varied stories. Any publisher listed in `exclude_sources.txt` is skipped during this pass so that only approved outlets appear in the highlights.
 
 <div id="step4-table"></div>
 
