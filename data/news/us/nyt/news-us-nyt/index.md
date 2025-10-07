@@ -9,7 +9,7 @@ folder: news-us-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/US.xml
 api_key: null
 cadence: hourly
-last_fetched: 2025-10-06T23:52
+last_fetched: 2025-10-07T03:53
 description: US News from the New York Times
 link: https://www.nytimes.com
 ---
