@@ -9,7 +9,7 @@ folder: news-us-politics-nypost
 url: https://nypost.com/politics/feed/
 api_key: null
 cadence: hourly
-last_fetched: 2025-10-11T02:16
+last_fetched: 2025-10-11T03:52
 description: US Politics News from the New York Post
 link: https://nypost.com
 ---
