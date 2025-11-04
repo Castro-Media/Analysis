@@ -9,7 +9,7 @@ folder: news-business-dw
 url: https://rss.dw.com/rdf/rss-en-bus
 api_key: null
 cadence: hourly
-last_fetched: 2025-11-04T13:06
+last_fetched: 2025-11-04T14:54
 description: Business News from Deutsche Welle
 link: https://www.dw.com
 ---
