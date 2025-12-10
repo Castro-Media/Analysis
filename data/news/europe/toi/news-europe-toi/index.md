@@ -10,7 +10,7 @@ folder: news-europe-toi
 url: http://timesofindia.indiatimes.com/rssfeeds/1898274.cms
 api_key: null
 cadence: hourly
-last_fetched: 2025-12-10T20:55
+last_fetched: 2025-12-10T22:53
 description: Europe News Headlines, Latest Europe News and Live Updates - Times of
   India
 link: http://indiatimes.com
