@@ -9,7 +9,7 @@ folder: news-world-nypost
 url: https://nypost.com/world-news/feed/
 api_key: null
 cadence: hourly
-last_fetched: 2025-12-15T13:09
+last_fetched: 2025-12-15T14:57
 description: World News from the New York Post
 link: https://nypost.com
 ---
