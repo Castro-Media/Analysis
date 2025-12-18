@@ -9,7 +9,7 @@ folder: news-politics-bbc
 url: https://feeds.bbci.co.uk/news/politics/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2025-12-18T01:17
+last_fetched: 2025-12-18T02:27
 description: BBC News Politics
 link: http://bbc.co.uk
 ---
