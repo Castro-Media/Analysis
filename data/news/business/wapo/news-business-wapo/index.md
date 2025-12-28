@@ -9,7 +9,7 @@ folder: news-business-wapo
 url: http://feeds.washingtonpost.com/rss/business
 api_key: null
 cadence: hourly
-last_fetched: 2025-12-28T01:17
+last_fetched: 2025-12-28T02:38
 description: Business News from the Washington Post
 link: https://www.washingtonpost.com
 ---
