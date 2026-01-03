@@ -10,7 +10,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=M2REAL&file_t
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2025-12-04T17:54
+last_fetched: 2026-01-03T18:56
 description: Real M2 Money Stock (monthly)
 link: https://fred.stlouisfed.org/series/M2REAL
 ---

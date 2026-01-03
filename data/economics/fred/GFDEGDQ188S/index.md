@@ -10,7 +10,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=GFDEGDQ188S&f
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2025-12-04T17:54
+last_fetched: 2026-01-03T18:56
 description: 'US Federal Debt: Total Public Debt as Percent of Gross Domestic Product'
 link: https://fred.stlouisfed.org/series/GFDEGDQ188S
 ---
