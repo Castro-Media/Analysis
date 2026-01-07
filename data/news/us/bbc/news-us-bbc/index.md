@@ -9,7 +9,7 @@ folder: news-us-bbc
 url: http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-01-06T22:55
+last_fetched: 2026-01-07T01:17
 description: BBC News US & Canada
 link: http://bbc.co.uk
 ---
