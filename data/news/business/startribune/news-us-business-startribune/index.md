@@ -9,7 +9,7 @@ folder: news-us-business-startribune
 url: https://www.startribune.com/rss?sf=1&s=%2F
 api_key: null
 cadence: hourly
-last_fetched: 2026-01-15T19:01
+last_fetched: 2026-01-15T20:55
 description: Business News from the Star Tribune
 link: https://www.startribune.com
 ---
