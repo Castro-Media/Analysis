@@ -10,7 +10,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=CLVMNACSCAB1G
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2026-01-03T18:56
+last_fetched: 2026-02-02T23:09
 description: German Real GDP (quarterly)
 link: https://fred.stlouisfed.org/series/CLVMNACSCAB1GQDE
 ---
