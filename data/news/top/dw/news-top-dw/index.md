@@ -9,7 +9,7 @@ folder: news-top-dw
 url: https://rss.dw.com/rdf/rss-en-all
 api_key: null
 cadence: hourly
-last_fetched: 2026-02-03T17:11
+last_fetched: 2026-02-03T19:12
 description: Top News from Deutsche Welle
 link: https://www.dw.com
 ---
