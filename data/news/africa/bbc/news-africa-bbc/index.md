@@ -9,7 +9,7 @@ folder: news-africa-bbc
 url: http://feeds.bbci.co.uk/news/world/africa/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-02-06T15:05
+last_fetched: 2026-02-06T17:07
 description: BBC News Africa
 link: http://bbc.co.uk
 ---
