@@ -9,7 +9,7 @@ folder: news-us-politics-wapo
 url: https://www.washingtonpost.com/arcio/rss/category/politics/
 api_key: null
 cadence: hourly
-last_fetched: 2026-02-20T07:12
+last_fetched: 2026-02-20T09:03
 description: US Politics News from the Washington Post
 link: https://www.washingtonpost.com
 ---
