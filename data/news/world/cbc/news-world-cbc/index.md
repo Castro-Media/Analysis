@@ -9,7 +9,7 @@ folder: news-world-cbc
 url: https://www.cbc.ca/webfeed/rss/rss-world
 api_key: null
 cadence: hourly
-last_fetched: 2026-02-20T06:09
+last_fetched: 2026-02-20T07:12
 description: CBC | World News
 link: https://cbc.ca
 ---
