@@ -9,7 +9,7 @@ folder: news-us-48hills
 url: https://48hills.org/feed/
 api_key: null
 cadence: hourly
-last_fetched: 2026-02-22T04:31
+last_fetched: 2026-02-22T06:07
 description: News from 48 Hills
 link: https://48hills.org
 ---
