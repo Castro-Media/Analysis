@@ -9,7 +9,7 @@ folder: news-europe-dw
 url: https://rss.dw.com/rdf/rss-en-eu
 api_key: null
 cadence: hourly
-last_fetched: 2026-02-26T16:09
+last_fetched: 2026-02-26T17:13
 description: Europe News from Deutsche Welle
 link: https://www.dw.com
 ---
