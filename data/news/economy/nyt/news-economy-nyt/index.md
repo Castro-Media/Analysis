@@ -9,7 +9,7 @@ folder: news-economy-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-02-28T23:55
+last_fetched: 2026-03-01T01:18
 description: Economic News from the New York Times
 link: https://www.nytimes.com
 ---
