@@ -11,7 +11,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=TDSP&file_typ
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2026-02-02T23:09
+last_fetched: 2026-03-04T23:57
 description: US Household Debt Service Payments as a Percent of Disposable Personal
   Income
 link: https://fred.stlouisfed.org/series/TDSP
