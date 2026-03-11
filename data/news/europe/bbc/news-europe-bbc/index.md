@@ -9,7 +9,7 @@ folder: news-europe-bbc
 url: http://feeds.bbci.co.uk/news/world/europe/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-03-11T06:06
+last_fetched: 2026-03-11T07:11
 description: BBC News Europe
 link: http://bbc.co.uk
 ---
