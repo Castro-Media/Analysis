@@ -9,7 +9,7 @@ folder: news-business-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-03-12T07:12
+last_fetched: 2026-03-12T09:06
 description: Business News from the New York Times
 link: https://www.nytimes.com
 ---
