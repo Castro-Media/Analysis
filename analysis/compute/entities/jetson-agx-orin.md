@@ -4,6 +4,8 @@ title: Jetson AGX Orin
 name: Jetson AGX Orin
 category: individuals
 compute: 2.75e+14
+compute_metric: vendor_ai_tops
+compute_note: "Uses vendor-published AI TOPS (275 TOPS); comparability to strict dense INT8 is provisional."
 stakeholders: 1
 ---
 

@@ -4,6 +4,8 @@ title: Jetson AGX Thor
 name: Jetson AGX Thor
 category: individuals
 compute: 2.07e+15
+compute_metric: vendor_ai_tops
+compute_note: "Derived from vendor-published 2070 FP4 TFLOPS AI compute; treated as vendor AI metric."
 stakeholders: 1
 ---
 

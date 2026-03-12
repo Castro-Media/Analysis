@@ -4,6 +4,8 @@ title: NVIDIA Jetson Nano
 name: NVIDIA Jetson Nano
 category: individuals
 compute: 4.72e+11
+compute_metric: non_int8_proxy
+compute_note: "Vendor publishes 472 GFLOPS accelerated compute; stored as a proxy value."
 stakeholders: 1
 ---
 

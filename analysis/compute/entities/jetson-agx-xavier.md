@@ -4,6 +4,8 @@ title: Jetson AGX Xavier
 name: Jetson AGX Xavier
 category: individuals
 compute: 3.20e+13
+compute_metric: vendor_ai_tops
+compute_note: "Uses vendor-published AI TOPS (32 TOPS) without extra dense-only adjustment."
 stakeholders: 1
 ---
 

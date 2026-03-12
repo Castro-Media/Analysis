@@ -10,6 +10,17 @@ This project catalogues estimated int8 compute accessible to different actors. Y
 that OpenAI is absent; they don't own any hardware, they rent it from Microsoft. This is a
 list of people or groups who own and control decisions about how AI compute is used.
 
+## Compute Normalization Status
+
+Each entity now includes a `compute_metric` tag in front matter so the table can distinguish
+normalization quality:
+
+- `dense_int8_tops`: Value is intended to represent dense INT8 operations per second.
+- `vendor_ai_tops`: Value comes from vendor AI TOPS style marketing/spec numbers and may not be
+  strictly dense INT8-equivalent.
+- `non_int8_proxy`: Value is a proxy (for example GFLOPS) because no direct INT8 TOPS figure is
+  published.
+
 <a href="chart.svg"><img src="chart.svg" alt="Comparison of relative compute power of different classes of entities, versus counts of stakeholders." style="width: 100%; height: 100%;"></a>
 
 ## Cluster shapes
