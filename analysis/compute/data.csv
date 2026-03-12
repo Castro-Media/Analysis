@@ -23,7 +23,7 @@ Mark Zuckerberg,oligarchs,5e+19,1,dense_int8_tops,
 Microsoft,corporation,1e+20,15,dense_int8_tops,
 Moscow State University,academia,2e+17,70,dense_int8_tops,
 National University of Singapore,academia,8e+16,60,dense_int8_tops,
-NVIDIA DGX Spark,corporation,2.5e+14,1,dense_int8_tops,Derived to dense INT8-equivalent using explicit sparsity and precision conversions.
+NVIDIA DGX Spark,individuals,2.5e+14,1,dense_int8_tops,Derived to dense INT8-equivalent using explicit sparsity and precision conversions.
 NVIDIA Jetson Nano,individuals,9.44e+11,1,dense_int8_tops,Converted from 472 GFLOPS FP16-equivalent throughput using FP16 to INT8 factor x2.
 NVIDIA Tesla P40,individuals,4.7e+13,1,dense_int8_tops,
 Peking University,academia,1e+17,60,dense_int8_tops,

@@ -2,7 +2,7 @@
 layout: default
 title: NVIDIA DGX Spark
 name: NVIDIA DGX Spark
-category: corporation
+category: individuals
 compute: 2.5e+14
 compute_metric: dense_int8_tops
 compute_note: "Derived to dense INT8-equivalent using explicit sparsity and precision conversions."
