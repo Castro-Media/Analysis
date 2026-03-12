@@ -9,7 +9,7 @@ folder: news-markets-wsj
 url: https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
 api_key: null
 cadence: hourly
-last_fetched: 2026-03-12T18:06
+last_fetched: 2026-03-12T19:14
 description: US Market News from the Wall Street Journal
 link: https://www.wsj.com
 ---
