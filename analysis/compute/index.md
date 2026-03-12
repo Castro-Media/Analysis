@@ -34,7 +34,7 @@ Learn more about the DBSCAN analytical technique [here](https://cjtrowbridge.com
 
 <h2>Entity List</h2>
 This is the list of the data from all the entity files when the analysis was last run, along with their estimated
-int8 compute capcaity and number of stakeholders. You can sort the table by clicking on the column headers.
+int8 compute capacity and number of stakeholders. You can sort the table by clicking on the column headers.
 You can edit the data in the appropriate entity file, linked below.
 
 <div id="data-table"></div>
@@ -83,8 +83,8 @@ function loadCsv() {
 }
 
 function renderTable(text) {
-    const rows = text.trim().split('\n');
-    const headers = rows[0].split(',');
+    const rows = parseCsv(text.trim());
+    const headers = rows[0];
     const table = $('<table id="mmlu-table" class="tablesorter"></table>');
     const thead = $('<thead></thead>');
     const tbody = $('<tbody></tbody>');
@@ -98,7 +98,7 @@ function renderTable(text) {
     table.append(thead);
 
     for (let i = 1; i < rows.length; i++) {
-        const cells = rows[i].split(',');
+        const cells = rows[i];
         const row = $('<tr></tr>');
 
         cells.forEach(function (cell) {
@@ -113,5 +113,53 @@ function renderTable(text) {
     $('#mmlu-table').tablesorter();
     $('#mmlu-table').addClass('tablesorter');
     $('#mmlu-table').addClass('tablesorter-ice');
+}
+
+function parseCsv(text) {
+    const rows = [];
+    let row = [];
+    let cell = '';
+    let inQuotes = false;
+
+    for (let i = 0; i < text.length; i++) {
+        const ch = text[i];
+
+        if (ch === '"') {
+            const nextIsQuote = i + 1 < text.length && text[i + 1] === '"';
+            if (inQuotes && nextIsQuote) {
+                cell += '"';
+                i += 1;
+            } else {
+                inQuotes = !inQuotes;
+            }
+            continue;
+        }
+
+        if (ch === ',' && !inQuotes) {
+            row.push(cell);
+            cell = '';
+            continue;
+        }
+
+        if ((ch === '\n' || ch === '\r') && !inQuotes) {
+            if (ch === '\r' && i + 1 < text.length && text[i + 1] === '\n') {
+                i += 1;
+            }
+            row.push(cell);
+            rows.push(row);
+            row = [];
+            cell = '';
+            continue;
+        }
+
+        cell += ch;
+    }
+
+    if (cell.length > 0 || row.length > 0) {
+        row.push(cell);
+        rows.push(row);
+    }
+
+    return rows;
 }
 </script>

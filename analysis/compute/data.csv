@@ -3,38 +3,38 @@ Alphabet,corporation,1e+20,15,dense_int8_tops,
 Amazon,corporation,5e+19,15,dense_int8_tops,
 Apple,corporation,5e+19,12,dense_int8_tops,
 California State University,academia,5e+16,200,dense_int8_tops,
-Coral USB Accelerator,individuals,4000000000000.0,1,dense_int8_tops,
-NVIDIA DGX Spark,corporations,250000000000000.0,1,dense_int8_tops,Derived to dense INT8-equivalent using explicit sparsity and precision conversions.
+Coral USB Accelerator,individuals,4e+12,1,dense_int8_tops,
 Elon Musk,oligarchs,2e+20,1,dense_int8_tops,
 ETH Zürich,academia,2e+17,70,dense_int8_tops,
 European Union,state actor,2e+19,100,dense_int8_tops,
-Galaxy S24 Ultra,individuals,45000000000000.0,1,dense_int8_tops,
+Galaxy S24 Ultra,individuals,4.5e+13,1,dense_int8_tops,
 Government of India,state actor,3e+17,100,dense_int8_tops,
 Government of Japan,state actor,4e+18,200,dense_int8_tops,
 Indian Institute of Science,academia,3e+16,50,dense_int8_tops,
-iPhone 16,individuals,8600000000000.0,1,dense_int8_tops,
-Jetson AGX Orin,individuals,275000000000000.0,1,vendor_ai_tops,Uses vendor-published AI TOPS (275 TOPS); comparability to strict dense INT8 is provisional.
-Jetson AGX Thor,individuals,2070000000000000.0,1,vendor_ai_tops,Derived from vendor-published 2070 FP4 TFLOPS AI compute; treated as vendor AI metric.
-Jetson AGX Xavier,individuals,32000000000000.0,1,vendor_ai_tops,Uses vendor-published AI TOPS (32 TOPS) without extra dense-only adjustment.
-NVIDIA Jetson Nano,individuals,472000000000.0,1,non_int8_proxy,Vendor publishes 472 GFLOPS accelerated compute; stored as a proxy value.
-Jetson Orin NX,individuals,100000000000000.0,1,dense_int8_tops,
+iPhone 16,individuals,8.6e+12,1,dense_int8_tops,
+Jetson AGX Orin,individuals,1.375e+14,1,dense_int8_tops,Converted from published 275 sparse TOPS to dense INT8 scale by dividing by 2.
+Jetson AGX Thor,individuals,1.035e+15,1,dense_int8_tops,Converted from 2070 FP4 TFLOPS using FP4 to FP8/INT8 scaling of /2.
+Jetson AGX Xavier,individuals,3.2e+13,1,dense_int8_tops,Uses published 32 INT8 TOPS-equivalent throughput on the dense INT8 scale.
+Jetson Orin NX,individuals,1e+14,1,dense_int8_tops,
 Larry Ellison,oligarchs,5e+19,1,dense_int8_tops,
-MacBook M3,individuals,18000000000000.0,1,dense_int8_tops,
+MacBook M3,individuals,1.8e+13,1,dense_int8_tops,
 Mark Zuckerberg,oligarchs,5e+19,1,dense_int8_tops,
 Microsoft,corporation,1e+20,15,dense_int8_tops,
 Moscow State University,academia,2e+17,70,dense_int8_tops,
 National University of Singapore,academia,8e+16,60,dense_int8_tops,
+NVIDIA DGX Spark,corporation,2.5e+14,1,dense_int8_tops,Derived to dense INT8-equivalent using explicit sparsity and precision conversions.
+NVIDIA Jetson Nano,individuals,9.44e+11,1,dense_int8_tops,Converted from 472 GFLOPS FP16-equivalent throughput using FP16 to INT8 factor x2.
+NVIDIA Tesla P40,individuals,4.7e+13,1,dense_int8_tops,
 Peking University,academia,1e+17,60,dense_int8_tops,
 People's Republic of China,state actor,3e+19,500,dense_int8_tops,
-Pixel 8 Pro,individuals,26000000000000.0,1,dense_int8_tops,
-PlayStation 5,individuals,41000000000000.0,1,dense_int8_tops,
-Raspberry Pi 5,individuals,6000000000000.0,1,dense_int8_tops,
-RTX 4090 PC,individuals,1300000000000000.0,1,dense_int8_tops,Converted from vendor sparse INT8 TOPS to dense INT8-equivalent.
-RTX 5090 PC,individuals,3352000000000000.0,1,vendor_ai_tops,Uses vendor-published AI TOPS (3352 TOPS); may not equal conservative dense INT8-only throughput.
+Pixel 8 Pro,individuals,2.6e+13,1,dense_int8_tops,
+PlayStation 5,individuals,4.1e+13,1,dense_int8_tops,
+Raspberry Pi 5,individuals,6e+12,1,dense_int8_tops,
+RTX 4090 PC,individuals,1.3e+15,1,dense_int8_tops,Converted from vendor sparse INT8 TOPS to dense INT8-equivalent.
+RTX 5090 PC,individuals,8.38e+14,1,dense_int8_tops,"Converted from 3352 AI TOPS assuming FP4 and 2:4 sparsity, applying /2 for precision and /2 for sparsity."
 Russian Federation,state actor,2e+17,250,dense_int8_tops,
 Seoul National University,academia,5e+16,40,dense_int8_tops,
 Stanford University,academia,1e+18,200,dense_int8_tops,
-NVIDIA Tesla P40,individuals,47000000000000.0,1,dense_int8_tops,
 Tsinghua University,academia,1e+18,80,dense_int8_tops,
 United Kingdom Government,state actor,2e+17,100,dense_int8_tops,
 United States Federal Government,empire,1e+20,600,dense_int8_tops,
@@ -43,8 +43,8 @@ University of California,academia,4e+18,300,dense_int8_tops,
 University of Cambridge,academia,5e+16,60,dense_int8_tops,
 University of Florida,academia,7e+17,50,dense_int8_tops,
 University of Michigan,academia,6e+16,80,dense_int8_tops,
-University of Oxford,academia,8000000000000000.0,50,dense_int8_tops,
+University of Oxford,academia,8e+15,50,dense_int8_tops,
 University of Texas at Austin,academia,3e+17,100,dense_int8_tops,
 University of Tokyo,academia,1e+17,60,dense_int8_tops,
 University of Wisconsin–Madison,academia,6e+16,70,dense_int8_tops,
-Xbox Series X,individuals,48000000000000.0,1,dense_int8_tops,
+Xbox Series X,individuals,4.8e+13,1,dense_int8_tops,

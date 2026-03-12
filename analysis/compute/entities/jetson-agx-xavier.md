@@ -4,8 +4,8 @@ title: Jetson AGX Xavier
 name: Jetson AGX Xavier
 category: individuals
 compute: 3.20e+13
-compute_metric: vendor_ai_tops
-compute_note: "Uses vendor-published AI TOPS (32 TOPS) without extra dense-only adjustment."
+compute_metric: dense_int8_tops
+compute_note: "Uses published 32 INT8 TOPS-equivalent throughput on the dense INT8 scale."
 stakeholders: 1
 ---
 
@@ -16,8 +16,8 @@ NVIDIA lists the 64GB family at up to 32 TOPS AI performance.[^nvidia-jetson-xav
 
 ## Scope
 
-This entry uses the published 32 TOPS module figure as 3.20e+13 operations per second in dataset
-notation.[^nvidia-jetson-xavier]
+This entry uses the published 32 TOPS module figure directly on the dense INT8 scale as
+3.20e+13 operations per second in dataset notation.[^nvidia-jetson-xavier]
 
 **Total compute:** 3.20e+13 operations per second.
 

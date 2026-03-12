@@ -1,10 +1,10 @@
 Entities must include citations to justify the values they provide.
 
-Agents should not commit updates to any atifacts such as data.csv or chart.svg. These are generated when the analysis runs.
+Agents should not commit updates to any artifacts such as data.csv or chart.svg. These are generated when the analysis runs.
 
 ## Adding a new entity
 
-1. Create a markdown file in `analysis/compute/entities` with front matter for layout, title, name, category, compute, and a count of stakeholders.
+1. Create a markdown file in `analysis/compute/entities` with front matter for layout, title, name, category, compute, compute_metric, compute_note, and a count of stakeholders.
 2. Derive the compute figure in dense INT8 TOPS using the conversion rules below. If citations are missing or inaccessible, leave the `compute` field blank and add a note that further development is needed.
 3. Provide a concise description that states the compute figure and cites accessible sources.
 4. Include the number of stakeholders who control the resource.
@@ -18,8 +18,10 @@ Agents should not commit updates to any atifacts such as data.csv or chart.svg. 
 5. All entities must start with a simple description section (with a heading) of who they are and what they do.
 6. Next comes a scope section (with a heading) which elaborates on all compute resources controlled by that entity. Be sure not to leave anything out, even if we don't have data or measures for the scale of the resource. For example, we may know a lot about one aspect of an entity's compute resources, but not everything. Be sure to include all known resources, even if we don't have a measure for them. Whenever possible, include citations to justify the values provided. Estimates are ok, if there is a citation or justification and sufficient elaboration in this section to justify the estimate. Each scope section should end with a summary of the total compute resources controlled by the entity (broken down by each scope), in dense INT8 TOPS, or a note that further development is needed if citations are missing or inaccessible.
 7. Finally, include a section on the implications of this entity's compute resources (with a heading). This should be a short paragraph or two about what the compute resources mean for the entity and for the broader AI ecosystem. What are they using it for? What are the risks and threats to society and human survival? What are the opportunities and benefits? This section should be more speculative and less about hard data.
-8. Every entity must have a category. The current categories are: oligarchs, empires, academia, state actors, corporations, and individuals. The only empire in the world today is the united states. If there is a compelling reason to add another category, that is always an option. Make sure there are enough colors in the notebook palette to support the new category; add more colors if necessary.
-9. Last is a works cited section (with a heading), including links to all the sources cited, plus a mirror link to a local pdf copy of the source at the time when it was cited.
+8. Every entity must have a category. The current categories are: `oligarchs`, `empire`, `academia`, `state actor`, `corporation`, and `individuals`. The only empire in the world today is the united states. If there is a compelling reason to add another category, that is always an option. Make sure there are enough colors in the notebook palette to support the new category; add more colors if necessary.
+9. Every entity must include `compute_metric` with one of: `dense_int8_tops`, `vendor_ai_tops`, or `non_int8_proxy`.
+10. Every entity must include `compute_note` that explains the exact conversion path from the cited source figure.
+11. Last is a works cited section (with a heading), including links to all the sources cited, plus a mirror link to a local pdf copy of the source at the time when it was cited.
 
 
 ## Reviewing existing entries

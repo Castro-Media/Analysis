@@ -3,25 +3,24 @@ layout: default
 title: NVIDIA Jetson Nano
 name: NVIDIA Jetson Nano
 category: individuals
-compute: 4.72e+11
-compute_metric: non_int8_proxy
-compute_note: "Vendor publishes 472 GFLOPS accelerated compute; stored as a proxy value."
+compute: 9.44e+11
+compute_metric: dense_int8_tops
+compute_note: "Converted from 472 GFLOPS FP16-equivalent throughput using FP16 to INT8 factor x2."
 stakeholders: 1
 ---
 
 ## Description
 
-The NVIDIA Jetson Nano is an entry-level edge AI module for hobbyist robotics and embedded projects.
-NVIDIA publishes Jetson Nano performance as 472 GFLOPS accelerated compute, not as INT8 TOPS.[^nvidia-jetson-nano]
+The NVIDIA Jetson Nano is an entry-level edge AI module for hobbyist robotics and embedded
+projects. NVIDIA publishes Jetson Nano performance as 472 GFLOPS accelerated compute.[^nvidia-jetson-nano]
 
 ## Scope
 
-A single Jetson Nano is provisionally tracked at 4.72e+11 operations per second by mapping the
-published 472 GFLOPS figure into the dataset scientific notation format.[^nvidia-jetson-nano]
-Because this is not a vendor INT8 TOPS metric, this row is a proxy rather than a strict dense
-INT8 measurement.
+A single Jetson Nano is normalized to 9.44e+11 dense INT8 operations per second by applying the
+report conversion rule from FP16-equivalent throughput to INT8 throughput (x2) to the published
+472 GFLOPS figure.[^nvidia-jetson-nano]
 
-**Total compute:** 4.72e+11 operations per second (proxy from vendor GFLOPS figure).
+**Total compute:** 9.44e+11 dense INT8 operations per second.
 
 ## Implications
 

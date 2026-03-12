@@ -3,9 +3,9 @@ layout: default
 title: Jetson AGX Thor
 name: Jetson AGX Thor
 category: individuals
-compute: 2.07e+15
-compute_metric: vendor_ai_tops
-compute_note: "Derived from vendor-published 2070 FP4 TFLOPS AI compute; treated as vendor AI metric."
+compute: 1.035e+15
+compute_metric: dense_int8_tops
+compute_note: "Converted from 2070 FP4 TFLOPS using FP4 to FP8/INT8 scaling of /2."
 stakeholders: 1
 ---
 
@@ -16,18 +16,16 @@ NVIDIA materials publish up to 2070 FP4 TFLOPS AI compute for the platform.[^nvi
 
 ## Scope
 
-This entry records 2.07e+15 operations per second using the published 2070 AI-compute figure in
-dataset notation.[^nvidia-jetson-thor]
-Because the public value is framed as FP4 AI compute rather than strict dense INT8 TOPS, this row
-is provisional for cross-entry comparability.
+This entry converts the published 2070 FP4 TFLOPS figure to the dense INT8 scale. Using the report
+precision rule where FP4 throughput is 2x FP8/INT8 throughput, the dense INT8-equivalent value is
+1035 TOPS, or 1.035e+15 operations per second.[^nvidia-jetson-thor]
 
-**Total compute:** 2.07e+15 operations per second (provisional, mixed-precision vendor metric).
+**Total compute:** 1.035e+15 dense INT8 operations per second.
 
 ## Implications
 
 Thor-class edge modules may close part of the gap between embedded systems and datacenter-class AI
-inference nodes. The normalization method should be explicit whenever this entry is compared with
-dense INT8-only hardware rows.
+inference nodes while remaining comparable to the rest of this report on the dense INT8 scale.
 
 ## Works Cited
 
