@@ -4,6 +4,7 @@ Amazon,corporation,5e+19,15
 Apple,corporation,5e+19,12
 California State University,academia,5e+16,200
 Coral USB Accelerator,individuals,4000000000000.0,1
+NVIDIA DGX Spark,corporations,250000000000000.0,1
 Elon Musk,oligarchs,2e+20,1
 ETH Zürich,academia,2e+17,70
 European Union,state actor,2e+19,100
@@ -12,7 +13,10 @@ Government of India,state actor,3e+17,100
 Government of Japan,state actor,4e+18,200
 Indian Institute of Science,academia,3e+16,50
 iPhone 16,individuals,8600000000000.0,1
-NVIDIA Jetson Nano,individuals,20000000000000.0,1
+Jetson AGX Orin,individuals,275000000000000.0,1
+Jetson AGX Thor,individuals,2070000000000000.0,1
+Jetson AGX Xavier,individuals,32000000000000.0,1
+NVIDIA Jetson Nano,individuals,472000000000.0,1
 Jetson Orin NX,individuals,100000000000000.0,1
 Larry Ellison,oligarchs,5e+19,1
 MacBook M3,individuals,18000000000000.0,1
@@ -26,6 +30,7 @@ Pixel 8 Pro,individuals,26000000000000.0,1
 PlayStation 5,individuals,41000000000000.0,1
 Raspberry Pi 5,individuals,6000000000000.0,1
 RTX 4090 PC,individuals,1300000000000000.0,1
+RTX 5090 PC,individuals,3352000000000000.0,1
 Russian Federation,state actor,2e+17,250
 Seoul National University,academia,5e+16,40
 Stanford University,academia,1e+18,200
