@@ -15,6 +15,7 @@ iPhone 16,individuals,8.6e+12,1,dense_int8_tops,
 Jetson AGX Orin,individuals,1.375e+14,1,dense_int8_tops,Converted from published 275 sparse TOPS to dense INT8 scale by dividing by 2.
 Jetson AGX Thor,individuals,1.035e+15,1,dense_int8_tops,Converted from 2070 FP4 TFLOPS using FP4 to FP8/INT8 scaling of /2.
 Jetson AGX Xavier,individuals,3.2e+13,1,dense_int8_tops,Uses published 32 INT8 TOPS-equivalent throughput on the dense INT8 scale.
+Jetson Orin Nano Super,individuals,3.35e+13,1,dense_int8_tops,Converted from published 67 sparse INT8 TOPS to dense INT8 scale by dividing by 2.
 Jetson Orin NX,individuals,1e+14,1,dense_int8_tops,
 Larry Ellison,oligarchs,5e+19,1,dense_int8_tops,
 MacBook M3,individuals,1.8e+13,1,dense_int8_tops,
