@@ -9,7 +9,7 @@ folder: news-asia-dw
 url: https://rss.dw.com/rdf/rss-en-asia
 api_key: null
 cadence: hourly
-last_fetched: 2026-03-14T13:13
+last_fetched: 2026-03-14T14:59
 description: Asia News from Deutsche Welle
 link: https://www.dw.com
 ---
