@@ -9,7 +9,7 @@ folder: news-africa-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-04-05T21:01
+last_fetched: 2026-04-05T23:01
 description: Africa News from the New York Times
 link: https://www.nytimes.com
 ---
