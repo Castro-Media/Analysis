@@ -9,7 +9,7 @@ folder: news-us-wsj
 url: https://feeds.content.dowjones.io/public/rss/RSSUSNews
 api_key: null
 cadence: hourly
-last_fetched: 2026-04-11T17:03
+last_fetched: 2026-04-11T19:08
 description: US News from the Wall Street Journal
 link: https://www.wsj.com
 ---
