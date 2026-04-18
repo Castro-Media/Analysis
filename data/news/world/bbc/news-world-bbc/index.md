@@ -9,7 +9,7 @@ folder: news-world-bbc
 url: https://feeds.bbci.co.uk/news/world/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-04-18T04:41
+last_fetched: 2026-04-18T06:15
 description: BBC News World
 link: http://bbc.co.uk
 ---
