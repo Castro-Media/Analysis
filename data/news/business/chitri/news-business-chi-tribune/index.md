@@ -9,7 +9,7 @@ folder: news-business-chi-tribune
 url: https://www.chicagotribune.com/arc/outboundfeeds/rss/section/business/&sort=display_date:desc
 api_key: null
 cadence: hourly
-last_fetched: 2026-04-23T03:58
+last_fetched: 2026-04-23T05:40
 description: Business News from the Chicago Tribune
 link: https://www.chicagotribune.com
 ---
