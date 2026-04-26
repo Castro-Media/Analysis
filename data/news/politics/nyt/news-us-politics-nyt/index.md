@@ -9,7 +9,7 @@ folder: news-us-politics-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-04-26T15:06
+last_fetched: 2026-04-26T17:06
 description: US Politics News from the New York Times
 link: https://www.nytimes.com
 ---
