@@ -9,7 +9,7 @@ folder: news-middle-east-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-04-28T01:24
+last_fetched: 2026-04-28T02:47
 description: Middle East News from the New York Times
 link: https://www.nytimes.com
 ---
