@@ -9,7 +9,7 @@ folder: news-asia-bbc
 url: http://feeds.bbci.co.uk/news/world/asia/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-04-28T23:10
+last_fetched: 2026-04-29T01:25
 description: BBC News Asia
 link: http://bbc.co.uk
 ---
