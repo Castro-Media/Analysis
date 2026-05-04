@@ -10,7 +10,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=GFDEBTN&file_
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2026-04-04T00:00
+last_fetched: 2026-05-04T00:07
 description: 'US Federal Debt: Total US Public Debt'
 link: https://fred.stlouisfed.org/series/GFDEBTN
 ---
