@@ -9,7 +9,7 @@ folder: news-world-dw
 url: https://rss.dw.com/rdf/rss-en-world
 api_key: null
 cadence: hourly
-last_fetched: 2026-05-05T23:11
+last_fetched: 2026-05-06T01:21
 description: World News from Deutsche Welle
 link: https://www.dw.com
 ---
