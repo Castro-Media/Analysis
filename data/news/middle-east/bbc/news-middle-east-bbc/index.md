@@ -9,7 +9,7 @@ folder: news-middle-east-bbc
 url: http://feeds.bbci.co.uk/news/world/middle_east/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-05-15T14:38
+last_fetched: 2026-05-15T16:26
 description: BBC News Middle East
 link: http://bbc.co.uk
 ---
