@@ -9,7 +9,7 @@ folder: news-world-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-05-20T16:05
+last_fetched: 2026-05-20T17:49
 description: World News from the New York Times
 link: https://www.nytimes.com
 ---
