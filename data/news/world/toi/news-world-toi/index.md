@@ -9,7 +9,7 @@ folder: news-world-toi
 url: http://timesofindia.indiatimes.com/rssfeeds/296589292.cms
 api_key: null
 cadence: hourly
-last_fetched: 2026-05-22T14:46
+last_fetched: 2026-05-22T15:47
 description: World News from the Times of India
 link: https://timesofindia.indiatimes.com
 ---
