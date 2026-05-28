@@ -9,7 +9,7 @@ folder: news-world-wapo
 url: https://feeds.washingtonpost.com/rss/world
 api_key: null
 cadence: hourly
-last_fetched: 2026-05-28T16:16
+last_fetched: 2026-05-28T17:54
 description: World News from the Washington Post
 link: https://www.washingtonpost.com
 ---
