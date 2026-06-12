@@ -9,7 +9,7 @@ folder: news-world-wsj
 url: https://feeds.content.dowjones.io/public/rss/RSSWorldNews
 api_key: null
 cadence: hourly
-last_fetched: 2026-06-12T19:31
+last_fetched: 2026-06-12T20:34
 description: World News from the Wall Street Journal
 link: https://www.wsj.com
 ---
