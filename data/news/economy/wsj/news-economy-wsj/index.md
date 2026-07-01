@@ -9,7 +9,7 @@ folder: news-economy-wsj
 url: https://feeds.content.dowjones.io/public/rss/socialeconomyfeed
 api_key: null
 cadence: hourly
-last_fetched: 2026-07-01T13:41
+last_fetched: 2026-07-01T14:46
 description: US Economy News from the Wall Street Journal
 link: https://www.wsj.com
 ---
