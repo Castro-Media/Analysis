@@ -9,7 +9,7 @@ folder: news-us-toi
 url: https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms
 api_key: null
 cadence: hourly
-last_fetched: 2026-07-01T10:11
+last_fetched: 2026-07-01T11:49
 description: US News from the Times of India
 link: https://timesofindia.indiatimes.com
 ---
