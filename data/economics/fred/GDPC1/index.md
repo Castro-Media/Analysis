@@ -10,7 +10,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=GDPC1&file_ty
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2026-06-03T00:21
+last_fetched: 2026-07-03T01:22
 description: US Real GDP (quarterly)
 link: https://fred.stlouisfed.org/series/GDPC1
 ---
