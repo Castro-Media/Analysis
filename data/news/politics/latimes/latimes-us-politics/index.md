@@ -9,7 +9,7 @@ folder: latimes-us-politics
 url: https://www.latimes.com/politics/rss2.0.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-07-13T17:32
+last_fetched: 2026-07-13T19:18
 description: US Politics News from the Los Angeles Times
 link: https://www.latimes.com
 ---
