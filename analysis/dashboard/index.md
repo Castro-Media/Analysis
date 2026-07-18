@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Data Source Dashboard
-description: Summarizes all data sources and their current headline counts.
-date: 2025-07-18 22:34:03
+description: Reports the latest fetch time and item count for every configured news feed.
+dependencies:
+  - data/news
 ---
 
-## Data Source Dashboard
+## News Feed Dashboard
 
-A summary of all data sources and their current headline counts.
-
-<p>Last updated: <strong>2025-07-18 22:34:03</strong></p>
+A report of every configured RSS, XML, or publisher API feed. `item_count` is the number of entries in the feed's current `latest.json`; `latest_status` distinguishes populated, empty, missing, and unreadable outputs.
 
 <div id="dashboard-table"></div>
 <script>
