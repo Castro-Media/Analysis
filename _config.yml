@@ -1,0 +1,6 @@
+# Keep timestamped analysis history in Git without publishing it to Pages.
+# Current analysis outputs remain available to the public site and TSR.
+exclude:
+  - analysis/headline_analysis/archive
+  - analysis/headlines/archive
+  - analysis/news-topics/archive
