@@ -9,7 +9,7 @@ folder: news-politics-cbc
 url: https://www.cbc.ca/webfeed/rss/rss-politics
 api_key: null
 cadence: hourly
-last_fetched: 2026-07-19T00:10
+last_fetched: 2026-07-19T01:19
 description: CBC | Politics News
 link: https://cbc.ca
 ---
