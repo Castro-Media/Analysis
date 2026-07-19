@@ -9,7 +9,7 @@ folder: news-us-politics-chi-tribune
 url: https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=80&per_page=100&_fields=date_gmt,link,title
 api_key: null
 cadence: hourly
-last_fetched: 2026-07-19T22:10
+last_fetched: 2026-07-19T23:10
 description: US Politics News from the Chicago Tribune
 link: https://www.chicagotribune.com
 ---
