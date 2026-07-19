@@ -6,7 +6,7 @@ category: news-politics
 source: wapo
 filetype: rss
 folder: news-us-politics-wapo
-url: https://www.washingtonpost.com/arcio/rss/category/politics/
+url: https://feeds.washingtonpost.com/rss/politics
 api_key: null
 cadence: hourly
 last_fetched: 2026-07-19T02:47

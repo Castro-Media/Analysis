@@ -4,9 +4,9 @@ title: chitri - Chicago News from the Chicago Tribune
 date: 2025-07-16T15:53
 category: news-world
 source: chitri
-filetype: rss
+filetype: wordpress
 folder: news-world-chi-tribune
-url: https://www.chicagotribune.com/arc/outboundfeeds/rss/section/nation-world/&sort=display_date:desc
+url: https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=85&per_page=100&_fields=date_gmt,link,title
 api_key: null
 cadence: hourly
 last_fetched: 2026-07-19T02:47
