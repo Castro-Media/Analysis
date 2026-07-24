@@ -9,7 +9,7 @@ folder: news-world-chi-tribune
 url: https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=85&per_page=100&_fields=date_gmt,link,title
 api_key: null
 cadence: hourly
-last_fetched: 2026-07-23T23:11
+last_fetched: 2026-07-24T00:11
 description: Chicago News from the Chicago Tribune
 link: https://www.chicagotribune.com
 ---
