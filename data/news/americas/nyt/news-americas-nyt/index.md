@@ -9,7 +9,7 @@ folder: news-americas-nyt
 url: https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-07-24T17:19
+last_fetched: 2026-07-24T20:17
 description: Americas' News from the New York Times
 link: https://www.nytimes.com
 ---
