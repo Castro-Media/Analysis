@@ -9,7 +9,7 @@ folder: news-business-wsj
 url: https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
 api_key: null
 cadence: hourly
-last_fetched: 2026-08-04T14:40
+last_fetched: 2026-08-04T16:30
 description: US Business News from the Wall Street Journal
 link: https://www.wsj.com
 ---
