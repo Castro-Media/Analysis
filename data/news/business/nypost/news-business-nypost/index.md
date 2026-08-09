@@ -9,7 +9,7 @@ folder: news-business-nypost
 url: https://nypost.com/business/feed/
 api_key: null
 cadence: hourly
-last_fetched: 2026-08-09T17:04
+last_fetched: 2026-08-09T19:07
 description: Business News from the New York Post
 link: null
 ---
