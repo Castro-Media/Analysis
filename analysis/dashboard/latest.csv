@@ -28,7 +28,7 @@ data/news/middle-east/nyt/news-middle-east-nyt,news-middle-east,nyt,nyt - Middle
 data/news/middle-east/toi/news-middle-east-toi,news-middle-east,toi,"toi - Gulf News, Latest Middle East News Headlines & Live News Updates - Times",2026-08-14T21:00,20,ok,http://timesofindia.indiatimes.com/rssfeeds/1898272.cms
 data/news/politics/bbc/news-politics-bbc,news-politics,bbc,bbc - BBC News Politics,2026-08-14T21:00,72,ok,https://feeds.bbci.co.uk/news/politics/rss.xml
 data/news/politics/cbc/news-politics-cbc,news-politics,cbc,cbc - CBC | Politics News,2026-08-14T21:00,20,ok,https://www.cbc.ca/webfeed/rss/rss-politics
-data/news/politics/chitri/news-us-politics-chi-tribune,news-politics,chitri,chitri - US Politics News from the Chicago Tribune,2026-08-14T19:12,100,ok,"https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=80&per_page=100&_fields=date_gmt,link,title"
+data/news/politics/chitri/news-us-politics-chi-tribune,news-politics,chitri,chitri - US Politics News from the Chicago Tribune,2026-08-14T21:57,100,ok,"https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=80&per_page=100&_fields=date_gmt,link,title"
 data/news/politics/latimes/latimes-us-politics,news-politics,latimes,latimes - US Politics News from the Los Angeles Times,2026-08-14T21:00,97,ok,https://www.latimes.com/politics/rss2.0.xml
 data/news/politics/nypost/news-us-politics-nypost,news-politics,nypost,nypost - US Politics News from the New York Post,2026-08-14T21:00,20,ok,https://nypost.com/politics/feed/
 data/news/politics/nyt/news-us-politics-nyt,news-politics,nyt,nyt - US Politics News from the New York Times,2026-08-14T21:00,20,ok,https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
@@ -47,7 +47,7 @@ data/news/us/wapo/news-us-wapo,news-us,wapo,wapo - US News from the Washington P
 data/news/us/wsj/news-us-wsj,news-us,wsj,wsj - US News from the Wall Street Journal,2026-08-14T21:00,40,ok,https://feeds.content.dowjones.io/public/rss/RSSUSNews
 data/news/world/bbc/news-world-bbc,news-world,bbc,bbc - BBC News World,2026-08-14T21:00,29,ok,https://feeds.bbci.co.uk/news/world/rss.xml
 data/news/world/cbc/news-world-cbc,news-world,cbc,cbc - CBC | World News,2026-08-14T21:00,20,ok,https://www.cbc.ca/webfeed/rss/rss-world
-data/news/world/chitri/news-world-chi-tribune,news-world,chitri,chitri - Chicago News from the Chicago Tribune,2026-08-14T19:12,100,ok,"https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=85&per_page=100&_fields=date_gmt,link,title"
+data/news/world/chitri/news-world-chi-tribune,news-world,chitri,chitri - Chicago News from the Chicago Tribune,2026-08-14T21:57,100,ok,"https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=85&per_page=100&_fields=date_gmt,link,title"
 data/news/world/dw/news-world-dw,news-world,dw,dw - World News from Deutsche Welle,2026-08-14T21:00,12,ok,https://rss.dw.com/rdf/rss-en-world
 data/news/world/nypost/news-world-nypost,news-world,nypost,nypost - World News from the New York Post,2026-08-14T21:00,20,ok,https://nypost.com/world-news/feed/
 data/news/world/nyt/news-world-nyt,news-world,nyt,nyt - World News from the New York Times,2026-08-14T21:00,53,ok,https://rss.nytimes.com/services/xml/rss/nyt/World.xml
