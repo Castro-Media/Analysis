@@ -9,7 +9,7 @@ folder: news-us-eltecolote
 url: https://eltecolote.org/content/en/feed/
 api_key: null
 cadence: hourly
-last_fetched: 2026-09-14T04:56
+last_fetched: 2026-09-14T07:10
 description: News from El Tecolote
 link: https://eltecolote.org
 ---
