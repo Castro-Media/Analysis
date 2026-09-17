@@ -1,0 +1,604 @@
+{
+  "entries": [
+    {
+      "title": "House passes bill aimed at addressing impact of data centers on energy costs",
+      "link": "https://www.chicagotribune.com/2026/09/16/house-bill-data-centers-energy-costs/",
+      "published": "Wed, 16 Sep 2026 23:33:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "House approves sweeping Russia sanctions bill, sending it to President Trump",
+      "link": "https://www.chicagotribune.com/2026/09/16/house-approves-russia-sanctions-bill/",
+      "published": "Wed, 16 Sep 2026 22:44:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mayor Brandon Johnson’s renters’ rights bill advances",
+      "link": "https://www.chicagotribune.com/2026/09/16/mayor-brandon-johnson-renters-rights-bill/",
+      "published": "Wed, 16 Sep 2026 21:13:22 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
+      "link": "https://www.chicagotribune.com/2026/09/16/us-stocks-slip-fed-rate-hike/",
+      "published": "Wed, 16 Sep 2026 20:54:10 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Dr. Nicole Saphier, President Trump’s 3rd surgeon general pick, faces Senate questions over her vaccine stance",
+      "link": "https://www.chicagotribune.com/2026/09/16/dr-nicole-saphier-surgeon-general-pick/",
+      "published": "Wed, 16 Sep 2026 20:51:27 +0000",
+      "sentiment": 0.02500000000000001
+    },
+    {
+      "title": "Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it",
+      "link": "https://www.chicagotribune.com/2026/09/16/kennedy-center-building-trump-aligned-board-votes-to-close/",
+      "published": "Wed, 16 Sep 2026 17:27:09 +0000",
+      "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "Trump administration hits South Africa with new sanctions over alleged discrimination against whites",
+      "link": "https://www.chicagotribune.com/2026/09/16/trump-administration-south-africa-sanctions-alleged-discrimination/",
+      "published": "Wed, 16 Sep 2026 14:19:58 +0000",
+      "sentiment": 0.018181818181818174
+    },
+    {
+      "title": "Mayor Brandon Johnson pitches renters’ rights compromise, opponents balk as fight continues",
+      "link": "https://www.chicagotribune.com/2026/09/16/chicago-renters-rights-compromise/",
+      "published": "Wed, 16 Sep 2026 10:00:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chicago school board president candidates field questions in televised town hall",
+      "link": "https://www.chicagotribune.com/2026/09/15/chicago-school-board-president-candidates-televised-debate/",
+      "published": "Wed, 16 Sep 2026 03:42:33 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gov. JB Pritzker says state investigation of fatal Midway Blitz shooting ‘near impossible’ to complete",
+      "link": "https://www.chicagotribune.com/2026/09/15/jb-pritzker-operation-midway-blitz-anniversary/",
+      "published": "Wed, 16 Sep 2026 00:08:41 +0000",
+      "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
+      "link": "https://www.chicagotribune.com/2026/09/15/senate-blocks-cryptocurrency-regulation/",
+      "published": "Tue, 15 Sep 2026 21:58:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Illinois Democrats cheer Supreme Court mail-in voting order while President Trump lashes out at justices",
+      "link": "https://www.chicagotribune.com/2026/09/15/supreme-court-mail-in-ballot/",
+      "published": "Tue, 15 Sep 2026 21:16:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Indiana again to reimburse communities for gas tax loss",
+      "link": "https://www.chicagotribune.com/2026/09/15/indiana-again-to-reimburse-communities-for-gas-tax-loss/",
+      "published": "Tue, 15 Sep 2026 20:03:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Kee forfeiture damages moved to federal court as Secret Service seeks dismissal",
+      "link": "https://www.chicagotribune.com/2026/09/15/kee-forfeiture-damages-secret-service-ruling/",
+      "published": "Tue, 15 Sep 2026 19:04:59 +0000",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Forest Preserves spent extra $40 million yearly on expanded conservation, maintenance",
+      "link": "https://www.chicagotribune.com/2026/09/15/forest-preserves-spending/",
+      "published": "Tue, 15 Sep 2026 18:54:39 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Kennedy Center will close for renovations after judge blocks returning Trump’s name to building",
+      "link": "https://www.chicagotribune.com/2026/09/15/kennedy-center-closure-board-vote/",
+      "published": "Tue, 15 Sep 2026 18:26:13 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Sweeteners negotiated for Chicago parking meter deal, aldermen say",
+      "link": "https://www.chicagotribune.com/2026/09/15/chicago-parking-meters-lease/",
+      "published": "Tue, 15 Sep 2026 16:21:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gutted and remodeled, Donald Trump’s childhood home sells for nearly $2 million",
+      "link": "https://www.chicagotribune.com/2026/09/15/donald-trump-childhood-home/",
+      "published": "Tue, 15 Sep 2026 16:09:16 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "FBI chief Kash Patel defends hiring policy changes on prostitution, bestiality at fiery hearing",
+      "link": "https://www.chicagotribune.com/2026/09/15/fbi-kash-patel-employment-standards/",
+      "published": "Tue, 15 Sep 2026 16:00:15 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Aldermen call for traffic safety action in wake of city employee’s bike death",
+      "link": "https://www.chicagotribune.com/2026/09/15/aldermen-traffic-safety/",
+      "published": "Tue, 15 Sep 2026 14:14:18 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "US acknowledges for the first time that it has deployed weapons in space",
+      "link": "https://www.chicagotribune.com/2026/09/15/us-weapons-space/",
+      "published": "Tue, 15 Sep 2026 13:00:06 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Tech CEOs call for AI regulation. President Donald Trump and Congress are not rushing to act.",
+      "link": "https://www.chicagotribune.com/2026/09/15/tech-ceos-ai-regulation/",
+      "published": "Tue, 15 Sep 2026 11:43:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Supreme Court lifts a cloud over midterms, letting mail ballots flow as normal to voters",
+      "link": "https://www.chicagotribune.com/2026/09/15/supreme-court-midterms-mail-ballots-voters/",
+      "published": "Tue, 15 Sep 2026 11:19:43 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Northwest Side attorney Bill Quinlan enters Chicago mayoral race",
+      "link": "https://www.chicagotribune.com/2026/09/15/bill-quinlan-chicago-mayoral-race/",
+      "published": "Tue, 15 Sep 2026 10:00:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Former federal prosecutor to take over as Illinois’ acting legislative ethics watchdog Oct. 1",
+      "link": "https://www.chicagotribune.com/2026/09/14/former-federal-prosecutor-to-take-over-as-illinois-acting-legislative-ethics-watchdog-oct-1/",
+      "published": "Mon, 14 Sep 2026 23:55:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Supreme Court rejects President Trump’s mail ballot restrictions for now ahead of midterms",
+      "link": "https://www.chicagotribune.com/2026/09/14/supreme-court-trump-mail-ballot-restrictions/",
+      "published": "Mon, 14 Sep 2026 23:47:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "GOP Sen. Mitch McConnell returns to Senate for the first time since his June hospitalization",
+      "link": "https://www.chicagotribune.com/2026/09/14/mitch-mcconnell-senate-return/",
+      "published": "Mon, 14 Sep 2026 22:28:27 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Ex-CIA Director John Brennan issued subpoena in Trump ‘grand conspiracy’ investigation, lawyer says",
+      "link": "https://www.chicagotribune.com/2026/09/14/ex-cia-john-brennan-subpoena/",
+      "published": "Mon, 14 Sep 2026 21:58:06 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Judge temporarily blocks Illinois aid-in-dying law for Catholic health providers",
+      "link": "https://www.chicagotribune.com/2026/09/14/llinois-aid-in-dying-law-order/",
+      "published": "Mon, 14 Sep 2026 21:40:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump backs Darren Bailey for Illinois governor as GOP candidate has sought to distance himself from president",
+      "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-endorses-darren-bailey/",
+      "published": "Mon, 14 Sep 2026 21:12:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Illinois and Chicago sue Trump over looming rule making it harder for immigrants to get green cards",
+      "link": "https://www.chicagotribune.com/2026/09/14/green-card-restrictions/",
+      "published": "Mon, 14 Sep 2026 20:08:32 +0000",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "La Grange appoints former pub owner Steve Palmer to Village Board post",
+      "link": "https://www.chicagotribune.com/2026/09/14/lagrange-steve-palmer-nomination/",
+      "published": "Mon, 14 Sep 2026 19:08:15 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "City advancing $13.75 million more for lawsuits tied to ex-cop’s alleged misconduct",
+      "link": "https://www.chicagotribune.com/2026/09/14/city-lawsuits-ex-cop-alleged-misconduct/",
+      "published": "Mon, 14 Sep 2026 17:53:16 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Donald Trump Jr.’s wedding celebration was partially funded by Russian oligarch, the couple confirms",
+      "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-jr-wedding-celebration-russian-oligarch/",
+      "published": "Mon, 14 Sep 2026 17:42:39 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Indiana Black Legislative Caucus pushing for utility accountability in 2027",
+      "link": "https://www.chicagotribune.com/2026/09/14/indiana-black-legislative-caucus-pushing-for-utility-accountability-in-2027/",
+      "published": "Mon, 14 Sep 2026 17:33:40 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Ballot item to ask Clarendon Hills voters if village clerk should become appointed position",
+      "link": "https://www.chicagotribune.com/2026/09/14/clarendon-hills-clerk-referendum/",
+      "published": "Mon, 14 Sep 2026 15:33:50 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and data centers",
+      "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ai-guardrails-data-centers/",
+      "published": "Mon, 14 Sep 2026 14:18:53 +0000",
+      "sentiment": -0.7142857142857143
+    },
+    {
+      "title": "Some Democrats are recalibrating their approach to transgender issues as they seek a path to power",
+      "link": "https://www.chicagotribune.com/2026/09/14/democrats-recalibrating-transgender-issues/",
+      "published": "Mon, 14 Sep 2026 12:07:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Donald Trump agreed to new ethics rules to get a crypto bill across the line. But that might not be enough.",
+      "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ethics-rules-crypto-bill/",
+      "published": "Mon, 14 Sep 2026 11:13:43 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in",
+      "link": "https://www.chicagotribune.com/2026/09/14/federal-judge-trump-mail-ballot-order/",
+      "published": "Mon, 14 Sep 2026 11:07:58 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "House Speaker Mike Johnson says President Donald Trump’s $5,000 ‘dividend’ needs congressional approval",
+      "link": "https://www.chicagotribune.com/2026/09/13/johnson-trumps-5000-dividend-congrssional-approval/",
+      "published": "Sun, 13 Sep 2026 19:51:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump ally in Wisconsin sticks close to the president as Democrats push to flip swing district",
+      "link": "https://www.chicagotribune.com/2026/09/13/trump-ally-in-wisconsin/",
+      "published": "Sun, 13 Sep 2026 16:00:15 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Chicago mayoral election 2027: Who are the candidates so far?",
+      "link": "https://www.chicagotribune.com/2026/09/13/chicago-mayor-race-2027-candidates/",
+      "published": "Sun, 13 Sep 2026 15:45:07 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Wisconsin congressman swims to safety after plane makes emergency landing",
+      "link": "https://www.chicagotribune.com/2026/09/13/tom-tiffany/",
+      "published": "Sun, 13 Sep 2026 15:23:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mayor Brandon Johnson declares reelection campaign",
+      "link": "https://www.chicagotribune.com/2026/09/13/mayor-brandon-johnson-reelection-campaign/",
+      "published": "Sun, 13 Sep 2026 13:50:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘Right thing to do’ or ‘feel-good’ PR? Suburbs split on whether ICE bans on municipal property actually work.",
+      "link": "https://www.chicagotribune.com/2026/09/13/chicago-suburbs-ice-free-zones/",
+      "published": "Sun, 13 Sep 2026 10:00:55 +0000",
+      "sentiment": 0.14285714285714285
+    },
+    {
+      "title": "Tracking COVID cash",
+      "link": "https://www.chicagotribune.com/2026/09/13/illinois-pandemic-aid/",
+      "published": "Sun, 13 Sep 2026 10:00:08 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Donald Trump touches a nerve while in Ireland by saying reunification would be ‘fantastic’",
+      "link": "https://www.chicagotribune.com/2026/09/12/donald-trump-ireland-reunification/",
+      "published": "Sat, 12 Sep 2026 16:02:54 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "As Chicago Bears eye Indiana move, Arlington Heights extends lobbyist contract to lure team there",
+      "link": "https://www.chicagotribune.com/2026/09/12/chicago-bears-indiana-arlington-heights-lobbyist-contract/",
+      "published": "Sat, 12 Sep 2026 15:39:24 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Will Mitch McConnell return to Senate when it reconvenes on Sept. 14?",
+      "link": "https://www.chicagotribune.com/2026/09/12/mitch-mcconnell-return-to-senate/",
+      "published": "Sat, 12 Sep 2026 13:28:45 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Is Operation Midway Blitz still ongoing? DHS lawyer had judge doing double take on bodycams.",
+      "link": "https://www.chicagotribune.com/2026/09/11/operation-midway-blitz/",
+      "published": "Fri, 11 Sep 2026 20:05:41 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A closer look at claims during the Republican midterm convention",
+      "link": "https://www.chicagotribune.com/2026/09/11/republican-midterm-convention-claims/",
+      "published": "Fri, 11 Sep 2026 18:05:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mayor Brandon Johnson taps activist social media influencer as communications director",
+      "link": "https://www.chicagotribune.com/2026/09/11/mayor-brandon-johnson-rachel-cohen/",
+      "published": "Fri, 11 Sep 2026 16:31:39 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Dozens gather in Lemont to remember Charlie Kirk, visit first Turning Point USA office",
+      "link": "https://www.chicagotribune.com/2026/09/11/lemont-remember-charie-kirk-turning-point/",
+      "published": "Fri, 11 Sep 2026 16:05:15 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over",
+      "link": "https://www.chicagotribune.com/2026/09/11/us-reopening-strait-of-hormuz/",
+      "published": "Fri, 11 Sep 2026 11:25:08 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "After years of delay, funding to restart Chicago-Quad Cities rail service has Illinois back on track",
+      "link": "https://www.chicagotribune.com/2026/09/11/chicago-quad-cities-rail-funding/",
+      "published": "Fri, 11 Sep 2026 10:00:23 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "JD Vance takes center stage at Republican convention as party faces midterm risks",
+      "link": "https://www.chicagotribune.com/2026/09/10/jd-vance-republican-midterm-convention/",
+      "published": "Thu, 10 Sep 2026 21:44:59 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Frank Mrvan asks FERC to investigate NIPSCO after prolonged outages",
+      "link": "https://www.chicagotribune.com/2026/09/10/mrvan-asks-ferc-to-investigate-nipsco-after-prolonged-outages/",
+      "published": "Thu, 10 Sep 2026 21:21:05 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Calumet City Clerk Nyota Figgs accuses Mayor Thaddeus Jones of malicious prosecution in new lawsuit",
+      "link": "https://www.chicagotribune.com/2026/09/10/calumet-city-clerk-nyota-figgs-accuses-mayor-thaddeus-jones-of-malicious-prosecution-in-new-lawsuit/",
+      "published": "Thu, 10 Sep 2026 20:48:03 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Missouri is poised to revert to former congressional districts after court rejects Trump-backed map",
+      "link": "https://www.chicagotribune.com/2026/09/10/missouri-elections-old-congressional-maps/",
+      "published": "Thu, 10 Sep 2026 20:30:51 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Illinois ethics panel accepts resignation and moves to quickly name acting legislative watchdog",
+      "link": "https://www.chicagotribune.com/2026/09/10/illinois-interim-inspector-general/",
+      "published": "Thu, 10 Sep 2026 20:23:10 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Roger Simon, a leading political writer including for the Tribune, dies at 78",
+      "link": "https://www.chicagotribune.com/2026/09/10/roger-simon-political-writer-dies/",
+      "published": "Thu, 10 Sep 2026 20:05:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Donald Trump wants to send Americans money. Congress and economists don’t seem thrilled with the idea.",
+      "link": "https://www.chicagotribune.com/2026/09/10/donald-trump-money-congress-economists/",
+      "published": "Thu, 10 Sep 2026 19:21:06 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Jimmy Kimmel says interview with James Talarico won’t air on TV under pressure from the FCC",
+      "link": "https://www.chicagotribune.com/2026/09/10/jimmy-kimmel-james-talarico-interview/",
+      "published": "Thu, 10 Sep 2026 18:43:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ald. Matt O’Shea becomes third council member to not seek reelection in 2027",
+      "link": "https://www.chicagotribune.com/2026/09/10/ald-matt-oshea-election-2027/",
+      "published": "Thu, 10 Sep 2026 16:38:59 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Federal judge denies bid to block Illinois’ medical-aid-in-dying law from taking effect Saturday",
+      "link": "https://www.chicagotribune.com/2026/09/10/federal-judge-denies-blocking-illinois-aid-in-dying-law/",
+      "published": "Thu, 10 Sep 2026 16:08:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Donald Trump promises $500 Obamacare rebate checks for 1M enrollees in 30 states",
+      "link": "https://www.chicagotribune.com/2026/09/10/donald-trump-500-obamacare-rebate-checks/",
+      "published": "Thu, 10 Sep 2026 15:19:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Republicans showcase their ‘big beautiful bill’ to voters, but the law’s impact has been mixed",
+      "link": "https://www.chicagotribune.com/2026/09/10/republicans-big-beautiful-bill-impact/",
+      "published": "Thu, 10 Sep 2026 12:08:59 +0000",
+      "sentiment": 0.2833333333333333
+    },
+    {
+      "title": "Hoping to salvage midterms, Donald Trump makes dubious pledge to give every US adult $5,000 if GOP wins",
+      "link": "https://www.chicagotribune.com/2026/09/10/donald-trump-gop-dallas-convention/",
+      "published": "Thu, 10 Sep 2026 11:19:40 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Nicor Gas agrees to lower proposed rate increase by $140 million",
+      "link": "https://www.chicagotribune.com/2026/09/09/nicor-gas-rate-increase/",
+      "published": "Thu, 10 Sep 2026 00:41:31 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lyons Township meeting gets rowdy following public release of video of two elected officials kissing in office",
+      "link": "https://www.chicagotribune.com/2026/09/09/lyons-township-meeting-kiss-video/",
+      "published": "Thu, 10 Sep 2026 00:24:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Aldermen blast Bally’s for construction halt, while casino says City Council sparked pause",
+      "link": "https://www.chicagotribune.com/2026/09/09/ballys-construction-halt/",
+      "published": "Wed, 09 Sep 2026 21:57:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘South Park’ creators Trey Parker and Matt Stone ‘rename’ show to ‘South America’ in jab at Trump",
+      "link": "https://www.chicagotribune.com/2026/09/09/south-park-renamed-south-america/",
+      "published": "Wed, 09 Sep 2026 20:51:57 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "An appeals court is considering a push to restrict most common abortion method: mifepristone",
+      "link": "https://www.chicagotribune.com/2026/09/09/courts-restrict-abortion-method-mifepristone/",
+      "published": "Wed, 09 Sep 2026 19:45:36 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Little Village Ald. Mike Rodriguez not running for reelection",
+      "link": "https://www.chicagotribune.com/2026/09/09/little-village-ald-mike-rodriguez-re-election/",
+      "published": "Wed, 09 Sep 2026 15:13:21 +0000",
+      "sentiment": -0.1875
+    },
+    {
+      "title": "President Trump uses midterm convention to pledge $5K payments if Republicans keep control of Congress",
+      "link": "https://www.chicagotribune.com/2026/09/09/republicans-dallas-midterm-convention/",
+      "published": "Wed, 09 Sep 2026 11:28:05 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Is the Cortland Street Bridge a precious landmark or a traffic albatross?",
+      "link": "https://www.chicagotribune.com/2026/09/09/cortland-street-bridge/",
+      "published": "Wed, 09 Sep 2026 10:00:37 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "As contract talks stall, CPS lunch workers unveil pledge for school board candidates",
+      "link": "https://www.chicagotribune.com/2026/09/08/cps-lunch-workers-pledge-school-board-candidates/",
+      "published": "Wed, 09 Sep 2026 01:13:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gov. Pritzker launches congressional PAC and rallies Democrats in Texas as GOP holds Dallas convention",
+      "link": "https://www.chicagotribune.com/2026/09/08/pritzker-federal-pac-texas/",
+      "published": "Wed, 09 Sep 2026 00:12:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US banning dairy products, most alcoholic beverages and motorcycles from Canada",
+      "link": "https://www.chicagotribune.com/2026/09/08/trump-canadian-products-retaliatory-tariffs/",
+      "published": "Tue, 08 Sep 2026 22:22:49 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Will County judge orders $16,500 in attorney fees for dismissed defamation lawsuit",
+      "link": "https://www.chicagotribune.com/2026/09/08/will-county-defamation-attorney-fees/",
+      "published": "Tue, 08 Sep 2026 20:14:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Trump honors 9/11 victims at the Ellipse, pledging to ‘never forget’",
+      "link": "https://www.chicagotribune.com/2026/09/08/trump-honors-9-11-victims-ellipse/",
+      "published": "Tue, 08 Sep 2026 20:07:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Illinois’ top legislative ethics watchdog resigning following investigation into Springfield sexual harassment",
+      "link": "https://www.chicagotribune.com/2026/09/08/illinois-top-legislative-ethics-watchdog-resigning/",
+      "published": "Tue, 08 Sep 2026 19:11:51 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Lonnie Bunch to retire from Smithsonian leadership following clash with Trump administration",
+      "link": "https://www.chicagotribune.com/2026/09/08/lonnie-bunch-smithsonian-leadership/",
+      "published": "Tue, 08 Sep 2026 17:08:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Donald Trump’s White House North Portico project nears completion",
+      "link": "https://www.chicagotribune.com/2026/09/08/trump-white-house-north-portico-project/",
+      "published": "Tue, 08 Sep 2026 15:39:53 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Donald Trump posts Space Force uniforms derived from fascist-inspired ‘Starship Troopers’ outfits",
+      "link": "https://www.chicagotribune.com/2026/09/08/space-force-uniforms-starship-troopers/",
+      "published": "Tue, 08 Sep 2026 14:09:49 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Cyclospora outbreak followed years of declining FDA foreign inspections",
+      "link": "https://www.chicagotribune.com/2026/09/08/cyclospora-outbreak-fda-foreign-inspections/",
+      "published": "Tue, 08 Sep 2026 11:26:56 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "What to know about Canada’s escalating trade war with the US as Prime Minister Mark Carney retaliates with tariffs",
+      "link": "https://www.chicagotribune.com/2026/09/08/what-to-know-canada-trade-war-tariffs/",
+      "published": "Tue, 08 Sep 2026 11:11:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The GOP was confident about keeping its Senate majority. Now the fight for control is wide open.",
+      "link": "https://www.chicagotribune.com/2026/09/08/gop-senate-majority-control/",
+      "published": "Tue, 08 Sep 2026 11:06:03 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "‘Knowledge is free’: Students without permanent legal status navigate Illinois in-state tuition changes",
+      "link": "https://www.chicagotribune.com/2026/09/08/illinois-in-state-tuition-changes/",
+      "published": "Tue, 08 Sep 2026 10:00:13 +0000",
+      "sentiment": 0.30000000000000004
+    },
+    {
+      "title": "Illinois law aimed at wrongful abuse claims follows years of debate between advocates and doctors",
+      "link": "https://www.chicagotribune.com/2026/09/08/illinois-child-abuse-law/",
+      "published": "Tue, 08 Sep 2026 10:00:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "AfD party’s landslide win in eastern Germany tests country’s ‘firewall’ against the far right",
+      "link": "https://www.chicagotribune.com/2026/09/07/afd-party-eastern-germany-elections/",
+      "published": "Mon, 07 Sep 2026 15:03:22 +0000",
+      "sentiment": 0.3952380952380952
+    },
+    {
+      "title": "Labor Day kicks off Illinois’ fall campaign season with distractions becoming a leading theme",
+      "link": "https://www.chicagotribune.com/2026/09/07/illinois-election-labor-day/",
+      "published": "Mon, 07 Sep 2026 10:00:40 +0000",
+      "sentiment": 0.45
+    },
+    {
+      "title": "German far-right party set for regional election triumph but uncertain of governing",
+      "link": "https://www.chicagotribune.com/2026/09/06/german-far-right-party-election/",
+      "published": "Sun, 06 Sep 2026 19:35:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions",
+      "link": "https://www.chicagotribune.com/2026/09/06/trump-supreme-court-mail-ballot-restrictions/",
+      "published": "Sun, 06 Sep 2026 18:18:27 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Alaska’s Bill Hill is one of several independents challenging Republicans in Congress. Can he win?",
+      "link": "https://www.chicagotribune.com/2026/09/06/alaskas-bill-hill-election/",
+      "published": "Sun, 06 Sep 2026 16:00:51 +0000",
+      "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
+      "link": "https://www.chicagotribune.com/2026/09/06/2026-midterms-final-stretch/",
+      "published": "Sun, 06 Sep 2026 16:00:34 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Operation Midway Blitz, one year later",
+      "link": "https://www.chicagotribune.com/2026/09/06/chicago-operation-midway-blitz-anniversary/",
+      "published": "Sun, 06 Sep 2026 10:00:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Local libraries: Free internet could be hampered by proposed federal cuts",
+      "link": "https://www.chicagotribune.com/2026/09/05/libraries-free-internet-proposed-federal-cuts/",
+      "published": "Sat, 05 Sep 2026 21:49:32 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "At the annual Socialism Conference in Chicago, signs of promise, protest and disagreement",
+      "link": "https://www.chicagotribune.com/2026/09/05/socialism-conference-chicago/",
+      "published": "Sat, 05 Sep 2026 18:33:54 +0000",
+      "sentiment": 0.0
+    }
+  ]
+}
