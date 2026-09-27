@@ -9,7 +9,7 @@ folder: news-business-bbc
 url: https://feeds.bbci.co.uk/news/business/rss.xml
 api_key: null
 cadence: hourly
-last_fetched: 2026-09-26T23:54
+last_fetched: 2026-09-27T01:23
 description: BBC News Business
 link: http://bbc.co.uk
 ---
