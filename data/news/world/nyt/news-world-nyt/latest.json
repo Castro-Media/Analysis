@@ -13,10 +13,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Who Were the Pilots on the FlyDubai Flight?",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
-      "published": "Sun, 04 Oct 2026 09:33:18 +0000",
-      "sentiment": -0.125
+      "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+      "published": "Sun, 04 Oct 2026 11:34:40 +0000",
+      "sentiment": -0.31666666666666665
     },
     {
       "title": "Brazil Election: What to Know as Lula and Bolsonaro Face Off in 2026 Presidential Race",
@@ -41,6 +41,12 @@
       "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
       "published": "Sun, 04 Oct 2026 08:38:42 +0000",
       "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Who Were the Pilots on the FlyDubai Flight?",
+      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
+      "published": "Sun, 04 Oct 2026 09:33:18 +0000",
+      "sentiment": -0.125
     },
     {
       "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
@@ -79,15 +85,9 @@
       "sentiment": 0.27708333333333335
     },
     {
-      "title": "FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says",
-      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html",
-      "published": "Sat, 03 Oct 2026 14:52:27 +0000",
-      "sentiment": -0.8
-    },
-    {
       "title": "Nobel Prizes 2026: What to Know",
       "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "published": "Sun, 04 Oct 2026 09:02:00 +0000",
+      "published": "Sun, 04 Oct 2026 09:02:01 +0000",
       "sentiment": 0.0
     },
     {
@@ -131,6 +131,12 @@
       "link": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
       "published": "Sat, 03 Oct 2026 10:00:13 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "FlyDubai Co-Pilot Used Crash Ax in ‘Terrorist’ Cockpit Attack, Emirates Says",
+      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html",
+      "published": "Sat, 03 Oct 2026 14:52:27 +0000",
+      "sentiment": -0.8
     },
     {
       "title": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
@@ -289,16 +295,16 @@
       "sentiment": -0.375
     },
     {
-      "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe",
-      "link": "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html",
-      "published": "Fri, 02 Oct 2026 04:01:10 +0000",
-      "sentiment": 0.008333333333333337
-    },
-    {
       "title": "China’s Push Into A.I. Has Led to a Problem: Too Much Usage",
       "link": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
       "published": "Fri, 02 Oct 2026 13:15:29 +0000",
       "sentiment": 0.2
+    },
+    {
+      "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe",
+      "link": "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html",
+      "published": "Fri, 02 Oct 2026 04:01:10 +0000",
+      "sentiment": 0.008333333333333337
     },
     {
       "title": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
@@ -335,12 +341,6 @@
       "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/2-passengers-who-helped-thwart-the-flydubai-attack-add-details-in-a-tv-interview",
       "published": "Thu, 01 Oct 2026 19:56:24 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
-      "link": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
-      "published": "Thu, 01 Oct 2026 21:47:30 +0000",
-      "sentiment": 0.05909090909090909
     }
   ]
 }

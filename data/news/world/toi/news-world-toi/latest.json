@@ -1,6 +1,78 @@
 {
   "entries": [
     {
+      "title": "Indian-origin US lawmaker Raja Krishnamoorthi introduces bills to help immigrant doctors, nurses",
+      "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-us-lawmaker-raja-krishnamoorthi-introduces-bills-to-help-immigrant-doctors-nurses/articleshow/134674909.cms",
+      "published": "2026-10-04T17:43:46+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "New lizard species found above 15,750 feet in Peru’s harsh Andes landscape",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-found-a-new-lizard-species-above-15750-feet-in-perus-andes-the-6-to-8cm-animal-uses-white-scales-and-patterned-markings-to-blend-into-one-of-south-americas-harshest-high-altitude-landscapes/articleshow/134672597.cms",
+      "published": "2026-10-04T17:00:00+05:30",
+      "sentiment": -0.015909090909090914
+    },
+    {
+      "title": "‘There’s so much money to be made’: Trump defends US data centres, warns they could go to China",
+      "link": "https://timesofindia.indiatimes.com/world/us/theres-so-much-money-to-be-made-trump-defends-us-data-centres-warns-they-could-go-to-china/articleshow/134672349.cms",
+      "published": "2026-10-04T14:42:06+05:30",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Antiques Roadshow Valuation: $100 Kleitsch find pegged at $500,000; painting later sells higher",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1939-a-california-family-bought-a-joseph-kleitsch-painting-from-his-widow-for-100-75-years-later-their-daughter-brought-it-to-antiques-roadshow-and-heard-a-500000-valuation/articleshow/134655272.cms",
+      "published": "2026-10-04T16:58:33+05:30",
+      "sentiment": 0.08055555555555555
+    },
+    {
+      "title": "Leonardo DiCaprio gave $1 million to a Seychelles debt swap that protected 410,000 sq km of ocean",
+      "link": "https://timesofindia.indiatimes.com/science/nature/leonardo-dicaprios-foundation-gave-1-million-to-a-seychelles-debt-swap-deal-by-2020-the-wider-project-had-helped-the-island-nation-protect-410000-sq-km-of-ocean-an-area-larger-than-germany/articleshow/134673582.cms",
+      "published": "2026-10-04T17:00:00+05:30",
+      "sentiment": 0.05416666666666667
+    },
+    {
+      "title": "Astronomers spot gas falling onto a neutron star, revealing how matter reaches its surface",
+      "link": "https://timesofindia.indiatimes.com/science/space/astronomers-spot-gas-falling-onto-a-neutron-star-for-the-first-time-revealing-how-matter-flows-towards-the-star/articleshow/134594156.cms",
+      "published": "2026-10-03T19:00:00+05:30",
+      "sentiment": 0.1903409090909091
+    },
+    {
+      "title": "Muskegon Lake had 347,350 tons of debris and 190,000 tons of contaminated soil removed",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-40-years-as-one-of-the-great-lakes-most-degraded-sites-muskegon-lake-had-347350-tons-of-debris-and-190000-tons-of-contaminated-soil-removed/articleshow/134619771.cms",
+      "published": "2026-10-03T16:30:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A 10.22-kg rock used as a Michigan barn doorstop was identified as a new iron meteorite",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/a-10-22-kg-rock-used-as-a-michigan-barn-doorstop-for-decades-was-identified-as-a-new-iron-meteorite/articleshow/134632686.cms",
+      "published": "2026-10-03T23:00:00+05:30",
+      "sentiment": 0.18636363636363634
+    },
+    {
+      "title": "Meet Daniel Cox, the student behind a chemical-free weed control system",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/meet-daniel-cox-a-sydney-student-who-built-a-solar-thermal-weed-control-system-that-achieved-92-weed-mortality-without-chemicals/articleshow/134565780.cms",
+      "published": "2026-10-03T14:00:00+05:30",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Australia released 17 threatened bettongs into a predator-free reserve",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/australia-released-17-threatened-bettongs-into-a-predator-free-reserve-the-digging-marsupials-could-help-restore-the-forest-ecosystem/articleshow/134567785.cms",
+      "published": "2026-10-03T11:00:00+05:30",
+      "sentiment": 0.012499999999999992
+    },
+    {
+      "title": "Military clothing fabric placed over strawberries produced 3.56 times more fruit",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/a-fabric-developed-from-military-clothing-research-was-placed-over-strawberry-plants-field-tests-produced-3-56-times-more-fruit/articleshow/134626594.cms",
+      "published": "2026-10-03T10:00:00+05:30",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Scientists turned waste wool into stiff building panels that helped reduce heat transfer",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/scientists-turned-waste-wool-into-building-panels-the-material-was-stiff-enough-for-cladding-and-helped-reduce-heat-transfer/articleshow/134544686.cms",
+      "published": "2026-10-03T08:30:00+05:30",
+      "sentiment": 0.0812770562770563
+    },
+    {
       "title": "Coconut shell biochar makes asphalt stronger; 12.5% boosts heat resistance",
       "link": "https://timesofindia.indiatimes.com/science/discovery/engineers-turn-coconut-shells-into-road-material-12-5-biochar-makes-asphalt-stronger-and-more-heat-resistant/articleshow/134545824.cms",
       "published": "2026-10-03T06:30:00+05:30",
@@ -47,78 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/after-hurricane-katrina-sandra-bullock-helped-rebuild-a-new-orleans-school-in-2010-she-helped-fund-its-700000-medical-and-dental-clinic-designed-to-provide-free-healthcare-to-students/articleshow/134672739.cms",
       "published": "2026-10-04T15:13:15+05:30",
       "sentiment": 0.1511038961038961
-    },
-    {
-      "title": "New Jersey teacher turns sheep into solar field workers, growing flock to 450",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2013-a-new-jersey-teacher-saw-workers-mowing-a-solar-field-near-home-and-asked-to-bring-in-her-sheep-by-2021-her-flock-had-grown-from-50-sheep-on-15-solar-acres-to-450-sheep-managing-85-acres/articleshow/134672114.cms",
-      "published": "2026-10-04T15:00:00+05:30",
-      "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Jessica Capshaw bought a 1927 Santa Monica home for $3.05M, sold it for $5.75M after restoration",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2007-jessica-capshaw-bought-a-1927-santa-monica-home-for-3-05-million-after-a-down-to-studs-restoration-and-a-new-eco-guesthouse-she-sold-it-off-market-for-5-75-million-in-2020/articleshow/134671734.cms",
-      "published": "2026-10-04T15:00:00+05:30",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Zelenskyy vows to hit Russian refineries as infrastructure warfare escalates",
-      "link": "https://timesofindia.indiatimes.com/world/europe/new-doctrine-of-strikes-zelenskyy-vows-to-hit-russian-refineries-as-infrastructure-warfare-escalates/articleshow/134671433.cms",
-      "published": "2026-10-04T14:22:41+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "In 1963, scientist swabbed his daughter’s throat; her virus strain led to a mumps vaccine in 1967",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/in-1963-maurice-hilleman-swabbed-his-5-year-old-daughters-throat-after-she-caught-mumps-four-years-later-the-vaccine-built-from-her-virus-strain-was-licensed-in-the-us-and-remains-in-use/articleshow/134670809.cms",
-      "published": "2026-10-04T13:55:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ancient Mammal Fossil Unearthed: Workers find 40–45 million-year-old bones; scientists probe mystery species",
-      "link": "https://timesofindia.indiatimes.com/science/archaeology/crews-digging-12-feet-below-a-california-infrastructure-project-uncovered-40-to-45-million-year-old-bones-of-a-large-hoofed-mammal-paleontologists-spent-seven-days-extracting-the-fossil-from-hardened-rock/articleshow/134655371.cms",
-      "published": "2026-10-04T14:10:49+05:30",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Godfrey Hounsfield’s CT scanner revealed a brain cyst in the first scan in 1971",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/in-1971-engineer-godfrey-hounsfields-new-scanner-revealed-a-brain-cyst-in-the-first-clinical-ct-scan-8-years-later-he-shared-the-nobel-prize-for-developing-computer-assisted-tomography/articleshow/134670979.cms",
-      "published": "2026-10-04T14:00:00+05:30",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Historic Atlanta mansion cut in half and moved to save it",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-atlanta-mansion-built-in-1924-for-thomas-jeffersons-great-great-grandson-faced-demolition-in-2013-its-new-owners-cut-the-8000-sq-ft-home-in-two-and-moved-it-about-2-miles-to-save-it/articleshow/134671395.cms",
-      "published": "2026-10-04T13:07:56+05:30",
-      "sentiment": 0.13446969696969696
-    },
-    {
-      "title": "UK collector's £15 teapot sold for £575,000 after experts identified rare Bartlam piece",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-uk-collector-paid-15-for-a-broken-lidless-teapot-at-a-2016-auction-experts-identified-it-as-one-of-only-seven-known-john-bartlam-pieces-and-it-sold-for-575000-to-the-met-in-new-york/articleshow/134670524.cms",
-      "published": "2026-10-04T12:55:00+05:30",
-      "sentiment": 0.056060606060606054
-    },
-    {
-      "title": "Shonda Rhimes sells restored Hancock Park mansion for record $21 million",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2014-shonda-rhimes-bought-a-1923-hancock-park-mansion-for-8-8-million-after-restoring-and-expanding-it-she-sold-the-12000-sq-ft-estate-for-a-record-21-million-in-2022/articleshow/134669899.cms",
-      "published": "2026-10-04T13:00:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Russia cuts education and healthcare budget as war spending hits new high",
-      "link": "https://timesofindia.indiatimes.com/world/europe/russia-cuts-welfare-education-and-healthcare-budget-as-war-spending-hits-new-high/articleshow/134670322.cms",
-      "published": "2026-10-04T11:51:40+05:30",
-      "sentiment": 0.10121985157699444
-    },
-    {
-      "title": "'Not afraid of death': Co-pilot's chilling admission after trying to crash flydubai jet",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/not-afraid-of-death-co-pilots-chilling-admission-after-trying-to-crash-flydubai-jet/articleshow/134670774.cms",
-      "published": "2026-10-04T12:05:49+05:30",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Puerto Rico seventh-grader turns plantain peels into mulch, cutting weeds by up to 53%",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/meet-wileidy-feliciano-rivera-the-puerto-rico-seventh-grader-who-turned-discarded-school-cafeteria-plantain-peels-into-biodegradable-farm-mulch-that-cut-weed-growth-by-up-to-53-in-tests/articleshow/134657056.cms",
-      "published": "2026-10-04T11:56:57+05:30",
-      "sentiment": 0.049999999999999996
     }
   ]
 }
