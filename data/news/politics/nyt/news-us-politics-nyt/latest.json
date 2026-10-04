@@ -1,6 +1,60 @@
 {
   "entries": [
     {
+      "title": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
+      "published": "Sun, 04 Oct 2026 09:03:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Some Democrats, Scarred by 2024, Take a Harder Line on Trans Athletes",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html",
+      "published": "Sun, 04 Oct 2026 09:02:39 +0000",
+      "sentiment": 0.06875
+    },
+    {
+      "title": "How Trump Moved Ethical Lines With His Ads, Businesses and Summits",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html",
+      "published": "Sun, 04 Oct 2026 09:02:31 +0000",
+      "sentiment": 0.20833333333333334
+    },
+    {
+      "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
+      "published": "Sun, 04 Oct 2026 09:02:26 +0000",
+      "sentiment": 0.21666666666666665
+    },
+    {
+      "title": "Who Owns the Moon?",
+      "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
+      "published": "Sun, 04 Oct 2026 09:06:40 +0000",
+      "sentiment": 0.14444444444444446
+    },
+    {
+      "title": "‘No Tax on Tips’ May Fall Flat for G.O.P. in Fight for House and Senate",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/tax-cuts-congress-arizona-republicans.html",
+      "published": "Sun, 04 Oct 2026 09:01:47 +0000",
+      "sentiment": 0.012500000000000004
+    },
+    {
+      "title": "Why Older Lawmakers Keep Winning Elections",
+      "link": "https://www.nytimes.com/video/us/politics/100000011169869/why-voters-elect-older-lawmakers-midterm-elections.html",
+      "published": "Sun, 04 Oct 2026 09:01:38 +0000",
+      "sentiment": 0.17424242424242425
+    },
+    {
+      "title": "Kristi Noem’s Agency Gave Her Donor a Lucrative Contract Just Before She Left",
+      "link": "https://www.nytimes.com/2026/10/04/us/politics/kristi-noem-planes-donor.html",
+      "published": "Sun, 04 Oct 2026 09:00:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+      "published": "Sun, 04 Oct 2026 09:00:29 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Trump Promotes Data Centers at Rally With Republican Facing Heat on Them",
       "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-data-centers-husted-ohio.html",
       "published": "Sun, 04 Oct 2026 04:08:01 +0000",
@@ -64,60 +118,6 @@
       "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
       "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
       "published": "Sun, 04 Oct 2026 01:58:41 +0000",
-      "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "In Alabama, Trump Relives His Glory Days (This Time With Some Empty Seats)",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/alabama-trump-rally-glory-days.html",
-      "published": "Sat, 03 Oct 2026 22:32:46 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html",
-      "published": "Sat, 03 Oct 2026 19:53:54 +0000",
-      "sentiment": 0.7
-    },
-    {
-      "title": "Hispanic Voters, Souring on Republicans, Could Decide the Midterms",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/midterms-hispanic-voters-trump.html",
-      "published": "Fri, 02 Oct 2026 21:38:35 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
-      "link": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
-      "published": "Fri, 02 Oct 2026 22:25:24 +0000",
-      "sentiment": 0.43333333333333335
-    },
-    {
-      "title": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
-      "published": "Fri, 02 Oct 2026 21:28:51 +0000",
-      "sentiment": 0.4333333333333333
-    },
-    {
-      "title": "Judge Throws Out Another Confession in Sept. 11 Case",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/confession-sept-11-terrorism-case.html",
-      "published": "Fri, 02 Oct 2026 21:56:21 +0000",
-      "sentiment": 0.475
-    },
-    {
-      "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
-      "published": "Fri, 02 Oct 2026 18:41:42 +0000",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Unusual Issues in Court at Guantánamo Stand Out as a Case Finally Heads to Trial",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/guantanamo-uss-cole-case.html",
-      "published": "Fri, 02 Oct 2026 18:29:00 +0000",
-      "sentiment": 0.02500000000000001
-    },
-    {
-      "title": "Trump to Name Jay Clayton to Serve as A.I. Czar",
-      "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html",
-      "published": "Fri, 02 Oct 2026 16:10:44 +0000",
       "sentiment": 0.06818181818181818
     }
   ]
