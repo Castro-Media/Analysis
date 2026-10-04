@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "title": "Coconut shell biochar makes asphalt stronger; 12.5% boosts heat resistance",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/engineers-turn-coconut-shells-into-road-material-12-5-biochar-makes-asphalt-stronger-and-more-heat-resistant/articleshow/134545824.cms",
+      "published": "2026-10-03T06:30:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Volunteers recovered 255,000 weather records from 19th-century naval logs",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/volunteers-recovered-255000-weather-records-from-19th-century-british-naval-logs-the-data-could-extend-climate-records-back-more-than-160-years/articleshow/134566382.cms",
+      "published": "2026-10-03T03:00:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Oregon removed 25 levees and added 3,700 wood pieces to restore 6.6 miles for salmon",
+      "link": "https://timesofindia.indiatimes.com/science/nature/oregon-removed-25-levees-and-placed-3700-pieces-of-wood-into-a-river-6-6-miles-of-floodplain-are-being-restored-for-salmon/articleshow/134565895.cms",
+      "published": "2026-10-03T00:00:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iowa farmer earns $30,000 from four wind turbines, calls it the '401(k)' he never had",
+      "link": "https://timesofindia.indiatimes.com/world/us/iowa-livestock-farmer-dave-johnson-hosts-four-wind-turbines-that-bring-in-about-30000-a-year-calling-the-steady-lease-income-the-401k-he-never-had-while-he-continues-raising-cattle-and-hogs/articleshow/134671966.cms",
+      "published": "2026-10-04T16:00:00+05:30",
+      "sentiment": 0.12222222222222223
+    },
+    {
+      "title": "Canadian aunt’s hockey fundraiser grows from C$10,000 to over C$1 million",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2015-a-canadian-aunt-helped-launch-a-hockey-fundraiser-inspired-by-her-nephews-cancer-diagnosis-an-event-that-raised-c10000-in-its-first-year-went-on-to-collect-over-c1-million-across-a-decade/articleshow/134672350.cms",
+      "published": "2026-10-04T16:00:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Expelled, suspended or made to write ‘reflection papers’: How Cornell punished 7 men for sexual assault",
+      "link": "https://timesofindia.indiatimes.com/world/us/expelled-suspended-or-made-to-write-reflection-papers-how-cornell-punished-7-men-for-sexual-assault/articleshow/134672743.cms",
+      "published": "2026-10-04T15:21:44+05:30",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Gay bar raid in Taiwan sparks protest; 51 detained under 'public morality' law",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/gay-bar-raid-in-taiwan-sparks-protest-51-detained-under-public-morality-law/articleshow/134672676.cms",
+      "published": "2026-10-04T15:04:50+05:30",
+      "sentiment": 0.1388888888888889
+    },
+    {
+      "title": "How Sandra Bullock helped a New Orleans school after Katrina",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-hurricane-katrina-sandra-bullock-helped-rebuild-a-new-orleans-school-in-2010-she-helped-fund-its-700000-medical-and-dental-clinic-designed-to-provide-free-healthcare-to-students/articleshow/134672739.cms",
+      "published": "2026-10-04T15:13:15+05:30",
+      "sentiment": 0.1511038961038961
+    },
+    {
+      "title": "New Jersey teacher turns sheep into solar field workers, growing flock to 450",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2013-a-new-jersey-teacher-saw-workers-mowing-a-solar-field-near-home-and-asked-to-bring-in-her-sheep-by-2021-her-flock-had-grown-from-50-sheep-on-15-solar-acres-to-450-sheep-managing-85-acres/articleshow/134672114.cms",
+      "published": "2026-10-04T15:00:00+05:30",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Jessica Capshaw bought a 1927 Santa Monica home for $3.05M, sold it for $5.75M after restoration",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2007-jessica-capshaw-bought-a-1927-santa-monica-home-for-3-05-million-after-a-down-to-studs-restoration-and-a-new-eco-guesthouse-she-sold-it-off-market-for-5-75-million-in-2020/articleshow/134671734.cms",
+      "published": "2026-10-04T15:00:00+05:30",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Zelenskyy vows to hit Russian refineries as infrastructure warfare escalates",
+      "link": "https://timesofindia.indiatimes.com/world/europe/new-doctrine-of-strikes-zelenskyy-vows-to-hit-russian-refineries-as-infrastructure-warfare-escalates/articleshow/134671433.cms",
+      "published": "2026-10-04T14:22:41+05:30",
+      "sentiment": 0.0
+    },
+    {
       "title": "In 1963, scientist swabbed his daughter’s throat; her virus strain led to a mumps vaccine in 1967",
       "link": "https://timesofindia.indiatimes.com/science/discovery/in-1963-maurice-hilleman-swabbed-his-5-year-old-daughters-throat-after-she-caught-mumps-four-years-later-the-vaccine-built-from-her-virus-strain-was-licensed-in-the-us-and-remains-in-use/articleshow/134670809.cms",
       "published": "2026-10-04T13:55:00+05:30",
@@ -53,72 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/science/discovery/meet-wileidy-feliciano-rivera-the-puerto-rico-seventh-grader-who-turned-discarded-school-cafeteria-plantain-peels-into-biodegradable-farm-mulch-that-cut-weed-growth-by-up-to-53-in-tests/articleshow/134657056.cms",
       "published": "2026-10-04T11:56:57+05:30",
       "sentiment": 0.049999999999999996
-    },
-    {
-      "title": "Mojave Desert search finds 6 new bee population groups; why tiny poppy specialist escaped endangered listing",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/us-biologists-searching-the-mojave-desert-found-six-previously-unknown-mojave-poppy-bee-population-groups-the-new-evidence-helped-determine-the-tiny-specialist-bee-does-not-need-endangered-species-listing/articleshow/134656554.cms",
-      "published": "2026-10-04T11:56:14+05:30",
-      "sentiment": 0.0875
-    },
-    {
-      "title": "NSW planted bitou bush to stabilise dunes; it now threatens native ecosystems across 46% of coast",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/from-1946-nsw-planted-south-african-bitou-bush-to-stabilise-coastal-sand-dunes-decades-later-it-had-spread-along-46-of-the-states-coastline-and-threatened-native-ecosystems/articleshow/134656149.cms",
-      "published": "2026-10-04T10:55:09+05:30",
-      "sentiment": 0.18409090909090908
-    },
-    {
-      "title": "Sydney shopper’s A$4 cup turns out to be worth A$75,640",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-sydney-shopper-bought-a-carved-cup-for-a4-at-a-thrift-shop-experts-identified-it-as-a-centuries-old-chinese-rhinoceros-horn-cup-and-was-auctioned-for-a75640-in-2013/articleshow/134656341.cms",
-      "published": "2026-10-04T10:55:19+05:30",
-      "sentiment": 0.16333333333333333
-    },
-    {
-      "title": "US Marine arrested in Japan over murder, robbery of local woman",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/us-marine-arrested-in-japan-over-murder-robbery-of-local-woman/articleshow/134669676.cms",
-      "published": "2026-10-04T10:15:13+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump leaks senator’s number after row over clock-change bill: What’s the dispute",
-      "link": "https://timesofindia.indiatimes.com/world/us/trump-leaks-senators-number-after-row-over-clock-change-bill-whats-the-dispute/articleshow/134669077.cms",
-      "published": "2026-10-04T08:52:03+05:30",
-      "sentiment": 0.10833333333333334
-    },
-    {
-      "title": "‘Blatant lie’: China slams US panel’s ‘genocide’ claim after Starbucks opens first Xinjiang stores",
-      "link": "https://timesofindia.indiatimes.com/world/china/blatant-lie-china-slams-us-panels-genocide-claim-after-starbucks-opens-first-xinjiang-stores/articleshow/134669097.cms",
-      "published": "2026-10-04T08:41:34+05:30",
-      "sentiment": -0.075
-    },
-    {
-      "title": "ShinyHunters hacker in FBI data theft held in Jordan",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/shinyhunters-hacker-in-fbi-data-theft-held-in-jordan/articleshow/134668729.cms",
-      "published": "2026-10-04T07:13:10+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tennessee prison chief Frank Strada resigns after Christa Pike's botched execution",
-      "link": "https://timesofindia.indiatimes.com/world/us/tennessee-prison-chief-frank-strada-resigns-after-christa-pikes-botched-execution-governor-orders-review/articleshow/134668532.cms",
-      "published": "2026-10-04T05:53:58+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Accepted her as she was still PM: Indian envoy on Hasina's flight",
-      "link": "https://timesofindia.indiatimes.com/world/south-asia/accepted-her-as-she-was-still-pm-indian-envoy-on-hasinas-flight/articleshow/134668427.cms",
-      "published": "2026-10-04T05:03:31+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Russia vows massive hits on Kyiv, urges diplomats to leave",
-      "link": "https://timesofindia.indiatimes.com/world/europe/russia-vows-massive-hits-on-kyiv-urges-diplomats-to-leave/articleshow/134668415.cms",
-      "published": "2026-10-04T04:59:40+05:30",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Hormuz blocked, but Gulf crude shipments at pre-war level",
-      "link": "https://timesofindia.indiatimes.com/india/hormuz-blocked-but-gulf-crude-shipments-at-pre-war-level/articleshow/134667214.cms",
-      "published": "2026-10-04T03:43:59+05:30",
-      "sentiment": -0.35
     }
   ]
 }
