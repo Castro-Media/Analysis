@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions",
+      "link": "https://www.wsj.com/business/energy-oil/opec-allies-hold-oil-output-steady-amid-middle-east-tensions-f14767a2?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 11:32:00 GMT",
+      "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "The Layoff Announcements Keep Coming, but No One Knows Who, Where or When",
+      "link": "https://www.wsj.com/business/corporate-layoff-announcements-workers-e37e0546?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 11:00:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "The Popular Jeweler That Got Caught in a Whirlwind When Gold Went Haywire",
       "link": "https://www.wsj.com/business/mejuri-jewelry-gold-prices-d91a718b?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 09:30:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/retail/luxury-stocks-are-selling-at-fast-fashion-prices-691ae978?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 09:30:00 GMT",
       "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "How a Boeing 737 MAX Survived a Nosedive Traveling at the Speed of Sound",
-      "link": "https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 03 Oct 2026 04:01:00 GMT",
-      "sentiment": 0.19785714285714287
-    },
-    {
-      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-      "link": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.27499999999999997
     },
     {
       "title": "Ant-Backed Fintech Mynt Valued at Around $7 Billion in Philippine IPO",
@@ -67,6 +67,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
+      "link": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.27499999999999997
+    },
+    {
       "title": "The Brothers Dominating the $211 Billion Car Repair Market",
       "link": "https://www.wsj.com/business/retail/mavis-tire-business-expansion-7c1b1222?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
@@ -88,12 +94,6 @@
       "title": "Nike Plans a Smaller Company as Sales Slide Weighs on Shares",
       "link": "https://www.wsj.com/business/earnings/nike-projects-sales-decline-this-year-after-lower-first-quarter-revenue-3b845fa0?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 08:55:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Raytheon Gets $24.4 Billion Navy Contract for Standard Missile-6 Interceptors",
-      "link": "https://www.wsj.com/business/raytheon-gets-24-4-billion-navy-contract-for-standard-missile-6-interceptors-f3c2310b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 01 Oct 2026 21:56:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -229,6 +229,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "How a Boeing 737 MAX Survived a Nosedive Traveling at the Speed of Sound",
+      "link": "https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 03 Oct 2026 04:01:00 GMT",
+      "sentiment": 0.19785714285714287
+    },
+    {
       "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue",
       "link": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 21:29:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/the-38-year-old-captain-who-fought-off-cockpit-attack-on-flydubai-flight-cd2e484a?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 12:21:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Near-Catastrophe on Flight 1073 Exposes Gaping Hole in Dubai’s Aviation Security",
-      "link": "https://www.wsj.com/world/middle-east/near-catastrophe-on-flight-1073-exposes-gaping-hole-in-dubais-aviation-security-718adfe2?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "America’s Top Executives Rake In $1.7 Billion in Special Payouts",
@@ -344,7 +344,7 @@
     },
     {
       "title": "Truckers Are Using Every Trick They Can to Survive Soaring Diesel Prices",
-      "link": "https://www.wsj.com/pro/cybersecurity/truckers-are-using-every-trick-they-can-to-survive-soaring-diesel-prices-0af349aa?mod=pls_whats_news_us_business_f",
+      "link": "https://www.wsj.com/economy/truckers-are-using-every-trick-they-can-to-survive-soaring-diesel-prices-0af349aa?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 01:00:00 GMT",
       "sentiment": 0.16666666666666666
     },
