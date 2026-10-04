@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 13:24:14 GMT",
+      "sentiment": 0.08888888888888889
+    },
+    {
       "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
       "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 04 Oct 2026 11:04:47 GMT",
@@ -10,19 +16,19 @@
       "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
       "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 04 Oct 2026 11:19:58 GMT",
-      "sentiment": 0.08333333333333333
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 11:59:35 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Greens would offer two-year jobs to unemployed under-24s",
       "link": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Oct 2026 17:08:40 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 10:27:57 GMT",
-      "sentiment": 0.025
     },
     {
       "title": "Tories pledge to build 50,000 new prison places",
@@ -41,12 +47,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 03 Oct 2026 08:44:29 GMT",
       "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Tories aim to be election-ready ahead of party conference",
-      "link": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 14:09:25 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal to Scotland",
@@ -163,6 +163,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 10:27:57 GMT",
+      "sentiment": 0.025
+    },
+    {
+      "title": "Tories aim to be election-ready ahead of party conference",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 14:09:25 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
       "link": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 01 Oct 2026 22:22:43 GMT",
@@ -175,16 +187,16 @@
       "sentiment": 0.05333333333333333
     },
     {
-      "title": "Five takeaways from Andy Burnham's Labour conference speech",
-      "link": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 29 Sep 2026 16:07:50 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Andy Burnham: Northern PM's long journey to power",
       "link": "https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 29 Sep 2026 10:15:52 GMT",
       "sentiment": 0.24
+    },
+    {
+      "title": "Five takeaways from Andy Burnham's Labour conference speech",
+      "link": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 16:07:50 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
@@ -269,18 +281,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cddve403myeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 06 Sep 2026 05:45:29 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Why do ex-MPs join the 'Chiltern Hundreds' list?",
-      "link": "https://www.bbc.co.uk/news/articles/cd0828d08lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 05:01:59 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Trump's response is key as Argentina's Falklands demands get louder",
-      "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 06:20:04 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
