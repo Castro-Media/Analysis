@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Victim of fatal Culver CityBus shooting was longtime bus driver, loving family man",
+      "link": "https://www.latimes.com/california/story/2026-10-03/culver-citybus-shooting-victim-identified-suspect-arrested",
+      "published": "Sat, 3 Oct 2026 22:35:04 GMT",
+      "sentiment": 0.14999999999999997
+    },
+    {
       "title": "Provocative, sexually suggestive ad by Hilton campaign condemned by political allies on the right",
       "link": "https://www.latimes.com/california/story/2026-10-03/provocative-sexually-suggestive-ad-by-hilton-campaign-condemned-by-political-allies-on-right",
       "published": "Sat, 3 Oct 2026 21:34:07 GMT",
@@ -37,18 +43,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Victims of Catalina medical helicopter crash identified",
-      "link": "https://www.latimes.com/california/story/2026-10-03/victims-of-catalina-medical-helicopter-crash-identified",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
-      "link": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.5
-    },
-    {
       "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
       "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
@@ -59,6 +53,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.075
+    },
+    {
+      "title": "Victims of Catalina medical helicopter crash identified",
+      "link": "https://www.latimes.com/california/story/2026-10-03/victims-of-catalina-medical-helicopter-crash-identified",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
+      "link": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Man suspected in fatal shooting of Culver CityBus driver arrested",
@@ -575,12 +581,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.1875
-    },
-    {
-      "title": "4 rescued, 1 missing after medevac helicopter crashes off Catalina Island",
-      "link": "https://www.latimes.com/california/story/2026-09-30/medavac-helicopter-crashes-off-catalina-search-rescue-operation-underway",
-      "published": "Thu, 1 Oct 2026 05:07:18 GMT",
-      "sentiment": -0.2
     }
   ]
 }
