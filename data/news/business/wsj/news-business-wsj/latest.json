@@ -1,10 +1,16 @@
 {
   "entries": [
     {
+      "title": "How Gas, Diesel and Electricity Prices Are Squeezing American Voters",
+      "link": "https://www.wsj.com/politics/elections/energy-prices-midterm-voters-e360a372?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 19:56:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
       "title": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
       "link": "https://www.wsj.com/business/logistics/why-its-taking-nine-months-to-get-back-164-000-in-tariff-refunds-bc536695?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 18:31:00 GMT",
-      "sentiment": -0.125
+      "sentiment": 0.012499999999999999
     },
     {
       "title": "Tom Cruise’s Big-Budget ‘Digger’ Bombs at the Box Office",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/corporate-layoff-announcements-workers-e37e0546?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 11:00:00 GMT",
       "sentiment": 0.0625
-    },
-    {
-      "title": "The Popular Jeweler That Got Caught in a Whirlwind When Gold Went Haywire",
-      "link": "https://www.wsj.com/business/mejuri-jewelry-gold-prices-d91a718b?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.2333333333333333
     },
     {
       "title": "Ant-Backed Fintech Mynt Valued at Around $7 Billion in Philippine IPO",
@@ -67,6 +67,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "The Popular Jeweler That Got Caught in a Whirlwind When Gold Went Haywire",
+      "link": "https://www.wsj.com/business/mejuri-jewelry-gold-prices-d91a718b?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.2333333333333333
+    },
+    {
       "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
       "link": "https://www.wsj.com/business/retail/luxury-stocks-are-selling-at-fast-fashion-prices-691ae978?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 09:30:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/cmo-today/retailers-from-qvc-to-kohls-are-split-on-agentic-shopping-b75c3419?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 13:08:00 GMT",
       "sentiment": 0.21818181818181817
-    },
-    {
-      "title": "AI Agents Aim to Change Shopping. Some Retailers Are Locking the Doors.",
-      "link": "https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.4
     },
     {
       "title": "Volvo Car Pulls Guidance as Chinese Auto Market Worsens",
@@ -193,7 +193,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Oil Was Pouring Through the Strait of Hormuz Again. Then Attacks on Shipping Resurged.",
+      "title": "Oil Was Pouring Out of Hormuz Again. Then Attacks on Ships Resurged.",
       "link": "https://www.wsj.com/world/middle-east/oil-was-pouring-through-the-strait-of-hormuz-again-then-attacks-on-shipping-resurged-fe9f0dd9?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 17:08:00 GMT",
       "sentiment": 0.0
@@ -331,16 +331,16 @@
       "sentiment": 0.3181818181818182
     },
     {
+      "title": "AI Agents Aim to Change Shopping. Some Retailers Are Locking the Doors.",
+      "link": "https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 02 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "Disney Planning TV Restructuring as Streamlining Continues",
       "link": "https://www.wsj.com/business/media/disney-planning-tv-restructuring-as-streamlining-continues-2454ac0a?mod=pls_whats_news_us_business_f",
       "published": "Thu, 01 Oct 2026 19:22:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "David Ellison Asks CNN CEO to Stay After Paramount-Warner Deal Closes",
-      "link": "https://www.wsj.com/business/media/ellison-asks-cnn-ceo-to-stay-after-paramount-warner-deal-closes-166dd76a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 01 Oct 2026 15:45:00 GMT",
-      "sentiment": 0.1375
     },
     {
       "title": "Truckers Are Using Every Trick They Can to Survive Soaring Diesel Prices",
@@ -481,16 +481,16 @@
       "sentiment": 0.030000000000000006
     },
     {
-      "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
-      "link": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.26666666666666666
-    },
-    {
       "title": "Tom Cruise’s Big-Budget ‘Digger’ Bombs at the Box Office",
       "link": "https://www.wsj.com/business/media/tom-cruises-big-budget-digger-bombs-at-the-box-office-9709703a?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 16:40:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "David Ellison Won Warner Bros. Now He Has to Make the $81 Billion Deal Work.",
+      "link": "https://www.wsj.com/business/media/david-ellison-won-warner-bros-now-he-has-to-make-the-81-billion-deal-work-2724e9e0?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.26666666666666666
     },
     {
       "title": "Best Small-Business Loans in October 2026",
