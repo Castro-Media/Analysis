@@ -9,7 +9,7 @@ folder: news-business-chi-tribune
 url: https://www.chicagotribune.com/wp-json/wp/v2/posts?categories=68&per_page=100&_fields=date_gmt,link,title
 api_key: null
 cadence: hourly
-last_fetched: 2026-10-05T19:02
+last_fetched: 2026-10-05T20:57
 description: Business News from the Chicago Tribune
 link: https://www.chicagotribune.com
 ---
