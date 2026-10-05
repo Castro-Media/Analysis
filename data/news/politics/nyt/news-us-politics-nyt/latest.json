@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "‘Kramer/Fauci’ Review: A Thrilling Episode From the AIDS Battlefield",
+      "link": "https://www.nytimes.com/2026/10/05/theater/kramer-fauci-review.html",
+      "published": "Mon, 05 Oct 2026 15:57:20 +0000",
+      "sentiment": -0.024999999999999994
+    },
+    {
+      "title": "Texas Pediatricians Face Paxton Investigations for Vaccinating Children",
+      "link": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
+      "published": "Mon, 05 Oct 2026 15:46:37 +0000",
+      "sentiment": -0.024999999999999994
+    },
+    {
       "title": "Kash Patel Is Engaged to Country Singer Alexis Wilkins",
       "link": "https://www.nytimes.com/2026/10/05/us/politics/kash-patel-engaged-alexis-wilkins.html",
       "published": "Mon, 05 Oct 2026 14:46:18 +0000",
@@ -21,7 +33,7 @@
     {
       "title": "Karoline Leavitt, Trump’s ‘Machine Gun,’ Has a New Gig at Fox News",
       "link": "https://www.nytimes.com/2026/10/05/business/media/fox-news-karoline-leavitt.html",
-      "published": "Mon, 05 Oct 2026 13:00:05 +0000",
+      "published": "Mon, 05 Oct 2026 15:57:28 +0000",
       "sentiment": 0.04545454545454545
     },
     {
@@ -37,15 +49,15 @@
       "sentiment": 0.5
     },
     {
-      "title": "Supreme Court to Hear Major Environmental Lawsuit",
+      "title": "Supreme Court Tangles Over Major Climate Change Case",
       "link": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
-      "published": "Mon, 05 Oct 2026 09:03:25 +0000",
-      "sentiment": 0.06628787878787878
+      "published": "Mon, 05 Oct 2026 16:19:17 +0000",
+      "sentiment": 0.024715909090909087
     },
     {
       "title": "Democrats Expect Record Number of Women in Party in House After Midterm Elections",
       "link": "https://www.nytimes.com/2026/10/05/us/politics/democrats-congress-women-house.html",
-      "published": "Mon, 05 Oct 2026 09:03:07 +0000",
+      "published": "Mon, 05 Oct 2026 16:11:49 +0000",
       "sentiment": 0.43333333333333335
     },
     {
@@ -57,7 +69,7 @@
     {
       "title": "US Solar Panel Makers Try to Catch China With a Big Leap in Technology",
       "link": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html",
-      "published": "Mon, 05 Oct 2026 09:00:25 +0000",
+      "published": "Mon, 05 Oct 2026 15:41:58 +0000",
       "sentiment": 0.21212121212121213
     },
     {
@@ -69,7 +81,7 @@
     {
       "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
       "link": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
-      "published": "Sun, 04 Oct 2026 22:34:49 +0000",
+      "published": "Sun, 04 Oct 2026 22:34:50 +0000",
       "sentiment": -0.11590909090909092
     },
     {
@@ -81,7 +93,7 @@
     {
       "title": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
       "link": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
-      "published": "Sun, 04 Oct 2026 18:29:01 +0000",
+      "published": "Mon, 05 Oct 2026 15:45:23 +0000",
       "sentiment": 0.0
     },
     {
@@ -99,7 +111,7 @@
     {
       "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, Not So Much.",
       "link": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
-      "published": "Mon, 05 Oct 2026 01:39:13 +0000",
+      "published": "Mon, 05 Oct 2026 16:06:39 +0000",
       "sentiment": 0.21666666666666665
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
       "published": "Sun, 04 Oct 2026 09:06:41 +0000",
       "sentiment": 0.14444444444444446
-    },
-    {
-      "title": "‘No Tax on Tips’ May Fall Flat for G.O.P. in Fight for House and Senate",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/tax-cuts-congress-arizona-republicans.html",
-      "published": "Sun, 04 Oct 2026 09:01:47 +0000",
-      "sentiment": 0.012500000000000004
-    },
-    {
-      "title": "Why Older Lawmakers Keep Winning Elections",
-      "link": "https://www.nytimes.com/video/us/politics/100000011169869/why-voters-elect-older-lawmakers-midterm-elections.html",
-      "published": "Sun, 04 Oct 2026 09:01:38 +0000",
-      "sentiment": 0.17424242424242425
     }
   ]
 }
