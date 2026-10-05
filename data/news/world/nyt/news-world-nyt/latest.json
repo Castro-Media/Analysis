@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Live Updates: Spain Calls Early Election After Housing Crisis Roils Government",
+      "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
+      "published": "Mon, 05 Oct 2026 13:01:01 +0000",
+      "sentiment": 0.05909090909090909
+    },
+    {
+      "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
+      "link": "https://www.nytimes.com/2026/10/05/world/americas/balsanaro-lula-brazil-presidency-trump.html",
+      "published": "Mon, 05 Oct 2026 12:45:23 +0000",
+      "sentiment": 0.09955357142857142
+    },
+    {
       "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
       "link": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
-      "published": "Mon, 05 Oct 2026 09:24:22 +0000",
+      "published": "Mon, 05 Oct 2026 09:24:23 +0000",
       "sentiment": -0.43333333333333335
     },
     {
@@ -11,12 +23,6 @@
       "link": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
       "published": "Mon, 05 Oct 2026 04:01:26 +0000",
       "sentiment": -0.25902777777777775
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez",
-      "published": "Mon, 05 Oct 2026 10:23:22 +0000",
-      "sentiment": 0.5
     },
     {
       "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
@@ -39,7 +45,7 @@
     {
       "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
       "link": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
-      "published": "Mon, 05 Oct 2026 04:01:08 +0000",
+      "published": "Mon, 05 Oct 2026 12:09:12 +0000",
       "sentiment": -0.15555555555555556
     },
     {
@@ -79,15 +85,21 @@
       "sentiment": 0.3333333333333333
     },
     {
-      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-      "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-      "published": "Sun, 04 Oct 2026 09:01:49 +0000",
-      "sentiment": 0.25
+      "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
+      "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
+      "published": "Mon, 05 Oct 2026 12:49:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html",
+      "published": "Mon, 05 Oct 2026 12:27:29 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
       "link": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-      "published": "Mon, 05 Oct 2026 09:02:23 +0000",
+      "published": "Mon, 05 Oct 2026 12:57:32 +0000",
       "sentiment": 0.06818181818181818
     },
     {
@@ -95,6 +107,12 @@
       "link": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
       "published": "Mon, 05 Oct 2026 09:00:10 +0000",
       "sentiment": 0.2333333333333333
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez",
+      "published": "Mon, 05 Oct 2026 11:42:49 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "The Return of Middle East Oil",
@@ -129,7 +147,7 @@
     {
       "title": "Nobel Prizes 2026: What to Know",
       "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "published": "Mon, 05 Oct 2026 10:03:45 +0000",
+      "published": "Mon, 05 Oct 2026 12:13:33 +0000",
       "sentiment": 0.0
     },
     {
@@ -137,6 +155,12 @@
       "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
       "published": "Sun, 04 Oct 2026 09:06:41 +0000",
       "sentiment": 0.14444444444444446
+    },
+    {
+      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
+      "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+      "published": "Sun, 04 Oct 2026 09:01:49 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "The Search for Gas in Moscow",
@@ -311,36 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html",
       "published": "Fri, 02 Oct 2026 15:23:34 +0000",
       "sentiment": 0.19464285714285715
-    },
-    {
-      "title": "Fighting Intensifies in Yemen, Raising Fresh Fears of All-Out War",
-      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
-      "published": "Fri, 02 Oct 2026 18:06:54 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
-      "link": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
-      "published": "Sat, 03 Oct 2026 07:00:40 +0000",
-      "sentiment": 0.3866666666666667
-    },
-    {
-      "title": "Spanish Lawmakers Reject Eviction Freeze, Spurring Calls for Early Elections",
-      "link": "https://www.nytimes.com/2026/10/02/world/europe/spain-housing-vote-elections.html",
-      "published": "Fri, 02 Oct 2026 20:57:36 +0000",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
-      "link": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
-      "published": "Fri, 02 Oct 2026 18:07:45 +0000",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Coast Guard Says It Stopped Ships Carrying Fuel to Cuba",
-      "link": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html",
-      "published": "Sat, 03 Oct 2026 14:34:08 +0000",
-      "sentiment": -0.375
     }
   ]
 }
