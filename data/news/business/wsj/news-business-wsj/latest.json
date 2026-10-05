@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "What Boards Aren’t Told",
+      "link": "https://www.wsj.com/articles/what-boards-arent-told-6139f24d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Britain Learned to Love Chinese Cars—Especially a Look-Alike Range Rover",
+      "link": "https://www.wsj.com/business/autos/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-9440802d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Shippers Are Offering Sailors Up to $25,000 a Trip to Sneak Oil Out of the Gulf",
+      "link": "https://www.wsj.com/business/logistics/shippers-are-offering-sailors-up-to-25-000-a-trip-to-sneak-oil-out-of-the-gulf-712d5bd7?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "These Energy Companies Put Oklahoma City on the Map. Now They’re Moving to Texas.",
       "link": "https://www.wsj.com/business/energy-oil/these-energy-companies-put-oklahoma-city-on-the-map-now-theyre-moving-to-texas-7e5be46d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 00:00:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/business/logistics/why-its-taking-nine-months-to-get-back-164-000-in-tariff-refunds-bc536695?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 18:31:00 GMT",
       "sentiment": 0.012499999999999999
-    },
-    {
-      "title": "Tom Cruise’s Big-Budget ‘Digger’ Bombs at the Box Office",
-      "link": "https://www.wsj.com/business/media/tom-cruises-big-budget-digger-bombs-at-the-box-office-9709703a?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 16:40:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit",
-      "link": "https://www.wsj.com/business/inside-dodgers-owner-mark-walters-charity-a-funding-shift-led-the-ceo-to-quit-f7640486?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 16:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions",
-      "link": "https://www.wsj.com/business/energy-oil/opec-allies-hold-oil-output-steady-amid-middle-east-tensions-f14767a2?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 11:32:00 GMT",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "Schneider Electric to Buy Software Maker PTC for $22.6 Billion",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Volare Shipping Shares Jump on First Trading Day",
+      "link": "https://www.wsj.com/business/volare-shipping-shares-jump-on-first-trading-day-9c1bbdaa?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:36:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "The Popular Jeweler That Got Caught in a Whirlwind When Gold Went Haywire",
       "link": "https://www.wsj.com/business/mejuri-jewelry-gold-prices-d91a718b?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 09:30:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/retail/mavis-tire-business-expansion-7c1b1222?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
       "sentiment": 0.030000000000000006
-    },
-    {
-      "title": "Retailers From QVC to Kohl’s Are Split on Agentic Shopping",
-      "link": "https://www.wsj.com/cmo-today/retailers-from-qvc-to-kohls-are-split-on-agentic-shopping-b75c3419?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 13:08:00 GMT",
-      "sentiment": 0.21818181818181817
     },
     {
       "title": "Air Liquide Targets Sales, Margin Growth Under 2030 Plan",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Saudi Arabia Slashes Crude Prices for Asia as Exports Recover",
+      "link": "https://www.wsj.com/business/energy-oil/saudi-arabia-slashes-crude-prices-for-asia-as-exports-recover-ca411a2c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 10:09:00 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
       "title": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-g-7-plans-crude-diesel-release-but-hormuz-shipping-risks-persist-084db04c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 07:22:00 GMT",
@@ -205,22 +211,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions",
+      "link": "https://www.wsj.com/business/energy-oil/opec-allies-hold-oil-output-steady-amid-middle-east-tensions-f14767a2?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 11:32:00 GMT",
+      "sentiment": -0.13333333333333333
+    },
+    {
       "title": "G-7 Agrees to Release 100 Million Barrels of Diesel and Crude",
       "link": "https://www.wsj.com/business/energy-oil/g-7-agrees-to-release-100-million-barrels-of-crude-and-oil-products-7624f30b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 23:18:00 GMT",
       "sentiment": -0.5
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-15d3031c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 21:25:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-46073a61?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 21:25:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets",
@@ -313,6 +313,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "Tom Cruise’s Big-Budget ‘Digger’ Bombs at the Box Office",
+      "link": "https://www.wsj.com/business/media/tom-cruises-big-budget-digger-bombs-at-the-box-office-9709703a?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 16:40:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "News Quiz for October 3, 2026",
       "link": "https://www.wsj.com/articles/news-quiz-for-october-3-2026-ad556461?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 10:00:00 GMT",
@@ -331,16 +337,10 @@
       "sentiment": 0.3181818181818182
     },
     {
-      "title": "AI Agents Aim to Change Shopping. Some Retailers Are Locking the Doors.",
-      "link": "https://www.wsj.com/cmo-today/ai-agents-aim-to-change-shopping-some-retailers-are-locking-the-doors-666a1ed4?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Disney Planning TV Restructuring as Streamlining Continues",
-      "link": "https://www.wsj.com/business/media/disney-planning-tv-restructuring-as-streamlining-continues-2454ac0a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 01 Oct 2026 19:22:00 GMT",
-      "sentiment": 0.2
+      "title": "Retailers From QVC to Kohl’s Are Split on Agentic Shopping",
+      "link": "https://www.wsj.com/cmo-today/retailers-from-qvc-to-kohls-are-split-on-agentic-shopping-b75c3419?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 02 Oct 2026 13:08:00 GMT",
+      "sentiment": 0.21818181818181817
     },
     {
       "title": "Truckers Are Using Every Trick They Can to Survive Soaring Diesel Prices",
@@ -403,6 +403,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "These Captains Launched a Sailing Company in One Month",
+      "link": "https://www.wsj.com/style/sailing-collective-293a37c5?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Robotics Startup RobCo Hits $1 Billion Valuation",
       "link": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
@@ -427,10 +433,10 @@
       "sentiment": 0.6
     },
     {
-      "title": "Amex Adds AI, Expense Tracking to Corporate Card to Counter Fintech Rivals",
-      "link": "https://www.wsj.com/tech/amex-adds-ai-expense-tracking-to-corporate-card-to-counter-fintech-rivals-1cf54487?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 30 Sep 2026 11:16:00 GMT",
-      "sentiment": 0.02727272727272727
+      "title": "Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit",
+      "link": "https://www.wsj.com/business/inside-dodgers-owner-mark-walters-charity-a-funding-shift-led-the-ceo-to-quit-f7640486?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 16:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Layoff Announcements Keep Coming, but No One Knows Who, Where or When",
@@ -457,12 +463,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Boeing Engineers Bless New Contract After Summer Showdown",
-      "link": "https://www.wsj.com/business/airlines/boeings-engineers-hold-leverage-in-contract-showdown-0de44742?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 01 Oct 2026 21:08:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "The ’90s Are Back in Style. Levi’s Is Cashing In.",
       "link": "https://www.wsj.com/style/fashion/the-90s-are-back-in-style-levis-is-cashing-in-642ae89b?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 11:00:00 GMT",
@@ -475,10 +475,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-      "link": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.27499999999999997
+      "title": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
+      "link": "https://www.wsj.com/business/logistics/why-its-taking-nine-months-to-get-back-164-000-in-tariff-refunds-bc536695?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 18:31:00 GMT",
+      "sentiment": 0.012499999999999999
     },
     {
       "title": "The Brothers Dominating the $211 Billion Car Repair Market",
@@ -487,10 +487,10 @@
       "sentiment": 0.030000000000000006
     },
     {
-      "title": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
-      "link": "https://www.wsj.com/business/logistics/why-its-taking-nine-months-to-get-back-164-000-in-tariff-refunds-bc536695?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 18:31:00 GMT",
-      "sentiment": 0.012499999999999999
+      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
+      "link": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.27499999999999997
     },
     {
       "title": "Best Small-Business Loans in October 2026",
