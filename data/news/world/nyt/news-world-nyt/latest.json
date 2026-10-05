@@ -1,15 +1,27 @@
 {
   "entries": [
     {
+      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
+      "published": "Mon, 05 Oct 2026 14:40:53 +0000",
+      "sentiment": 0.11481481481481481
+    },
+    {
       "title": "Live Updates: Spain Calls Early Election After Housing Crisis Roils Government",
       "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
-      "published": "Mon, 05 Oct 2026 13:01:01 +0000",
+      "published": "Mon, 05 Oct 2026 14:43:59 +0000",
       "sentiment": 0.05909090909090909
+    },
+    {
+      "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+      "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+      "published": "Mon, 05 Oct 2026 13:29:52 +0000",
+      "sentiment": -0.08888888888888889
     },
     {
       "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
       "link": "https://www.nytimes.com/2026/10/05/world/americas/balsanaro-lula-brazil-presidency-trump.html",
-      "published": "Mon, 05 Oct 2026 12:45:23 +0000",
+      "published": "Mon, 05 Oct 2026 13:22:17 +0000",
       "sentiment": 0.09955357142857142
     },
     {
@@ -27,7 +39,7 @@
     {
       "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
       "link": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
-      "published": "Mon, 05 Oct 2026 09:23:00 +0000",
+      "published": "Mon, 05 Oct 2026 09:23:01 +0000",
       "sentiment": -0.05
     },
     {
@@ -45,14 +57,14 @@
     {
       "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
       "link": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
-      "published": "Mon, 05 Oct 2026 12:09:12 +0000",
+      "published": "Mon, 05 Oct 2026 14:38:21 +0000",
       "sentiment": -0.15555555555555556
     },
     {
       "title": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
       "link": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
-      "published": "Mon, 05 Oct 2026 09:42:59 +0000",
-      "sentiment": -0.025
+      "published": "Mon, 05 Oct 2026 13:59:16 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
@@ -73,21 +85,9 @@
       "sentiment": 0.1375
     },
     {
-      "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
-      "published": "Sun, 04 Oct 2026 19:07:37 +0000",
-      "sentiment": -0.31666666666666665
-    },
-    {
-      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
-      "published": "Mon, 05 Oct 2026 00:18:12 +0000",
-      "sentiment": 0.3333333333333333
-    },
-    {
       "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
       "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
-      "published": "Mon, 05 Oct 2026 12:49:09 +0000",
+      "published": "Mon, 05 Oct 2026 14:23:28 +0000",
       "sentiment": 0.0
     },
     {
@@ -105,14 +105,14 @@
     {
       "title": "Are Babies Conscious?",
       "link": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
-      "published": "Mon, 05 Oct 2026 09:00:10 +0000",
+      "published": "Mon, 05 Oct 2026 14:34:03 +0000",
       "sentiment": 0.2333333333333333
     },
     {
       "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez",
-      "published": "Mon, 05 Oct 2026 11:42:49 +0000",
-      "sentiment": 0.5
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
+      "published": "Mon, 05 Oct 2026 11:42:50 +0000",
+      "sentiment": 0.125
     },
     {
       "title": "The Return of Middle East Oil",
@@ -133,6 +133,18 @@
       "sentiment": -0.1
     },
     {
+      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+      "published": "Mon, 05 Oct 2026 00:18:12 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+      "published": "Sun, 04 Oct 2026 19:07:37 +0000",
+      "sentiment": -0.31666666666666665
+    },
+    {
       "title": "Who Were the Pilots on the FlyDubai Flight?",
       "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
       "published": "Sun, 04 Oct 2026 21:35:14 +0000",
@@ -147,7 +159,7 @@
     {
       "title": "Nobel Prizes 2026: What to Know",
       "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "published": "Mon, 05 Oct 2026 12:13:33 +0000",
+      "published": "Mon, 05 Oct 2026 12:13:34 +0000",
       "sentiment": 0.0
     },
     {
@@ -159,7 +171,7 @@
     {
       "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
       "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-      "published": "Sun, 04 Oct 2026 09:01:49 +0000",
+      "published": "Mon, 05 Oct 2026 13:13:49 +0000",
       "sentiment": 0.25
     },
     {
@@ -323,18 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
       "published": "Sat, 03 Oct 2026 14:59:12 +0000",
       "sentiment": -0.6999999999999998
-    },
-    {
-      "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
-      "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
-      "published": "Fri, 02 Oct 2026 18:28:16 +0000",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
-      "link": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html",
-      "published": "Fri, 02 Oct 2026 15:23:34 +0000",
-      "sentiment": 0.19464285714285715
     }
   ]
 }

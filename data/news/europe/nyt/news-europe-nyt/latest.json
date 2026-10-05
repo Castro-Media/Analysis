@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
+      "published": "Mon, 05 Oct 2026 14:40:53 +0000",
+      "sentiment": 0.11481481481481481
+    },
+    {
+      "title": "The Unlikely Theatrical Journey of Vincenzo Latronico’s ‘Perfection’",
+      "link": "https://www.nytimes.com/2026/10/05/theater/perfection-volksbuehne-vincenzo-latronico.html",
+      "published": "Mon, 05 Oct 2026 13:48:04 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election",
       "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html",
       "published": "Mon, 05 Oct 2026 12:27:29 +0000",
@@ -9,8 +21,8 @@
     {
       "title": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
       "link": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
-      "published": "Mon, 05 Oct 2026 09:42:59 +0000",
-      "sentiment": -0.025
+      "published": "Mon, 05 Oct 2026 13:59:16 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
@@ -20,9 +32,9 @@
     },
     {
       "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez",
-      "published": "Mon, 05 Oct 2026 11:42:49 +0000",
-      "sentiment": 0.5
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
+      "published": "Mon, 05 Oct 2026 11:42:50 +0000",
+      "sentiment": 0.125
     },
     {
       "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
@@ -39,13 +51,13 @@
     {
       "title": "Nobel Prizes 2026: What to Know",
       "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "published": "Mon, 05 Oct 2026 12:13:33 +0000",
+      "published": "Mon, 05 Oct 2026 12:13:34 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
       "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-      "published": "Sun, 04 Oct 2026 09:01:49 +0000",
+      "published": "Mon, 05 Oct 2026 13:13:49 +0000",
       "sentiment": 0.25
     },
     {
@@ -57,7 +69,7 @@
     {
       "title": "Peppino Mazzullo, Voice of Topo Gigio For Decades, Dies at 100",
       "link": "https://www.nytimes.com/2026/10/03/arts/television/peppino-mazzullo-dead.html",
-      "published": "Sat, 03 Oct 2026 17:08:26 +0000",
+      "published": "Mon, 05 Oct 2026 14:27:18 +0000",
       "sentiment": 0.4166666666666667
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html",
       "published": "Fri, 02 Oct 2026 21:15:51 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
-      "link": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html",
-      "published": "Fri, 02 Oct 2026 15:23:34 +0000",
-      "sentiment": 0.19464285714285715
-    },
-    {
-      "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
-      "link": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
-      "published": "Sat, 03 Oct 2026 07:00:40 +0000",
-      "sentiment": 0.3866666666666667
     }
   ]
 }

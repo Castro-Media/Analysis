@@ -1,15 +1,33 @@
 {
   "entries": [
     {
+      "title": "Geography Is Back With a Vengeance",
+      "link": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+      "published": "Mon, 05 Oct 2026 14:37:32 +0000",
+      "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+      "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+      "published": "Mon, 05 Oct 2026 13:29:52 +0000",
+      "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "Burst of Attacks in Gulf Heightens Fears Over Fragile Energy Trade",
+      "link": "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html",
+      "published": "Mon, 05 Oct 2026 13:22:07 +0000",
+      "sentiment": 0.25
+    },
+    {
       "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
       "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
-      "published": "Mon, 05 Oct 2026 12:49:09 +0000",
+      "published": "Mon, 05 Oct 2026 14:23:28 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
       "link": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
-      "published": "Mon, 05 Oct 2026 09:23:00 +0000",
+      "published": "Mon, 05 Oct 2026 09:23:01 +0000",
       "sentiment": -0.05
     },
     {
@@ -251,18 +269,6 @@
       "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
       "published": "Wed, 30 Sep 2026 23:09:20 +0000",
       "sentiment": -0.06000000000000001
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/flydubai-flight-tel-aviv-israel-fz1073-diverted-pilots",
-      "published": "Wed, 30 Sep 2026 20:55:22 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
-      "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
-      "published": "Wed, 30 Sep 2026 00:46:16 +0000",
-      "sentiment": 0.19999999999999998
     }
   ]
 }
