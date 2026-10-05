@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit",
+      "link": "https://www.wsj.com/world/middle-east/security-failures-flydubai-pilot-israel-e400e8f6?mod=rss_worldnews",
+      "published": "Mon, 05 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Flávio Bolsonaro Surges Past Lula, Setting Up a Bitter Brazil Election Runoff",
+      "link": "https://www.wsj.com/world/americas/flavio-bolsonaro-surges-past-lula-setting-up-a-bitter-brazil-election-runoff-0432b9c5?mod=rss_worldnews",
+      "published": "Mon, 05 Oct 2026 00:13:00 GMT",
+      "sentiment": -0.029999999999999992
+    },
+    {
       "title": "All B-1 Bombers Returning to U.S. From U.K. Base",
       "link": "https://www.wsj.com/world/middle-east/all-b-1-bombers-returning-to-u-s-from-u-k-base-bfa0f797?mod=rss_worldnews",
       "published": "Sun, 04 Oct 2026 22:29:00 GMT",
@@ -22,12 +34,6 @@
       "title": "Japan Protests After U.S. Marine Accused of Murder",
       "link": "https://www.wsj.com/world/asia/japan-protests-after-u-s-marine-accused-of-murder-9363b4a5?mod=rss_worldnews",
       "published": "Sun, 04 Oct 2026 09:51:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Brits Are Arguing Over Who Gets to See a 230-Foot Long Embroidered Cloth",
-      "link": "https://www.wsj.com/world/uk/bayeux-tapestry-london-england-france-british-museum-2dbfb5d4?mod=rss_worldnews",
-      "published": "Sun, 04 Oct 2026 09:30:00 GMT",
       "sentiment": -0.05
     },
     {
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/oman-had-previously-banned-the-flydubai-attacker-from-flying-71c5fa18?mod=rss_worldnews",
       "published": "Fri, 02 Oct 2026 21:51:00 GMT",
       "sentiment": -0.4333333333333333
-    },
-    {
-      "title": "Student Protests Add to Woes for Embattled French Government",
-      "link": "https://www.wsj.com/world/europe/student-protests-add-to-woes-for-embattled-french-government-d603938e?mod=rss_worldnews",
-      "published": "Fri, 02 Oct 2026 19:48:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets",
@@ -127,6 +127,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Brits Are Arguing Over Who Gets to See a 230-Foot Long Embroidered Cloth",
+      "link": "https://www.wsj.com/world/uk/bayeux-tapestry-london-england-france-british-museum-2dbfb5d4?mod=rss_worldnews",
+      "published": "Sun, 04 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "BOE’s Mann Backs Rate Rise to Tame Inflation",
       "link": "https://www.wsj.com/world/uk/boes-mann-backs-rate-rise-to-tame-inflation-b645ae0d?mod=rss_worldnews",
       "published": "Thu, 01 Oct 2026 12:50:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/pro/central-banking/boe-sees-threat-to-government-bonds-in-ai-growth-miss-8ca4b0cf?mod=rss_worldnews",
       "published": "Wed, 30 Sep 2026 10:37:00 GMT",
       "sentiment": 0.061111111111111116
-    },
-    {
-      "title": "BOE’s Ramsden Sees Case for Raising Key Rate if Inflationary Pressures Build",
-      "link": "https://www.wsj.com/pro/central-banking/boes-ramsden-sees-case-for-raising-key-rate-if-inflationary-pressures-build-6297ba77?mod=rss_worldnews",
-      "published": "Mon, 28 Sep 2026 10:44:00 GMT",
-      "sentiment": 0.08333333333333333
     },
     {
       "title": "Opinion | The Latest Russian Sabotage in Europe",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Student Protests Add to Woes for Embattled French Government",
+      "link": "https://www.wsj.com/world/europe/student-protests-add-to-woes-for-embattled-french-government-d603938e?mod=rss_worldnews",
+      "published": "Fri, 02 Oct 2026 19:48:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Near-Catastrophe on Flight 1073 Exposes Gaping Hole in Dubai’s Aviation Security",
       "link": "https://www.wsj.com/world/middle-east/near-catastrophe-on-flight-1073-exposes-gaping-hole-in-dubais-aviation-security-718adfe2?mod=rss_worldnews",
       "published": "Fri, 02 Oct 2026 01:00:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/ukraines-big-backers-in-europe-try-to-counter-war-fatigue-4c6bcef9?mod=rss_worldnews",
       "published": "Thu, 01 Oct 2026 17:01:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "France Is Ground Zero in the Global Bond Rout",
-      "link": "https://www.wsj.com/finance/france-is-ground-zero-in-the-global-bond-rout-4b743eb2?mod=rss_worldnews",
-      "published": "Thu, 01 Oct 2026 12:29:00 GMT",
-      "sentiment": 0.07500000000000001
     },
     {
       "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
@@ -397,16 +397,16 @@
       "sentiment": 0.06666666666666667
     },
     {
-      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down",
-      "link": "https://www.wsj.com/world/middle-east/middle-east-oil-exports-rebound-as-irans-chokehold-on-hormuz-breaks-down-4ffde655?mod=rss_worldnews",
-      "published": "Tue, 29 Sep 2026 01:00:00 GMT",
-      "sentiment": 0.1688888888888889
-    },
-    {
       "title": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets",
       "link": "https://www.wsj.com/world/flydubai-co-pilot-used-crash-ax-in-attack-says-u-a-e-88554e9a?mod=rss_worldnews",
       "published": "Sat, 03 Oct 2026 19:34:00 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down",
+      "link": "https://www.wsj.com/world/middle-east/middle-east-oil-exports-rebound-as-irans-chokehold-on-hormuz-breaks-down-4ffde655?mod=rss_worldnews",
+      "published": "Tue, 29 Sep 2026 01:00:00 GMT",
+      "sentiment": 0.1688888888888889
     },
     {
       "title": "How to Refinance a Car Loan in 6 Steps",
