@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "title": "Family of Epstein Victim Appears in Ad Targeting Republican",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/jeff-crank-jeffrey-epstein-virginia-giuffre.html",
+      "published": "Mon, 05 Oct 2026 09:04:05 +0000",
+      "sentiment": -0.10917508417508419
+    },
+    {
+      "title": "Who’s Winning the Battle for Congress?",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/whos-winning-the-race-for-congress.html",
+      "published": "Mon, 05 Oct 2026 09:03:50 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Supreme Court to Hear Major Environmental Lawsuit",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
+      "published": "Mon, 05 Oct 2026 09:03:24 +0000",
+      "sentiment": 0.06628787878787878
+    },
+    {
+      "title": "Will Midterm Elections Complicate the Supreme Court’s New Term?",
+      "link": "https://www.nytimes.com/video/us/100000011184795/will-midterm-elections-complicate-the-supreme-courts-new-term.html",
+      "published": "Mon, 05 Oct 2026 09:03:20 +0000",
+      "sentiment": 0.15454545454545454
+    },
+    {
+      "title": "Democrats Expect Record Number of Women in Party in House After Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/democrats-congress-women-house.html",
+      "published": "Mon, 05 Oct 2026 09:03:07 +0000",
+      "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "How the Midterms Could Complicate the Supreme Court’s New Term",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/how-the-midterms-could-complicate-the-supreme-courts-new-term.html",
+      "published": "Mon, 05 Oct 2026 09:02:51 +0000",
+      "sentiment": 0.057575757575757565
+    },
+    {
+      "title": "They Argued About Trump at a Dog Park. Then They Pulled Their Guns.",
+      "link": "https://www.nytimes.com/2026/10/05/us/trump-ohio-dog-park-shooting.html",
+      "published": "Mon, 05 Oct 2026 09:00:59 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mayors Are Filming Videos, Mamdani Style, With Varying Degrees of Cringe",
+      "link": "https://www.nytimes.com/2026/10/05/us/mayors-tiktok-video-instagram-mamdani.html",
+      "published": "Mon, 05 Oct 2026 09:00:28 +0000",
+      "sentiment": 0.30656565656565654
+    },
+    {
       "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
       "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
       "published": "Sun, 04 Oct 2026 21:53:42 +0000",
@@ -45,7 +93,7 @@
     {
       "title": "Shooting in Vienna, Ga., Leaves 2 Dead and Dozens Wounded",
       "link": "https://www.nytimes.com/2026/10/04/us/shooting-vienna-georgia-block-party.html",
-      "published": "Mon, 05 Oct 2026 00:27:57 +0000",
+      "published": "Mon, 05 Oct 2026 08:23:54 +0000",
       "sentiment": -0.05
     },
     {
@@ -71,54 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html",
       "published": "Sun, 04 Oct 2026 15:45:57 +0000",
       "sentiment": 0.125
-    },
-    {
-      "title": "How Trump Moved Ethical Lines With His Ads, Businesses and Summits",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html",
-      "published": "Sun, 04 Oct 2026 09:02:31 +0000",
-      "sentiment": 0.20833333333333334
-    },
-    {
-      "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, Not So Much.",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
-      "published": "Mon, 05 Oct 2026 01:39:13 +0000",
-      "sentiment": 0.21666666666666665
-    },
-    {
-      "title": "‘No Tax on Tips’ May Fall Flat for G.O.P. in Fight for House and Senate",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/tax-cuts-congress-arizona-republicans.html",
-      "published": "Sun, 04 Oct 2026 09:01:47 +0000",
-      "sentiment": 0.012500000000000004
-    },
-    {
-      "title": "Why Older Lawmakers Keep Winning Elections",
-      "link": "https://www.nytimes.com/video/us/politics/100000011169869/why-voters-elect-older-lawmakers-midterm-elections.html",
-      "published": "Sun, 04 Oct 2026 09:01:38 +0000",
-      "sentiment": 0.17424242424242425
-    },
-    {
-      "title": "Why Did D.H.S. Buy These Planes?",
-      "link": "https://www.nytimes.com/video/us/100000011160962/why-did-dhs-buy-these-planes.html",
-      "published": "Sun, 04 Oct 2026 16:34:27 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Kristi Noem’s Agency Gave Her Donor a Lucrative Contract Just Before She Left",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/kristi-noem-planes-donor.html",
-      "published": "Sun, 04 Oct 2026 09:00:52 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Promotes Data Centers at Rally With Republican Facing Heat on Them",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-data-centers-husted-ohio.html",
-      "published": "Sun, 04 Oct 2026 04:08:01 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "8 Key Findings From the Times/Siena Polls",
-      "link": "https://www.nytimes.com/2026/10/03/us/politics/times-siena-poll-takeaways.html",
-      "published": "Sun, 04 Oct 2026 00:58:06 +0000",
-      "sentiment": 0.0
     }
   ]
 }
