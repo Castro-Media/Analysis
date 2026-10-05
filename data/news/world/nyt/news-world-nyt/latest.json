@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+      "published": "Mon, 05 Oct 2026 09:24:22 +0000",
+      "sentiment": -0.43333333333333335
+    },
+    {
       "title": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
       "link": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
       "published": "Mon, 05 Oct 2026 04:01:26 +0000",
@@ -9,8 +15,20 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez",
-      "published": "Mon, 05 Oct 2026 08:43:19 +0000",
-      "sentiment": 0.25
+      "published": "Mon, 05 Oct 2026 10:23:22 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+      "link": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+      "published": "Mon, 05 Oct 2026 09:23:00 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Voters in Quebec Election Go to Polls as Separatist Parti Québécois Leads",
+      "link": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-vote-parti-quebecois-cac-liberals.html",
+      "published": "Mon, 05 Oct 2026 09:21:36 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status",
@@ -21,8 +39,14 @@
     {
       "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
       "link": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
-      "published": "Mon, 05 Oct 2026 04:01:07 +0000",
+      "published": "Mon, 05 Oct 2026 04:01:08 +0000",
       "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Former Prince Andrew Sues UK Police After Arrest Linked to Epstein Investigation",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
+      "published": "Mon, 05 Oct 2026 09:42:59 +0000",
+      "sentiment": -0.025
     },
     {
       "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
@@ -61,30 +85,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-      "link": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
-      "published": "Sun, 04 Oct 2026 22:30:27 +0000",
-      "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
-      "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
-      "published": "Sun, 04 Oct 2026 08:38:43 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Who Were the Pilots on the FlyDubai Flight?",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
-      "published": "Sun, 04 Oct 2026 21:35:14 +0000",
-      "sentiment": -0.125
-    },
-    {
-      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-      "published": "Sat, 03 Oct 2026 14:59:12 +0000",
-      "sentiment": -0.6999999999999998
-    },
-    {
       "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
       "link": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
       "published": "Mon, 05 Oct 2026 09:02:23 +0000",
@@ -93,7 +93,7 @@
     {
       "title": "Are Babies Conscious?",
       "link": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
-      "published": "Mon, 05 Oct 2026 09:00:09 +0000",
+      "published": "Mon, 05 Oct 2026 09:00:10 +0000",
       "sentiment": 0.2333333333333333
     },
     {
@@ -111,13 +111,25 @@
     {
       "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died",
       "link": "https://www.nytimes.com/2026/10/04/world/europe/biljana-plavsic-dead.html",
-      "published": "Sun, 04 Oct 2026 22:24:58 +0000",
+      "published": "Mon, 05 Oct 2026 09:42:16 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "Who Were the Pilots on the FlyDubai Flight?",
+      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
+      "published": "Sun, 04 Oct 2026 21:35:14 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+      "link": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
+      "published": "Sun, 04 Oct 2026 22:30:27 +0000",
+      "sentiment": -0.07500000000000001
     },
     {
       "title": "Nobel Prizes 2026: What to Know",
       "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "published": "Mon, 05 Oct 2026 06:29:41 +0000",
+      "published": "Mon, 05 Oct 2026 10:03:45 +0000",
       "sentiment": 0.0
     },
     {
@@ -129,8 +141,14 @@
     {
       "title": "The Search for Gas in Moscow",
       "link": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-      "published": "Sun, 04 Oct 2026 09:00:45 +0000",
+      "published": "Mon, 05 Oct 2026 10:23:03 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
+      "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
+      "published": "Sun, 04 Oct 2026 08:38:43 +0000",
+      "sentiment": -0.03333333333333333
     },
     {
       "title": "What to Know About France’s High School Protests",
@@ -277,6 +295,12 @@
       "sentiment": 0.15416666666666667
     },
     {
+      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+      "published": "Sat, 03 Oct 2026 14:59:12 +0000",
+      "sentiment": -0.6999999999999998
+    },
+    {
       "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
       "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
       "published": "Fri, 02 Oct 2026 18:28:16 +0000",
@@ -317,24 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html",
       "published": "Sat, 03 Oct 2026 14:34:08 +0000",
       "sentiment": -0.375
-    },
-    {
-      "title": "India Faces Fresh Protests, This Time Over Voter Rolls",
-      "link": "https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html",
-      "published": "Fri, 02 Oct 2026 21:15:29 +0000",
-      "sentiment": -0.08787878787878788
-    },
-    {
-      "title": "U.S. Suspends Consular Services in Brazil on Eve of Elections",
-      "link": "https://www.nytimes.com/2026/10/02/world/americas/brazil-us-consulate-elections.html",
-      "published": "Fri, 02 Oct 2026 15:37:53 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
-      "link": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html",
-      "published": "Fri, 02 Oct 2026 12:16:54 +0000",
-      "sentiment": -0.16666666666666666
     }
   ]
 }
