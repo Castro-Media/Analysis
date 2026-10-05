@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Why Hollywood’s Most Iconic Studio Is Being Sold—Again",
+      "link": "https://www.wsj.com/business/media/why-hollywoods-most-iconic-studio-is-being-soldagain-575fd885?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 23:37:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Oil Industry’s Bid to Kill Climate Change Lawsuits Faces SCOTUS Skepticism",
       "link": "https://www.wsj.com/politics/policy/oil-industrys-bid-to-kill-climate-change-lawsuits-faces-scotus-skepticism-a9be9855?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 21:30:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-9440802d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 09:30:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Shippers Are Offering Sailors Up to $25,000 a Trip to Sneak Oil Out of the Gulf",
-      "link": "https://www.wsj.com/business/logistics/shippers-are-offering-sailors-up-to-25-000-a-trip-to-sneak-oil-out-of-the-gulf-712d5bd7?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Barbie-Maker Mattel Faces Growing Shareholder Pressure to Consider a Sale",
@@ -349,6 +349,12 @@
       "sentiment": -0.25
     },
     {
+      "title": "Shippers Are Offering Sailors Up to $25,000 a Trip to Sneak Oil Out of the Gulf",
+      "link": "https://www.wsj.com/business/logistics/shippers-are-offering-sailors-up-to-25-000-a-trip-to-sneak-oil-out-of-the-gulf-712d5bd7?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
       "link": "https://www.wsj.com/business/logistics/why-its-taking-nine-months-to-get-back-164-000-in-tariff-refunds-bc536695?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 18:31:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/supplier-issue-paused-ford-f-150-production-hitting-wholesale-deliveries-ab027b01?mod=pls_whats_news_us_business_f",
       "published": "Thu, 01 Oct 2026 11:09:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters",
-      "link": "https://www.wsj.com/world/asia/u-s-pressure-campaign-leaves-iranian-tankers-stranded-in-asian-waters-ba7bc23a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 01 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -475,16 +475,16 @@
       "sentiment": 0.10576923076923077
     },
     {
-      "title": "Tom Cruise’s Big-Budget ‘Digger’ Bombs at the Box Office",
-      "link": "https://www.wsj.com/business/media/tom-cruises-big-budget-digger-bombs-at-the-box-office-9709703a?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 16:40:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "These Energy Companies Put Oklahoma City on the Map. Now They’re Moving to Texas.",
       "link": "https://www.wsj.com/business/energy-oil/these-energy-companies-put-oklahoma-city-on-the-map-now-theyre-moving-to-texas-7e5be46d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 00:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Tom Cruise’s Big-Budget ‘Digger’ Bombs at the Box Office",
+      "link": "https://www.wsj.com/business/media/tom-cruises-big-budget-digger-bombs-at-the-box-office-9709703a?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 04 Oct 2026 16:40:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Why It’s Taking Nine Months to Get Back $164,000 in Tariff Refunds",
