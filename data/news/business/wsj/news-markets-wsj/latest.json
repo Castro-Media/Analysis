@@ -4,7 +4,7 @@
       "title": "Stock Market Today: Dollar Strengthens as Investors Look for Safety",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 09:11:59 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.5
     },
     {
       "title": "Your Index Fund Went Up. Was It Luck Or Smarts?",
@@ -103,10 +103,40 @@
       "sentiment": -0.05185185185185185
     },
     {
-      "title": "Private Equity Has a Problem",
-      "link": "https://www.wsj.com/finance/investing/private-equity-has-a-problem-2bccfa69?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 10:23:00 GMT",
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-711dc5e2?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 12:55:00 GMT",
+      "sentiment": 0.26
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8fbed9a4?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 12:49:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-334153ef?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 12:45:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-5d5d5238?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 12:40:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "French, Spanish Bond Yields Rise on Fiscal, Political Uncertainty; Treasury Yields Steady",
+      "link": "https://www.wsj.com/finance/investing/french-bond-yields-stay-elevated-treasury-yields-ease-13103f54?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 11:07:00 GMT",
+      "sentiment": 0.12777777777777777
+    },
+    {
+      "title": "U.S. Stock Futures Steady as French Fiscal Pressure Raises Contagion Risk",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-steady-as-french-fiscal-pressure-raises-contagion-risk-468c102a?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 12:27:00 GMT",
+      "sentiment": 0.10952380952380951
     },
     {
       "title": "Equities Won’t Be Dragged by Spike In Bond Yields",
@@ -115,34 +145,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "What Boards Aren’t Told",
-      "link": "https://www.wsj.com/articles/what-boards-arent-told-6139f24d?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 09:55:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How a Pilot Deemed Unfit to Fly Ended Up in the Cockpit of Flight 1073",
-      "link": "https://www.wsj.com/articles/how-a-pilot-deemed-unfit-to-fly-ended-up-in-the-cockpit-of-flight-1073-13360f07?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 09:50:00 GMT",
-      "sentiment": 0.275
-    },
-    {
-      "title": "French Bond Yields Stay Elevated, Treasury Yields Ease",
-      "link": "https://www.wsj.com/finance/investing/french-bond-yields-stay-elevated-treasury-yields-ease-13103f54?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 08:27:00 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
       "title": "Volare Shipping Shares Jump on First Trading Day",
       "link": "https://www.wsj.com/business/volare-shipping-shares-jump-on-first-trading-day-9c1bbdaa?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 09:36:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "U.S. Stock Futures Steady as French Fiscal Pressure Raises Contagion Risk",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-steady-as-french-fiscal-pressure-raises-contagion-risk-468c102a?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 08:50:00 GMT",
-      "sentiment": -0.10416666666666667
     },
     {
       "title": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3?mod=rss_markets_main",
       "published": "Fri, 02 Oct 2026 23:00:00 GMT",
       "sentiment": 0.06666666666666665
-    },
-    {
-      "title": "Oman Had Previously Banned the FlyDubai Attacker From Flying",
-      "link": "https://www.wsj.com/world/middle-east/oman-had-previously-banned-the-flydubai-attacker-from-flying-71c5fa18?mod=rss_markets_main",
-      "published": "Fri, 02 Oct 2026 21:51:00 GMT",
-      "sentiment": -0.4333333333333333
     },
     {
       "title": "Opinion | A Pro-Growth Lesson From British Columbia",
@@ -229,16 +229,16 @@
       "sentiment": 0.056666666666666664
     },
     {
+      "title": "Euro Drops to 16-Month Low as French Fiscal Strain, Spanish Snap Election Weigh",
+      "link": "https://www.wsj.com/finance/currencies/euro-falls-to-16-month-low-vs-dollar-weighed-by-french-concerns-d11c9534?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 12:03:00 GMT",
+      "sentiment": -0.03888888888888889
+    },
+    {
       "title": "Euro Falls Vs Sterling as Fiscal Concerns Appear Greater in France Than U.K.",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-reduced-fed-rate-hike-prospects-e8316bd2?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 10:26:00 GMT",
       "sentiment": 0.024999999999999994
-    },
-    {
-      "title": "Euro Falls to 16-Month Low Vs. Dollar, Weighed by French Concerns",
-      "link": "https://www.wsj.com/finance/currencies/euro-falls-to-16-month-low-vs-dollar-weighed-by-french-concerns-d11c9534?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 06:59:00 GMT",
-      "sentiment": -0.03888888888888889
     },
     {
       "title": "DXY Dollar Index Falls to Intraday Low of 101.714 After Weak U.S. Jobs Data",
@@ -257,6 +257,12 @@
       "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-boj-tankan-bojs-summary-of-opinions-b61eb3ee?mod=rss_markets_main",
       "published": "Thu, 01 Oct 2026 21:20:00 GMT",
       "sentiment": 0.6
+    },
+    {
+      "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-new-ai-czar-unveils-goals-members-of-white-house-task-force-0141e74e?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 11:04:00 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Community Banks Swing Back at Trump Regulators Over Crypto Charters",
@@ -281,12 +287,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-a68861cb?mod=rss_markets_main",
       "published": "Tue, 29 Sep 2026 11:22:00 GMT",
       "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "New York State Sues Polymarket in Escalating Crackdown on Prediction Markets",
-      "link": "https://www.wsj.com/us-news/law/ny-sues-polymarket-in-escalating-crackdown-on-prediction-markets-80d1aba6?mod=rss_markets_main",
-      "published": "Thu, 24 Sep 2026 16:12:00 GMT",
-      "sentiment": 0.16818181818181818
     },
     {
       "title": "Stock Funds Cling to a 10.3% Gain for 2026",
