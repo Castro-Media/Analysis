@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Supreme Court sounds wary of state-based climate change suits against oil producers",
+      "link": "https://www.latimes.com/politics/story/2026-10-05/supreme-court-sounds-wary-of-state-based-climate-change-suits-against-oil-producers",
+      "published": "Mon, 5 Oct 2026 17:23:46 GMT",
+      "sentiment": -0.3277777777777778
+    },
+    {
       "title": "David Ellison names Skydance team that includes prominent Warner executives",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-05/david-ellison-names-skydance-team-that-includes-prominent-warner-executives",
       "published": "Mon, 5 Oct 2026 14:50:20 GMT",
@@ -61,16 +67,16 @@
       "sentiment": 0.3416666666666667
     },
     {
-      "title": "Hiltzik: Sure, use Meta's Muse bot to help with your chores — if you want Mark Zuckerberg to know all your secrets",
-      "link": "https://www.latimes.com/business/story/2026-10-02/sure-use-metas-muse-bot-to-help-with-your-chores-if-you-want-mark-zuckerberg-to-know-all-your-secrets",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Warner Bros. has had a tough year at the box office. Now, it's bracing for 'Digger'",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-02/digger-could-add-to-warner-bros-box-office-problems",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": -0.3888888888888889
+    },
+    {
+      "title": "Hiltzik: Sure, use Meta's Muse bot to help with your chores — if you want Mark Zuckerberg to know all your secrets",
+      "link": "https://www.latimes.com/business/story/2026-10-02/sure-use-metas-muse-bot-to-help-with-your-chores-if-you-want-mark-zuckerberg-to-know-all-your-secrets",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "CNN chief Mark Thompson in talks to remain in role after Paramount takes over network",
@@ -97,6 +103,12 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood",
+      "link": "https://www.latimes.com/business/story/2026-09-30/new-hollywood-with-stacked-stages-bets-on-production-rebound",
+      "published": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "sentiment": 0.007142857142857145
+    },
+    {
       "title": "Anthropic says its AI models could manipulate, blackmail and harm humans",
       "link": "https://www.latimes.com/business/story/2026-09-30/anthropic-warns-of-ais-existential-risk-to-humans-in-its-ipo-filing",
       "published": "Wed, 30 Sep 2026 10:00:00 GMT",
@@ -107,12 +119,6 @@
       "link": "https://www.latimes.com/business/story/2026-09-30/ai-bots-wont-extinguish-humanity-on-their-own-but-you-should-worry-about-humans-behind-them",
       "published": "Wed, 30 Sep 2026 10:00:00 GMT",
       "sentiment": 0.06666666666666665
-    },
-    {
-      "title": "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood",
-      "link": "https://www.latimes.com/business/story/2026-09-30/new-hollywood-with-stacked-stages-bets-on-production-rebound",
-      "published": "Wed, 30 Sep 2026 10:00:00 GMT",
-      "sentiment": 0.007142857142857145
     },
     {
       "title": "Paramount streaming chief Cindy Holland exits studio, making way for HBO's Casey Bloys",
@@ -241,28 +247,28 @@
       "sentiment": 0.25
     },
     {
-      "title": "Meta's viral AI agent can now book travel and shop for you. Amazon says it crossed a line",
-      "link": "https://www.latimes.com/business/story/2026-09-23/meta-muse-can-now-book-travel-shop-for-you-amazon-says-it-crossed-line",
-      "published": "Wed, 23 Sep 2026 10:00:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
       "title": "Canada's boycott forces the sale of a California winery",
       "link": "https://www.latimes.com/business/story/2026-09-23/canadas-boycott-forces-sale-of-california-winery",
       "published": "Wed, 23 Sep 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Costa Mesa approves Fairview Development Center project",
-      "link": "https://www.latimes.com/business/story/2026-09-22/costa-mesa-approves-fairview-development-center-project",
-      "published": "Tue, 22 Sep 2026 10:00:00 GMT",
-      "sentiment": -0.05
+      "title": "Meta's viral AI agent can now book travel and shop for you. Amazon says it crossed a line",
+      "link": "https://www.latimes.com/business/story/2026-09-23/meta-muse-can-now-book-travel-shop-for-you-amazon-says-it-crossed-line",
+      "published": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "How iPhone users can file to get up to $95 from a $250-million settlement",
       "link": "https://www.latimes.com/business/story/2026-09-22/how-iphone-users-can-file-to-get-up-to-95",
       "published": "Tue, 22 Sep 2026 10:00:00 GMT",
       "sentiment": 0.21428571428571427
+    },
+    {
+      "title": "Costa Mesa approves Fairview Development Center project",
+      "link": "https://www.latimes.com/business/story/2026-09-22/costa-mesa-approves-fairview-development-center-project",
+      "published": "Tue, 22 Sep 2026 10:00:00 GMT",
+      "sentiment": -0.05
     },
     {
       "title": "Paramount, attorneys general settle lawsuit, clearing a path for Warner Bros. merger",
@@ -361,16 +367,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gates Foundation commits $1 billion to improving global AI access",
-      "link": "https://www.latimes.com/business/story/2026-09-16/gates-foundation-commits-1-billion-to-improve-global-ai",
-      "published": "Wed, 16 Sep 2026 10:00:00 GMT",
-      "sentiment": -0.0063973063973064015
-    },
-    {
       "title": "Hiltzik: An 'independent' study takes Paramount's side in its merger battle. But Paramount paid for it",
       "link": "https://www.latimes.com/business/story/2026-09-16/leaked-study-says-la-would-be-devastated-if-paramount-leaves-town-be-suspicious",
       "published": "Wed, 16 Sep 2026 10:00:00 GMT",
       "sentiment": -0.5
+    },
+    {
+      "title": "Gates Foundation commits $1 billion to improving global AI access",
+      "link": "https://www.latimes.com/business/story/2026-09-16/gates-foundation-commits-1-billion-to-improve-global-ai",
+      "published": "Wed, 16 Sep 2026 10:00:00 GMT",
+      "sentiment": -0.0063973063973064015
     },
     {
       "title": "Mideast escalation risks an oil shock ahead of the midterms",
@@ -533,12 +539,6 @@
       "link": "https://www.latimes.com/california/story/2026-09-08/la-council-backs-fast-food-worker-scheduling-protections-over-industry-objections",
       "published": "Tue, 8 Sep 2026 22:46:47 GMT",
       "sentiment": 0.10714285714285711
-    },
-    {
-      "title": "Canada's tariffs go into effect, spotlighting soured relations with U.S.",
-      "link": "https://www.latimes.com/politics/story/2026-09-08/canadas-tariffs-go-into-effect-spotlighting-soured-relations-with-u-s",
-      "published": "Tue, 8 Sep 2026 22:19:28 GMT",
-      "sentiment": 0.06666666666666667
     }
   ]
 }
