@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "People of All Ages Join French Student Protests, as Movement Broadens",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
+      "published": "Tue, 06 Oct 2026 16:14:08 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
+      "published": "Tue, 06 Oct 2026 16:03:08 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
       "published": "Tue, 06 Oct 2026 14:28:21 +0000",
@@ -15,7 +27,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest",
-      "published": "Tue, 06 Oct 2026 14:55:28 +0000",
+      "published": "Tue, 06 Oct 2026 16:43:07 +0000",
       "sentiment": 0.5
     },
     {
@@ -25,15 +37,15 @@
       "sentiment": -0.03214285714285714
     },
     {
-      "title": "An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
+      "title": "As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
       "published": "Tue, 06 Oct 2026 12:08:04 +0000",
-      "sentiment": -0.07777777777777778
+      "sentiment": 0.0
     },
     {
       "title": "Melting Swiss Glaciers Release Archaeological Treasures",
       "link": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
-      "published": "Tue, 06 Oct 2026 09:00:53 +0000",
+      "published": "Tue, 06 Oct 2026 15:01:15 +0000",
       "sentiment": 0.0
     },
     {
@@ -45,13 +57,13 @@
     {
       "title": "These Taste Testers Have Four Legs and Picky Palates",
       "link": "https://www.nytimes.com/2026/10/06/business/cat-food-pets-royal-canin.html",
-      "published": "Tue, 06 Oct 2026 11:48:04 +0000",
+      "published": "Tue, 06 Oct 2026 11:48:05 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-      "published": "Tue, 06 Oct 2026 11:04:54 +0000",
+      "published": "Tue, 06 Oct 2026 15:54:36 +0000",
       "sentiment": 0.23095238095238094
     },
     {
@@ -63,7 +75,7 @@
     {
       "title": "Protests Spread Across France, Growing From School Demonstrations",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-      "published": "Tue, 06 Oct 2026 13:31:46 +0000",
+      "published": "Tue, 06 Oct 2026 15:32:24 +0000",
       "sentiment": -0.04666666666666666
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
       "published": "Mon, 05 Oct 2026 13:59:16 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
-      "link": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
-      "published": "Mon, 05 Oct 2026 09:24:23 +0000",
-      "sentiment": -0.43333333333333335
-    },
-    {
-      "title": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
-      "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
-      "published": "Mon, 05 Oct 2026 18:16:04 +0000",
-      "sentiment": 0.025
     }
   ]
 }

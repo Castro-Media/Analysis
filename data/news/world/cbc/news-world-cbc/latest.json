@@ -7,6 +7,18 @@
       "sentiment": 0.035
     },
     {
+      "title": "Russian officials say no cases of plague in city where lab technician died",
+      "link": "https://www.cbc.ca/news/health/russia-siberia-plague-scare-9.7370969?cmp=rss",
+      "published": "Tue, 06 Oct 2026 12:21:07 EDT",
+      "sentiment": -0.002777777777777777
+    },
+    {
+      "title": "Kenya confirms 1st Ebola case imported from Congo",
+      "link": "https://www.cbc.ca/news/health/ebola-kenya-9.7371094?cmp=rss",
+      "published": "Tue, 06 Oct 2026 12:34:02 EDT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "Crew of ship missing after drone attacks on 2 commercial vessels in Black Sea near Bulgaria",
       "link": "https://www.cbc.ca/news/world/bulgaria-black-sea-drone-attacks-reported-9.7370638?cmp=rss",
       "published": "Tue, 06 Oct 2026 07:55:06 EDT",
@@ -17,6 +29,12 @@
       "link": "https://www.cbc.ca/news/world/nobel-award-physics-9.7369209?cmp=rss",
       "published": "Tue, 06 Oct 2026 06:33:19 EDT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Lionel Messi prepares for his final match for Argentina",
+      "link": "https://www.cbc.ca/sports/soccer/lionel-messi-final-match-argentina-9.7370943?cmp=rss",
+      "published": "Tue, 06 Oct 2026 10:46:59 EDT",
+      "sentiment": 0.029166666666666664
     },
     {
       "title": "What U.S. Supreme Court judges said at a hearing on climate damages from oil and gas",
@@ -101,24 +119,6 @@
       "link": "https://www.cbc.ca/news/entertainment/avengers-endgame-avatar-box-office-record-9.7369846?cmp=rss",
       "published": "Mon, 05 Oct 2026 15:05:12 EDT",
       "sentiment": -0.11333333333333333
-    },
-    {
-      "title": "Norway seeks temporary ban on smart glasses amid privacy concerns",
-      "link": "https://www.cbc.ca/news/world/norway-smart-glasses-ban-9.7369700?cmp=rss",
-      "published": "Mon, 05 Oct 2026 12:55:21 EDT",
-      "sentiment": 0.11964285714285713
-    },
-    {
-      "title": "Israeli officials say FlyDubai co-pilot planned attack before joining airline",
-      "link": "https://www.cbc.ca/news/world/flydubai-copilot-attack-planned-9.7369232?cmp=rss",
-      "published": "Mon, 05 Oct 2026 08:53:29 EDT",
-      "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Nobel Prize in Medicine awarded to scientists who pioneered work in optogenetics",
-      "link": "https://www.cbc.ca/news/world/nobel-prize-sweden-medicine-physiology-9.7366536?cmp=rss",
-      "published": "Mon, 05 Oct 2026 06:05:47 EDT",
-      "sentiment": -0.13125
     }
   ]
 }

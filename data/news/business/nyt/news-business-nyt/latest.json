@@ -1,22 +1,28 @@
 {
   "entries": [
     {
-      "title": "Emmys Leave Their Broadcast Home for Amazon",
+      "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
+      "link": "https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html",
+      "published": "Tue, 06 Oct 2026 16:46:42 +0000",
+      "sentiment": -0.8
+    },
+    {
+      "title": "Emmy Awards Move to Prime Video in Six-Year Deal With Amazon",
       "link": "https://www.nytimes.com/2026/10/06/business/media/emmy-awards-amazon.html",
-      "published": "Tue, 06 Oct 2026 14:18:16 +0000",
+      "published": "Tue, 06 Oct 2026 15:59:28 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Paramount Closes Its Deal for Warner Bros. Discovery",
+      "title": "Paramount Closes Merger With Warner Bros. Discovery to Form Skydance",
       "link": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
-      "published": "Tue, 06 Oct 2026 14:08:34 +0000",
-      "sentiment": 0.1
+      "published": "Tue, 06 Oct 2026 16:25:23 +0000",
+      "sentiment": 0.16818181818181818
     },
     {
-      "title": "U.S. Trade Deficit Widens in August",
+      "title": "U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs",
       "link": "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html",
-      "published": "Tue, 06 Oct 2026 13:41:13 +0000",
-      "sentiment": 0.005681818181818177
+      "published": "Tue, 06 Oct 2026 15:01:36 +0000",
+      "sentiment": 0.08
     },
     {
       "title": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges",
@@ -39,7 +45,7 @@
     {
       "title": "These Taste Testers Have Four Legs and Picky Palates",
       "link": "https://www.nytimes.com/2026/10/06/business/cat-food-pets-royal-canin.html",
-      "published": "Tue, 06 Oct 2026 11:48:04 +0000",
+      "published": "Tue, 06 Oct 2026 11:48:05 +0000",
       "sentiment": 0.0
     },
     {
@@ -63,7 +69,7 @@
     {
       "title": "Trump Allows Cheaper, Dyed Diesel to Be Used in Nonfarm Vehicles",
       "link": "https://www.nytimes.com/2026/10/05/business/trump-dyed-diesel-fuel-executive-order.html",
-      "published": "Tue, 06 Oct 2026 01:34:01 +0000",
+      "published": "Tue, 06 Oct 2026 15:39:50 +0000",
       "sentiment": 0.0
     },
     {
@@ -287,12 +293,6 @@
       "link": "https://www.nytimes.com/2026/10/02/dining/drinks/english-whisky-uk.html",
       "published": "Fri, 02 Oct 2026 13:33:15 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-      "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
-      "published": "Fri, 02 Oct 2026 20:36:55 +0000",
-      "sentiment": -0.11388888888888889
     }
   ]
 }
