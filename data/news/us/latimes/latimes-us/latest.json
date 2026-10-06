@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Becerra's 'son of immigrants' story emerges as latest flash point in governor's race",
+      "link": "https://www.latimes.com/california/story/2026-10-06/becerras-son-of-immigrants-story-emerges-as-latest-flash-point-in-governors-race",
+      "published": "Tue, 6 Oct 2026 20:15:10 GMT",
+      "sentiment": 0.16166666666666668
+    },
+    {
+      "title": "Lineage warehouse in Boyle Heights searched in criminal probe, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-06/lineage-warehouse-criminal-investigation",
+      "published": "Tue, 6 Oct 2026 19:11:22 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Raman tells viewers to 'stop fascist liars' in video urging removal of LAPD chief",
       "link": "https://www.latimes.com/california/story/2026-10-06/raman-declares-stop-fascist-liars-in-video-urging-lapd-chief-removal",
       "published": "Tue, 6 Oct 2026 18:40:47 GMT",
@@ -19,10 +31,10 @@
       "sentiment": 0.3333333333333333
     },
     {
-      "title": "Parents from Arcadia surrogacy mansion arrested on child abuse conspiracy charges",
+      "title": "'House of horrors': Parents at Arcadia surrogacy mansion charged with child abuse conspiracy",
       "link": "https://www.latimes.com/california/story/2026-10-06/arcadia-surrogacy-mansion-parents-arrested-child-abuse-conspiracy-charges",
       "published": "Tue, 6 Oct 2026 16:44:49 GMT",
-      "sentiment": 0.5
+      "sentiment": 0.0
     },
     {
       "title": "It's an October to remember as SoCal continues to bake. Here's what we know",
@@ -31,16 +43,16 @@
       "sentiment": 0.05833333333333333
     },
     {
-      "title": "LAUSD hides sensitive student information from parents, Trump administration alleges",
-      "link": "https://www.latimes.com/california/story/2026-10-06/lausd-trump-administration-gender-privacy-enforcement",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
       "title": "Overspent and under-enrolled: State fiscal crisis experts issue severe warning to LAUSD",
       "link": "https://www.latimes.com/california/story/2026-10-06/lausd-high-risk-insolvency-state-fiscal-warning",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05712121212121212
+    },
+    {
+      "title": "LAUSD hides sensitive student information from parents, Trump administration alleges",
+      "link": "https://www.latimes.com/california/story/2026-10-06/lausd-trump-administration-gender-privacy-enforcement",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "'Things got out of control': Video of alleged beating by Santa Ana police spurs investigation",
@@ -569,18 +581,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-38-immunology-immunotherapy-funding-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "Your guide to Proposition 39: Stricter voter ID requirements",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-39-voting-id-requirements-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Your guide to Proposition 44: Federally funded health clinic spending",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-44-health-clinic-spending-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09999999999999999
     }
   ]
 }
