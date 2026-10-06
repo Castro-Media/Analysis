@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Illinois Democrats accuse Darren Bailey of failing to disclose who provides rent-free Chicago apartment",
+      "link": "https://www.chicagotribune.com/2026/10/06/darren-bailey-apartment/",
+      "published": "Tue, 06 Oct 2026 22:25:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "What Paramount’s Warner Bros. takeover means for streaming, movies and news",
+      "link": "https://www.chicagotribune.com/2026/10/06/paramount-warner-bros-takeover-streaming-movies/",
+      "published": "Tue, 06 Oct 2026 21:37:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "IKEA to close its Bolingbrook store for new, smaller location in Naperville",
+      "link": "https://www.chicagotribune.com/2026/10/06/ikea-naperville-opening-bolingbrook-closing/",
+      "published": "Tue, 06 Oct 2026 21:30:15 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance",
       "link": "https://www.chicagotribune.com/2026/10/06/paramount-takeover-warner-bros-skydance/",
       "published": "Tue, 06 Oct 2026 20:55:27 +0000",
@@ -55,10 +73,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Constellation and Google announce plan to increase nuclear capacity in Illinois, two other states",
+      "title": "Constellation and Google announce plan to increase nuclear capacity in Illinois, tout cost savings for residents",
       "link": "https://www.chicagotribune.com/2026/10/06/nuclear-capacity-constellation-google/",
       "published": "Tue, 06 Oct 2026 10:30:47 +0000",
-      "sentiment": -0.125
+      "sentiment": 0.0
     },
     {
       "title": "Three Sisters Antique Mall celebrates 30 years in Blue Island",
@@ -581,24 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/09/25/oak-park-sea-love-candles/",
       "published": "Fri, 25 Sep 2026 10:05:27 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Gov. JB Pritzker turns to Illinois lawmakers to act on data center regulations",
-      "link": "https://www.chicagotribune.com/2026/09/24/gov-jb-pritzker-illinois-lawmakers-data-centers/",
-      "published": "Thu, 24 Sep 2026 23:06:36 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "West Dundee candy shop owner hoping Facebook can help him sell biz",
-      "link": "https://www.chicagotribune.com/2026/09/24/around-corner-candy-dundee-facebook-sale/",
-      "published": "Thu, 24 Sep 2026 21:31:48 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Union: Mold found in Blue Island area schools poses risk to students, staff",
-      "link": "https://www.chicagotribune.com/2026/09/24/cook-county-district-130-mold-grievance/",
-      "published": "Thu, 24 Sep 2026 20:34:58 +0000",
-      "sentiment": 0.0
     }
   ]
 }
