@@ -1,22 +1,34 @@
 {
   "entries": [
     {
-      "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
-      "published": "Tue, 06 Oct 2026 14:28:21 +0000",
-      "sentiment": -0.4
+      "title": "Student Protests Expand to More Than 40 French Cities",
+      "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
+      "published": "Tue, 06 Oct 2026 18:47:16 +0000",
+      "sentiment": 0.04333333333333334
     },
     {
-      "title": "Live Updates: Student Protests Expand to More Than 40 French Cities",
-      "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
-      "published": "Tue, 06 Oct 2026 16:43:08 +0000",
-      "sentiment": 0.05662337662337663
+      "title": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html",
+      "published": "Tue, 06 Oct 2026 18:57:39 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
       "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
       "published": "Tue, 06 Oct 2026 15:13:41 +0000",
       "sentiment": -0.2
+    },
+    {
+      "title": "Live From the Barracks: Three Juntas Launch TV Channel",
+      "link": "https://www.nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html",
+      "published": "Tue, 06 Oct 2026 18:32:31 +0000",
+      "sentiment": -0.003838383838383841
+    },
+    {
+      "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
+      "published": "Tue, 06 Oct 2026 14:28:21 +0000",
+      "sentiment": -0.4
     },
     {
       "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
@@ -27,13 +39,13 @@
     {
       "title": "Kenya Records Ebola Case for First Time",
       "link": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
-      "published": "Tue, 06 Oct 2026 11:18:41 +0000",
+      "published": "Tue, 06 Oct 2026 17:38:13 +0000",
       "sentiment": 0.25
     },
     {
       "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
-      "published": "Tue, 06 Oct 2026 13:57:13 +0000",
+      "published": "Tue, 06 Oct 2026 18:24:48 +0000",
       "sentiment": -0.03333333333333333
     },
     {
@@ -56,8 +68,8 @@
     },
     {
       "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
-      "published": "Tue, 06 Oct 2026 04:01:14 +0000",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html",
+      "published": "Tue, 06 Oct 2026 17:37:07 +0000",
       "sentiment": 0.016666666666666666
     },
     {
@@ -73,15 +85,9 @@
       "sentiment": 0.23095238095238094
     },
     {
-      "title": "FIFA Found Congo Player Ineligible but Let Him Play in World Cup",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html",
-      "published": "Tue, 06 Oct 2026 10:54:11 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
-      "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-      "published": "Tue, 06 Oct 2026 08:51:52 +0000",
+      "title": "Trump-Appointed Judge Accuses ICE of Lying and Fabricating Records",
+      "link": "https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html",
+      "published": "Tue, 06 Oct 2026 17:57:19 +0000",
       "sentiment": 0.0
     },
     {
@@ -93,13 +99,13 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest",
-      "published": "Tue, 06 Oct 2026 16:43:07 +0000",
+      "published": "Tue, 06 Oct 2026 17:55:56 +0000",
       "sentiment": 0.5
     },
     {
       "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
       "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-      "published": "Tue, 06 Oct 2026 09:03:19 +0000",
+      "published": "Tue, 06 Oct 2026 17:00:14 +0000",
       "sentiment": -0.0062500000000000056
     },
     {
@@ -115,10 +121,22 @@
       "sentiment": -0.15999999999999998
     },
     {
+      "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
+      "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+      "published": "Tue, 06 Oct 2026 08:51:52 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Protests Spread Across France, Growing From School Demonstrations",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
       "published": "Tue, 06 Oct 2026 15:32:24 +0000",
       "sentiment": -0.04666666666666666
+    },
+    {
+      "title": "FIFA Found Congo Player Ineligible but Let Him Play in World Cup",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html",
+      "published": "Tue, 06 Oct 2026 10:54:11 +0000",
+      "sentiment": -0.05
     },
     {
       "title": "The Hidden Policies That Power China’s Export Boom",
@@ -177,7 +195,7 @@
     {
       "title": "The Rise of Gig Economy Warfare",
       "link": "https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html",
-      "published": "Tue, 06 Oct 2026 07:54:30 +0000",
+      "published": "Tue, 06 Oct 2026 07:54:31 +0000",
       "sentiment": -0.22121212121212122
     },
     {
@@ -201,7 +219,7 @@
     {
       "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
       "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
-      "published": "Tue, 06 Oct 2026 14:18:51 +0000",
+      "published": "Tue, 06 Oct 2026 18:23:51 +0000",
       "sentiment": -0.08888888888888889
     },
     {
@@ -247,10 +265,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+      "title": "Mixed Human Feelings After a Day at a Park Full of Robots",
       "link": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-      "published": "Mon, 05 Oct 2026 12:57:32 +0000",
-      "sentiment": 0.06818181818181818
+      "published": "Tue, 06 Oct 2026 17:51:56 +0000",
+      "sentiment": 0.12159090909090908
     },
     {
       "title": "Are Babies Conscious?",
@@ -305,42 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
       "published": "Mon, 05 Oct 2026 00:18:12 +0000",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
-      "published": "Sun, 04 Oct 2026 19:07:37 +0000",
-      "sentiment": -0.31666666666666665
-    },
-    {
-      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-      "published": "Sun, 04 Oct 2026 21:11:10 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Who Were the Pilots on the FlyDubai Flight?",
-      "link": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
-      "published": "Sun, 04 Oct 2026 21:35:14 +0000",
-      "sentiment": -0.125
-    },
-    {
-      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
-      "link": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
-      "published": "Sun, 04 Oct 2026 22:30:27 +0000",
-      "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro",
-      "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
-      "published": "Mon, 05 Oct 2026 06:19:48 +0000",
-      "sentiment": 0.1375
-    },
-    {
-      "title": "Nobel Prizes 2026: What to Know",
-      "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "published": "Tue, 06 Oct 2026 10:24:48 +0000",
-      "sentiment": 0.0
     }
   ]
 }
