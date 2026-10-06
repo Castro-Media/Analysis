@@ -7,16 +7,22 @@
       "sentiment": -0.4
     },
     {
-      "title": "Live Updates: Protests Spread Across France as Unions Join Student Demonstrations",
+      "title": "Live Updates: Student Protests Expand to More Than 40 French Cities",
       "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
-      "published": "Tue, 06 Oct 2026 14:55:29 +0000",
-      "sentiment": -0.020727272727272726
+      "published": "Tue, 06 Oct 2026 16:43:08 +0000",
+      "sentiment": 0.05662337662337663
     },
     {
       "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
       "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
-      "published": "Tue, 06 Oct 2026 09:03:34 +0000",
+      "published": "Tue, 06 Oct 2026 15:13:41 +0000",
       "sentiment": -0.2
+    },
+    {
+      "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
+      "published": "Tue, 06 Oct 2026 16:03:08 +0000",
+      "sentiment": -0.03333333333333333
     },
     {
       "title": "Kenya Records Ebola Case for First Time",
@@ -39,14 +45,14 @@
     {
       "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
       "link": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
-      "published": "Tue, 06 Oct 2026 07:02:29 +0000",
+      "published": "Tue, 06 Oct 2026 15:55:46 +0000",
       "sentiment": -0.17777777777777778
     },
     {
-      "title": "An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
+      "title": "As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
       "published": "Tue, 06 Oct 2026 12:08:04 +0000",
-      "sentiment": -0.07777777777777778
+      "sentiment": 0.0
     },
     {
       "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
@@ -63,7 +69,7 @@
     {
       "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-      "published": "Tue, 06 Oct 2026 11:04:54 +0000",
+      "published": "Tue, 06 Oct 2026 15:54:36 +0000",
       "sentiment": 0.23095238095238094
     },
     {
@@ -79,15 +85,15 @@
       "sentiment": 0.0
     },
     {
-      "title": "Protests Spread Across France, Growing From School Demonstrations",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-      "published": "Tue, 06 Oct 2026 13:31:46 +0000",
-      "sentiment": -0.04666666666666666
+      "title": "People of All Ages Join French Student Protests, as Movement Broadens",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
+      "published": "Tue, 06 Oct 2026 16:14:08 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest",
-      "published": "Tue, 06 Oct 2026 14:55:28 +0000",
+      "published": "Tue, 06 Oct 2026 16:43:07 +0000",
       "sentiment": 0.5
     },
     {
@@ -99,7 +105,7 @@
     {
       "title": "Melting Swiss Glaciers Release Archaeological Treasures",
       "link": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
-      "published": "Tue, 06 Oct 2026 09:00:53 +0000",
+      "published": "Tue, 06 Oct 2026 15:01:15 +0000",
       "sentiment": 0.0
     },
     {
@@ -107,6 +113,12 @@
       "link": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
       "published": "Tue, 06 Oct 2026 14:03:23 +0000",
       "sentiment": -0.15999999999999998
+    },
+    {
+      "title": "Protests Spread Across France, Growing From School Demonstrations",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
+      "published": "Tue, 06 Oct 2026 15:32:24 +0000",
+      "sentiment": -0.04666666666666666
     },
     {
       "title": "The Hidden Policies That Power China’s Export Boom",
@@ -329,18 +341,6 @@
       "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
       "published": "Tue, 06 Oct 2026 10:24:48 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Who Owns the Moon?",
-      "link": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
-      "published": "Sun, 04 Oct 2026 09:06:41 +0000",
-      "sentiment": 0.14444444444444446
-    },
-    {
-      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-      "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-      "published": "Mon, 05 Oct 2026 13:13:49 +0000",
-      "sentiment": 0.25
     }
   ]
 }
