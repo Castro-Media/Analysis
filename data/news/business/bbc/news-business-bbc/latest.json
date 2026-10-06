@@ -1,9 +1,33 @@
 {
   "entries": [
     {
-      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
       "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 23:00:41 GMT",
+      "published": "Tue, 06 Oct 2026 06:59:53 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lego fraudster among last year's most high-profile insurance scammers",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 07:03:35 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 06:53:17 GMT",
+      "sentiment": 0.13
+    },
+    {
+      "title": "Last call for the mall? How shopping centres are reinventing themselves",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 05:28:37 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 04:57:20 GMT",
       "sentiment": 0.0
     },
     {
@@ -13,16 +37,22 @@
       "sentiment": 0.09727272727272726
     },
     {
+      "title": "Five reasons India's stock market is sinking even when its economy is growing",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 23:13:11 GMT",
+      "sentiment": -0.2916666666666667
+    },
+    {
       "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
       "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 16:13:21 GMT",
       "sentiment": -0.2
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 23:13:11 GMT",
-      "sentiment": -0.2916666666666667
+      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 17:23:28 GMT",
+      "sentiment": -0.3
     },
     {
       "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
@@ -35,12 +65,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 10:03:38 GMT",
       "sentiment": 0.3181818181818182
-    },
-    {
-      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 17:23:28 GMT",
-      "sentiment": -0.3
     },
     {
       "title": "The job interview question you don't have to answer",
@@ -139,30 +163,6 @@
       "sentiment": -0.2
     },
     {
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 02 Oct 2026 08:54:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT",
-      "sentiment": 0.2833333333333333
-    },
-    {
-      "title": "AI boom could trigger market shocks, Bank of England boss warns",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 10:05:25 GMT",
-      "sentiment": -0.24333333333333332
-    },
-    {
-      "title": "HMRC urged to scrutinise tax implications of Man City case",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 18:21:22 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "The AI telling farmers when to harvest",
       "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Sep 2026 23:02:21 GMT",
@@ -235,34 +235,34 @@
       "sentiment": 0.6
     },
     {
+      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 06:59:53 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Irish budget to tackle childcare and energy costs",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 05:30:06 GMT",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "Banks still refusing credit cards, watchdog says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg0lyl3v8eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 05:23:32 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Community supermarket opens in shopping centre",
       "link": "https://www.bbc.co.uk/news/articles/cqkgjnmx6ln4o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 06 Oct 2026 04:54:32 GMT",
       "sentiment": 0.08484848484848484
     },
     {
-      "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 23:00:41 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Average five-year mortgage rate hits 6% for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 09:54:57 GMT",
       "sentiment": 0.09727272727272726
-    },
-    {
-      "title": "How much is your salary?",
-      "link": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 05:33:59 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "The job interview question you don't have to answer",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 23:22:07 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "My hometown shows that high streets have to change or die",
