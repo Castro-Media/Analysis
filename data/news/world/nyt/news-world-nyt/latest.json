@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+      "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
+      "published": "Tue, 06 Oct 2026 09:03:33 +0000",
+      "sentiment": -0.2
+    },
+    {
       "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
       "published": "Tue, 06 Oct 2026 04:01:14 +0000",
@@ -11,6 +17,18 @@
       "link": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
       "published": "Tue, 06 Oct 2026 07:02:29 +0000",
       "sentiment": -0.17777777777777778
+    },
+    {
+      "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-henning-arrested-espionage.html",
+      "published": "Tue, 06 Oct 2026 09:35:39 +0000",
+      "sentiment": -0.03214285714285714
+    },
+    {
+      "title": "A Pensioner’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
+      "published": "Tue, 06 Oct 2026 09:03:47 +0000",
+      "sentiment": -0.07777777777777778
     },
     {
       "title": "As Japan’s Population Shrinks, a City Is Accused of Padding Census Numbers",
@@ -25,22 +43,28 @@
       "sentiment": 0.3875
     },
     {
-      "title": "FIFA Found Congo Player Ineligible, Let Him Play in World Cup",
+      "title": "FIFA Found Congo Player Ineligible but Let Him Play in World Cup",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html",
-      "published": "Tue, 06 Oct 2026 08:23:38 +0000",
+      "published": "Tue, 06 Oct 2026 10:54:11 +0000",
       "sentiment": -0.05
     },
     {
       "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
       "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-      "published": "Tue, 06 Oct 2026 08:51:51 +0000",
+      "published": "Tue, 06 Oct 2026 08:51:52 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "France Set for Nationwide Strikes, as School Protests Escalate",
+      "title": "Demonstrators Rally Across France as School Protests Escalate",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-      "published": "Tue, 06 Oct 2026 08:18:36 +0000",
+      "published": "Tue, 06 Oct 2026 10:05:27 +0000",
       "sentiment": -0.04666666666666666
+    },
+    {
+      "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
+      "link": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
+      "published": "Tue, 06 Oct 2026 04:11:58 +0000",
+      "sentiment": 0.075
     },
     {
       "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
@@ -49,40 +73,28 @@
       "sentiment": -0.07777777777777778
     },
     {
+      "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
+      "link": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
+      "published": "Mon, 05 Oct 2026 21:20:46 +0000",
+      "sentiment": -0.32500000000000007
+    },
+    {
       "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
       "link": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html",
       "published": "Mon, 05 Oct 2026 20:27:03 +0000",
       "sentiment": 0.2671717171717172
     },
     {
-      "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
-      "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
-      "published": "Mon, 05 Oct 2026 15:32:44 +0000",
-      "sentiment": -0.08888888888888889
+      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+      "link": "https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html",
+      "published": "Tue, 06 Oct 2026 09:03:19 +0000",
+      "sentiment": -0.0062500000000000056
     },
     {
-      "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
-      "link": "https://www.nytimes.com/2026/10/05/world/americas/bolsanaro-lula-brazil-presidency-trump.html",
-      "published": "Mon, 05 Oct 2026 21:42:19 +0000",
-      "sentiment": 0.09955357142857142
-    },
-    {
-      "title": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
-      "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
-      "published": "Mon, 05 Oct 2026 18:16:04 +0000",
-      "sentiment": 0.025
-    },
-    {
-      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
-      "link": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
-      "published": "Mon, 05 Oct 2026 09:24:23 +0000",
-      "sentiment": -0.43333333333333335
-    },
-    {
-      "title": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
-      "link": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
-      "published": "Mon, 05 Oct 2026 23:03:25 +0000",
-      "sentiment": -0.25902777777777775
+      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
+      "link": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
+      "published": "Tue, 06 Oct 2026 09:00:53 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
@@ -115,21 +127,15 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
-      "link": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
-      "published": "Tue, 06 Oct 2026 04:11:58 +0000",
-      "sentiment": 0.075
-    },
-    {
       "title": "What to know about recent A.I. hacks.",
       "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/what-to-know-about-recent-ai-hacks",
       "published": "Tue, 06 Oct 2026 02:11:30 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "OpenAI Says It Changed Systems After Australia Hack",
+      "title": "OpenAI Says It Changed Systems After Australia Hacking",
       "link": "https://www.nytimes.com/2026/10/05/world/australia/australia-openai-hearing-breach.html",
-      "published": "Tue, 06 Oct 2026 07:29:40 +0000",
+      "published": "Tue, 06 Oct 2026 08:58:31 +0000",
       "sentiment": 0.25
     },
     {
@@ -137,12 +143,6 @@
       "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up",
       "published": "Tue, 06 Oct 2026 01:04:26 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
-      "link": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
-      "published": "Mon, 05 Oct 2026 21:20:46 +0000",
-      "sentiment": -0.32500000000000007
     },
     {
       "title": "The Rise of Gig Economy Warfare",
@@ -157,10 +157,22 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+      "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+      "published": "Mon, 05 Oct 2026 15:32:44 +0000",
+      "sentiment": -0.08888888888888889
+    },
+    {
       "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
       "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
       "published": "Mon, 05 Oct 2026 21:22:29 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency",
+      "link": "https://www.nytimes.com/2026/10/05/world/americas/bolsanaro-lula-brazil-presidency-trump.html",
+      "published": "Mon, 05 Oct 2026 21:42:19 +0000",
+      "sentiment": 0.09955357142857142
     },
     {
       "title": "Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election",
@@ -173,6 +185,12 @@
       "link": "https://www.nytimes.com/2026/10/05/world/europe/former-prince-andrew-police-lawsuit-epstein-uk-arrest.html",
       "published": "Mon, 05 Oct 2026 13:59:16 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+      "published": "Mon, 05 Oct 2026 09:24:23 +0000",
+      "sentiment": -0.43333333333333335
     },
     {
       "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
@@ -197,6 +215,18 @@
       "link": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
       "published": "Mon, 05 Oct 2026 15:12:13 +0000",
       "sentiment": 0.2333333333333333
+    },
+    {
+      "title": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
+      "published": "Mon, 05 Oct 2026 18:16:04 +0000",
+      "sentiment": 0.025
+    },
+    {
+      "title": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
+      "link": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
+      "published": "Mon, 05 Oct 2026 23:03:25 +0000",
+      "sentiment": -0.25902777777777775
     },
     {
       "title": "Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status",
@@ -267,7 +297,7 @@
     {
       "title": "Nobel Prizes 2026: What to Know",
       "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "published": "Mon, 05 Oct 2026 12:13:34 +0000",
+      "published": "Tue, 06 Oct 2026 10:24:48 +0000",
       "sentiment": 0.0
     },
     {
@@ -311,36 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
       "published": "Sun, 04 Oct 2026 23:03:25 +0000",
       "sentiment": -0.057142857142857155
-    },
-    {
-      "title": "Whale Batters a Yacht, Leaving Its Crew Stranded for 18 Hours",
-      "link": "https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html",
-      "published": "Sat, 03 Oct 2026 12:54:13 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
-      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
-      "published": "Sun, 04 Oct 2026 08:31:46 +0000",
-      "sentiment": 0.8
-    },
-    {
-      "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-      "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-      "published": "Sat, 03 Oct 2026 20:17:31 +0000",
-      "sentiment": 0.27708333333333335
-    },
-    {
-      "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
-      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
-      "published": "Sat, 03 Oct 2026 10:25:33 +0000",
-      "sentiment": 0.18125
-    },
-    {
-      "title": "Understanding Canada’s Europe Pivot",
-      "link": "https://www.nytimes.com/2026/10/03/world/canada/carney-canada-european-union-trade-currency.html",
-      "published": "Sat, 03 Oct 2026 10:00:13 +0000",
-      "sentiment": 0.0
     }
   ]
 }

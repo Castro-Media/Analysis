@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Could the economy actually get a lift from the oil shock? Read more in today’s WSJ Economics newsletter:",
+      "link": "https://www.wsj.com/economy/central-banking/the-oil-shock-could-make-us-stronger-b9b91866?mod=rss_socialeconomyfeed",
+      "published": "Tue, 06 Oct 2026 09:52:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Eurozone Retail Sales Edge Higher Despite Slump in Fuel Sales",
+      "link": "https://www.wsj.com/business/retail/eurozone-retail-sales-edge-higher-despite-slump-in-fuel-sales-7dd2c5a2?mod=rss_socialeconomyfeed",
+      "published": "Tue, 06 Oct 2026 09:50:00 GMT",
+      "sentiment": 0.22777777777777777
+    },
+    {
       "title": "German Factory Orders Tumbled in August",
       "link": "https://www.wsj.com/finance/commodities-futures/german-factory-orders-tumbled-in-august-70212cb1?mod=rss_socialeconomyfeed",
       "published": "Tue, 06 Oct 2026 07:18:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/economy/consumers/american-economy-consumer-profile-33903de1?mod=rss_socialeconomyfeed",
       "published": "Mon, 05 Oct 2026 01:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Record diesel prices are squeezing truckers, driving up costs and leaving independent drivers struggling to make ends meet",
-      "link": "https://www.wsj.com/economy/truckers-are-using-every-trick-they-can-to-survive-soaring-diesel-prices-0af349aa?mod=rss_socialeconomyfeed",
-      "published": "Sun, 04 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.1111111111111111
-    },
-    {
-      "title": "The U.S. added 29,000 jobs in September, far short of expectations, in a sign that the labor market remains steady but may not be able to deliver consistent and sizable employment gains",
-      "link": "https://www.wsj.com/economy/jobs/september-jobs-report-unemployment-6b6d6643?mod=rss_socialeconomyfeed",
-      "published": "Fri, 02 Oct 2026 20:29:00 GMT",
-      "sentiment": 0.12166666666666667
     },
     {
       "title": "Global Economy Stronger Than Expected, But Threats Mount, OECD Says",
@@ -187,6 +187,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The U.S. added 29,000 jobs in September, far short of expectations, in a sign that the labor market remains steady but may not be able to deliver consistent and sizable employment gains",
+      "link": "https://www.wsj.com/economy/jobs/september-jobs-report-unemployment-6b6d6643?mod=rss_socialeconomyfeed",
+      "published": "Fri, 02 Oct 2026 20:29:00 GMT",
+      "sentiment": 0.12166666666666667
+    },
+    {
       "title": "U.S. Jobless Claims Fall for the Fourth Straight Week",
       "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-fall-for-the-fourth-straight-week-64419dbc?mod=rss_socialeconomyfeed",
       "published": "Thu, 01 Oct 2026 13:00:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-slid-further-last-week-b7ee1b2a?mod=rss_socialeconomyfeed",
       "published": "Thu, 24 Sep 2026 13:03:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "U.S. Jobless Claims Tumbled Last Week",
-      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-tumbled-last-week-00f109ae?mod=rss_socialeconomyfeed",
-      "published": "Thu, 17 Sep 2026 13:00:00 GMT",
-      "sentiment": 0.0
     }
   ]
 }

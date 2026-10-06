@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "Democrats Eyeing the House Face a Conundrum: Rent or Buy?",
+      "link": "https://www.nytimes.com/2026/10/06/us/politics/democrats-house-races-spending.html",
+      "published": "Tue, 06 Oct 2026 09:03:34 +0000",
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+      "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
+      "published": "Tue, 06 Oct 2026 09:03:33 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Cornell Case Highlights Drop in Resolved Sexual Assault Cases Under Trump",
+      "link": "https://www.nytimes.com/2026/10/06/us/politics/trump-cornell.html",
+      "published": "Tue, 06 Oct 2026 09:03:26 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Battle Between Disney and the F.C.C. Moves to the Courts",
+      "link": "https://www.nytimes.com/2026/10/06/business/media/disney-abc-fcc-lawsuit-court.html",
+      "published": "Tue, 06 Oct 2026 09:03:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Alaska’s Fish Became a Defining Issue for the Midterms",
+      "link": "https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html",
+      "published": "Tue, 06 Oct 2026 09:00:55 +0000",
+      "sentiment": 0.20714285714285713
+    },
+    {
       "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
       "link": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
       "published": "Tue, 06 Oct 2026 07:11:57 +0000",
@@ -9,7 +39,7 @@
     {
       "title": "Alexandria Ocasio-Cortez Says, ‘If Abdul Can Win in Michigan, Anybody Can Win Anywhere’",
       "link": "https://www.nytimes.com/2026/10/05/us/politics/aoc-abdul-el-sayed-2028.html",
-      "published": "Tue, 06 Oct 2026 06:34:56 +0000",
+      "published": "Tue, 06 Oct 2026 06:34:57 +0000",
       "sentiment": 0.8
     },
     {
@@ -89,36 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/05/us/politics/midterm-elections-control-congress.html",
       "published": "Mon, 05 Oct 2026 13:55:10 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Supreme Court Tangles Over a Major Climate Change Case",
-      "link": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
-      "published": "Tue, 06 Oct 2026 07:13:04 +0000",
-      "sentiment": 0.024715909090909087
-    },
-    {
-      "title": "Democrats Expect Record Number of Women in Party in House After Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/05/us/politics/democrats-congress-women-house.html",
-      "published": "Mon, 05 Oct 2026 18:06:07 +0000",
-      "sentiment": 0.43333333333333335
-    },
-    {
-      "title": "How the Midterms Could Complicate the Supreme Court’s New Term",
-      "link": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-midterms-elections-trump.html",
-      "published": "Mon, 05 Oct 2026 12:57:25 +0000",
-      "sentiment": 0.057575757575757565
-    },
-    {
-      "title": "US Solar Panel Makers Try to Catch China With a Big Leap in Technology",
-      "link": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html",
-      "published": "Mon, 05 Oct 2026 15:41:58 +0000",
-      "sentiment": 0.21212121212121213
-    },
-    {
-      "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
-      "published": "Sun, 04 Oct 2026 21:53:42 +0000",
-      "sentiment": 0.09166666666666667
     }
   ]
 }
