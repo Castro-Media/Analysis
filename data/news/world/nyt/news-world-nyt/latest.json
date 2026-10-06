@@ -85,9 +85,21 @@
       "sentiment": 0.1
     },
     {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/heres-the-latest",
+      "published": "Tue, 06 Oct 2026 00:27:52 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "A.I. hacking in Australia prompts a concern: Can the law keep up?",
+      "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up",
+      "published": "Tue, 06 Oct 2026 01:04:26 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
       "link": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
-      "published": "Mon, 05 Oct 2026 21:20:45 +0000",
+      "published": "Mon, 05 Oct 2026 21:20:46 +0000",
       "sentiment": -0.32500000000000007
     },
     {
@@ -261,7 +273,7 @@
     {
       "title": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
       "link": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html",
-      "published": "Mon, 05 Oct 2026 16:47:53 +0000",
+      "published": "Mon, 05 Oct 2026 16:47:54 +0000",
       "sentiment": 0.13636363636363635
     },
     {
@@ -317,18 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html",
       "published": "Fri, 02 Oct 2026 20:48:07 +0000",
       "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "Argentina’s ‘Golden Passport’ Program Offers Citizenship in Exchange for Foreign Cash",
-      "link": "https://www.nytimes.com/2026/10/02/world/americas/argentina-citizenship-golden-passport-money.html",
-      "published": "Fri, 02 Oct 2026 20:17:55 +0000",
-      "sentiment": 0.06607142857142857
-    },
-    {
-      "title": "FlyDubai Attack Raises Questions About Pilot Background Checks",
-      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html",
-      "published": "Fri, 02 Oct 2026 19:12:41 +0000",
-      "sentiment": -0.1
     }
   ]
 }
