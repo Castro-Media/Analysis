@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Alexandria Ocasio-Cortez Says, ‘If Abdul Can Win in Michigan, Anybody Can Win Anywhere’",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/aoc-abdul-el-sayed-2028.html",
+      "published": "Tue, 06 Oct 2026 02:25:08 +0000",
+      "sentiment": 0.8
+    },
+    {
+      "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft from British Air Base",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
+      "published": "Tue, 06 Oct 2026 02:15:03 +0000",
+      "sentiment": -0.32
+    },
+    {
+      "title": "Trump Orders Execution by Firing Squad for Gunman in 2009 Fort Hood Shooting",
+      "link": "https://www.nytimes.com/2026/10/05/us/politics/trump-execution-fort-hood-gunman.html",
+      "published": "Tue, 06 Oct 2026 01:55:28 +0000",
+      "sentiment": -0.3
+    },
+    {
       "title": "Judge Sides With Justice Dept. in Dispute Over Subpoena to Times Freelancer",
       "link": "https://www.nytimes.com/2026/10/05/us/politics/magistrate-judge-subpoena-freelance-reporter.html",
       "published": "Tue, 06 Oct 2026 00:52:20 +0000",
@@ -31,9 +49,9 @@
       "sentiment": -0.024999999999999994
     },
     {
-      "title": "Kash Patel Is Engaged to Country Singer Alexis Wilkins",
+      "title": "Kash Patel Is Engaged to the Country Singer Alexis Wilkins",
       "link": "https://www.nytimes.com/2026/10/05/us/politics/kash-patel-engaged-alexis-wilkins.html",
-      "published": "Mon, 05 Oct 2026 14:46:18 +0000",
+      "published": "Tue, 06 Oct 2026 02:16:26 +0000",
       "sentiment": 0.03333333333333333
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
       "published": "Sun, 04 Oct 2026 22:34:50 +0000",
       "sentiment": -0.11590909090909092
-    },
-    {
-      "title": "How Kansas Suddenly Became a Battleground State for Senate Control",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
-      "published": "Sun, 04 Oct 2026 17:53:18 +0000",
-      "sentiment": 0.03500000000000001
-    },
-    {
-      "title": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
-      "published": "Mon, 05 Oct 2026 15:45:23 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Democrats Have Changed the Way They Talk About Trans Issues",
-      "link": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html",
-      "published": "Mon, 05 Oct 2026 19:44:15 +0000",
-      "sentiment": 0.125
     }
   ]
 }
