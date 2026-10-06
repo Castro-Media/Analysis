@@ -4,7 +4,13 @@
       "title": "Stock Market Today: S&P 500 Hits New Record High",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 08:45:19 GMT",
-      "sentiment": 0.0740909090909091
+      "sentiment": 0.1481818181818182
+    },
+    {
+      "title": "Whatever Happens to Bonds, Stocks Win",
+      "link": "https://www.wsj.com/finance/investing/whatever-happens-to-bonds-stocks-win-d1c95f6f?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 20:42:00 GMT",
+      "sentiment": 0.03333333333333336
     },
     {
       "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/pro/bankruptcy/loreal-taps-advisers-to-explore-unloading-chemical-related-liabilities-8293cb96?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 21:44:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Nasdaq Hits New Record as Bond Yields March Higher",
-      "link": "https://www.wsj.com/finance/investing/stocks-keep-climbingand-so-do-bond-yields-c91d7d75?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 21:10:00 GMT",
-      "sentiment": 0.16927272727272727
     },
     {
       "title": "Bank Stocks Are Haunted by the Ghosts of 2023",
@@ -103,6 +103,12 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "Supreme Court Sounds Skeptical of Challenge to Private Equity in 401(k)s",
+      "link": "https://www.wsj.com/pro/private-equity/supreme-court-sounds-skeptical-of-challenge-to-private-equity-in-401-k-s-2b7cf3a0?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 20:17:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Global Bond Yields Turn Lower",
       "link": "https://www.wsj.com/finance/investing/u-s-long-end-treasury-yields-remain-elevated-three-year-auction-awaited-bf72da8d?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 18:52:00 GMT",
@@ -127,10 +133,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6799c94c?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 16:28:00 GMT",
-      "sentiment": 0.5
+      "title": "U.S. Stocks Rise as AI Momentum Builds",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-ai-momentum-builds-6f054e9f?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 20:41:00 GMT",
+      "sentiment": 0.27416666666666667
     },
     {
       "title": "S&P 500 Reaches New Record High",
@@ -145,22 +151,22 @@
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "Nasdaq Hits New Record as Bond Yields March Higher",
+      "link": "https://www.wsj.com/finance/investing/stocks-keep-climbingand-so-do-bond-yields-c91d7d75?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 21:10:00 GMT",
+      "sentiment": 0.16927272727272727
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8fbed9a4?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 20:59:00 GMT",
       "sentiment": 0.5
     },
     {
-      "title": "Stocks Up, Yields Up",
-      "link": "https://www.wsj.com/finance/stocks/stocks-up-yields-up-26f7463d?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 20:56:00 GMT",
-      "sentiment": -0.7
-    },
-    {
-      "title": "U.S. Stocks Rise as AI Bets Offset Bond Yield Fears",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-ai-bets-offset-bond-yield-fears-9dd6ce7f?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 20:42:00 GMT",
-      "sentiment": 0.6
+      "title": "Opinion | Washington Needs the Tax-Reform Spirit of ’86",
+      "link": "https://www.wsj.com/opinion/washington-needs-the-tax-reform-spirit-of-86-bbc2ee5e?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 20:41:00 GMT",
+      "sentiment": 0.04999999999999999
     },
     {
       "title": "Opinion | Covid, Climate and the ‘Consensus Trap’",
@@ -193,10 +199,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | The Other Threat to Fed Independence",
-      "link": "https://www.wsj.com/opinion/the-other-threat-to-fed-independence-10f1adaf?mod=rss_markets_main",
-      "published": "Thu, 01 Oct 2026 21:47:00 GMT",
-      "sentiment": -0.125
+      "title": "Oil Settles Little Changed as Improved Flows Still Face Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-little-changed-as-traders-weigh-mideast-crude-export-data-6785f907?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 19:39:00 GMT",
+      "sentiment": -0.1075
+    },
+    {
+      "title": "U.S. Natural Gas Futures Extend Gains to Three Sessions",
+      "link": "https://www.wsj.com/articles/european-gas-prices-rise-as-low-storage-leaves-market-vulnerable-cd26ccd5?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 19:35:00 GMT",
+      "sentiment": 0.05000000000000001
+    },
+    {
+      "title": "Families of Dead Prospectors Sue Authority That Certifies Gold as Ethically Produced",
+      "link": "https://www.wsj.com/business/families-of-dead-prospectors-sue-authority-that-certifies-gold-as-ethically-produced-893e162d?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 19:27:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Gold Futures Regain Some Ground As U.S. Dollar, Yields Slip",
@@ -205,28 +223,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Natural Gas Futures Extend Gains",
-      "link": "https://www.wsj.com/articles/european-gas-prices-rise-as-low-storage-leaves-market-vulnerable-cd26ccd5?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 15:27:00 GMT",
-      "sentiment": 0.15714285714285717
-    },
-    {
       "title": "NYSE Owner Launches Gold Futures in London",
       "link": "https://www.wsj.com/finance/commodities-futures/nyse-owner-launches-gold-futures-in-london-cff6c7db?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 09:13:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Oil Falls on Easing Gulf Supply Concerns Despite Elevated Tensions",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-little-changed-as-traders-weigh-mideast-crude-export-data-6785f907?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 07:53:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "German Factory Orders Tumbled in August",
-      "link": "https://www.wsj.com/finance/commodities-futures/german-factory-orders-tumbled-in-august-70212cb1?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 07:18:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Fed Minutes Are Next Key Test For Dollar’s Direction",
@@ -289,6 +289,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Stocks Up, Yields Up",
+      "link": "https://www.wsj.com/finance/stocks/stocks-up-yields-up-26f7463d?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 20:56:00 GMT",
+      "sentiment": -0.7
+    },
+    {
       "title": "Electronic Arts Bondholders Allege Default Following Largest LBO",
       "link": "https://www.wsj.com/pro/bankruptcy/electronic-arts-bondholders-allege-default-following-largest-lbo-f296ee6b?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 20:32:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/how-polymarkets-growth-at-all-costs-strategy-opened-the-door-to-fraud-994f7c25?mod=rss_markets_main",
       "published": "Sun, 04 Oct 2026 16:00:00 GMT",
       "sentiment": -0.10277777777777777
-    },
-    {
-      "title": "Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit",
-      "link": "https://www.wsj.com/business/inside-dodgers-owner-mark-walters-charity-a-funding-shift-led-the-ceo-to-quit-f7640486?mod=rss_markets_main",
-      "published": "Sun, 04 Oct 2026 16:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
