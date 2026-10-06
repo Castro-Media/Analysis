@@ -4,7 +4,7 @@
       "title": "Stock Market Today: S&P 500 Hits New Record High",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 08:45:19 GMT",
-      "sentiment": 0.1481818181818182
+      "sentiment": 0.0740909090909091
     },
     {
       "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
@@ -103,6 +103,12 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "Global Bond Yields Turn Lower",
+      "link": "https://www.wsj.com/finance/investing/u-s-long-end-treasury-yields-remain-elevated-three-year-auction-awaited-bf72da8d?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 18:52:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-cea218bb?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 16:34:00 GMT",
@@ -127,16 +133,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d4470f5?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 16:26:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "S&P 500 Hits New Record High",
+      "title": "S&P 500 Reaches New Record High",
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-0c7a5b1a?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 16:22:00 GMT",
-      "sentiment": 0.23854545454545453
+      "published": "Tue, 06 Oct 2026 18:45:00 GMT",
+      "sentiment": 0.1140909090909091
     },
     {
       "title": "Luxury Industry Likely to Have Slowed in 3Q",
@@ -199,10 +199,10 @@
       "sentiment": -0.125
     },
     {
-      "title": "Gold Futures Pick Up As U.S. Dollar Eases",
+      "title": "Gold Futures Regain Some Ground As U.S. Dollar, Yields Slip",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-muted-as-traders-weigh-yields-against-concerns-driving-them-a60d8709?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 16:45:00 GMT",
-      "sentiment": 0.38
+      "published": "Tue, 06 Oct 2026 18:54:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Natural Gas Futures Extend Gains",
