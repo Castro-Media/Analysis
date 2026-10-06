@@ -1,22 +1,34 @@
 {
   "entries": [
     {
-      "title": "Kenya Records Ebola Case for First Time",
-      "link": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
-      "published": "Tue, 06 Oct 2026 11:18:40 +0000",
-      "sentiment": 0.25
+      "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
+      "published": "Tue, 06 Oct 2026 14:28:21 +0000",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Live Updates: Protests Spread Across France as Unions Join Student Demonstrations",
+      "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
+      "published": "Tue, 06 Oct 2026 14:55:29 +0000",
+      "sentiment": -0.020727272727272726
     },
     {
       "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
       "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
-      "published": "Tue, 06 Oct 2026 09:03:33 +0000",
+      "published": "Tue, 06 Oct 2026 09:03:34 +0000",
       "sentiment": -0.2
     },
     {
-      "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
-      "published": "Tue, 06 Oct 2026 04:01:14 +0000",
-      "sentiment": 0.016666666666666666
+      "title": "Kenya Records Ebola Case for First Time",
+      "link": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
+      "published": "Tue, 06 Oct 2026 11:18:41 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
+      "published": "Tue, 06 Oct 2026 13:57:13 +0000",
+      "sentiment": -0.03333333333333333
     },
     {
       "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
@@ -26,15 +38,21 @@
     },
     {
       "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
-      "link": "https://www.nytimes.com/2026/10/06/world/asia/india-cut-130-million-from-voter-roll-fueling-protests-against-modi.html",
+      "link": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
       "published": "Tue, 06 Oct 2026 07:02:29 +0000",
       "sentiment": -0.17777777777777778
     },
     {
       "title": "An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
-      "published": "Tue, 06 Oct 2026 12:08:03 +0000",
+      "published": "Tue, 06 Oct 2026 12:08:04 +0000",
       "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
+      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
+      "published": "Tue, 06 Oct 2026 04:01:14 +0000",
+      "sentiment": 0.016666666666666666
     },
     {
       "title": "As Japan’s Population Shrinks, a City Is Accused of Padding Census Numbers",
@@ -63,30 +81,18 @@
     {
       "title": "Protests Spread Across France, Growing From School Demonstrations",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-      "published": "Tue, 06 Oct 2026 11:28:33 +0000",
+      "published": "Tue, 06 Oct 2026 13:31:46 +0000",
       "sentiment": -0.04666666666666666
     },
     {
-      "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
-      "link": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
-      "published": "Tue, 06 Oct 2026 11:09:31 +0000",
-      "sentiment": 0.075
-    },
-    {
-      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
-      "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
-      "published": "Mon, 05 Oct 2026 21:29:00 +0000",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
-      "link": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
-      "published": "Mon, 05 Oct 2026 21:20:46 +0000",
-      "sentiment": -0.32500000000000007
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest",
+      "published": "Tue, 06 Oct 2026 14:55:28 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
-      "link": "https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html",
+      "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
       "published": "Tue, 06 Oct 2026 09:03:19 +0000",
       "sentiment": -0.0062500000000000056
     },
@@ -97,10 +103,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+      "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
       "link": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-      "published": "Tue, 06 Oct 2026 07:11:57 +0000",
-      "sentiment": -0.024999999999999994
+      "published": "Tue, 06 Oct 2026 14:03:23 +0000",
+      "sentiment": -0.15999999999999998
     },
     {
       "title": "The Hidden Policies That Power China’s Export Boom",
@@ -111,8 +117,8 @@
     {
       "title": "Cheikh Hamidou Kane, Author of Seminal Anticolonial Novel, Dies at 98",
       "link": "https://www.nytimes.com/2026/10/05/obituaries/cheikh-hamidou-dead.html",
-      "published": "Tue, 06 Oct 2026 02:50:55 +0000",
-      "sentiment": 0.0
+      "published": "Tue, 06 Oct 2026 13:55:46 +0000",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "‘A new kind of cyber incident’: OpenAI apologizes for the Australia Medicare hack.",
@@ -125,6 +131,12 @@
       "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/openais-models-have-also-meddled-with-us-government-websites-after-going-rogue",
       "published": "Tue, 06 Oct 2026 02:31:42 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
+      "link": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
+      "published": "Tue, 06 Oct 2026 11:09:31 +0000",
+      "sentiment": 0.075
     },
     {
       "title": "What to know about recent A.I. hacks.",
@@ -145,6 +157,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
+      "link": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
+      "published": "Mon, 05 Oct 2026 21:20:46 +0000",
+      "sentiment": -0.32500000000000007
+    },
+    {
       "title": "The Rise of Gig Economy Warfare",
       "link": "https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html",
       "published": "Tue, 06 Oct 2026 07:54:30 +0000",
@@ -163,9 +181,15 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+      "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
+      "published": "Mon, 05 Oct 2026 21:29:00 +0000",
+      "sentiment": -0.07777777777777778
+    },
+    {
       "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
       "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
-      "published": "Tue, 06 Oct 2026 11:20:47 +0000",
+      "published": "Tue, 06 Oct 2026 14:18:51 +0000",
       "sentiment": -0.08888888888888889
     },
     {
@@ -317,30 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
       "published": "Mon, 05 Oct 2026 13:13:49 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "The Search for Gas in Moscow",
-      "link": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-      "published": "Mon, 05 Oct 2026 20:44:54 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
-      "link": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
-      "published": "Sun, 04 Oct 2026 09:00:29 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
-      "link": "https://www.nytimes.com/2026/10/04/world/asia/japan-us-marine-killing-okinawa-woman.html",
-      "published": "Sun, 04 Oct 2026 08:38:43 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "What to Know About France’s High School Protests",
-      "link": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html",
-      "published": "Sun, 04 Oct 2026 22:03:43 +0000",
-      "sentiment": 0.16
     }
   ]
 }
