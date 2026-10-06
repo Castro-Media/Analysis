@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Forbion Raises $2.6 Billion in Boost to European Biotech Industry",
+      "link": "https://www.wsj.com/tech/biotech/forbion-raises-2-6-billion-in-boost-to-european-biotech-industry-5945d8c9?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Disney’s Top Lawyer Is a ‘Pragmatist’ Facing His Biggest Fight Yet",
+      "link": "https://www.wsj.com/business/media/disneys-top-lawyer-is-a-pragmatist-facing-his-biggest-fight-yet-bd3464d4?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Why Are Disrupters So Hard to Spot?",
+      "link": "https://www.wsj.com/business/why-are-disrupters-so-hard-to-spot-9e85b0c4?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 09:49:00 GMT",
+      "sentiment": -0.2916666666666667
+    },
+    {
+      "title": "Luxury Senior-Housing Company Locks in a $1 Billion Buyer",
+      "link": "https://www.wsj.com/real-estate/luxury-senior-housing-company-locks-in-a-1-billion-buyer-4c02579d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
       "link": "https://www.wsj.com/business/energy-oil/diesel-strait-of-hormuz-e1940e50?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 02:30:00 GMT",
@@ -11,30 +35,6 @@
       "link": "https://www.wsj.com/business/media/why-hollywoods-most-iconic-studio-is-being-soldagain-575fd885?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 23:37:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Oil Industry’s Bid to Kill Climate Change Lawsuits Faces SCOTUS Skepticism",
-      "link": "https://www.wsj.com/politics/policy/oil-industrys-bid-to-kill-climate-change-lawsuits-faces-scotus-skepticism-a9be9855?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 21:30:00 GMT",
-      "sentiment": -0.19715909090909092
-    },
-    {
-      "title": "Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",
-      "link": "https://www.wsj.com/business/energy-oil/centalion-fresh-from-rebrand-does-deal-for-u-s-gas-fields-78285d21?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 16:28:00 GMT",
-      "sentiment": 0.040624999999999994
-    },
-    {
-      "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-new-ai-czar-unveils-goals-members-of-white-house-task-force-0141e74e?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 11:04:00 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "What Boards Aren’t Told",
-      "link": "https://www.wsj.com/articles/what-boards-arent-told-6139f24d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 09:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Eurozone Retail Sales Edge Higher Despite Slump in Fuel Sales",
+      "link": "https://www.wsj.com/business/retail/eurozone-retail-sales-edge-higher-despite-slump-in-fuel-sales-7dd2c5a2?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 09:50:00 GMT",
+      "sentiment": 0.22777777777777777
+    },
+    {
       "title": "Starbucks Accused of Mislabeling ‘Sugar-Free’ Protein Drinks in Lawsuit",
       "link": "https://www.wsj.com/business/starbucks-accused-of-mislabeling-sugar-free-protein-drinks-in-lawsuit-6c9daaba?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 19:02:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/retail/luxury-stocks-are-selling-at-fast-fashion-prices-691ae978?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 09:30:00 GMT",
       "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-      "link": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 03 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.27499999999999997
     },
     {
       "title": "Air Liquide Targets Sales, Margin Growth Under 2030 Plan",
@@ -193,6 +193,12 @@
       "sentiment": 0.7
     },
     {
+      "title": "NYSE Owner Launches Gold Futures in London",
+      "link": "https://www.wsj.com/finance/commodities-futures/nyse-owner-launches-gold-futures-in-london-cff6c7db?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 09:13:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Oil Prices Fall as Middle East Exports Recover, Shipping Risks Persist",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-middle-east-exports-recover-shipping-risks-persist-0b179f03?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 08:05:00 GMT",
@@ -211,16 +217,10 @@
       "sentiment": -0.35
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-334153ef?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 16:27:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Aramco CEO Says Oil Inventories Could Take Two Years to Rebuild",
-      "link": "https://www.wsj.com/business/energy-oil/aramco-ceo-says-oil-inventories-could-take-two-years-to-rebuild-30a7a352?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 11:20:00 GMT",
-      "sentiment": 0.05555555555555556
+      "title": "Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",
+      "link": "https://www.wsj.com/business/energy-oil/centalion-fresh-from-rebrand-does-deal-for-u-s-gas-fields-78285d21?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 16:28:00 GMT",
+      "sentiment": 0.040624999999999994
     },
     {
       "title": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets",
@@ -403,6 +403,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Fintech Plaid Bets on Credit Scores to Fuel Next Phase of Growth",
+      "link": "https://www.wsj.com/business/entrepreneurship/fintech-plaid-bets-on-credit-scores-to-fuel-next-phase-of-growth-6d4ce924?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 10:15:00 GMT",
+      "sentiment": -0.004797979797979801
+    },
+    {
+      "title": "What Boards Aren’t Told",
+      "link": "https://www.wsj.com/articles/what-boards-arent-told-6139f24d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "These Captains Launched a Sailing Company in One Month",
       "link": "https://www.wsj.com/style/sailing-collective-293a37c5?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 09:30:00 GMT",
@@ -421,16 +433,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "All This Man Thinks About Is What He Can Shrink Next. It Made Him a Toy Tycoon.",
-      "link": "https://www.wsj.com/lifestyle/careers/alan-dorfman-worlds-smallest-toys-2aba47fe?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 01 Oct 2026 09:30:00 GMT",
-      "sentiment": -5.551115123125783e-18
+      "title": "Oil Industry’s Bid to Kill Climate Change Lawsuits Faces SCOTUS Skepticism",
+      "link": "https://www.wsj.com/politics/policy/oil-industrys-bid-to-kill-climate-change-lawsuits-faces-scotus-skepticism-a9be9855?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 21:30:00 GMT",
+      "sentiment": -0.19715909090909092
     },
     {
-      "title": "Sydney Sweeney-Backed Novig Quadruples Valuation to $2 Billion",
-      "link": "https://www.wsj.com/finance/sydney-sweeney-backed-novig-quadruples-valuation-to-2-billion-2fb1c936?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 30 Sep 2026 14:27:00 GMT",
-      "sentiment": 0.6
+      "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-new-ai-czar-unveils-goals-members-of-white-house-task-force-0141e74e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 11:04:00 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Warren and Hawley to Probe Insurers Over Zero-Payout Claims",
@@ -449,18 +461,6 @@
       "link": "https://www.wsj.com/politics/elections/energy-prices-midterm-voters-e360a372?mod=pls_whats_news_us_business_f",
       "published": "Sun, 04 Oct 2026 19:56:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Inside Dodgers Owner Mark Walter’s Charity, a Funding Shift Led the CEO to Quit",
-      "link": "https://www.wsj.com/business/inside-dodgers-owner-mark-walters-charity-a-funding-shift-led-the-ceo-to-quit-f7640486?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 16:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions",
-      "link": "https://www.wsj.com/business/energy-oil/opec-allies-hold-oil-output-steady-amid-middle-east-tensions-f14767a2?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 11:32:00 GMT",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "How Britain Learned to Love Chinese Cars—Especially a Look-Alike Range Rover",
