@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: S&P 500, Nasdaq Futures Hover Near Record Highs",
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 08:34:56 GMT",
-      "sentiment": 0.175
+      "sentiment": 0.25
+    },
+    {
+      "title": "U.S. Investors Have an ‘Exorbitant Privilege’",
+      "link": "https://www.wsj.com/finance/investing/u-s-investors-have-an-exorbitant-privilege-16201ed3?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 10:27:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "How to Handle Red-Hot Copper Prices With Care",
+      "link": "https://www.wsj.com/finance/commodities-futures/how-to-handle-red-hot-copper-prices-with-care-3968906d?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
@@ -29,12 +41,6 @@
       "link": "https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 14:07:00 GMT",
       "sentiment": 0.11159090909090909
-    },
-    {
-      "title": "These Company Insiders Are Selling. Should You?",
-      "link": "https://www.wsj.com/finance/stocks/these-company-insiders-are-selling-should-you-6f9ce22a?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 10:25:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
@@ -67,12 +73,6 @@
       "sentiment": 0.05
     },
     {
-      "title": "China Has the Power to Bail Out the Diesel Market. Will It Use It?",
-      "link": "https://www.wsj.com/business/energy-oil/china-has-the-power-to-bail-out-the-diesel-market-will-it-use-it-5950c34a?mod=rss_markets_main",
-      "published": "Wed, 30 Sep 2026 09:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-029357af?mod=rss_markets_main",
       "published": "Thu, 01 Oct 2026 16:22:00 GMT",
@@ -103,10 +103,22 @@
       "sentiment": -0.05185185185185185
     },
     {
-      "title": "Euro Faces Hit From Foreign Selling of French Bonds",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 08:48:00 GMT",
-      "sentiment": -0.05
+      "title": "U.S. 30-Year Yield Hits New 24-Year High; French Bonds Underperform on Budget Worries",
+      "link": "https://www.wsj.com/finance/investing/u-s-european-government-bond-yields-rise-french-bonds-underperform-on-budget-worries-c068d9ae?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 10:56:00 GMT",
+      "sentiment": 0.059272727272727276
+    },
+    {
+      "title": "Wall Street Bonus Bonanza; Plus, U.S. Trade Deficit Widens",
+      "link": "https://www.wsj.com/cfo-journal/wall-street-bonus-bonanza-plus-u-s-trade-deficit-widens-28b32aac?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 10:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Weaning Markets Off Fed Speak",
+      "link": "https://www.wsj.com/finance/investing/weaning-markets-off-fed-speak-8c93b387?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 10:25:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6799c94c?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 21:07:00 GMT",
       "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-77d30c0b?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 21:06:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-ac617391?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 21:04:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Stocks Futures Steady as Bond Selloff Extends, Oil Prices Rise",
@@ -199,10 +199,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gold Slips Ahead of Fed Minutes",
+      "title": "Gold’s Structural Drivers Haven’t Disappeared Despite Recent Correction",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 08:10:00 GMT",
-      "sentiment": 0.5
+      "published": "Wed, 07 Oct 2026 09:54:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Oil Rises After Yemen’s Houthis Strike Saudi Airports",
@@ -229,6 +229,12 @@
       "sentiment": 0.05000000000000001
     },
     {
+      "title": "Sterling Rises Vs Euro on BOE Rate-Rise Bets, French Debt Worries",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 10:18:00 GMT",
+      "sentiment": 0.25333333333333335
+    },
+    {
       "title": "WSJ Dollar Index Falls 0.16% to 97.15",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-data-af9dfb71?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 21:20:00 GMT",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-higher-oil-prices-d339a0e9?mod=rss_markets_main",
       "published": "Fri, 02 Oct 2026 13:15:00 GMT",
       "sentiment": -0.1875
-    },
-    {
-      "title": "Dunamu CEO Urges South Korea to Move Quickly on Won-Backed Stablecoins",
-      "link": "https://www.wsj.com/finance/currencies/dunamu-ceo-urges-south-korea-to-move-quickly-on-won-backed-stablecoins-8c59864e?mod=rss_markets_main",
-      "published": "Fri, 02 Oct 2026 07:07:00 GMT",
-      "sentiment": 0.17777777777777778
     },
     {
       "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
@@ -289,6 +289,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "These Company Insiders Are Selling. Should You?",
+      "link": "https://www.wsj.com/finance/stocks/these-company-insiders-are-selling-should-you-6f9ce22a?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 10:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
       "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 08:09:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/stocks-up-yields-up-26f7463d?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 20:56:00 GMT",
       "sentiment": -0.7
-    },
-    {
-      "title": "Electronic Arts Bondholders Allege Default Following Largest LBO",
-      "link": "https://www.wsj.com/pro/bankruptcy/electronic-arts-bondholders-allege-default-following-largest-lbo-f296ee6b?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 20:32:00 GMT",
-      "sentiment": -0.03333333333333333
     },
     {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",

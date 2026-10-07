@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-79f724c7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 10:24:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Pressure Mounts at Bessent’s Treasury Amid Staff Turnover and Unmet Goals",
+      "link": "https://www.wsj.com/business/pressure-mounts-at-bessents-treasury-amid-staff-turnover-and-unmet-goals-877b5926?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 09:51:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "A High-Stakes Gambit Clinched Paramount’s Warner Deal",
       "link": "https://www.wsj.com/business/media/paramount-warner-bros-deal-873905b0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 03:00:00 GMT",
@@ -22,18 +34,6 @@
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-cea218bb?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 21:09:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Chinese Makers of Fentanyl Ingredients Now Sell Bootleg Peptides to Americans",
-      "link": "https://www.wsj.com/health/pharma/chinese-makers-of-fentanyl-ingredients-now-sell-bootleg-peptides-to-americans-c383160b?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 20:49:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal",
-      "link": "https://www.wsj.com/business/energy-oil/google-and-constellation-energy-strike-a-sweeping-nuclear-power-deal-4287b372?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 20:32:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Frasers Buys Stake in Sportswear Brand Under Armour",
+      "link": "https://www.wsj.com/business/retail/frasers-buys-stake-in-sportswear-brand-under-armour-9cac5322?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 10:33:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Constellation Brands Profit Rises on Higher Beer, Spirits Sales",
       "link": "https://www.wsj.com/business/retail/constellation-brands-profit-rises-on-higher-beer-spirits-sales-872e0481?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 21:39:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/starbucks-accused-of-mislabeling-sugar-free-protein-drinks-in-lawsuit-6c9daaba?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 19:02:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Volare Shipping Shares Jump on First Trading Day",
-      "link": "https://www.wsj.com/business/volare-shipping-shares-jump-on-first-trading-day-9c1bbdaa?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 09:36:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "LG Electronics’ Preliminary Earnings Disappoint",
@@ -127,6 +127,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Mercedes-Benz Car Sales Fall on China Market Weakness",
+      "link": "https://www.wsj.com/business/autos/mercedes-benz-car-sales-fall-on-china-market-weakness-f2b90301?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 09:50:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Porsche Plans 20% Price Rise for Top-End Models in Exclusivity Push",
       "link": "https://www.wsj.com/business/autos/porsche-aims-to-become-more-exclusive-as-it-plots-path-to-higher-profitability-6f5942cc?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 08:56:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-9440802d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 09:30:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "The Carmaker Vying With Tesla to Conquer the Robot Future",
-      "link": "https://www.wsj.com/business/autos/the-carmaker-vying-with-tesla-to-conquer-the-robot-future-8ae76147?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 03 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "Opinion | Hollywood, Ignore Hollywood",
@@ -217,10 +217,10 @@
       "sentiment": 0.10000000000000002
     },
     {
-      "title": "Oil Futures Little Changed as Market Weighs Export Recovery, Shipping Risks",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-middle-east-exports-recover-shipping-risks-persist-0b179f03?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 19:31:00 GMT",
-      "sentiment": -0.13125
+      "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal",
+      "link": "https://www.wsj.com/business/energy-oil/google-and-constellation-energy-strike-a-sweeping-nuclear-power-deal-4287b372?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 20:32:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets",
@@ -253,6 +253,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "What David Ellison’s Latest Moves Say About How He’ll Lead Now",
+      "link": "https://www.wsj.com/articles/what-david-ellisons-latest-moves-say-about-how-hell-lead-now-36717268?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 10:01:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Plaid’s CFO on Her First Year, and Moving Past ‘Onesie-Twosie’ AI Experiments",
       "link": "https://www.wsj.com/cfo-journal/plaids-cfo-on-her-first-year-and-moving-past-onesie-twosie-ai-experiments-a561f2a8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 11:39:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/business/special-payouts-for-executives-are-becoming-a-more-routine-perk-a3d0808e?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 14:27:00 GMT",
       "sentiment": 0.28571428571428575
-    },
-    {
-      "title": "Dutch Bros CFO on Keeping a ‘Scrappy’ Mindset While Building a National Brand",
-      "link": "https://www.wsj.com/cfo-journal/dutch-bros-cfo-on-keeping-a-scrappy-mindset-while-building-a-national-brand-9b6daeb9?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 10:55:00 GMT",
-      "sentiment": 0.8
     },
     {
       "title": "Uber to Expand Uber Eats Service with $2.3 Billion Acquisition of Catering Platform",
@@ -403,6 +403,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
+      "link": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
+      "sentiment": -0.05000000000000002
+    },
+    {
       "title": "AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO",
       "link": "https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 17:28:00 GMT",
@@ -427,10 +433,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "These Captains Launched a Sailing Company in One Month",
-      "link": "https://www.wsj.com/style/sailing-collective-293a37c5?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
+      "title": "Chinese Makers of Fentanyl Ingredients Now Sell Bootleg Peptides to Americans",
+      "link": "https://www.wsj.com/health/pharma/chinese-makers-of-fentanyl-ingredients-now-sell-bootleg-peptides-to-americans-c383160b?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 20:49:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Families of Dead Prospectors Sue Authority That Certifies Gold as Ethically Produced",
@@ -457,12 +463,6 @@
       "sentiment": -0.2
     },
     {
-      "title": "Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
-      "link": "https://www.wsj.com/business/energy-oil/diesel-strait-of-hormuz-e1940e50?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 02:30:00 GMT",
-      "sentiment": 0.30714285714285716
-    },
-    {
       "title": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
       "link": "https://www.wsj.com/lifestyle/workplace/the-reply-all-email-after-oct-7-that-tore-a-business-apart-28c20a3a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 23:00:00 GMT",
@@ -481,16 +481,16 @@
       "sentiment": 0.45
     },
     {
-      "title": "How Britain Learned to Love Chinese Cars—Especially a Look-Alike Range Rover",
-      "link": "https://www.wsj.com/business/autos/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-9440802d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
       "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 01:00:00 GMT",
       "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "How Britain Learned to Love Chinese Cars—Especially a Look-Alike Range Rover",
+      "link": "https://www.wsj.com/business/autos/how-britain-learned-to-love-chinese-carsespecially-a-look-alike-range-rover-9440802d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Best Small-Business Loans in October 2026",
