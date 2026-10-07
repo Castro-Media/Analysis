@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "A High-Stakes Gambit Clinched Paramount’s Warner Deal",
+      "link": "https://www.wsj.com/business/media/paramount-warner-bros-deal-873905b0?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 03:00:00 GMT",
+      "sentiment": 0.018181818181818174
+    },
+    {
+      "title": "These Influencers Are on a Mission to Stop People From Paying Medical Bills",
+      "link": "https://www.wsj.com/health/healthcare/these-influencers-are-on-a-mission-to-stop-people-from-paying-medical-bills-4843da3d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.08
+    },
+    {
       "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
       "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 01:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/energy-oil/google-and-constellation-energy-strike-a-sweeping-nuclear-power-deal-4287b372?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 20:32:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Families of Dead Prospectors Sue Authority That Certifies Gold as Ethically Produced",
-      "link": "https://www.wsj.com/business/families-of-dead-prospectors-sue-authority-that-certifies-gold-as-ethically-produced-893e162d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 19:27:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "This Auto CEO Sees a Future With More Chinese Parts in American Cars",
-      "link": "https://www.wsj.com/business/autos/this-auto-ceo-sees-a-future-with-more-chinese-parts-in-american-cars-f34efc01?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 18:35:00 GMT",
-      "sentiment": 0.07142857142857142
     },
     {
       "title": "CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion",
@@ -97,6 +97,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "LG Electronics’ Preliminary Earnings Miss Street Views",
+      "link": "https://www.wsj.com/business/earnings/lg-electronics-preliminary-earnings-miss-street-views-231fd48d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 02:50:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-77d30c0b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 21:06:00 GMT",
@@ -121,10 +127,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "IG Group Shares Dive 27% After Trading Platform Slashes 2026 Guidance",
-      "link": "https://www.wsj.com/business/earnings/ig-group-shares-dive-27-after-trading-platform-slashes-2026-guidance-8d9bec79?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 09:19:00 GMT",
-      "sentiment": 0.0
+      "title": "Jaguar Ditches the Pink Branding in Unveil of Its Big, Sleek Type 01 EV",
+      "link": "https://www.wsj.com/cmo-today/jaguar-ditches-the-pink-branding-in-unveil-of-its-big-sleek-type-01-ev-0a544152?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 01:33:00 GMT",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "This Auto CEO Sees a Future With More Chinese Parts in American Cars",
+      "link": "https://www.wsj.com/business/autos/this-auto-ceo-sees-a-future-with-more-chinese-parts-in-american-cars-f34efc01?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 18:35:00 GMT",
+      "sentiment": 0.07142857142857142
     },
     {
       "title": "How Britain Learned to Love Chinese Cars—Especially a Look-Alike Range Rover",
@@ -143,18 +155,6 @@
       "link": "https://www.wsj.com/business/retail/mavis-tire-business-expansion-7c1b1222?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 00:00:00 GMT",
       "sentiment": 0.030000000000000006
-    },
-    {
-      "title": "Tesla Sales Slump in Third Quarter",
-      "link": "https://www.wsj.com/business/autos/tesla-sales-fell-in-third-quarter-8a7cad7c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 13:26:00 GMT",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "What’s Behind the Diesel-Market Crunch",
-      "link": "https://www.wsj.com/logistics-report/why-diesel-prices-are-so-high-and-what-would-bring-them-down-c4df29c9?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 11:08:00 GMT",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "Opinion | Hollywood, Ignore Hollywood",
@@ -193,6 +193,12 @@
       "sentiment": 0.06666666666666665
     },
     {
+      "title": "Yemen’s Houthi Rebels Strike Two Airports in Saudi Arabia",
+      "link": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-strike-two-airports-in-saudi-arabia-072f4dd3?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 02:32:00 GMT",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6799c94c?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 21:07:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-ai-risks-and-trade-tensions-in-focus-at-singapore-summit-c4acc8f0?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 11:24:00 GMT",
       "sentiment": -0.0063973063973064015
-    },
-    {
-      "title": "NYSE Owner Launches Gold Futures in London",
-      "link": "https://www.wsj.com/finance/commodities-futures/nyse-owner-launches-gold-futures-in-london-cff6c7db?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 09:13:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets",
@@ -433,6 +433,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Families of Dead Prospectors Sue Authority That Certifies Gold as Ethically Produced",
+      "link": "https://www.wsj.com/business/families-of-dead-prospectors-sue-authority-that-certifies-gold-as-ethically-produced-893e162d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 06 Oct 2026 19:27:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
       "link": "https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 14:07:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/energy-oil/diesel-strait-of-hormuz-e1940e50?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 02:30:00 GMT",
       "sentiment": 0.30714285714285716
-    },
-    {
-      "title": "Oil Industry’s Bid to Kill Climate Change Lawsuits Faces SCOTUS Skepticism",
-      "link": "https://www.wsj.com/politics/policy/oil-industrys-bid-to-kill-climate-change-lawsuits-faces-scotus-skepticism-a9be9855?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 21:30:00 GMT",
-      "sentiment": -0.19715909090909092
     },
     {
       "title": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
@@ -487,10 +487,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "The ’90s Are Back in Style. Levi’s Is Cashing In.",
-      "link": "https://www.wsj.com/style/fashion/the-90s-are-back-in-style-levis-is-cashing-in-642ae89b?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 11:00:00 GMT",
-      "sentiment": 0.10576923076923077
+      "title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More.",
+      "link": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 01:09:00 GMT",
+      "sentiment": 0.45
     },
     {
       "title": "Best Small-Business Loans in October 2026",
