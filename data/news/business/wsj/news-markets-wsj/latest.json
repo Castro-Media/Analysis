@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Dow Futures Fall, 30-Year Treasury Yield Hits Fresh 24-Year High",
+      "title": "Stock Market Today: Dow Opens Lower, Treasury Yields Hit Fresh 24-Year Highs",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 08:34:56 GMT",
-      "sentiment": 0.23666666666666666
+      "sentiment": 0.275
+    },
+    {
+      "title": "Bond Yields Are Surging Around the World—but Not in China",
+      "link": "https://www.wsj.com/finance/investing/bond-yields-are-surging-around-the-worldbut-not-in-china-efd4c694?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 14:09:00 GMT",
+      "sentiment": -0.05185185185185185
     },
     {
       "title": "U.S. Investors Have an ‘Exorbitant Privilege’",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/whatever-happens-to-bonds-stocks-win-d1c95f6f?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 20:42:00 GMT",
       "sentiment": 0.03333333333333336
-    },
-    {
-      "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
-      "link": "https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 14:07:00 GMT",
-      "sentiment": 0.11159090909090909
     },
     {
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
@@ -103,22 +103,22 @@
       "sentiment": -0.05185185185185185
     },
     {
-      "title": "Swiss Franc Lifted by Safe-Haven Demand",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 12:05:00 GMT",
-      "sentiment": 0.20833333333333334
-    },
-    {
-      "title": "U.S. Futures Slip as Bond Selloff Extends, Oil Prices Rise",
-      "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 11:57:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "U.S. 30-Year Yield Hits New 24-Year High; French Bonds Underperform on Budget Worries",
+      "title": "U.S. Treasury Yields Hit New 24-Year Highs and French Bonds Underperform",
       "link": "https://www.wsj.com/finance/investing/u-s-european-government-bond-yields-rise-french-bonds-underperform-on-budget-worries-c068d9ae?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 10:56:00 GMT",
-      "sentiment": 0.059272727272727276
+      "published": "Wed, 07 Oct 2026 14:08:00 GMT",
+      "sentiment": 0.14727272727272728
+    },
+    {
+      "title": "Dow Lower, Treasury Yields Hit Fresh 24-Year Highs",
+      "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 13:50:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "U.S. Dollar Gains Could Be Extended by Fed Minutes Readout",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 13:42:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Wall Street Bonus Bonanza; Plus, U.S. Trade Deficit Widens",
@@ -199,16 +199,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Rise on Middle East Tensions, U.S. Gulf Storm",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 14:42:00 GMT",
+      "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "U.S. Natural Gas Extends Gains With Eyes on Storm",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-extends-gains-with-eyes-on-storm-a8a32ad9?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 13:35:00 GMT",
+      "sentiment": 0.025
+    },
+    {
       "title": "Gold’s Structural Drivers Haven’t Disappeared Despite Recent Correction",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 09:54:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Rises After Yemen’s Houthis Strike Saudi Airports",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 08:01:00 GMT",
-      "sentiment": -0.024999999999999994
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-little-changed-as-traders-weigh-mideast-crude-export-data-6785f907?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 19:39:00 GMT",
       "sentiment": -0.1075
-    },
-    {
-      "title": "U.S. Natural Gas Futures Extend Gains to Three Sessions",
-      "link": "https://www.wsj.com/articles/european-gas-prices-rise-as-low-storage-leaves-market-vulnerable-cd26ccd5?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 19:35:00 GMT",
-      "sentiment": 0.05000000000000001
     },
     {
       "title": "WSJ Dollar Index Falls 0.16% to 97.15",
@@ -289,6 +289,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
+      "link": "https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 14:07:00 GMT",
+      "sentiment": 0.11159090909090909
+    },
+    {
       "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
       "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 08:09:00 GMT",
@@ -313,12 +319,6 @@
       "sentiment": -0.7
     },
     {
-      "title": "Electronic Arts Bondholders Allege Default Following Largest LBO",
-      "link": "https://www.wsj.com/pro/bankruptcy/electronic-arts-bondholders-allege-default-following-largest-lbo-f296ee6b?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 20:32:00 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
       "link": "https://www.wsj.com/personal-finance/heres-what-its-like-to-retire-to-a-low-tax-state-fcac6598?mod=rss_markets_main",
       "published": "Sun, 13 Sep 2026 00:00:00 GMT",
@@ -337,15 +337,15 @@
       "sentiment": 0.20833333333333331
     },
     {
-      "title": "Private Equity Has a Problem. Uncle Sam Says Your Wallet Can Fix It.",
-      "link": "https://www.wsj.com/finance/investing/private-equity-has-a-problem-uncle-sam-says-your-wallet-can-fix-it-726a6749?mod=rss_markets_main",
-      "published": "Fri, 02 Oct 2026 15:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
       "link": "https://www.wsj.com/finance/stocks/what-ouras-stalled-ipo-tells-us-about-one-hit-wonders-31921bf5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Private Equity Has a Problem. Uncle Sam Says Your Wallet Can Fix It.",
+      "link": "https://www.wsj.com/finance/investing/private-equity-has-a-problem-uncle-sam-says-your-wallet-can-fix-it-726a6749?mod=rss_markets_main",
+      "published": "Fri, 02 Oct 2026 15:00:00 GMT",
       "sentiment": 0.0
     },
     {
