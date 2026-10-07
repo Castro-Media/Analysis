@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-79f724c7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 16:30:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype?",
       "link": "https://www.wsj.com/business/autos/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-fae975c0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 13:43:00 GMT",
@@ -11,12 +17,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-21056687?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 11:29:00 GMT",
       "sentiment": 0.24545454545454545
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-79f724c7?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 10:24:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Pressure Mounts at Bessent’s Treasury Amid Staff Turnover and Unmet Goals",
@@ -223,6 +223,12 @@
       "sentiment": 0.10000000000000002
     },
     {
+      "title": "The Latest Nuisance on Flights Is a Zoom Call at 30,000 Feet",
+      "link": "https://www.wsj.com/lifestyle/travel/the-latest-nuisance-on-flights-is-a-zoom-call-at-30-000-feet-af093074?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 16:00:00 GMT",
+      "sentiment": 0.24727272727272726
+    },
+    {
       "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
       "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 01:00:00 GMT",
@@ -244,12 +250,6 @@
       "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue",
       "link": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 21:29:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Delta Is the Only Big Four Airline That Won’t Use Starlink—and Elon Musk Is Furious",
-      "link": "https://www.wsj.com/business/airlines/delta-is-the-only-big-four-airline-that-wont-use-starlinkand-elon-musk-is-furious-3438591e?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 19:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,6 +313,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "Disney+ to Stream 2027 Super Bowl",
+      "link": "https://www.wsj.com/business/media/disney-to-stream-2027-super-bowl-a4f6c538?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 16:15:00 GMT",
+      "sentiment": 0.10833333333333331
+    },
+    {
       "title": "Jaguar Trades Conceptual Pink for a Real-World Car ‘That Real People Want to Buy’",
       "link": "https://www.wsj.com/cmo-today/jaguar-trades-conceptual-pink-for-a-real-world-car-that-real-people-want-to-buy-210c3773?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 13:23:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/emmy-awards-will-leave-broadcast-tv-for-amazons-prime-video-0c92fad5?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 13:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Why Hollywood’s Most Iconic Studio Is Being Sold—Again",
-      "link": "https://www.wsj.com/business/media/why-hollywoods-most-iconic-studio-is-being-soldagain-575fd885?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 23:37:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
@@ -481,16 +481,16 @@
       "sentiment": 0.08
     },
     {
-      "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
-      "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.10000000000000002
-    },
-    {
       "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype?",
       "link": "https://www.wsj.com/business/autos/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-fae975c0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 13:43:00 GMT",
       "sentiment": 0.04924242424242423
+    },
+    {
+      "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
+      "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.10000000000000002
     },
     {
       "title": "Best Small-Business Loans in October 2026",
