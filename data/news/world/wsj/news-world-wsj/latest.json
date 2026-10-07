@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "What We Know About the Death of the Russian Plague-Lab Worker",
+      "link": "https://www.wsj.com/health/russia-plague-lab-death-risk-76f6de11?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 10:49:00 GMT",
+      "sentiment": -0.18125
+    },
+    {
+      "title": "Nobel Prize for Chemistry Awarded for Work on Asymmetric Synthesis",
+      "link": "https://www.wsj.com/science/nobel-prize-for-chemistry-awarded-for-work-on-asymmetric-synthesis-9d6e3915?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 10:09:00 GMT",
+      "sentiment": 0.30000000000000004
+    },
+    {
+      "title": "The Young Americans Who Moved to Israel After Oct. 7",
+      "link": "https://www.wsj.com/world/middle-east/the-young-americans-who-moved-to-israel-after-oct-7-7965b908?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "Yemen’s Houthi Rebels Strike Two Airports in Saudi Arabia",
       "link": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-strike-two-airports-in-saudi-arabia-072f4dd3?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 02:32:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/preparing-to-fire-hear-the-radio-commands-enforcing-the-u-s-blockade-of-iran-5f85dda9?mod=rss_worldnews",
       "published": "Tue, 06 Oct 2026 23:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Escalates Pressure on Russia Over Siberia Lab Death",
-      "link": "https://www.wsj.com/world/russia/u-s-escalates-pressure-on-russia-over-siberia-lab-death-6f61225a?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 21:55:00 GMT",
-      "sentiment": -0.15833333333333333
-    },
-    {
-      "title": "U.S. Presses Russia for Details on Plague Lab Death",
-      "link": "https://www.wsj.com/world/u-s-presses-russia-for-details-on-plague-lab-death-ee5fc14f?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 21:32:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "French Government Is Willing to Bypass Parliament to Pass Billions in Cuts",
-      "link": "https://www.wsj.com/world/europe/french-government-is-willing-to-bypass-parliament-to-pass-billions-in-cuts-699d99c5?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 20:10:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
@@ -193,16 +193,22 @@
       "sentiment": 0.5
     },
     {
+      "title": "German Industrial Output Rebounds at Strongest Pace Since Early 2025",
+      "link": "https://www.wsj.com/world/europe/german-industrial-output-rebounds-at-strongest-pace-since-early-2025-2de26cec?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 10:13:00 GMT",
+      "sentiment": -0.008333333333333331
+    },
+    {
       "title": "France’s Economy Is Trapped in a Negative Feedback Loop",
       "link": "https://www.wsj.com/economy/global/frances-economy-is-trapped-in-a-negative-feedback-loop-509598a9?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 08:42:00 GMT",
       "sentiment": -0.13333333333333336
     },
     {
-      "title": "German Industrial Output Rebounds at Strongest Pace Since Early 2025",
-      "link": "https://www.wsj.com/world/europe/german-industrial-output-rebounds-at-strongest-pace-since-early-2025-2de26cec?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 07:13:00 GMT",
-      "sentiment": -0.008333333333333331
+      "title": "French Government Is Willing to Bypass Parliament to Pass Billions in Cuts",
+      "link": "https://www.wsj.com/world/europe/french-government-is-willing-to-bypass-parliament-to-pass-billions-in-cuts-699d99c5?mod=rss_worldnews",
+      "published": "Tue, 06 Oct 2026 20:10:00 GMT",
+      "sentiment": 0.0625
     },
     {
       "title": "Inside the Albanian Village Fighting a Jared Kushner-Backed Luxury Resort",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/u-s-looks-to-iceland-as-it-expands-military-footprint-in-arctic-aa6420e6?mod=rss_worldnews",
       "published": "Tue, 06 Oct 2026 16:51:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Former German Spy Chief Arrested on Suspicion of Espionage",
-      "link": "https://www.wsj.com/world/europe/former-german-spy-chief-arrested-on-suspicion-of-espionage-9e261c69?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 15:01:00 GMT",
-      "sentiment": -0.016666666666666666
     },
     {
       "title": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
@@ -253,10 +253,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "What We Know About the Death of the Russian Plague-Lab Worker",
-      "link": "https://www.wsj.com/health/russia-plague-lab-death-risk-76f6de11?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 16:52:00 GMT",
-      "sentiment": -0.18125
+      "title": "U.S. Escalates Pressure on Russia Over Siberia Lab Death",
+      "link": "https://www.wsj.com/world/russia/u-s-escalates-pressure-on-russia-over-siberia-lab-death-6f61225a?mod=rss_worldnews",
+      "published": "Tue, 06 Oct 2026 21:55:00 GMT",
+      "sentiment": -0.15833333333333333
     },
     {
       "title": "Russia Probes Death of Woman Who Worked at Antiplague Institute",
@@ -373,16 +373,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Presses Russia for Details on Plague Lab Death",
+      "link": "https://www.wsj.com/world/u-s-presses-russia-for-details-on-plague-lab-death-ee5fc14f?mod=rss_worldnews",
+      "published": "Tue, 06 Oct 2026 21:32:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Silent Electronic Battleground Shaping the Future of Warfare",
       "link": "https://www.wsj.com/world/the-silent-electronic-battleground-shaping-the-future-of-warfare-c2da7abe?mod=rss_worldnews",
       "published": "Tue, 06 Oct 2026 16:59:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
-      "link": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.04999999999999999
+      "title": "Former German Spy Chief Arrested on Suspicion of Espionage",
+      "link": "https://www.wsj.com/world/europe/former-german-spy-chief-arrested-on-suspicion-of-espionage-9e261c69?mod=rss_worldnews",
+      "published": "Tue, 06 Oct 2026 15:01:00 GMT",
+      "sentiment": -0.016666666666666666
     },
     {
       "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
