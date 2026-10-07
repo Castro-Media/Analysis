@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens",
+      "link": "https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 21:48:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Rubio Turns to Ancient Greece to Make the Case for ‘America First’",
       "link": "https://www.wsj.com/politics/policy/rubio-turns-to-ancient-greece-to-make-the-case-for-america-first-dc4bbb06?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 20:29:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/europe/france-considers-issuing-more-shorter-term-debt-amid-bond-market-turmoil-db2966fd?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 15:13:00 GMT",
       "sentiment": 0.21212121212121213
-    },
-    {
-      "title": "U.S. Forces in Okinawa Face Curfew, Booze Ban After Killing",
-      "link": "https://www.wsj.com/world/asia/u-s-forces-in-okinawa-face-curfew-booze-ban-after-killing-399c01e9?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 11:44:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "What a Schnitzel Sandwich Teaches Us About Israeli Food",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Forces in Okinawa Face Curfew, Booze Ban After Killing",
+      "link": "https://www.wsj.com/world/asia/u-s-forces-in-okinawa-face-curfew-booze-ban-after-killing-399c01e9?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 11:44:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Families of Dead Prospectors Sue Authority That Certifies Gold as Ethically Produced",
       "link": "https://www.wsj.com/business/families-of-dead-prospectors-sue-authority-that-certifies-gold-as-ethically-produced-893e162d?mod=rss_worldnews",
       "published": "Tue, 06 Oct 2026 19:27:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/world/in-china-battle-is-raging-for-the-soul-of-tibet-737bc947?mod=rss_worldnews",
       "published": "Mon, 05 Oct 2026 15:37:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "FBI Arrests Alleged Chinese Agent Accused of Spying on Son of Taiwan Leader",
-      "link": "https://www.wsj.com/world/china/fbi-arrests-alleged-chinese-agent-accused-of-spying-on-son-of-taiwan-leader-2d9d5bee?mod=rss_worldnews",
-      "published": "Mon, 05 Oct 2026 10:29:00 GMT",
-      "sentiment": -0.065
     },
     {
       "title": "Mexico’s Sheinbaum Is Getting Fed Up With Playing Nice With the U.S.",
@@ -157,6 +157,18 @@
       "sentiment": 0.061111111111111116
     },
     {
+      "title": "Opinion | Celebrating Hamas on Oct. 7",
+      "link": "https://www.wsj.com/opinion/oct-7-zohran-mamdani-hamas-israel-gaza-2af180c3?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 22:49:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Anduril’s Bet on U.S. Submarines",
+      "link": "https://www.wsj.com/opinion/anduril-industries-submarines-defense-3daccb8e?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 21:38:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "Opinion | Most Recycling Is a Waste",
       "link": "https://www.wsj.com/opinion/most-recycling-is-a-waste-091924e1?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 20:00:00 GMT",
@@ -179,18 +191,6 @@
       "link": "https://www.wsj.com/opinion/what-do-you-do-with-the-site-of-an-atrocity-85358ce5?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 14:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | France’s Bonfire of Inanities",
-      "link": "https://www.wsj.com/opinion/france-riots-schools-economy-jean-luc-melenchon-emmanuel-macron-9eb62d3e?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 02:29:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Iranians on the Loose in Britain",
-      "link": "https://www.wsj.com/opinion/fairford-u-s-b-1-bombers-iran-u-k-caf26b16?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 21:32:00 GMT",
-      "sentiment": -0.07692307692307693
     },
     {
       "title": "German Industrial Output Rebounds at Strongest Pace Since Early 2025",
@@ -229,6 +229,12 @@
       "sentiment": 0.06000000000000001
     },
     {
+      "title": "FBI Arrests Alleged Chinese Agent Accused of Spying on Son of Taiwan Leader",
+      "link": "https://www.wsj.com/world/china/fbi-arrests-alleged-chinese-agent-accused-of-spying-on-son-of-taiwan-leader-2d9d5bee?mod=rss_worldnews",
+      "published": "Mon, 05 Oct 2026 10:29:00 GMT",
+      "sentiment": -0.065
+    },
+    {
       "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
       "link": "https://www.wsj.com/world/china/xi-jinping-health-caf250f1?mod=rss_worldnews",
       "published": "Sat, 03 Oct 2026 01:35:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/economy/central-banking/china-offers-subsidies-on-some-residential-mortgages-f1c20dad?mod=rss_worldnews",
       "published": "Tue, 29 Sep 2026 12:08:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "What Xi’s Grip on His Wife’s Hand Tells Us About Power in China",
-      "link": "https://www.wsj.com/world/china/what-xis-grip-on-his-wifes-hand-tells-us-about-power-in-china-cca91567?mod=rss_worldnews",
-      "published": "Tue, 29 Sep 2026 10:55:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "What We Know About the Death of the Russian Plague-Lab Worker",
