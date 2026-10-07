@@ -127,6 +127,12 @@
       "sentiment": 0.05833333333333333
     },
     {
+      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
+      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "LAUSD hides sensitive student information from parents, Trump administration alleges",
       "link": "https://www.latimes.com/california/story/2026-10-06/lausd-trump-administration-gender-privacy-enforcement",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
@@ -137,12 +143,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
-      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Overspent and under-enrolled: State fiscal crisis experts issue severe warning to LAUSD",
@@ -337,16 +337,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
       "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
       "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0009259259259259273
+    },
+    {
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.075
     },
     {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
@@ -427,6 +427,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "California's economic growth expected to continue, but slowly and with few jobs gains",
+      "link": "https://www.latimes.com/business/story/2026-10-02/californias-economic-growth-expected-to-continue-slowly-with-few-jobs",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1142857142857143
+    },
+    {
       "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
       "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
@@ -437,12 +443,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": -0.046875
-    },
-    {
-      "title": "California's economic growth expected to continue, but slowly and with few jobs gains",
-      "link": "https://www.latimes.com/business/story/2026-10-02/californias-economic-growth-expected-to-continue-slowly-with-few-jobs",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1142857142857143
     },
     {
       "title": "Justice Department accuses UCLA law school of illegally using race in admissions",

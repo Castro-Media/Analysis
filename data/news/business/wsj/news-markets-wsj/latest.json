@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs",
+      "title": "Stock Market Today: Dow Futures Fall, 30-Year Treasury Yield Hits Fresh 24-Year High",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 08:34:56 GMT",
-      "sentiment": 0.25
+      "sentiment": 0.23666666666666666
     },
     {
       "title": "U.S. Investors Have an ‘Exorbitant Privilege’",
@@ -103,6 +103,18 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "Swiss Franc Lifted by Safe-Haven Demand",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 12:05:00 GMT",
+      "sentiment": 0.20833333333333334
+    },
+    {
+      "title": "U.S. Futures Slip as Bond Selloff Extends, Oil Prices Rise",
+      "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 11:57:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "U.S. 30-Year Yield Hits New 24-Year High; French Bonds Underperform on Budget Worries",
       "link": "https://www.wsj.com/finance/investing/u-s-european-government-bond-yields-rise-french-bonds-underperform-on-budget-worries-c068d9ae?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 10:56:00 GMT",
@@ -119,24 +131,6 @@
       "link": "https://www.wsj.com/finance/investing/weaning-markets-off-fed-speak-8c93b387?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 10:25:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-cea218bb?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 21:09:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6799c94c?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 21:07:00 GMT",
-      "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "Stocks Futures Steady as Bond Selloff Extends, Oil Prices Rise",
-      "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 08:56:00 GMT",
-      "sentiment": -0.04416666666666667
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -161,6 +155,12 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-0c7a5b1a?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 18:45:00 GMT",
       "sentiment": 0.1140909090909091
+    },
+    {
+      "title": "These Company Insiders Are Selling. Should You?",
+      "link": "https://www.wsj.com/finance/stocks/these-company-insiders-are-selling-should-you-6f9ce22a?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 10:25:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Opinion | Washington Needs the Tax-Reform Spirit of ’86",
@@ -229,12 +229,6 @@
       "sentiment": 0.05000000000000001
     },
     {
-      "title": "Sterling Rises Vs Euro on BOE Rate-Rise Bets, French Debt Worries",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 10:18:00 GMT",
-      "sentiment": 0.25333333333333335
-    },
-    {
       "title": "WSJ Dollar Index Falls 0.16% to 97.15",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-data-af9dfb71?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 21:20:00 GMT",
@@ -257,6 +251,12 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-higher-oil-prices-d339a0e9?mod=rss_markets_main",
       "published": "Fri, 02 Oct 2026 13:15:00 GMT",
       "sentiment": -0.1875
+    },
+    {
+      "title": "Dunamu CEO Urges South Korea to Move Quickly on Won-Backed Stablecoins",
+      "link": "https://www.wsj.com/finance/currencies/dunamu-ceo-urges-south-korea-to-move-quickly-on-won-backed-stablecoins-8c59864e?mod=rss_markets_main",
+      "published": "Fri, 02 Oct 2026 07:07:00 GMT",
+      "sentiment": 0.17777777777777778
     },
     {
       "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
@@ -289,12 +289,6 @@
       "sentiment": -0.1
     },
     {
-      "title": "These Company Insiders Are Selling. Should You?",
-      "link": "https://www.wsj.com/finance/stocks/these-company-insiders-are-selling-should-you-6f9ce22a?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 10:25:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
       "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 08:09:00 GMT",
@@ -317,6 +311,12 @@
       "link": "https://www.wsj.com/finance/stocks/stocks-up-yields-up-26f7463d?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 20:56:00 GMT",
       "sentiment": -0.7
+    },
+    {
+      "title": "Electronic Arts Bondholders Allege Default Following Largest LBO",
+      "link": "https://www.wsj.com/pro/bankruptcy/electronic-arts-bondholders-allege-default-following-largest-lbo-f296ee6b?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 20:32:00 GMT",
+      "sentiment": -0.03333333333333333
     },
     {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 13:14:00 GMT",
+      "published": "Wed, 07 Oct 2026 13:00:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
