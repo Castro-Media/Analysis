@@ -109,6 +109,12 @@
       "sentiment": 0.05833333333333333
     },
     {
+      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
+      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "LAUSD hides sensitive student information from parents, Trump administration alleges",
       "link": "https://www.latimes.com/california/story/2026-10-06/lausd-trump-administration-gender-privacy-enforcement",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
-      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Overspent and under-enrolled: State fiscal crisis experts issue severe warning to LAUSD",
@@ -307,12 +307,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
-      "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Should California hotels be sued for using fragrances in their lobbies?",
       "link": "https://www.latimes.com/travel/story/2026-10-03/california-hotels-synthetic-fragrances-lawsuits",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
@@ -325,22 +319,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
       "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
       "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0009259259259259273
     },
     {
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.075
+    },
+    {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
       "link": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.5
+    },
+    {
+      "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
+      "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Man suspected in fatal shooting of Culver CityBus driver arrested",
@@ -415,6 +415,12 @@
       "sentiment": -0.1142857142857143
     },
     {
+      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
+      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.27777777777777773
+    },
+    {
       "title": "Pasadena's white peacock Sugar, beaten by mail carrier, is relocated to private California ranch",
       "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
@@ -425,12 +431,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-02/ucla-law-school-doj-race-admissions-finding",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333331
-    },
-    {
-      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
-      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.27777777777777773
     },
     {
       "title": "California moves to limit utility profits and tap more power from homes",
@@ -553,10 +553,10 @@
       "sentiment": 0.15
     },
     {
-      "title": "Voter guide to the 2026 California general election",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
+      "title": "Your guide to the California Congressional District 26 race: Irwin vs. Gallucci",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05000000000000002
+      "sentiment": 0.0
     },
     {
       "title": "Your guide to the California Congressional District 27 race: Whitesides vs. Gibbs",
@@ -565,10 +565,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to the California Congressional District 26 race: Irwin vs. Gallucci",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "title": "Voter guide to the 2026 California general election",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "Your guide to the California Congressional District 40 race: Kim vs. Calvert",
