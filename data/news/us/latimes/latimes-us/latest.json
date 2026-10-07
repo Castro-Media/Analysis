@@ -1,7 +1,19 @@
 {
   "entries": [
     {
-      "title": "LAPD's $235-million deal with license plate reader company put on hold by City Council",
+      "title": "Santa Monica man who was charged with kidnapping UCLA student, raping another woman is found dead",
+      "link": "https://www.latimes.com/california/story/2026-10-06/santa-monica-man-charged-with-kidnapping-ucla-student-is-found-dead",
+      "published": "Wed, 7 Oct 2026 04:32:54 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Hilton warm on tax cuts, tepid on Trump, cold on offshore wind during gubernatorial town hall",
+      "link": "https://www.latimes.com/california/story/2026-10-06/hilton-warm-on-tax-cuts-tepid-on-trump-cold-on-offshore-wind-during-town-hall",
+      "published": "Wed, 7 Oct 2026 03:57:52 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "LAPD's license plate reader pilot program put on hold by City Council",
       "link": "https://www.latimes.com/california/story/2026-10-06/los-angeles-city-council-lapd-axon-license-plate-reader-contract",
       "published": "Wed, 7 Oct 2026 02:07:31 GMT",
       "sentiment": 0.0
@@ -97,12 +109,6 @@
       "sentiment": 0.05833333333333333
     },
     {
-      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
-      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "LAUSD hides sensitive student information from parents, Trump administration alleges",
       "link": "https://www.latimes.com/california/story/2026-10-06/lausd-trump-administration-gender-privacy-enforcement",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
@@ -113,6 +119,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
+      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Overspent and under-enrolled: State fiscal crisis experts issue severe warning to LAUSD",
@@ -295,6 +307,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
+      "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Should California hotels be sued for using fragrances in their lobbies?",
       "link": "https://www.latimes.com/travel/story/2026-10-03/california-hotels-synthetic-fragrances-lawsuits",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
@@ -307,28 +325,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
-      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0009259259259259273
-    },
-    {
       "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
       "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.075
     },
     {
+      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
+      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0009259259259259273
+    },
+    {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
       "link": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.5
-    },
-    {
-      "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
-      "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Man suspected in fatal shooting of Culver CityBus driver arrested",
@@ -403,12 +415,6 @@
       "sentiment": -0.1142857142857143
     },
     {
-      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
-      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.27777777777777773
-    },
-    {
       "title": "Pasadena's white peacock Sugar, beaten by mail carrier, is relocated to private California ranch",
       "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
@@ -419,6 +425,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-02/ucla-law-school-doj-race-admissions-finding",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333331
+    },
+    {
+      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
+      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.27777777777777773
     },
     {
       "title": "California moves to limit utility profits and tap more power from homes",
@@ -541,10 +553,10 @@
       "sentiment": 0.15
     },
     {
-      "title": "Your guide to the California Congressional District 26 race: Irwin vs. Gallucci",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "title": "Voter guide to the 2026 California general election",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "Your guide to the California Congressional District 27 race: Whitesides vs. Gibbs",
@@ -553,28 +565,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Voter guide to the 2026 California general election",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
+      "title": "Your guide to the California Congressional District 26 race: Irwin vs. Gallucci",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05000000000000002
+      "sentiment": 0.0
     },
     {
       "title": "Your guide to the California Congressional District 40 race: Kim vs. Calvert",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-40-orange-county-inland-empire-kim-calvert-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.11818181818181818
-    },
-    {
-      "title": "Your guide to Proposition 1: Borrowing money for low-income and veteran housing",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-1-affordable-housing-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the L.A. city attorney's race: McKinney vs. Roy",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.22500000000000003
     }
   ]
 }
