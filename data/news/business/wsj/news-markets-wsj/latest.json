@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Oct. 6, 2026: S&P 500 Hits New Record High",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 08:45:19 GMT",
-      "sentiment": 0.1481818181818182
+      "title": "Stock Market Today: S&P 500, Nasdaq Futures Hover Near Record Highs",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 08:34:56 GMT",
+      "sentiment": 0.175
+    },
+    {
+      "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
+      "link": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
+      "sentiment": -0.05000000000000002
     },
     {
       "title": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else",
@@ -34,12 +40,6 @@
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
       "link": "https://www.wsj.com/finance/stocks/what-ouras-stalled-ipo-tells-us-about-one-hit-wonders-31921bf5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
-      "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 08:09:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -103,6 +103,12 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "Euro Faces Hit From Foreign Selling of French Bonds",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 08:48:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-cea218bb?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 21:09:00 GMT",
@@ -127,16 +133,22 @@
       "sentiment": 0.5
     },
     {
+      "title": "Stocks Futures Steady as Bond Selloff Extends, Oil Prices Rise",
+      "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 08:56:00 GMT",
+      "sentiment": -0.04416666666666667
+    },
+    {
+      "title": "European Indexes Slide as Tech, Industrials Drop",
+      "link": "https://www.wsj.com/opinion/nikkei-flat-supported-by-electronics-machinery-shares-d897b28b?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 07:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d4470f5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 21:03:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Nikkei Flat, Supported by Electronics, Machinery Shares",
-      "link": "https://www.wsj.com/opinion/nikkei-flat-supported-by-electronics-machinery-shares-d897b28b?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 00:20:00 GMT",
-      "sentiment": -0.049999999999999996
     },
     {
       "title": "U.S. Stocks Rise as AI Momentum Builds",
@@ -149,18 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-0c7a5b1a?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 18:45:00 GMT",
       "sentiment": 0.1140909090909091
-    },
-    {
-      "title": "Luxury Industry Likely to Have Slowed in 3Q",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-electronics-financial-stocks-5b6813b7?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 09:01:00 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Nasdaq Hits New Record as Bond Yields March Higher",
-      "link": "https://www.wsj.com/finance/investing/stocks-keep-climbingand-so-do-bond-yields-c91d7d75?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 21:10:00 GMT",
-      "sentiment": 0.16927272727272727
     },
     {
       "title": "Opinion | Washington Needs the Tax-Reform Spirit of ’86",
@@ -199,16 +199,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gold Ticks Lower as Investors Await Fed Meeting Minutes",
+      "title": "Gold Slips Ahead of Fed Minutes",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 00:40:00 GMT",
-      "sentiment": -0.03125
+      "published": "Wed, 07 Oct 2026 08:10:00 GMT",
+      "sentiment": 0.5
     },
     {
-      "title": "Oil Rises Amid Ongoing Mideast Tensions",
+      "title": "Oil Rises After Yemen’s Houthis Strike Saudi Airports",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 00:27:00 GMT",
-      "sentiment": 0.175
+      "published": "Wed, 07 Oct 2026 08:01:00 GMT",
+      "sentiment": -0.024999999999999994
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -227,12 +227,6 @@
       "link": "https://www.wsj.com/articles/european-gas-prices-rise-as-low-storage-leaves-market-vulnerable-cd26ccd5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 19:35:00 GMT",
       "sentiment": 0.05000000000000001
-    },
-    {
-      "title": "Australian Dollar-Yen May Have Reached Long-Term Ceiling",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 05:05:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Falls 0.16% to 97.15",
@@ -257,6 +251,12 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-higher-oil-prices-d339a0e9?mod=rss_markets_main",
       "published": "Fri, 02 Oct 2026 13:15:00 GMT",
       "sentiment": -0.1875
+    },
+    {
+      "title": "Dunamu CEO Urges South Korea to Move Quickly on Won-Backed Stablecoins",
+      "link": "https://www.wsj.com/finance/currencies/dunamu-ceo-urges-south-korea-to-move-quickly-on-won-backed-stablecoins-8c59864e?mod=rss_markets_main",
+      "published": "Fri, 02 Oct 2026 07:07:00 GMT",
+      "sentiment": 0.17777777777777778
     },
     {
       "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
@@ -289,10 +289,22 @@
       "sentiment": -0.1
     },
     {
+      "title": "KKR Strikes Deal to Buy Private-Capital Fund Administrator Gen II",
+      "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 08:09:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "L’Oréal Taps Advisers to Explore Unloading Chemical-Related Liabilities",
       "link": "https://www.wsj.com/pro/bankruptcy/loreal-taps-advisers-to-explore-unloading-chemical-related-liabilities-8293cb96?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 21:44:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Nasdaq Hits New Record as Bond Yields March Higher",
+      "link": "https://www.wsj.com/finance/investing/stocks-keep-climbingand-so-do-bond-yields-c91d7d75?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 21:10:00 GMT",
+      "sentiment": 0.16927272727272727
     },
     {
       "title": "Stocks Up, Yields Up",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/pro/bankruptcy/electronic-arts-bondholders-allege-default-following-largest-lbo-f296ee6b?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 20:32:00 GMT",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Your Index Fund Went Up. Was It Luck or Smarts?",
-      "link": "https://www.wsj.com/finance/stocks/your-index-fund-went-up-was-it-luck-or-smarts-cb64c836?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 10:33:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Robotics Startup RobCo Hits $1 Billion Valuation",
-      "link": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
