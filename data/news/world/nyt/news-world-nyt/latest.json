@@ -1,21 +1,27 @@
 {
   "entries": [
     {
+      "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
+      "link": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
+      "published": "Wed, 07 Oct 2026 16:58:48 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
       "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
       "published": "Wed, 07 Oct 2026 13:29:26 +0000",
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Rubio Stresses Need for U.S. Security Work With Greece on Migration and Terrorism",
-      "link": "https://www.nytimes.com/2026/10/07/us/politics/rubio-greece-defense-immigration.html",
-      "published": "Wed, 07 Oct 2026 14:04:38 +0000",
-      "sentiment": 0.5
+      "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
+      "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html",
+      "published": "Wed, 07 Oct 2026 18:36:08 +0000",
+      "sentiment": -0.06499999999999999
     },
     {
-      "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
-      "link": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
-      "published": "Wed, 07 Oct 2026 16:58:48 +0000",
+      "title": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
+      "published": "Wed, 07 Oct 2026 18:55:57 +0000",
       "sentiment": 0.0
     },
     {
@@ -33,7 +39,7 @@
     {
       "title": "Russia Says It Found No ‘Emergency’ in Plague Lab",
       "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html",
-      "published": "Wed, 07 Oct 2026 15:12:43 +0000",
+      "published": "Wed, 07 Oct 2026 18:20:34 +0000",
       "sentiment": 0.3181818181818182
     },
     {
@@ -79,12 +85,6 @@
       "sentiment": 0.03333333333333335
     },
     {
-      "title": "Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence",
-      "link": "https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html",
-      "published": "Wed, 07 Oct 2026 11:36:18 +0000",
-      "sentiment": -0.49999999999999994
-    },
-    {
       "title": "Trump Administration Delays Threaten Funding for HIV Research",
       "link": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html",
       "published": "Wed, 07 Oct 2026 16:33:18 +0000",
@@ -101,6 +101,12 @@
       "link": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
       "published": "Wed, 07 Oct 2026 14:19:16 +0000",
       "sentiment": 0.11818181818181818
+    },
+    {
+      "title": "Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence",
+      "link": "https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html",
+      "published": "Wed, 07 Oct 2026 11:36:18 +0000",
+      "sentiment": -0.49999999999999994
     },
     {
       "title": "F.B.I. Charges American in Plot Behind Canada’s Tumbler Ridge School Shooting",
@@ -329,12 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/05/arts/design/bayeux-tapestry-british-museum.html",
       "published": "Mon, 05 Oct 2026 18:27:12 +0000",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Rumors Are Swirling of a Plague Outbreak in Russia. Here’s What We Know.",
-      "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
-      "published": "Wed, 07 Oct 2026 13:16:43 +0000",
-      "sentiment": 0.0
     }
   ]
 }

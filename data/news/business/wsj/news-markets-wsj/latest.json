@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Dow Falls, Treasury Yields Hit Fresh 24-Year Highs",
+      "title": "Stock Market Today: Treasury Yields Retreat After Strong Auction, Dow Slips",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 08:34:56 GMT",
-      "sentiment": 0.275
+      "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "Five Things to Know About Tokenized Stocks",
+      "link": "https://www.wsj.com/finance/stocks/five-things-to-know-about-tokenized-stocks-1cc02741?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 18:53:00 GMT",
+      "sentiment": -0.05
     },
     {
       "title": "Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 09:00:00 GMT",
       "sentiment": -0.05000000000000002
-    },
-    {
-      "title": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else",
-      "link": "https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 21:33:00 GMT",
-      "sentiment": 0.10816161616161617
     },
     {
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
@@ -103,10 +103,10 @@
       "sentiment": -0.05185185185185185
     },
     {
-      "title": "U.S. Stocks Fall as Treasury Yields Climb",
+      "title": "U.S. Stocks Slip as Treasurys Retreat From Recent Highs",
       "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 16:19:00 GMT",
-      "sentiment": 0.2
+      "published": "Wed, 07 Oct 2026 18:18:00 GMT",
+      "sentiment": 0.15
     },
     {
       "title": "France Considers Issuing More Shorter-Term Debt After Bond-Market Turmoil",
@@ -139,6 +139,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else",
+      "link": "https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705?mod=rss_markets_main",
+      "published": "Tue, 06 Oct 2026 21:33:00 GMT",
+      "sentiment": 0.10816161616161617
+    },
+    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d4470f5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 21:03:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-ai-momentum-builds-6f054e9f?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 20:41:00 GMT",
       "sentiment": 0.27416666666666667
-    },
-    {
-      "title": "S&P 500 Reaches New Record High",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-0c7a5b1a?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 18:45:00 GMT",
-      "sentiment": 0.1140909090909091
     },
     {
       "title": "Opinion | Washington Needs the Tax-Reform Spirit of ’86",
@@ -199,22 +199,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gold Futures Lose Ground Awaiting Fed Minutes",
+      "title": "Gold Futures Fall on Stronger Dollar, High Yields",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 16:15:00 GMT",
-      "sentiment": 0.5
+      "published": "Wed, 07 Oct 2026 18:05:00 GMT",
+      "sentiment": 0.08
+    },
+    {
+      "title": "U.S. Crude Futures Turn Lower Despite Inventory Draw",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 17:22:00 GMT",
+      "sentiment": -0.3499999999999999
     },
     {
       "title": "U.S. Crude Oil Stockpiles Post Weekly Drop",
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-drop-948f4817?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 15:21:00 GMT",
       "sentiment": -0.43999999999999995
-    },
-    {
-      "title": "Oil Futures Rise on Middle East Tensions, U.S. Gulf Storm",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 14:42:00 GMT",
-      "sentiment": 0.08333333333333333
     },
     {
       "title": "U.S. Natural Gas Extends Gains With Eyes on Storm",
