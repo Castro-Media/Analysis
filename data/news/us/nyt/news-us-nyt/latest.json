@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "If the Kennedy Center Is ‘Dangerous,’ Why Is the Symphony Rehearsing There?",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/kennedy-center-trump.html",
+      "published": "Wed, 07 Oct 2026 14:57:18 +0000",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Rubio Stresses Need for U.S. Security Work With Greece on Migration and Terrorism",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/rubio-greece-defense-immigration.html",
+      "published": "Wed, 07 Oct 2026 14:04:38 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Suit Seeks $549 Million for Historically Black College, Citing Disparities",
+      "link": "https://www.nytimes.com/2026/10/07/us/missouri-hbcu-funding-lawsuit-lincoln-university.html",
+      "published": "Wed, 07 Oct 2026 13:41:36 +0000",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "Trump Officials Ramp Up Investigations Into Voter Registration Groups",
       "link": "https://www.nytimes.com/2026/10/07/us/politics/trump-voter-registration-noncitizens-investigation.html",
-      "published": "Wed, 07 Oct 2026 10:01:06 +0000",
+      "published": "Wed, 07 Oct 2026 10:01:07 +0000",
       "sentiment": 0.3
     },
     {
@@ -27,7 +45,7 @@
     {
       "title": "Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign",
       "link": "https://www.nytimes.com/2026/10/07/us/politics/angela-paxton-texas-senate-republican.html",
-      "published": "Wed, 07 Oct 2026 09:02:35 +0000",
+      "published": "Wed, 07 Oct 2026 14:57:28 +0000",
       "sentiment": 0.3
     },
     {
@@ -69,7 +87,7 @@
     {
       "title": "Bill Harris Has Died. He Kidnapped Patty Hearst in 1974.",
       "link": "https://www.nytimes.com/2026/10/06/us/bill-harris-dead.html",
-      "published": "Wed, 07 Oct 2026 02:19:40 +0000",
+      "published": "Wed, 07 Oct 2026 02:19:41 +0000",
       "sentiment": 0.0
     },
     {
@@ -135,7 +153,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/06/us/maine-senate-debate-election/heres-the-latest",
-      "published": "Wed, 07 Oct 2026 08:17:19 +0000",
+      "published": "Wed, 07 Oct 2026 13:31:16 +0000",
       "sentiment": 0.5
     },
     {
@@ -191,18 +209,6 @@
       "link": "https://www.nytimes.com/2026/10/06/us/politics/trump-maryland-submarines-anduril-baltimore.html",
       "published": "Tue, 06 Oct 2026 22:48:56 +0000",
       "sentiment": 0.09943181818181818
-    },
-    {
-      "title": "Republicans are spending to aid Darline Graham as the South Carolina Senate race tightens.",
-      "link": "https://www.nytimes.com/live/2026/10/06/us/midterms-elections/darline-graham-south-carolina-senate",
-      "published": "Tue, 06 Oct 2026 16:14:51 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Top Super PAC for Senate Democrats Raises Record $151 Million in Third Quarter",
-      "link": "https://www.nytimes.com/2026/10/06/us/politics/senate-majority-pac-democrats.html",
-      "published": "Tue, 06 Oct 2026 14:32:23 +0000",
-      "sentiment": 0.17666666666666667
     }
   ]
 }
