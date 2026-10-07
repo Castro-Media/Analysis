@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+      "published": "Wed, 07 Oct 2026 20:24:06 +0000",
+      "sentiment": -0.1
+    },
+    {
       "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
       "link": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
-      "published": "Wed, 07 Oct 2026 16:58:48 +0000",
+      "published": "Wed, 07 Oct 2026 19:31:49 +0000",
       "sentiment": 0.0
     },
     {
@@ -15,19 +21,19 @@
     {
       "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
       "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html",
-      "published": "Wed, 07 Oct 2026 18:36:08 +0000",
+      "published": "Wed, 07 Oct 2026 19:57:21 +0000",
       "sentiment": -0.06499999999999999
     },
     {
       "title": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
       "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
-      "published": "Wed, 07 Oct 2026 18:55:57 +0000",
+      "published": "Wed, 07 Oct 2026 19:54:57 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
       "link": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
-      "published": "Wed, 07 Oct 2026 12:02:09 +0000",
+      "published": "Wed, 07 Oct 2026 20:12:27 +0000",
       "sentiment": 0.02
     },
     {
@@ -79,10 +85,28 @@
       "sentiment": -0.25
     },
     {
-      "title": "Can Artificial Intelligence Learn the Art of Surgery?",
-      "link": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
-      "published": "Wed, 07 Oct 2026 09:00:09 +0000",
-      "sentiment": 0.03333333333333335
+      "title": "A Plague Mystery in Siberia",
+      "link": "https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html",
+      "published": "Wed, 07 Oct 2026 20:40:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
+      "link": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
+      "published": "Wed, 07 Oct 2026 20:40:12 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Fears of a Plague Outbreak in Russia: What to Know",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
+      "published": "Wed, 07 Oct 2026 19:43:20 +0000",
+      "sentiment": 0.042857142857142864
+    },
+    {
+      "title": "Hiker, 16, Is Rescued From ‘Widowmaker’ Ledge After Using Chatbot to Plan Route",
+      "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-bc-hiker-claude-rescue.html",
+      "published": "Wed, 07 Oct 2026 19:12:24 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Trump Administration Delays Threaten Funding for HIV Research",
@@ -95,6 +119,12 @@
       "link": "https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html",
       "published": "Wed, 07 Oct 2026 13:18:28 +0000",
       "sentiment": 1.0
+    },
+    {
+      "title": "Can Artificial Intelligence Learn the Art of Surgery?",
+      "link": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
+      "published": "Wed, 07 Oct 2026 09:00:09 +0000",
+      "sentiment": 0.03333333333333335
     },
     {
       "title": "What Life in Gaza Is Like Now",
@@ -135,7 +165,7 @@
     {
       "title": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
       "link": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html",
-      "published": "Tue, 06 Oct 2026 19:24:16 +0000",
+      "published": "Wed, 07 Oct 2026 19:45:20 +0000",
       "sentiment": 0.0
     },
     {
@@ -207,7 +237,7 @@
     {
       "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
       "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-      "published": "Tue, 06 Oct 2026 17:00:14 +0000",
+      "published": "Tue, 06 Oct 2026 17:00:15 +0000",
       "sentiment": -0.0062500000000000056
     },
     {
@@ -311,30 +341,6 @@
       "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/ai-hacking-in-australia-prompts-a-concern-can-the-law-keep-up",
       "published": "Tue, 06 Oct 2026 01:04:26 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
-      "link": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
-      "published": "Mon, 05 Oct 2026 21:20:46 +0000",
-      "sentiment": -0.32500000000000007
-    },
-    {
-      "title": "The Rise of Gig Economy Warfare",
-      "link": "https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html",
-      "published": "Tue, 06 Oct 2026 07:54:31 +0000",
-      "sentiment": -0.22121212121212122
-    },
-    {
-      "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
-      "link": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html",
-      "published": "Mon, 05 Oct 2026 20:27:03 +0000",
-      "sentiment": 0.2671717171717172
-    },
-    {
-      "title": "British Museum Says It’s Extending Bayeux Tapestry Viewing Hours",
-      "link": "https://www.nytimes.com/2026/10/05/arts/design/bayeux-tapestry-british-museum.html",
-      "published": "Mon, 05 Oct 2026 18:27:12 +0000",
-      "sentiment": 0.3333333333333333
     }
   ]
 }
