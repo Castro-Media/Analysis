@@ -67,6 +67,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "Levi Strauss Raises Earnings Outlook, Boosted by Tariff Refunds",
+      "link": "https://www.wsj.com/business/earnings/levi-strauss-raises-earnings-outlook-boosted-by-tariff-refunds-c8aa32a0?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 20:47:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "Frasers Nets Stake in Under Armour in Latest Push Into Sportswear",
       "link": "https://www.wsj.com/business/retail/frasers-buys-stake-in-sportswear-brand-under-armour-9cac5322?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 11:33:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/retail/eurozone-retail-sales-edge-higher-despite-slump-in-fuel-sales-7dd2c5a2?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 09:50:00 GMT",
       "sentiment": 0.22777777777777777
-    },
-    {
-      "title": "Starbucks Accused of Mislabeling ‘Sugar-Free’ Protein Drinks in Lawsuit",
-      "link": "https://www.wsj.com/business/starbucks-accused-of-mislabeling-sugar-free-protein-drinks-in-lawsuit-6c9daaba?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 19:02:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "LG Electronics’ Preliminary Earnings Disappoint",
@@ -157,6 +157,12 @@
       "sentiment": 0.07142857142857142
     },
     {
+      "title": "Opinion | If Boulder County Is So Eager to Sue, Why Not Sue Us All?",
+      "link": "https://www.wsj.com/opinion/if-boulder-county-is-so-eager-to-sue-why-not-sue-us-all-69c84311?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 19:50:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Opinion | Hollywood, Ignore Hollywood",
       "link": "https://www.wsj.com/opinion/hollywood-ignore-hollywood-bf53f902?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 20:38:00 GMT",
@@ -187,22 +193,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "Opinion | Boulder County Wants to Smash ‘Abundance’",
-      "link": "https://www.wsj.com/opinion/boulder-county-wants-to-smash-abundance-a80e5e33?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 04 Oct 2026 18:48:00 GMT",
-      "sentiment": 0.06666666666666665
+      "title": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-houthi-attacks-u-s-gulf-storm-raise-supply-risks-9a0aacf8?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 19:49:00 GMT",
+      "sentiment": 0.012499999999999997
     },
     {
       "title": "U.S. Crude Oil Stockpiles Post Weekly Drop",
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-drop-948f4817?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 15:21:00 GMT",
       "sentiment": -0.43999999999999995
-    },
-    {
-      "title": "Oil Prices Rise as Houthi Attacks, U.S. Gulf Storm Raise Supply Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-houthi-attacks-u-s-gulf-storm-raise-supply-risks-9a0aacf8?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 13:29:00 GMT",
-      "sentiment": 0.04999999999999999
     },
     {
       "title": "Shell’s Refining Margin Soars to Record High After Middle East Conflict Upends Fuel Markets",
@@ -289,6 +289,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Starbucks Accused of Mislabeling ‘Sugar-Free’ Protein Drinks in Lawsuit",
+      "link": "https://www.wsj.com/business/starbucks-accused-of-mislabeling-sugar-free-protein-drinks-in-lawsuit-6c9daaba?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 19:02:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Fast-Growing Dutch Bros Coffee, Known for Drive-Throughs, Wants to Cater to Walkers",
       "link": "https://www.wsj.com/cfo-journal/fast-growing-dutch-bros-coffee-known-for-drive-throughs-wants-to-cater-to-walkers-f354845c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 10:00:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/world/a-supermarket-opened-a-pub-to-get-around-liquor-laws-now-it-needs-bouncers-4f0e9090?mod=pls_whats_news_us_business_f",
       "published": "Mon, 28 Sep 2026 09:30:00 GMT",
       "sentiment": 0.3181818181818182
-    },
-    {
-      "title": "Uber’s New Kenyan Safari Business Is Already Stumbling",
-      "link": "https://www.wsj.com/business/hospitality/uber-kenya-safari-630e8bd7?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 27 Sep 2026 15:59:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "Disney+ to Stream 2027 Super Bowl",
@@ -463,16 +463,16 @@
       "sentiment": 0.11159090909090909
     },
     {
-      "title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More.",
-      "link": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 14:32:00 GMT",
-      "sentiment": 0.45
-    },
-    {
       "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype?",
       "link": "https://www.wsj.com/business/autos/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-fae975c0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 13:43:00 GMT",
       "sentiment": 0.04924242424242423
+    },
+    {
+      "title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More.",
+      "link": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 14:32:00 GMT",
+      "sentiment": 0.45
     },
     {
       "title": "These Influencers Are on a Mission to Stop People From Paying Medical Bills",
@@ -481,16 +481,16 @@
       "sentiment": 0.08
     },
     {
-      "title": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
-      "link": "https://www.wsj.com/lifestyle/workplace/the-reply-all-email-after-oct-7-that-tore-a-business-apart-28c20a3a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
       "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 01:00:00 GMT",
       "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "The Reply-All Email After Oct. 7 That Tore a Business Apart",
+      "link": "https://www.wsj.com/lifestyle/workplace/the-reply-all-email-after-oct-7-that-tore-a-business-apart-28c20a3a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 05 Oct 2026 23:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in October 2026",

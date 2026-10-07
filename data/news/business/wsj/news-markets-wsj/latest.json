@@ -7,8 +7,20 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "Ripple, Crypto’s Payments Giant, Breaks Into Wall Street",
+      "link": "https://www.wsj.com/finance/investing/ripple-cryptos-payments-giant-breaks-into-wall-street-7b506aa5?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 20:52:00 GMT",
+      "sentiment": -0.11666666666666667
+    },
+    {
+      "title": "Auction Action Calms Treasurys",
+      "link": "https://www.wsj.com/finance/stocks/auction-action-calms-treasurys-1a49b93c?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 20:50:00 GMT",
+      "sentiment": -0.3
+    },
+    {
       "title": "Five Things to Know About Tokenized Stocks",
-      "link": "https://www.wsj.com/finance/stocks/five-things-to-know-about-tokenized-stocks-1cc02741?mod=rss_markets_main",
+      "link": "https://www.wsj.com/finance/stocks/tokenized-stocks-equities-explained-1cc02741?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 18:53:00 GMT",
       "sentiment": -0.05
     },
@@ -37,12 +49,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
-      "link": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
-      "sentiment": -0.05000000000000002
-    },
-    {
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
       "link": "https://www.wsj.com/finance/stocks/what-ouras-stalled-ipo-tells-us-about-one-hit-wonders-31921bf5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 09:30:00 GMT",
@@ -65,12 +71,6 @@
       "link": "https://www.wsj.com/finance/investing/high-government-debt-is-adding-fuel-to-the-global-bond-market-selloff-a93fa0fe?mod=rss_markets_main",
       "published": "Fri, 02 Oct 2026 09:30:00 GMT",
       "sentiment": 0.10250000000000001
-    },
-    {
-      "title": "A Cancer Test Has Investors Betting Big. But Will Insurers Pay?",
-      "link": "https://www.wsj.com/health/healthcare/a-cancer-test-has-investors-betting-big-but-will-insurers-pay-75d3bc60?mod=rss_markets_main",
-      "published": "Thu, 01 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Financial Services Roundup: Market Talk",
@@ -103,6 +103,18 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "U.S. Stocks Fall as Treasury Yields Test Multidecade Highs",
+      "link": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-treasury-yields-test-multidecade-highs-107d696f?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 20:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Treasury Pays Highest Borrowing Costs Since 2000",
+      "link": "https://www.wsj.com/finance/investing/u-s-european-government-bond-yields-rise-french-bonds-underperform-on-budget-worries-c068d9ae?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 19:45:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Stocks Slip as Treasurys Retreat From Recent Highs",
       "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 18:18:00 GMT",
@@ -115,21 +127,9 @@
       "sentiment": 0.21212121212121213
     },
     {
-      "title": "U.S. Treasury Yields Hit New 24-Year Highs and French Bonds Underperform",
-      "link": "https://www.wsj.com/finance/investing/u-s-european-government-bond-yields-rise-french-bonds-underperform-on-budget-worries-c068d9ae?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 14:08:00 GMT",
-      "sentiment": 0.14727272727272728
-    },
-    {
       "title": "U.S. Dollar Gains Could Be Extended by Fed Minutes Readout",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 13:42:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Wall Street Bonus Bonanza; Plus, U.S. Trade Deficit Widens",
-      "link": "https://www.wsj.com/cfo-journal/wall-street-bonus-bonanza-plus-u-s-trade-deficit-widens-28b32aac?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 10:55:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,28 +199,28 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Relinquish Early Gains, Settle Lower",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 20:34:00 GMT",
+      "sentiment": -0.12499999999999999
+    },
+    {
+      "title": "U.S. Natural Gas Futures Gain Ahead of Storage Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-extends-gains-with-eyes-on-storm-a8a32ad9?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 19:35:00 GMT",
+      "sentiment": 0.2416666666666667
+    },
+    {
       "title": "Gold Futures Fall on Stronger Dollar, High Yields",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 18:05:00 GMT",
       "sentiment": 0.08
     },
     {
-      "title": "U.S. Crude Futures Turn Lower Despite Inventory Draw",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 17:22:00 GMT",
-      "sentiment": -0.3499999999999999
-    },
-    {
       "title": "U.S. Crude Oil Stockpiles Post Weekly Drop",
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-drop-948f4817?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 15:21:00 GMT",
       "sentiment": -0.43999999999999995
-    },
-    {
-      "title": "U.S. Natural Gas Extends Gains With Eyes on Storm",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-extends-gains-with-eyes-on-storm-a8a32ad9?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 13:35:00 GMT",
-      "sentiment": 0.025
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -289,6 +289,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
+      "link": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
+      "sentiment": -0.05000000000000002
+    },
+    {
       "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
       "link": "https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 14:07:00 GMT",
@@ -313,12 +319,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Nasdaq Hits New Record as Bond Yields March Higher",
-      "link": "https://www.wsj.com/finance/investing/stocks-keep-climbingand-so-do-bond-yields-c91d7d75?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 21:10:00 GMT",
-      "sentiment": 0.16927272727272727
-    },
-    {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
       "link": "https://www.wsj.com/personal-finance/heres-what-its-like-to-retire-to-a-low-tax-state-fcac6598?mod=rss_markets_main",
       "published": "Sun, 13 Sep 2026 00:00:00 GMT",
@@ -331,16 +331,16 @@
       "sentiment": 0.06818181818181818
     },
     {
-      "title": "Money Managers Are Asking Clients to Give the Bond Market Another Chance",
-      "link": "https://www.wsj.com/finance/investing/money-managers-are-asking-clients-to-give-the-bond-market-another-chance-6f874f1c?mod=rss_markets_main",
-      "published": "Wed, 30 Sep 2026 23:00:00 GMT",
-      "sentiment": 0.20833333333333331
-    },
-    {
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
       "link": "https://www.wsj.com/finance/stocks/what-ouras-stalled-ipo-tells-us-about-one-hit-wonders-31921bf5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Money Managers Are Asking Clients to Give the Bond Market Another Chance",
+      "link": "https://www.wsj.com/finance/investing/money-managers-are-asking-clients-to-give-the-bond-market-another-chance-6f874f1c?mod=rss_markets_main",
+      "published": "Wed, 30 Sep 2026 23:00:00 GMT",
+      "sentiment": 0.20833333333333331
     },
     {
       "title": "Private Equity Has a Problem. Uncle Sam Says Your Wallet Can Fix It.",
