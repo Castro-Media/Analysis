@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Fed Minutes Show Officials Saw More Work to Do to Quell Inflation",
+      "link": "https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html",
+      "published": "Wed, 07 Oct 2026 18:40:15 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "6 Broken Bathrooms Force Flight to Make an Urgent Landing",
+      "link": "https://www.nytimes.com/2026/10/07/travel/american-airlines-flight-broken-bathrooms-landing.html",
+      "published": "Wed, 07 Oct 2026 18:10:25 +0000",
+      "sentiment": -0.02840909090909092
+    },
+    {
+      "title": "Can Bergdorf Goodman Return to Its Golden Age?",
+      "link": "https://www.nytimes.com/2026/10/07/business/bergdorf-goodman.html",
+      "published": "Wed, 07 Oct 2026 17:02:34 +0000",
+      "sentiment": 0.15
+    },
+    {
       "title": "Trump Administration Delays Threaten Funding for HIV Research",
       "link": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html",
       "published": "Wed, 07 Oct 2026 16:33:18 +0000",
@@ -9,7 +27,7 @@
     {
       "title": "Whistle-Blower Says I.R.S. Leaked His Tax Records in Retaliation",
       "link": "https://www.nytimes.com/2026/10/07/business/economy/whistle-blower-irs-lawsuit.html",
-      "published": "Wed, 07 Oct 2026 14:24:48 +0000",
+      "published": "Wed, 07 Oct 2026 18:11:03 +0000",
       "sentiment": 0.0
     },
     {
@@ -33,7 +51,7 @@
     {
       "title": "China’s ‘Self-Reliance’ Drive Is Upending Trade With Europe",
       "link": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-manufacturing.html",
-      "published": "Wed, 07 Oct 2026 14:38:50 +0000",
+      "published": "Wed, 07 Oct 2026 18:15:59 +0000",
       "sentiment": 0.19999999999999998
     },
     {
@@ -57,7 +75,7 @@
     {
       "title": "Porsche, Facing Falling Profits, Plans to Cut 25% of Its Work Force",
       "link": "https://www.nytimes.com/2026/10/07/business/porsche-china-job-cuts-volkswagen.html",
-      "published": "Wed, 07 Oct 2026 13:31:32 +0000",
+      "published": "Wed, 07 Oct 2026 18:03:29 +0000",
       "sentiment": 0.11111111111111112
     },
     {
@@ -69,7 +87,7 @@
     {
       "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder",
       "link": "https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html",
-      "published": "Wed, 07 Oct 2026 03:22:43 +0000",
+      "published": "Wed, 07 Oct 2026 17:57:33 +0000",
       "sentiment": -0.8
     },
     {
@@ -105,7 +123,7 @@
     {
       "title": "Teeing Off in the Birthplace of Golf, in St. Andrews, Scotland",
       "link": "https://www.nytimes.com/2026/10/06/travel/golf-st-andrews-scotland-courses.html",
-      "published": "Wed, 07 Oct 2026 13:20:51 +0000",
+      "published": "Wed, 07 Oct 2026 17:13:21 +0000",
       "sentiment": 0.5
     },
     {
@@ -269,24 +287,6 @@
       "link": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
       "published": "Sat, 03 Oct 2026 12:44:44 +0000",
       "sentiment": -0.032828282828282825
-    },
-    {
-      "title": "White House Filing Claims President Has Authority to Bar News Outlets",
-      "link": "https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html",
-      "published": "Sat, 03 Oct 2026 02:29:40 +0000",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
-      "link": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
-      "published": "Fri, 02 Oct 2026 22:25:24 +0000",
-      "sentiment": 0.43333333333333335
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
-      "published": "Fri, 02 Oct 2026 15:59:17 +0000",
-      "sentiment": 0.5
     }
   ]
 }
