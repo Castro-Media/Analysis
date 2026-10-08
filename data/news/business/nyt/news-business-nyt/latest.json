@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Global Trade Proved More Resilient Than Expected This Year, W.T.O. Says",
+      "title": "Shifting Eating Habits Push PepsiCo to Weigh Options, Including a Split",
+      "link": "https://www.nytimes.com/2026/10/08/business/pepsico-earnings-splitting.html",
+      "published": "Thu, 08 Oct 2026 16:38:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
+      "link": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
+      "published": "Thu, 08 Oct 2026 16:20:27 +0000",
+      "sentiment": 0.31666666666666665
+    },
+    {
+      "title": "A.I. Fueled More Resilient Global Growth, W.T.O. Says",
       "link": "https://www.nytimes.com/2026/10/08/business/economy/wto-global-trade-resilient.html",
-      "published": "Thu, 08 Oct 2026 14:49:40 +0000",
-      "sentiment": 0.1142857142857143
+      "published": "Thu, 08 Oct 2026 16:07:06 +0000",
+      "sentiment": 0.037500000000000006
     },
     {
       "title": "France Is Veering Toward a Potential Debt Crisis, a Warning to the World",
@@ -275,18 +287,6 @@
       "link": "https://www.nytimes.com/2026/10/05/business/media/david-ellison-skydance-cnn-hollywood.html",
       "published": "Mon, 05 Oct 2026 17:35:26 +0000",
       "sentiment": -0.12626262626262627
-    },
-    {
-      "title": "Supreme Court Tangles Over a Major Climate Change Case",
-      "link": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
-      "published": "Tue, 06 Oct 2026 07:13:04 +0000",
-      "sentiment": 0.024715909090909087
-    },
-    {
-      "title": "How to Get a VAT Tax Refund",
-      "link": "https://www.nytimes.com/2026/10/05/travel/vat-tax-refund-travel-shopping.html",
-      "published": "Mon, 05 Oct 2026 09:02:14 +0000",
-      "sentiment": 0.10714285714285714
     }
   ]
 }
