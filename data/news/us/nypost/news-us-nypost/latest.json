@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "title": "Jewelry store owner shoots at would-be thieves after truck smashes into business",
+      "link": "https://nypost.com/2026/10/08/us-news/washington-jewelry-store-owner-shoots-at-would-be-thieves/",
+      "published": "Thu, 08 Oct 2026 10:58:38 -0400",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Columbia University offered ‘October 7 Blush Sauce’ on massacre anniversary",
+      "link": "https://nypost.com/2026/10/08/us-news/columbia-university-offered-october-7-blush-sauce-on-massacre-anniversary/",
+      "published": "Thu, 08 Oct 2026 10:53:17 -0400",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ex-Venezuela dictator Nicolás Maduro, wife accused of conspiring to torture Americans",
+      "link": "https://nypost.com/2026/10/08/us-news/ex-venezuela-dictator-nicolas-maduro-wife-allegedly-conspired-to-torture-americans/",
+      "published": "Thu, 08 Oct 2026 10:48:22 -0400",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Hurricane-force waves smash California coast as tempest looms — with flash flood warnings",
+      "link": "https://nypost.com/2026/10/08/us-news/waves-batter-socal-as-hurricane-force-storm-approaches-coast/",
+      "published": "Thu, 08 Oct 2026 10:40:38 -0400",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘Polite’ Christa Pike tried to help executioners before bungled lethal injections, lawyer claims",
+      "link": "https://nypost.com/2026/10/08/us-news/christa-pike-tried-to-help-executioners-before-bungled-lethal-injections-lawyer-claims/",
+      "published": "Thu, 08 Oct 2026 10:12:15 -0400",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Abdul El-Sayed’s long history of trashing Obama resurfaces ahead of rally with former prez",
+      "link": "https://nypost.com/2026/10/08/us-news/abdul-el-sayeds-long-history-of-trashing-obama-resurfaces-ahead-of-rally-with-former-prez/",
+      "published": "Thu, 08 Oct 2026 10:06:01 -0400",
+      "sentiment": -0.08005050505050505
+    },
+    {
+      "title": "Mamdani dined at NYC Palestinian restaurant blasted for ‘openly genocidal’ menu on Oct. 7 anniversary",
+      "link": "https://nypost.com/2026/10/08/us-news/zohran-mamdani-ate-at-nyc-palestinian-restaurant-on-oct-7-anniversary/",
+      "published": "Thu, 08 Oct 2026 09:36:21 -0400",
+      "sentiment": -0.3
+    },
+    {
+      "title": "LA cracks down on drug-huffing partygoers with key move",
+      "link": "https://nypost.com/2026/10/08/us-news/la-targets-smoke-shops-to-crack-down-on-drug-huffing-partygoers/",
+      "published": "Thu, 08 Oct 2026 09:00:00 -0400",
+      "sentiment": -0.17222222222222222
+    },
+    {
       "title": "Arizona congressional candidate alleges she was raped while fixing campaign sign: ‘I just wanted to forget it’",
       "link": "https://nypost.com/2026/10/08/us-news/arizona-congressional-candidate-claims-she-was-raped-while-fixing-campaign-sign-i-just-wanted-to-forget-it/",
       "published": "Thu, 08 Oct 2026 07:47:52 -0400",
@@ -65,60 +113,6 @@
       "link": "https://nypost.com/2026/10/08/us-news/tropical-weather-targets-both-us-coasts-at-same-time-for-first-time-in-more-than-50-years/",
       "published": "Thu, 08 Oct 2026 04:14:00 -0400",
       "sentiment": 0.1357142857142857
-    },
-    {
-      "title": "Illinois restaurant worker Alyssa Smith missing after vanishing on Chicago trip with boyfriend",
-      "link": "https://nypost.com/2026/10/08/us-news/illinois-restaurant-worker-alyssa-smith-missing-after-vanishing-while-on-chicago-trip-with-boyfriend-who-then-returned-home-alone/",
-      "published": "Thu, 08 Oct 2026 04:07:23 -0400",
-      "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Driver opens fire on strangers along major US interstate, tells cops he ‘had to kill people today’",
-      "link": "https://nypost.com/2026/10/08/us-news/iowa-driver-andrew-darrick-tanaka-shot-at-cars-on-i35-telling-cops-he-had-to-kill-people/",
-      "published": "Thu, 08 Oct 2026 03:23:07 -0400",
-      "sentiment": -0.146875
-    },
-    {
-      "title": "Montana high school softball player discovered long-lost sister on opposing team",
-      "link": "https://nypost.com/2026/10/08/us-news/montana-high-school-softball-player-discovers-long-lost-sister-on-opposing-team-in-real-life-parent-trap/",
-      "published": "Thu, 08 Oct 2026 02:32:01 -0400",
-      "sentiment": 0.18
-    },
-    {
-      "title": "Wife of ex-Venezuelan President Nicolás Maduro seeks release from US jail",
-      "link": "https://nypost.com/2026/10/08/us-news/cilia-flores-the-wife-of-ex-venezuelan-president-nicolas-maduro-seeks-release-from-us-jail/",
-      "published": "Thu, 08 Oct 2026 02:03:22 -0400",
-      "sentiment": -0.05000000000000001
-    },
-    {
-      "title": "Texas executes Jamaal Howard despite same lethal injection drug used in failed Christa Pike execution",
-      "link": "https://nypost.com/2026/10/08/us-news/texas-executes-jamaal-howard-despite-same-lethal-drug-used-in-failed-christa-pike-execution/",
-      "published": "Thu, 08 Oct 2026 01:50:49 -0400",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Dad who allegedly pushed NYC mom, baby off 15th-floor balcony nabbed by US Marshals for ex’s death",
-      "link": "https://nypost.com/2026/10/08/us-news/dad-wanted-for-fatal-push-of-nyc-mom-baby-nabbed-by-us-marshals/",
-      "published": "Thu, 08 Oct 2026 01:28:46 -0400",
-      "sentiment": -0.4000000000000001
-    },
-    {
-      "title": "New Hampshire fisherman reels in record-breaking 1,116-pound bluefin tuna, smashing state mark",
-      "link": "https://nypost.com/2026/10/08/us-news/new-hampshire-fisherman-brandon-mcgirl-lands-state-record-bluefin-tuna-on-overnight-trip-out-of-rye-harbor/",
-      "published": "Thu, 08 Oct 2026 01:27:26 -0400",
-      "sentiment": 0.03535353535353535
-    },
-    {
-      "title": "NJ teen driver plows SUV into group of students on sidewalk, leaving six injured",
-      "link": "https://nypost.com/2026/10/08/us-news/new-jersey-teen-plows-suv-into-group-of-teens-in-lindenwold-injuring-six/",
-      "published": "Thu, 08 Oct 2026 01:12:38 -0400",
-      "sentiment": 0.009090909090909087
-    },
-    {
-      "title": "Trump rally protesters shout down angel mom talking about her murdered son in Texas: ‘They’re paid by enemies of our nation’",
-      "link": "https://nypost.com/2026/10/08/us-news/trump-rally-protesters-shout-down-angel-mom-talking-about-her-murdered-son-in-texas/",
-      "published": "Thu, 08 Oct 2026 00:52:31 -0400",
-      "sentiment": -0.15555555555555556
     }
   ]
 }

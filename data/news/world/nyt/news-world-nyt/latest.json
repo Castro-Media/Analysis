@@ -7,10 +7,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
-      "published": "Thu, 08 Oct 2026 12:55:01 +0000",
-      "sentiment": 0.0
+      "title": "Warrants to Search Former Prince Andrew’s Properties Were Unlawful, Court Finds",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html",
+      "published": "Thu, 08 Oct 2026 14:06:36 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "The Wave of Student Protests Roiling France",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html",
+      "published": "Thu, 08 Oct 2026 14:41:51 +0000",
+      "sentiment": -0.2333333333333333
     },
     {
       "title": "China Expands Its Military Reach by Building a Base in Laos",
@@ -19,16 +25,22 @@
       "sentiment": -0.18920454545454546
     },
     {
-      "title": "Live Updates: Students Rally in France for Second Day of Mass Protests in a Week",
-      "link": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools",
-      "published": "Thu, 08 Oct 2026 13:00:38 +0000",
-      "sentiment": 0.05177272727272728
+      "title": "Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
+      "published": "Thu, 08 Oct 2026 14:38:41 +0000",
+      "sentiment": -0.14285714285714285
     },
     {
       "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
       "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
       "published": "Thu, 08 Oct 2026 13:02:14 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
+      "published": "Thu, 08 Oct 2026 12:55:01 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
@@ -51,7 +63,7 @@
     {
       "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html",
-      "published": "Thu, 08 Oct 2026 04:00:11 +0000",
+      "published": "Thu, 08 Oct 2026 14:45:58 +0000",
       "sentiment": 0.03333333333333333
     },
     {
@@ -71,18 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html",
       "published": "Thu, 08 Oct 2026 11:09:46 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
-      "published": "Thu, 08 Oct 2026 06:37:05 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges",
-      "link": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
-      "published": "Wed, 07 Oct 2026 19:31:49 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
@@ -105,7 +105,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students",
-      "published": "Thu, 08 Oct 2026 12:29:35 +0000",
+      "published": "Thu, 08 Oct 2026 14:46:16 +0000",
       "sentiment": 0.25
     },
     {
@@ -119,6 +119,12 @@
       "link": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
       "published": "Thu, 08 Oct 2026 08:33:45 +0000",
       "sentiment": -0.2
+    },
+    {
+      "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+      "published": "Thu, 08 Oct 2026 14:11:21 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "Fears of a Plague Outbreak in Russia: What to Know",
@@ -329,12 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
       "published": "Tue, 06 Oct 2026 15:13:41 +0000",
       "sentiment": -0.2
-    },
-    {
-      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
-      "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-      "published": "Tue, 06 Oct 2026 17:00:15 +0000",
-      "sentiment": -0.0062500000000000056
     }
   ]
 }

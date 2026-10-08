@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Oil Is Back In, Climate Is Out at a Marquee Energy Conference",
+      "link": "https://www.wsj.com/business/energy-oil/oil-is-back-in-climate-is-out-at-a-marquee-energy-conference-a6bcad5a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 13:25:00 GMT",
+      "sentiment": 0.049999999999999996
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-647c46ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 12:13:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/texts-show-kimberly-guilfoyle-seeking-100-000-and-offering-access-to-trump-officials-67fa42c8?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 09:54:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Rogue Pilots Are a Growing Safety Threat—and No One Knows How to Stop Them",
-      "link": "https://www.wsj.com/business/airlines/rogue-pilots-have-become-one-of-the-biggest-threats-to-airline-safety-d4932855?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 01:33:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Viatris to Buy Pacira BioSciences for $1.65 Billion",
@@ -67,16 +67,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "PepsiCo Trims Outlook as North American Unit Underperforms",
+      "link": "https://www.wsj.com/business/retail/pepsico-posts-higher-profit-sales-as-turnaround-continues-aa219b31?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 14:08:00 GMT",
+      "sentiment": 0.08333333333333333
+    },
+    {
       "title": "Uniqlo Owner Posts Record Annual Profit, Expects Further Growth",
       "link": "https://www.wsj.com/business/earnings/uniqlo-owner-posts-record-annual-profit-expects-further-growth-27ad2fe8?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 11:35:00 GMT",
       "sentiment": 0.12666666666666665
-    },
-    {
-      "title": "PepsiCo Trims Outlook as North American Unit Underperforms",
-      "link": "https://www.wsj.com/business/retail/pepsico-posts-higher-profit-sales-as-turnaround-continues-aa219b31?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 11:19:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Tesco Lifts Lower End of Profit Outlook on Sales Momentum",
@@ -193,6 +193,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Brent Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-51687549?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 14:19:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Stocks Slip and Oil Jumps on Fresh Tanker Attack",
+      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 13:58:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "Devon Energy Sells Eagle Ford Assets to Crescent Energy for $4.2 Billion",
       "link": "https://www.wsj.com/business/energy-oil/devon-energy-sells-eagle-ford-assets-to-crescent-energy-for-4-2-billion-33e48b1c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 12:59:00 GMT",
@@ -205,22 +217,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Brent Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-51687549?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 10:41:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "European Gas Prices Climb on LNG Shipping Risks",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-climb-on-lng-shipping-risks-df4625ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 08:05:00 GMT",
       "sentiment": 0.075
     },
     {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-99c575f4?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 21:06:00 GMT",
-      "sentiment": 0.5
+      "title": "Rogue Pilots Are a Growing Safety Threat—and No One Knows How to Stop Them",
+      "link": "https://www.wsj.com/business/airlines/rogue-pilots-have-become-one-of-the-biggest-threats-to-airline-safety-d4932855?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 01:33:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "The Latest Nuisance on Flights Is a Zoom Call at 30,000 Feet",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4?mod=pls_whats_news_us_business_f",
       "published": "Sat, 03 Oct 2026 04:01:00 GMT",
       "sentiment": 0.19785714285714287
-    },
-    {
-      "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue",
-      "link": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 21:29:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Fed Minutes Show No Urgency for October Hike",
@@ -313,6 +313,18 @@
       "sentiment": 0.3181818181818182
     },
     {
+      "title": "Microsoft Forms New Xbox Unit Focused on Film, TV in Turnaround Effort",
+      "link": "https://www.wsj.com/business/media/microsoft-forms-new-xbox-unit-focused-on-film-tv-in-turnaround-effort-ead1c2a1?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 14:37:00 GMT",
+      "sentiment": 0.19318181818181818
+    },
+    {
+      "title": "Why Ford Hired a Head of Nomenclature—And You Might Want One, Too",
+      "link": "https://www.wsj.com/cmo-today/why-ford-hired-a-head-of-nomenclatureand-you-might-want-one-too-88bf0316?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 13:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Disney+ to Stream 2027 Super Bowl",
       "link": "https://www.wsj.com/business/media/disney-to-stream-2027-super-bowl-a4f6c538?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 16:15:00 GMT",
@@ -329,18 +341,6 @@
       "link": "https://www.wsj.com/business/media/paramount-warner-bros-deal-873905b0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 03:00:00 GMT",
       "sentiment": 0.018181818181818174
-    },
-    {
-      "title": "Jaguar Ditches the Pink Branding in Unveil of Its Big, Sleek Type 01 EV",
-      "link": "https://www.wsj.com/cmo-today/jaguar-ditches-the-pink-branding-in-unveil-of-its-big-sleek-type-01-ev-0a544152?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 01:33:00 GMT",
-      "sentiment": 0.049999999999999996
-    },
-    {
-      "title": "Meet the Disney Lawyer Leading Fight Against the FCC",
-      "link": "https://www.wsj.com/business/media/disneys-top-lawyer-is-a-pragmatist-facing-his-biggest-fight-yet-bd3464d4?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 16:53:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
@@ -487,10 +487,10 @@
       "sentiment": -0.1
     },
     {
-      "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
-      "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.10000000000000002
+      "title": "Joe Rogan Re-Ups Lucrative Spotify Deal",
+      "link": "https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Best Small-Business Loans in October 2026",
