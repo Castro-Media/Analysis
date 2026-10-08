@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Russian Airstrike on Bus Stop Kills at Least 30 in Ukraine",
+      "link": "https://www.wsj.com/world/europe/russian-airstrike-on-bus-stop-kills-at-least-30-in-ukraine-a2bfcce9?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 15:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Far-Left Mayor on the Front Line of France’s Student Protests",
+      "link": "https://www.wsj.com/world/europe/the-far-left-mayor-on-the-front-line-of-frances-student-protests-ec585cdc?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 15:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tanker Attacks Push Deeper Into Gulf, Rattle Oil Markets",
+      "link": "https://www.wsj.com/world/middle-east/tanker-attacks-push-deeper-into-the-gulf-and-rattle-oil-markets-24666ef9?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 15:10:00 GMT",
+      "sentiment": -0.016666666666666663
+    },
+    {
       "title": "Israel Downgrades U.K. Consulate in Jerusalem Over West Bank Trade Ban",
       "link": "https://www.wsj.com/world/middle-east/israel-orders-u-k-consulate-in-jerusalem-closed-over-west-bank-trade-ban-aec88b46?mod=rss_worldnews",
       "published": "Thu, 08 Oct 2026 14:55:00 GMT",
@@ -19,24 +37,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Land Mines in the Korean DMZ Deliver Warning Against Defections",
-      "link": "https://www.wsj.com/world/asia/land-mines-in-the-korean-dmz-deliver-warning-against-defections-ebf9d952?mod=rss_worldnews",
-      "published": "Thu, 08 Oct 2026 09:52:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Spain’s Leader Pins Political Survival on Public Anger Over Housing Crisis",
-      "link": "https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a?mod=rss_worldnews",
-      "published": "Thu, 08 Oct 2026 02:00:00 GMT",
-      "sentiment": -0.2333333333333333
-    },
-    {
-      "title": "Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens",
-      "link": "https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca?mod=rss_worldnews",
-      "published": "Thu, 08 Oct 2026 01:57:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "Brent Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-51687549?mod=rss_worldnews",
       "published": "Thu, 08 Oct 2026 14:19:00 GMT",
@@ -47,6 +47,12 @@
       "link": "https://www.wsj.com/business/harbour-energy-curbs-gulf-of-mexico-production-ahead-of-storm-isaias-48734408?mod=rss_worldnews",
       "published": "Thu, 08 Oct 2026 11:04:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens",
+      "link": "https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 01:57:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "What a Schnitzel Sandwich Teaches Us About Israeli Food",
@@ -61,10 +67,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Young Americans Who Moved to Israel After Oct. 7",
-      "link": "https://www.wsj.com/world/middle-east/the-young-americans-who-moved-to-israel-after-oct-7-7965b908?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 09:00:00 GMT",
-      "sentiment": 0.19999999999999998
+      "title": "Land Mines in the Korean DMZ Deliver Warning Against Defections",
+      "link": "https://www.wsj.com/world/asia/land-mines-in-the-korean-dmz-deliver-warning-against-defections-ebf9d952?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 09:52:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Forces in Okinawa Face Curfew, Booze Ban After Killing",
@@ -91,9 +97,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "In China, Battle Is Raging for the Soul of Tibet",
-      "link": "https://www.wsj.com/world/in-china-battle-is-raging-for-the-soul-of-tibet-737bc947?mod=rss_worldnews",
-      "published": "Mon, 05 Oct 2026 15:37:00 GMT",
+      "title": "U.S. Prosecutors Bring Torture Charge Against Nicolás Maduro",
+      "link": "https://www.wsj.com/us-news/u-s-prosecutors-bring-torture-charge-against-nicolas-maduro-bc8b6527?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 14:58:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/flavio-bolsonaro-surges-past-lula-setting-up-a-bitter-brazil-election-runoff-0432b9c5?mod=rss_worldnews",
       "published": "Mon, 05 Oct 2026 02:42:00 GMT",
       "sentiment": -0.029999999999999992
-    },
-    {
-      "title": "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem",
-      "link": "https://www.wsj.com/world/americas/lula-is-the-brazilian-lefts-last-hopeand-its-biggest-problem-68c2fb12?mod=rss_worldnews",
-      "published": "Sun, 04 Oct 2026 00:00:00 GMT",
-      "sentiment": -0.09999999999999999
     },
     {
       "title": "The Quest to Save Rural Pay Phones, 52 Calls at a Time",
@@ -157,6 +157,12 @@
       "sentiment": 0.2786666666666666
     },
     {
+      "title": "Opinion | Marco Rubio: The Birth and Rebirth of Western Civilization",
+      "link": "https://www.wsj.com/opinion/marco-rubio-the-birth-and-rebirth-of-western-civilization-4b9a108b?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 15:54:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "Opinion | Celebrating Hamas on Oct. 7",
       "link": "https://www.wsj.com/opinion/oct-7-zohran-mamdani-hamas-israel-gaza-2af180c3?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 22:49:00 GMT",
@@ -187,10 +193,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | After the Oct. 7 Massacre, Do You Rebuild or Remember?",
-      "link": "https://www.wsj.com/opinion/what-do-you-do-with-the-site-of-an-atrocity-85358ce5?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 14:02:00 GMT",
-      "sentiment": 0.0
+      "title": "Spain’s Leader Pins Political Survival on Public Anger Over Housing Crisis",
+      "link": "https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 02:00:00 GMT",
+      "sentiment": -0.2333333333333333
     },
     {
       "title": "Suspected Iranian Drone Plot in U.K. Raises Security Questions at Western Bases",
@@ -217,16 +223,16 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "France Considers Issuing More Shorter-Term Debt After Bond-Market Turmoil",
-      "link": "https://www.wsj.com/world/europe/france-considers-issuing-more-shorter-term-debt-amid-bond-market-turmoil-db2966fd?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 15:13:00 GMT",
-      "sentiment": 0.21212121212121213
-    },
-    {
       "title": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
       "link": "https://www.wsj.com/world/china/chinas-burned-out-young-are-finding-something-unexpected-in-mao-eff59d4b?mod=rss_worldnews",
       "published": "Tue, 06 Oct 2026 10:55:00 GMT",
       "sentiment": 0.06000000000000001
+    },
+    {
+      "title": "In China, Battle Is Raging for the Soul of Tibet",
+      "link": "https://www.wsj.com/world/in-china-battle-is-raging-for-the-soul-of-tibet-737bc947?mod=rss_worldnews",
+      "published": "Mon, 05 Oct 2026 15:37:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "FBI Arrests Alleged Chinese Agent Accused of Spying on Son of Taiwan Leader",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/telecom/apples-biggest-battleground-for-foldable-phones-is-china-a15b9663?mod=rss_worldnews",
       "published": "Thu, 01 Oct 2026 04:11:00 GMT",
       "sentiment": 0.041666666666666664
-    },
-    {
-      "title": "China Offers Subsidies on Some Residential Mortgages",
-      "link": "https://www.wsj.com/economy/central-banking/china-offers-subsidies-on-some-residential-mortgages-f1c20dad?mod=rss_worldnews",
-      "published": "Tue, 29 Sep 2026 12:08:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "What We Know About the Death of the Russian Plague-Lab Worker",
@@ -379,10 +379,10 @@
       "sentiment": 0.30000000000000004
     },
     {
-      "title": "The Morning Risk Report: Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-21056687?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 11:29:00 GMT",
-      "sentiment": 0.24545454545454545
+      "title": "France Considers Issuing More Shorter-Term Debt After Bond-Market Turmoil",
+      "link": "https://www.wsj.com/world/europe/france-considers-issuing-more-shorter-term-debt-amid-bond-market-turmoil-db2966fd?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 15:13:00 GMT",
+      "sentiment": 0.21212121212121213
     },
     {
       "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
