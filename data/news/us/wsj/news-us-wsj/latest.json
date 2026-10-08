@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Pentagon Says Fort Hood Shooter Execution Will Be Livestreamed",
+      "link": "https://www.wsj.com/us-news/pentagon-says-fort-hood-shooter-execution-will-be-livestreamed-9cbe6559?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 22:45:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "U.S. Prosecutors Bring Torture Charge Against Nicolás Maduro",
       "link": "https://www.wsj.com/us-news/u-s-prosecutors-bring-torture-charge-against-nicolas-maduro-bc8b6527?mod=rss_usnews",
       "published": "Thu, 08 Oct 2026 20:36:00 GMT",
@@ -28,12 +34,6 @@
       "title": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years",
       "link": "https://www.wsj.com/us-news/measles-outbreak-in-pennsylvania-is-now-the-biggest-in-u-s-in-35-years-90788468?mod=rss_usnews",
       "published": "Wed, 07 Oct 2026 17:48:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "American Fire Departments Are Short on People. AI Might Be the Answer.",
-      "link": "https://www.wsj.com/tech/ai/volunteer-firefighters-drones-artificial-intelligence-788db99a?mod=rss_usnews",
-      "published": "Wed, 07 Oct 2026 16:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -127,6 +127,30 @@
       "sentiment": 0.1
     },
     {
+      "title": "Opinion | Sam Altman Is No Oppenheimer",
+      "link": "https://www.wsj.com/opinion/sam-altman-is-no-oppenheimer-d301b8a0?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 22:02:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Tariffs Are Hurting the GOP in Michigan",
+      "link": "https://www.wsj.com/opinion/mike-rogers-michigan-tariffs-canada-donald-trump-6b3d2bd8?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 21:31:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | John Sununu Wants to Save Social Security",
+      "link": "https://www.wsj.com/opinion/john-sununu-social-security-reform-chris-pappas-0c69b406?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 21:25:00 GMT",
+      "sentiment": 0.14444444444444446
+    },
+    {
+      "title": "Opinion | Democrats Have No School Choice Excuse",
+      "link": "https://www.wsj.com/opinion/democrats-school-choice-federal-tax-credit-treasury-rules-39f5b8fb?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 21:25:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Opinion | Federal Tax Credits Offer True School Choice",
       "link": "https://www.wsj.com/opinion/federal-tax-credits-offer-true-school-choice-dfaaef85?mod=rss_usnews",
       "published": "Thu, 08 Oct 2026 19:27:00 GMT",
@@ -139,28 +163,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Preventing Hazing Requires Institutional Transformation",
-      "link": "https://www.wsj.com/opinion/preventing-hazing-requires-institutional-transformation-7bef5cd8?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 19:25:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Opinion | Buckle Up for a Democratic House",
-      "link": "https://www.wsj.com/opinion/buckle-up-for-a-democratic-house-73b89e07?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 19:20:00 GMT",
-      "sentiment": 0.3181818181818182
-    },
-    {
-      "title": "Opinion | Marco Rubio: The Birth and Rebirth of Western Civilization",
-      "link": "https://www.wsj.com/opinion/marco-rubio-the-birth-and-rebirth-of-western-civilization-4b9a108b?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 15:54:00 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Opinion | Pouring Money Into the Ivy League Won’t Solve Its Problems",
-      "link": "https://www.wsj.com/opinion/pouring-money-into-the-ivy-league-wont-solve-its-problems-92a9883e?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 15:53:00 GMT",
-      "sentiment": 0.2215909090909091
+      "title": "American Fire Departments Are Short on People. AI Might Be the Answer.",
+      "link": "https://www.wsj.com/tech/ai/volunteer-firefighters-drones-artificial-intelligence-788db99a?mod=rss_usnews",
+      "published": "Wed, 07 Oct 2026 16:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Forces in Okinawa Face Curfew, Booze Ban After Killing",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/us-news/law/supreme-court-cases-fall-2026-a9708504?mod=rss_usnews",
       "published": "Mon, 05 Oct 2026 02:00:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "These Energy Companies Put Oklahoma City on the Map. Now They’re Moving to Texas.",
-      "link": "https://www.wsj.com/business/energy-oil/these-energy-companies-put-oklahoma-city-on-the-map-now-theyre-moving-to-texas-7e5be46d?mod=rss_usnews",
-      "published": "Mon, 05 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Advanced Stats and $500 Bats: Why Baseball for 6-Year-Olds Is Breaking the Bank",

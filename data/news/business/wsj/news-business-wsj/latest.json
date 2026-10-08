@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "SpaceX Makes Big Play to Become a Wireless Carrier",
+      "link": "https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 21:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "American Airlines Is the Worst for Bumping Passengers. Now It Says It Will Stop.",
+      "link": "https://www.wsj.com/business/airlines/american-airlines-is-the-worst-for-bumping-passengers-now-it-says-it-will-stop-76591402?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 21:04:00 GMT",
+      "sentiment": -0.26666666666666666
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b8444503?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 20:57:00 GMT",
@@ -25,16 +37,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
-      "link": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 15:24:00 GMT",
-      "sentiment": -0.06666666666666664
-    },
-    {
-      "title": "Oil Is Back In, Climate Is Out at a Marquee Energy Conference",
-      "link": "https://www.wsj.com/business/energy-oil/oil-is-back-in-climate-is-out-at-a-marquee-energy-conference-a6bcad5a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 13:25:00 GMT",
-      "sentiment": 0.049999999999999996
+      "title": "Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions",
+      "link": "https://www.wsj.com/tech/nvidia-backed-firmus-scraps-australian-ipo-citing-market-conditions-4793fe60?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 22:44:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Viatris to Buy Pacira BioSciences for $1.65 Billion",
@@ -58,12 +64,6 @@
       "title": "Canada’s Weston Family to Buy British Pharmacy Chain Boots for $8.9 Billion",
       "link": "https://www.wsj.com/business/retail/wittington-investments-in-8-9-billion-deal-to-buy-british-pharmacy-chain-boots-d2b91a85?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 14:34:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion",
-      "link": "https://www.wsj.com/business/deals/cd-r-mckesson-to-acquire-at-home-infusion-therapy-provider-for-5-8-billion-1beddf40?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 13:10:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,6 +199,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Oil Is Back In, Climate Is Out at a Marquee Energy Conference",
+      "link": "https://www.wsj.com/business/energy-oil/oil-is-back-in-climate-is-out-at-a-marquee-energy-conference-a6bcad5a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 13:25:00 GMT",
+      "sentiment": 0.049999999999999996
+    },
+    {
       "title": "Devon Energy Sells Eagle Ford Assets to Crescent Energy for $4.2 Billion",
       "link": "https://www.wsj.com/business/energy-oil/devon-energy-sells-eagle-ford-assets-to-crescent-energy-for-4-2-billion-33e48b1c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 12:59:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-climb-on-lng-shipping-risks-df4625ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 08:05:00 GMT",
       "sentiment": 0.075
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-99c575f4?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 21:06:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Rogue Pilots Are a Growing Safety Threat—and No One Knows How to Stop Them",
@@ -409,6 +409,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "Funding for Cyber Startups Climbs in Third Quarter",
+      "link": "https://www.wsj.com/pro/cybersecurity/funding-for-cyber-startups-climbs-in-third-quarter-42c89688?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.3
+    },
+    {
       "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
       "link": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 09:00:00 GMT",
@@ -427,10 +433,10 @@
       "sentiment": -0.14375
     },
     {
-      "title": "Fintech Plaid Bets on Credit Scores to Fuel Next Phase of Growth",
-      "link": "https://www.wsj.com/business/entrepreneurship/fintech-plaid-bets-on-credit-scores-to-fuel-next-phase-of-growth-6d4ce924?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 13:42:00 GMT",
-      "sentiment": -0.004797979797979801
+      "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
+      "link": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 15:24:00 GMT",
+      "sentiment": -0.06666666666666664
     },
     {
       "title": "Texts Show Kimberly Guilfoyle Seeking $100,000 and Offering Access to Trump Officials",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-79f724c7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 16:30:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "The Morning Risk Report: Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-21056687?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 11:29:00 GMT",
-      "sentiment": 0.24545454545454545
     },
     {
       "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype?",
