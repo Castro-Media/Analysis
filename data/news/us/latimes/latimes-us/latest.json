@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "ICE detainees were sprayed with a cleaner during COVID crisis. Now they have a settlement",
-      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
+      "title": "Hurricane Rachel, Kelvin wave combine to bring rain, winds, coastal dangers to SoCal",
+      "link": "https://www.latimes.com/california/story/2026-10-08/hurricane-rachel-kelvin-wave-combine-for-coastal-dangers-what-to-know",
+      "published": "Thu, 8 Oct 2026 13:00:00 GMT",
+      "sentiment": 0.08333333333333333
     },
     {
       "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
@@ -13,16 +13,22 @@
       "sentiment": -0.08888888888888889
     },
     {
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "At the epicenter of AI, San Francisco Bay residents take on the technology",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.5
     },
     {
-      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
-      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "title": "ICE detainees were sprayed with a cleaner during COVID crisis. Now they have a settlement",
+      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
+      "sentiment": 0.05
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned half a century, is recommended for parole",
@@ -55,16 +61,16 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
-      "link": "https://www.latimes.com/california/story/2026-10-07/mother-arrested-14-year-old-allegedly-impregnated-by-her-father",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
       "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
       "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.12727272727272726
+    },
+    {
+      "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
+      "link": "https://www.latimes.com/california/story/2026-10-07/mother-arrested-14-year-old-allegedly-impregnated-by-her-father",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.19999999999999998
     },
     {
       "title": "Californians are paying some of the highest water bills in the country",
@@ -307,16 +313,16 @@
       "sentiment": 0.23727272727272725
     },
     {
-      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1416666666666667
-    },
-    {
       "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
       "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1416666666666667
     },
     {
       "title": "Statue of storied Sacramento stallion swiped",
@@ -379,6 +385,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Victims of Catalina medical helicopter crash identified",
+      "link": "https://www.latimes.com/california/story/2026-10-03/victims-of-catalina-medical-helicopter-crash-identified",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
+      "link": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.5
+    },
+    {
       "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
       "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
@@ -391,28 +409,16 @@
       "sentiment": -0.125
     },
     {
-      "title": "Victims of Catalina medical helicopter crash identified",
-      "link": "https://www.latimes.com/california/story/2026-10-03/victims-of-catalina-medical-helicopter-crash-identified",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
       "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
       "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0009259259259259273
     },
     {
-      "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
-      "link": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.5
+      "sentiment": 0.075
     },
     {
       "title": "Man suspected in fatal shooting of Culver CityBus driver arrested",
@@ -481,28 +487,28 @@
       "sentiment": 0.25
     },
     {
-      "title": "California's economic growth expected to continue, but slowly and with few jobs gains",
-      "link": "https://www.latimes.com/business/story/2026-10-02/californias-economic-growth-expected-to-continue-slowly-with-few-jobs",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1142857142857143
-    },
-    {
-      "title": "Pasadena's white peacock Sugar, beaten by mail carrier, is relocated to private California ranch",
-      "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.046875
-    },
-    {
       "title": "Justice Department accuses UCLA law school of illegally using race in admissions",
       "link": "https://www.latimes.com/california/story/2026-10-02/ucla-law-school-doj-race-admissions-finding",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333331
     },
     {
+      "title": "California's economic growth expected to continue, but slowly and with few jobs gains",
+      "link": "https://www.latimes.com/business/story/2026-10-02/californias-economic-growth-expected-to-continue-slowly-with-few-jobs",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1142857142857143
+    },
+    {
       "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
       "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": 0.27777777777777773
+    },
+    {
+      "title": "Pasadena's white peacock Sugar, beaten by mail carrier, is relocated to private California ranch",
+      "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.046875
     },
     {
       "title": "California moves to limit utility profits and tap more power from homes",
