@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 10:52:50 GMT",
+      "sentiment": 0.075
+    },
+    {
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 05:00:44 GMT",
@@ -19,22 +25,16 @@
       "sentiment": -0.5
     },
     {
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 10:07:58 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 07:15:45 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 03:02:06 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 05:10:40 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
@@ -43,15 +43,33 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 09:56:02 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "France's school protests: What lies behind the anger",
       "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 03:38:46 GMT",
       "sentiment": -0.30000000000000004
     },
     {
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 03:02:06 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
       "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 18:40:52 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 05:10:40 GMT",
       "sentiment": 0.0
     },
     {
@@ -121,7 +139,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+      "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newshour",
       "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 00:46:36 GMT",
       "sentiment": 0.2

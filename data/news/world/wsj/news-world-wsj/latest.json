@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Texts Show Kimberly Guilfoyle Seeking $100,000 and Offering Access to Trump Officials",
+      "link": "https://www.wsj.com/world/texts-show-kimberly-guilfoyle-seeking-100-000-and-offering-access-to-trump-officials-67fa42c8?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 09:54:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Land Mines in the Korean DMZ Deliver Warning Against Defections",
+      "link": "https://www.wsj.com/world/asia/land-mines-in-the-korean-dmz-deliver-warning-against-defections-ebf9d952?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 09:52:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israel Orders U.K. Consulate in Jerusalem Closed Over West Bank Trade Ban",
+      "link": "https://www.wsj.com/world/middle-east/israel-orders-u-k-consulate-in-jerusalem-closed-over-west-bank-trade-ban-aec88b46?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 09:05:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Spain’s Leader Pins Political Survival on Public Anger Over Housing Crisis",
       "link": "https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a?mod=rss_worldnews",
       "published": "Thu, 08 Oct 2026 02:00:00 GMT",
@@ -13,33 +31,15 @@
       "sentiment": -0.2
     },
     {
-      "title": "Suspected Iranian Drone Plot Raises Security Questions at U.K. Bases",
+      "title": "Suspected Iranian Drone Plot in U.K. Raises Security Questions at Western Bases",
       "link": "https://www.wsj.com/world/suspected-iranian-drone-plot-raises-security-questions-at-u-k-bases-8c979b1f?mod=rss_worldnews",
       "published": "Thu, 08 Oct 2026 01:15:00 GMT",
-      "sentiment": -0.14285714285714285
+      "sentiment": -0.09523809523809523
     },
     {
-      "title": "The Spy Crisis That Threatens to Defang Germany’s Top Intelligence Agency",
-      "link": "https://www.wsj.com/world/europe/the-spy-crisis-that-threatens-to-defang-germanys-top-intelligence-agency-1ec4c58e?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.08125
-    },
-    {
-      "title": "Rubio Turns to Ancient Greece to Make the Case for ‘America First’",
-      "link": "https://www.wsj.com/politics/policy/rubio-turns-to-ancient-greece-to-make-the-case-for-america-first-dc4bbb06?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 20:29:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "FlyDubai Co-Pilot Almost Carried Out His Attack in July",
-      "link": "https://www.wsj.com/world/middle-east/flydubai-co-pilot-almost-carried-out-his-attack-in-july-58bfd268?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 16:20:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Oil Prices Rise More Than 2% Amid Houthi Attacks, U.S. Gulf Shut-Ins",
+      "title": "Brent Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-51687549?mod=rss_worldnews",
-      "published": "Thu, 08 Oct 2026 08:09:00 GMT",
+      "published": "Thu, 08 Oct 2026 10:41:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -47,6 +47,12 @@
       "link": "https://www.wsj.com/arts-culture/food-cooking/israeli-food-restaurants-miznon-adec3c5c?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 20:00:00 GMT",
       "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "FlyDubai Co-Pilot Almost Carried Out His Attack in July",
+      "link": "https://www.wsj.com/world/middle-east/flydubai-co-pilot-almost-carried-out-his-attack-in-july-58bfd268?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 16:20:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Young Americans Who Moved to Israel After Oct. 7",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-strike-two-airports-in-saudi-arabia-072f4dd3?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 02:32:00 GMT",
       "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
-      "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.10000000000000002
     },
     {
       "title": "U.S. Forces in Okinawa Face Curfew, Booze Ban After Killing",
@@ -127,6 +127,12 @@
       "sentiment": -0.029999999999999992
     },
     {
+      "title": "The Campaign to Save Rural Pay Phones, 52 Calls at a Time",
+      "link": "https://www.wsj.com/lifestyle/england-scotland-public-pay-phones-cb05aff1?mod=rss_worldnews",
+      "published": "Thu, 08 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "Brits Are Arguing Over Who Gets to See a 230-Foot Long Embroidered Cloth",
       "link": "https://www.wsj.com/world/uk/bayeux-tapestry-london-england-france-british-museum-2dbfb5d4?mod=rss_worldnews",
       "published": "Sun, 04 Oct 2026 09:30:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/world/uk/sterling-rises-on-strong-u-k-data-prospect-of-fiscal-discipline-and-improved-eu-u-k-ties-43f746f3?mod=rss_worldnews",
       "published": "Wed, 30 Sep 2026 13:37:00 GMT",
       "sentiment": 0.2786666666666666
-    },
-    {
-      "title": "BOE Sees Threat to Government Bonds in AI Growth Miss",
-      "link": "https://www.wsj.com/pro/central-banking/boe-sees-threat-to-government-bonds-in-ai-growth-miss-8ca4b0cf?mod=rss_worldnews",
-      "published": "Wed, 30 Sep 2026 10:37:00 GMT",
-      "sentiment": 0.061111111111111116
     },
     {
       "title": "Opinion | Celebrating Hamas on Oct. 7",
@@ -193,6 +193,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "The Spy Crisis That Threatens to Defang Germany’s Top Intelligence Agency",
+      "link": "https://www.wsj.com/world/europe/the-spy-crisis-that-threatens-to-defang-germanys-top-intelligence-agency-1ec4c58e?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 23:00:00 GMT",
+      "sentiment": 0.08125
+    },
+    {
+      "title": "Rubio Turns to Ancient Greece to Make the Case for ‘America First’",
+      "link": "https://www.wsj.com/politics/policy/rubio-turns-to-ancient-greece-to-make-the-case-for-america-first-dc4bbb06?mod=rss_worldnews",
+      "published": "Wed, 07 Oct 2026 20:29:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Heavy Russian Attack Kills at Least 24 in Ukraine, Including Children",
       "link": "https://www.wsj.com/world/europe/heavy-russian-attack-kills-at-least-24-in-ukraine-including-children-147a90c1?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 15:25:00 GMT",
@@ -209,18 +221,6 @@
       "link": "https://www.wsj.com/world/europe/german-industrial-output-rebounds-at-strongest-pace-since-early-2025-2de26cec?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 10:13:00 GMT",
       "sentiment": -0.008333333333333331
-    },
-    {
-      "title": "France’s Economy Is Trapped in a Negative Feedback Loop",
-      "link": "https://www.wsj.com/economy/global/frances-economy-is-trapped-in-a-negative-feedback-loop-509598a9?mod=rss_worldnews",
-      "published": "Wed, 07 Oct 2026 08:42:00 GMT",
-      "sentiment": -0.13333333333333336
-    },
-    {
-      "title": "French Government Is Willing to Bypass Parliament to Pass Billions in Cuts",
-      "link": "https://www.wsj.com/world/europe/french-government-is-willing-to-bypass-parliament-to-pass-billions-in-cuts-699d99c5?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 20:10:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "China’s Burned-Out Young Are Finding Something Unexpected in Mao",
@@ -383,12 +383,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-21056687?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 11:29:00 GMT",
       "sentiment": 0.24545454545454545
-    },
-    {
-      "title": "‘Preparing to Fire’: Hear the Radio Commands Enforcing the U.S. Blockade of Iran",
-      "link": "https://www.wsj.com/world/middle-east/preparing-to-fire-hear-the-radio-commands-enforcing-the-u-s-blockade-of-iran-5f85dda9?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",

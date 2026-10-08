@@ -1,16 +1,34 @@
 {
   "entries": [
     {
-      "title": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html",
-      "published": "Thu, 08 Oct 2026 07:10:01 +0000",
-      "sentiment": 0.5
+      "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
+      "link": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
+      "published": "Thu, 08 Oct 2026 09:00:11 +0000",
+      "sentiment": 0.225
+    },
+    {
+      "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
+      "published": "Thu, 08 Oct 2026 09:01:31 +0000",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html",
+      "published": "Thu, 08 Oct 2026 09:21:03 +0000",
+      "sentiment": -0.025
     },
     {
       "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html",
       "published": "Thu, 08 Oct 2026 04:00:11 +0000",
       "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html",
+      "published": "Thu, 08 Oct 2026 07:10:01 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
@@ -67,27 +85,33 @@
       "sentiment": 0.02
     },
     {
-      "title": "The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html",
-      "published": "Wed, 07 Oct 2026 14:21:55 +0000",
-      "sentiment": 0.2857142857142857
+      "title": "China Expands Its Military Reach by Building a Base in Laos",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+      "published": "Thu, 08 Oct 2026 10:20:16 +0000",
+      "sentiment": -0.18920454545454546
     },
     {
-      "title": "Russia Says It Found No ‘Emergency’ in Plague Lab",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html",
-      "published": "Wed, 07 Oct 2026 18:20:34 +0000",
-      "sentiment": 0.3181818181818182
+      "title": "Blasts Rattle Riyadh as Saudi Arabia Hit By Deadliest Houthi Attacks So Far",
+      "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+      "published": "Thu, 08 Oct 2026 10:48:02 +0000",
+      "sentiment": -0.05
     },
     {
-      "title": "The School Near Paris That Shows Why French Students Are Protesting",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
-      "published": "Wed, 07 Oct 2026 21:33:31 +0000",
-      "sentiment": -0.12000000000000001
+      "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
+      "link": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html",
+      "published": "Thu, 08 Oct 2026 09:53:16 +0000",
+      "sentiment": -0.04
+    },
+    {
+      "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
+      "published": "Thu, 08 Oct 2026 09:01:00 +0000",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Indian Opposition Leaders Detained as Protests Over Voter Rolls Intensify",
       "link": "https://www.nytimes.com/2026/10/08/world/asia/india-voter-protests-opposition-gandhi.html",
-      "published": "Thu, 08 Oct 2026 08:35:54 +0000",
+      "published": "Thu, 08 Oct 2026 09:42:01 +0000",
       "sentiment": 0.11481481481481481
     },
     {
@@ -131,6 +155,18 @@
       "link": "https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html",
       "published": "Wed, 07 Oct 2026 13:22:53 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "Russia Says It Found No ‘Emergency’ in Plague Lab",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html",
+      "published": "Wed, 07 Oct 2026 18:20:34 +0000",
+      "sentiment": 0.3181818181818182
+    },
+    {
+      "title": "The School Near Paris That Shows Why French Students Are Protesting",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+      "published": "Wed, 07 Oct 2026 21:33:31 +0000",
+      "sentiment": -0.12000000000000001
     },
     {
       "title": "Europe’s Trade Tensions With China Are Coming to a Head",
@@ -179,6 +215,12 @@
       "link": "https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html",
       "published": "Wed, 07 Oct 2026 11:36:18 +0000",
       "sentiment": -0.49999999999999994
+    },
+    {
+      "title": "The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html",
+      "published": "Wed, 07 Oct 2026 14:21:55 +0000",
+      "sentiment": 0.2857142857142857
     },
     {
       "title": "F.B.I. Charges American in Plot Behind Canada’s Tumbler Ridge School Shooting",
@@ -287,48 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
       "published": "Tue, 06 Oct 2026 15:01:15 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html",
-      "published": "Tue, 06 Oct 2026 15:54:36 +0000",
-      "sentiment": 0.23095238095238094
-    },
-    {
-      "title": "Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders",
-      "link": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
-      "published": "Tue, 06 Oct 2026 14:03:23 +0000",
-      "sentiment": -0.15999999999999998
-    },
-    {
-      "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
-      "link": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
-      "published": "Tue, 06 Oct 2026 15:55:46 +0000",
-      "sentiment": -0.17777777777777778
-    },
-    {
-      "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
-      "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-      "published": "Tue, 06 Oct 2026 08:51:52 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "France Student Protests Escalate Amid Fiscal Crisis and an Election",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html",
-      "published": "Tue, 06 Oct 2026 17:37:07 +0000",
-      "sentiment": 0.016666666666666666
-    },
-    {
-      "title": "Protests Spread Across France, Growing From School Demonstrations",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
-      "published": "Tue, 06 Oct 2026 15:32:25 +0000",
-      "sentiment": -0.04666666666666666
-    },
-    {
-      "title": "FIFA Found Congo Player Ineligible but Let Him Play in World Cup",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html",
-      "published": "Tue, 06 Oct 2026 10:54:11 +0000",
-      "sentiment": -0.05
     }
   ]
 }
