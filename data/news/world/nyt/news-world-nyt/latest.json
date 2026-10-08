@@ -1,10 +1,22 @@
 {
   "entries": [
     {
+      "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
+      "published": "Thu, 08 Oct 2026 18:37:58 +0000",
+      "sentiment": -0.8
+    },
+    {
       "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
       "link": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
-      "published": "Thu, 08 Oct 2026 09:00:11 +0000",
+      "published": "Thu, 08 Oct 2026 17:29:08 +0000",
       "sentiment": 0.225
+    },
+    {
+      "title": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
+      "published": "Thu, 08 Oct 2026 18:22:08 +0000",
+      "sentiment": -0.08541666666666664
     },
     {
       "title": "Warrants to Search Former Prince Andrew’s Properties Were Unlawful, Court Says",
@@ -31,16 +43,16 @@
       "sentiment": -0.18920454545454546
     },
     {
-      "title": "Escalating Assaults on Ukrainian Cities Are Producing an Enormous Toll",
+      "title": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
-      "published": "Thu, 08 Oct 2026 14:38:41 +0000",
+      "published": "Thu, 08 Oct 2026 17:05:44 +0000",
       "sentiment": -0.14285714285714285
     },
     {
-      "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+      "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
       "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-      "published": "Thu, 08 Oct 2026 16:29:54 +0000",
-      "sentiment": -0.05
+      "published": "Thu, 08 Oct 2026 18:17:07 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
@@ -73,16 +85,16 @@
       "sentiment": 0.03333333333333333
     },
     {
-      "title": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html",
-      "published": "Thu, 08 Oct 2026 15:07:59 +0000",
-      "sentiment": 0.5
+      "title": "Margaret Papandreou, American-Born First Lady of Greece, Dies at 102",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/margaret-papandreou-dead.html",
+      "published": "Thu, 08 Oct 2026 18:53:52 +0000",
+      "sentiment": 0.08958333333333333
     },
     {
-      "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-      "published": "Thu, 08 Oct 2026 11:42:37 +0000",
-      "sentiment": 0.049999999999999996
+      "title": "A Photo of Mussolini’s Corpse Led Page 1. How It Got There Is a Tale.",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/mussolini-corpse-photo.html",
+      "published": "Thu, 08 Oct 2026 18:53:37 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "Pita Limjaroenrat: The Leader Thailand Could Have Had",
@@ -111,8 +123,20 @@
     {
       "title": "Indian Opposition Leaders Detained as Protests Over Voter Rolls Intensify",
       "link": "https://www.nytimes.com/2026/10/08/world/asia/india-voter-protests-opposition-gandhi.html",
-      "published": "Thu, 08 Oct 2026 16:56:13 +0000",
+      "published": "Thu, 08 Oct 2026 18:35:48 +0000",
       "sentiment": 0.11481481481481481
+    },
+    {
+      "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
+      "published": "Thu, 08 Oct 2026 11:42:37 +0000",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html",
+      "published": "Thu, 08 Oct 2026 15:07:59 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "How India’s Gen Z Protests Inspired Gen Alpha",
@@ -129,7 +153,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students",
-      "published": "Thu, 08 Oct 2026 16:46:23 +0000",
+      "published": "Thu, 08 Oct 2026 17:42:38 +0000",
       "sentiment": 0.25
     },
     {
@@ -153,7 +177,7 @@
     {
       "title": "Russia Plague Scare: What to Know About Fears of an Outbreak",
       "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
-      "published": "Wed, 07 Oct 2026 19:43:20 +0000",
+      "published": "Thu, 08 Oct 2026 18:46:03 +0000",
       "sentiment": 0.042857142857142864
     },
     {
@@ -177,7 +201,7 @@
     {
       "title": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
       "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
-      "published": "Wed, 07 Oct 2026 19:54:57 +0000",
+      "published": "Wed, 07 Oct 2026 19:54:58 +0000",
       "sentiment": 0.0
     },
     {
@@ -305,36 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html",
       "published": "Tue, 06 Oct 2026 17:57:19 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "People of All Ages Join French Student Protests as Movement Broadens",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
-      "published": "Wed, 07 Oct 2026 07:29:41 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Spain Cancels Arrest Warrant for Carles Puigdemont, Catalan Separatist Leader",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/spain-separatist-amnesty-catalonia-return.html",
-      "published": "Tue, 06 Oct 2026 16:03:08 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
-      "published": "Tue, 06 Oct 2026 14:28:21 +0000",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
-      "published": "Tue, 06 Oct 2026 19:15:38 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools/heres-the-latest",
-      "published": "Tue, 06 Oct 2026 17:55:56 +0000",
-      "sentiment": 0.5
     }
   ]
 }
