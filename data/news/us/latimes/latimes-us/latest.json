@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Passenger arrested after breaching gate and stealing vehicle at John Wayne Airport airfield",
+      "link": "https://www.latimes.com/california/story/2026-10-08/passenger-arrested-after-breaching-gate-stealing-vehicle-at-john-wayne-airport-airfield",
+      "published": "Thu, 8 Oct 2026 20:48:33 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "One killed after sheriff's deputy collision sets off chain-reaction crash in Commerce, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/one-killed-after-sheriffs-deputy-collision-sets-off-chain-reaction-crash-in-commerce-officials-say",
+      "published": "Thu, 8 Oct 2026 19:12:22 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "At least 21 suspects arrested in sweeping Skid Row drug crackdown",
       "link": "https://www.latimes.com/california/story/2026-10-08/federal-skid-row-drug-arrests",
       "published": "Thu, 8 Oct 2026 17:29:05 GMT",
@@ -25,18 +37,6 @@
       "sentiment": 0.05555555555555555
     },
     {
-      "title": "From killer-robot protests to tech talks for seniors, S.F. Bay Area residents wrestle with AI",
-      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
-    },
-    {
       "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
       "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
@@ -49,7 +49,19 @@
       "sentiment": 0.05
     },
     {
-      "title": "Manson follower Patricia Krenwinkel, murderer imprisoned half a century, is recommended for parole",
+      "title": "From killer-robot protests to tech talks for seniors, S.F. Bay Area residents wrestle with AI",
+      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
       "link": "https://www.latimes.com/california/story/2026-10-07/manson-follower-patricia-krenwinkel-recommended-for-parole",
       "published": "Wed, 7 Oct 2026 23:57:56 GMT",
       "sentiment": -0.16666666666666666
@@ -539,18 +551,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/fatal-shooting-aboard-culver-citybus-witness-says-suspect-at-large",
       "published": "Fri, 2 Oct 2026 05:05:01 GMT",
       "sentiment": 0.007142857142857131
-    },
-    {
-      "title": "Mystery surrounds case of 2 men who disappeared, then were found in shallow desert graves",
-      "link": "https://www.latimes.com/california/story/2026-10-01/bodies-in-remote-california-desert-site-identified-as-2-missing-men",
-      "published": "Fri, 2 Oct 2026 04:33:50 GMT",
-      "sentiment": -0.12666666666666665
-    },
-    {
-      "title": "Copper theft, flooding and empty beds plague L.A. homeless housing, report finds",
-      "link": "https://www.latimes.com/california/story/2026-10-01/yet-another-report-on-la-homeless-system-adds-new-term-for-disfunction-large-scale-intrusion-event",
-      "published": "Fri, 2 Oct 2026 02:28:48 GMT",
-      "sentiment": -0.022159090909090913
     }
   ]
 }
