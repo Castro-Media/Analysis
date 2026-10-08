@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-647c46ad?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 16:30:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b8444503?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 16:29:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
       "link": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 15:24:00 GMT",
@@ -11,18 +23,6 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-is-back-in-climate-is-out-at-a-marquee-energy-conference-a6bcad5a?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 13:25:00 GMT",
       "sentiment": 0.049999999999999996
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-647c46ad?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 12:13:00 GMT",
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b8444503?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 12:10:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Joe Rogan Re-Ups Lucrative Spotify Deal",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Amazon Introduces New Lineup of Pricier Tablets",
+      "link": "https://www.wsj.com/tech/amazon-introduces-new-lineup-of-pricier-tablets-4d73c7f2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 15:58:00 GMT",
+      "sentiment": 0.13068181818181818
+    },
+    {
       "title": "PepsiCo Trims Outlook as North American Unit Underperforms",
       "link": "https://www.wsj.com/business/retail/pepsico-posts-higher-profit-sales-as-turnaround-continues-aa219b31?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 14:08:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/earnings/levi-strauss-raises-earnings-outlook-boosted-by-tariff-refunds-c8aa32a0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 22:48:00 GMT",
       "sentiment": -0.03125
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-79f724c7?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 16:30:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "7-Eleven Owner Reports Lower Quarterly Profit",
@@ -199,12 +199,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "Stocks Slip and Oil Jumps on Fresh Tanker Attack",
-      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 13:58:00 GMT",
-      "sentiment": 0.15
-    },
-    {
       "title": "Devon Energy Sells Eagle Ford Assets to Crescent Energy for $4.2 Billion",
       "link": "https://www.wsj.com/business/energy-oil/devon-energy-sells-eagle-ford-assets-to-crescent-energy-for-4-2-billion-33e48b1c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 12:59:00 GMT",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-climb-on-lng-shipping-risks-df4625ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 08:05:00 GMT",
       "sentiment": 0.075
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-99c575f4?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 21:06:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Rogue Pilots Are a Growing Safety Threat—and No One Knows How to Stop Them",
@@ -451,16 +451,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-79f724c7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 16:30:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "The Morning Risk Report: Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-21056687?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 11:29:00 GMT",
       "sentiment": 0.24545454545454545
-    },
-    {
-      "title": "Pressure Mounts at Bessent’s Treasury Amid Staff Turnover and Unmet Goals",
-      "link": "https://www.wsj.com/business/pressure-mounts-at-bessents-treasury-amid-staff-turnover-and-unmet-goals-877b5926?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 09:51:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype?",
@@ -475,12 +475,6 @@
       "sentiment": 0.45
     },
     {
-      "title": "These Influencers Are on a Mission to Stop People From Paying Medical Bills",
-      "link": "https://www.wsj.com/health/healthcare/these-influencers-are-on-a-mission-to-stop-people-from-paying-medical-bills-4843da3d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.08
-    },
-    {
       "title": "Rogue Pilots Are a Growing Safety Threat—and No One Knows How to Stop Them",
       "link": "https://www.wsj.com/business/airlines/rogue-pilots-have-become-one-of-the-biggest-threats-to-airline-safety-d4932855?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 01:33:00 GMT",
@@ -491,6 +485,12 @@
       "link": "https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 12:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "These Influencers Are on a Mission to Stop People From Paying Medical Bills",
+      "link": "https://www.wsj.com/health/healthcare/these-influencers-are-on-a-mission-to-stop-people-from-paying-medical-bills-4843da3d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.08
     },
     {
       "title": "Best Small-Business Loans in October 2026",

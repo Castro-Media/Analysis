@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Oil Jumps, Nasdaq Slips on Fresh Tanker Attack",
+      "title": "Stock Market Today: Oil Rises, Nasdaq Slips on Fresh Tanker Attack",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 08:21:45 GMT",
-      "sentiment": -0.13333333333333333
+      "sentiment": -0.19999999999999998
     },
     {
       "title": "Gridlock Is Good for Stocks. Certainty Is Better.",
@@ -103,6 +103,18 @@
       "sentiment": 0.24000000000000005
     },
     {
+      "title": "U.S. Stocks Slip, Oil Rises on Fresh Tanker Attack",
+      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 16:46:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b8444503?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 16:29:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Fed Minutes Show No Urgency for October Hike",
       "link": "https://www.wsj.com/cfo-journal/fed-minutes-show-no-urgency-for-october-hike-66be7bd8?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 10:55:00 GMT",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/economy/central-banking/default-may-be-the-tail-risk-haunting-french-bonds-620b67fc?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Treasury Yields, Eurozone Bond Yields Rise Relentlessly",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-eurozone-bond-yields-rise-relentlessly-b7d3ba07?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 08:42:00 GMT",
-      "sentiment": 0.04999999999999999
-    },
-    {
-      "title": "WSJ Dollar Index Rises 0.26% to 97.40",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 21:56:00 GMT",
-      "sentiment": 0.175
     },
     {
       "title": "European Stocks Should Withstand Bond Volatility",
@@ -211,12 +211,6 @@
       "sentiment": 0.06666666666666667
     },
     {
-      "title": "Stocks Slip and Oil Jumps on Fresh Tanker Attack",
-      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 13:58:00 GMT",
-      "sentiment": 0.15
-    },
-    {
       "title": "Crude Rises on Fears of Middle East Escalation, U.S. Gulf Storm",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-mideast-tensions-3cd98941?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 13:57:00 GMT",
@@ -227,6 +221,12 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-is-back-in-climate-is-out-at-a-marquee-energy-conference-a6bcad5a?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 13:25:00 GMT",
       "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "Oil Majors Cut Production in Gulf of Mexico as Hurricane Isaias Strengthens",
+      "link": "https://www.wsj.com/business/harbour-energy-curbs-gulf-of-mexico-production-ahead-of-storm-isaias-48734408?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 11:04:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why",
@@ -247,16 +247,16 @@
       "sentiment": 0.04
     },
     {
+      "title": "WSJ Dollar Index Rises 0.26% to 97.40",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 21:56:00 GMT",
+      "sentiment": 0.175
+    },
+    {
       "title": "WSJ Dollar Index Falls 0.16% to 97.15",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-data-af9dfb71?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 21:20:00 GMT",
       "sentiment": -0.20277777777777778
-    },
-    {
-      "title": "WSJ Dollar Index Rises 0.05% to 97.31",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-reduced-fed-rate-hike-prospects-e8316bd2?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 21:50:00 GMT",
-      "sentiment": 0.175
     },
     {
       "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
@@ -337,16 +337,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",
+      "link": "https://www.wsj.com/personal-finance/taxes/how-families-can-beat-7-mortgage-rates-and-lower-their-tax-bills-8d947956?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Private Equity Has a Problem. Uncle Sam Says Your Wallet Can Fix It.",
       "link": "https://www.wsj.com/finance/investing/private-equity-has-a-problem-uncle-sam-says-your-wallet-can-fix-it-726a6749?mod=rss_markets_main",
       "published": "Fri, 02 Oct 2026 15:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
-      "link": "https://www.wsj.com/finance/kalshi-prediction-traders-profiles-2130f3b0?mod=rss_markets_main",
-      "published": "Sat, 03 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.09357142857142857
     },
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
