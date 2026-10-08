@@ -85,6 +85,24 @@
       "sentiment": -0.25
     },
     {
+      "title": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html",
+      "published": "Thu, 08 Oct 2026 04:01:04 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html",
+      "published": "Thu, 08 Oct 2026 04:00:11 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "France Braces for a Second Day of Mass Protests in a Week",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html",
+      "published": "Thu, 08 Oct 2026 04:00:05 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "A Plague Mystery in Siberia",
       "link": "https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html",
       "published": "Wed, 07 Oct 2026 20:40:42 +0000",
@@ -111,7 +129,7 @@
     {
       "title": "Trump Administration Delays Threaten Funding for HIV Research",
       "link": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html",
-      "published": "Wed, 07 Oct 2026 16:33:18 +0000",
+      "published": "Wed, 07 Oct 2026 16:33:19 +0000",
       "sentiment": -0.125
     },
     {
@@ -317,24 +335,6 @@
       "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/openais-models-have-also-meddled-with-us-government-websites-after-going-rogue",
       "published": "Tue, 06 Oct 2026 02:31:42 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
-      "link": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
-      "published": "Tue, 06 Oct 2026 11:09:31 +0000",
-      "sentiment": 0.075
-    },
-    {
-      "title": "What to know about recent A.I. hacks.",
-      "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/what-to-know-about-recent-ai-hacks",
-      "published": "Tue, 06 Oct 2026 02:11:30 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "OpenAI Says It Changed Systems After Australia Hacking",
-      "link": "https://www.nytimes.com/2026/10/05/world/australia/australia-openai-hearing-breach.html",
-      "published": "Tue, 06 Oct 2026 08:58:31 +0000",
-      "sentiment": 0.25
     }
   ]
 }
