@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "France Is Veering Toward a Potential Debt Crisis, a Warning to the World",
+      "link": "https://www.nytimes.com/2026/10/08/business/france-bond-yields.html",
+      "published": "Thu, 08 Oct 2026 12:44:55 +0000",
+      "sentiment": 0.03125
+    },
+    {
+      "title": "Canadian Poet Anne Carson Is Awarded Nobel Prize in Literature",
+      "link": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
+      "published": "Thu, 08 Oct 2026 12:56:49 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
       "published": "Thu, 08 Oct 2026 09:01:31 +0000",
@@ -15,13 +27,13 @@
     {
       "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-      "published": "Thu, 08 Oct 2026 08:01:51 +0000",
-      "sentiment": 0.07227272727272727
+      "published": "Thu, 08 Oct 2026 11:42:37 +0000",
+      "sentiment": 0.049999999999999996
     },
     {
       "title": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html",
-      "published": "Thu, 08 Oct 2026 04:01:05 +0000",
+      "published": "Thu, 08 Oct 2026 11:09:46 +0000",
       "sentiment": 0.25
     },
     {
@@ -31,10 +43,10 @@
       "sentiment": 0.03333333333333333
     },
     {
-      "title": "France Braces for a Second Day of Mass Protests in a Week",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html",
-      "published": "Thu, 08 Oct 2026 08:56:39 +0000",
-      "sentiment": 0.0
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students",
+      "published": "Thu, 08 Oct 2026 12:29:35 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/06/us/massachusetts-man-guilty-plutonium-russia.html",
       "published": "Tue, 06 Oct 2026 20:58:30 +0000",
       "sentiment": -0.3
-    },
-    {
-      "title": "UK Security Adviser Jonathan Powell Traveled to Israel Ahead of Consulate Closure",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/uk-security-adviser-traveled-to-israel-ahead-of-consulate-closure.html",
-      "published": "Wed, 07 Oct 2026 19:45:20 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "People of All Ages Join French Student Protests as Movement Broadens",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html",
-      "published": "Wed, 07 Oct 2026 07:29:41 +0000",
-      "sentiment": 0.25
     }
   ]
 }

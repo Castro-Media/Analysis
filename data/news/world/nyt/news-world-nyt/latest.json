@@ -7,10 +7,40 @@
       "sentiment": 0.225
     },
     {
+      "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
+      "published": "Thu, 08 Oct 2026 12:55:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "China Expands Its Military Reach by Building a Base in Laos",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+      "published": "Thu, 08 Oct 2026 12:44:19 +0000",
+      "sentiment": -0.18920454545454546
+    },
+    {
+      "title": "Live Updates: Students Rally in France for Second Day of Mass Protests in a Week",
+      "link": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools",
+      "published": "Thu, 08 Oct 2026 13:00:38 +0000",
+      "sentiment": 0.05177272727272728
+    },
+    {
+      "title": "Blasts Rattle Riyadh as Saudi Arabia Hit by Deadliest Houthi Attacks So Far",
+      "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+      "published": "Thu, 08 Oct 2026 13:02:14 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
       "published": "Thu, 08 Oct 2026 09:01:31 +0000",
       "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
+      "link": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html",
+      "published": "Thu, 08 Oct 2026 09:53:16 +0000",
+      "sentiment": -0.04
     },
     {
       "title": "Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
@@ -33,20 +63,14 @@
     {
       "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-      "published": "Thu, 08 Oct 2026 08:01:51 +0000",
-      "sentiment": 0.07227272727272727
+      "published": "Thu, 08 Oct 2026 11:42:37 +0000",
+      "sentiment": 0.049999999999999996
     },
     {
       "title": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html",
-      "published": "Thu, 08 Oct 2026 04:01:05 +0000",
+      "published": "Thu, 08 Oct 2026 11:09:46 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "France Braces for a Second Day of Mass Protests in a Week",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html",
-      "published": "Thu, 08 Oct 2026 08:56:39 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
@@ -59,48 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html",
       "published": "Wed, 07 Oct 2026 19:31:49 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
-      "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
-      "published": "Thu, 08 Oct 2026 02:00:19 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
-      "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html",
-      "published": "Wed, 07 Oct 2026 19:57:21 +0000",
-      "sentiment": -0.06499999999999999
-    },
-    {
-      "title": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
-      "published": "Wed, 07 Oct 2026 19:54:57 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
-      "published": "Wed, 07 Oct 2026 20:12:27 +0000",
-      "sentiment": 0.02
-    },
-    {
-      "title": "China Expands Its Military Reach by Building a Base in Laos",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
-      "published": "Thu, 08 Oct 2026 10:20:16 +0000",
-      "sentiment": -0.18920454545454546
-    },
-    {
-      "title": "Blasts Rattle Riyadh as Saudi Arabia Hit By Deadliest Houthi Attacks So Far",
-      "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-      "published": "Thu, 08 Oct 2026 10:48:02 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
-      "link": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html",
-      "published": "Thu, 08 Oct 2026 09:53:16 +0000",
-      "sentiment": -0.04
     },
     {
       "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
@@ -119,6 +101,12 @@
       "link": "https://www.nytimes.com/video/world/asia/100000011164923/india-school-protests-gen-alpha.html",
       "published": "Thu, 08 Oct 2026 07:00:34 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools/france-protests-unrest-students",
+      "published": "Thu, 08 Oct 2026 12:29:35 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "A Plague Mystery in Siberia",
@@ -145,10 +133,22 @@
       "sentiment": 0.25
     },
     {
+      "title": "Canada Halts Plan to Allow Medically Assisted Death for the Mentally Ill",
+      "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-medically-assisted-death-mental-illness.html",
+      "published": "Wed, 07 Oct 2026 19:57:21 +0000",
+      "sentiment": -0.06499999999999999
+    },
+    {
       "title": "Trump Administration Delays Threaten Funding for HIV Research",
       "link": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html",
       "published": "Wed, 07 Oct 2026 16:33:19 +0000",
       "sentiment": -0.125
+    },
+    {
+      "title": "Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html",
+      "published": "Wed, 07 Oct 2026 19:54:57 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Case of U.S. Marine Accused of Murder in Japan Draws Outcry",
@@ -181,6 +181,12 @@
       "sentiment": -0.25
     },
     {
+      "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
+      "published": "Wed, 07 Oct 2026 20:12:27 +0000",
+      "sentiment": 0.02
+    },
+    {
       "title": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil",
       "link": "https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html",
       "published": "Wed, 07 Oct 2026 09:02:02 +0000",
@@ -209,6 +215,12 @@
       "link": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
       "published": "Wed, 07 Oct 2026 21:44:31 +0000",
       "sentiment": 0.11818181818181818
+    },
+    {
+      "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
+      "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
+      "published": "Thu, 08 Oct 2026 02:00:19 +0000",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence",
@@ -323,12 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
       "published": "Tue, 06 Oct 2026 17:00:15 +0000",
       "sentiment": -0.0062500000000000056
-    },
-    {
-      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
-      "link": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
-      "published": "Tue, 06 Oct 2026 15:01:15 +0000",
-      "sentiment": 0.0
     }
   ]
 }

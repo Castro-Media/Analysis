@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Oil Rises on Fresh Tanker Attack, Pushing Yields Higher",
+      "title": "Stock Market Today: Oil Jumps, Dow Futures Slide on Fresh Tanker Attack",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 08:21:45 GMT",
-      "sentiment": -0.03749999999999998
+      "sentiment": -0.09999999999999998
+    },
+    {
+      "title": "Gridlock Is Good for Stocks. Certainty Is Better.",
+      "link": "https://www.wsj.com/finance/investing/gridlock-is-good-for-stocks-certainty-is-better-d4d2bb1a?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 10:56:00 GMT",
+      "sentiment": 0.39999999999999997
     },
     {
       "title": "Choosing the Right Bond Strategy for Today’s High-Yield World",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/auction-action-calms-treasurys-1a49b93c?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 20:50:00 GMT",
       "sentiment": -0.3
-    },
-    {
-      "title": "Five Things to Know About Tokenized Stocks",
-      "link": "https://www.wsj.com/finance/stocks/tokenized-stocks-equities-explained-1cc02741?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 18:53:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "How to Handle Red-Hot Copper Prices With Care",
@@ -133,16 +133,16 @@
       "sentiment": 0.175
     },
     {
+      "title": "Stock Futures Fall on Higher Oil Prices, AI Pullback",
+      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 12:35:00 GMT",
+      "sentiment": 0.16875
+    },
+    {
       "title": "European Stocks Should Withstand Bond Volatility",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-machinery-makers-trading-houses-934df698?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 09:32:00 GMT",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Global Stocks Fall on Higher Oil Prices, AI Pullback",
-      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 09:15:00 GMT",
-      "sentiment": 0.2875
     },
     {
       "title": "U.S. Stocks Fall as Treasury Yields Test Multidecade Highs",
@@ -151,16 +151,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Five Things to Know About Tokenized Stocks",
+      "link": "https://www.wsj.com/finance/stocks/tokenized-stocks-equities-explained-1cc02741?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 18:53:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "U.S. Stocks Slip as Treasurys Retreat From Recent Highs",
       "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 18:18:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "U.S. Investors Have an ‘Exorbitant Privilege’",
-      "link": "https://www.wsj.com/finance/investing/u-s-investors-have-an-exorbitant-privilege-16201ed3?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 10:27:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -199,6 +199,12 @@
       "sentiment": 0.14285714285714285
     },
     {
+      "title": "Oil Majors Cut Production in Gulf of Mexico as Hurricane Isaias Strengthens",
+      "link": "https://www.wsj.com/business/harbour-energy-curbs-gulf-of-mexico-production-ahead-of-storm-isaias-48734408?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 11:04:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Dollar Trades Higher",
       "link": "https://www.wsj.com/finance/commodities-futures/dollar-stays-elevated-as-treasury-yields-oil-prices-rise-274a97c5?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 10:49:00 GMT",
@@ -223,10 +229,10 @@
       "sentiment": -0.12499999999999999
     },
     {
-      "title": "U.S. Natural Gas Futures Gain Ahead of Storage Data",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-extends-gains-with-eyes-on-storm-a8a32ad9?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 19:35:00 GMT",
-      "sentiment": 0.2416666666666667
+      "title": "Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why",
+      "link": "https://www.wsj.com/finance/currencies/q-a-bitcoin-funds-are-expanding-hanetfs-co-ceo-explains-why-3edb2398?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 11:30:00 GMT",
+      "sentiment": -0.1375
     },
     {
       "title": "Singapore Dollar Consolidates; Higher Oil Prices May Weigh",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/euro-falls-to-16-month-low-vs-dollar-weighed-by-french-concerns-d11c9534?mod=rss_markets_main",
       "published": "Mon, 05 Oct 2026 20:39:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "DXY Dollar Index Falls to Intraday Low of 101.714 After Weak U.S. Jobs Data",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-higher-oil-prices-d339a0e9?mod=rss_markets_main",
-      "published": "Fri, 02 Oct 2026 13:15:00 GMT",
-      "sentiment": -0.1875
     },
     {
       "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force",
@@ -295,6 +295,12 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "U.S. Investors Have an ‘Exorbitant Privilege’",
+      "link": "https://www.wsj.com/finance/investing/u-s-investors-have-an-exorbitant-privilege-16201ed3?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 10:27:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund",
       "link": "https://www.wsj.com/finance/venture-firm-behind-chip-startup-groq-targets-10-billion-megafund-030ce4a0?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 09:00:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/whatever-happens-to-bonds-stocks-win-d1c95f6f?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 20:42:00 GMT",
       "sentiment": 0.03333333333333336
-    },
-    {
-      "title": "Wall Street Bonuses Are Expected to Hit Another High This Year",
-      "link": "https://www.wsj.com/finance/wall-street-bonuses-are-expected-to-hit-another-high-this-year-d7dd453f?mod=rss_markets_main",
-      "published": "Tue, 06 Oct 2026 14:07:00 GMT",
-      "sentiment": 0.11159090909090909
     },
     {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
