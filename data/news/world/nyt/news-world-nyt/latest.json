@@ -1,16 +1,22 @@
 {
   "entries": [
     {
-      "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
-      "published": "Thu, 08 Oct 2026 18:37:58 +0000",
-      "sentiment": -0.8
+      "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
+      "published": "Thu, 08 Oct 2026 19:31:01 +0000",
+      "sentiment": 0.09999999999999999
     },
     {
       "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
       "link": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
-      "published": "Thu, 08 Oct 2026 17:29:08 +0000",
+      "published": "Thu, 08 Oct 2026 20:46:38 +0000",
       "sentiment": 0.225
+    },
+    {
+      "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
+      "published": "Thu, 08 Oct 2026 18:37:58 +0000",
+      "sentiment": -0.8
     },
     {
       "title": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
@@ -31,12 +37,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "The Wave of Student Protests Roiling France",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html",
-      "published": "Thu, 08 Oct 2026 16:04:42 +0000",
-      "sentiment": -0.2333333333333333
-    },
-    {
       "title": "China Expands Its Military Reach by Building a Base in Laos",
       "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
       "published": "Thu, 08 Oct 2026 12:44:19 +0000",
@@ -47,6 +47,12 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
       "published": "Thu, 08 Oct 2026 17:05:44 +0000",
       "sentiment": -0.14285714285714285
+    },
+    {
+      "title": "Margaret Papandreou, American-Born First Lady of Greece, Dies at 102",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/margaret-papandreou-dead.html",
+      "published": "Thu, 08 Oct 2026 18:53:52 +0000",
+      "sentiment": 0.08958333333333333
     },
     {
       "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
@@ -79,16 +85,22 @@
       "sentiment": -0.025
     },
     {
-      "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html",
-      "published": "Thu, 08 Oct 2026 14:45:58 +0000",
-      "sentiment": 0.03333333333333333
+      "title": "The Man City Scandal Is About More Than Football",
+      "link": "https://www.nytimes.com/2026/10/08/world/man-city-football-riyadh-houthis.html",
+      "published": "Thu, 08 Oct 2026 20:52:23 +0000",
+      "sentiment": 0.25
     },
     {
-      "title": "Margaret Papandreou, American-Born First Lady of Greece, Dies at 102",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/margaret-papandreou-dead.html",
-      "published": "Thu, 08 Oct 2026 18:53:52 +0000",
-      "sentiment": 0.08958333333333333
+      "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html",
+      "published": "Thu, 08 Oct 2026 20:27:18 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Cecily Gemmell, Winston Churchill’s Last Surviving Secretary, Has Died",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/cecily-gemmell-dead.html",
+      "published": "Thu, 08 Oct 2026 20:11:10 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "A Photo of Mussolini’s Corpse Led Page 1. How It Got There Is a Tale.",
@@ -113,6 +125,12 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html",
       "published": "Thu, 08 Oct 2026 16:28:17 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "The Wave of Student Protests Roiling France",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html",
+      "published": "Thu, 08 Oct 2026 20:11:59 +0000",
+      "sentiment": -0.2333333333333333
     },
     {
       "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
@@ -149,6 +167,12 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html",
       "published": "Thu, 08 Oct 2026 11:09:46 +0000",
       "sentiment": 0.25
+    },
+    {
+      "title": "For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html",
+      "published": "Thu, 08 Oct 2026 14:45:58 +0000",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "Here’s the latest.",
@@ -273,7 +297,7 @@
     {
       "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
       "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
-      "published": "Thu, 08 Oct 2026 02:00:19 +0000",
+      "published": "Thu, 08 Oct 2026 02:00:20 +0000",
       "sentiment": 0.13636363636363635
     },
     {
@@ -323,12 +347,6 @@
       "link": "https://www.nytimes.com/2026/10/06/world/africa/russia-africa-propaganda-sahel-tafouk.html",
       "published": "Tue, 06 Oct 2026 18:32:31 +0000",
       "sentiment": -0.003838383838383841
-    },
-    {
-      "title": "Trump-Appointed Judge Accuses ICE of Lying and Fabricating Records",
-      "link": "https://www.nytimes.com/2026/10/06/nyregion/ice-judge-condemns-arrests-falsified-records.html",
-      "published": "Tue, 06 Oct 2026 17:57:19 +0000",
-      "sentiment": 0.0
     }
   ]
 }

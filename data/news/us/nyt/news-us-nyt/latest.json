@@ -1,9 +1,33 @@
 {
   "entries": [
     {
-      "title": "Trump Administration Asks Supreme Court to Weigh In, Again, in TV Ad Fight",
+      "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
+      "link": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html",
+      "published": "Thu, 08 Oct 2026 20:49:51 +0000",
+      "sentiment": -0.015909090909090914
+    },
+    {
+      "title": "How to Watch the Midterm Senate Race Debates in Georgia, Michigan and Maine",
+      "link": "https://www.nytimes.com/2026/10/08/us/midterm-senate-race-debates-how-to-watch.html",
+      "published": "Thu, 08 Oct 2026 20:36:16 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "5-Year-Old Dies After Digital Whiteboard Falls in School Classroom",
+      "link": "https://www.nytimes.com/2026/10/08/us/florida-boy-display-board-death.html",
+      "published": "Thu, 08 Oct 2026 19:45:16 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Trump Administration Considers Using Ships to Deport Immigrants",
+      "link": "https://www.nytimes.com/2026/10/08/us/trump-deportations-boats-ships.html",
+      "published": "Thu, 08 Oct 2026 19:22:55 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight",
       "link": "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html",
-      "published": "Thu, 08 Oct 2026 17:19:14 +0000",
+      "published": "Thu, 08 Oct 2026 20:18:59 +0000",
       "sentiment": 0.16666666666666666
     },
     {
@@ -15,14 +39,14 @@
     {
       "title": "The Seashells Case Against Comey at a Crossroads",
       "link": "https://www.nytimes.com/2026/10/08/us/politics/the-docket-comey-free-speech.html",
-      "published": "Thu, 08 Oct 2026 16:02:40 +0000",
+      "published": "Thu, 08 Oct 2026 20:24:49 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
       "link": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
-      "published": "Thu, 08 Oct 2026 16:38:52 +0000",
-      "sentiment": -0.13125
+      "published": "Thu, 08 Oct 2026 20:51:38 +0000",
+      "sentiment": -0.17500000000000002
     },
     {
       "title": "In Maine Senate Race, Spiking Heating Oil Costs Put Susan Collins on Defensive",
@@ -49,10 +73,10 @@
       "sentiment": 0.16775922490208206
     },
     {
-      "title": "Long-Deployed Aircraft Carrier U.S.S. Abraham Lincoln Set for Homecoming",
+      "title": "U.S.S. Abraham Lincoln Returns Home After Long and Grueling Deployment",
       "link": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html",
-      "published": "Thu, 08 Oct 2026 09:03:43 +0000",
-      "sentiment": 0.06666666666666667
+      "published": "Thu, 08 Oct 2026 19:54:19 +0000",
+      "sentiment": 0.0375
     },
     {
       "title": "Embrace or Ban Greek Life? Cornell Case Renews an Old Debate on Campuses",
@@ -81,7 +105,7 @@
     {
       "title": "At Texas Rally, Trump and Paxton Make for an Awkward Pair",
       "link": "https://www.nytimes.com/2026/10/07/us/elections/in-texas-trump-and-paxton-make-for-an-awkward-pair.html",
-      "published": "Thu, 08 Oct 2026 14:48:12 +0000",
+      "published": "Thu, 08 Oct 2026 19:36:52 +0000",
       "sentiment": 0.05
     },
     {
@@ -105,7 +129,7 @@
     {
       "title": "RFK Jr. Plans Vaccine Injury Initiative, Drawing Wary Eye From Experts",
       "link": "https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html",
-      "published": "Thu, 08 Oct 2026 01:40:49 +0000",
+      "published": "Thu, 08 Oct 2026 01:40:50 +0000",
       "sentiment": 0.26666666666666666
     },
     {
@@ -143,18 +167,6 @@
       "link": "https://www.nytimes.com/2026/10/07/us/christa-pike-tennessee-legal.html",
       "published": "Thu, 08 Oct 2026 00:09:35 +0000",
       "sentiment": -0.1285714285714286
-    },
-    {
-      "title": "Christa Pike is awake, angry and ‘confused about everything,’ her lawyers say.",
-      "link": "https://www.nytimes.com/live/2026/10/07/us/christa-pike-tennessee-execution/christa-pike-condition",
-      "published": "Wed, 07 Oct 2026 20:55:47 +0000",
-      "sentiment": -0.22499999999999998
-    },
-    {
-      "title": "Fatal Stabbing of a 7-Year-Old Girl Rattles Chicago: ‘That Was a Baby’",
-      "link": "https://www.nytimes.com/2026/10/07/us/chicago-stabbing-girl.html",
-      "published": "Thu, 08 Oct 2026 12:10:07 +0000",
-      "sentiment": -0.5
     }
   ]
 }
