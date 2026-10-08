@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Mold, larvae and dehydration: New report paints grim picture inside Adelanto ICE facility",
+      "link": "https://www.latimes.com/california/story/2026-10-08/adelanto-ice-processing-center-conditions-remain-poor-despite-court-ordered-reforms-report-says",
+      "published": "Thu, 8 Oct 2026 22:36:04 GMT",
+      "sentiment": -0.4318181818181818
+    },
+    {
+      "title": "USS Abraham Lincoln returns to San Diego after 321 days, controversy over on-board conditions",
+      "link": "https://www.latimes.com/california/story/2026-10-08/uss-abraham-returns-san-diego-ending-record-breaking-iran-war-deployment",
+      "published": "Thu, 8 Oct 2026 22:28:52 GMT",
+      "sentiment": -0.26666666666666666
+    },
+    {
       "title": "Passenger arrested after breaching gate and stealing vehicle at John Wayne Airport airfield",
       "link": "https://www.latimes.com/california/story/2026-10-08/passenger-arrested-after-breaching-gate-stealing-vehicle-at-john-wayne-airport-airfield",
       "published": "Thu, 8 Oct 2026 20:48:33 GMT",
@@ -13,10 +25,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "At least 21 suspects arrested in sweeping Skid Row drug crackdown",
+      "title": "'No longer open for business': Law enforcement crackdown targets Skid Row drug suspects",
       "link": "https://www.latimes.com/california/story/2026-10-08/federal-skid-row-drug-arrests",
       "published": "Thu, 8 Oct 2026 17:29:05 GMT",
-      "sentiment": -0.3
+      "sentiment": 0.25
     },
     {
       "title": "Fresno contractor who appeared on HGTV dies while hiking in Sequoia National Park",
@@ -31,22 +43,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "Hurricane Rachel, Kelvin wave combine to bring rain, winds, coastal dangers to Southern California",
+      "title": "Tropical Storm Rachel, Kelvin wave combine to bring rain, winds, coastal dangers to Southern California",
       "link": "https://www.latimes.com/california/story/2026-10-08/hurricane-rachel-kelvin-wave-combine-for-coastal-dangers-what-to-know",
       "published": "Thu, 8 Oct 2026 13:00:00 GMT",
       "sentiment": 0.05555555555555555
-    },
-    {
-      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
-      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
-      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "From killer-robot protests to tech talks for seniors, S.F. Bay Area residents wrestle with AI",
@@ -59,6 +59,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
+      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
@@ -91,16 +103,16 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Californians are paying some of the highest water bills in the country",
-      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
       "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.12727272727272726
+    },
+    {
+      "title": "Californians are paying some of the highest water bills in the country",
+      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
@@ -229,16 +241,16 @@
       "sentiment": 0.05712121212121212
     },
     {
-      "title": "'Things got out of control': Video of alleged beating by Santa Ana police spurs investigation",
-      "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
       "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "'Things got out of control': Video of alleged beating by Santa Ana police spurs investigation",
+      "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Trump suggests letting Iran 'take out' Los Angeles and San Diego at campaign rally",
@@ -343,16 +355,16 @@
       "sentiment": 0.23727272727272725
     },
     {
-      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1416666666666667
-    },
-    {
       "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
       "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1416666666666667
     },
     {
       "title": "Statue of storied Sacramento stallion swiped",
@@ -415,28 +427,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Should California hotels be sued for using fragrances in their lobbies?",
-      "link": "https://www.latimes.com/travel/story/2026-10-03/california-hotels-synthetic-fragrances-lawsuits",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "Victims of Catalina medical helicopter crash identified",
       "link": "https://www.latimes.com/california/story/2026-10-03/victims-of-catalina-medical-helicopter-crash-identified",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
-      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
-      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0009259259259259273
     },
     {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
@@ -449,6 +443,24 @@
       "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Should California hotels be sued for using fragrances in their lobbies?",
+      "link": "https://www.latimes.com/travel/story/2026-10-03/california-hotels-synthetic-fragrances-lawsuits",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
+      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0009259259259259273
+    },
+    {
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.075
     },
     {
       "title": "Man suspected in fatal shooting of Culver CityBus driver arrested",
@@ -517,6 +529,18 @@
       "sentiment": 0.25
     },
     {
+      "title": "Justice Department accuses UCLA law school of illegally using race in admissions",
+      "link": "https://www.latimes.com/california/story/2026-10-02/ucla-law-school-doj-race-admissions-finding",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.008333333333333331
+    },
+    {
+      "title": "California's economic growth expected to continue, but slowly and with few jobs gains",
+      "link": "https://www.latimes.com/business/story/2026-10-02/californias-economic-growth-expected-to-continue-slowly-with-few-jobs",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1142857142857143
+    },
+    {
       "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
       "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
@@ -527,30 +551,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": -0.046875
-    },
-    {
-      "title": "California's economic growth expected to continue, but slowly and with few jobs gains",
-      "link": "https://www.latimes.com/business/story/2026-10-02/californias-economic-growth-expected-to-continue-slowly-with-few-jobs",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1142857142857143
-    },
-    {
-      "title": "Justice Department accuses UCLA law school of illegally using race in admissions",
-      "link": "https://www.latimes.com/california/story/2026-10-02/ucla-law-school-doj-race-admissions-finding",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.008333333333333331
-    },
-    {
-      "title": "California moves to limit utility profits and tap more power from homes",
-      "link": "https://www.latimes.com/environment/story/2026-10-02/newsom-signs-laws-to-curb-utility-profits-boosting-home-power",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3416666666666667
-    },
-    {
-      "title": "Fatal shooting aboard Culver CityBus, witness says; suspect at large",
-      "link": "https://www.latimes.com/california/story/2026-10-01/fatal-shooting-aboard-culver-citybus-witness-says-suspect-at-large",
-      "published": "Fri, 2 Oct 2026 05:05:01 GMT",
-      "sentiment": 0.007142857142857131
     }
   ]
 }

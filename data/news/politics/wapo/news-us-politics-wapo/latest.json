@@ -1,10 +1,40 @@
 {
   "entries": [
     {
+      "title": "Hispanic staffers make up only 9 percent of House workforce, report finds",
+      "link": "https://www.washingtonpost.com/politics/2026/10/08/hispanic-staffers-make-up-only-9-percent-house-workforce-report-finds/",
+      "published": "Thu, 08 Oct 2026 22:00:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump bought over $1 million in SpaceX debt days before unveiling space policy",
+      "link": "https://www.washingtonpost.com/politics/2026/10/08/trump-invested-spacex-shortly-before-issuing-new-space-policy/",
+      "published": "Thu, 08 Oct 2026 21:53:23 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "DOJ grand jury investigating former White House aide Cassidy Hutchinson",
+      "link": "https://www.washingtonpost.com/national-security/2026/10/08/doj-grand-jury-investigating-former-white-house-aide-cassidy-hutchinson/",
+      "published": "Thu, 08 Oct 2026 21:41:49 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Fort Hood shooter’s execution will be live-streamed, Defense Dept. says",
+      "link": "https://www.washingtonpost.com/politics/2026/10/08/hegseth-wants-fort-hood-shooters-execution-by-firing-squad-be-public/",
+      "published": "Thu, 08 Oct 2026 21:36:12 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "A candidate says he slammed his wife against a door. She says he’s not an abuser.",
       "link": "https://www.washingtonpost.com/politics/2026/10/08/wife-colorado-gop-candidate-victor-marx-defends-him-after-abuse-accusations/",
-      "published": "Thu, 08 Oct 2026 20:44:27 +0000",
+      "published": "Thu, 08 Oct 2026 21:31:35 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Speaker Johnson says he doesn’t know what’s next for him if GOP loses House",
+      "link": "https://www.washingtonpost.com/politics/2026/10/08/speaker-johnson-says-he-doesnt-know-whats-next-him-if-gop-loses-house/",
+      "published": "Thu, 08 Oct 2026 21:15:03 +0000",
+      "sentiment": -0.15
     },
     {
       "title": "Layoffs at ‘extremely low levels’ despite Americans’ gloom about the economy",
@@ -229,16 +259,16 @@
       "sentiment": -0.3888888888888889
     },
     {
-      "title": "Half a billion dollars in GOP spending does little to move polls",
-      "link": "https://www.washingtonpost.com/politics/2026/10/07/half-billion-dollars-gop-spending-does-little-move-polls/",
-      "published": "Wed, 07 Oct 2026 09:00:00 +0000",
-      "sentiment": -0.11805555555555554
-    },
-    {
       "title": "Trump wants to turn his West Palm Beach golf club into the new Camp David",
       "link": "https://www.washingtonpost.com/politics/2026/10/07/trump-wants-new-camp-david-his-own-golf-club/",
       "published": "Wed, 07 Oct 2026 09:00:00 +0000",
       "sentiment": 0.11212121212121212
+    },
+    {
+      "title": "Half a billion dollars in GOP spending does little to move polls",
+      "link": "https://www.washingtonpost.com/politics/2026/10/07/half-billion-dollars-gop-spending-does-little-move-polls/",
+      "published": "Wed, 07 Oct 2026 09:00:00 +0000",
+      "sentiment": -0.11805555555555554
     },
     {
       "title": "Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson",
@@ -251,18 +281,6 @@
       "link": "https://www.washingtonpost.com/politics/2026/10/06/wash-state-teen-asks-supreme-court-bar-trans-athletes-competing/",
       "published": "Tue, 06 Oct 2026 23:18:28 +0000",
       "sentiment": 0.16
-    },
-    {
-      "title": "Ex-CIA official pleads guilty to $195 million fraud involving gold bars",
-      "link": "https://www.washingtonpost.com/national-security/2026/10/06/ex-cia-official-expected-plead-guilty-40-million-gold-bar-case/",
-      "published": "Tue, 06 Oct 2026 21:47:29 +0000",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Three Senate races shift toward Democrats in Cook ratings",
-      "link": "https://www.washingtonpost.com/politics/2026/10/06/three-senate-races-shift-toward-democrats-cook-ratings/",
-      "published": "Tue, 06 Oct 2026 21:17:17 +0000",
-      "sentiment": 0.5
     }
   ]
 }
