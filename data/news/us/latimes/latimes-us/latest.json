@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "At the epicenter of AI, San Francisco Bay residents take on the technology",
+      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "ICE detainees were sprayed with a cleaner during COVID crisis. Now they have a settlement",
+      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08888888888888889
+    },
+    {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned half a century, is recommended for parole",
       "link": "https://www.latimes.com/california/story/2026-10-07/manson-follower-patricia-krenwinkel-recommended-for-parole",
       "published": "Wed, 7 Oct 2026 23:57:56 GMT",
@@ -31,6 +55,12 @@
       "sentiment": 0.10833333333333334
     },
     {
+      "title": "Californians are paying some of the highest water bills in the country",
+      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
       "link": "https://www.latimes.com/california/story/2026-10-07/mother-arrested-14-year-old-allegedly-impregnated-by-her-father",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
@@ -41,12 +71,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.12727272727272726
-    },
-    {
-      "title": "Californians are paying some of the highest water bills in the country",
-      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Santa Monica man who was charged with kidnapping UCLA student, raping another woman is found dead",
@@ -355,12 +379,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
-      "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Should California hotels be sued for using fragrances in their lobbies?",
       "link": "https://www.latimes.com/travel/story/2026-10-03/california-hotels-synthetic-fragrances-lawsuits",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
@@ -373,22 +391,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
       "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
       "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0009259259259259273
     },
     {
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.075
+    },
+    {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
       "link": "https://www.latimes.com/california/story/2026-10-03/steve-hilton-latino-outreach-king-taco",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.5
+    },
+    {
+      "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
+      "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Man suspected in fatal shooting of Culver CityBus driver arrested",
@@ -463,6 +487,12 @@
       "sentiment": -0.1142857142857143
     },
     {
+      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
+      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.27777777777777773
+    },
+    {
       "title": "Pasadena's white peacock Sugar, beaten by mail carrier, is relocated to private California ranch",
       "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
@@ -473,12 +503,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-02/ucla-law-school-doj-race-admissions-finding",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333331
-    },
-    {
-      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
-      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.27777777777777773
     },
     {
       "title": "California moves to limit utility profits and tap more power from homes",
@@ -527,42 +551,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/la-mother-charged-with-murder-in-death-of-infant-found-in-dumpster",
       "published": "Thu, 1 Oct 2026 23:45:22 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Tragic accident or murder? Jury to decide fate of L.A. nurse in high-speed wreck that left six dead",
-      "link": "https://www.latimes.com/california/story/2026-10-01/nicole-linton-high-speed-south-la-wreck-trial-closing",
-      "published": "Thu, 1 Oct 2026 23:39:47 GMT",
-      "sentiment": -0.15833333333333333
-    },
-    {
-      "title": "Newsom vetoes bills to block federal immigration agents from state employment",
-      "link": "https://www.latimes.com/california/story/2026-10-01/newsom-vetoes-bills-to-block-federal-immigration-agents-from-state-employment",
-      "published": "Thu, 1 Oct 2026 22:39:33 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Woman accused of intentionally killing puppy on Santa Ana street is arrested",
-      "link": "https://www.latimes.com/california/story/2026-10-01/socal-woman-allegedly-caught-on-video-running-over-puppy-is-arrested",
-      "published": "Thu, 1 Oct 2026 22:21:21 GMT",
-      "sentiment": -0.5
-    },
-    {
-      "title": "UC asks judge to dismiss DOJ antisemitism suit, calling it 'political coercion'",
-      "link": "https://www.latimes.com/california/story/2026-10-01/uc-asks-judge-dismiss-doj-ucla-antisemitism-lawsuit",
-      "published": "Thu, 1 Oct 2026 22:20:19 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trial begins for 'Scrubs' executive producer facing more than 20 sex assault charges",
-      "link": "https://www.latimes.com/california/story/2026-10-01/eric-weinberg-scrubs-executive-producer-sexual-assault-trial",
-      "published": "Thu, 1 Oct 2026 21:56:32 GMT",
-      "sentiment": 0.44000000000000006
-    },
-    {
-      "title": "988 crisis line restores LGBTQ+ youth specialized support",
-      "link": "https://www.latimes.com/science/story/2026-10-01/988-crisis-line-restores-lgbtq-youth-specialized-support",
-      "published": "Thu, 1 Oct 2026 21:41:26 GMT",
-      "sentiment": 0.0
     }
   ]
 }
