@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
+      "link": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "SpaceX Makes Big Play to Become a Wireless Carrier",
       "link": "https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 21:37:00 GMT",
+      "published": "Fri, 09 Oct 2026 00:45:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -31,15 +37,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-647c46ad?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 16:30:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions",
       "link": "https://www.wsj.com/tech/nvidia-backed-firmus-scraps-australian-ipo-citing-market-conditions-4793fe60?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 22:44:00 GMT",
+      "published": "Thu, 08 Oct 2026 22:57:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,10 +67,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Aritzia Lifts Guidance as U.S. Sales Support Higher Profit, Revenue",
+      "title": "Aritzia Raises Sales Outlook as U.S. Growth Accelerates",
       "link": "https://www.wsj.com/business/retail/aritzia-lifts-guidance-as-u-s-sales-support-higher-profit-revenue-202583d7?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 20:54:00 GMT",
-      "sentiment": 0.125
+      "published": "Thu, 08 Oct 2026 23:04:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Beyond Hopes New Meat-Free Brands Will Power a Turnaround",
@@ -433,6 +433,12 @@
       "sentiment": -0.14375
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-647c46ad?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 16:30:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
       "link": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 15:24:00 GMT",
@@ -457,18 +463,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-79f724c7?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 16:30:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype?",
-      "link": "https://www.wsj.com/business/autos/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-fae975c0?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 13:43:00 GMT",
-      "sentiment": 0.04924242424242423
-    },
-    {
       "title": "Joe Rogan Re-Ups Lucrative Spotify Deal",
       "link": "https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 12:00:00 GMT",
@@ -481,16 +475,22 @@
       "sentiment": -0.1
     },
     {
+      "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype?",
+      "link": "https://www.wsj.com/business/autos/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-fae975c0?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 07 Oct 2026 13:43:00 GMT",
+      "sentiment": 0.04924242424242423
+    },
+    {
       "title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked Hundreds More.",
       "link": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 14:32:00 GMT",
       "sentiment": 0.45
     },
     {
-      "title": "These Influencers Are on a Mission to Stop People From Paying Medical Bills",
-      "link": "https://www.wsj.com/health/healthcare/these-influencers-are-on-a-mission-to-stop-people-from-paying-medical-bills-4843da3d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.08
+      "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
+      "link": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 15:24:00 GMT",
+      "sentiment": -0.06666666666666664
     },
     {
       "title": "Best Small-Business Loans in October 2026",
