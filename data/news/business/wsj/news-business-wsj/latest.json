@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Brands Say They’re Pouring Tariff Refunds Into Marketing",
+      "link": "https://www.wsj.com/cmo-today/brands-say-theyre-pouring-tariff-refunds-into-marketing-fc7b8c32?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 17:56:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Masked Thieves in Italy Make Off With $5.6 Million of High-End Wine",
+      "link": "https://www.wsj.com/world/europe/masked-thieves-in-italy-make-off-with-5-6-million-of-high-end-wine-f18134d5?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 17:15:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d3493e8c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 16:28:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/airlines/deltas-ceo-on-skipping-starlink-premium-travel-rush-and-high-fuel-prices-47102a88?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 10:33:00 GMT",
       "sentiment": 0.16
-    },
-    {
-      "title": "Walmart Wants Robots to Run Its Warehouses. Reality Keeps Getting in the Way.",
-      "link": "https://www.wsj.com/articles/walmart-wants-robots-to-run-its-warehouses-reality-keeps-getting-in-the-way-d75dee8b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 09:59:00 GMT",
-      "sentiment": 0.04861111111111111
-    },
-    {
-      "title": "The AI Change That Let Pfizer’s Albert Bourla Sleep Better",
-      "link": "https://www.wsj.com/business/media/the-ai-change-that-let-pfizers-albert-bourla-sleep-better-51d371b2?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 09:59:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
@@ -157,6 +157,12 @@
       "sentiment": 0.04924242424242423
     },
     {
+      "title": "Opinion | Hegseth Empowers America",
+      "link": "https://www.wsj.com/opinion/hegseth-empowers-america-3e9bbd19?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 18:36:00 GMT",
+      "sentiment": -0.23958333333333331
+    },
+    {
       "title": "Opinion | The Real Transmission Bottlenecks Are Federal",
       "link": "https://www.wsj.com/opinion/the-real-transmission-bottlenecks-are-federal-904b3b13?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 19:27:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/hollywood-ignore-hollywood-bf53f902?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 20:38:00 GMT",
       "sentiment": -0.6999999999999998
-    },
-    {
-      "title": "Opinion | Preserve California’s Maritime Climate Rules",
-      "link": "https://www.wsj.com/opinion/preserve-californias-maritime-climate-rules-b4132f8b?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 20:10:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -259,6 +259,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "The AI Change That Let Pfizer’s Albert Bourla Sleep Better",
+      "link": "https://www.wsj.com/business/media/the-ai-change-that-let-pfizers-albert-bourla-sleep-better-51d371b2?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 09:59:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Fed Minutes Show No Urgency for October Hike",
       "link": "https://www.wsj.com/cfo-journal/fed-minutes-show-no-urgency-for-october-hike-66be7bd8?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 10:55:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/wall-street-bonus-bonanza-plus-u-s-trade-deficit-widens-28b32aac?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 10:55:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "What David Ellison’s Latest Moves Say About How He’ll Lead Now",
-      "link": "https://www.wsj.com/articles/what-david-ellisons-latest-moves-say-about-how-hell-lead-now-36717268?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 10:01:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Uber to Expand Uber Eats Service with $2.3 Billion Acquisition of Catering Platform",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Walmart Wants Robots to Run Its Warehouses. Reality Keeps Getting in the Way.",
+      "link": "https://www.wsj.com/articles/walmart-wants-robots-to-run-its-warehouses-reality-keeps-getting-in-the-way-d75dee8b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 09:59:00 GMT",
+      "sentiment": 0.04861111111111111
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b8444503?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 20:57:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
-      "link": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 15:24:00 GMT",
-      "sentiment": -0.06666666666666664
-    },
-    {
       "title": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
       "link": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 01:00:00 GMT",
@@ -475,22 +475,22 @@
       "sentiment": 0.16
     },
     {
-      "title": "Joe Rogan Re-Ups Lucrative Spotify Deal",
-      "link": "https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "American Oil Refiners Are Printing Money as Wars Shrink Global Energy Supplies",
       "link": "https://www.wsj.com/business/energy-oil/american-oil-refiners-are-printing-money-as-wars-shrink-global-energy-supplies-c9240231?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 02:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "This Year’s Bad Harvest Is Good News for California Winemakers",
-      "link": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 15:24:00 GMT",
-      "sentiment": -0.06666666666666664
+      "title": "Joe Rogan Re-Ups Lucrative Spotify Deal",
+      "link": "https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "American Airlines Is the Worst for Bumping Passengers. Now It Says It Will Stop.",
+      "link": "https://www.wsj.com/business/airlines/american-airlines-is-the-worst-for-bumping-passengers-now-it-says-it-will-stop-76591402?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 21:04:00 GMT",
+      "sentiment": -0.26666666666666666
     },
     {
       "title": "Best Small-Business Loans in October 2026",
