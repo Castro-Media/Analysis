@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
+      "published": "Fri, 09 Oct 2026 19:57:55 +0000",
+      "sentiment": 0.05333333333333334
+    },
+    {
+      "title": "Donor Says Kimberly Guilfoyle Sought Money From Him to Cover Debt",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/kimberly-guilfoyle-donor-texts.html",
+      "published": "Fri, 09 Oct 2026 19:31:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Vance Says He Would Not Watch Livestreamed Execution of Fort Hood Shooter",
+      "link": "https://www.nytimes.com/2026/10/09/us/politics/vance-livestream-execution.html",
+      "published": "Fri, 09 Oct 2026 19:13:29 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html",
-      "published": "Fri, 09 Oct 2026 18:54:52 +0000",
+      "published": "Fri, 09 Oct 2026 19:15:44 +0000",
       "sentiment": 0.0
     },
     {
@@ -15,7 +33,7 @@
     {
       "title": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html",
-      "published": "Fri, 09 Oct 2026 18:31:26 +0000",
+      "published": "Fri, 09 Oct 2026 20:44:41 +0000",
       "sentiment": 0.20909090909090908
     },
     {
@@ -27,7 +45,7 @@
     {
       "title": "Kansas Senate Race Is a Surprising New Midterm Fight",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html",
-      "published": "Fri, 09 Oct 2026 16:21:17 +0000",
+      "published": "Fri, 09 Oct 2026 19:23:04 +0000",
       "sentiment": 0.33106060606060606
     },
     {
@@ -49,10 +67,10 @@
       "sentiment": -0.06590909090909092
     },
     {
-      "title": "Ending a Notable Career, Durbin Laments the Decline of Legislating",
+      "title": "Retiring Senator Dick Durbin Laments the Decline of Legislating",
       "link": "https://www.nytimes.com/2026/10/09/us/dick-durbin-retiring.html",
       "published": "Fri, 09 Oct 2026 14:51:47 +0000",
-      "sentiment": 0.25
+      "sentiment": 0.0
     },
     {
       "title": "F.B.I. Arrests Key Suspect in ShinyHunters Hack of Its Own Agents’ Data",
@@ -67,10 +85,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Inside Ken Paxton’s Private Testimony About His Money",
+      "title": "Leaked Deposition Offers Window Into Paxton’s Growing Wealth",
       "link": "https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html",
-      "published": "Fri, 09 Oct 2026 09:01:36 +0000",
-      "sentiment": 0.0
+      "published": "Fri, 09 Oct 2026 20:44:47 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "How Trump’s Revenge Campaign Descended Into Turmoil",
@@ -161,30 +179,6 @@
       "link": "https://www.nytimes.com/2026/10/08/us/birds-smuggled-cuba-miami.html",
       "published": "Fri, 09 Oct 2026 00:36:29 +0000",
       "sentiment": -0.015151515151515152
-    },
-    {
-      "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
-      "link": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html",
-      "published": "Thu, 08 Oct 2026 21:05:33 +0000",
-      "sentiment": -0.015909090909090914
-    },
-    {
-      "title": "How to Watch the Midterm Senate Race Debates in Georgia, Michigan and Maine",
-      "link": "https://www.nytimes.com/2026/10/08/us/midterm-senate-race-debates-how-to-watch.html",
-      "published": "Thu, 08 Oct 2026 21:55:40 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "5-Year-Old Dies After Digital Whiteboard Falls in School Classroom",
-      "link": "https://www.nytimes.com/2026/10/08/us/florida-boy-display-board-death.html",
-      "published": "Thu, 08 Oct 2026 19:45:17 +0000",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Trump Administration Considers Using Ships to Deport Immigrants",
-      "link": "https://www.nytimes.com/2026/10/08/us/trump-deportations-boats-ships.html",
-      "published": "Thu, 08 Oct 2026 19:22:56 +0000",
-      "sentiment": 0.0
     }
   ]
 }
