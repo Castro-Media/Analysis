@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "So you’re getting a Nobel Prize? Don’t expect a heads-up.",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/so-you-won-a-nobel-prize-dont-expect-a-heads-up.html",
+      "published": "Fri, 09 Oct 2026 10:25:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Navi Pillay, a South African Human Rights Lawyer, Is Awarded the Nobel Peace Prize",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-winner-pillay.html",
+      "published": "Fri, 09 Oct 2026 10:29:24 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How the Epstein Files forced the Nobel Peace Prize to reckon with impartiality.",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/epstein-files-thorbjorn-jagland-committee.html",
+      "published": "Fri, 09 Oct 2026 10:09:44 +0000",
+      "sentiment": -0.30000000000000004
+    },
+    {
+      "title": "France’s Long, Fervent History of Protest",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/frances-long-fervent-history-of-protest.html",
+      "published": "Fri, 09 Oct 2026 09:03:55 +0000",
+      "sentiment": -0.07222222222222223
+    },
+    {
+      "title": "At a Revamped Museum, Goya’s Nightmares Seem Scarily Relevant",
+      "link": "https://www.nytimes.com/2026/10/09/arts/goya-museum-zaragoza-spain.html",
+      "published": "Fri, 09 Oct 2026 09:50:43 +0000",
+      "sentiment": 0.14444444444444446
+    },
+    {
       "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
       "link": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
       "published": "Fri, 09 Oct 2026 08:48:09 +0000",
@@ -15,19 +45,19 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest",
-      "published": "Fri, 09 Oct 2026 08:11:36 +0000",
+      "published": "Fri, 09 Oct 2026 10:53:01 +0000",
       "sentiment": 0.5
     },
     {
       "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
       "link": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-      "published": "Fri, 09 Oct 2026 05:02:58 +0000",
+      "published": "Fri, 09 Oct 2026 10:24:27 +0000",
       "sentiment": 0.05142857142857142
     },
     {
       "title": "A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate",
       "link": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html",
-      "published": "Fri, 09 Oct 2026 04:01:07 +0000",
+      "published": "Fri, 09 Oct 2026 10:52:33 +0000",
       "sentiment": 0.0
     },
     {
@@ -45,8 +75,8 @@
     {
       "title": "U.N. Warns Against Technology Used to Read Citizens’ Minds",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html",
-      "published": "Thu, 08 Oct 2026 21:07:52 +0000",
-      "sentiment": 0.13636363636363635
+      "published": "Fri, 09 Oct 2026 09:32:50 +0000",
+      "sentiment": 0.09318181818181819
     },
     {
       "title": "Cecily Gemmell, Winston Churchill’s Last Surviving Secretary, Has Died",
@@ -125,18 +155,6 @@
       "link": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
       "published": "Thu, 08 Oct 2026 22:08:07 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
-      "published": "Thu, 08 Oct 2026 09:01:31 +0000",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/germany-potato-festival.html",
-      "published": "Thu, 08 Oct 2026 09:01:00 +0000",
-      "sentiment": 0.06818181818181818
     }
   ]
 }
