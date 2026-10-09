@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
+      "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.010101010101010102
+    },
+    {
+      "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
+      "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.06388888888888888
+    },
+    {
+      "title": "'Circling like sharks': Companies are buying up L.A. County's $4-billion sex abuse settlement",
+      "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09523809523809523
+    },
+    {
+      "title": "This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs",
+      "link": "https://www.latimes.com/environment/story/2026-10-09/how-poop-sniffing-dogs-are-helping-save-joshua-trees-mountain-lions",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
+      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Tropical Storm Rachel: When will it hit SoCal? How bad will it be?",
+      "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.11999999999999997
+    },
+    {
+      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
+      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Medicaid reckoning awaits next California governor after program's rapid expansion",
+      "link": "https://www.latimes.com/california/story/2026-10-09/medicaid-reckoning-awaits-next-california-governor-after-programs-rapid-expansion",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Crews make progress against Danny fire in the Grapevine; I-5 open in both directions",
       "link": "https://www.latimes.com/california/story/2026-10-08/fast-moving-danny-fire-prompts-evacuations-in-gorman-closes-stretch-of-i-5",
       "published": "Fri, 9 Oct 2026 02:09:20 GMT",
@@ -73,16 +121,16 @@
       "sentiment": 0.05555555555555555
     },
     {
-      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
-      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "From killer-robot protests to tech talks for seniors, S.F. Bay Area residents wrestle with AI",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
+      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
@@ -463,16 +511,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
       "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
       "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0009259259259259273
+    },
+    {
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.075
     },
     {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
@@ -509,60 +557,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-02/california-man-smuggled-300-million-of-ai-hardware-to-china-feds-say",
       "published": "Fri, 2 Oct 2026 23:54:21 GMT",
       "sentiment": 0.4
-    },
-    {
-      "title": "Effort to save California's iconic Joshua trees scrapped after Trump administration blocks funding",
-      "link": "https://www.latimes.com/california/story/2026-10-02/joshua-tree-projects-scrapped-after-trump-administration-blocks-funds",
-      "published": "Fri, 2 Oct 2026 23:39:28 GMT",
-      "sentiment": 0.375
-    },
-    {
-      "title": "High school in Santa Barbara rocked by blackface TikTok post. NAACP calls for 'systemic change'",
-      "link": "https://www.latimes.com/california/story/2026-10-02/high-school-in-santa-barbara-rocked-by-blackface-tiktok-post",
-      "published": "Fri, 2 Oct 2026 22:55:59 GMT",
-      "sentiment": -0.09333333333333332
-    },
-    {
-      "title": "Nurse convicted of murder in high-speed South L.A. car wreck that killed six",
-      "link": "https://www.latimes.com/california/story/2026-10-02/nurse-convicted-of-murder-in-high-speed-south-la-car-wreck-that-killed-six",
-      "published": "Fri, 2 Oct 2026 20:54:42 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "California state Capitol 'deemed safe' following threat, evacuation",
-      "link": "https://www.latimes.com/california/story/2026-10-02/california-state-capitol-evacuated-amid-threat",
-      "published": "Fri, 2 Oct 2026 20:47:17 GMT",
-      "sentiment": 0.10999999999999999
-    },
-    {
-      "title": "California leads lawsuit challenging Trump's rollback of fuel economy rules",
-      "link": "https://www.latimes.com/environment/story/2026-10-02/california-leads-lawsuit-challenging-trumps-rollback-of-fuel-economy-rules",
-      "published": "Fri, 2 Oct 2026 20:41:34 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Dangerous heat wave reaches Los Angeles. Here's how long it will last",
-      "link": "https://www.latimes.com/california/story/2026-10-02/dangerous-heat-wave-reaches-los-angeles-heres-how-long-it-will-last",
-      "published": "Fri, 2 Oct 2026 17:30:48 GMT",
-      "sentiment": -0.20625000000000002
-    },
-    {
-      "title": "Botched Altadena evacuations, dysfunction in Pacific Palisades: Long-awaited fire investigation identifies missteps",
-      "link": "https://www.latimes.com/environment/story/2026-10-02/long-awaited-investigation-outlines-failures-of-eaton-palisades-fires",
-      "published": "Fri, 2 Oct 2026 16:00:02 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
-      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.27777777777777773
-    },
-    {
-      "title": "Pasadena's white peacock Sugar, beaten by mail carrier, is relocated to private California ranch",
-      "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.046875
     }
   ]
 }
