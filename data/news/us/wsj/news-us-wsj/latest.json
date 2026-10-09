@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "The Week Mamdani Started to Lose His Grip on the Left",
+      "link": "https://www.wsj.com/us-news/the-week-mamdani-started-to-lose-his-grip-on-the-left-6d852f7c?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 20:20:00 GMT",
+      "sentiment": -0.22121212121212122
+    },
+    {
       "title": "DHS Secretary Criticizes New York Mayor After ICE Shooting Sparks Protests",
       "link": "https://www.wsj.com/us-news/ice-agent-shoots-man-in-new-york-city-3e697697?mod=rss_usnews",
       "published": "Fri, 09 Oct 2026 18:30:00 GMT",
@@ -28,12 +34,6 @@
       "title": "U.S. Prosecutors Bring Torture Charge Against Nicolás Maduro",
       "link": "https://www.wsj.com/us-news/u-s-prosecutors-bring-torture-charge-against-nicolas-maduro-bc8b6527?mod=rss_usnews",
       "published": "Thu, 08 Oct 2026 20:36:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Arizona Congressional Candidate Says She Was Raped While Fixing Campaign Signs",
-      "link": "https://www.wsj.com/us-news/an-arizona-congressional-candidate-says-she-was-raped-while-fixing-campaign-signs-91a52d85?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 17:32:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,6 +67,12 @@
       "sentiment": 0.08
     },
     {
+      "title": "Trump Announces White House Hearing to Investigate Fed’s Lisa Cook",
+      "link": "https://www.wsj.com/economy/central-banking/trump-announces-committee-to-investigate-fed-governor-lisa-cook-bcd509fa?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 20:27:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Michigan Files Antitrust Suit Against Blue Cross Blue Shield Over Rising Costs",
       "link": "https://www.wsj.com/health/healthcare/michigan-files-antitrust-suit-against-blue-cross-blue-shield-over-rising-costs-b250ed15?mod=rss_usnews",
       "published": "Thu, 08 Oct 2026 15:51:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/us-news/law/judge-orders-officials-to-save-evidence-in-christa-pikes-failed-execution-5f5edb7b?mod=rss_usnews",
       "published": "Wed, 07 Oct 2026 19:16:00 GMT",
       "sentiment": -0.4666666666666666
-    },
-    {
-      "title": "Christa Pike Is Conscious and Speaking After Botched Execution",
-      "link": "https://www.wsj.com/us-news/christa-pike-is-conscious-and-speaking-after-botched-execution-82dcee6c?mod=rss_usnews",
-      "published": "Tue, 06 Oct 2026 22:13:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
@@ -127,6 +127,30 @@
       "sentiment": 0.26666666666666666
     },
     {
+      "title": "Opinion | Mike Ditka Goes Home",
+      "link": "https://www.wsj.com/opinion/mike-ditka-goes-home-e068058b?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 20:38:00 GMT",
+      "sentiment": 0.8
+    },
+    {
+      "title": "Opinion | Bo French’s Rhetoric Misrepresents the GOP",
+      "link": "https://www.wsj.com/opinion/bo-frenchs-rhetoric-misrepresents-the-gop-7e606701?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 20:36:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Opinion | Parents Matter in Education",
+      "link": "https://www.wsj.com/opinion/parents-matter-in-education-271255bc?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 20:33:00 GMT",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Opinion | Stopping School Shootings With Security Drones",
+      "link": "https://www.wsj.com/opinion/stopping-school-shootings-with-security-drones-44e22f75?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 20:06:00 GMT",
+      "sentiment": 0.16
+    },
+    {
       "title": "Opinion | Hegseth Empowers America",
       "link": "https://www.wsj.com/opinion/hegseth-empowers-america-3e9bbd19?mod=rss_usnews",
       "published": "Fri, 09 Oct 2026 18:36:00 GMT",
@@ -139,28 +163,10 @@
       "sentiment": -0.018518518518518528
     },
     {
-      "title": "Opinion | Sam Altman Is No Oppenheimer",
-      "link": "https://www.wsj.com/opinion/sam-altman-is-no-oppenheimer-d301b8a0?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 22:02:00 GMT",
+      "title": "Arizona Congressional Candidate Says She Was Raped While Fixing Campaign Signs",
+      "link": "https://www.wsj.com/us-news/an-arizona-congressional-candidate-says-she-was-raped-while-fixing-campaign-signs-91a52d85?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 17:32:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Tariffs Are Hurting the GOP in Michigan",
-      "link": "https://www.wsj.com/opinion/mike-rogers-michigan-tariffs-canada-donald-trump-6b3d2bd8?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 21:31:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | John Sununu Wants to Save Social Security",
-      "link": "https://www.wsj.com/opinion/john-sununu-social-security-reform-chris-pappas-0c69b406?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 21:25:00 GMT",
-      "sentiment": 0.14444444444444446
-    },
-    {
-      "title": "Opinion | Democrats Have No School Choice Excuse",
-      "link": "https://www.wsj.com/opinion/democrats-school-choice-federal-tax-credit-treasury-rules-39f5b8fb?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 21:25:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years",
@@ -181,16 +187,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "American Charged With Aiding Canadian School Shooter",
-      "link": "https://www.wsj.com/us-news/american-charged-with-aiding-canadian-school-shooter-bfd55eb8?mod=rss_usnews",
-      "published": "Tue, 06 Oct 2026 21:09:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Los Angeles Couple Found With Mansion Full of Surrogate Children Is Charged With Abuse",
-      "link": "https://www.wsj.com/us-news/los-angeles-couple-found-with-mansion-full-of-surrogate-children-is-charged-with-abuse-37f144c9?mod=rss_usnews",
-      "published": "Tue, 06 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.12499999999999999
+      "title": "Christa Pike Is Conscious and Speaking After Botched Execution",
+      "link": "https://www.wsj.com/us-news/christa-pike-is-conscious-and-speaking-after-botched-execution-82dcee6c?mod=rss_usnews",
+      "published": "Tue, 06 Oct 2026 22:13:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Advanced Stats and $500 Bats: Why Baseball for 6-Year-Olds Is Breaking the Bank",

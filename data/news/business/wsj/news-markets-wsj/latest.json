@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Advance as Tech Shakes Off Thursday Selloff",
+      "title": "Stock Market Today: Stocks Rise as Tech Shakes Off Thursday Selloff",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 08:23:12 GMT",
       "sentiment": 0.15
+    },
+    {
+      "title": "SpaceX’s Wireless Move Trips Up Telecoms",
+      "link": "https://www.wsj.com/finance/stocks/spacexs-wireless-move-trips-up-telecoms-49d5f27f?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 20:35:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 07:18:00 GMT",
       "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Arini, Hedge Fund Known for Bold Bets, Loses 16%",
-      "link": "https://www.wsj.com/finance/investing/arini-hedge-fund-known-for-bold-bets-loses-16-c4d8f2c0?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 22:27:00 GMT",
-      "sentiment": 0.17777777777777778
     },
     {
       "title": "Choosing the Right Bond Strategy for Today’s High-Yield World",
@@ -103,6 +103,18 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "U.S. Stocks Rise as Iran Escalation Fears Subside",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-iran-escalation-fears-subside-2ad4f362?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 20:51:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Global Bond Yields Edge Higher on Slowing Bond Selloff",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-eurozone-bond-yields-decline-62cfd8c8?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 19:00:00 GMT",
+      "sentiment": 0.14166666666666666
+    },
+    {
       "title": "Gold Futures Snap Two-Week Losing Streak",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-supported-by-potential-china-demand-08b60462?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 18:40:00 GMT",
@@ -121,18 +133,6 @@
       "sentiment": 0.5952380952380952
     },
     {
-      "title": "U.S. Treasury Yields Edge Higher, Eurozone Bond Yields Decline",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-eurozone-bond-yields-decline-62cfd8c8?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 09:17:00 GMT",
-      "sentiment": 0.225
-    },
-    {
-      "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
-      "link": "https://www.wsj.com/finance/investing/airtel-money-shares-open-higher-on-first-trading-day-but-7-billion-valuation-misses-mark-3ee5bb9d?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 08:49:00 GMT",
-      "sentiment": 0.14285714285714285
-    },
-    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-977b8ed1?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 16:24:00 GMT",
@@ -145,6 +145,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
+      "link": "https://www.wsj.com/finance/investing/airtel-money-shares-open-higher-on-first-trading-day-but-7-billion-valuation-misses-mark-3ee5bb9d?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 08:49:00 GMT",
+      "sentiment": 0.14285714285714285
+    },
+    {
       "title": "U.S. Stocks Mixed as Oil Spikes, AI Profit Doubts Hit Tech",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-oil-spikes-ai-profit-doubts-hit-tech-79e35aaa?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 20:42:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/winds-pick-up-yields-tick-down-5cb62df6?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 20:38:00 GMT",
       "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "London’s Private Markets Exchange Completes Another Auction",
-      "link": "https://www.wsj.com/pro/private-equity/londons-private-markets-exchange-completes-another-auction-4bb71cfb?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 19:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -289,6 +289,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "Arini, Hedge Fund Known for Bold Bets, Loses 16%",
+      "link": "https://www.wsj.com/finance/investing/arini-hedge-fund-known-for-bold-bets-loses-16-c4d8f2c0?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 22:27:00 GMT",
+      "sentiment": 0.17777777777777778
+    },
+    {
       "title": "A Guide to Buying Bonds When Yields Are on the Rise",
       "link": "https://www.wsj.com/finance/investing/a-guide-to-buying-bonds-when-yields-are-on-the-rise-f8b6cc98?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 21:41:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-climb-on-lng-shipping-risks-df4625ad?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 08:05:00 GMT",
       "sentiment": 0.075
-    },
-    {
-      "title": "Rising Rates Are Eroding the Value of Even the Most High-Flying Tech Stocks",
-      "link": "https://www.wsj.com/finance/stocks/rising-rates-are-eroding-the-value-of-even-the-most-high-flying-tech-stocks-fb420a5e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 21:10:00 GMT",
-      "sentiment": 0.2916666666666667
     },
     {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",

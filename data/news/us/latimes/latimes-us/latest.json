@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "title": "'Avert ecological disaster': Advocates sue California over one of the largest water systems in the world",
+      "title": "Avert 'ecological tailspin': Advocates sue California over one of the largest water systems in the world",
       "link": "https://www.latimes.com/environment/story/2026-10-09/california-delta-water-lawsuit",
       "published": "Fri, 9 Oct 2026 18:37:17 GMT",
       "sentiment": 0.07500000000000001
@@ -25,28 +25,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
-      "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.06388888888888888
-    },
-    {
       "title": "This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs",
       "link": "https://www.latimes.com/environment/story/2026-10-09/how-poop-sniffing-dogs-are-helping-save-joshua-trees-mountain-lions",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
-      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
+      "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "'Circling like sharks': Companies are buying up L.A. County's $4-billion sex abuse settlement",
-      "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09523809523809523
+      "sentiment": -0.06388888888888888
     },
     {
       "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
@@ -55,16 +43,28 @@
       "sentiment": 0.21212121212121213
     },
     {
-      "title": "Tropical Storm Rachel: When will it hit SoCal? How bad will it be?",
-      "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
+      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
+      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.11999999999999997
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
       "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": -0.010101010101010102
+    },
+    {
+      "title": "'Circling like sharks': Companies are buying up L.A. County's $4-billion sex abuse settlement",
+      "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09523809523809523
+    },
+    {
+      "title": "SoCal coast flooded as Tropical Storm Rachel makes its approach",
+      "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.025
     },
     {
       "title": "Crews make progress against Danny fire in the Grapevine; I-5 open in both directions",
@@ -157,16 +157,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
-    },
-    {
       "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08888888888888889
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
@@ -316,7 +316,7 @@
       "title": "First rabid raccoon case in L.A. County in more than 50 years sparks warning",
       "link": "https://www.latimes.com/california/story/2026-10-06/first-rabid-raccoon-case-in-la-county-in-more-than-50-years-sparks-warning",
       "published": "Tue, 6 Oct 2026 18:04:01 GMT",
-      "sentiment": 0.3333333333333333
+      "sentiment": 0.07142857142857142
     },
     {
       "title": "It's an October to remember as SoCal continues to bake. Here's what we know",
@@ -535,16 +535,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
       "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
       "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0009259259259259273
+    },
+    {
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.075
     },
     {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
