@@ -1,16 +1,16 @@
 {
   "entries": [
     {
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 23:11:10 GMT",
-      "sentiment": 0.6
-    },
-    {
       "title": "Firing squad execution to be livestreamed, Pentagon says",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 07:05:05 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:11:10 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "ICE agent shoots man in New York City",
@@ -19,21 +19,27 @@
       "sentiment": -0.15454545454545454
     },
     {
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 16:31:29 GMT",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 04:53:50 GMT",
       "sentiment": 0.0
     },
     {
       "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
       "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 04:44:22 GMT",
+      "published": "Fri, 09 Oct 2026 08:28:57 GMT",
       "sentiment": 0.8
     },
     {
-      "title": "Kyiv residents pack their bags and go as temperatures drop and Russian strikes escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 04:53:50 GMT",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 19:10:06 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:31:29 GMT",
       "sentiment": 0.0
     },
     {
@@ -41,12 +47,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 03:36:41 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 19:10:06 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
@@ -151,16 +151,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 23:18:40 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 18:40:52 GMT",
-      "sentiment": 0.0
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 07:19:24 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
@@ -175,6 +169,12 @@
       "sentiment": 0.35714285714285715
     },
     {
+      "title": "Why Elon Musk is taking on India's richest man over Starlink",
+      "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 06:42:37 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
       "link": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 07 Oct 2026 23:29:15 GMT",
@@ -187,13 +187,7 @@
       "sentiment": 0.2861111111111111
     },
     {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 16:00:18 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "​​USS Lincoln docks in San Diego after 10-month mission",
+      "title": "​​USS Lincoln finally docks in San Diego after 10-month mission",
       "link": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 22:26:10 GMT",
       "sentiment": 0.0

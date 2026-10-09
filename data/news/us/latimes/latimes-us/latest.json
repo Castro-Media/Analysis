@@ -73,16 +73,16 @@
       "sentiment": 0.05555555555555555
     },
     {
-      "title": "From killer-robot protests to tech talks for seniors, S.F. Bay Area residents wrestle with AI",
-      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "From killer-robot protests to tech talks for seniors, S.F. Bay Area residents wrestle with AI",
+      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
@@ -463,16 +463,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
-      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0009259259259259273
-    },
-    {
       "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
       "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.075
+    },
+    {
+      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
+      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0009259259259259273
     },
     {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
@@ -553,10 +553,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "California's economic growth expected to continue, but slowly and with few jobs gains",
-      "link": "https://www.latimes.com/business/story/2026-10-02/californias-economic-growth-expected-to-continue-slowly-with-few-jobs",
+      "title": "'Super' El Niño could overwhelm L.A.'s aging Hyperion sewage treatment plant",
+      "link": "https://www.latimes.com/california/story/2026-10-02/super-el-nino-could-overwhelm-aging-la-hyperion-sewage-treatment-plant",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1142857142857143
+      "sentiment": 0.27777777777777773
+    },
+    {
+      "title": "Pasadena's white peacock Sugar, beaten by mail carrier, is relocated to private California ranch",
+      "link": "https://www.latimes.com/california/story/2026-10-02/pasadena-white-peacock-sugar-beaten-by-mail-carrier-relocated-northern-california-ranch",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.046875
     }
   ]
 }

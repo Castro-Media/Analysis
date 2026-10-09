@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Live Updates: Nobel Peace Prize Winner to Be Announced",
+      "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+      "published": "Fri, 09 Oct 2026 08:54:54 +0000",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
+      "published": "Fri, 09 Oct 2026 08:48:09 +0000",
+      "sentiment": -0.14583333333333334
+    },
+    {
+      "title": "A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html",
+      "published": "Fri, 09 Oct 2026 04:01:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
+      "published": "Fri, 09 Oct 2026 05:02:58 +0000",
+      "sentiment": 0.05142857142857142
+    },
+    {
       "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
       "published": "Thu, 08 Oct 2026 19:31:01 +0000",
@@ -61,40 +85,16 @@
       "sentiment": -0.2
     },
     {
-      "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
-      "published": "Thu, 08 Oct 2026 12:55:01 +0000",
-      "sentiment": 0.0
+      "title": "A Venezuelan opposition leader won the 2025 prize, setting off an unusual year.",
+      "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year",
+      "published": "Fri, 09 Oct 2026 08:16:07 +0000",
+      "sentiment": 0.2
     },
     {
-      "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
-      "published": "Thu, 08 Oct 2026 09:01:31 +0000",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
-      "link": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html",
-      "published": "Thu, 08 Oct 2026 09:53:16 +0000",
-      "sentiment": -0.04
-    },
-    {
-      "title": "Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html",
-      "published": "Thu, 08 Oct 2026 16:13:54 +0000",
-      "sentiment": -0.025
-    },
-    {
-      "title": "Labour Holds Off Green Party in Election for Starmer’s Former London Seat",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
-      "published": "Fri, 09 Oct 2026 05:02:57 +0000",
-      "sentiment": 0.05142857142857142
-    },
-    {
-      "title": "A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html",
-      "published": "Fri, 09 Oct 2026 04:01:06 +0000",
-      "sentiment": 0.0
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest",
+      "published": "Fri, 09 Oct 2026 08:11:36 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen",
@@ -123,7 +123,7 @@
     {
       "title": "A Photo of Mussolini’s Corpse Led Page 1. How It Got There Is a Tale.",
       "link": "https://www.nytimes.com/2026/10/08/world/europe/mussolini-corpse-photo.html",
-      "published": "Thu, 08 Oct 2026 18:53:37 +0000",
+      "published": "Thu, 08 Oct 2026 18:53:38 +0000",
       "sentiment": -0.2
     },
     {
@@ -149,6 +149,30 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests.html",
       "published": "Thu, 08 Oct 2026 21:35:43 +0000",
       "sentiment": -0.2333333333333333
+    },
+    {
+      "title": "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
+      "published": "Thu, 08 Oct 2026 12:55:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Hacker Used Chinese-Developed A.I. Tool to Target South Korean Banks, CrowdStrike Says",
+      "link": "https://www.nytimes.com/2026/10/08/world/australia/south-korea-bank-hack-china-us-ai.html",
+      "published": "Thu, 08 Oct 2026 09:53:16 +0000",
+      "sentiment": -0.04
+    },
+    {
+      "title": "Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html",
+      "published": "Thu, 08 Oct 2026 16:13:54 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "‘Absolute Nightmare’: Inside the Russian Warehouses Bombarded by Ukraine",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-wildberries-ozon-warehouse-ukraine-attacks.html",
+      "published": "Thu, 08 Oct 2026 09:01:31 +0000",
+      "sentiment": 0.06666666666666667
     },
     {
       "title": "At a Potato Festival, Our Berlin Reporter Deepened His Ties to a New Land",
@@ -317,30 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
       "published": "Thu, 08 Oct 2026 02:00:20 +0000",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence",
-      "link": "https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html",
-      "published": "Wed, 07 Oct 2026 11:36:18 +0000",
-      "sentiment": -0.49999999999999994
-    },
-    {
-      "title": "The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html",
-      "published": "Wed, 07 Oct 2026 14:21:55 +0000",
-      "sentiment": 0.2857142857142857
-    },
-    {
-      "title": "F.B.I. Charges American in Plot Behind Canada’s Tumbler Ridge School Shooting",
-      "link": "https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html",
-      "published": "Thu, 08 Oct 2026 16:31:36 +0000",
-      "sentiment": -0.15
-    },
-    {
-      "title": "What We Saw at the French Protests",
-      "link": "https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html",
-      "published": "Tue, 06 Oct 2026 21:13:32 +0000",
-      "sentiment": 0.08
     }
   ]
 }
