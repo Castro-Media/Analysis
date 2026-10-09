@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "'Pretty Little Liars' actor Keegan Allen says he was victim of armed robbery in bloody video",
+      "link": "https://www.latimes.com/california/story/2026-10-09/pretty-little-liars-actor-keegan-allen-robbery",
+      "published": "Fri, 9 Oct 2026 14:11:24 GMT",
+      "sentiment": -0.1775
+    },
+    {
+      "title": "Magnitude 3.2 earthquake rattles Long Beach after midnight",
+      "link": "https://www.latimes.com/california/story/2026-10-09/magnitude-3-2-earthquake-rattles-long-beach-after-midnight",
+      "published": "Fri, 9 Oct 2026 13:13:43 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
       "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -37,12 +49,6 @@
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "Medicaid reckoning awaits next California governor after program's rapid expansion",
-      "link": "https://www.latimes.com/california/story/2026-10-09/medicaid-reckoning-awaits-next-california-governor-after-programs-rapid-expansion",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Tropical Storm Rachel: When will it hit SoCal? How bad will it be?",
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -71,6 +77,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-08/nasas-spacex-crew-12-splashes-down-off-la-coast",
       "published": "Thu, 8 Oct 2026 23:00:03 GMT",
       "sentiment": 0.057777777777777775
+    },
+    {
+      "title": "White House targets Stanford, Caltech and tech giants in visa crackdown",
+      "link": "https://www.latimes.com/business/story/2026-10-08/white-house-cracks-down-on-student-visas-at-stanford-caltech-as-well-as-tech-work-visas",
+      "published": "Thu, 8 Oct 2026 22:36:11 GMT",
+      "sentiment": 0.03409090909090909
     },
     {
       "title": "Mold, larvae and dehydration: New report paints grim picture inside Adelanto ICE facility",
@@ -545,18 +557,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-02/metrolink-fares-will-rise-by-up-to-27-starting-monday",
       "published": "Sat, 3 Oct 2026 02:10:43 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "LAFD acknowledges missteps involving Palisades fire following independent investigation",
-      "link": "https://www.latimes.com/environment/story/2026-10-02/lafd-acknowledges-missteps-leading-up-to-palisades-fire",
-      "published": "Fri, 2 Oct 2026 23:57:09 GMT",
-      "sentiment": 0.10727272727272727
-    },
-    {
-      "title": "California man's smuggling scheme sent $300 million in AI hardware to China, feds say",
-      "link": "https://www.latimes.com/california/story/2026-10-02/california-man-smuggled-300-million-of-ai-hardware-to-china-feds-say",
-      "published": "Fri, 2 Oct 2026 23:54:21 GMT",
-      "sentiment": 0.4
     }
   ]
 }

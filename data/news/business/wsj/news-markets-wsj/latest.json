@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Mood in Markets Improves After Trump Vows Not to Strike Iran Before Midterms",
+      "title": "Stock Market Today: Oil Slips, Stocks Advance as Mideast Anxiety Eases",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 08:23:12 GMT",
-      "sentiment": -0.7
+      "sentiment": 0.15
+    },
+    {
+      "title": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
+      "link": "https://www.wsj.com/finance/investing/tokenized-stocks-bring-radical-change-to-markets-cuomo-says-fe1962b6?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 14:51:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "U.S. Natural Gas Futures Pick Up in Early Trading",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-31da69cb?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 14:10:00 GMT",
+      "sentiment": -0.019444444444444434
     },
     {
       "title": "Borrowing Costs’ Double Whammy Boosts Recession Odds",
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/arini-hedge-fund-known-for-bold-bets-loses-16-c4d8f2c0?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 22:27:00 GMT",
       "sentiment": 0.17777777777777778
-    },
-    {
-      "title": "A Guide to Buying Bonds When Yields Are on the Rise",
-      "link": "https://www.wsj.com/finance/investing/a-guide-to-buying-bonds-when-yields-are-on-the-rise-f8b6cc98?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 21:41:00 GMT",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Why the Battered Bond Market Is Finally Getting a Reprieve",
-      "link": "https://www.wsj.com/finance/investing/why-the-battered-bond-market-is-finally-getting-a-reprieve-79ec4348?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 21:33:00 GMT",
-      "sentiment": -0.0625
     },
     {
       "title": "Choosing the Right Bond Strategy for Today’s High-Yield World",
@@ -103,10 +103,16 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Canadian Dollar Falls Sharply After Weak Jobs Data",
+      "title": "Dollar Heads for Fourth Straight Week of Gains",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-consolidate-focus-on-u-s-data-fe613e38?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 13:03:00 GMT",
-      "sentiment": -0.1
+      "published": "Fri, 09 Oct 2026 14:07:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Affluent and Older Americans Got Much Richer in the Postpandemic Years",
+      "link": "https://www.wsj.com/economy/affluent-and-older-americans-got-much-richer-in-the-postpandemic-years-f53b3113?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 14:00:00 GMT",
+      "sentiment": 0.2738095238095238
     },
     {
       "title": "Choosing the Right Bond Strategy Based on the ‘Why?’",
@@ -125,18 +131,6 @@
       "link": "https://www.wsj.com/finance/investing/airtel-money-shares-open-higher-on-first-trading-day-but-7-billion-valuation-misses-mark-3ee5bb9d?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 08:49:00 GMT",
       "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b8444503?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 20:57:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "AI Stocks Recover as Futures Rise, Oil Slips",
-      "link": "https://www.wsj.com/finance/stocks/ai-stocks-recover-as-futures-rise-oil-slips-c72b63c2?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 12:25:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "European Stocks Seen Performing in Line With Global Peers",
@@ -161,6 +155,12 @@
       "link": "https://www.wsj.com/pro/private-equity/londons-private-markets-exchange-completes-another-auction-4bb71cfb?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 19:26:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Stocks Slip, Oil Rises on Fresh Tanker Attack",
+      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 18:30:00 GMT",
+      "sentiment": 0.15
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -199,10 +199,10 @@
       "sentiment": 0.14285714285714285
     },
     {
-      "title": "Oil Lower Despite Elevated Mideast Tensions, U.S. Hurricane Threat",
+      "title": "Oil Futures Return Some Gains As U.S. Strike Concerns Wane",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-prices-likely-to-remain-high-in-short-term-c7024a73?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 12:29:00 GMT",
-      "sentiment": 0.0
+      "published": "Fri, 09 Oct 2026 13:43:00 GMT",
+      "sentiment": -0.08333333333333333
     },
     {
       "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
@@ -259,16 +259,16 @@
       "sentiment": -0.20277777777777778
     },
     {
+      "title": "Prudential Financial’s Japanese Businesses Get Suspension, Improvement Orders from Regulator After Misconduct",
+      "link": "https://www.wsj.com/finance/regulation/prudential-financials-japanese-businesses-get-suspension-improvement-orders-from-regulator-61acb48b?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 13:20:00 GMT",
+      "sentiment": 0.1142857142857143
+    },
+    {
       "title": "The Morning Risk Report: The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-ae8807db?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 11:26:00 GMT",
       "sentiment": 0.05833333333333333
-    },
-    {
-      "title": "Prudential Financial’s Japanese Businesses Get Suspension, Improvement Orders from Regulator",
-      "link": "https://www.wsj.com/finance/regulation/prudential-financials-japanese-businesses-get-suspension-improvement-orders-from-regulator-61acb48b?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 11:04:00 GMT",
-      "sentiment": -0.01060606060606061
     },
     {
       "title": "Trump Throws His Weight Behind Credit-Card Legislation Most Feared by Banks",
@@ -289,6 +289,18 @@
       "sentiment": -0.125
     },
     {
+      "title": "A Guide to Buying Bonds When Yields Are on the Rise",
+      "link": "https://www.wsj.com/finance/investing/a-guide-to-buying-bonds-when-yields-are-on-the-rise-f8b6cc98?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 21:41:00 GMT",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Why the Battered Bond Market Is Finally Getting a Reprieve",
+      "link": "https://www.wsj.com/finance/investing/why-the-battered-bond-market-is-finally-getting-a-reprieve-79ec4348?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 21:33:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Gridlock Is Good for Stocks. Certainty Is Better.",
       "link": "https://www.wsj.com/finance/investing/gridlock-is-good-for-stocks-certainty-is-better-d4d2bb1a?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 10:56:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/rising-rates-are-eroding-the-value-of-even-the-most-high-flying-tech-stocks-fb420a5e?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 21:10:00 GMT",
       "sentiment": 0.2916666666666667
-    },
-    {
-      "title": "Ripple, Crypto’s Payments Giant, Breaks Into Wall Street",
-      "link": "https://www.wsj.com/finance/investing/ripple-cryptos-payments-giant-breaks-into-wall-street-7b506aa5?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 20:52:00 GMT",
-      "sentiment": -0.11666666666666667
-    },
-    {
-      "title": "Auction Action Calms Treasurys",
-      "link": "https://www.wsj.com/finance/stocks/auction-action-calms-treasurys-1a49b93c?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 20:50:00 GMT",
-      "sentiment": -0.3
     },
     {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 13:12:00 GMT",
+      "published": "Fri, 09 Oct 2026 13:14:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {

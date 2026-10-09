@@ -1,10 +1,40 @@
 {
   "entries": [
     {
+      "title": "Burnham promises to curb non-compete rules in job contracts",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 13:02:47 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 14:36:35 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
       "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 04:55:14 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "I've been with my boyfriend for two years and don't know his salary",
+      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 09:37:38 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic bans users from being 'cruel' to its AI systems",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 12:34:27 GMT",
+      "sentiment": -0.5666666666666667
+    },
+    {
+      "title": "Why are more roofs not made of solar tiles?",
+      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 23:09:56 GMT",
+      "sentiment": 0.65
     },
     {
       "title": "'Add me on WhatsApp' scam calls to be investigated",
@@ -13,10 +43,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "I've been with my boyfriend for two years and don't know his salary",
-      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 09:37:38 GMT",
-      "sentiment": 0.0
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 09:30:49 GMT",
+      "sentiment": -0.05
     },
     {
       "title": "White House blocks Microsoft from foreign worker hiring programme",
@@ -31,28 +61,22 @@
       "sentiment": -0.25454545454545446
     },
     {
-      "title": "Why are more roofs not made of solar tiles?",
-      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 23:09:56 GMT",
-      "sentiment": 0.65
-    },
-    {
       "title": "'You cannot build this car anywhere else in the world'",
       "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 05:11:49 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 07:14:30 GMT",
-      "sentiment": -0.10833333333333334
-    },
-    {
       "title": "Everton owners consider selling club two years after takeover",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 08:23:50 GMT",
       "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 07:14:30 GMT",
+      "sentiment": -0.10833333333333334
     },
     {
       "title": "Adidas sues Australian label White Fox over four stripes design",
@@ -125,36 +149,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 05:08:56 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 01:59:54 GMT",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 20:34:17 GMT",
-      "sentiment": -0.042857142857142844
-    },
-    {
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 17:18:30 GMT",
-      "sentiment": 0.16
-    },
-    {
-      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 00:53:46 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 14:33:11 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
