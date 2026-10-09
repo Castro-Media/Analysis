@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Shawn Fain Claims Victory in UAW Election Rout",
+      "link": "https://www.wsj.com/business/autos/shawn-fain-claims-victory-in-uaw-election-rout-d69bac24?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 22:06:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d3493e8c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 21:08:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Brands Say They’re Pouring Tariff Refunds Into Marketing",
       "link": "https://www.wsj.com/cmo-today/brands-say-theyre-pouring-tariff-refunds-into-marketing-fc7b8c32?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 17:56:00 GMT",
@@ -13,12 +25,6 @@
       "sentiment": 0.6
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d3493e8c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 16:28:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "Chinese Auto Giant Geely Announces Canada Entry in 2027 as U.S. Seeks Ban",
       "link": "https://www.wsj.com/business/autos/chinese-auto-giant-geely-announces-canada-entry-in-2027-as-u-s-seeks-ban-5fc6681c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 14:36:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-9fce20b3?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 11:53:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Delta’s CEO on Skipping Starlink, Premium-Travel Rush and High Fuel Prices",
-      "link": "https://www.wsj.com/business/airlines/deltas-ceo-on-skipping-starlink-premium-travel-rush-and-high-fuel-prices-47102a88?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 10:33:00 GMT",
-      "sentiment": 0.16
     },
     {
       "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
@@ -103,6 +103,12 @@
       "sentiment": 0.2333333333333333
     },
     {
+      "title": "Delta’s CEO on Skipping Starlink, Premium-Travel Rush and High Fuel Prices",
+      "link": "https://www.wsj.com/business/airlines/deltas-ceo-on-skipping-starlink-premium-travel-rush-and-high-fuel-prices-47102a88?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 10:33:00 GMT",
+      "sentiment": 0.16
+    },
+    {
       "title": "Porsche Deliveries Fell 16% in First Nine Months of Year",
       "link": "https://www.wsj.com/business/autos/porsche-deliveries-fell-16-in-first-nine-months-of-year-33f8bb57?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 07:49:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/7-eleven-owner-reports-lower-quarterly-profit-4f9d54f9?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 11:16:00 GMT",
       "sentiment": 0.02
-    },
-    {
-      "title": "Tesco Lifts Lower End of Profit Outlook on Sales Momentum",
-      "link": "https://www.wsj.com/business/earnings/tesco-lifts-lower-end-of-profit-outlook-on-sales-momentum-3e51a684?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 08:45:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports",
@@ -193,16 +193,22 @@
       "sentiment": -0.6999999999999998
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d7e2726d?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 21:03:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-dd92b6be?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 21:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 19:33:00 GMT",
       "sentiment": 0.13888888888888887
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d7e2726d?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 16:26:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/american-oil-refiners-are-printing-money-as-wars-shrink-global-energy-supplies-c9240231?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Brent Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-more-than-2-amid-houthi-attacks-u-s-gulf-shut-ins-51687549?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 14:19:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "American Airlines Is the Worst for Bumping Passengers. Now It Says It Will Stop.",
@@ -313,6 +313,12 @@
       "sentiment": 0.3181818181818182
     },
     {
+      "title": "Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
+      "link": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 21:47:00 GMT",
+      "sentiment": -0.010101010101010102
+    },
+    {
       "title": "Microsoft Forms New Xbox Unit Focused on Film, TV in Turnaround Effort",
       "link": "https://www.wsj.com/business/media/microsoft-forms-new-xbox-unit-focused-on-film-tv-in-turnaround-effort-ead1c2a1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 14:37:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/disney-to-stream-2027-super-bowl-a4f6c538?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 16:15:00 GMT",
       "sentiment": 0.10833333333333331
-    },
-    {
-      "title": "Jaguar Trades Conceptual Pink for a Real-World Car ‘That Real People Want to Buy’",
-      "link": "https://www.wsj.com/cmo-today/jaguar-trades-conceptual-pink-for-a-real-world-car-that-real-people-want-to-buy-210c3773?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 13:23:00 GMT",
-      "sentiment": 0.18666666666666668
     },
     {
       "title": "Walmart Wrangles With Complexities of Warehouse Automation",
