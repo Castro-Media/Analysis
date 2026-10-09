@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "'Avert ecological disaster': Advocates sue California over one of the largest water systems in the world",
+      "link": "https://www.latimes.com/environment/story/2026-10-09/california-delta-water-lawsuit",
+      "published": "Fri, 9 Oct 2026 18:37:17 GMT",
+      "sentiment": 0.07500000000000001
+    },
+    {
+      "title": "Lawsuit accusing O.C. Board of Education trustee of choking neighbor dismissed",
+      "link": "https://www.latimes.com/california/story/2026-10-09/lawsuit-accusing-o-c-board-of-education-trustee-of-choking-neighbor-dismissed",
+      "published": "Fri, 9 Oct 2026 17:32:05 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "'Pretty Little Liars' actor Keegan Allen says he was victim of armed robbery in bloody video",
       "link": "https://www.latimes.com/california/story/2026-10-09/pretty-little-liars-actor-keegan-allen-robbery",
       "published": "Fri, 9 Oct 2026 14:11:24 GMT",
@@ -19,16 +31,16 @@
       "sentiment": -0.06388888888888888
     },
     {
-      "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
-      "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.010101010101010102
-    },
-    {
       "title": "This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs",
       "link": "https://www.latimes.com/environment/story/2026-10-09/how-poop-sniffing-dogs-are-helping-save-joshua-trees-mountain-lions",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
+      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "'Circling like sharks': Companies are buying up L.A. County's $4-billion sex abuse settlement",
@@ -49,10 +61,10 @@
       "sentiment": -0.11999999999999997
     },
     {
-      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
-      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
+      "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
+      "sentiment": -0.010101010101010102
     },
     {
       "title": "Crews make progress against Danny fire in the Grapevine; I-5 open in both directions",
@@ -187,16 +199,16 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
-      "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.12727272727272726
-    },
-    {
       "title": "Californians are paying some of the highest water bills in the country",
       "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
+      "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.12727272727272726
     },
     {
       "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
@@ -325,16 +337,16 @@
       "sentiment": 0.05712121212121212
     },
     {
-      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
-      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "'Things got out of control': Video of alleged beating by Santa Ana police spurs investigation",
       "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
+      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Trump suggests letting Iran 'take out' Los Angeles and San Diego at campaign rally",
@@ -439,16 +451,16 @@
       "sentiment": 0.23727272727272725
     },
     {
-      "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
       "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1416666666666667
+    },
+    {
+      "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Statue of storied Sacramento stallion swiped",
@@ -511,10 +523,28 @@
       "sentiment": 0.0
     },
     {
+      "title": "Should California hotels be sued for using fragrances in their lobbies?",
+      "link": "https://www.latimes.com/travel/story/2026-10-03/california-hotels-synthetic-fragrances-lawsuits",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Victims of Catalina medical helicopter crash identified",
       "link": "https://www.latimes.com/california/story/2026-10-03/victims-of-catalina-medical-helicopter-crash-identified",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
+      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.075
+    },
+    {
+      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
+      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
+      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0009259259259259273
     },
     {
       "title": "Arellano: My dad, Steve Hilton and tacos. What could go wrong?",
@@ -527,36 +557,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Should California hotels be sued for using fragrances in their lobbies?",
-      "link": "https://www.latimes.com/travel/story/2026-10-03/california-hotels-synthetic-fragrances-lawsuits",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "L.A. considers the rare closure of an active oil site in Jefferson Park",
-      "link": "https://www.latimes.com/environment/story/2026-10-03/la-considers-rare-closure-of-oil-production-site-in-jefferson-park",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0009259259259259273
-    },
-    {
-      "title": "On isolated Catalina, a lifesaving helicopter flight ends in tragedy, questions",
-      "link": "https://www.latimes.com/california/story/2026-10-03/on-isolated-catalina-lifesaving-helicopter-flight-ends-in-tragedy-questions",
-      "published": "Sat, 3 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
-      "title": "Man suspected in fatal shooting of Culver CityBus driver arrested",
-      "link": "https://www.latimes.com/california/story/2026-10-02/man-suspected-in-fatal-shooting-of-culver-citybus-driver-arrested",
-      "published": "Sat, 3 Oct 2026 02:24:10 GMT",
-      "sentiment": 0.012499999999999997
-    },
-    {
-      "title": "Metrolink riders, brace yourselves: Fares will rise by up to 27% starting Monday",
-      "link": "https://www.latimes.com/california/story/2026-10-02/metrolink-fares-will-rise-by-up-to-27-starting-monday",
-      "published": "Sat, 3 Oct 2026 02:10:43 GMT",
-      "sentiment": 0.08333333333333333
     }
   ]
 }

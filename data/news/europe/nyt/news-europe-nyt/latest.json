@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
+      "published": "Fri, 09 Oct 2026 18:26:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "30,000 Bottles of Italian Red Wine Stolen in Brazen Tuscan Heist",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/wine-heist-italy-marchesi-antinori.html",
+      "published": "Fri, 09 Oct 2026 17:33:39 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay",
       "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html",
       "published": "Fri, 09 Oct 2026 16:40:25 +0000",
@@ -9,7 +21,7 @@
     {
       "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
-      "published": "Fri, 09 Oct 2026 15:23:16 +0000",
+      "published": "Fri, 09 Oct 2026 17:51:24 +0000",
       "sentiment": -0.06590909090909092
     },
     {
@@ -27,7 +39,7 @@
     {
       "title": "China and Europe Step Back From Trade War With Limits on Chinese Car Exports",
       "link": "https://www.nytimes.com/2026/10/09/business/china-european-union-trade.html",
-      "published": "Fri, 09 Oct 2026 16:11:11 +0000",
+      "published": "Fri, 09 Oct 2026 18:54:08 +0000",
       "sentiment": -0.016666666666666666
     },
     {
@@ -39,7 +51,7 @@
     {
       "title": "Anne Carson’s Publisher Has Won the Nobel Prize Twice in Two Years",
       "link": "https://www.nytimes.com/2026/10/09/books/new-directions-nobel-anne-carson.html",
-      "published": "Fri, 09 Oct 2026 16:44:27 +0000",
+      "published": "Fri, 09 Oct 2026 18:00:20 +0000",
       "sentiment": -0.02840909090909091
     },
     {
@@ -155,30 +167,6 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
       "published": "Thu, 08 Oct 2026 19:31:01 +0000",
       "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "Margaret Papandreou, American-Born First Lady of Greece, Dies at 102",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/margaret-papandreou-dead.html",
-      "published": "Thu, 08 Oct 2026 18:53:52 +0000",
-      "sentiment": 0.08958333333333333
-    },
-    {
-      "title": "A Photo of Mussolini’s Corpse Led Page 1. How It Got There Is a Tale.",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/mussolini-corpse-photo.html",
-      "published": "Fri, 09 Oct 2026 13:57:10 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
-      "published": "Thu, 08 Oct 2026 18:37:58 +0000",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Russia’s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
-      "published": "Thu, 08 Oct 2026 18:22:08 +0000",
-      "sentiment": -0.08541666666666664
     }
   ]
 }
