@@ -3,8 +3,14 @@
     {
       "title": "Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
       "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
-      "published": "Fri, 09 Oct 2026 10:53:02 +0000",
+      "published": "Fri, 09 Oct 2026 11:34:26 +0000",
       "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "Houthi Attacks on Riyadh Airport Leave 3 Dead, Saudi Arabia Says",
+      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+      "published": "Fri, 09 Oct 2026 10:56:59 +0000",
+      "sentiment": 0.027777777777777773
     },
     {
       "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
@@ -32,7 +38,7 @@
     },
     {
       "title": "France’s Long, Fervent History of Protest",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/frances-long-fervent-history-of-protest.html",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/france-protest-history.html",
       "published": "Fri, 09 Oct 2026 09:03:55 +0000",
       "sentiment": -0.07222222222222223
     },
@@ -79,16 +85,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "China Expands Its Military Reach by Building a Base in Laos",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
-      "published": "Fri, 09 Oct 2026 02:06:06 +0000",
-      "sentiment": -0.18920454545454546
-    },
-    {
-      "title": "So you’re getting a Nobel Prize? Don’t expect a heads-up.",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/so-you-won-a-nobel-prize-dont-expect-a-heads-up.html",
-      "published": "Fri, 09 Oct 2026 10:25:03 +0000",
-      "sentiment": 0.0
+      "title": "Nobel Prize Winners Don’t Get a Heads-Up",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-prize-winners-phone-call-know.html",
+      "published": "Fri, 09 Oct 2026 11:34:24 +0000",
+      "sentiment": 0.375
     },
     {
       "title": "Navi Pillay, a South African Human Rights Lawyer, Is Awarded the Nobel Peace Prize",
@@ -99,7 +99,7 @@
     {
       "title": "How the Epstein Files forced the Nobel Peace Prize to reckon with impartiality.",
       "link": "https://www.nytimes.com/2026/10/09/world/europe/epstein-files-thorbjorn-jagland-committee.html",
-      "published": "Fri, 09 Oct 2026 10:09:44 +0000",
+      "published": "Fri, 09 Oct 2026 11:39:06 +0000",
       "sentiment": -0.30000000000000004
     },
     {
@@ -117,7 +117,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/heres-the-latest",
-      "published": "Fri, 09 Oct 2026 10:53:01 +0000",
+      "published": "Fri, 09 Oct 2026 11:32:05 +0000",
       "sentiment": 0.5
     },
     {
@@ -191,6 +191,12 @@
       "link": "https://www.nytimes.com/2026/10/08/world/asia/ukraine-south-korea-ambassador.html",
       "published": "Thu, 08 Oct 2026 12:55:01 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "China Expands Its Military Reach by Building a Base in Laos",
+      "link": "https://www.nytimes.com/2026/10/08/world/asia/china-military-base-laos.html",
+      "published": "Fri, 09 Oct 2026 02:06:06 +0000",
+      "sentiment": -0.18920454545454546
     },
     {
       "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
@@ -335,12 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
       "published": "Thu, 08 Oct 2026 00:22:35 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Mass Trials Put Hundreds in One Dock in El Salvador",
-      "link": "https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html",
-      "published": "Wed, 07 Oct 2026 09:02:10 +0000",
-      "sentiment": -0.25
     }
   ]
 }
