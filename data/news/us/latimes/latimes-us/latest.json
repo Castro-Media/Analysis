@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Postal worker charged with beating Sugar, a beloved Pasadena white peacock",
+      "link": "https://www.latimes.com/california/story/2026-10-10/postal-worker-charged-with-beating-sugar-pasadena-white-peacock",
+      "published": "Sat, 10 Oct 2026 17:07:23 GMT",
+      "sentiment": 0.375
+    },
+    {
       "title": "Iowa fugitive worked as a chef in San Diego under an alias for more than a decade",
       "link": "https://www.latimes.com/california/story/2026-10-10/iowa-fugitive-worked-as-san-diego-chef-under-alias-for-decade",
       "published": "Sat, 10 Oct 2026 12:00:00 GMT",
@@ -13,12 +19,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Tropical Storm Rachel is behaving in unusual ways. What that means for SoCal this weekend",
-      "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
-      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
       "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
@@ -29,6 +29,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
       "sentiment": -0.18181818181818182
+    },
+    {
+      "title": "Tropical Storm Rachel is behaving in unusual ways. What that means for SoCal this weekend",
+      "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
+      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
@@ -97,12 +103,6 @@
       "sentiment": 0.21212121212121213
     },
     {
-      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
-      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
       "title": "Southern California braces for Tropical Storm Rachel. 'This is not even the worst,' official says",
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -125,6 +125,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09523809523809523
+    },
+    {
+      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
+      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "Crews make progress against Danny fire in the Grapevine; I-5 open in both directions",
@@ -217,16 +223,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
-      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
       "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
+      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
@@ -551,12 +557,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-03/culver-city-protesters-demand-sony-amazon-pintrest-defend-democracy",
       "published": "Sat, 3 Oct 2026 23:51:14 GMT",
       "sentiment": 0.19166666666666665
-    },
-    {
-      "title": "Victim of fatal Culver CityBus shooting was longtime bus driver, loving family man",
-      "link": "https://www.latimes.com/california/story/2026-10-03/culver-citybus-shooting-victim-identified-suspect-arrested",
-      "published": "Sat, 3 Oct 2026 22:35:04 GMT",
-      "sentiment": 0.14999999999999997
     }
   ]
 }
