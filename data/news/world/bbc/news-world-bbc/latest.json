@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 12:29:31 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 11:17:15 GMT",
+      "sentiment": 0.10357142857142856
+    },
+    {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 04:38:20 GMT",
@@ -13,21 +25,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 21:55:51 GMT",
-      "sentiment": -0.16249999999999998
-    },
-    {
       "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
       "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 04:34:55 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 11:55:12 GMT",
       "sentiment": 0.0
     },
     {
@@ -37,16 +37,34 @@
       "sentiment": 0.0
     },
     {
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 21:26:30 GMT",
-      "sentiment": 0.3
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 12:28:51 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 11:55:12 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 21:55:51 GMT",
+      "sentiment": -0.16249999999999998
     },
     {
       "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
       "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 04:07:11 GMT",
       "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 21:26:30 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "US country music star Ella Langley cancels show due to 'security threat'",
@@ -89,24 +107,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 09 Oct 2026 22:41:21 GMT",
       "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 09:09:03 GMT",
-      "sentiment": 0.44999999999999996
-    },
-    {
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 13:50:25 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Two Renoir paintings stolen from French museum are recovered",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:25:18 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
