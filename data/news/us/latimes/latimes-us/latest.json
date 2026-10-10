@@ -175,12 +175,6 @@
       "sentiment": 0.05555555555555555
     },
     {
-      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
-      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
@@ -197,6 +191,12 @@
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
@@ -229,12 +229,6 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
-      "link": "https://www.latimes.com/california/story/2026-10-07/mother-arrested-14-year-old-allegedly-impregnated-by-her-father",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
       "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
       "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
@@ -245,6 +239,12 @@
       "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
+      "link": "https://www.latimes.com/california/story/2026-10-07/mother-arrested-14-year-old-allegedly-impregnated-by-her-father",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.19999999999999998
     },
     {
       "title": "Santa Monica man who was charged with kidnapping UCLA student, raping another woman is found dead",
@@ -481,16 +481,16 @@
       "sentiment": 0.23727272727272725
     },
     {
-      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1416666666666667
-    },
-    {
       "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
       "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1416666666666667
     },
     {
       "title": "Statue of storied Sacramento stallion swiped",
@@ -553,8 +553,8 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump is campaigning in reliably red states, a sign of midterm concerns",
-      "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
+      "title": "Victims of Catalina medical helicopter crash identified",
+      "link": "https://www.latimes.com/california/story/2026-10-03/victims-of-catalina-medical-helicopter-crash-identified",
       "published": "Sat, 3 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     }
