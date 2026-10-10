@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+      "link": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
+      "published": "Sat, 10 Oct 2026 16:47:15 +0000",
+      "sentiment": -0.15
+    },
+    {
       "title": "Fact-Checking Senate Ads in Iowa, New Hampshire and North Carolina",
       "link": "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html",
       "published": "Sat, 10 Oct 2026 09:01:19 +0000",
@@ -13,10 +19,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "A Vague, Redacted Execution Protocol in Tennessee Draws Scrutiny",
+      "title": "After Christa Pike’s Botched Execution, Tennessee’s Lethal Injection Protocol Draws Scrutiny",
       "link": "https://www.nytimes.com/2026/10/10/us/politics/tennessee-lethal-injection-protocol-christa-pike.html",
-      "published": "Sat, 10 Oct 2026 09:00:58 +0000",
-      "sentiment": -0.29166666666666663
+      "published": "Sat, 10 Oct 2026 15:45:46 +0000",
+      "sentiment": -0.2222222222222222
     },
     {
       "title": "In Deep-Red Kansas, a Surprisingly Competitive Senate Race Takes Shape",
@@ -33,7 +39,7 @@
     {
       "title": "Fort Hood Shooter’s Execution Could Face Challenge in Federal Courts",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/fort-hood-execution-legal-challenges.html",
-      "published": "Fri, 09 Oct 2026 21:26:59 +0000",
+      "published": "Fri, 09 Oct 2026 21:27:00 +0000",
       "sentiment": 0.0
     },
     {
@@ -75,7 +81,7 @@
     {
       "title": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html",
-      "published": "Fri, 09 Oct 2026 21:37:17 +0000",
+      "published": "Fri, 09 Oct 2026 21:37:18 +0000",
       "sentiment": 0.1806060606060606
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/08/us/politics/michigan-senate-debate-moments-el-sayed-rogers.html",
       "published": "Fri, 09 Oct 2026 14:51:01 +0000",
       "sentiment": 0.0625
-    },
-    {
-      "title": "Arlington County Sues to Block Trump’s Triumphal Arch",
-      "link": "https://www.nytimes.com/2026/10/08/us/politics/arlington-county-lawsuit-trump-arch.html",
-      "published": "Fri, 09 Oct 2026 02:33:21 +0000",
-      "sentiment": 0.03333333333333333
     }
   ]
 }

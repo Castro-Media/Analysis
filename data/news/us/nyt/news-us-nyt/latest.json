@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Multiple People Are Dead in Erie, Pa., Shooting, City Officials Say",
+      "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+      "link": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
+      "published": "Sat, 10 Oct 2026 16:47:15 +0000",
+      "sentiment": -0.15
+    },
+    {
+      "title": "8 People Are Killed in Shooting in Erie, Pa., City Officials Say",
       "link": "https://www.nytimes.com/2026/10/10/us/erie-shooting-pennsylvania-multiple-dead.html",
-      "published": "Sat, 10 Oct 2026 14:39:10 +0000",
-      "sentiment": -0.15000000000000002
+      "published": "Sat, 10 Oct 2026 15:48:24 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "Executions, After Christa Pike, Are on the Minds of a Divided Public",
@@ -25,10 +31,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "A Vague, Redacted Execution Protocol in Tennessee Draws Scrutiny",
+      "title": "After Christa Pike’s Botched Execution, Tennessee’s Lethal Injection Protocol Draws Scrutiny",
       "link": "https://www.nytimes.com/2026/10/10/us/politics/tennessee-lethal-injection-protocol-christa-pike.html",
-      "published": "Sat, 10 Oct 2026 09:00:58 +0000",
-      "sentiment": -0.29166666666666663
+      "published": "Sat, 10 Oct 2026 15:45:46 +0000",
+      "sentiment": -0.2222222222222222
     },
     {
       "title": "7 Coffins Are Found Near North Dakota Governor’s Residence",
@@ -75,7 +81,7 @@
     {
       "title": "Fort Hood Shooter’s Execution Could Face Challenge in Federal Courts",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/fort-hood-execution-legal-challenges.html",
-      "published": "Fri, 09 Oct 2026 21:26:59 +0000",
+      "published": "Fri, 09 Oct 2026 21:27:00 +0000",
       "sentiment": 0.0
     },
     {
@@ -129,38 +135,14 @@
     {
       "title": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
       "link": "https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html",
-      "published": "Fri, 09 Oct 2026 21:37:17 +0000",
+      "published": "Fri, 09 Oct 2026 21:37:18 +0000",
       "sentiment": 0.1806060606060606
     },
     {
       "title": "James Talarico Returns to Senate Campaign Trail in Texas After 10-Day Absence",
       "link": "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html",
-      "published": "Fri, 09 Oct 2026 22:23:04 +0000",
+      "published": "Fri, 09 Oct 2026 22:23:05 +0000",
       "sentiment": -0.50625
-    },
-    {
-      "title": "Kansas Senate Race Is a Surprising New Midterm Fight",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/kansas-senate-race-adam-hamilton-roger-marshall.html",
-      "published": "Fri, 09 Oct 2026 19:23:04 +0000",
-      "sentiment": 0.33106060606060606
-    },
-    {
-      "title": "Ocasio-Cortez to Campaign for El-Sayed on Bus Tour in Michigan",
-      "link": "https://www.nytimes.com/2026/10/09/us/ocasio-cortez-el-sayed-michigan-senate.html",
-      "published": "Fri, 09 Oct 2026 16:00:06 +0000",
-      "sentiment": 0.22424242424242424
-    },
-    {
-      "title": "Top Democratic Group Pumps Millions Into Kansas Senate Race",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/adam-hamilton-roger-marshall-kansas-senate.html",
-      "published": "Fri, 09 Oct 2026 21:45:21 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
-      "published": "Fri, 09 Oct 2026 17:51:25 +0000",
-      "sentiment": -0.06590909090909092
     }
   ]
 }
