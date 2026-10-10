@@ -61,18 +61,6 @@
       "sentiment": 0.21212121212121213
     },
     {
-      "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
-      "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.010101010101010102
-    },
-    {
-      "title": "This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs",
-      "link": "https://www.latimes.com/environment/story/2026-10-09/how-poop-sniffing-dogs-are-helping-save-joshua-trees-mountain-lions",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
       "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -83,6 +71,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15
+    },
+    {
+      "title": "This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs",
+      "link": "https://www.latimes.com/environment/story/2026-10-09/how-poop-sniffing-dogs-are-helping-save-joshua-trees-mountain-lions",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
+      "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.010101010101010102
     },
     {
       "title": "'Circling like sharks': Companies are buying up L.A. County's $4-billion sex abuse settlement",
@@ -103,7 +103,7 @@
       "sentiment": -0.05
     },
     {
-      "title": "California state workers were teleworking from Idaho, Tennessee and Alabama, audit finds",
+      "title": "California state workers were teleworking from Idaho, Tennessee and Alabama, report finds",
       "link": "https://www.latimes.com/california/story/2026-10-08/california-state-workers-teleworked-from-idaho-tennessee-alabama-audit-finds",
       "published": "Thu, 8 Oct 2026 23:01:58 GMT",
       "sentiment": -0.09722222222222222
@@ -181,16 +181,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
-      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
       "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
+      "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
