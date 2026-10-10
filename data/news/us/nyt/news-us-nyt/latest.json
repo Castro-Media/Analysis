@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "4 Killed as a Weakened Isaias Pushes Through the Southeast",
+      "link": "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html",
+      "published": "Sat, 10 Oct 2026 20:32:17 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
+      "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html",
+      "published": "Sat, 10 Oct 2026 20:11:09 +0000",
+      "sentiment": 0.016666666666666666
+    },
+    {
+      "title": "Were Isaias Forecasts Accurate?",
+      "link": "https://www.nytimes.com/2026/10/10/us/isaias-hurricane-forecasts-accurate.html",
+      "published": "Sat, 10 Oct 2026 20:01:19 +0000",
+      "sentiment": -0.07499999999999997
+    },
+    {
       "title": "One Philadelphia Police Officer Killed, Another Shot 12 Times in Ambush Attack",
       "link": "https://www.nytimes.com/2026/10/10/us/philadelphia-shooting-police-killed.html",
       "published": "Sat, 10 Oct 2026 18:53:59 +0000",
@@ -21,7 +39,7 @@
     {
       "title": "8 People Are Killed in Shooting in Erie, Pa., City Officials Say",
       "link": "https://www.nytimes.com/2026/10/10/us/erie-shooting-pennsylvania-multiple-dead.html",
-      "published": "Sat, 10 Oct 2026 17:30:28 +0000",
+      "published": "Sat, 10 Oct 2026 20:03:10 +0000",
       "sentiment": -0.2
     },
     {
@@ -113,24 +131,6 @@
       "link": "https://www.nytimes.com/2026/10/09/us/politics/senate-migrants-detention-guantanamo.html",
       "published": "Fri, 09 Oct 2026 23:55:54 +0000",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Trump Says He Will Import Russian Diesel Fuel Amid High Prices",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
-      "published": "Sat, 10 Oct 2026 03:09:00 +0000",
-      "sentiment": -0.015
-    },
-    {
-      "title": "Donor Says Kimberly Guilfoyle Sought Money From Him to Cover Debt",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/kimberly-guilfoyle-donor-texts.html",
-      "published": "Fri, 09 Oct 2026 23:26:59 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Vance Says He Would Not Watch Livestreamed Execution of Fort Hood Shooter",
-      "link": "https://www.nytimes.com/2026/10/09/us/politics/vance-livestream-execution.html",
-      "published": "Fri, 09 Oct 2026 19:13:29 +0000",
-      "sentiment": 0.0
     }
   ]
 }
