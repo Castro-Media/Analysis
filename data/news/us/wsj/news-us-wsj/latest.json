@@ -1,10 +1,22 @@
 {
   "entries": [
     {
+      "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+      "link": "https://www.wsj.com/us-news/christa-pike-discharged-from-hospital-after-surviving-execution-attempt-a72f02d7?mod=rss_usnews",
+      "published": "Sat, 10 Oct 2026 18:28:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Two Dead After Isaias Crashes Into Gulf Coast",
       "link": "https://www.wsj.com/us-news/climate-environment/hurricane-isaias-makes-landfall-in-florida-ac0b1964?mod=rss_usnews",
-      "published": "Sat, 10 Oct 2026 15:21:00 GMT",
+      "published": "Sat, 10 Oct 2026 17:08:00 GMT",
       "sentiment": -0.05
+    },
+    {
+      "title": "America’s Gig Workers Turn to an Old-School Union",
+      "link": "https://www.wsj.com/us-news/americas-gig-workers-turn-to-an-old-school-union-6003e38d?mod=rss_usnews",
+      "published": "Sat, 10 Oct 2026 17:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "One Acre of Yosemite Has Kicked Off a Battle Over the Future of National Parks",
@@ -23,12 +35,6 @@
       "link": "https://www.wsj.com/politics/national-security/hegseths-plans-to-livestream-an-execution-are-getting-pushback-heres-what-to-know-2ed542da?mod=rss_usnews",
       "published": "Fri, 09 Oct 2026 22:38:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "DHS Secretary Criticizes New York Mayor After ICE Shooting Sparks Protests",
-      "link": "https://www.wsj.com/us-news/ice-agent-shoots-man-in-new-york-city-3e697697?mod=rss_usnews",
-      "published": "Fri, 09 Oct 2026 21:58:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Why Fraternities Are So Hard to Reform",
@@ -61,10 +67,10 @@
       "sentiment": -0.25
     },
     {
-      "title": "How Explosive Rape Allegations Have Left Cornell’s Campus Reeling",
-      "link": "https://www.wsj.com/us-news/cornell-rape-case-campus-student-response-ithaca-6d8094fb?mod=rss_usnews",
-      "published": "Fri, 02 Oct 2026 01:23:00 GMT",
-      "sentiment": 0.08
+      "title": "The Conspiracy Probe of Trump Foes Is Faltering",
+      "link": "https://www.wsj.com/politics/policy/national-security-conspiracy-trump-doj-53593ef9?mod=rss_usnews",
+      "published": "Sat, 10 Oct 2026 18:10:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Trump Announces White House Hearing to Investigate Fed’s Lisa Cook",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/health/healthcare/michigan-files-antitrust-suit-against-blue-cross-blue-shield-over-rising-costs-b250ed15?mod=rss_usnews",
       "published": "Thu, 08 Oct 2026 15:51:00 GMT",
       "sentiment": 0.012500000000000004
-    },
-    {
-      "title": "The Convicted Connecticut Bureaucrat Who Fled to Greece—and Won’t Stop Talking",
-      "link": "https://www.wsj.com/us-news/the-convicted-connecticut-bureaucrat-who-fled-to-greeceand-wont-stop-talking-0d61a180?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 14:21:00 GMT",
-      "sentiment": 0.44999999999999996
     },
     {
       "title": "The 100-Year-Old Math Miscalculation That Broke the Colorado River",
@@ -163,6 +163,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "DHS Secretary Criticizes New York Mayor After ICE Shooting Sparks Protests",
+      "link": "https://www.wsj.com/us-news/ice-agent-shoots-man-in-new-york-city-3e697697?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 21:58:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "The Week Mamdani Started to Lose His Grip on the Left",
       "link": "https://www.wsj.com/us-news/the-week-mamdani-started-to-lose-his-grip-on-the-left-6d852f7c?mod=rss_usnews",
       "published": "Fri, 09 Oct 2026 20:20:00 GMT",
@@ -181,16 +187,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Judge Orders Officials to Save Evidence in Christa Pike’s Failed Execution",
-      "link": "https://www.wsj.com/us-news/law/judge-orders-officials-to-save-evidence-in-christa-pikes-failed-execution-5f5edb7b?mod=rss_usnews",
-      "published": "Wed, 07 Oct 2026 19:16:00 GMT",
-      "sentiment": -0.4666666666666666
-    },
-    {
-      "title": "Measles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years",
-      "link": "https://www.wsj.com/us-news/measles-outbreak-in-pennsylvania-is-now-the-biggest-in-u-s-in-35-years-90788468?mod=rss_usnews",
-      "published": "Wed, 07 Oct 2026 17:48:00 GMT",
-      "sentiment": 0.0
+      "title": "The Convicted Connecticut Bureaucrat Who Fled to Greece—and Won’t Stop Talking",
+      "link": "https://www.wsj.com/us-news/the-convicted-connecticut-bureaucrat-who-fled-to-greeceand-wont-stop-talking-0d61a180?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 14:21:00 GMT",
+      "sentiment": 0.44999999999999996
     },
     {
       "title": "Advanced Stats and $500 Bats: Why Baseball for 6-Year-Olds Is Breaking the Bank",
@@ -217,10 +217,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Five Things I Learned in Hiring a Financial Adviser",
-      "link": "https://www.wsj.com/personal-finance/hiring-financial-advisor-tips-02056b3e?mod=rss_usnews",
-      "published": "Sat, 03 Oct 2026 14:00:00 GMT",
-      "sentiment": -0.16666666666666666
+      "title": "The 100-Year-Old Math Miscalculation That Broke the Colorado River",
+      "link": "https://www.wsj.com/us-news/climate-environment/the-100-year-old-math-miscalculation-that-broke-the-colorado-river-7608613d?mod=rss_usnews",
+      "published": "Fri, 09 Oct 2026 16:02:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Cheapest Car Insurance Options 2026",
