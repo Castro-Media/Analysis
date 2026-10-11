@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
+      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
+      "sentiment": -0.09999999999999999
+    },
+    {
       "title": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
       "link": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 12:50:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/articles/the-ai-computing-crunch-is-making-rivals-into-partners-09431721?mod=pls_whats_news_us_business_f",
       "published": "Sat, 10 Oct 2026 11:04:00 GMT",
       "sentiment": 0.55
-    },
-    {
-      "title": "Shawn Fain Claims Victory in UAW Election Rout",
-      "link": "https://www.wsj.com/business/autos/shawn-fain-claims-victory-in-uaw-election-rout-d69bac24?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 22:06:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
@@ -127,6 +127,12 @@
       "sentiment": 0.02
     },
     {
+      "title": "Shawn Fain Claims Victory in UAW Election Rout",
+      "link": "https://www.wsj.com/business/autos/shawn-fain-claims-victory-in-uaw-election-rout-d69bac24?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 22:06:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports",
       "link": "https://www.wsj.com/business/autos/china-eu-move-forward-on-trade-relationship-talks-0f3361b4?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 16:34:00 GMT",
@@ -151,9 +157,15 @@
       "sentiment": 0.2
     },
     {
-      "title": "Porsche AG Increases Stake in Manthey Racing to 67%",
-      "link": "https://www.wsj.com/business/autos/porsche-ag-increases-stake-in-manthey-racing-to-67-93c13b92?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 07:55:00 GMT",
+      "title": "Opinion | Massachusetts’ Policies Increase Electric Bills",
+      "link": "https://www.wsj.com/opinion/massachusetts-policies-increase-electric-bills-a2956d61?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 17:09:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Opinion | How to Help Lower Diesel Costs for Truckers",
+      "link": "https://www.wsj.com/opinion/how-to-help-lower-diesel-costs-for-truckers-a3d76af8?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 17:07:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -179,18 +191,6 @@
       "link": "https://www.wsj.com/opinion/let-physics-regulate-the-ai-industry-e1ee9084?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 21:17:00 GMT",
       "sentiment": 0.09949494949494951
-    },
-    {
-      "title": "Opinion | If Boulder County Is So Eager to Sue, Why Not Sue Us All?",
-      "link": "https://www.wsj.com/opinion/if-boulder-county-is-so-eager-to-sue-why-not-sue-us-all-69c84311?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 19:50:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Opinion | Hollywood, Ignore Hollywood",
-      "link": "https://www.wsj.com/opinion/hollywood-ignore-hollywood-bf53f902?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 06 Oct 2026 20:38:00 GMT",
-      "sentiment": -0.6999999999999998
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -481,16 +481,16 @@
       "sentiment": 0.03125
     },
     {
-      "title": "Chinese Auto Giant Geely Announces Canada Entry in 2027 as U.S. Seeks Ban",
-      "link": "https://www.wsj.com/business/autos/chinese-auto-giant-geely-announces-canada-entry-in-2027-as-u-s-seeks-ban-5fc6681c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 14:36:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit",
       "link": "https://www.wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 09:30:00 GMT",
       "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "Chinese Auto Giant Geely Announces Canada Entry in 2027 as U.S. Seeks Ban",
+      "link": "https://www.wsj.com/business/autos/chinese-auto-giant-geely-announces-canada-entry-in-2027-as-u-s-seeks-ban-5fc6681c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 14:36:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in October 2026",

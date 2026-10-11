@@ -49,12 +49,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
-      "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
-      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24
-    },
-    {
       "title": "Tropical Storm Rachel is behaving in unusual ways. What that means for SoCal this weekend",
       "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
@@ -65,6 +59,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
       "sentiment": -0.18181818181818182
+    },
+    {
+      "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
+      "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
+      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.24
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
@@ -253,16 +253,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
-    },
-    {
       "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08888888888888889
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
