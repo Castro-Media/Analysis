@@ -223,6 +223,12 @@
       "sentiment": 0.05555555555555555
     },
     {
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
@@ -239,12 +245,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
-      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
@@ -277,16 +277,16 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
-      "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.12727272727272726
-    },
-    {
       "title": "Californians are paying some of the highest water bills in the country",
       "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
+      "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.12727272727272726
     },
     {
       "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
@@ -415,16 +415,16 @@
       "sentiment": 0.05712121212121212
     },
     {
-      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
-      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "'Things got out of control': Video of alleged beating by Santa Ana police spurs investigation",
       "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
+      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Trump suggests letting Iran 'take out' Los Angeles and San Diego at campaign rally",
@@ -529,16 +529,16 @@
       "sentiment": 0.23727272727272725
     },
     {
-      "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
       "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1416666666666667
+    },
+    {
+      "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Statue of storied Sacramento stallion swiped",
@@ -551,12 +551,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-03/nobu-employee-killed-in-crash-on-deadly-stretch-of-pch",
       "published": "Sun, 4 Oct 2026 02:39:25 GMT",
       "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Jackie 'brought us together': Fans say goodbye to beloved Big Bear bald eagle",
-      "link": "https://www.latimes.com/environment/story/2026-10-03/fans-gather-in-big-bear-to-celebrate-famed-bald-eagle-jackie",
-      "published": "Sun, 4 Oct 2026 01:13:14 GMT",
-      "sentiment": 0.35
     }
   ]
 }
