@@ -25,16 +25,16 @@
       "sentiment": 0.375
     },
     {
-      "title": "Iowa fugitive worked as a chef in San Diego under an alias for more than a decade",
-      "link": "https://www.latimes.com/california/story/2026-10-10/iowa-fugitive-worked-as-san-diego-chef-under-alias-for-decade",
-      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Lopez: They were homeless, but turned their lives around. Here's how they did it",
       "link": "https://www.latimes.com/california/story/2026-10-10/they-were-homeless-but-turned-their-lives-around-heres-how-they-did-it",
       "published": "Sat, 10 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Iowa fugitive worked as a chef in San Diego under an alias for more than a decade",
+      "link": "https://www.latimes.com/california/story/2026-10-10/iowa-fugitive-worked-as-san-diego-chef-under-alias-for-decade",
+      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
@@ -121,6 +121,12 @@
       "sentiment": 0.21212121212121213
     },
     {
+      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
+      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
       "title": "Southern California braces for Tropical Storm Rachel. 'This is not even the worst,' official says",
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -143,12 +149,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09523809523809523
-    },
-    {
-      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
-      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
     },
     {
       "title": "Crews make progress against Danny fire in the Grapevine; I-5 open in both directions",
@@ -229,16 +229,16 @@
       "sentiment": 0.05555555555555555
     },
     {
-      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
-      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08888888888888889
     },
     {
       "title": "ICE detainees sprayed with toxic cleaner during COVID crisis to get six-figure payout in settlement",
@@ -247,10 +247,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
+      "sentiment": -0.1
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
@@ -283,16 +283,16 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Californians are paying some of the highest water bills in the country",
-      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
       "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.12727272727272726
+    },
+    {
+      "title": "Californians are paying some of the highest water bills in the country",
+      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
@@ -421,16 +421,16 @@
       "sentiment": 0.05712121212121212
     },
     {
-      "title": "'Things got out of control': Video of alleged beating by Santa Ana police spurs investigation",
-      "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
       "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
       "published": "Tue, 6 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "'Things got out of control': Video of alleged beating by Santa Ana police spurs investigation",
+      "link": "https://www.latimes.com/california/story/2026-10-06/video-of-alleged-beating-by-santa-ana-police-spurs-investigation",
+      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Trump suggests letting Iran 'take out' Los Angeles and San Diego at campaign rally",
@@ -535,16 +535,16 @@
       "sentiment": 0.23727272727272725
     },
     {
-      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1416666666666667
-    },
-    {
       "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
       "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1416666666666667
     },
     {
       "title": "Statue of storied Sacramento stallion swiped",
