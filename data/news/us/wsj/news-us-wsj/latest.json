@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "The Cameras Designed to Keep Us Safe Are Now Being Used in War",
+      "link": "https://www.wsj.com/world/the-cameras-designed-to-keep-us-safe-are-now-being-used-in-war-7ab1078b?mod=rss_usnews",
+      "published": "Sun, 11 Oct 2026 11:01:00 GMT",
+      "sentiment": 0.10727272727272727
+    },
+    {
       "title": "Four Dead After Isaias Crashes Into Gulf Coast",
       "link": "https://www.wsj.com/us-news/climate-environment/hurricane-isaias-makes-landfall-in-florida-ac0b1964?mod=rss_usnews",
       "published": "Sat, 10 Oct 2026 23:02:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/yosemite-kingsbarn-realty-capital-08ea0831?mod=rss_usnews",
       "published": "Sat, 10 Oct 2026 09:30:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
-      "link": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54?mod=rss_usnews",
-      "published": "Sat, 10 Oct 2026 03:34:00 GMT",
-      "sentiment": -0.30000000000000004
     },
     {
       "title": "Why Fraternities Are So Hard to Reform",
@@ -73,6 +73,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
+      "link": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54?mod=rss_usnews",
+      "published": "Sat, 10 Oct 2026 03:34:00 GMT",
+      "sentiment": -0.30000000000000004
+    },
+    {
       "title": "Trump Announces White House Hearing to Investigate Fed’s Lisa Cook",
       "link": "https://www.wsj.com/economy/central-banking/trump-announces-committee-to-investigate-fed-governor-lisa-cook-bcd509fa?mod=rss_usnews",
       "published": "Fri, 09 Oct 2026 20:27:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/us-news/u-s-prosecutors-bring-torture-charge-against-nicolas-maduro-bc8b6527?mod=rss_usnews",
       "published": "Thu, 08 Oct 2026 20:36:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Michigan Files Antitrust Suit Against Blue Cross Blue Shield Over Rising Costs",
-      "link": "https://www.wsj.com/health/healthcare/michigan-files-antitrust-suit-against-blue-cross-blue-shield-over-rising-costs-b250ed15?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 15:51:00 GMT",
-      "sentiment": 0.012500000000000004
     },
     {
       "title": "The 100-Year-Old Math Miscalculation That Broke the Colorado River",
@@ -193,16 +193,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Pentagon Says Fort Hood Shooter Execution Will Be Livestreamed",
-      "link": "https://www.wsj.com/us-news/pentagon-says-fort-hood-shooter-execution-will-be-livestreamed-9cbe6559?mod=rss_usnews",
-      "published": "Thu, 08 Oct 2026 22:45:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "One Acre of Yosemite Has Kicked Off a Battle Over the Future of National Parks",
       "link": "https://www.wsj.com/us-news/yosemite-kingsbarn-realty-capital-08ea0831?mod=rss_usnews",
       "published": "Sat, 10 Oct 2026 09:30:00 GMT",
       "sentiment": -0.2
+    },
+    {
+      "title": "Pentagon Says Fort Hood Shooter Execution Will Be Livestreamed",
+      "link": "https://www.wsj.com/us-news/pentagon-says-fort-hood-shooter-execution-will-be-livestreamed-9cbe6559?mod=rss_usnews",
+      "published": "Thu, 08 Oct 2026 22:45:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "The ‘Cornell 7’ Lawsuit Has Reignited America’s Debate Over Sexual Consent",
