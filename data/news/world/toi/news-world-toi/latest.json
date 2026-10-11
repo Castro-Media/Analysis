@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "UC San Diego finds genetic switch that gave butterflies richer colour vision",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/uc-san-diego-biologists-identified-the-genetic-switch-that-gave-butterflies-an-extra-light-detecting-cell-in-their-eyes-expanding-their-colour-vision-beyond-imagination/articleshow/134866696.cms",
+      "published": "2026-10-11T14:00:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "This couple's $100 million gift made Yale School of Music tuition-free",
+      "link": "https://timesofindia.indiatimes.com/education/news/a-100-million-gift-from-stephen-and-denise-adams-made-yale-school-of-music-tuition-free-for-2026-27-admitted-students-receive-a-full-tuition-award-worth-42000-plus-a-school-fellowship/articleshow/134866318.cms",
+      "published": "2026-10-11T13:55:00+05:30",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Nasa-backed spacecraft to inspect dead space objects, test future repair and debris removal tech",
+      "link": "https://timesofindia.indiatimes.com/science/space/a-washing-machine-sized-nasa-supported-spacecraft-will-approach-four-defunct-satellites-and-rocket-bodies-testing-technology-that-could-one-day-help-repair-spacecraft-or-remove-orbital-debris/articleshow/134866200.cms",
+      "published": "2026-10-11T12:55:00+05:30",
+      "sentiment": 0.05000000000000001
+    },
+    {
+      "title": "In 1967, an Australian man built a house from discarded glass bottles; today, it is a mining museum",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1967-an-australian-man-built-a-house-from-thousands-of-discarded-glass-bottles-nearly-60-years-later-the-unusual-lightning-ridge-building-survives-as-a-mining-museum-and-tourist-attraction/articleshow/134866322.cms",
+      "published": "2026-10-11T12:59:13+05:30",
+      "sentiment": -0.0071428571428571435
+    },
+    {
+      "title": "T’Emi Oshin: Wayne State’s first Obama-Chesky voyager scholar",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-temi-oshin-the-20-year-old-wayne-state-student-who-scored-1590-on-the-sat-and-became-the-universitys-first-obama-chesky-voyager-scholar-she-is-also-being-honoured-for-youth-advocacy-and-public-health-work/articleshow/134866456.cms",
+      "published": "2026-10-11T13:00:00+05:30",
+      "sentiment": 0.125
+    },
+    {
       "title": "Wild horses and donkeys dig desert wells in Arizona, supplying water to 57 vertebrate species",
       "link": "https://timesofindia.indiatimes.com/science/nature/in-2015-researchers-began-tracking-wells-dug-by-wild-horses-and-donkeys-in-arizonas-sonoran-desert-by-2018-they-found-some-supplied-up-to-74-of-available-surface-water-and-were-used-by-57-vertebrate-species/articleshow/134832480.cms",
       "published": "2026-10-11T11:53:54+05:30",
@@ -16,6 +46,12 @@
       "title": "Hurricane Isaias kills 4 in US, leaves hundreds of thousands without power - video",
       "link": "https://timesofindia.indiatimes.com/world/us/hurricane-isaias-kills-4-in-us-leaves-hundreds-of-thousands-without-power/articleshow/134864217.cms",
       "published": "2026-10-11T08:40:36+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "70-year-old woman swims 20 miles across Catalina Channel to support kidney charity",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-70-year-old-woman-swam-20-miles-across-californias-catalina-channel-after-her-brother-received-a-kidney-transplant-she-raised-over-15000/articleshow/134763559.cms",
+      "published": "2026-10-11T13:00:00+05:30",
       "sentiment": 0.0
     },
     {
@@ -83,42 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/scottish-prawn-trawler-sustain-hit-rocks-near-ullapool-after-its-skipper-fell-asleep-he-was-exhausted-after-days-at-sea-and-no-watch-alarm-was-fitted/articleshow/134703828.cms",
       "published": "2026-10-11T07:00:00+05:30",
       "sentiment": -0.2
-    },
-    {
-      "title": "New Zealand’s 1904 bridge survived replacement and became a historic landmark",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-replaced-this-1904-bridge-with-a-modern-crossing-after-112-years-locals-saved-the-historic-structure-now-the-countrys-only-surviving-steel-cantilever-road-bridge/articleshow/134740048.cms",
-      "published": "2026-10-11T04:00:00+05:30",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Harvard’s $27.50 stained document was a rare Magna Carta original",
-      "link": "https://timesofindia.indiatimes.com/world/us/harvard-bought-this-stained-document-for-27-50-decades-later-experts-realised-it-was-an-original-magna-carta/articleshow/134793687.cms",
-      "published": "2026-10-11T03:00:00+05:30",
-      "sentiment": 0.225
-    },
-    {
-      "title": "Teacher married a surgeon in 1969 and turned their farm into a nature preserve",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-teacher-went-on-a-blind-date-with-a-surgeon-in-1969-and-ended-up-learning-to-run-his-dairy-farm-their-160-acre-illinois-property-is-now-a-nature-preserve/articleshow/134704309.cms",
-      "published": "2026-10-11T01:00:00+05:30",
-      "sentiment": 0.125
-    },
-    {
-      "title": "'As one of the largest research universities...': Arizona State responds to federal probe into J-1 visa use after JD Vance says 'something weird is going on'",
-      "link": "https://timesofindia.indiatimes.com/world/us/as-one-of-the-largest-research-universities-arizona-state-responds-to-federal-probe-into-j-1-visa-use-after-jd-vance-says-something-weird-is-going-on/articleshow/134860899.cms",
-      "published": "2026-10-11T01:32:30+05:30",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Strong pushback as US downgrades Hong Kong to tier-3 in human trafficking: 'Double standard'",
-      "link": "https://timesofindia.indiatimes.com/world/us/strong-pushback-as-us-downgrades-hong-kong-to-tier-3-in-human-trafficking-double-standard/articleshow/134860776.cms",
-      "published": "2026-10-11T01:07:40+05:30",
-      "sentiment": 0.08666666666666667
-    },
-    {
-      "title": "US death row inmate Christa Pike back in prison from hospital after failed execution",
-      "link": "https://timesofindia.indiatimes.com/world/us/us-death-row-inmate-christa-pike-returns-to-prison-after-after-surviving-failed-lethal-injection-execution/articleshow/134859501.cms",
-      "published": "2026-10-10T23:42:58+05:30",
-      "sentiment": -0.21428571428571427
     }
   ]
 }
