@@ -85,6 +85,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
+      "link": "https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html",
+      "published": "Sat, 10 Oct 2026 23:02:13 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "3 Men Found Guilty in Murders of Tourists on Mexico Surf Trip",
       "link": "https://www.nytimes.com/2026/10/10/world/americas/mexico-murder-trial-surfers-jake-callum-robinson-rhoad.html",
       "published": "Sat, 10 Oct 2026 18:25:54 +0000",
@@ -99,7 +105,7 @@
     {
       "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
       "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-      "published": "Sat, 10 Oct 2026 22:18:55 +0000",
+      "published": "Sun, 11 Oct 2026 00:31:33 +0000",
       "sentiment": -0.30000000000000004
     },
     {
@@ -335,12 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/prince-andrew-search-warrants-police-uk.html",
       "published": "Thu, 08 Oct 2026 16:10:22 +0000",
       "sentiment": 0.1875
-    },
-    {
-      "title": "Escalating Assaults on Ukrainian Cities Are Taking an Enormous Toll",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-ukraine-war-attack-bus.html",
-      "published": "Thu, 08 Oct 2026 20:59:30 +0000",
-      "sentiment": -0.14285714285714285
     }
   ]
 }
