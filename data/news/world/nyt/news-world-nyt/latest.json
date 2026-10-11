@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Wringing Hope From the Rubble of Gaza",
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-      "published": "Sun, 11 Oct 2026 11:25:54 +0000",
-      "sentiment": -0.016666666666666663
+      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+      "published": "Sun, 11 Oct 2026 13:23:37 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "published": "Sun, 11 Oct 2026 13:03:01 +0000",
+      "sentiment": -0.25
     },
     {
       "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
@@ -13,10 +19,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
-      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-      "published": "Sun, 11 Oct 2026 10:59:34 +0000",
-      "sentiment": 0.3181818181818182
+      "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+      "published": "Sun, 11 Oct 2026 14:19:44 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Wringing Hope From the Rubble of Gaza",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+      "published": "Sun, 11 Oct 2026 11:25:54 +0000",
+      "sentiment": -0.016666666666666663
     },
     {
       "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
@@ -37,6 +49,12 @@
       "sentiment": 0.15656565656565655
     },
     {
+      "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
+      "published": "Sun, 11 Oct 2026 12:55:53 +0000",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
       "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
       "published": "Sat, 10 Oct 2026 17:09:17 +0000",
@@ -55,12 +73,6 @@
       "sentiment": 0.10909090909090909
     },
     {
-      "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
-      "published": "Fri, 09 Oct 2026 20:15:34 +0000",
-      "sentiment": -0.10000000000000002
-    },
-    {
       "title": "Palestinian Authority Says Elections Are to Be Postponed",
       "link": "https://www.nytimes.com/2026/10/09/world/middleeast/palestinian-authority-elections-west-bank-postponed.html",
       "published": "Fri, 09 Oct 2026 14:58:45 +0000",
@@ -73,39 +85,15 @@
       "sentiment": -0.14583333333333334
     },
     {
-      "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
-      "published": "Sat, 10 Oct 2026 00:10:22 +0000",
-      "sentiment": -0.03749999999999999
-    },
-    {
-      "title": "In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark",
-      "link": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html",
-      "published": "Fri, 09 Oct 2026 09:02:38 +0000",
-      "sentiment": 0.07462121212121212
-    },
-    {
-      "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
-      "published": "Sun, 11 Oct 2026 12:55:53 +0000",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Ukraine shrugs off Trump call to ditch Zelensky for energy strikes",
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-      "published": "Sun, 11 Oct 2026 12:11:20 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-      "published": "Sun, 11 Oct 2026 12:08:37 +0000",
-      "sentiment": -0.2
+      "title": "Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti",
+      "link": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
+      "published": "Sun, 11 Oct 2026 14:38:27 +0000",
+      "sentiment": -0.07500000000000001
     },
     {
       "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
       "link": "https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html",
-      "published": "Sat, 10 Oct 2026 23:02:13 +0000",
+      "published": "Sun, 11 Oct 2026 13:31:12 +0000",
       "sentiment": -0.05
     },
     {
@@ -161,6 +149,18 @@
       "link": "https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html",
       "published": "Sat, 10 Oct 2026 16:50:45 +0000",
       "sentiment": 0.061111111111111116
+    },
+    {
+      "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/russia-putin-plane-ukraine.html",
+      "published": "Fri, 09 Oct 2026 20:15:34 +0000",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+      "published": "Sat, 10 Oct 2026 00:10:22 +0000",
+      "sentiment": -0.03749999999999999
     },
     {
       "title": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks",
@@ -265,6 +265,12 @@
       "sentiment": -0.07222222222222223
     },
     {
+      "title": "In a Dead Hero’s Ashes, El Salvador’s Ruler Finds a New Spark",
+      "link": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html",
+      "published": "Fri, 09 Oct 2026 09:02:38 +0000",
+      "sentiment": 0.07462121212121212
+    },
+    {
       "title": "India’s Young Put Their Bodies on the Line to Be Heard",
       "link": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html",
       "published": "Fri, 09 Oct 2026 10:34:43 +0000",
@@ -341,12 +347,6 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/mussolini-corpse-photo.html",
       "published": "Fri, 09 Oct 2026 13:57:11 +0000",
       "sentiment": -0.2
-    },
-    {
-      "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
-      "published": "Thu, 08 Oct 2026 18:37:58 +0000",
-      "sentiment": -0.8
     }
   ]
 }
