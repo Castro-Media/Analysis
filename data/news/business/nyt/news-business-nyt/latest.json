@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "A Contagious Aversion to Overhead Lights",
+      "link": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
+      "published": "Sun, 11 Oct 2026 09:01:32 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "link": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "published": "Sun, 11 Oct 2026 09:01:17 +0000",
+      "sentiment": 0.11666666666666665
+    },
+    {
+      "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
+      "link": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
+      "published": "Sun, 11 Oct 2026 09:00:15 +0000",
+      "sentiment": -0.08571428571428572
+    },
+    {
       "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
       "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
       "published": "Sun, 11 Oct 2026 02:40:52 +0000",
@@ -275,24 +293,6 @@
       "link": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
       "published": "Wed, 07 Oct 2026 00:45:57 +0000",
       "sentiment": 0.16818181818181818
-    },
-    {
-      "title": "U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs",
-      "link": "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html",
-      "published": "Tue, 06 Oct 2026 15:01:37 +0000",
-      "sentiment": 0.08
-    },
-    {
-      "title": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges",
-      "link": "https://www.nytimes.com/2026/10/06/business/dealbook/anthropic-reflection-open-weight-ai.html",
-      "published": "Tue, 06 Oct 2026 12:04:55 +0000",
-      "sentiment": -0.1471590909090909
-    },
-    {
-      "title": "Battle Between Disney and the F.C.C. Moves to the Courts",
-      "link": "https://www.nytimes.com/2026/10/06/business/media/disney-abc-fcc-lawsuit-court.html",
-      "published": "Tue, 06 Oct 2026 19:56:04 +0000",
-      "sentiment": 0.0
     }
   ]
 }

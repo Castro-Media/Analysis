@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "Wringing Hope From the Rubble of Gaza",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+      "published": "Sun, 11 Oct 2026 09:01:25 +0000",
+      "sentiment": -0.016666666666666663
+    },
+    {
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "published": "Sun, 11 Oct 2026 09:00:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "published": "Sun, 11 Oct 2026 09:40:47 +0000",
+      "sentiment": 0.3181818181818182
+    },
+    {
+      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+      "published": "Sun, 11 Oct 2026 09:00:12 +0000",
+      "sentiment": 0.47000000000000003
+    },
+    {
+      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+      "published": "Sun, 11 Oct 2026 09:00:31 +0000",
+      "sentiment": 0.0909090909090909
+    },
+    {
       "title": "What to Know About the Protests in India",
       "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
       "published": "Sun, 11 Oct 2026 06:02:15 +0000",
@@ -23,12 +53,6 @@
       "link": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
       "published": "Sat, 10 Oct 2026 13:35:59 +0000",
       "sentiment": 0.10909090909090909
-    },
-    {
-      "title": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
-      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
-      "published": "Fri, 09 Oct 2026 15:17:55 +0000",
-      "sentiment": 0.027777777777777773
     },
     {
       "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
@@ -59,36 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/09/world/americas/nayib-bukele-francisco-morazan-el-salvador.html",
       "published": "Fri, 09 Oct 2026 09:02:38 +0000",
       "sentiment": 0.07462121212121212
-    },
-    {
-      "title": "Paintings Stolen From Renoir Museum Are Recovered, Authorities Say",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html",
-      "published": "Fri, 09 Oct 2026 13:55:29 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html",
-      "published": "Fri, 09 Oct 2026 10:52:33 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "France’s Long, Fervent History of Protest",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/france-protest-history.html",
-      "published": "Fri, 09 Oct 2026 09:03:55 +0000",
-      "sentiment": -0.07222222222222223
-    },
-    {
-      "title": "India’s Young Put Their Bodies on the Line to Be Heard",
-      "link": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html",
-      "published": "Fri, 09 Oct 2026 10:34:43 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
-      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
-      "published": "Sun, 11 Oct 2026 08:24:11 +0000",
-      "sentiment": 0.3181818181818182
     },
     {
       "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
@@ -199,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Paintings Stolen From Renoir Museum Are Recovered, Authorities Say",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html",
+      "published": "Fri, 09 Oct 2026 13:55:29 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "India Cancels Trains, Floods Capital with Police to Block Protests",
       "link": "https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html",
       "published": "Sat, 10 Oct 2026 03:14:33 +0000",
@@ -217,6 +217,12 @@
       "sentiment": -0.4
     },
     {
+      "title": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
+      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
+      "published": "Fri, 09 Oct 2026 15:17:55 +0000",
+      "sentiment": 0.027777777777777773
+    },
+    {
       "title": "Nobel Prize Winners Don’t Get a Heads-Up",
       "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-prize-winners-phone-call-know.html",
       "published": "Fri, 09 Oct 2026 11:34:25 +0000",
@@ -233,6 +239,18 @@
       "link": "https://www.nytimes.com/2026/10/09/world/europe/epstein-files-thorbjorn-jagland-committee.html",
       "published": "Fri, 09 Oct 2026 11:39:06 +0000",
       "sentiment": -0.30000000000000004
+    },
+    {
+      "title": "France’s Long, Fervent History of Protest",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/france-protest-history.html",
+      "published": "Fri, 09 Oct 2026 09:03:55 +0000",
+      "sentiment": -0.07222222222222223
+    },
+    {
+      "title": "India’s Young Put Their Bodies on the Line to Be Heard",
+      "link": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html",
+      "published": "Fri, 09 Oct 2026 10:34:43 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "New Delhi’s Crackdown on Protesters",
@@ -257,6 +275,12 @@
       "link": "https://www.nytimes.com/2026/10/09/world/europe/holborn-st-pancras-byelection-uk-result.html",
       "published": "Fri, 09 Oct 2026 10:24:27 +0000",
       "sentiment": 0.05142857142857142
+    },
+    {
+      "title": "A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate",
+      "link": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html",
+      "published": "Fri, 09 Oct 2026 10:52:33 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen",
@@ -311,30 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
       "published": "Thu, 08 Oct 2026 18:22:08 +0000",
       "sentiment": -0.08541666666666664
-    },
-    {
-      "title": "Pita Limjaroenrat: The Leader Thailand Could Have Had",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/pita-limjaroenrat-thailand.html",
-      "published": "Thu, 08 Oct 2026 16:10:43 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "At the Athens Democracy Forum, Debating the Risks Posed by A.I.",
-      "link": "https://www.nytimes.com/2026/10/08/world/athens-democracy-forum-artificial-intelligence.html",
-      "published": "Thu, 08 Oct 2026 16:00:04 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nana Patekar, Indian Actor Who Embodied the Everyman, Dies at 75",
-      "link": "https://www.nytimes.com/2026/10/08/world/asia/nana-patekar-dead.html",
-      "published": "Thu, 08 Oct 2026 16:18:39 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners",
-      "link": "https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html",
-      "published": "Thu, 08 Oct 2026 16:28:17 +0000",
-      "sentiment": 0.0
     }
   ]
 }

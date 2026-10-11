@@ -7,6 +7,18 @@
       "sentiment": 0.15
     },
     {
+      "title": "Home Sellers Are Starting to Blink on Prices. That’s Bad for Builders.",
+      "link": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f?mod=rss_markets_main",
+      "published": "Sun, 11 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.3499999999999999
+    },
+    {
+      "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
+      "link": "https://www.wsj.com/finance/investing/economists-bond-yields-forecast-aaa2ff5c?mod=rss_markets_main",
+      "published": "Sun, 11 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
       "link": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main",
       "published": "Sun, 11 Oct 2026 02:46:00 GMT",
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 21:45:00 GMT",
       "sentiment": -0.2138888888888889
-    },
-    {
-      "title": "U.S. Natural Gas Futures Settle Higher",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-31da69cb?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 21:06:00 GMT",
-      "sentiment": 0.07083333333333333
-    },
-    {
-      "title": "SpaceX’s Wireless Move Trips Up Telecoms",
-      "link": "https://www.wsj.com/finance/stocks/spacexs-wireless-move-trips-up-telecoms-49d5f27f?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 20:35:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
@@ -133,6 +133,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "SpaceX’s Wireless Move Trips Up Telecoms",
+      "link": "https://www.wsj.com/finance/stocks/spacexs-wireless-move-trips-up-telecoms-49d5f27f?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 20:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "European Stocks Seen Performing in Line With Global Peers",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-1-dragged-by-chip-metals-stocks-c8be4ccd?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 10:41:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-oil-spikes-ai-profit-doubts-hit-tech-79e35aaa?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 20:42:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Winds Pick Up, Yields Tick Down",
-      "link": "https://www.wsj.com/finance/stocks/winds-pick-up-yields-tick-down-5cb62df6?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 20:38:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -217,15 +217,15 @@
       "sentiment": 0.16666666666666666
     },
     {
+      "title": "U.S. Natural Gas Futures Settle Higher",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-31da69cb?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 21:06:00 GMT",
+      "sentiment": 0.07083333333333333
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d7e2726d?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-dd92b6be?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 21:00:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -307,16 +307,16 @@
       "sentiment": -0.0625
     },
     {
+      "title": "Winds Pick Up, Yields Tick Down",
+      "link": "https://www.wsj.com/finance/stocks/winds-pick-up-yields-tick-down-5cb62df6?mod=rss_markets_main",
+      "published": "Thu, 08 Oct 2026 20:38:00 GMT",
+      "sentiment": -0.15555555555555556
+    },
+    {
       "title": "Gridlock Is Good for Stocks. Certainty Is Better.",
       "link": "https://www.wsj.com/finance/investing/gridlock-is-good-for-stocks-certainty-is-better-d4d2bb1a?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 10:56:00 GMT",
       "sentiment": 0.39999999999999997
-    },
-    {
-      "title": "European Gas Prices Climb on LNG Shipping Risks",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-climb-on-lng-shipping-risks-df4625ad?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 08:05:00 GMT",
-      "sentiment": 0.075
     },
     {
       "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",
