@@ -7,9 +7,15 @@
       "sentiment": 0.0
     },
     {
-      "title": "Investigation into FlyDubai Attacker Puts Spotlight on a Melbourne Mosque",
+      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+      "link": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
+      "published": "Mon, 12 Oct 2026 09:00:56 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
       "link": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
-      "published": "Mon, 12 Oct 2026 07:11:09 +0000",
+      "published": "Mon, 12 Oct 2026 07:46:10 +0000",
       "sentiment": 0.0
     },
     {
@@ -79,10 +85,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Inside Erik Prince’s Mercenary Deal in Congo",
-      "link": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
-      "published": "Sat, 10 Oct 2026 13:35:59 +0000",
-      "sentiment": 0.10909090909090909
+      "title": "He Helped Discover Ebola 50 Years Ago. He’s Still Worried.",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html",
+      "published": "Mon, 12 Oct 2026 09:02:04 +0000",
+      "sentiment": -0.016666666666666673
+    },
+    {
+      "title": "How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.",
+      "link": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+      "published": "Mon, 12 Oct 2026 09:00:46 +0000",
+      "sentiment": -0.4
     },
     {
       "title": "An Israeli Election Like No Other",
@@ -173,6 +185,12 @@
       "link": "https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html",
       "published": "Sat, 10 Oct 2026 16:50:45 +0000",
       "sentiment": 0.061111111111111116
+    },
+    {
+      "title": "Inside Erik Prince’s Mercenary Deal in Congo",
+      "link": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
+      "published": "Sat, 10 Oct 2026 13:35:59 +0000",
+      "sentiment": 0.10909090909090909
     },
     {
       "title": "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
@@ -305,24 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/09/world/asia/india-student-protests-cockroach-neha-bora.html",
       "published": "Fri, 09 Oct 2026 10:34:43 +0000",
       "sentiment": 0.1
-    },
-    {
-      "title": "New Delhi’s Crackdown on Protesters",
-      "link": "https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html",
-      "published": "Fri, 09 Oct 2026 09:24:43 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
-      "published": "Fri, 09 Oct 2026 22:07:24 +0000",
-      "sentiment": -0.14583333333333334
-    },
-    {
-      "title": "A Venezuelan opposition leader won the 2025 prize, setting off an unusual year.",
-      "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/a-venezuelan-opposition-leader-won-the-2025-prize-setting-off-an-unusual-year",
-      "published": "Fri, 09 Oct 2026 08:16:07 +0000",
-      "sentiment": 0.2
     }
   ]
 }
