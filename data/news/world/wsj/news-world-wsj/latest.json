@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The Welfare State Is Crushing Britain",
+      "link": "https://www.wsj.com/world/uk/united-kingdom-welfare-disability-payouts-737d77a0?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.3833333333333333
+    },
+    {
+      "title": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
+      "link": "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Trump Pushes Russia-Ukraine Energy Ceasefire as Export Deal Draws Criticism",
       "link": "https://www.wsj.com/world/trump-declares-a-russia-ukraine-energy-ceasefire-but-moscow-hasnt-confirmed-f57414e9?mod=rss_worldnews",
       "published": "Sun, 11 Oct 2026 21:22:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/the-virtually-unknown-donors-powering-the-rise-of-the-new-left-a9d2bab6?mod=rss_worldnews",
       "published": "Sun, 11 Oct 2026 15:55:00 GMT",
       "sentiment": -0.040909090909090916
-    },
-    {
-      "title": "Kenyan Club Rejects Bid to Allow Women Into Men’s Bar From ‘Out of Africa’",
-      "link": "https://www.wsj.com/world/africa/kenyan-club-rejects-bid-to-allow-women-into-mens-bar-from-out-of-africa-4aa5b795?mod=rss_worldnews",
-      "published": "Sun, 11 Oct 2026 15:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "India Locks Down Heart of Capital to Thwart Voter Rights Protest",
-      "link": "https://www.wsj.com/world/india/india-locks-down-heart-of-capital-to-thwart-voter-rights-protest-c7aad7a4?mod=rss_worldnews",
-      "published": "Sun, 11 Oct 2026 11:40:00 GMT",
-      "sentiment": -0.2518518518518518
     },
     {
       "title": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes",
@@ -283,6 +283,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Kenyan Club Rejects Bid to Allow Women Into Men’s Bar From ‘Out of Africa’",
+      "link": "https://www.wsj.com/world/africa/kenyan-club-rejects-bid-to-allow-women-into-mens-bar-from-out-of-africa-4aa5b795?mod=rss_worldnews",
+      "published": "Sun, 11 Oct 2026 15:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Nobel Peace Prize Goes to Navi Pillay, Mandela Lawyer Who Led Human Rights at U.N.",
       "link": "https://www.wsj.com/world/nobel-peace-prize-winner-2026-39887f84?mod=rss_worldnews",
       "published": "Fri, 09 Oct 2026 13:44:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/world/africa/drones-strike-ethiopias-capital-as-country-severs-ties-with-eritrea-c5651f70?mod=rss_worldnews",
       "published": "Thu, 01 Oct 2026 20:26:00 GMT",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "A Four-Year Truce Collapses and Ethiopia Is at War Again",
-      "link": "https://www.wsj.com/world/africa/a-four-year-truce-collapses-and-ethiopia-is-at-war-again-04087364?mod=rss_worldnews",
-      "published": "Thu, 24 Sep 2026 12:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "As China Encroaches, Even New Zealand Is Getting Serious About Its Military",
@@ -343,6 +343,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "India Locks Down Heart of Capital to Thwart Voter Rights Protest",
+      "link": "https://www.wsj.com/world/india/india-locks-down-heart-of-capital-to-thwart-voter-rights-protest-c7aad7a4?mod=rss_worldnews",
+      "published": "Sun, 11 Oct 2026 11:40:00 GMT",
+      "sentiment": -0.2518518518518518
+    },
+    {
       "title": "India Voter-List Purge Draws Growing Backlash",
       "link": "https://www.wsj.com/world/india/india-voter-list-purge-draws-growing-backlash-e54ec306?mod=rss_worldnews",
       "published": "Tue, 06 Oct 2026 16:44:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/world/asia/two-men-pulled-alive-from-tunnel-nine-days-after-nepal-flood-cf325a7b?mod=rss_worldnews",
       "published": "Fri, 04 Sep 2026 14:32:00 GMT",
       "sentiment": 0.04999999999999999
-    },
-    {
-      "title": "Nepal Focuses on Dangerous Tunnel Rescues as Flood Toll Tops 900",
-      "link": "https://www.wsj.com/world/asia/nepal-focuses-on-dangerous-tunnel-rescues-as-flood-toll-tops-900-712e3a57?mod=rss_worldnews",
-      "published": "Mon, 31 Aug 2026 09:57:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Cameras Designed to Keep Us Safe Are Now Being Used in War",
