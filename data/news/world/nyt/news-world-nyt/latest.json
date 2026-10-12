@@ -3,26 +3,38 @@
     {
       "title": "The Taliban Are Using Europe’s Fear of Migrants to Their Advantage",
       "link": "https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html",
-      "published": "Mon, 12 Oct 2026 05:17:03 +0000",
+      "published": "Mon, 12 Oct 2026 16:08:21 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
-      "link": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
-      "published": "Mon, 12 Oct 2026 09:00:56 +0000",
-      "sentiment": -0.06666666666666667
+      "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+      "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+      "published": "Mon, 12 Oct 2026 16:20:10 +0000",
+      "sentiment": 0.1
     },
     {
-      "title": "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia",
-      "link": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html",
-      "published": "Mon, 12 Oct 2026 13:33:38 +0000",
-      "sentiment": -0.05000000000000001
+      "title": "After Lockdown, Sea of Protesters Flows Through India’s Capital",
+      "link": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
+      "published": "Mon, 12 Oct 2026 16:09:23 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
+      "link": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
+      "published": "Mon, 12 Oct 2026 15:44:54 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
       "link": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
       "published": "Mon, 12 Oct 2026 12:36:54 +0000",
       "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+      "link": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
+      "published": "Mon, 12 Oct 2026 09:00:56 +0000",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
@@ -49,12 +61,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-      "published": "Sun, 11 Oct 2026 17:59:30 +0000",
-      "sentiment": 0.25
-    },
-    {
       "title": "Wringing Hope From the Rubble of Gaza",
       "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
       "published": "Sun, 11 Oct 2026 11:25:54 +0000",
@@ -77,12 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
       "published": "Sun, 11 Oct 2026 20:15:09 +0000",
       "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
-      "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
-      "published": "Sat, 10 Oct 2026 17:09:17 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "He Helped Discover Ebola 50 Years Ago. He’s Still Worried.",
@@ -125,6 +125,12 @@
       "link": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
       "published": "Sun, 11 Oct 2026 18:58:00 +0000",
       "sentiment": -0.07500000000000001
+    },
+    {
+      "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+      "published": "Sun, 11 Oct 2026 17:59:30 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
@@ -175,6 +181,12 @@
       "sentiment": -0.25
     },
     {
+      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+      "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+      "published": "Sat, 10 Oct 2026 17:09:17 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid",
       "link": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
       "published": "Sat, 10 Oct 2026 08:39:29 +0000",
@@ -213,7 +225,7 @@
     {
       "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
       "link": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
-      "published": "Sat, 10 Oct 2026 00:10:22 +0000",
+      "published": "Mon, 12 Oct 2026 16:18:26 +0000",
       "sentiment": -0.03749999999999999
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/in-south-africa-pillay-forged-a-career-fighting-apartheid",
       "published": "Fri, 09 Oct 2026 15:59:42 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Nobel Peace Prize recipient is selected in secret by five Norwegians.",
-      "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026/the-nobel-peace-prize-recipient-is-selected-in-secret-by-five-norwegians",
-      "published": "Fri, 09 Oct 2026 12:06:05 +0000",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities",
-      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
-      "published": "Fri, 09 Oct 2026 15:17:55 +0000",
-      "sentiment": 0.027777777777777773
     }
   ]
 }
