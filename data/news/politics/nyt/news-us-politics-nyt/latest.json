@@ -1,15 +1,21 @@
 {
   "entries": [
     {
+      "title": "Federal Agents Search Home of Rep. Ilhan Omar",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
+      "published": "Mon, 12 Oct 2026 14:38:08 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Who’s Winning the Race for Congress?",
       "link": "https://www.nytimes.com/2026/10/12/us/politics/whos-winning-the-race-for-congress.html",
-      "published": "Mon, 12 Oct 2026 09:02:39 +0000",
+      "published": "Mon, 12 Oct 2026 14:02:09 +0000",
       "sentiment": 0.5
     },
     {
       "title": "Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans",
       "link": "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html",
-      "published": "Mon, 12 Oct 2026 10:40:30 +0000",
+      "published": "Mon, 12 Oct 2026 13:48:47 +0000",
       "sentiment": 0.025
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-trees-golf-national-park.html",
       "published": "Sat, 10 Oct 2026 17:38:39 +0000",
       "sentiment": 0.1814814814814815
-    },
-    {
-      "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
-      "link": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
-      "published": "Sat, 10 Oct 2026 18:51:39 +0000",
-      "sentiment": -0.15
     }
   ]
 }
