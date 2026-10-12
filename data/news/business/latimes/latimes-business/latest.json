@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Port of Los Angeles sets record for busiest month ever",
+      "link": "https://www.latimes.com/business/story/2026-10-12/port-of-los-angeles-sets-record-for-busiest-month-ever",
+      "published": "Mon, 12 Oct 2026 21:21:11 GMT",
+      "sentiment": 0.1011904761904762
+    },
+    {
       "title": "Netflix plans substantial layoffs, sources say",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-09/netflix-plans-substantial-layoffs-sources-say",
       "published": "Fri, 9 Oct 2026 20:37:56 GMT",
@@ -43,10 +49,10 @@
       "sentiment": 0.55
     },
     {
-      "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
-      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
+      "title": "Hiltzik: Trump rolls back fuel economy standards with another swipe at California's stringent anti-pollution rules",
+      "link": "https://www.latimes.com/business/story/2026-10-08/trump-rolls-back-fuel-economy-standards-just-as-gas-prices-are-soaring",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
+      "sentiment": -0.20000000000000004
     },
     {
       "title": "The Victorian, a popular Santa Monica party mansion, set to shut down",
@@ -55,10 +61,10 @@
       "sentiment": 0.15277777777777776
     },
     {
-      "title": "Hiltzik: Trump rolls back fuel economy standards with another swipe at California's stringent anti-pollution rules",
-      "link": "https://www.latimes.com/business/story/2026-10-08/trump-rolls-back-fuel-economy-standards-just-as-gas-prices-are-soaring",
+      "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
+      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.20000000000000004
+      "sentiment": 0.5
     },
     {
       "title": "Oprah-backed True Food Kitchen files for bankruptcy, closes 3 California restaurants",
@@ -73,8 +79,8 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Joby Aviation hit with $116.9-million verdict in trade secrets lawsuit",
-      "link": "https://www.latimes.com/business/story/2026-10-07/joby-aviation-hit-with-116-9-million-verdict-in-trade-secrets-lawsuit",
+      "title": "California's trucking industry is running out of gas—and money",
+      "link": "https://www.latimes.com/business/story/2026-10-07/los-angeles-truckers-agonize-over-8-diesel-prices",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
@@ -85,16 +91,16 @@
       "sentiment": -0.1
     },
     {
+      "title": "Joby Aviation hit with $116.9-million verdict in trade secrets lawsuit",
+      "link": "https://www.latimes.com/business/story/2026-10-07/joby-aviation-hit-with-116-9-million-verdict-in-trade-secrets-lawsuit",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Bloc is back on the market as downtown L.A.'s office market shows signs of bottoming out",
       "link": "https://www.latimes.com/business/story/2026-10-07/bloc-downtown-l-a-s-landmark-complex-is-up-for-sale-again",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": -0.06
-    },
-    {
-      "title": "California's trucking industry is running out of gas—and money",
-      "link": "https://www.latimes.com/business/story/2026-10-07/los-angeles-truckers-agonize-over-8-diesel-prices",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "ChatGPT's teen safeguards failed to alert parents during suicide conversations, report finds",
@@ -187,16 +193,16 @@
       "sentiment": -0.1142857142857143
     },
     {
-      "title": "Hiltzik: Sure, use Meta's Muse bot to help with your chores — if you want Mark Zuckerberg to know all your secrets",
-      "link": "https://www.latimes.com/business/story/2026-10-02/sure-use-metas-muse-bot-to-help-with-your-chores-if-you-want-mark-zuckerberg-to-know-all-your-secrets",
-      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Warner Bros. has had a tough year at the box office. Now, it's bracing for 'Digger'",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-02/digger-could-add-to-warner-bros-box-office-problems",
       "published": "Fri, 2 Oct 2026 10:00:00 GMT",
       "sentiment": -0.3888888888888889
+    },
+    {
+      "title": "Hiltzik: Sure, use Meta's Muse bot to help with your chores — if you want Mark Zuckerberg to know all your secrets",
+      "link": "https://www.latimes.com/business/story/2026-10-02/sure-use-metas-muse-bot-to-help-with-your-chores-if-you-want-mark-zuckerberg-to-know-all-your-secrets",
+      "published": "Fri, 2 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "California moves to limit utility profits and tap more power from homes",
@@ -229,16 +235,16 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Anthropic says its AI models could manipulate, blackmail and harm humans",
-      "link": "https://www.latimes.com/business/story/2026-09-30/anthropic-warns-of-ais-existential-risk-to-humans-in-its-ipo-filing",
-      "published": "Wed, 30 Sep 2026 10:00:00 GMT",
-      "sentiment": -0.05555555555555555
-    },
-    {
       "title": "Hiltzik: No, AI bots won't extinguish humanity on their own — but you should worry about the humans behind them",
       "link": "https://www.latimes.com/business/story/2026-09-30/ai-bots-wont-extinguish-humanity-on-their-own-but-you-should-worry-about-humans-behind-them",
       "published": "Wed, 30 Sep 2026 10:00:00 GMT",
       "sentiment": 0.06666666666666665
+    },
+    {
+      "title": "Anthropic says its AI models could manipulate, blackmail and harm humans",
+      "link": "https://www.latimes.com/business/story/2026-09-30/anthropic-warns-of-ais-existential-risk-to-humans-in-its-ipo-filing",
+      "published": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "sentiment": -0.05555555555555555
     },
     {
       "title": "Studio bets $450 million on stacked soundstages, sky bungalows to woo production back to Hollywood",
@@ -349,16 +355,16 @@
       "sentiment": 0.06818181818181818
     },
     {
-      "title": "Waymo offers new incentives for commuters on public transit",
-      "link": "https://www.latimes.com/business/story/2026-09-24/waymo-offers-new-incentives-for-commuters-on-public-transit",
-      "published": "Thu, 24 Sep 2026 10:00:00 GMT",
-      "sentiment": 0.04727272727272727
-    },
-    {
       "title": "California farmworkers face health hazards amid inconsistent pesticide enforcement",
       "link": "https://www.latimes.com/california/story/2026-09-24/haphazard-pesticide-enforcement-puts-farmworkers-in-california-at-risk",
       "published": "Thu, 24 Sep 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Waymo offers new incentives for commuters on public transit",
+      "link": "https://www.latimes.com/business/story/2026-09-24/waymo-offers-new-incentives-for-commuters-on-public-transit",
+      "published": "Thu, 24 Sep 2026 10:00:00 GMT",
+      "sentiment": 0.04727272727272727
     },
     {
       "title": "Meta's new smart glasses bring an AI agent, and fresh privacy fears",
@@ -373,16 +379,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Meta's viral AI agent can now book travel and shop for you. Amazon says it crossed a line",
-      "link": "https://www.latimes.com/business/story/2026-09-23/meta-muse-can-now-book-travel-shop-for-you-amazon-says-it-crossed-line",
-      "published": "Wed, 23 Sep 2026 10:00:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
       "title": "Canada's boycott forces the sale of a California winery",
       "link": "https://www.latimes.com/business/story/2026-09-23/canadas-boycott-forces-sale-of-california-winery",
       "published": "Wed, 23 Sep 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Meta's viral AI agent can now book travel and shop for you. Amazon says it crossed a line",
+      "link": "https://www.latimes.com/business/story/2026-09-23/meta-muse-can-now-book-travel-shop-for-you-amazon-says-it-crossed-line",
+      "published": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Costa Mesa approves Fairview Development Center project",
@@ -551,12 +557,6 @@
       "link": "https://www.latimes.com/business/story/2026-09-14/broadcom-buys-its-irvine-office-building",
       "published": "Mon, 14 Sep 2026 19:49:45 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Taco Bell will move to larger Irvine headquarters",
-      "link": "https://www.latimes.com/business/story/2026-09-14/taco-bell-will-move-to-larger-irvine-headquarters",
-      "published": "Mon, 14 Sep 2026 18:57:37 GMT",
-      "sentiment": 0.15
     }
   ]
 }

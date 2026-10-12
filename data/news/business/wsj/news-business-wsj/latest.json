@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Individual Investors Are Trading at Meme-Stock Levels",
+      "link": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 21:32:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
+      "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 21:03:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 20:59:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
       "link": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 20:47:00 GMT",
@@ -19,15 +37,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 16:34:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Adnoc Logistics in Talks to Buy Stake in HEA at $3 Billion Valuation",
-      "link": "https://www.wsj.com/business/energy-oil/adnoc-logistics-in-talks-to-buy-stake-in-hea-at-3-billion-valuation-c005541a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 16:19:00 GMT",
+      "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
+      "link": "https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 13:11:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -35,12 +47,6 @@
       "link": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 11:00:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
-      "link": "https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 13:11:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
@@ -58,12 +64,6 @@
       "title": "Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions",
       "link": "https://www.wsj.com/tech/nvidia-backed-firmus-scraps-australian-ipo-citing-market-conditions-4793fe60?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 22:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Viatris to Buy Pacira BioSciences for $1.65 Billion",
-      "link": "https://www.wsj.com/health/pharma/viatris-to-buy-pacira-biosciences-for-1-65-billion-0ba22d4d?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 12:48:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -97,12 +97,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-cd92d1cc?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 16:32:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Telia Co. to Cut 900 Jobs in Plan to Save $100 Million a Year",
       "link": "https://www.wsj.com/business/earnings/telia-co-to-cut-900-jobs-in-plan-to-save-100-million-a-year-0c95ad11?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 06:51:00 GMT",
@@ -125,6 +119,12 @@
       "link": "https://www.wsj.com/business/autos/porsche-deliveries-fell-16-in-first-nine-months-of-year-33f8bb57?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 07:49:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Aritzia Raises Sales Outlook as U.S. Growth Accelerates",
+      "link": "https://www.wsj.com/business/retail/aritzia-lifts-guidance-as-u-s-sales-support-higher-profit-revenue-202583d7?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 23:04:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
@@ -157,6 +157,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | Putin Ignores That Energy ‘Cease-Fire’",
+      "link": "https://www.wsj.com/opinion/vladimir-putin-energy-cease-fire-russia-ukraine-donald-trump-13235418?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 21:40:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Sometimes Government Is Innovative",
+      "link": "https://www.wsj.com/opinion/sometimes-government-is-innovative-91ec4cb7?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 21:15:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Opinion | Trump’s Diesel Insult to Lindsey Graham",
       "link": "https://www.wsj.com/opinion/trumps-diesel-insult-to-lindsey-graham-d502ac71?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 20:50:00 GMT",
@@ -181,28 +193,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Massachusetts’ Policies Increase Electric Bills",
-      "link": "https://www.wsj.com/opinion/massachusetts-policies-increase-electric-bills-a2956d61?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 17:09:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Opinion | How to Help Lower Diesel Costs for Truckers",
-      "link": "https://www.wsj.com/opinion/how-to-help-lower-diesel-costs-for-truckers-a3d76af8?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 17:07:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Energy Stocks Rise as Global Conflicts Push Up Oil Prices",
-      "link": "https://www.wsj.com/finance/stocks/energy-stocks-rise-as-global-conflicts-push-up-oil-prices-8d605857?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 20:26:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 20:15:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "Adnoc Logistics in Talks to Buy Stake in HEA at $3 Billion Valuation",
+      "link": "https://www.wsj.com/business/energy-oil/adnoc-logistics-in-talks-to-buy-stake-in-hea-at-3-billion-valuation-c005541a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 16:19:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -469,6 +469,12 @@
       "sentiment": -0.03749999999999999
     },
     {
+      "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
+      "link": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 20:47:00 GMT",
+      "sentiment": -0.15
+    },
+    {
       "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
       "link": "https://www.wsj.com/business/energy-oil/bp-curbs-production-at-two-platforms-in-gulf-of-mexico-due-to-hurricane-isaias-d582fc67?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 09:48:00 GMT",
@@ -479,12 +485,6 @@
       "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 00:00:00 GMT",
       "sentiment": 0.055555555555555546
-    },
-    {
-      "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
-      "link": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 20:47:00 GMT",
-      "sentiment": -0.15
     },
     {
       "title": "AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit",
