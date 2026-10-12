@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Who’s Winning the Race for Congress?",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/whos-winning-the-race-for-congress.html",
+      "published": "Mon, 12 Oct 2026 09:02:38 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html",
+      "published": "Mon, 12 Oct 2026 09:02:23 +0000",
+      "sentiment": 0.025
+    },
+    {
+      "title": "He Helped Discover Ebola 50 Years Ago. He’s Still Worried.",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html",
+      "published": "Mon, 12 Oct 2026 09:02:04 +0000",
+      "sentiment": -0.016666666666666673
+    },
+    {
       "title": "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads",
       "link": "https://www.nytimes.com/2026/10/11/us/politics/judge-bars-trump-taxpayer-ads.html",
       "published": "Mon, 12 Oct 2026 03:14:37 +0000",
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
       "published": "Sat, 10 Oct 2026 18:51:39 +0000",
       "sentiment": -0.15
-    },
-    {
-      "title": "Fact-Checking Senate Ads in Iowa, New Hampshire and North Carolina",
-      "link": "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html",
-      "published": "Sat, 10 Oct 2026 09:01:19 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
-      "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html",
-      "published": "Sun, 11 Oct 2026 23:07:21 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "After Christa Pike’s Botched Execution, Tennessee’s Lethal Injection Protocol Draws Scrutiny",
-      "link": "https://www.nytimes.com/2026/10/10/us/politics/tennessee-lethal-injection-protocol-christa-pike.html",
-      "published": "Sat, 10 Oct 2026 15:45:47 +0000",
-      "sentiment": -0.2222222222222222
     }
   ]
 }

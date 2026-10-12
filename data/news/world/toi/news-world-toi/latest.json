@@ -1,10 +1,64 @@
 {
   "entries": [
     {
+      "title": "Connecticut town buys historic home for $455,000 to build library parking, faces opposition",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-connecticut-town-paid-455000-for-a-historic-two-family-home-to-create-about-20-library-parking-spaces-a-state-preservation-council-has-now-voted-to-ask-the-attorney-general-to-stop-its-demolition/articleshow/134886612.cms",
+      "published": "2026-10-12T14:30:00+05:30",
+      "sentiment": 0.026623376623376625
+    },
+    {
+      "title": "A study of 77 Bronze Age children in Serbia found sex-linked burial customs dating back 4,000 years",
+      "link": "https://timesofindia.indiatimes.com/science/archaeology/researchers-studying-77-children-from-bronze-age-cemeteries-in-serbia-found-that-burial-positions-often-differed-by-biological-sex-suggesting-gender-linked-funerary-customs-were-observed-during-childhood-about-4000-years-ago/articleshow/134885986.cms",
+      "published": "2026-10-12T14:00:00+05:30",
+      "sentiment": 0.225
+    },
+    {
+      "title": "Michael Dell’s $875M resort attracts buyers with $20M condos",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/michael-dells-florida-resort-development-has-sold-roughly-40-of-its-75-planned-luxury-condos-with-prices-starting-at-8-95-million-after-earlier-expectations-put-entry-prices-much-lower/articleshow/134886699.cms",
+      "published": "2026-10-12T13:42:21+05:30",
+      "sentiment": -0.011458333333333334
+    },
+    {
+      "title": "In 1997, Australia eradicated rabbits to save Gould’s petrels; by 2000, 800 pairs bred on the island",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/in-1997-australia-eradicated-rabbits-from-cabbage-tree-island-as-part-of-a-wider-goulds-petrel-rescue-by-2000-the-colony-had-grown-to-more-than-800-breeding-pairs-and-was-producing-over-400-young-a-year/articleshow/134885951.cms",
+      "published": "2026-10-12T14:00:00+05:30",
+      "sentiment": 0.22962962962962966
+    },
+    {
+      "title": "Bill Gates-backed malaria nets meant to save lives are threatening Africa’s fish stocks",
+      "link": "https://timesofindia.indiatimes.com/technology/technology-news/since-2004-bill-gates-has-sent-millions-of-anti-malaria-nets-to-africa-but-the-donated-gear-is-devastating-local-waters/articleshow/134886254.cms",
+      "published": "2026-10-12T14:06:05+05:30",
+      "sentiment": 0.075
+    },
+    {
+      "title": "Mysterious holes on the Pacific seafloor remain unexplained after sediment tests",
+      "link": "https://timesofindia.indiatimes.com/science/earth/scientists-found-mysterious-lines-of-holes-on-the-pacific-seafloor-even-sediment-samples-failed-to-reveal-what-made-them/articleshow/134885119.cms",
+      "published": "2026-10-12T12:30:00+05:30",
+      "sentiment": -0.016666666666666666
+    },
+    {
+      "title": "Just 15 ml of olive oil before carbs may lower blood sugar spikes, mouse study suggests",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/eating-only-15-ml-olive-oil-before-having-carbs-can-have-a-positive-impact-on-blood-sugar-spike-in-an-experiment-on-mice-scientists-are-tracing-the-effect-to-a-combination-of-digestive-hormones-and-nerve-signals/articleshow/134885560.cms",
+      "published": "2026-10-12T13:30:00+05:30",
+      "sentiment": 0.14206349206349206
+    },
+    {
+      "title": "A 2,300-year-old shipwreck off Croatia’s Vis island reveals rare pottery, personal belongings and wooden remains",
+      "link": "https://timesofindia.indiatimes.com/science/archaeology/a-2300-year-old-shipwreck-off-croatias-vis-island-has-yielded-rare-pottery-personal-belongings-and-surviving-wooden-remains-offering-a-glimpse-into-merchant-sailing-during-the-hellenistic-period/articleshow/134883476.cms",
+      "published": "2026-10-12T13:00:00+05:30",
+      "sentiment": 0.08076923076923077
+    },
+    {
       "title": "How Francis Ford Coppola turned an abandoned Belize hunting lodge into a 20-room resort",
       "link": "https://timesofindia.indiatimes.com/real-estate/news/in-1981-francis-ford-coppola-found-an-abandoned-belize-jungle-lodge-and-turned-it-into-a-family-retreat-12-years-later-blancaneaux-opened-as-a-20-room-resort-now-drawing-about-85-of-its-power-from-a-creek/articleshow/134884840.cms",
       "published": "2026-10-12T12:30:00+05:30",
       "sentiment": 0.09642857142857142
+    },
+    {
+      "title": "Demi Moore and Ashton Kutcher visited a Kenyan sanctuary for orphaned elephants",
+      "link": "https://timesofindia.indiatimes.com/world/us/demi-moore-and-ashton-kutcher-once-visited-a-kenyan-elephant-sanctuary-where-orphaned-calves-were-being-raised-for-the-wild-amid-drought-and-poaching-threats/articleshow/134884342.cms",
+      "published": "2026-10-12T13:45:00+05:30",
+      "sentiment": 0.0
     },
     {
       "title": "Historic San Francisco church condo sells for $6.65M, $150K below asking price",
@@ -17,6 +71,12 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-2018-kevin-durant-pledged-10-million-over-10-years-to-create-a-college-access-center-in-his-maryland-hometown-today-it-serves-200-students-a-year-and-reports-a-96-four-year-college-acceptance-rate/articleshow/134876030.cms",
       "published": "2026-10-12T12:04:39+05:30",
       "sentiment": 0.10454545454545454
+    },
+    {
+      "title": "Only 40 Bottles Made: Macallan 1926 Whisky Sells for £2.125 Million",
+      "link": "https://timesofindia.indiatimes.com/world/europe/a-bottle-of-macallan-1926-whisky-sold-for-2-125-million-only-40-bottles-came-from-the-original-cask-after-60-years-of-maturation/articleshow/134884779.cms",
+      "published": "2026-10-12T13:15:00+05:30",
+      "sentiment": 0.0
     },
     {
       "title": "George Clooney’s French estate has vineyards as he plans an Italian restaurant",
@@ -59,66 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/hundreds-of-thousands-of-abandoned-us-mines-were-left-behind-after-mining-booms-bats-snakes-and-bobcats-now-use-them-as-refuges/articleshow/134867645.cms",
       "published": "2026-10-12T00:30:00+05:30",
       "sentiment": 0.1636363636363636
-    },
-    {
-      "title": "Thousands of rare grasshoppers released in Norfolk after 86 years",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/thousands-of-rare-grasshoppers-released-in-norfolk-after-86-years-conservation-project-achieves-first-wild-hatching-since-1939/articleshow/134867786.cms",
-      "published": "2026-10-12T04:00:00+05:30",
-      "sentiment": 0.1826785714285714
-    },
-    {
-      "title": "Buckingham Palace workers find theatre listings, newspaper pages, and a sixpence ticket",
-      "link": "https://timesofindia.indiatimes.com/world/uk/buckingham-palace-workers-find-137-year-old-theatre-listings-1966-newspaper-pages-and-a-sixpence-ticket-to-a-1949-palace-card-game/articleshow/134871105.cms",
-      "published": "2026-10-12T08:15:00+05:30",
-      "sentiment": -0.011111111111111108
-    },
-    {
-      "title": "UK engineers build tiny pump that could let robots move without bulky motors",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/uk-engineers-built-a-tiny-liquid-metal-pump-to-move-robotic-butterfly-wings-and-power-wearable-devices-it-could-make-robots-move-without-bulky-motors/articleshow/134881057.cms",
-      "published": "2026-10-12T08:27:01+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "1861 Texas home ranks third among America's haunted spots; visitors report woman in white",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/a-texas-home-built-in-1861-ranked-third-among-americas-haunted-destinations-visitors-report-seeing-a-woman-in-white/articleshow/134881716.cms",
-      "published": "2026-10-12T09:23:34+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Melinda French Gates and daughters back $70 million fund for women's health",
-      "link": "https://timesofindia.indiatimes.com/world/us/melinda-french-gates-and-her-daughters-backed-a-70-million-fund-22-organisations-received-money-to-tackle-womens-health-and-violence/articleshow/134882236.cms",
-      "published": "2026-10-12T10:07:36+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "In 2005, this Australian home sold for A$420,000; 20 years later, it fetched A$1.375 million",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2005-a-wonga-park-home-with-a-160-metre-miniature-railway-sold-for-a420000-20-years-later-the-property-with-its-electric-train-tunnel-and-trestle-bridge-sold-for-a1-375-million/articleshow/134870282.cms",
-      "published": "2026-10-12T10:06:04+05:30",
-      "sentiment": 0.128125
-    },
-    {
-      "title": "Tribunal Orders Claim Reassessment: Qld body told to revisit defect case; payout cap may leave $200k gap",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2021-a-brisbane-man-bought-his-home-after-nine-structural-defects-led-to-a-500000-repair-estimate-a-tribunal-revived-his-warranty-claim-though-coverage-may-be-capped-at-300000/articleshow/134866436.cms",
-      "published": "2026-10-12T10:05:41+05:30",
-      "sentiment": 0.0390625
-    },
-    {
-      "title": "12 Australian farming families fined $814 each over power line survey access",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/12-australian-farming-families-were-fined-814-each-for-blocking-surveyors-they-say-a-proposed-480-kilometre-power-line-threatens-their-land/articleshow/134880654.cms",
-      "published": "2026-10-12T07:48:33+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "‘Started to sink backwards’: 139 migrants killed as boat capsizes off Djibouti",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/started-to-sink-backwards-139-migrants-including-15-children-killed-as-boat-capsizes-off-djibouti/articleshow/134880404.cms",
-      "published": "2026-10-12T07:24:03+05:30",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Ray Denies Allegations On Stream: Streamer rejects Reggie's claims on sexuality; online dispute continues",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/ray-responds-to-reggies-accusations-as-controversial-livestream-comments-emerge/articleshow/134880082.cms",
-      "published": "2026-10-12T06:24:00+05:30",
-      "sentiment": -0.09160997732426301
     }
   ]
 }

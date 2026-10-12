@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 08:23:12 GMT",
-      "sentiment": 0.15
+      "title": "Stock Market Today: Diesel Prices Slip on Trump Push for Russia-Ukraine Truce",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 09:01:16 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
@@ -103,6 +103,12 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Stocks Rise as Oil Eases After Russian Diesel Deal Despite Middle East Tension",
+      "link": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 08:41:00 GMT",
+      "sentiment": 0.22499999999999998
+    },
+    {
       "title": "Eurozone Government Bond Yields Decline",
       "link": "https://www.wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 07:15:00 GMT",
@@ -115,12 +121,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Thai Stock Market Likely to Post Second Straight Bull-Run Year in 2027",
-      "link": "https://www.wsj.com/finance/stocks/china-plays-critical-role-in-global-ai-supply-chain-domestic-ai-ecosystem-9de8dab7?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 06:12:00 GMT",
-      "sentiment": 0.04
-    },
-    {
       "title": "U.S. Stocks Rise as Iran Escalation Fears Subside",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-iran-escalation-fears-subside-2ad4f362?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 20:51:00 GMT",
@@ -131,6 +131,12 @@
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-eurozone-bond-yields-decline-62cfd8c8?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 19:00:00 GMT",
       "sentiment": 0.14166666666666666
+    },
+    {
+      "title": "European Chip Stocks Mixed After Korean Tech Selloff",
+      "link": "https://www.wsj.com/finance/stocks/china-plays-critical-role-in-global-ai-supply-chain-domestic-ai-ecosystem-9de8dab7?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 08:21:00 GMT",
+      "sentiment": -0.09999999999999999
     },
     {
       "title": "As Yields Surged, Small-Cap Stocks Were Hit Hard",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/borrowing-costs-double-whammy-boosts-recession-odds-622860e5?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 10:39:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
-      "link": "https://www.wsj.com/finance/investing/airtel-money-shares-open-higher-on-first-trading-day-but-7-billion-valuation-misses-mark-3ee5bb9d?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 08:49:00 GMT",
-      "sentiment": 0.14285714285714285
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -199,16 +199,22 @@
       "sentiment": 0.14285714285714285
     },
     {
+      "title": "Copper Rises on China Stimulus Hopes, Mining Supply Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-oil-pullback-2c0301c2?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 08:37:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Oil Prices Fall as Traders Weigh Russian Diesel Deal, Middle East Supply Risks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 07:58:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Falls After Trump Strikes Deal With Russia on Diesel Supply",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-hopes-that-russian-diesel-can-ease-global-fuel-shortages-db1651af?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 07:23:00 GMT",
       "sentiment": 0.10714285714285714
-    },
-    {
-      "title": "Gold Rises as Markets Weigh Oil Pullback",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-oil-pullback-2c0301c2?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 00:43:00 GMT",
-      "sentiment": 0.2333333333333333
     },
     {
       "title": "Oil Futures Settle Modestly Higher",
@@ -223,22 +229,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d3493e8c?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 21:08:00 GMT",
-      "sentiment": 0.16666666666666666
+      "title": "U.S. Core Inflation Data Key For Dollar’s Direction",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 09:03:00 GMT",
+      "sentiment": 0.19999999999999998
     },
     {
       "title": "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
       "link": "https://www.wsj.com/finance/currencies/rupee-jumps-after-india-central-bank-unveils-currency-defense-measures-26b7caa0?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 07:18:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "Dollar Trades Steady Amid Geopolitical Uncertainty",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 06:49:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Dollar Finishes Fourth Straight Week of Gains",
