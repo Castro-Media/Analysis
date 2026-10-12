@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "Suspect in deadly Philadelphia police ambush faces 76 charges, ordered held without bail",
+      "link": "https://nypost.com/2026/10/12/us-news/suspect-in-deadly-philadelphia-police-ambush-faces-76-charges-ordered-held-without-bail/",
+      "published": "Mon, 12 Oct 2026 08:49:57 -0400",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Rep. Ilhan Omar’s DC home raided by DHS as part of probe into Dem’s immigration paperwork",
+      "link": "https://nypost.com/2026/10/12/us-news/rep-ilhan-omars-dc-home-raided-by-dhs-as-part-of-probe-into-democrats-immigration-paperwork/",
+      "published": "Mon, 12 Oct 2026 08:08:04 -0400",
+      "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "How Islanders helped superfan, 18, beat near-fatal rare cancer: ‘Treated me like family’",
+      "link": "https://nypost.com/2026/10/12/sports/how-islanders-helped-superfan-beat-near-fatal-rare-cancer/",
+      "published": "Mon, 12 Oct 2026 08:00:00 -0400",
+      "sentiment": 0.36666666666666664
+    },
+    {
+      "title": "New ‘agency’ determines who is a real New Yorker — and it has already denied its most famous native",
+      "link": "https://nypost.com/2026/10/12/us-news/new-agency-determines-who-is-a-real-new-yorker-and-it-has-already-denied-its-most-famous-native/",
+      "published": "Mon, 12 Oct 2026 07:30:00 -0400",
+      "sentiment": 0.2681818181818182
+    },
+    {
+      "title": "Pennsylvania grandpa accused of gunning down 8 in murder-suicide never seem distressed, was always ‘smiling’",
+      "link": "https://nypost.com/2026/10/12/us-news/pennsylvania-shooter-who-killed-8-was-familys-patriarch-father-of-toddler-killed-says/",
+      "published": "Mon, 12 Oct 2026 07:18:46 -0400",
+      "sentiment": 0.08148148148148147
+    },
+    {
+      "title": "Man beaten to death outside Manhattan sex shop; suspect arrested: police",
+      "link": "https://nypost.com/2026/10/12/us-news/man-beaten-to-death-outside-manhattan-sex-shop-police/",
+      "published": "Mon, 12 Oct 2026 07:17:42 -0400",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "Staten Islander arrested after booting car parked in front of his driveway",
+      "link": "https://nypost.com/2026/10/12/us-news/staten-islander-arrested-after-booting-car-parked-in-front-of-his-driveway/",
+      "published": "Mon, 12 Oct 2026 07:00:00 -0400",
+      "sentiment": 0.0
+    },
+    {
       "title": "NYPD cops killed man in scuffle that started over open beer can: lawsuit",
       "link": "https://nypost.com/2026/10/12/us-news/nypd-cops-killed-man-in-scuffle-that-started-over-open-beer-can-lawsuit/",
       "published": "Mon, 12 Oct 2026 06:45:00 -0400",
@@ -77,48 +119,6 @@
       "link": "https://nypost.com/2026/10/11/us-news/long-beach-homeowners-devestated-as-tropical-storm-rachel-destroys-homes/",
       "published": "Sun, 11 Oct 2026 21:32:22 -0400",
       "sentiment": -0.11785714285714284
-    },
-    {
-      "title": "Whizzing college professor pees on student’s backpack, found to be campus’s mystery serial sprinkler: records",
-      "link": "https://nypost.com/2026/10/11/us-news/whizzing-college-professor-pees-on-students-backpack-found-to-be-campuss-mystery-serial-sprinkler-records/",
-      "published": "Sun, 11 Oct 2026 20:44:59 -0400",
-      "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "Mamdani to skip Manhattan Columbus parade in latest snub to NYC Italian community",
-      "link": "https://nypost.com/2026/10/11/us-news/mamdani-to-skip-manhattan-columbus-parade-in-latest-snub-to-nyc-italian-community/",
-      "published": "Sun, 11 Oct 2026 19:56:13 -0400",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Mosquitos spike in LA with hellish hoards wreaking havoc across city",
-      "link": "https://nypost.com/2026/10/11/us-news/los-angeles-is-the-most-mosquito-infested-city-in-america/",
-      "published": "Sun, 11 Oct 2026 19:53:22 -0400",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Daughters of the American Revolution axes chapter that challenged transgender membership",
-      "link": "https://nypost.com/2026/10/11/us-news/daughters-of-the-american-revolution-axes-chapter-that-challenged-transgender-membership/",
-      "published": "Sun, 11 Oct 2026 19:25:18 -0400",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "Bus rider, 56, stabbed blocks from busy NYC transit hub: cops",
-      "link": "https://nypost.com/2026/10/11/us-news/bus-rider-stabbed-blocks-from-busy-nyc-transit-hub-cops/",
-      "published": "Sun, 11 Oct 2026 18:45:00 -0400",
-      "sentiment": 0.12222222222222223
-    },
-    {
-      "title": "Super PAC funded by Knicks owner spends big to back AG candidate Saritha Komatireddy",
-      "link": "https://nypost.com/2026/10/11/us-news/super-pac-funded-by-knicks-owner-spends-big-to-back-ag-candidate-saritha-komatireddy/",
-      "published": "Sun, 11 Oct 2026 18:32:52 -0400",
-      "sentiment": 0.14333333333333334
-    },
-    {
-      "title": "Letitia James blasted as ‘biggest hypocrite in Albany’ after whistleblower records dump",
-      "link": "https://nypost.com/2026/10/11/us-news/letitia-james-blasted-as-biggest-hypocrite-in-albany-after-whistleblower-records-dump/",
-      "published": "Sun, 11 Oct 2026 18:24:41 -0400",
-      "sentiment": -0.6
     }
   ]
 }

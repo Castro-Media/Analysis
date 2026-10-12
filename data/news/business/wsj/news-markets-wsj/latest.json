@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Diesel Prices Slip on Trump Push for Russia-Ukraine Truce",
+      "title": "Stock Market Today: Oil Gains on Fresh Energy Strikes in Ukraine",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 09:01:16 GMT",
-      "sentiment": -0.25
+      "sentiment": 0.3
+    },
+    {
+      "title": "A Credit-Score Shift at Fannie and Freddie Is Shaking Up the Mortgage Market",
+      "link": "https://www.wsj.com/finance/regulation/a-credit-score-shift-at-fannie-and-freddie-is-shaking-up-the-mortgage-market-85b41d3f?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f?mod=rss_markets_main",
       "published": "Sun, 11 Oct 2026 09:30:00 GMT",
       "sentiment": -0.3499999999999999
-    },
-    {
-      "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
-      "link": "https://www.wsj.com/finance/investing/economists-bond-yields-forecast-aaa2ff5c?mod=rss_markets_main",
-      "published": "Sun, 11 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
@@ -103,33 +103,33 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
+      "link": "https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 13:11:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Futures Mixed, Oil Rises After Russia Hits Ukraine Energy Sites",
+      "link": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 12:45:00 GMT",
+      "sentiment": 0.11666666666666665
+    },
+    {
+      "title": "Rising Sovereign Bond Yields’ Impact on European Banks Remains Contained",
+      "link": "https://www.wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 12:12:00 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "Locking In a Mortgage Rate",
       "link": "https://www.wsj.com/finance/investing/locking-in-a-mortgage-rate-50cec33e?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 10:26:00 GMT",
       "sentiment": 0.75
     },
     {
-      "title": "Stocks Rise as Oil Eases After Russian Diesel Deal Despite Middle East Tension",
-      "link": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 08:41:00 GMT",
-      "sentiment": 0.22499999999999998
-    },
-    {
-      "title": "Eurozone Government Bond Yields Decline",
-      "link": "https://www.wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 07:15:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Telia Co. to Cut 900 Jobs in Plan to Save $100 Million a Year",
       "link": "https://www.wsj.com/business/earnings/telia-co-to-cut-900-jobs-in-plan-to-save-100-million-a-year-0c95ad11?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 06:51:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
-      "link": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main",
-      "published": "Sun, 11 Oct 2026 02:46:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -229,10 +229,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "Dollar Strength Could Continue on Fed Rate-Rise Prospects",
+      "title": "Stronger Swiss Franc Could Put SNB in a Bind",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 10:57:00 GMT",
-      "sentiment": -0.008333333333333338
+      "published": "Mon, 12 Oct 2026 12:10:00 GMT",
+      "sentiment": -0.0625
     },
     {
       "title": "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
@@ -289,6 +289,18 @@
       "sentiment": -0.23333333333333336
     },
     {
+      "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
+      "link": "https://www.wsj.com/finance/investing/economists-bond-yields-forecast-aaa2ff5c?mod=rss_markets_main",
+      "published": "Sun, 11 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
+      "link": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main",
+      "published": "Sun, 11 Oct 2026 02:46:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Natural Gas Futures Settle Higher",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trading-31da69cb?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 21:06:00 GMT",
@@ -307,18 +319,6 @@
       "sentiment": -0.06666666666666667
     },
     {
-      "title": "Arini, Hedge Fund Known for Bold Bets, Loses 16%",
-      "link": "https://www.wsj.com/finance/investing/arini-hedge-fund-known-for-bold-bets-loses-16-c4d8f2c0?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 22:27:00 GMT",
-      "sentiment": 0.17777777777777778
-    },
-    {
-      "title": "A Guide to Buying Bonds When Yields Are on the Rise",
-      "link": "https://www.wsj.com/finance/investing/a-guide-to-buying-bonds-when-yields-are-on-the-rise-f8b6cc98?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 21:41:00 GMT",
-      "sentiment": 0.6
-    },
-    {
       "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",
       "link": "https://www.wsj.com/personal-finance/taxes/how-families-can-beat-7-mortgage-rates-and-lower-their-tax-bills-8d947956?mod=rss_markets_main",
       "published": "Thu, 08 Oct 2026 09:30:00 GMT",
@@ -331,16 +331,16 @@
       "sentiment": 0.175
     },
     {
-      "title": "Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership",
-      "link": "https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e?mod=rss_markets_main",
-      "published": "Wed, 07 Oct 2026 15:40:00 GMT",
-      "sentiment": 0.07555555555555556
-    },
-    {
       "title": "Here’s What It’s Like to Retire to a Low-Tax State",
       "link": "https://www.wsj.com/personal-finance/heres-what-its-like-to-retire-to-a-low-tax-state-fcac6598?mod=rss_markets_main",
       "published": "Sun, 13 Sep 2026 00:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership",
+      "link": "https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e?mod=rss_markets_main",
+      "published": "Wed, 07 Oct 2026 15:40:00 GMT",
+      "sentiment": 0.07555555555555556
     },
     {
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
