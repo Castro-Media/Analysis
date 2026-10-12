@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 10:52:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Nascar’s New CEO Aims to Take ‘Big Swings’",
+      "link": "https://www.wsj.com/articles/nascars-new-ceo-aims-to-take-big-swings-7d763ecb?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 10:05:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "AI Agents Are a Threat to Travel Businesses. Airbnb Could Still Be a Winner.",
+      "link": "https://www.wsj.com/business/hospitality/ai-agents-are-a-threat-to-travel-businesses-airbnb-could-still-be-a-winner-3ad37351?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
       "title": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
       "link": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 20:26:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 12:50:00 GMT",
       "sentiment": 0.03125
-    },
-    {
-      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
-      "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.055555555555555546
-    },
-    {
-      "title": "America’s Gig Workers Turn to an Old-School Union",
-      "link": "https://www.wsj.com/us-news/americas-gig-workers-turn-to-an-old-school-union-6003e38d?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 10 Oct 2026 21:06:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
-      "link": "https://www.wsj.com/business/retail/how-a-western-consumer-giant-is-thriving-on-chinas-social-media-shoppers-386dccc3?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 10 Oct 2026 18:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
@@ -67,6 +67,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
+      "link": "https://www.wsj.com/business/retail/how-a-western-consumer-giant-is-thriving-on-chinas-social-media-shoppers-386dccc3?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 10 Oct 2026 18:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Brands Say They’re Pouring Tariff Refunds Into Marketing",
       "link": "https://www.wsj.com/cmo-today/brands-say-theyre-pouring-tariff-refunds-into-marketing-fc7b8c32?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 17:56:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 01:00:00 GMT",
       "sentiment": 0.6
-    },
-    {
-      "title": "Aritzia Raises Sales Outlook as U.S. Growth Accelerates",
-      "link": "https://www.wsj.com/business/retail/aritzia-lifts-guidance-as-u-s-sales-support-higher-profit-revenue-202583d7?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 23:04:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Telia Co. to Cut 900 Jobs in Plan to Save $100 Million a Year",
@@ -121,10 +121,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Uniqlo Owner Posts Record Annual Profit, Expects Further Growth",
-      "link": "https://www.wsj.com/business/earnings/uniqlo-owner-posts-record-annual-profit-expects-further-growth-27ad2fe8?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 11:35:00 GMT",
-      "sentiment": 0.12666666666666665
+      "title": "Aritzia Raises Sales Outlook as U.S. Growth Accelerates",
+      "link": "https://www.wsj.com/business/retail/aritzia-lifts-guidance-as-u-s-sales-support-higher-profit-revenue-202583d7?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 08 Oct 2026 23:04:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
+      "link": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 10:55:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Volkswagen Vehicle Deliveries Fall on Continued China Weakness",
@@ -139,21 +145,15 @@
       "sentiment": -0.125
     },
     {
+      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
+      "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.055555555555555546
+    },
+    {
       "title": "Shawn Fain Claims Victory in UAW Election Rout",
       "link": "https://www.wsj.com/business/autos/shawn-fain-claims-victory-in-uaw-election-rout-d69bac24?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 22:06:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "EU Says it Reached Understanding with China to Cut Back Hybrid Vehicle Exports",
-      "link": "https://www.wsj.com/business/autos/china-eu-move-forward-on-trade-relationship-talks-0f3361b4?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 16:34:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Chinese Auto Giant Geely Announces Canada Entry in 2027 as U.S. Seeks Ban",
-      "link": "https://www.wsj.com/business/autos/chinese-auto-giant-geely-announces-canada-entry-in-2027-as-u-s-seeks-ban-5fc6681c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 14:36:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -223,6 +223,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "First-Class Amenity Kits Have Become Holy Grail Collectibles",
+      "link": "https://www.wsj.com/lifestyle/travel/first-class-amenity-kits-have-become-holy-grail-collectibles-adfbb1a0?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.26111111111111107
+    },
+    {
       "title": "American Airlines Is the Worst for Bumping Passengers. Now It Says It Will Stop.",
       "link": "https://www.wsj.com/business/airlines/american-airlines-is-the-worst-for-bumping-passengers-now-it-says-it-will-stop-76591402?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 21:04:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 07 Oct 2026 01:00:00 GMT",
       "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "FlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets",
-      "link": "https://www.wsj.com/world/flydubai-co-pilot-used-crash-ax-in-attack-says-u-a-e-88554e9a?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 03 Oct 2026 19:34:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Taylor Farms to Curb Lettuce Sales From Mexico; AI Boom Driving Global Growth",
@@ -283,6 +283,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "America’s Gig Workers Turn to an Old-School Union",
+      "link": "https://www.wsj.com/us-news/americas-gig-workers-turn-to-an-old-school-union-6003e38d?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 10 Oct 2026 21:06:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Uber to Expand Uber Eats Service with $2.3 Billion Acquisition of Catering Platform",
       "link": "https://www.wsj.com/business/uber-to-acquire-business-catering-platform-ezcater-for-2-3-billion-9d501195?mod=pls_whats_news_us_business_f",
       "published": "Tue, 06 Oct 2026 13:37:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/articles/entain-maintains-earnings-guidance-despite-brazils-online-betting-ban-c1794be8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 28 Sep 2026 12:11:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "A Supermarket Opened a Pub to Get Around Liquor Laws. Now It Needs Bouncers.",
-      "link": "https://www.wsj.com/world/a-supermarket-opened-a-pub-to-get-around-liquor-laws-now-it-needs-bouncers-4f0e9090?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 28 Sep 2026 09:30:00 GMT",
-      "sentiment": 0.3181818181818182
     },
     {
       "title": "News Quiz for October 10, 2026",
@@ -451,16 +451,16 @@
       "sentiment": 0.6
     },
     {
+      "title": "Chinese Auto Giant Geely Announces Canada Entry in 2027 as U.S. Seeks Ban",
+      "link": "https://www.wsj.com/business/autos/chinese-auto-giant-geely-announces-canada-entry-in-2027-as-u-s-seeks-ban-5fc6681c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 14:36:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-9fce20b3?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 11:53:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Walmart Wants Robots to Run Its Warehouses. Reality Keeps Getting in the Way.",
-      "link": "https://www.wsj.com/articles/walmart-wants-robots-to-run-its-warehouses-reality-keeps-getting-in-the-way-d75dee8b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 09:59:00 GMT",
-      "sentiment": 0.04861111111111111
     },
     {
       "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
+      "link": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 10:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
       "link": "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789?mod=rss_worldnews",
       "published": "Mon, 12 Oct 2026 08:05:00 GMT",
@@ -31,16 +37,22 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=rss_worldnews",
-      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
-      "sentiment": -0.03749999999999999
+      "title": "Attacks on Saudi Airports Threaten the Kingdom’s Ambitions",
+      "link": "https://www.wsj.com/articles/attacks-on-saudi-airports-threaten-the-kingdoms-ambitions-044d3e42?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 10:01:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Oil Prices Fall as Traders Weigh Russian Diesel Deal, Middle East Supply Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf?mod=rss_worldnews",
       "published": "Mon, 12 Oct 2026 07:58:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
+      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=rss_worldnews",
+      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
+      "sentiment": -0.03749999999999999
     },
     {
       "title": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes",
@@ -53,18 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/houthis-bombard-saudi-air-links-in-effort-to-cut-kingdom-off-from-rest-of-world-1f8f55f9?mod=rss_worldnews",
       "published": "Sat, 10 Oct 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=rss_worldnews",
-      "published": "Fri, 09 Oct 2026 19:33:00 GMT",
-      "sentiment": 0.13888888888888887
-    },
-    {
-      "title": "FlyDubai Co-Pilot Planned to Crash Into Israeli Airport, U.A.E. Says",
-      "link": "https://www.wsj.com/world/middle-east/flydubai-co-pilot-planned-to-crash-into-israeli-airport-u-a-e-says-5e337b5f?mod=rss_worldnews",
-      "published": "Fri, 09 Oct 2026 17:46:00 GMT",
-      "sentiment": 0.15000000000000002
     },
     {
       "title": "China’s Next ‘Gray Zone’ Target: An Island Chain Critical to U.S. Defense of Taiwan",
@@ -223,6 +223,12 @@
       "sentiment": -0.13333333333333333
     },
     {
+      "title": "EU to Cap Chinese Hybrid-Vehicle Imports at 350,000 Units Annually, Official Says",
+      "link": "https://www.wsj.com/economy/trade/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 10:29:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "China Is Offering Half Measures to Its Mounting Economic Problems",
       "link": "https://www.wsj.com/world/china/china-is-offering-half-measures-to-its-mounting-economic-problems-3074211f?mod=rss_worldnews",
       "published": "Thu, 08 Oct 2026 16:58:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/china/fbi-arrests-alleged-chinese-agent-accused-of-spying-on-son-of-taiwan-leader-2d9d5bee?mod=rss_worldnews",
       "published": "Mon, 05 Oct 2026 10:29:00 GMT",
       "sentiment": -0.065
-    },
-    {
-      "title": "Unusual Rest Breaks for Xi Jinping Sucked Hours Out of Summit With Trump",
-      "link": "https://www.wsj.com/world/china/xi-jinping-health-caf250f1?mod=rss_worldnews",
-      "published": "Sat, 03 Oct 2026 01:35:00 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Trump Strikes Deal With Putin for Russian Diesel",
@@ -409,10 +409,10 @@
       "sentiment": -0.5
     },
     {
-      "title": "Former German Spy Chief Arrested on Suspicion of Espionage",
-      "link": "https://www.wsj.com/world/europe/former-german-spy-chief-arrested-on-suspicion-of-espionage-9e261c69?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 15:01:00 GMT",
-      "sentiment": -0.016666666666666666
+      "title": "Zelensky Asks Trump for Winter Arms Package, Expects Energy-Ceasefire Push",
+      "link": "https://www.wsj.com/world/ukraine-zelensky-interview-emma-tucker-757e9a30?mod=rss_worldnews",
+      "published": "Wed, 23 Sep 2026 01:17:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "How to Refinance a Car Loan in 6 Steps",
