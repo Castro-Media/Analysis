@@ -13,6 +13,18 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia",
+      "link": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia-mediate.html",
+      "published": "Mon, 12 Oct 2026 11:37:12 +0000",
+      "sentiment": -0.05000000000000001
+    },
+    {
+      "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
+      "link": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
+      "published": "Mon, 12 Oct 2026 12:36:54 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
       "link": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
       "published": "Mon, 12 Oct 2026 07:46:10 +0000",
@@ -61,12 +73,6 @@
       "sentiment": 0.0909090909090909
     },
     {
-      "title": "What to Know About the Protests in India",
-      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-      "published": "Sun, 11 Oct 2026 11:24:43 +0000",
-      "sentiment": 0.15656565656565655
-    },
-    {
       "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
       "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
       "published": "Sun, 11 Oct 2026 20:15:09 +0000",
@@ -76,12 +82,6 @@
       "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
       "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
       "published": "Sat, 10 Oct 2026 17:09:17 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid",
-      "link": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
-      "published": "Sat, 10 Oct 2026 08:39:29 +0000",
       "sentiment": 0.0
     },
     {
@@ -175,6 +175,12 @@
       "sentiment": -0.25
     },
     {
+      "title": "Navi Pillay, Nobel Peace Prize Winner, Forged Her Career Under Apartheid",
+      "link": "https://www.nytimes.com/2026/10/10/world/africa/navi-pillay-nobel-prize-apartheid-genocide.html",
+      "published": "Sat, 10 Oct 2026 08:39:29 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Blocked by Police, India’s Youth Voice Their Fury",
       "link": "https://www.nytimes.com/2026/10/10/world/asia/police-india-cockroach-protest-anger.html",
       "published": "Sat, 10 Oct 2026 07:54:09 +0000",
@@ -185,6 +191,12 @@
       "link": "https://www.nytimes.com/2026/10/10/world/asia/delhi-protests-india.html",
       "published": "Sat, 10 Oct 2026 16:50:45 +0000",
       "sentiment": 0.061111111111111116
+    },
+    {
+      "title": "What to Know About the Protests in India",
+      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+      "published": "Sun, 11 Oct 2026 11:24:43 +0000",
+      "sentiment": 0.15656565656565655
     },
     {
       "title": "Inside Erik Prince’s Mercenary Deal in Congo",
@@ -287,30 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
       "published": "Fri, 09 Oct 2026 15:17:55 +0000",
       "sentiment": 0.027777777777777773
-    },
-    {
-      "title": "Nobel Prize Winners Don’t Get a Heads-Up",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-prize-winners-phone-call-know.html",
-      "published": "Fri, 09 Oct 2026 11:34:25 +0000",
-      "sentiment": 0.375
-    },
-    {
-      "title": "Navi Pillay, a South African Human Rights Lawyer, Is Awarded the Nobel Peace Prize",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-winner-pillay.html",
-      "published": "Fri, 09 Oct 2026 13:57:46 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How the Epstein Files forced the Nobel Peace Prize to reckon with impartiality.",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/epstein-files-thorbjorn-jagland-committee.html",
-      "published": "Fri, 09 Oct 2026 11:39:06 +0000",
-      "sentiment": -0.30000000000000004
-    },
-    {
-      "title": "France’s Long, Fervent History of Protest",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/france-protest-history.html",
-      "published": "Fri, 09 Oct 2026 09:03:55 +0000",
-      "sentiment": -0.07222222222222223
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
+      "link": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 11:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 10:52:00 GMT",
@@ -31,10 +37,10 @@
       "sentiment": -0.03749999999999999
     },
     {
-      "title": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
-      "link": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 12:50:00 GMT",
-      "sentiment": 0.03125
+      "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
+      "link": "https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 13:11:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/business/deals/u-k-regulator-says-brinks-disposals-could-clear-way-for-4-billion-ncr-atleos-takeover-46694444?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 10:18:00 GMT",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
-      "link": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 21:01:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
@@ -253,6 +253,12 @@
       "sentiment": 0.10000000000000002
     },
     {
+      "title": "CFOs’ Key Partners For AI Transformation, According to BCG",
+      "link": "https://www.wsj.com/cfo-journal/cfos-key-partners-for-ai-transformation-according-to-bcg-c189b480?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 11:02:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Taylor Farms to Curb Lettuce Sales From Mexico; AI Boom Driving Global Growth",
       "link": "https://www.wsj.com/cfo-journal/taylor-farms-to-curb-lettuce-sales-from-mexico-ai-boom-driving-global-growth-264ba587?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 11:01:00 GMT",
@@ -274,12 +280,6 @@
       "title": "What Growing Up on a Farm Taught Elanco’s CEO",
       "link": "https://www.wsj.com/business/media/what-growing-up-on-a-farm-taught-elancos-ceo-99595e8e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 09:55:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Wall Street Bonus Bonanza; Plus, U.S. Trade Deficit Widens",
-      "link": "https://www.wsj.com/cfo-journal/wall-street-bonus-bonanza-plus-u-s-trade-deficit-widens-28b32aac?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 10:55:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,6 +313,12 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
+      "link": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 12:50:00 GMT",
+      "sentiment": 0.03125
+    },
+    {
       "title": "News Quiz for October 10, 2026",
       "link": "https://www.wsj.com/articles/news-quiz-for-october-10-2026-dec1f44d?mod=pls_whats_news_us_business_f",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/microsoft-forms-new-xbox-unit-focused-on-film-tv-in-turnaround-effort-ead1c2a1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 14:37:00 GMT",
       "sentiment": 0.19318181818181818
-    },
-    {
-      "title": "Why Ford Hired a Head of Nomenclature—And You Might Want One, Too",
-      "link": "https://www.wsj.com/cmo-today/why-ford-hired-a-head-of-nomenclatureand-you-might-want-one-too-88bf0316?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 13:19:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Walmart Wrangles With Complexities of Warehouse Automation",
@@ -463,28 +463,28 @@
       "sentiment": 0.5
     },
     {
-      "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
-      "link": "https://www.wsj.com/business/energy-oil/bp-curbs-production-at-two-platforms-in-gulf-of-mexico-due-to-hurricane-isaias-d582fc67?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 09:48:00 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
       "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 17:04:00 GMT",
       "sentiment": -0.03749999999999999
     },
     {
-      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
-      "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.055555555555555546
+      "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
+      "link": "https://www.wsj.com/business/energy-oil/bp-curbs-production-at-two-platforms-in-gulf-of-mexico-due-to-hurricane-isaias-d582fc67?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 09:48:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit",
       "link": "https://www.wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 09:30:00 GMT",
       "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
+      "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.055555555555555546
     },
     {
       "title": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
