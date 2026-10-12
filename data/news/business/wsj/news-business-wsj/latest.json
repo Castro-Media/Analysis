@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 16:34:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Adnoc Logistics in Talks to Buy Stake in HEA at $3 Billion Valuation",
+      "link": "https://www.wsj.com/business/energy-oil/adnoc-logistics-in-talks-to-buy-stake-in-hea-at-3-billion-valuation-c005541a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 16:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
       "link": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 11:00:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 10:52:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Nascar’s New CEO Aims to Take ‘Big Swings’",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 20:26:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
-      "sentiment": -0.03749999999999999
     },
     {
       "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
@@ -67,6 +67,18 @@
       "sentiment": 0.13333333333333333
     },
     {
+      "title": "LVMH’s Creaking Sales Cast Pall Over Luxury’s Fragile Recovery",
+      "link": "https://www.wsj.com/business/retail/lvmh-sales-sputter-5411056a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 16:44:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Hardware Stores Have a Secret Weapon for Wooing Customers",
+      "link": "https://www.wsj.com/lifestyle/hardware-stores-secret-weapon-cats-05fecb1e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 15:21:00 GMT",
+      "sentiment": -0.05079365079365081
+    },
+    {
       "title": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
       "link": "https://www.wsj.com/business/retail/how-a-western-consumer-giant-is-thriving-on-chinas-social-media-shoppers-386dccc3?mod=pls_whats_news_us_business_f",
       "published": "Sat, 10 Oct 2026 18:00:00 GMT",
@@ -85,16 +97,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "7-Eleven Inc. CEO Using Japan Playbook for North America Growth",
-      "link": "https://www.wsj.com/business/retail/7-eleven-inc-ceo-using-japan-playbook-for-north-america-growth-7eff93c9?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 11:39:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
-      "link": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.6
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-cd92d1cc?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 16:32:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Telia Co. to Cut 900 Jobs in Plan to Save $100 Million a Year",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/autos/porsche-deliveries-fell-16-in-first-nine-months-of-year-33f8bb57?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 07:49:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Aritzia Raises Sales Outlook as U.S. Growth Accelerates",
-      "link": "https://www.wsj.com/business/retail/aritzia-lifts-guidance-as-u-s-sales-support-higher-profit-revenue-202583d7?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 23:04:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
@@ -223,10 +223,22 @@
       "sentiment": -0.125
     },
     {
+      "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
+      "link": "https://www.wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 16:20:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "First-Class Amenity Kits Have Become Holy Grail Collectibles",
       "link": "https://www.wsj.com/lifestyle/travel/first-class-amenity-kits-have-become-holy-grail-collectibles-adfbb1a0?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 09:30:00 GMT",
       "sentiment": 0.26111111111111107
+    },
+    {
+      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
+      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
+      "sentiment": -0.03749999999999999
     },
     {
       "title": "American Airlines Is the Worst for Bumping Passengers. Now It Says It Will Stop.",
@@ -239,18 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/rogue-pilots-have-become-one-of-the-biggest-threats-to-airline-safety-d4932855?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 01:33:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "The Latest Nuisance on Flights Is a Zoom Call at 30,000 Feet",
-      "link": "https://www.wsj.com/lifestyle/travel/the-latest-nuisance-on-flights-is-a-zoom-call-at-30-000-feet-af093074?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 16:00:00 GMT",
-      "sentiment": 0.24727272727272726
-    },
-    {
-      "title": "FlyDubai Attacker Was Part of Pilot Hiring Spree at Fast-Growing Airline",
-      "link": "https://www.wsj.com/business/airlines/flydubai-attacker-was-part-of-pilot-hiring-spree-at-fast-growing-airline-27291c41?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 07 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.10000000000000002
     },
     {
       "title": "CFOs’ Key Partners For AI Transformation, According to BCG",
@@ -349,6 +349,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "For Walmart, Replacing Humans With Robots Is a Multibillion-Dollar Struggle",
+      "link": "https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 09 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge",
       "link": "https://www.wsj.com/logistics-report/electric-truck-drivers-struggle-to-compete-even-as-diesel-prices-surge-65fea007?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 11:04:00 GMT",
@@ -367,10 +373,10 @@
       "sentiment": -0.35
     },
     {
-      "title": "C.H. Robinson to Buy RXO for About $5.8 Billion",
-      "link": "https://www.wsj.com/business/deals/c-h-robinson-to-buy-rxo-for-about-5-billion-80a73ba1?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 05 Oct 2026 19:44:00 GMT",
-      "sentiment": 0.0
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-af51bae6?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 16:33:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "A New Mobile Telecom Battle May Be Brewing",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7bcf02cb?mod=pls_whats_news_us_business_f",
       "published": "Fri, 02 Oct 2026 21:21:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Ant-Backed Fintech Mynt Valued at Around $7 Billion in Philippine IPO",
-      "link": "https://www.wsj.com/pro/private-equity/ant-backed-fintech-mynt-valued-at-around-7-billion-in-philippine-ipo-0224c31b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 15:31:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Navigating the Fog of ARR in the AI Era",

@@ -1,10 +1,22 @@
 {
   "entries": [
     {
+      "title": "Will County District 5 candidates talk solar farms, Des Plaines River bridge",
+      "link": "https://www.chicagotribune.com/2026/10/12/will-county-board-district-5-candidates/",
+      "published": "Mon, 12 Oct 2026 15:23:25 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Republican Trevor De Vries and Democrat Scott Houldieson face off for District 1 Indiana State Senate seat",
       "link": "https://www.chicagotribune.com/2026/10/12/de-vries-houldieson-face-off-for-district-1-indiana-state-senate-seat/",
       "published": "Mon, 12 Oct 2026 15:00:56 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Elon Musk quietly becomes biggest known donor in midterm contests as he tries to save Republicans",
+      "link": "https://www.chicagotribune.com/2026/10/12/elon-musk-donations-midterm-elections/",
+      "published": "Mon, 12 Oct 2026 14:58:48 +0000",
+      "sentiment": -0.05
     },
     {
       "title": "Republican David Crane and Democrat Jerry Williams make pitches to become next Lake County sheriff",
@@ -43,7 +55,7 @@
       "sentiment": -0.1
     },
     {
-      "title": "AP source: Pres. Donald Trump, Secretary of State Marco Rubio weigh firing US envoy to Greece after mounting reports of improper conduct",
+      "title": "Donald Trump and Marco Rubio weigh firing US envoy to Greece after mounting reports of improper conduct",
       "link": "https://www.chicagotribune.com/2026/10/11/trump-rubio-guilfoyle-firing/",
       "published": "Sun, 11 Oct 2026 23:55:30 +0000",
       "sentiment": 0.0
@@ -83,6 +95,12 @@
       "link": "https://www.chicagotribune.com/2026/10/11/illinois-senate-juliana-stratton/",
       "published": "Sun, 11 Oct 2026 10:00:03 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Park service could remove more than 500 trees at historic golf course Donald Trump wants to redesign",
+      "link": "https://www.chicagotribune.com/2026/10/10/park-service-trees-removed-golf-course/",
+      "published": "Sat, 10 Oct 2026 19:52:42 +0000",
+      "sentiment": 0.2333333333333333
     },
     {
       "title": "Trump strikes deal with Putin to get diesel",
@@ -581,24 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/10/02/cps-watchdog-school-board-president-candidate/",
       "published": "Fri, 02 Oct 2026 23:44:40 +0000",
       "sentiment": -0.05
-    },
-    {
-      "title": "Kane County Sheriff Ron Hain, who has been missing from the public eye for months, announces his retirement",
-      "link": "https://www.chicagotribune.com/2026/10/02/kane-county-sheriff-ron-hain/",
-      "published": "Fri, 02 Oct 2026 22:14:50 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Indiana Attorney General sues state court commission, Lake County prosecutor",
-      "link": "https://www.chicagotribune.com/2026/10/02/indiana-attorney-general-sues-state-court-commission-lake-county-prosecutor/",
-      "published": "Fri, 02 Oct 2026 21:35:43 +0000",
-      "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Mayor Brandon Johnson’s 911 mental health response teams see uptick, CPD help",
-      "link": "https://www.chicagotribune.com/2026/10/02/mayor-brandon-johnson-911-mental-health-response-teams/",
-      "published": "Fri, 02 Oct 2026 18:42:44 +0000",
-      "sentiment": -0.1
     }
   ]
 }
