@@ -1,16 +1,16 @@
 {
   "entries": [
     {
-      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
-      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05277777777777778
-    },
-    {
       "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
       "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": 0.45833333333333337
+    },
+    {
+      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
+      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.056666666666666664
     },
     {
       "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
@@ -19,10 +19,10 @@
       "sentiment": -0.05
     },
     {
-      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
-      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
+      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change.",
+      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.056666666666666664
+      "sentiment": 0.05277777777777778
     },
     {
       "title": "2 children fatally shot reportedly in broad daylight in attempted murder-suicide in Pico-Union",
@@ -283,12 +283,6 @@
       "sentiment": 0.05555555555555555
     },
     {
-      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
-      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
@@ -305,6 +299,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",

@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Suspect in deadly Philadelphia police ambush faces 76 charges, ordered held without bail",
+      "title": "San Francisco’s former top female cop and daughter shot dead by police sergeant husband in posh California county",
+      "link": "https://nypost.com/2026/10/12/us-news/ex-california-police-sergeant-shoots-ex-deputy-wife-in-murder-suicide-reports/",
+      "published": "Mon, 12 Oct 2026 10:25:38 -0400",
+      "sentiment": 0.019999999999999997
+    },
+    {
+      "title": "Mamdani orders NYPD to review its use-of-force policies, announces extra funding for police oversight",
+      "link": "https://nypost.com/2026/10/12/us-news/mamdani-orders-nypd-to-review-use-of-force-policies-announces-extra-funding-for-police-oversight/",
+      "published": "Mon, 12 Oct 2026 09:43:42 -0400",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Accused Philadelphia cop killer grins as he’s hit with 76 charges, ordered held without bail",
       "link": "https://nypost.com/2026/10/12/us-news/suspect-in-deadly-philadelphia-police-ambush-faces-76-charges-ordered-held-without-bail/",
       "published": "Mon, 12 Oct 2026 08:49:57 -0400",
-      "sentiment": -0.2
+      "sentiment": 0.0
     },
     {
       "title": "Rep. Ilhan Omar’s DC home raided by DHS as part of probe into Dem’s immigration paperwork",
@@ -107,18 +119,6 @@
       "link": "https://nypost.com/2026/10/11/us-news/murderer-in-65-year-old-cold-case-killing-of-girl-8-revealed-to-be-chicago-homicide-detective/",
       "published": "Sun, 11 Oct 2026 22:47:00 -0400",
       "sentiment": 0.125
-    },
-    {
-      "title": "NYC teacher among protesters who disrupted vigil for victims of Oct. 7 Hamas massacre",
-      "link": "https://nypost.com/2026/10/11/us-news/nyc-teacher-disrupts-vigil-for-victims-of-october-7-hamas-massacre/",
-      "published": "Sun, 11 Oct 2026 21:35:48 -0400",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Long Beach homeowners heartbroken as Tropical Storm Rachel annihilates houses",
-      "link": "https://nypost.com/2026/10/11/us-news/long-beach-homeowners-devestated-as-tropical-storm-rachel-destroys-homes/",
-      "published": "Sun, 11 Oct 2026 21:32:22 -0400",
-      "sentiment": -0.11785714285714284
     }
   ]
 }
