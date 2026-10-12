@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Republicans Promoted a False Rumor That James Talarico Was in Ohio",
+      "link": "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html",
+      "published": "Mon, 12 Oct 2026 23:16:34 +0000",
+      "sentiment": -0.325
+    },
+    {
       "title": "An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland",
       "link": "https://www.nytimes.com/2026/10/12/us/politics/maine-troy-jackson-ad-portland-oregon.html",
       "published": "Mon, 12 Oct 2026 21:29:53 +0000",
@@ -43,10 +49,10 @@
       "sentiment": 0.165
     },
     {
-      "title": "One Grieving Mother, Two Mariners Tickets and a Season of New Friends",
+      "title": "In Grief, a Mother Asks Strangers to ‘Sit Here’ at a Ballgame",
       "link": "https://www.nytimes.com/2026/10/12/us/grieving-mother-seattle-mariners-tickets.html",
-      "published": "Mon, 12 Oct 2026 16:32:34 +0000",
-      "sentiment": 0.13636363636363635
+      "published": "Mon, 12 Oct 2026 23:40:07 +0000",
+      "sentiment": -0.8
     },
     {
       "title": "Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/11/us/flamingos-isaias-zoo-bathroom-hurricane-florida.html",
       "published": "Sun, 11 Oct 2026 20:43:05 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Democrats Press Pentagon on Iran Civilian Deaths",
-      "link": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
-      "published": "Sun, 11 Oct 2026 18:28:39 +0000",
-      "sentiment": 0.13636363636363635
     }
   ]
 }
