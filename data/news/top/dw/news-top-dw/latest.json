@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "title": "Nord Stream: Trial of Ukrainian attack suspect begins in Germany",
+      "link": "https://www.dw.com/en/nord-stream-trial-of-ukrainian-attack-suspect-begins-in-germany/a-79647617?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.0
+    },
+    {
+      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
+      "link": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.125
+    },
+    {
+      "title": "Houthis and Saudis strike each other in latest escalation",
+      "link": "https://www.dw.com/en/houthis-and-saudis-strike-each-other-in-latest-escalation/a-79649973?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.225
+    },
+    {
+      "title": "Nuremberg airport briefly closed after in-flight emergency",
+      "link": "https://www.dw.com/en/nuremberg-airport-briefly-closed-after-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": -0.05
+    },
+    {
+      "title": "Spain's King Felipe and Queen Letizia visit Ceuta",
+      "link": "https://www.dw.com/en/spain-s-king-felipe-and-queen-letizia-visit-ceuta/a-79649468?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.0
+    },
+    {
+      "title": "Formula 1: Rwanda to bring sport back to Africa",
+      "link": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.10519480519480519
+    },
+    {
       "title": "Bulgaria condemns Black Sea drone attacks as Russia's war in Ukraine spills over into Eastern Europe",
       "link": "https://www.dw.com/en/bulgaria-condemns-black-sea-drone-attacks-as-russia-s-war-in-ukraine-spills-over-into-eastern-europe/a-79648001?maca=en-rss-en-all-1573-rdf",
       "published": null,
@@ -85,18 +121,6 @@
       "sentiment": 0.011111111111111112
     },
     {
-      "title": "Germany news: Merz says Trump's Russia diesel deal 'out of question' for Europe",
-      "link": "https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.0625
-    },
-    {
-      "title": "US federal agents search home of Trump critic Ilhan Omar",
-      "link": "https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-ilhan-omar/a-79643360?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.0
-    },
-    {
       "title": "Pope lung nodule: Could it be cancer?",
       "link": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",
       "published": null,
@@ -107,18 +131,6 @@
       "link": "https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043?maca=en-rss-en-all-1573-rdf",
       "published": null,
       "sentiment": 0.0
-    },
-    {
-      "title": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
-      "link": "https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": -0.4
-    },
-    {
-      "title": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
-      "link": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": -0.05555555555555555
     },
     {
       "title": "Germany's women: Ena Mahmutovic makes her case to become Germany's next No.1 goalkeeper",
@@ -527,12 +539,6 @@
       "link": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf",
       "published": null,
       "sentiment": 0.04000000000000001
-    },
-    {
-      "title": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
-      "link": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.004999999999999999
     },
     {
       "title": "Senegal's Youth Olympics makes Olympics in Africa 'logical'",

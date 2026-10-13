@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount",
+      "link": "https://www.wsj.com/business/energy-oil/opec-cuts-demand-growth-forecast-again-as-gulf-supply-risks-mount-848d73a3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 12:32:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 11:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "J&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business",
       "link": "https://www.wsj.com/business/earnings/j-j-is-leaning-toward-spinning-out-its-hips-and-knees-business-0de8d70d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 10:28:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": -0.5
-    },
-    {
-      "title": "Friendship Was the Point—Now Cyera Is Worth $12 Billion",
-      "link": "https://www.wsj.com/articles/friendship-was-the-pointnow-cyera-is-worth-12-billion-524979d4?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 09:56:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
-      "link": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.4625
     },
     {
       "title": "CSG Sets Sights on Space With Around $434 Million Stake in Canada’s MDA Space",
@@ -67,6 +67,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Albertsons Pulls Fiscal Year Guidance, Plans Business Review",
+      "link": "https://www.wsj.com/business/retail/albertsons-pulls-fy-guidance-plans-business-review-9d71facf?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 12:06:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Domino’s Pizza Sales Growth Continued Slowing",
       "link": "https://www.wsj.com/business/earnings/dominos-pizza-sales-growth-continued-slowing-916f184c?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 10:15:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/lifestyle/hardware-stores-secret-weapon-cats-05fecb1e?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 15:21:00 GMT",
       "sentiment": -0.05079365079365081
-    },
-    {
-      "title": "How a Western Consumer Giant Is Thriving on China’s Social-Media Shoppers",
-      "link": "https://www.wsj.com/business/retail/how-a-western-consumer-giant-is-thriving-on-chinas-social-media-shoppers-386dccc3?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 10 Oct 2026 18:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Givaudan Shares Climb After Sales Beat Expectations",
@@ -193,34 +193,34 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Prices Fall as Traders Weigh Middle East Risks, Russian Diesel Supplies",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 12:09:00 GMT",
+      "sentiment": -0.011904761904761904
+    },
+    {
+      "title": "Projects Highlight Promise, Hurdles in U.S. Manufacturing Revival",
+      "link": "https://www.wsj.com/logistics-report/projects-highlight-promise-hurdles-in-u-s-manufacturing-revival-298e50e0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 11:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
+      "link": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.4625
+    },
+    {
       "title": "European Gas Prices at Highest Since Late 2022 on Winter Supply Concerns",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-at-highest-since-late-2022-on-winter-supply-concerns-08c3ad4d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 07:41:00 GMT",
       "sentiment": -0.09999999999999999
     },
     {
-      "title": "Oil Prices Fall as Traders Weigh Middle East Risks, Russian Diesel Supplies",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 07:35:00 GMT",
-      "sentiment": -0.011904761904761904
-    },
-    {
       "title": "Iran Fortifying Nuclear Sites and Rallying Its People for Return to Fighting",
       "link": "https://www.wsj.com/world/middle-east/iran-is-fortifying-nuclear-sites-and-rallying-its-people-for-a-return-to-fighting-c4cc3c28?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 03:00:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
-      "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 20:15:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
@@ -253,6 +253,18 @@
       "sentiment": -0.26666666666666666
     },
     {
+      "title": "Sweetgreen Wants to Shed its Expensive Salad Image. Enter the Wraps.",
+      "link": "https://www.wsj.com/cfo-journal/sweetgreen-wants-to-shed-its-expensive-salad-image-enter-the-wraps-08d3c7f0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 11:09:00 GMT",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Friendship Was the Point—Now Cyera Is Worth $12 Billion",
+      "link": "https://www.wsj.com/articles/friendship-was-the-pointnow-cyera-is-worth-12-billion-524979d4?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 09:56:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "CFOs’ Key Partners For AI Transformation, According to BCG",
       "link": "https://www.wsj.com/cfo-journal/cfos-key-partners-for-ai-transformation-according-to-bcg-c189b480?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 11:02:00 GMT",
@@ -269,18 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/taylor-farms-to-curb-lettuce-sales-from-mexico-ai-boom-driving-global-growth-264ba587?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 11:01:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "The AI Change That Let Pfizer’s Albert Bourla Sleep Better",
-      "link": "https://www.wsj.com/business/media/the-ai-change-that-let-pfizers-albert-bourla-sleep-better-51d371b2?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 09:59:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Fed Minutes Show No Urgency for October Hike",
-      "link": "https://www.wsj.com/cfo-journal/fed-minutes-show-no-urgency-for-october-hike-66be7bd8?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "AI Agents Are a Threat to Travel Businesses. Airbnb Could Still Be a Winner.",
@@ -439,6 +439,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
+      "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 21:03:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 20:59:00 GMT",
@@ -457,22 +463,10 @@
       "sentiment": 0.055555555555555546
     },
     {
-      "title": "The AI Computing Crunch Is Making Rivals Into Partners",
-      "link": "https://www.wsj.com/articles/the-ai-computing-crunch-is-making-rivals-into-partners-09431721?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 10 Oct 2026 11:04:00 GMT",
-      "sentiment": 0.55
-    },
-    {
       "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
       "link": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 20:47:00 GMT",
       "sentiment": -0.15
-    },
-    {
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
-      "sentiment": -0.03749999999999999
     },
     {
       "title": "From Iowa Steel to Philly Ships, Trump’s Industrial Promises Face Big Tests",
@@ -481,16 +475,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
+      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
+      "sentiment": -0.03749999999999999
+    },
+    {
+      "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
+      "link": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.4625
+    },
+    {
       "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
       "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 00:00:00 GMT",
       "sentiment": 0.055555555555555546
-    },
-    {
-      "title": "BP Curbs Production at Two Platforms in Gulf of Mexico Due to Hurricane Isaias",
-      "link": "https://www.wsj.com/business/energy-oil/bp-curbs-production-at-two-platforms-in-gulf-of-mexico-due-to-hurricane-isaias-d582fc67?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 09:48:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Best Small-Business Loans in October 2026",
