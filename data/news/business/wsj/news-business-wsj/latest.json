@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-98d95467?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 16:28:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-51c2b458?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 16:23:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount",
       "link": "https://www.wsj.com/business/energy-oil/opec-cuts-demand-growth-forecast-again-as-gulf-supply-risks-mount-848d73a3?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 12:32:00 GMT",
@@ -17,18 +29,6 @@
       "link": "https://www.wsj.com/business/earnings/j-j-is-leaning-toward-spinning-out-its-hips-and-knees-business-0de8d70d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 10:28:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-51c2b458?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 10:17:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-98d95467?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 10:13:00 GMT",
-      "sentiment": 0.3333333333333333
     },
     {
       "title": "Sweetgreen’s Plan to Shed Its Expensive Salad Image",
@@ -97,6 +97,12 @@
       "sentiment": -0.05079365079365081
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/health/healthcare/health-care-roundup-market-talk-86542959?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 16:32:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Givaudan Shares Climb After Sales Beat Expectations",
       "link": "https://www.wsj.com/business/givaudan-shares-climb-after-sales-beat-expectations-7553e125?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 10:40:00 GMT",
@@ -121,10 +127,10 @@
       "sentiment": 0.15
     },
     {
-      "title": "Telia Co. to Cut 900 Jobs in Plan to Save $100 Million a Year",
-      "link": "https://www.wsj.com/business/earnings/telia-co-to-cut-900-jobs-in-plan-to-save-100-million-a-year-0c95ad11?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 06:51:00 GMT",
-      "sentiment": 0.0
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8a9773ef?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 16:24:00 GMT",
+      "sentiment": 0.3333333333333333
     },
     {
       "title": "BMW Group Vehicle Deliveries Fall on Continued Weakness in China",
@@ -148,12 +154,6 @@
       "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
       "link": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 10:55:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Volkswagen Vehicle Deliveries Fall on Continued China Weakness",
-      "link": "https://www.wsj.com/business/autos/volkswagen-vehicle-deliveries-fall-on-continued-china-weakness-21da0eb9?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 07:22:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -283,6 +283,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
+      "link": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 15:57:00 GMT",
+      "sentiment": -0.03888888888888889
+    },
+    {
       "title": "AI Agents Are a Threat to Travel Businesses. Airbnb Could Still Be a Winner.",
       "link": "https://www.wsj.com/business/hospitality/ai-agents-are-a-threat-to-travel-businesses-airbnb-could-still-be-a-winner-3ad37351?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 09:30:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/starbucks-accused-of-mislabeling-sugar-free-protein-drinks-in-lawsuit-6c9daaba?mod=pls_whats_news_us_business_f",
       "published": "Mon, 05 Oct 2026 19:02:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Fast-Growing Dutch Bros Coffee, Known for Drive-Throughs, Wants to Cater to Walkers",
-      "link": "https://www.wsj.com/cfo-journal/fast-growing-dutch-bros-coffee-known-for-drive-throughs-wants-to-cater-to-walkers-f354845c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 02 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1625
     },
     {
       "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
@@ -481,16 +481,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
-      "sentiment": -0.03749999999999999
-    },
-    {
       "title": "Chinese Cars Now Dominate Europe’s Biggest Auto Show",
       "link": "https://www.wsj.com/business/autos/europes-biggest-auto-show-is-now-dominated-by-chinese-cars-cefea46d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 01:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
+      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
+      "sentiment": -0.03749999999999999
     },
     {
       "title": "Best Small-Business Loans in October 2026",

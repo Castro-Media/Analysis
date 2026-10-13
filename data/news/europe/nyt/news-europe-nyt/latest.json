@@ -1,21 +1,33 @@
 {
   "entries": [
     {
+      "title": "Russia Detains Japanese Journalist for Alleged Espionage",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
+      "published": "Tue, 13 Oct 2026 16:45:32 +0000",
+      "sentiment": 0.01333333333333333
+    },
+    {
+      "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
+      "published": "Tue, 13 Oct 2026 16:13:56 +0000",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
       "published": "Tue, 13 Oct 2026 13:17:24 +0000",
       "sentiment": -0.08125
     },
     {
-      "title": "Zelensky Comment Raises Fear That U.S. Is Cutting Intelligence Sharing",
+      "title": "Zelensky Comment Raises Fears Over U.S. Intelligence Sharing",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-      "published": "Tue, 13 Oct 2026 14:05:18 +0000",
-      "sentiment": -0.13
+      "published": "Tue, 13 Oct 2026 15:57:24 +0000",
+      "sentiment": -0.025
     },
     {
       "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
-      "published": "Tue, 13 Oct 2026 14:26:21 +0000",
+      "published": "Tue, 13 Oct 2026 16:04:03 +0000",
       "sentiment": -0.225
     },
     {
@@ -27,25 +39,25 @@
     {
       "title": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
-      "published": "Tue, 13 Oct 2026 14:47:41 +0000",
+      "published": "Tue, 13 Oct 2026 15:56:06 +0000",
       "sentiment": 0.04166666666666668
     },
     {
       "title": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
-      "published": "Tue, 13 Oct 2026 13:37:49 +0000",
+      "published": "Tue, 13 Oct 2026 16:08:04 +0000",
       "sentiment": -0.10000000000000002
     },
     {
       "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
-      "published": "Tue, 13 Oct 2026 14:50:50 +0000",
+      "published": "Tue, 13 Oct 2026 16:21:17 +0000",
       "sentiment": 0.5
     },
     {
-      "title": "This Town Is Crazy About Elvis",
+      "title": "4,200 Miles From Graceland, This Town Is Crazy About Elvis",
       "link": "https://www.nytimes.com/2026/10/13/arts/porthcawl-elvis-festival-wales.html",
-      "published": "Tue, 13 Oct 2026 10:43:04 +0000",
+      "published": "Tue, 13 Oct 2026 15:09:35 +0000",
       "sentiment": -0.6
     },
     {
@@ -69,7 +81,7 @@
     {
       "title": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html",
-      "published": "Tue, 13 Oct 2026 09:23:47 +0000",
+      "published": "Tue, 13 Oct 2026 15:57:51 +0000",
       "sentiment": 0.005555555555555554
     },
     {
@@ -81,7 +93,7 @@
     {
       "title": "Marina Vlady, French Cinema Star of ‘Princesse de Clèves,’ Dies at 88",
       "link": "https://www.nytimes.com/2026/10/12/movies/marina-vlady-dead.html",
-      "published": "Mon, 12 Oct 2026 23:01:56 +0000",
+      "published": "Mon, 12 Oct 2026 23:01:57 +0000",
       "sentiment": 0.14444444444444446
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html",
       "published": "Mon, 12 Oct 2026 16:26:06 +0000",
       "sentiment": -0.1138888888888889
-    },
-    {
-      "title": "Amsterdam’s Van Gogh Museum Says It Reached Funding Deal and Won’t Have to Close",
-      "link": "https://www.nytimes.com/2026/10/12/arts/van-gogh-museum-amsterdam-funding.html",
-      "published": "Mon, 12 Oct 2026 15:04:13 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-      "link": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-      "published": "Mon, 12 Oct 2026 12:36:54 +0000",
-      "sentiment": 0.16666666666666666
     }
   ]
 }
