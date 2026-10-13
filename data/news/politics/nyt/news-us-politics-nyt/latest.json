@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "The Rise and Fall of Ambassador Kimberly Guilfoyle",
+      "title": "How Elon Musk’s Money Is Shaping Republicans’ Midterms Strategy",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/elon-musk-republicans-spending.html",
+      "published": "Tue, 13 Oct 2026 22:43:22 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Justice Dept. Issues Subpoenas in Ilhan Omar Investigation",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/justice-dept-ilhan-omar-subpoenas.html",
+      "published": "Tue, 13 Oct 2026 22:40:20 +0000",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html",
+      "published": "Tue, 13 Oct 2026 22:18:50 +0000",
+      "sentiment": -0.1409090909090909
+    },
+    {
+      "title": "UAW’s Shawn Fain Wins Second Term as President",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/uaw-shawn-fain.html",
+      "published": "Tue, 13 Oct 2026 21:30:21 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "The Steep Rise and Spectacular Fall of Kimberly Guilfoyle",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
-      "published": "Tue, 13 Oct 2026 20:50:48 +0000",
-      "sentiment": 0.21153846153846154
+      "published": "Tue, 13 Oct 2026 22:52:37 +0000",
+      "sentiment": 0.341025641025641
     },
     {
       "title": "F.B.I. Disrupts Pyongyang Revenue Stream: North Koreans in U.S. Tech Jobs",
@@ -27,7 +51,7 @@
     {
       "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
-      "published": "Tue, 13 Oct 2026 16:04:10 +0000",
+      "published": "Tue, 13 Oct 2026 21:56:15 +0000",
       "sentiment": 0.0
     },
     {
@@ -95,30 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html",
       "published": "Mon, 12 Oct 2026 17:24:24 +0000",
       "sentiment": 0.025
-    },
-    {
-      "title": "He Helped Discover Ebola 50 Years Ago. He’s Still Worried.",
-      "link": "https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html",
-      "published": "Mon, 12 Oct 2026 09:02:05 +0000",
-      "sentiment": -0.016666666666666673
-    },
-    {
-      "title": "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads",
-      "link": "https://www.nytimes.com/2026/10/11/us/politics/judge-bars-trump-taxpayer-ads.html",
-      "published": "Mon, 12 Oct 2026 03:14:38 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
-      "link": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
-      "published": "Sun, 11 Oct 2026 22:22:17 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Democrats Press Pentagon on Iran Civilian Deaths",
-      "link": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
-      "published": "Sun, 11 Oct 2026 18:28:39 +0000",
-      "sentiment": 0.13636363636363635
     }
   ]
 }

@@ -19,9 +19,9 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "Saudi Arabia and Yemen’s Houthis Trade Threats to Hit Oil Facilities",
+      "title": "Houthis Threaten Fierce Retaliation After Saudi Arabia Strikes Yemen",
       "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-      "published": "Tue, 13 Oct 2026 17:34:57 +0000",
+      "published": "Tue, 13 Oct 2026 21:30:53 +0000",
       "sentiment": 0.0
     },
     {
@@ -43,10 +43,10 @@
       "sentiment": -0.7
     },
     {
-      "title": "U.S. Still Shares Intelligence With Ukraine, Both Say, Amid Fears It Could Stop",
+      "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-      "published": "Tue, 13 Oct 2026 18:17:44 +0000",
-      "sentiment": 0.0
+      "published": "Tue, 13 Oct 2026 21:17:34 +0000",
+      "sentiment": 0.025
     },
     {
       "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
@@ -69,7 +69,7 @@
     {
       "title": "Pope Leo Has Lung Cancer, Vatican Says",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-      "published": "Tue, 13 Oct 2026 20:47:11 +0000",
+      "published": "Tue, 13 Oct 2026 22:19:30 +0000",
       "sentiment": 0.2857142857142857
     },
     {
@@ -85,10 +85,22 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "The Rise and Fall of Ambassador Kimberly Guilfoyle",
+      "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
+      "link": "https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html",
+      "published": "Tue, 13 Oct 2026 21:22:06 +0000",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Trump Squeezes Ukraine, Again",
+      "link": "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
+      "published": "Tue, 13 Oct 2026 20:53:17 +0000",
+      "sentiment": -0.3888888888888889
+    },
+    {
+      "title": "The Steep Rise and Spectacular Fall of Kimberly Guilfoyle",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
-      "published": "Tue, 13 Oct 2026 20:50:48 +0000",
-      "sentiment": 0.21153846153846154
+      "published": "Tue, 13 Oct 2026 22:52:37 +0000",
+      "sentiment": 0.341025641025641
     },
     {
       "title": "Nuremberg Airport in Germany Is Briefly Shut by False Alarm of Hijacking",
@@ -153,7 +165,7 @@
     {
       "title": "After Lockdown, Sea of Protesters Flows Through India’s Capital",
       "link": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
-      "published": "Tue, 13 Oct 2026 03:08:14 +0000",
+      "published": "Tue, 13 Oct 2026 21:30:32 +0000",
       "sentiment": 0.13333333333333333
     },
     {
@@ -293,18 +305,6 @@
       "link": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
       "published": "Mon, 12 Oct 2026 18:13:34 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-      "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
-      "published": "Sun, 11 Oct 2026 08:55:27 +0000",
-      "sentiment": -0.30000000000000004
-    },
-    {
-      "title": "From a Sikh Sanctuary to Chaotic Streets, Protesters Brave Police in Delhi",
-      "link": "https://www.nytimes.com/2026/10/10/world/asia/india-cjp-cockroach-protest.html",
-      "published": "Sat, 10 Oct 2026 14:51:21 +0000",
-      "sentiment": 0.4681818181818182
     }
   ]
 }
