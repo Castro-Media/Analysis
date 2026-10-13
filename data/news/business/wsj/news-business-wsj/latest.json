@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
+      "link": "https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 18:00:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-98d95467?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 16:28:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/earnings/j-j-is-leaning-toward-spinning-out-its-hips-and-knees-business-0de8d70d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 10:28:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Sweetgreen’s Plan to Shed Its Expensive Salad Image",
-      "link": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.5
     },
     {
       "title": "Kimberly-Clark, Kenvue Win Conditional EU Approval for $40 Billion Tie-Up",
@@ -259,6 +259,12 @@
       "sentiment": -0.15
     },
     {
+      "title": "Sweetgreen’s Plan to Shed Its Expensive Salad Image",
+      "link": "https://www.wsj.com/business/c-suite/sweetgreens-plan-to-shed-its-expensive-salad-image-40751032?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.5
+    },
+    {
       "title": "Friendship Was the Point—Now Cyera Is Worth $12 Billion",
       "link": "https://www.wsj.com/articles/friendship-was-the-pointnow-cyera-is-worth-12-billion-524979d4?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 09:56:00 GMT",
@@ -274,12 +280,6 @@
       "title": "Nascar’s New CEO Aims to Take ‘Big Swings’",
       "link": "https://www.wsj.com/articles/nascars-new-ceo-aims-to-take-big-swings-7d763ecb?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 10:05:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Taylor Farms to Curb Lettuce Sales From Mexico; AI Boom Driving Global Growth",
-      "link": "https://www.wsj.com/cfo-journal/taylor-farms-to-curb-lettuce-sales-from-mexico-ai-boom-driving-global-growth-264ba587?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 11:01:00 GMT",
       "sentiment": 0.06818181818181818
     },
     {
@@ -313,6 +313,18 @@
       "sentiment": 0.1
     },
     {
+      "title": "Character.ai Maker Files for Chapter 11 Bankruptcy",
+      "link": "https://www.wsj.com/tech/ai/character-ai-maker-files-for-chapter-11-bankruptcy-740e6fb1?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 17:07:00 GMT",
+      "sentiment": -0.025
+    },
+    {
+      "title": "How ‘The Traitors’ Created a Generation of Murder-Mystery Fanatics",
+      "link": "https://www.wsj.com/arts-culture/television/traitors-alan-cumming-reality-show-7efe3c9e?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 17:04:00 GMT",
+      "sentiment": -0.08787878787878789
+    },
+    {
       "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
       "link": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 13:14:00 GMT",
@@ -329,18 +341,6 @@
       "link": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce?mod=pls_whats_news_us_business_f",
       "published": "Sun, 11 Oct 2026 12:50:00 GMT",
       "sentiment": 0.03125
-    },
-    {
-      "title": "News Quiz for October 10, 2026",
-      "link": "https://www.wsj.com/articles/news-quiz-for-october-10-2026-dec1f44d?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
-      "link": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 21:47:00 GMT",
-      "sentiment": -0.010101010101010102
     },
     {
       "title": "From Iowa Steel to Philly Ships, Trump’s Industrial Promises Face Big Tests",
@@ -463,16 +463,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
-      "link": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 20:47:00 GMT",
-      "sentiment": -0.15
-    },
-    {
       "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
       "link": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 09:30:00 GMT",
       "sentiment": 0.4625
+    },
+    {
+      "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
+      "link": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 20:47:00 GMT",
+      "sentiment": -0.15
     },
     {
       "title": "From Iowa Steel to Philly Ships, Trump’s Industrial Promises Face Big Tests",
@@ -487,10 +487,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
-      "sentiment": -0.03749999999999999
+      "title": "J&J Is Leaning Toward Spinning Out Its Hips-And-Knees Business",
+      "link": "https://www.wsj.com/business/earnings/j-j-is-leaning-toward-spinning-out-its-hips-and-knees-business-0de8d70d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 10:28:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in October 2026",
