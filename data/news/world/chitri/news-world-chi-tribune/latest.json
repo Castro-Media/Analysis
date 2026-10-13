@@ -13,6 +13,12 @@
       "sentiment": -0.7
     },
     {
+      "title": "Vatican says Pope Leo XIV has lung cancer and the lower lobe of his right lung was removed",
+      "link": "https://www.chicagotribune.com/2026/10/13/pope-leo-surgery/",
+      "published": "Tue, 13 Oct 2026 11:12:24 +0000",
+      "sentiment": 0.2857142857142857
+    },
+    {
       "title": "Today in History: Bob Dylan wins Nobel Prize in literature",
       "link": "https://www.chicagotribune.com/2026/10/13/today-in-history-bob-dylan-wins-nobel-prize-in-literature/",
       "published": "Tue, 13 Oct 2026 08:30:02 +0000",
@@ -593,12 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/09/19/today-in-history-earthquake-shakes-central-mexico/",
       "published": "Sat, 19 Sep 2026 08:30:03 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Cost of Iran war grows to $43.6 billion in latest US military estimate",
-      "link": "https://www.chicagotribune.com/2026/09/18/us-iran-war-cost/",
-      "published": "Sat, 19 Sep 2026 02:43:29 +0000",
-      "sentiment": 0.2
     }
   ]
 }

@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Justice Department Threatens Probe of American Bar Association on Law School Rules",
+      "link": "https://www.wsj.com/us-news/education/justice-department-threatens-probe-of-american-bar-association-on-law-school-rules-8bcafd7b?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 19:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Man Who Orchestrated Tupac Shakur’s Killing Sentenced to 40 Years to Life",
+      "link": "https://www.wsj.com/us-news/man-who-orchestrated-tupac-shakurs-killing-sentenced-to-40-years-to-life-f7918ad0?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 19:31:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Cornell Suspends Fraternity Parties in Wake of Rape Allegations",
       "link": "https://www.wsj.com/us-news/education/cornell-suspends-fraternity-parties-in-wake-of-rape-allegations-3790938b?mod=rss_usnews",
       "published": "Tue, 13 Oct 2026 18:02:00 GMT",
@@ -22,18 +34,6 @@
       "title": "Ken Paxton Partied in Dubai With Fugitives Ahead of High-Stakes Texas Senate Race",
       "link": "https://www.wsj.com/politics/policy/ken-paxton-texas-senate-dubai-trip-b54292c3?mod=rss_usnews",
       "published": "Tue, 13 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "San Francisco Created a Car-Free Oasis by the Sea—and It’s Driving Locals Mad",
-      "link": "https://www.wsj.com/lifestyle/travel/san-francisco-created-a-car-free-oasis-by-the-seaand-its-driving-locals-mad-e0debdbd?mod=rss_usnews",
-      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "Ilhan Omar’s Home Is Searched by Federal Agents",
-      "link": "https://www.wsj.com/politics/policy/ilhan-omars-home-is-searched-by-federal-agents-14a79871?mod=rss_usnews",
-      "published": "Mon, 12 Oct 2026 23:44:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,6 +67,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "FTC, States Ask Court to Hold ‘Pharma Bro’ Shkreli in Contempt for Trading Drug Stocks",
+      "link": "https://www.wsj.com/health/pharma/ftc-states-ask-court-to-hold-pharma-bro-shkreli-in-contempt-for-trading-drug-stocks-152dbc30?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 20:15:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Judge Yells at Trump Administration for Cutting Down Golf Course Trees",
       "link": "https://www.wsj.com/politics/policy/judge-yells-at-trump-administration-for-cutting-down-golf-course-trees-bd36b4df?mod=rss_usnews",
       "published": "Mon, 12 Oct 2026 20:15:00 GMT",
@@ -88,12 +94,6 @@
       "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
       "link": "https://www.wsj.com/us-news/christa-pike-discharged-from-hospital-after-surviving-execution-attempt-a72f02d7?mod=rss_usnews",
       "published": "Sat, 10 Oct 2026 18:28:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Conspiracy Probe of Trump Foes Is Faltering",
-      "link": "https://www.wsj.com/politics/policy/national-security-conspiracy-trump-doj-53593ef9?mod=rss_usnews",
-      "published": "Sat, 10 Oct 2026 18:10:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -163,6 +163,18 @@
       "sentiment": 0.5681818181818181
     },
     {
+      "title": "San Francisco Created a Car-Free Oasis by the Sea—and It’s Driving Locals Mad",
+      "link": "https://www.wsj.com/lifestyle/travel/san-francisco-created-a-car-free-oasis-by-the-seaand-its-driving-locals-mad-e0debdbd?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "Ilhan Omar’s Home Is Searched by Federal Agents",
+      "link": "https://www.wsj.com/politics/policy/ilhan-omars-home-is-searched-by-federal-agents-14a79871?mod=rss_usnews",
+      "published": "Mon, 12 Oct 2026 23:44:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Mystery of the Unknown Sailor Who Inspired Trump to Shake Up the Navy",
       "link": "https://www.wsj.com/politics/policy/the-mystery-of-the-unknown-sailor-who-inspired-trump-to-shake-up-the-navy-26588c2e?mod=rss_usnews",
       "published": "Mon, 12 Oct 2026 23:00:00 GMT",
@@ -179,18 +191,6 @@
       "link": "https://www.wsj.com/world/the-cameras-designed-to-keep-us-safe-are-now-being-used-in-war-7ab1078b?mod=rss_usnews",
       "published": "Sun, 11 Oct 2026 11:01:00 GMT",
       "sentiment": 0.10727272727272727
-    },
-    {
-      "title": "Silicon Valley’s Dream City Has Crashed Into Small-Town Politics",
-      "link": "https://www.wsj.com/us-news/silicon-valleys-dream-city-has-crashed-into-small-town-politics-4521d1bd?mod=rss_usnews",
-      "published": "Sat, 10 Oct 2026 23:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "America’s Gig Workers Turn to an Old-School Union",
-      "link": "https://www.wsj.com/us-news/americas-gig-workers-turn-to-an-old-school-union-6003e38d?mod=rss_usnews",
-      "published": "Sat, 10 Oct 2026 21:06:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "One Acre of Yosemite Has Kicked Off a Battle Over the Future of National Parks",
@@ -217,10 +217,10 @@
       "sentiment": 0.3181818181818182
     },
     {
-      "title": "The 100-Year-Old Math Miscalculation That Broke the Colorado River",
-      "link": "https://www.wsj.com/us-news/climate-environment/the-100-year-old-math-miscalculation-that-broke-the-colorado-river-7608613d?mod=rss_usnews",
-      "published": "Fri, 09 Oct 2026 16:02:00 GMT",
-      "sentiment": 0.0
+      "title": "San Francisco Created a Car-Free Oasis by the Sea—and It’s Driving Locals Mad",
+      "link": "https://www.wsj.com/lifestyle/travel/san-francisco-created-a-car-free-oasis-by-the-seaand-its-driving-locals-mad-e0debdbd?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.041666666666666664
     },
     {
       "title": "Cheapest Car Insurance Options 2026",

@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "‘Girls’ to Return for a Limited Run",
+      "link": "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
+      "published": "Tue, 13 Oct 2026 20:39:10 +0000",
+      "sentiment": 0.021645021645021644
+    },
+    {
+      "title": "The New Yorker Cartoonist P.C. Vey Has Died",
+      "link": "https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html",
+      "published": "Tue, 13 Oct 2026 20:20:28 +0000",
+      "sentiment": 0.024242424242424232
+    },
+    {
       "title": "Judy Markey, Frank and Funny Voice on Chicago Radio, Dies at 82",
       "link": "https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html",
-      "published": "Tue, 13 Oct 2026 15:02:02 +0000",
+      "published": "Tue, 13 Oct 2026 20:26:14 +0000",
       "sentiment": 0.153125
     },
     {
@@ -27,7 +39,7 @@
     {
       "title": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition",
       "link": "https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html",
-      "published": "Tue, 13 Oct 2026 15:40:50 +0000",
+      "published": "Tue, 13 Oct 2026 20:07:29 +0000",
       "sentiment": 0.05555555555555555
     },
     {
@@ -45,7 +57,7 @@
     {
       "title": "The Forces Driving Up Bond Yields Take a Troubling Turn",
       "link": "https://www.nytimes.com/2026/10/13/business/term-premium-bond-yields.html",
-      "published": "Tue, 13 Oct 2026 18:38:45 +0000",
+      "published": "Tue, 13 Oct 2026 18:56:28 +0000",
       "sentiment": 0.25
     },
     {
@@ -69,7 +81,7 @@
     {
       "title": "Police Identify 42-Year Old Man Killed at Six Flags Over Georgia",
       "link": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
-      "published": "Tue, 13 Oct 2026 18:48:39 +0000",
+      "published": "Tue, 13 Oct 2026 20:51:51 +0000",
       "sentiment": -0.03333333333333333
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/08/business/federal-reserve-christopher-waller-rates.html",
       "published": "Thu, 08 Oct 2026 08:38:57 +0000",
       "sentiment": -0.043333333333333335
-    },
-    {
-      "title": "At Nearly $300,000, Some Recent Duke Graduates Out-Earned All Their Peers",
-      "link": "https://www.nytimes.com/2026/10/07/your-money/duke-math-major-salaries.html",
-      "published": "Thu, 08 Oct 2026 11:06:16 +0000",
-      "sentiment": -0.05500000000000001
-    },
-    {
-      "title": "Trump Administration Investigates Wells Fargo for Race-Based Lending",
-      "link": "https://www.nytimes.com/2026/10/07/business/trump-hud-wells-fargo.html",
-      "published": "Wed, 07 Oct 2026 22:10:47 +0000",
-      "sentiment": -0.16666666666666666
     }
   ]
 }
