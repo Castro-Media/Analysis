@@ -19,16 +19,16 @@
       "sentiment": -0.05555555555555555
     },
     {
-      "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
-      "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.45833333333333337
-    },
-    {
       "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change.",
       "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05277777777777778
+    },
+    {
+      "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
+      "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.45833333333333337
     },
     {
       "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
@@ -61,16 +61,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
-      "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
-      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
       "link": "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy",
       "published": "Sun, 11 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09722222222222222
+    },
+    {
+      "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
+      "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Rachel moves in as 'unprecedented' conditions bring SoCal coastal flooding",
@@ -109,6 +109,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
+      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
+      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.18181818181818182
+    },
+    {
       "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
       "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
-      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
-      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.18181818181818182
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
@@ -181,18 +181,6 @@
       "sentiment": -0.05
     },
     {
-      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
-      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.21212121212121213
-    },
-    {
-      "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
-      "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.06388888888888888
-    },
-    {
       "title": "Southern California braces for Tropical Storm Rachel. 'This is not even the worst,' official says",
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -215,6 +203,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09523809523809523
+    },
+    {
+      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
+      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
+      "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.06388888888888888
     },
     {
       "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
@@ -301,6 +301,12 @@
       "sentiment": 0.05555555555555555
     },
     {
+      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08888888888888889
+    },
+    {
       "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
     },
     {
       "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
@@ -355,16 +355,16 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
-      "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.12727272727272726
-    },
-    {
       "title": "Californians are paying some of the highest water bills in the country",
       "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
+      "link": "https://www.latimes.com/california/story/2026-10-07/steve-hilton-xavier-becerra-father",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.12727272727272726
     },
     {
       "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
