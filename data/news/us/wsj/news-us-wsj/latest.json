@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Six Flags Closes Several Rides After Georgia Roller Coaster Death",
+      "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
       "link": "https://www.wsj.com/us-news/six-flags-closes-several-rides-after-georgia-roller-coaster-death-abae883a?mod=rss_usnews",
-      "published": "Tue, 13 Oct 2026 14:53:00 GMT",
-      "sentiment": 0.0
+      "published": "Tue, 13 Oct 2026 15:57:00 GMT",
+      "sentiment": -0.03888888888888889
+    },
+    {
+      "title": "Immigrants Sue ICE for Allegedly Withholding Passports and Other Documents",
+      "link": "https://www.wsj.com/us-news/law/immigrants-sue-ice-for-allegedly-withholding-passports-and-other-documents-269be813?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 15:36:00 GMT",
+      "sentiment": -0.06875
     },
     {
       "title": "Ken Paxton Partied in Dubai With Fugitives Ahead of High-Stakes Texas Senate Race",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/politics/policy/the-mystery-of-the-unknown-sailor-who-inspired-trump-to-shake-up-the-navy-26588c2e?mod=rss_usnews",
       "published": "Mon, 12 Oct 2026 23:00:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Judge Yells at Trump Administration for Cutting Down Golf Course Trees",
-      "link": "https://www.wsj.com/politics/policy/judge-yells-at-trump-administration-for-cutting-down-golf-course-trees-bd36b4df?mod=rss_usnews",
-      "published": "Mon, 12 Oct 2026 20:15:00 GMT",
-      "sentiment": -0.2518518518518518
     },
     {
       "title": "I Went Home to South Carolina to Ask Young Voters About Trump and the Economy",
@@ -67,6 +67,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Judge Yells at Trump Administration for Cutting Down Golf Course Trees",
+      "link": "https://www.wsj.com/politics/policy/judge-yells-at-trump-administration-for-cutting-down-golf-course-trees-bd36b4df?mod=rss_usnews",
+      "published": "Mon, 12 Oct 2026 20:15:00 GMT",
+      "sentiment": -0.2518518518518518
+    },
+    {
       "title": "Judge Says Pro-Trump Ads Funded by Taxpayers Must Be Taken Off Air",
       "link": "https://www.wsj.com/us-news/law/judge-says-pro-trump-ads-funded-by-taxpayers-must-be-taken-off-air-b4c83a4f?mod=rss_usnews",
       "published": "Mon, 12 Oct 2026 02:24:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/politics/policy/national-security-conspiracy-trump-doj-53593ef9?mod=rss_usnews",
       "published": "Sat, 10 Oct 2026 18:10:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
-      "link": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54?mod=rss_usnews",
-      "published": "Sat, 10 Oct 2026 03:34:00 GMT",
-      "sentiment": -0.30000000000000004
     },
     {
       "title": "Four Dead After Isaias Crashes Into Gulf Coast",
@@ -127,6 +127,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | Milton Friedman’s Courageous Candor",
+      "link": "https://www.wsj.com/opinion/milton-friedmans-courageous-candor-ac2a9fe3?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 16:37:00 GMT",
+      "sentiment": -0.6999999999999998
+    },
+    {
+      "title": "Opinion | The Pagan Nationalism of Marco Rubio’s Athens Speech",
+      "link": "https://www.wsj.com/opinion/the-pagan-nationalism-of-marco-rubios-athens-speech-dc530f58?mod=rss_usnews",
+      "published": "Tue, 13 Oct 2026 16:36:00 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
       "title": "Opinion | California Has a Home to Sell You",
       "link": "https://www.wsj.com/opinion/california-ballot-measures-housing-mortgage-lending-6f0e7a53?mod=rss_usnews",
       "published": "Mon, 12 Oct 2026 21:37:00 GMT",
@@ -149,18 +161,6 @@
       "link": "https://www.wsj.com/opinion/greatest-police-commissioner-of-all-time-2fb2f7c0?mod=rss_usnews",
       "published": "Mon, 12 Oct 2026 20:54:00 GMT",
       "sentiment": 0.5681818181818181
-    },
-    {
-      "title": "Opinion | What Are U.S. Soldiers Doing in Ecuador?",
-      "link": "https://www.wsj.com/opinion/what-are-u-s-soldiers-doing-in-ecuador-3c332b40?mod=rss_usnews",
-      "published": "Mon, 12 Oct 2026 16:58:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Opinion | It’s the Economy, Stupid—but How Stupid?",
-      "link": "https://www.wsj.com/opinion/its-the-economy-stupidbut-how-stupid-f1ef0b98?mod=rss_usnews",
-      "published": "Mon, 12 Oct 2026 16:48:00 GMT",
-      "sentiment": -0.12499999999999997
     },
     {
       "title": "Mamdani Unveils New York Police Reforms on Use of Force",
