@@ -37,6 +37,12 @@
       "sentiment": -0.5
     },
     {
+      "title": "Kimberly-Clark, Kenvue Win Conditional EU Approval for $40 Billion Tie-Up",
+      "link": "https://www.wsj.com/business/deals/kimberly-clark-kenvue-win-conditional-eu-approval-for-40-billion-tie-up-1964639a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 14:43:00 GMT",
+      "sentiment": 0.26666666666666666
+    },
+    {
       "title": "CSG Sets Sights on Space With Around $434 Million Stake in Canada’s MDA Space",
       "link": "https://www.wsj.com/finance/investing/csg-buys-largest-stake-in-canadas-mda-space-to-enter-space-sector-07fa370d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 09:57:00 GMT",
@@ -61,15 +67,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
-      "link": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 11:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Albertsons Pulls Fiscal Year Guidance, Plans Business Review",
+      "title": "Albertsons Pulls Full-Year Guidance, Plans Business Review",
       "link": "https://www.wsj.com/business/retail/albertsons-pulls-fy-guidance-plans-business-review-9d71facf?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 12:06:00 GMT",
+      "published": "Tue, 13 Oct 2026 14:10:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,6 +313,12 @@
       "sentiment": 0.1625
     },
     {
+      "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
+      "link": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 13:14:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Where Shoppertainment Turns Supermarket Staples Into Impulse Buys",
       "link": "https://www.wsj.com/cmo-today/where-shoppertainment-turns-supermarket-staples-into-impulse-buys-e02fabf6?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 13:28:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 21:47:00 GMT",
       "sentiment": -0.010101010101010102
-    },
-    {
-      "title": "Brands Say They’re Pouring Tariff Refunds Into Marketing",
-      "link": "https://www.wsj.com/cmo-today/brands-say-theyre-pouring-tariff-refunds-into-marketing-fc7b8c32?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 17:56:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "From Iowa Steel to Philly Ships, Trump’s Industrial Promises Face Big Tests",
@@ -403,6 +403,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "VC Firm Antares Ventures Raises Over $50 Million for Deep-Tech Investments",
+      "link": "https://www.wsj.com/pro/venture-capital/vc-firm-antares-ventures-raises-over-50-million-for-deep-tech-investments-76ba087a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 14:44:00 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
       "title": "How Businesses Should Respond to Positive Online Reviews",
       "link": "https://www.wsj.com/finance/investing/businesses-respond-positive-online-reviews-263d3580?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 19:20:00 GMT",
@@ -425,12 +431,6 @@
       "link": "https://www.wsj.com/cio-journal/quantum-startup-oratomic-now-worth-5-4-billion-after-series-b-funding-538a80fc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 08 Oct 2026 11:00:00 GMT",
       "sentiment": 0.4
-    },
-    {
-      "title": "Funding for Cyber Startups Climbs in Third Quarter",
-      "link": "https://www.wsj.com/pro/cybersecurity/funding-for-cyber-startups-climbs-in-third-quarter-42c89688?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 08 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.3
     },
     {
       "title": "Individual Investors Are Trading at Meme-Stock Levels",
@@ -457,16 +457,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
-      "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.055555555555555546
+      "title": "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
+      "link": "https://www.wsj.com/business/deals/quantum-computing-company-ionq-to-buy-cybersecurity-firm-for-up-to-1-3-billion-65af65bd?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 12 Oct 2026 11:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
       "link": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 20:47:00 GMT",
       "sentiment": -0.15
+    },
+    {
+      "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
+      "link": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.4625
     },
     {
       "title": "From Iowa Steel to Philly Ships, Trump’s Industrial Promises Face Big Tests",
@@ -481,16 +487,10 @@
       "sentiment": -0.03749999999999999
     },
     {
-      "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
-      "link": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.4625
-    },
-    {
-      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
-      "link": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.055555555555555546
+      "title": "Chinese Cars Now Dominate Europe’s Biggest Auto Show",
+      "link": "https://www.wsj.com/business/autos/europes-biggest-auto-show-is-now-dominated-by-chinese-cars-cefea46d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in October 2026",
