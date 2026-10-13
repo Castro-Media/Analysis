@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Wall Street Revenues Keep Goldman and JPMorgan Profits Rising — Live Updates",
+      "title": "Stock Market Today: Wall Street Revenues Power Profit at Goldman and JPMorgan",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 08:14:38 GMT",
-      "sentiment": 0.13636363636363635
+      "sentiment": 0.0
+    },
+    {
+      "title": "For Stocks, the Future Ain’t What It Used to Be",
+      "link": "https://www.wsj.com/finance/investing/for-stocks-the-future-aint-what-it-used-to-be-5b210467?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 14:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
+      "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 14:00:00 GMT",
+      "sentiment": 0.0875
     },
     {
       "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:32:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Frenzied Stock-Options Trading Shows Individual Investors Are Still Hungry for Risk",
-      "link": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 21:30:00 GMT",
-      "sentiment": -0.0034090909090909102
-    },
-    {
-      "title": "Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them",
-      "link": "https://www.wsj.com/finance/retirement-savers-sue-dodgers-owner-mark-walter-saying-his-insurers-misled-them-f987d06a?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 20:39:00 GMT",
-      "sentiment": -0.31666666666666665
     },
     {
       "title": "AI Agents Are a Threat to Travel Businesses. Airbnb Could Still Be a Winner.",
@@ -103,6 +103,12 @@
       "sentiment": 0.2
     },
     {
+      "title": "VC Firm Antares Ventures Raises Over $50 Million for Deep-Tech Investments",
+      "link": "https://www.wsj.com/pro/venture-capital/vc-firm-antares-ventures-raises-over-50-million-for-deep-tech-investments-76ba087a?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 14:44:00 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
       "title": "Indexed Annuities Boost Private Credit",
       "link": "https://www.wsj.com/finance/investing/indexed-annuities-boost-private-credit-33942931?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 10:32:00 GMT",
@@ -127,18 +133,6 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "How Businesses Should Respond to Positive Online Reviews",
-      "link": "https://www.wsj.com/finance/investing/businesses-respond-positive-online-reviews-263d3580?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 19:20:00 GMT",
-      "sentiment": 0.07575757575757576
-    },
-    {
-      "title": "Nasdaq Futures Fall as Global AI Selloff Intensifies",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-global-ai-selloff-intensifies-fe149717?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 11:58:00 GMT",
-      "sentiment": -0.041666666666666664
-    },
-    {
       "title": "European Indexes Largely Rise, Though AI Stocks Fall",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-0-amid-geopolitical-tensions-d5b509de?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 07:24:00 GMT",
@@ -149,6 +143,12 @@
       "link": "https://www.wsj.com/finance/stocks/asian-stocks-battered-as-geopolitical-tensions-sap-risk-appetite-5b3ebd81?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 05:50:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Frenzied Stock-Options Trading Shows Individual Investors Are Still Hungry for Risk",
+      "link": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 21:30:00 GMT",
+      "sentiment": -0.0034090909090909102
     },
     {
       "title": "Energy Stocks Rise as Global Conflicts Push Up Oil Prices",
@@ -229,10 +229,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "Sterling Needs New Positive Catalyst to Rise Further",
+      "title": "Dollar Pulls Back as Global Bond Pressure Eases",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-c51874b4?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 11:50:00 GMT",
-      "sentiment": 0.1659090909090909
+      "published": "Tue, 13 Oct 2026 14:15:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Rises 0.21% to 97.58",
@@ -289,6 +289,18 @@
       "sentiment": 0.05833333333333333
     },
     {
+      "title": "Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them",
+      "link": "https://www.wsj.com/finance/retirement-savers-sue-dodgers-owner-mark-walter-saying-his-insurers-misled-them-f987d06a?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 20:39:00 GMT",
+      "sentiment": -0.31666666666666665
+    },
+    {
+      "title": "How Businesses Should Respond to Positive Online Reviews",
+      "link": "https://www.wsj.com/finance/investing/businesses-respond-positive-online-reviews-263d3580?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 19:20:00 GMT",
+      "sentiment": 0.07575757575757576
+    },
+    {
       "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
       "link": "https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_markets_main",
       "published": "Sun, 11 Oct 2026 14:00:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main",
       "published": "Sun, 11 Oct 2026 02:46:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "At Robinhood’s Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich",
-      "link": "https://www.wsj.com/finance/at-robinhoods-mecca-for-risk-loving-traders-everyone-has-a-tale-of-getting-rich-f960d8c2?mod=rss_markets_main",
-      "published": "Sat, 10 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.05833333333333333
-    },
-    {
-      "title": "As Yields Surged, Small-Cap Stocks Were Hit Hard",
-      "link": "https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 21:45:00 GMT",
-      "sentiment": -0.2138888888888889
     },
     {
       "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 13:14:00 GMT",
+      "published": "Tue, 13 Oct 2026 13:15:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
