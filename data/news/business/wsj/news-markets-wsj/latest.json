@@ -1,22 +1,28 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Wall Street Revenues Power Profit at Goldman and JPMorgan",
+      "title": "Stock Market Today: Stocks Slip Despite Solid Wall Street Results",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 08:14:38 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
+      "link": "https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 17:51:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
+      "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 17:30:00 GMT",
+      "sentiment": 0.0875
     },
     {
       "title": "For Stocks, the Future Ain’t What It Used to Be",
       "link": "https://www.wsj.com/finance/investing/for-stocks-the-future-aint-what-it-used-to-be-5b210467?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 14:55:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
-      "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 14:00:00 GMT",
-      "sentiment": 0.0875
     },
     {
       "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/gulf-hurricane-not-big-enough-to-reset-insurance-market-024deafa?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Individual Investors Are Trading at Meme-Stock Levels",
-      "link": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 21:32:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "AI Agents Are a Threat to Travel Businesses. Airbnb Could Still Be a Winner.",
@@ -103,6 +103,18 @@
       "sentiment": 0.2333333333333333
     },
     {
+      "title": "Treasury, Eurozone Yields Decline as Markets Look to U.S. Inflation Data",
+      "link": "https://www.wsj.com/economy/central-banking/treasury-eurozone-yields-fall-as-markets-look-to-u-s-inflation-data-412d95a4?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 18:47:00 GMT",
+      "sentiment": -0.6499999999999999
+    },
+    {
+      "title": "Municipal Bond Investors Face Elevated Risks From Rising Costs of Natural Disasters",
+      "link": "https://www.wsj.com/finance/investing/municipal-bond-investors-face-elevated-risks-from-rising-costs-of-natural-disasters-66404839?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 17:58:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "VC Firm Antares Ventures Raises Over $50 Million for Deep-Tech Investments",
       "link": "https://www.wsj.com/pro/venture-capital/vc-firm-antares-ventures-raises-over-50-million-for-deep-tech-investments-76ba087a?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 14:44:00 GMT",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/finance/investing/csg-buys-largest-stake-in-canadas-mda-space-to-enter-space-sector-07fa370d?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 09:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "China’s Young People Are Losing Faith in the Promise of Hard Work",
-      "link": "https://www.wsj.com/world/chinas-young-people-are-losing-faith-in-the-promise-of-hard-work-861a2f39?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 09:52:00 GMT",
-      "sentiment": -0.09583333333333334
-    },
-    {
-      "title": "Monte dei Paschi Pushes Back Against Intesa’s Sweetened Bid",
-      "link": "https://www.wsj.com/business/deals/monte-dei-paschi-pushes-back-against-intesas-sweetened-bid-21ca6404?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 06:40:00 GMT",
-      "sentiment": -0.012499999999999997
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -151,16 +151,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Individual Investors Are Trading at Meme-Stock Levels",
+      "link": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 21:32:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Frenzied Stock-Options Trading Shows Individual Investors Are Still Hungry for Risk",
       "link": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:30:00 GMT",
       "sentiment": -0.0034090909090909102
-    },
-    {
-      "title": "Energy Stocks Rise as Global Conflicts Push Up Oil Prices",
-      "link": "https://www.wsj.com/finance/stocks/energy-stocks-rise-as-global-conflicts-push-up-oil-prices-8d605857?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 21:19:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -199,6 +199,12 @@
       "sentiment": 0.14285714285714285
     },
     {
+      "title": "Gold Futures Slip Ahead of U.S. CPI Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 18:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Europe Heads Into Winter With Low Gas Reserves, Uncertain Gulf Supplies",
       "link": "https://www.wsj.com/finance/commodities-futures/europe-heads-into-winter-with-low-gas-reserves-uncertain-gulf-supplies-78cd3507?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 11:43:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-at-highest-since-late-2022-on-winter-supply-concerns-08c3ad4d?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 07:41:00 GMT",
       "sentiment": -0.09999999999999999
-    },
-    {
-      "title": "Gold Rises As Traders Await U.S. Data",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 07:33:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Oil Falls as Traders Weigh Gulf Risks, Russian Diesel Supply Prospects",

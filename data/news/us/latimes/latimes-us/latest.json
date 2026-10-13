@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Burbank airport's new $1.3-billion terminal opens — bigger and sleeker than ever",
+      "link": "https://www.latimes.com/travel/story/2026-10-13/burbank-airport-new-terminal-opening-day",
+      "published": "Tue, 13 Oct 2026 18:22:43 GMT",
+      "sentiment": 0.1626060606060606
+    },
+    {
+      "title": "Suspicious bags at Disneyland prompt bomb squad response, evacuation",
+      "link": "https://www.latimes.com/california/story/2026-10-13/suspicious-bags-at-disneyland-prompt-bomb-squad-response-evacuation",
+      "published": "Tue, 13 Oct 2026 17:27:03 GMT",
+      "sentiment": 0.11875
+    },
+    {
       "title": "Six Flags Magic Mountain shuts down second coaster amid safety concerns, rider death in Georgia",
       "link": "https://www.latimes.com/california/story/2026-10-13/six-flags-magic-mountain-coaster-shutdown",
       "published": "Tue, 13 Oct 2026 14:33:31 GMT",
       "sentiment": -0.018518518518518517
-    },
-    {
-      "title": "L.A. nonprofit rented luxury Santa Monica apartment, BMW for CEO living in Hawaii",
-      "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
@@ -23,6 +29,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0111111111111111
+    },
+    {
+      "title": "L.A. nonprofit rented luxury Santa Monica apartment, BMW for CEO living in Hawaii",
+      "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Former police officers, daughter killed in suspected murder-suicide in upscale California neighborhood",
@@ -532,18 +544,6 @@
       "title": "Trump suggests letting Iran 'take out' Los Angeles and San Diego at campaign rally",
       "link": "https://www.latimes.com/california/story/2026-10-05/trump-suggests-letting-iran-take-out-los-angeles-san-diego-at-campaign-rally",
       "published": "Tue, 6 Oct 2026 03:17:28 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Luxury-car buyers who use 'Montana loophole' to dodge California taxes are target of new law",
-      "link": "https://www.latimes.com/california/story/2026-10-05/luxury-car-buyers-who-use-montana-loophole-to-dodge-california-taxes-are-target-of-new-law",
-      "published": "Tue, 6 Oct 2026 02:47:52 GMT",
-      "sentiment": 0.12693602693602693
-    },
-    {
-      "title": "'Go back to Mexico!' Woman's racist rant disrupting Laguna Beach proposal goes viral",
-      "link": "https://www.latimes.com/california/story/2026-10-05/go-back-to-mexico-laguna-beach-woman-racist-rant-disrupts-proposal",
-      "published": "Mon, 5 Oct 2026 23:47:06 GMT",
       "sentiment": 0.0
     }
   ]

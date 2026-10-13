@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html",
+      "published": "Tue, 13 Oct 2026 17:26:05 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Russia Detains Japanese Journalist for Alleged Espionage",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
-      "published": "Tue, 13 Oct 2026 16:45:32 +0000",
+      "published": "Tue, 13 Oct 2026 18:05:50 +0000",
       "sentiment": 0.01333333333333333
     },
     {
@@ -19,10 +25,10 @@
       "sentiment": -0.08125
     },
     {
-      "title": "Zelensky Comment Raises Fears Over U.S. Intelligence Sharing",
+      "title": "U.S. Still Shares Intelligence With Ukraine, Both Say, Amid Fears It Could Stop",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-      "published": "Tue, 13 Oct 2026 15:57:24 +0000",
-      "sentiment": -0.025
+      "published": "Tue, 13 Oct 2026 18:17:44 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
@@ -31,10 +37,10 @@
       "sentiment": -0.225
     },
     {
-      "title": "Pope Leo Prepares for Surgery to Remove Lung Nodule",
+      "title": "Pope Leo Undergoes ‘Successful’ Surgery to Remove Lung Nodule, Vatican Says",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-      "published": "Tue, 13 Oct 2026 11:56:44 +0000",
-      "sentiment": -0.1
+      "published": "Tue, 13 Oct 2026 18:37:29 +0000",
+      "sentiment": 0.325
     },
     {
       "title": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
@@ -51,7 +57,7 @@
     {
       "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
-      "published": "Tue, 13 Oct 2026 16:21:17 +0000",
+      "published": "Tue, 13 Oct 2026 17:16:27 +0000",
       "sentiment": 0.5
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
       "published": "Mon, 12 Oct 2026 17:20:15 +0000",
       "sentiment": 0.1
-    },
-    {
-      "title": "Europeans Have a Love-Hate Relationship With Chinese Cars",
-      "link": "https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html",
-      "published": "Mon, 12 Oct 2026 16:26:06 +0000",
-      "sentiment": -0.1138888888888889
     }
   ]
 }
