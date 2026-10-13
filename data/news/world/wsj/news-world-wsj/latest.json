@@ -1,7 +1,19 @@
 {
   "entries": [
     {
-      "title": "Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting",
+      "title": "A Demographic Mirage May Be Distorting China’s Economic Ambitions",
+      "link": "https://www.wsj.com/world/china/a-demographic-mirage-may-be-distorting-chinas-economic-ambitions-adf0bc92?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 10:55:00 GMT",
+      "sentiment": 0.15000000000000002
+    },
+    {
+      "title": "China’s Young People Are Losing Faith in the Promise of Hard Work",
+      "link": "https://www.wsj.com/world/chinas-young-people-are-losing-faith-in-the-promise-of-hard-work-861a2f39?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 09:52:00 GMT",
+      "sentiment": -0.09583333333333334
+    },
+    {
+      "title": "Iran Fortifying Nuclear Sites and Rallying Its People for Return to Fighting",
       "link": "https://www.wsj.com/world/middle-east/iran-is-fortifying-nuclear-sites-and-rallying-its-people-for-a-return-to-fighting-c4cc3c28?mod=rss_worldnews",
       "published": "Tue, 13 Oct 2026 03:00:00 GMT",
       "sentiment": 0.2
@@ -13,7 +25,7 @@
       "sentiment": 0.26666666666666666
     },
     {
-      "title": "Europe’s Biggest Auto Show Is Now Dominated by Chinese Cars",
+      "title": "Chinese Cars Now Dominate Europe’s Biggest Auto Show",
       "link": "https://www.wsj.com/business/autos/europes-biggest-auto-show-is-now-dominated-by-chinese-cars-cefea46d?mod=rss_worldnews",
       "published": "Tue, 13 Oct 2026 01:00:00 GMT",
       "sentiment": 0.0
@@ -25,22 +37,16 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
-      "link": "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789?mod=rss_worldnews",
-      "published": "Mon, 12 Oct 2026 18:31:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Xi’s Superpower Ambitions Fuel a Dangerous Debt Spiral in China",
-      "link": "https://www.wsj.com/world/china/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-edad4f9f?mod=rss_worldnews",
-      "published": "Mon, 12 Oct 2026 13:29:00 GMT",
-      "sentiment": -0.39999999999999997
-    },
-    {
       "title": "Oil Prices Fall as Traders Weigh Middle East Risks, Russian Diesel Supplies",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=rss_worldnews",
       "published": "Tue, 13 Oct 2026 07:35:00 GMT",
       "sentiment": -0.011904761904761904
+    },
+    {
+      "title": "Iran-Backed Militants Are Tightening the Screws on Saudi Arabia’s Crown Prince",
+      "link": "https://www.wsj.com/world/middle-east/iran-backed-militants-are-tightening-the-screws-on-saudi-arabias-crown-prince-e7b9e789?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 18:31:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/politics/policy/houthis-and-ukraine-put-trump-in-treacherous-territory-36bad4be?mod=rss_worldnews",
       "published": "Sun, 11 Oct 2026 17:39:00 GMT",
       "sentiment": 0.10833333333333334
-    },
-    {
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=rss_worldnews",
-      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
-      "sentiment": -0.03749999999999999
     },
     {
       "title": "China’s Next ‘Gray Zone’ Target: An Island Chain Critical to U.S. Defense of Taiwan",
@@ -223,6 +223,12 @@
       "sentiment": -0.040909090909090916
     },
     {
+      "title": "Xi’s Superpower Ambitions Fuel a Dangerous Debt Spiral in China",
+      "link": "https://www.wsj.com/world/china/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-edad4f9f?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 13:29:00 GMT",
+      "sentiment": -0.39999999999999997
+    },
+    {
       "title": "Why China Doesn’t Want to Join the Ranks of the World’s Developed Countries",
       "link": "https://www.wsj.com/world/china/why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries-e37bbec1?mod=rss_worldnews",
       "published": "Mon, 12 Oct 2026 02:00:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/in-china-battle-is-raging-for-the-soul-of-tibet-737bc947?mod=rss_worldnews",
       "published": "Mon, 05 Oct 2026 15:37:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "FBI Arrests Alleged Chinese Agent Accused of Spying on Son of Taiwan Leader",
-      "link": "https://www.wsj.com/world/china/fbi-arrests-alleged-chinese-agent-accused-of-spying-on-son-of-taiwan-leader-2d9d5bee?mod=rss_worldnews",
-      "published": "Mon, 05 Oct 2026 10:29:00 GMT",
-      "sentiment": -0.065
     },
     {
       "title": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
@@ -377,6 +377,12 @@
       "link": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=rss_worldnews",
       "published": "Mon, 12 Oct 2026 10:55:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
+      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=rss_worldnews",
+      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
+      "sentiment": -0.03749999999999999
     },
     {
       "title": "The Welfare State Is Crushing Britain",

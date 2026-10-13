@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
+      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
+      "published": "Tue, 13 Oct 2026 09:21:05 +0000",
+      "sentiment": 0.225
+    },
+    {
+      "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
+      "published": "Tue, 13 Oct 2026 09:03:47 +0000",
+      "sentiment": -0.7
+    },
+    {
+      "title": "They Came to Russia for Work. Now They Are Under Fire.",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-migrant-workers-killed.html",
+      "published": "Tue, 13 Oct 2026 09:01:28 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?",
       "link": "https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html",
       "published": "Tue, 13 Oct 2026 06:19:38 +0000",
@@ -15,13 +33,13 @@
     {
       "title": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html",
-      "published": "Tue, 13 Oct 2026 04:01:08 +0000",
+      "published": "Tue, 13 Oct 2026 09:23:47 +0000",
       "sentiment": 0.005555555555555554
     },
     {
       "title": "At Least 6 Injured in Stabbing in South Korea",
       "link": "https://www.nytimes.com/2026/10/13/world/asia/south-korea-stabbing-homeplus.html",
-      "published": "Tue, 13 Oct 2026 08:51:46 +0000",
+      "published": "Tue, 13 Oct 2026 09:20:43 +0000",
       "sentiment": -0.44999999999999996
     },
     {
@@ -33,7 +51,7 @@
     {
       "title": "Dozens Killed in Airstrikes Near Sudan-Egypt Border",
       "link": "https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html",
-      "published": "Mon, 12 Oct 2026 21:49:59 +0000",
+      "published": "Tue, 13 Oct 2026 10:13:00 +0000",
       "sentiment": -0.3
     },
     {
@@ -67,40 +85,10 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
-      "link": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
-      "published": "Mon, 12 Oct 2026 09:00:57 +0000",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
-      "link": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
-      "published": "Mon, 12 Oct 2026 07:46:10 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-      "published": "Sun, 11 Oct 2026 19:57:48 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
-      "published": "Tue, 13 Oct 2026 09:03:46 +0000",
-      "sentiment": -0.7
-    },
-    {
-      "title": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
-      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
-      "published": "Tue, 13 Oct 2026 09:03:38 +0000",
-      "sentiment": 0.225
-    },
-    {
-      "title": "They Came to Russia for Work. Now They Are Under Fire.",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-migrant-workers-killed.html",
-      "published": "Tue, 13 Oct 2026 09:01:28 +0000",
-      "sentiment": 0.0
+      "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
+      "published": "Tue, 13 Oct 2026 10:52:36 +0000",
+      "sentiment": -0.3
     },
     {
       "title": "Why Chinese College Grads Are Becoming Farmers",
@@ -127,10 +115,22 @@
       "sentiment": -0.016666666666666673
     },
     {
+      "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",
+      "link": "https://www.nytimes.com/2026/10/12/world/europe/mariupol-theater-russian-documentary-witnesses.html",
+      "published": "Mon, 12 Oct 2026 09:00:57 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
       "title": "How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.",
       "link": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
       "published": "Mon, 12 Oct 2026 09:00:46 +0000",
       "sentiment": -0.4
+    },
+    {
+      "title": "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
+      "link": "https://www.nytimes.com/2026/10/12/world/asia/flydubai-attack-suspect-melbourne-mosque.html",
+      "published": "Mon, 12 Oct 2026 07:46:10 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "An Israeli Election Like No Other",
@@ -173,6 +173,12 @@
       "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
       "published": "Sun, 11 Oct 2026 17:59:30 +0000",
       "sentiment": 0.25
+    },
+    {
+      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+      "published": "Sun, 11 Oct 2026 19:57:48 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "Wringing Hope From the Rubble of Gaza",
@@ -299,12 +305,6 @@
       "link": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
       "published": "Mon, 12 Oct 2026 16:18:26 +0000",
       "sentiment": -0.03749999999999999
-    },
-    {
-      "title": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks",
-      "link": "https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html",
-      "published": "Sat, 10 Oct 2026 02:09:50 +0000",
-      "sentiment": 0.0
     }
   ]
 }
