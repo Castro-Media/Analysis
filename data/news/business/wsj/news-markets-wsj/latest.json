@@ -133,6 +133,12 @@
       "sentiment": 0.75
     },
     {
+      "title": "Nikkei Falls 2.0% Amid Geopolitical Tensions",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-0-amid-geopolitical-tensions-d5b509de?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 01:17:00 GMT",
+      "sentiment": -0.15833333333333333
+    },
+    {
       "title": "Energy Stocks Rise as Global Conflicts Push Up Oil Prices",
       "link": "https://www.wsj.com/finance/stocks/energy-stocks-rise-as-global-conflicts-push-up-oil-prices-8d605857?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:19:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 21:45:00 GMT",
       "sentiment": -0.2138888888888889
-    },
-    {
-      "title": "U.S. Stocks Rise as Iran Escalation Fears Subside",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-iran-escalation-fears-subside-2ad4f362?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 20:51:00 GMT",
-      "sentiment": 0.19999999999999998
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -199,6 +199,18 @@
       "sentiment": 0.14285714285714285
     },
     {
+      "title": "Gold Falls as Markets Focus on U.S. Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 01:19:00 GMT",
+      "sentiment": 0.08229166666666667
+    },
+    {
+      "title": "Oil Futures Decline on Possible Technical Correction",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-on-possible-technical-correction-a4fa2f4b?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 00:47:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
       "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:03:00 GMT",
@@ -217,16 +229,10 @@
       "sentiment": 0.06666666666666667
     },
     {
-      "title": "Gold Futures Settle Lower on Rising Dollar, Oil",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-oil-pullback-2c0301c2?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 18:26:00 GMT",
+      "title": "Asian Currencies Consolidate, But May be Weighed by Safe-Haven Demand for Greenback",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-c51874b4?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 01:15:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Futures Settle Modestly Higher",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-prices-likely-to-remain-high-in-short-term-c7024a73?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 21:29:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "WSJ Dollar Index Rises 0.21% to 97.58",
@@ -253,16 +259,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "CFTC Proposes to Expand Definition of Swaps to Include Prediction Markets Trading",
-      "link": "https://www.wsj.com/finance/regulation/cftc-proposes-to-expand-definition-of-swaps-to-include-prediction-markets-trading-289d54d9?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 21:20:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
       "link": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 21:47:00 GMT",
       "sentiment": -0.010101010101010102
+    },
+    {
+      "title": "CFTC Proposes to Expand Definition of Swaps to Include Prediction Markets Trading",
+      "link": "https://www.wsj.com/finance/regulation/cftc-proposes-to-expand-definition-of-swaps-to-include-prediction-markets-trading-289d54d9?mod=rss_markets_main",
+      "published": "Fri, 09 Oct 2026 21:20:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
@@ -281,12 +287,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-ae8807db?mod=rss_markets_main",
       "published": "Fri, 09 Oct 2026 11:26:00 GMT",
       "sentiment": 0.05833333333333333
-    },
-    {
-      "title": "Trump Throws His Weight Behind Credit-Card Legislation Most Feared by Banks",
-      "link": "https://www.wsj.com/finance/regulation/the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-013551b3?mod=rss_markets_main",
-      "published": "Thu, 08 Oct 2026 19:00:00 GMT",
-      "sentiment": -0.23333333333333336
     },
     {
       "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
@@ -331,12 +331,6 @@
       "sentiment": 0.175
     },
     {
-      "title": "Here’s What It’s Like to Retire to a Low-Tax State",
-      "link": "https://www.wsj.com/personal-finance/heres-what-its-like-to-retire-to-a-low-tax-state-fcac6598?mod=rss_markets_main",
-      "published": "Sun, 13 Sep 2026 00:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership",
       "link": "https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e?mod=rss_markets_main",
       "published": "Wed, 07 Oct 2026 15:40:00 GMT",
@@ -346,6 +340,12 @@
       "title": "What Oura’s Stalled IPO Tells Us About One-Hit Wonders",
       "link": "https://www.wsj.com/finance/stocks/what-ouras-stalled-ipo-tells-us-about-one-hit-wonders-31921bf5?mod=rss_markets_main",
       "published": "Tue, 06 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
+      "link": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main",
+      "published": "Sun, 11 Oct 2026 02:46:00 GMT",
       "sentiment": 0.0
     },
     {

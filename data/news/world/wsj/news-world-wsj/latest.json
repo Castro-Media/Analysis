@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "China’s Weakening Economy Is Creating a Lost Generation",
+      "link": "https://www.wsj.com/world/china-economy-gen-z-f9058941?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.26666666666666666
+    },
+    {
+      "title": "Europe’s Biggest Auto Show Is Now Dominated by Chinese Cars",
+      "link": "https://www.wsj.com/business/autos/europes-biggest-auto-show-is-now-dominated-by-chinese-cars-cefea46d?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Russia Pounds Ukrainian Energy Despite Trump’s Ceasefire Announcement",
       "link": "https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d?mod=rss_worldnews",
       "published": "Mon, 12 Oct 2026 21:29:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews",
       "published": "Mon, 12 Oct 2026 13:16:00 GMT",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "The Morning Risk Report: Courts Grapple With Problem of People Betting on the Outcome of Jury Cases",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-courts-grapple-with-problem-of-people-betting-on-the-outcome-of-jury-cases-5ae06b30?mod=rss_worldnews",
-      "published": "Mon, 12 Oct 2026 11:32:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
-      "link": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=rss_worldnews",
-      "published": "Mon, 12 Oct 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The Morning Risk Report: Courts Grapple With Problem of People Betting on the Outcome of Jury Cases",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-courts-grapple-with-problem-of-people-betting-on-the-outcome-of-jury-cases-5ae06b30?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 11:32:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Trump Pushes Russia-Ukraine Energy Ceasefire as Export Deal Draws Criticism",
       "link": "https://www.wsj.com/world/trump-declares-a-russia-ukraine-energy-ceasefire-but-moscow-hasnt-confirmed-f57414e9?mod=rss_worldnews",
       "published": "Sun, 11 Oct 2026 21:22:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews",
       "published": "Sun, 11 Oct 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
-      "link": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews",
-      "published": "Sat, 10 Oct 2026 20:00:00 GMT",
-      "sentiment": 0.03409090909090909
     },
     {
       "title": "Why China Doesn’t Want to Join the Ranks of the World’s Developed Countries",
@@ -253,6 +253,12 @@
       "sentiment": -0.065
     },
     {
+      "title": "Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky",
+      "link": "https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews",
+      "published": "Sat, 10 Oct 2026 20:00:00 GMT",
+      "sentiment": 0.03409090909090909
+    },
+    {
       "title": "Trump Strikes Deal With Putin for Russian Diesel",
       "link": "https://www.wsj.com/politics/policy/trump-strikes-deal-with-putin-for-russian-diesel-15751436?mod=rss_worldnews",
       "published": "Sat, 10 Oct 2026 01:23:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/world/russia-probes-death-of-woman-who-worked-at-anti-plague-institute-0e2c8ffe?mod=rss_worldnews",
       "published": "Mon, 05 Oct 2026 14:49:00 GMT",
       "sentiment": -0.12777777777777777
-    },
-    {
-      "title": "Overwhelmed by Ukraine’s Drones, Russia Tells Businesses to Defend Themselves",
-      "link": "https://www.wsj.com/world/russia/overwhelmed-by-ukraines-drones-russia-tells-businesses-to-defend-themselves-731f294f?mod=rss_worldnews",
-      "published": "Sat, 26 Sep 2026 02:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Kenyan Club Rejects Bid to Allow Women Into Men’s Bar From ‘Out of Africa’",
@@ -373,28 +373,28 @@
       "sentiment": 0.04999999999999999
     },
     {
+      "title": "Trump’s Russian-Diesel Move Draws Pushback, Skepticism",
+      "link": "https://www.wsj.com/logistics-report/trumps-russian-diesel-move-draws-pushback-skepticism-89a5e65e?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 10:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Cameras Designed to Keep Us Safe Are Now Being Used in War",
       "link": "https://www.wsj.com/world/the-cameras-designed-to-keep-us-safe-are-now-being-used-in-war-7ab1078b?mod=rss_worldnews",
       "published": "Sun, 11 Oct 2026 11:01:00 GMT",
       "sentiment": 0.10727272727272727
     },
     {
-      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War",
-      "link": "https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews",
-      "published": "Sun, 11 Oct 2026 00:30:00 GMT",
-      "sentiment": -0.5
+      "title": "The Welfare State Is Crushing Britain",
+      "link": "https://www.wsj.com/world/uk/united-kingdom-welfare-disability-payouts-737d77a0?mod=rss_worldnews",
+      "published": "Mon, 12 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.3833333333333333
     },
     {
       "title": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes",
       "link": "https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews",
       "published": "Sat, 10 Oct 2026 23:28:00 GMT",
       "sentiment": -0.06000000000000001
-    },
-    {
-      "title": "The Welfare State Is Crushing Britain",
-      "link": "https://www.wsj.com/world/uk/united-kingdom-welfare-disability-payouts-737d77a0?mod=rss_worldnews",
-      "published": "Mon, 12 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.3833333333333333
     },
     {
       "title": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
