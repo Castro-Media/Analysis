@@ -1,15 +1,21 @@
 {
   "entries": [
     {
+      "title": "Calls Show How Confusion Delayed Emergency Response for Christa Pike",
+      "link": "https://www.nytimes.com/2026/10/12/us/christa-pike-medical-care-delay.html",
+      "published": "Tue, 13 Oct 2026 00:13:41 +0000",
+      "sentiment": 0.25
+    },
+    {
       "title": "Republicans Promoted a False Rumor That James Talarico Was in Ohio",
       "link": "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html",
-      "published": "Mon, 12 Oct 2026 23:16:34 +0000",
+      "published": "Tue, 13 Oct 2026 00:41:24 +0000",
       "sentiment": -0.325
     },
     {
       "title": "An Ad Targeting Susan Collins’s Opponent, Troy Jackson, Airs in the Wrong Portland",
       "link": "https://www.nytimes.com/2026/10/12/us/politics/maine-troy-jackson-ad-portland-oregon.html",
-      "published": "Mon, 12 Oct 2026 21:29:53 +0000",
+      "published": "Tue, 13 Oct 2026 00:00:27 +0000",
       "sentiment": -0.08333333333333334
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
       "published": "Sun, 11 Oct 2026 00:01:39 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Conor Kennedy and Giulia Be Married in Rio",
-      "link": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
-      "published": "Sat, 10 Oct 2026 22:40:42 +0000",
-      "sentiment": 0.125
     }
   ]
 }
