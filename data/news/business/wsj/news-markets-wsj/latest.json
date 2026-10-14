@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Yields Jump, Stocks Turn Lower After Hot Inflation Reading",
+      "title": "Stock Market Today: Stocks Turn Lower, as AI, Tech Shares Slump",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 09:00:38 GMT",
-      "sentiment": 0.25
+      "sentiment": 0.0
+    },
+    {
+      "title": "Wall Street Worries Bank of America’s Problems Will Linger",
+      "link": "https://www.wsj.com/finance/banking/wall-street-worries-bank-of-americas-problems-will-linger-a564492f?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 17:05:00 GMT",
+      "sentiment": 0.18055555555555558
+    },
+    {
+      "title": "The AI Boom Is Supercharging Wall Street’s Profits",
+      "link": "https://www.wsj.com/finance/banking/the-ai-boom-is-supercharging-wall-streets-profits-2a2d9747?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:14:00 GMT",
+      "sentiment": 0.3181818181818182
     },
     {
       "title": "Debanking Probe Finds JPMorgan, Banks Cut Off MAGA Sellers and Democrat Groups",
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/finance/firmus-ipo-ai-trade-f490c240?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 01:00:00 GMT",
       "sentiment": -0.07041666666666666
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-51c2b458?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 20:57:00 GMT",
-      "sentiment": 0.2125
-    },
-    {
-      "title": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
-      "link": "https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 20:42:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Gulf Hurricane Not Big Enough to Reset Insurance Market",
@@ -73,6 +73,12 @@
       "sentiment": 0.17857142857142858
     },
     {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-23402b4f?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:22:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Fairfax Financial Buying Majority Stake in India’s IDBI Bank",
       "link": "https://www.wsj.com/finance/fairfax-financial-buying-majority-stake-in-indias-idbi-bank-faf0fe0c?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 13:30:00 GMT",
@@ -91,16 +97,34 @@
       "sentiment": 0.0
     },
     {
-      "title": "Bank Earnings Look Strong, But Markets Shrug",
-      "link": "https://www.wsj.com/finance/stocks/bank-earnings-look-strong-but-markets-shrug-26533199?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 20:15:00 GMT",
-      "sentiment": 0.21666666666666667
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-51c2b458?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 20:57:00 GMT",
+      "sentiment": 0.2125
     },
     {
-      "title": "JPMorgan, Goldman Profit Jumps as Banks Kick Off Earnings",
-      "link": "https://www.wsj.com/finance/banking/jpmorgan-goldman-profit-jumps-as-banks-kick-off-earnings-3e78b37d?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 12:43:00 GMT",
-      "sentiment": 0.0
+      "title": "Stocks Turn Lower After Hot Inflation Reading",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-tick-higher-treasurys-strengthen-ahead-of-inflation-data-3fd584f5?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:34:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:26:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1d895b75?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:26:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e9bd3bcd?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:25:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
@@ -109,40 +133,10 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Stocks Turn Lower After Hot Inflation Reading",
-      "link": "https://www.wsj.com/finance/stocks/stock-futures-tick-higher-treasurys-strengthen-ahead-of-inflation-data-3fd584f5?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 13:56:00 GMT",
-      "sentiment": 0.1875
-    },
-    {
-      "title": "Fed’s Bowman Says Inflation Above Goal, But No Urgency to Act",
-      "link": "https://www.wsj.com/economy/central-banking/feds-bowman-says-inflation-above-goal-but-no-urgency-to-act-e20f9529?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 10:58:00 GMT",
-      "sentiment": 0.07500000000000001
-    },
-    {
-      "title": "Storm May Not Provide Relief for Insurance Market",
-      "link": "https://www.wsj.com/finance/investing/storm-may-not-provide-relief-for-insurance-market-7e629b29?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 10:40:00 GMT",
-      "sentiment": 0.75
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1d895b75?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 10:36:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Berkshire Hathaway Builds 4% Stake in Bending Spoons",
       "link": "https://www.wsj.com/finance/stocks/berkshire-hathaway-builds-4-stake-in-bending-spoons-a9f97f44?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 15:32:00 GMT",
-      "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 10:27:00 GMT",
-      "sentiment": 0.25
+      "sentiment": 0.3
     },
     {
       "title": "Third-Quarter Earnings Season Faces Challenge of Sky-High Expectations",
@@ -157,10 +151,22 @@
       "sentiment": -0.1851851851851852
     },
     {
+      "title": "Bank Earnings Look Strong, But Markets Shrug",
+      "link": "https://www.wsj.com/finance/stocks/bank-earnings-look-strong-but-markets-shrug-26533199?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 20:15:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
       "title": "This Investing Strategy Is So Good You Can’t Handle It",
       "link": "https://www.wsj.com/finance/investing/this-investing-strategy-is-so-good-you-cant-handle-it-66a2fb16?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 10:35:00 GMT",
       "sentiment": 0.7
+    },
+    {
+      "title": "Opinion | Modernize and Reform the Recycling System",
+      "link": "https://www.wsj.com/opinion/modernize-and-reform-the-recycling-system-d824c886?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:35:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -193,22 +199,16 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Opinion | A Pro-Growth Lesson From British Columbia",
-      "link": "https://www.wsj.com/opinion/a-pro-growth-lesson-from-british-columbia-fe6c5330?mod=rss_markets_main",
-      "published": "Fri, 02 Oct 2026 18:22:00 GMT",
-      "sentiment": 0.14285714285714285
+      "title": "Comex Gold Settles 1.64% Lower at $4084.80",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 17:46:00 GMT",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "U.S. Natural Gas Futures Give Back Gains",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-give-back-gains-139a0acd?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 14:36:00 GMT",
       "sentiment": 0.08888888888888889
-    },
-    {
-      "title": "Gold Adds to Losses As U.S. Core CPI Exceeds Expectations",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 13:37:00 GMT",
-      "sentiment": 0.08333333333333333
     },
     {
       "title": "Morgan Stanley Raises Dated Brent Forecast on High Shipping Costs",
@@ -227,6 +227,12 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-at-highest-since-late-2022-on-winter-supply-concerns-08c3ad4d?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 19:37:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields",
+      "link": "https://www.wsj.com/finance/currencies/dollar-strengthens-on-hot-inflation-data-higher-treasury-yields-63c3afae?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 16:06:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Euro Struggles to Regain Momentum, Falls to 16-Month Low Vs Sterling",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:24:00 GMT",
       "sentiment": 0.6
-    },
-    {
-      "title": "FTX’s Old Bitcoin-Mining Assets Are Now Part of the AI Boom",
-      "link": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 09:14:00 GMT",
-      "sentiment": -0.03333333333333333
     },
     {
       "title": "The Morning Risk Report: Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
@@ -289,6 +289,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
+      "link": "https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 20:42:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
       "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 17:30:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:32:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Frenzied Stock-Options Trading Shows Individual Investors Are Still Hungry for Risk",
-      "link": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 21:30:00 GMT",
-      "sentiment": -0.0034090909090909102
     },
     {
       "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",
@@ -343,10 +343,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Home Sellers Are Starting to Blink on Prices. That’s Bad for Builders.",
-      "link": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f?mod=rss_markets_main",
-      "published": "Sun, 11 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.3499999999999999
+      "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
+      "link": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
