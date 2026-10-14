@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Pope Leo’s Cancer Surgery Draws Outpouring From World Leaders",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html",
+      "published": "Wed, 14 Oct 2026 02:46:25 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
+      "published": "Wed, 14 Oct 2026 02:42:27 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
       "published": "Wed, 14 Oct 2026 00:12:23 +0000",
@@ -9,7 +21,7 @@
     {
       "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
-      "published": "Tue, 13 Oct 2026 23:44:50 +0000",
+      "published": "Wed, 14 Oct 2026 01:49:34 +0000",
       "sentiment": 0.14102564102564102
     },
     {
@@ -39,19 +51,19 @@
     {
       "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-      "published": "Tue, 13 Oct 2026 21:17:34 +0000",
+      "published": "Tue, 13 Oct 2026 21:17:35 +0000",
       "sentiment": 0.025
     },
     {
       "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
-      "published": "Tue, 13 Oct 2026 16:04:03 +0000",
+      "published": "Tue, 13 Oct 2026 16:04:04 +0000",
       "sentiment": -0.225
     },
     {
       "title": "Pope Leo Has Lung Cancer, Vatican Says",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-      "published": "Tue, 13 Oct 2026 22:19:30 +0000",
+      "published": "Wed, 14 Oct 2026 02:10:07 +0000",
       "sentiment": 0.2857142857142857
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html",
       "published": "Wed, 14 Oct 2026 00:24:48 +0000",
       "sentiment": 0.15
-    },
-    {
-      "title": "Marina Vlady, French Cinema Star of ‘Princesse de Clèves,’ Dies at 88",
-      "link": "https://www.nytimes.com/2026/10/12/movies/marina-vlady-dead.html",
-      "published": "Tue, 13 Oct 2026 21:42:46 +0000",
-      "sentiment": 0.14444444444444446
-    },
-    {
-      "title": "After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine",
-      "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html",
-      "published": "Mon, 12 Oct 2026 22:12:38 +0000",
-      "sentiment": 0.04727272727272727
     }
   ]
 }
