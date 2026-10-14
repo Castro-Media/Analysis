@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Apple Closes Above the $5 Trillion Mark",
+      "link": "https://www.wsj.com/tech/apple-closes-above-the-5-trillion-mark-c72da719?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 21:20:00 GMT",
+      "sentiment": -0.015909090909090914
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 21:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-23402b4f?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 20:56:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Apple Joins Nvidia in the $5 Trillion Valuation Club",
+      "link": "https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 20:55:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "What ‘Macbeth’ Can Teach Us About Avoiding Financial Fraud",
       "link": "https://www.wsj.com/business/macbeth-shakespeare-financial-fraud-lessons-021cc815?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 19:51:00 GMT",
@@ -11,30 +35,6 @@
       "link": "https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 17:49:00 GMT",
       "sentiment": 0.04999999999999999
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 16:26:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1d895b75?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 16:26:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-23402b4f?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 16:22:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
-      "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 13:07:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
@@ -97,6 +97,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13b56b6a?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 21:02:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Bank of America Settlement Charge Hits Profit, Morgan Stanley Profit Climbs",
       "link": "https://www.wsj.com/business/earnings/bank-of-america-settlement-charge-hits-profit-morgan-stanley-profit-climbs-d9cde716?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 11:58:00 GMT",
@@ -118,18 +124,6 @@
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/health/healthcare/health-care-roundup-market-talk-86542959?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 16:32:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Givaudan Shares Climb After Sales Beat Expectations",
-      "link": "https://www.wsj.com/business/givaudan-shares-climb-after-sales-beat-expectations-7553e125?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 10:40:00 GMT",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13b56b6a?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 16:24:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -155,6 +149,12 @@
       "link": "https://www.wsj.com/business/autos/bmw-group-vehicle-deliveries-fall-on-continued-weakness-in-china-ce644bcc?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 09:45:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Stellantis Shipments Fall on North America Summer Shutdowns",
+      "link": "https://www.wsj.com/business/autos/stellantis-shipments-fall-on-north-america-summer-shutdowns-32a19196?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 07:16:00 GMT",
+      "sentiment": 0.35714285714285715
     },
     {
       "title": "Opinion | Modernize and Reform the Recycling System",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-897ab228?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 20:58:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-traders-weigh-saudi-aramco-attack-report-hormuz-shipping-risks-0f09ed61?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 20:12:00 GMT",
@@ -203,12 +209,6 @@
       "link": "https://www.wsj.com/economy/cpi-inflation-report-september-2026-b2037469?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 16:32:00 GMT",
       "sentiment": 0.07416666666666667
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-897ab228?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 16:24:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "American Electric Power to Invest $4 Billion in Fuel Cell Project to Meet Energy Demand From Google",
@@ -319,6 +319,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
+      "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 13:07:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Big Law’s Latest Weapon to Win Talent and Clients: Corporate Branding",
       "link": "https://www.wsj.com/cmo-today/big-laws-latest-weapon-to-win-talent-and-clients-corporate-branding-a6cbd47e?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 10:30:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/arts-culture/television/traitors-alan-cumming-reality-show-7efe3c9e?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 17:04:00 GMT",
       "sentiment": -0.08787878787878789
-    },
-    {
-      "title": "Selling a Digital Detox: Brick Recruits Marketers to Battle the Endless Scroll",
-      "link": "https://www.wsj.com/cmo-today/selling-a-digital-detox-brick-recruits-marketers-to-battle-the-endless-scroll-a0a0f92c?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 13:14:00 GMT",
-      "sentiment": -0.0625
     },
     {
       "title": "Uber Freight CEO Targets Revenue Growth and Investment Ahead of Profit, for Now",
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e9bd3bcd?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 20:58:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Swisscom Wins Appeal Against Swiss Antitrust Fine Over Fiber Network Expansion",
       "link": "https://www.wsj.com/business/telecom/swisscom-wins-appeal-against-swiss-antitrust-fine-over-fiber-network-expansion-10539bd7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 08:55:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/telecom/melrose-industries-says-gkn-aerospace-reaches-125-million-settlement-in-chemicals-case-1d07f6f1?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 09:25:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-af51bae6?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 20:55:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "VC Firm Antares Ventures Raises Over $50 Million for Deep-Tech Investments",
@@ -433,6 +433,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1d895b75?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 16:26:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Mark Zuckerberg Versus the Pint of Guinness",
       "link": "https://www.wsj.com/arts-culture/food-cooking/mark-zuckerberg-versus-the-pint-of-guinness-94460282?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 11:00:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/eu-accepts-sanofis-concessions-to-settle-antitrust-probe-over-vaccine-marketing-a07a2a95?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 08:55:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-98d95467?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 20:57:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
