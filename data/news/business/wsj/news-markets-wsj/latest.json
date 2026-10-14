@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Slip Despite Solid Wall Street Results",
+      "title": "Stock Market News, Oct. 13, 2026: Stocks Slip Despite Solid Wall Street Results",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 08:14:38 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Failure of Australia’s Largest IPO in Decades Sends Tremors Through AI Trade",
+      "link": "https://www.wsj.com/finance/firmus-ipo-ai-trade-f490c240?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.07041666666666666
     },
     {
       "title": "Financial Services Roundup: Market Talk",
@@ -34,12 +40,6 @@
       "title": "For Stocks, the Future Ain’t What It Used to Be",
       "link": "https://www.wsj.com/finance/investing/for-stocks-the-future-aint-what-it-used-to-be-5b210467?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 14:55:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 11:30:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -133,6 +133,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 00:42:00 GMT",
+      "sentiment": 0.05416666666666666
+    },
+    {
       "title": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-tick-down-as-bank-earnings-dont-excite-40b1934e?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 21:07:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:32:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Frenzied Stock-Options Trading Shows Individual Investors Are Still Hungry for Risk",
-      "link": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 21:30:00 GMT",
-      "sentiment": -0.0034090909090909102
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -199,6 +199,18 @@
       "sentiment": 0.14285714285714285
     },
     {
+      "title": "Gold Steady Ahead of U.S. Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 01:05:00 GMT",
+      "sentiment": 0.051388888888888894
+    },
+    {
+      "title": "Oil Rises Amid Ongoing Middle East Tensions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-6e2a3ee0?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "Oil Futures Settle Mixed as Diesel’s Rise Helps Lift WTI",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-on-possible-technical-correction-a4fa2f4b?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 20:07:00 GMT",
@@ -217,16 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Europe Heads Into Winter With Low Gas Reserves, Uncertain Gulf Supplies",
-      "link": "https://www.wsj.com/finance/commodities-futures/europe-heads-into-winter-with-low-gas-reserves-uncertain-gulf-supplies-78cd3507?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 11:43:00 GMT",
-      "sentiment": 0.016666666666666666
-    },
-    {
-      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
-      "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.2
+      "title": "Asian Currencies Consolidate Ahead of U.S. CPI Data",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-993f6e8d?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 00:55:00 GMT",
+      "sentiment": -0.03125
     },
     {
       "title": "WSJ Dollar Index Falls 0.25% to 97.34",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/rupee-jumps-after-india-central-bank-unveils-currency-defense-measures-26b7caa0?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 07:18:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "Dollar Finishes Fourth Straight Week of Gains",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-consolidate-focus-on-u-s-data-fe613e38?mod=rss_markets_main",
-      "published": "Fri, 09 Oct 2026 21:45:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
@@ -289,6 +289,18 @@
       "sentiment": 0.05833333333333333
     },
     {
+      "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 11:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Frenzied Stock-Options Trading Shows Individual Investors Are Still Hungry for Risk",
+      "link": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
+      "published": "Mon, 12 Oct 2026 21:30:00 GMT",
+      "sentiment": -0.0034090909090909102
+    },
+    {
       "title": "Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them",
       "link": "https://www.wsj.com/finance/retirement-savers-sue-dodgers-owner-mark-walter-saying-his-insurers-misled-them-f987d06a?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 20:39:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/narrow-stock-market-rallies-arent-unusual-when-to-start-worrying-d4dd127d?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 10:44:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
-      "link": "https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_markets_main",
-      "published": "Sun, 11 Oct 2026 14:00:00 GMT",
-      "sentiment": -0.08708333333333335
-    },
-    {
-      "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
-      "link": "https://www.wsj.com/finance/investing/economists-bond-yields-forecast-aaa2ff5c?mod=rss_markets_main",
-      "published": "Sun, 11 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",

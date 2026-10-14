@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+      "published": "Wed, 14 Oct 2026 00:12:23 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bank of America Pays $1.8 Billion Fine for Lax Money-Laundering Oversight",
+      "link": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
+      "published": "Tue, 13 Oct 2026 22:57:46 +0000",
+      "sentiment": 0.20833333333333334
+    },
+    {
       "title": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
       "link": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
-      "published": "Tue, 13 Oct 2026 21:55:45 +0000",
+      "published": "Wed, 14 Oct 2026 00:04:56 +0000",
       "sentiment": 0.2556818181818182
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/08/business/media/trump-cnn-ms-now-politico-ban.html",
       "published": "Thu, 08 Oct 2026 18:15:13 +0000",
       "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "Can Your College Affect Your Income?",
-      "link": "https://www.nytimes.com/video/business/100000011168809/can-your-college-affect-your-income.html",
-      "published": "Thu, 08 Oct 2026 09:24:22 +0000",
-      "sentiment": 0.17977272727272728
-    },
-    {
-      "title": "How the Trump Administration Is Eroding Airline Passengers’ Rights",
-      "link": "https://www.nytimes.com/2026/10/08/travel/airlines-flights-passenger-rights-trump.html",
-      "published": "Thu, 08 Oct 2026 09:00:40 +0000",
-      "sentiment": 0.0
     }
   ]
 }
