@@ -271,12 +271,6 @@
       "sentiment": -0.05
     },
     {
-      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
-      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.21212121212121213
-    },
-    {
       "title": "Southern California braces for Tropical Storm Rachel. 'This is not even the worst,' official says",
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -301,16 +295,22 @@
       "sentiment": 0.09523809523809523
     },
     {
-      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
-      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
+      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
+      "sentiment": 0.21212121212121213
     },
     {
       "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
       "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": -0.06388888888888888
+    },
+    {
+      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
+      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "Crews make progress against Danny fire in the Grapevine; I-5 open in both directions",
@@ -403,16 +403,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
-      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
       "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Manson follower Patricia Krenwinkel, murderer imprisoned for half a century, is recommended for parole",
@@ -445,10 +445,10 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
-      "link": "https://www.latimes.com/california/story/2026-10-07/mother-arrested-14-year-old-allegedly-impregnated-by-her-father",
+      "title": "Californians are paying some of the highest water bills in the country",
+      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.19999999999999998
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Arellano: What Steve Hilton doesn't get about Xavier Becerra's parents",
@@ -457,10 +457,10 @@
       "sentiment": 0.12727272727272726
     },
     {
-      "title": "Californians are paying some of the highest water bills in the country",
-      "link": "https://www.latimes.com/environment/story/2026-10-07/california-high-water-bills",
+      "title": "Mother is arrested in case of 14-year-old allegedly impregnated by her father",
+      "link": "https://www.latimes.com/california/story/2026-10-07/mother-arrested-14-year-old-allegedly-impregnated-by-her-father",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
+      "sentiment": 0.19999999999999998
     },
     {
       "title": "Santa Monica man who was charged with kidnapping UCLA student, raping another woman is found dead",

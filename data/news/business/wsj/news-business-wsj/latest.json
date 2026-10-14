@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "EU Accepts Sanofi’s Concessions to End Antitrust Probe Over Vaccine Marketing",
+      "link": "https://www.wsj.com/business/eu-accepts-sanofis-concessions-to-settle-antitrust-probe-over-vaccine-marketing-a07a2a95?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 08:55:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Global Diesel Squeeze to Drag Into 2027, IEA Says",
+      "link": "https://www.wsj.com/business/energy-oil/global-diesel-squeeze-to-drag-into-2027-iea-says-c7d06769?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 08:23:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
       "link": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 00:18:00 GMT",
@@ -25,21 +37,9 @@
       "sentiment": 0.2125
     },
     {
-      "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
-      "link": "https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 18:00:00 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount",
-      "link": "https://www.wsj.com/business/energy-oil/opec-cuts-demand-growth-forecast-again-as-gulf-supply-risks-mount-848d73a3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 12:32:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Galderma to Buy ZO Skin Health for $1.5 Billion",
       "link": "https://www.wsj.com/business/deals/galderma-to-buy-zo-skin-health-for-1-5-billion-354ba9ff?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 05:47:00 GMT",
+      "published": "Wed, 14 Oct 2026 07:38:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -97,9 +97,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Chip-Machine Supplier ASML Boosts Guidance for Third Time On Surging AI Demand",
+      "title": "Chip-Machine Supplier ASML Boosts Guidance for Third Time on Surging AI Demand",
       "link": "https://www.wsj.com/business/earnings/chip-machine-supplier-asml-boosts-guidance-for-third-time-on-surging-ai-demand-7ea173d9?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 05:42:00 GMT",
+      "published": "Wed, 14 Oct 2026 07:29:00 GMT",
       "sentiment": 0.1
     },
     {
@@ -193,9 +193,21 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-traders-weigh-saudi-aramco-attack-report-hormuz-shipping-risks-0f09ed61?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 07:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 19:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "OPEC Cuts Demand Growth Forecast Again as Gulf Supply Risks Mount",
+      "link": "https://www.wsj.com/business/energy-oil/opec-cuts-demand-growth-forecast-again-as-gulf-supply-risks-mount-848d73a3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 12:32:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -209,18 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/phantom-data-centers-are-demanding-more-from-the-power-grid-than-they-need-77e322bb?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 09:30:00 GMT",
       "sentiment": 0.4625
-    },
-    {
-      "title": "BP’s New CEO to Outline Strategy as Balance Sheet Strengthens",
-      "link": "https://www.wsj.com/business/c-suite/bp-plans-strategy-update-as-balance-sheet-strengthens-83431b17?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 08:30:00 GMT",
-      "sentiment": 0.17424242424242423
-    },
-    {
-      "title": "Iran Fortifying Nuclear Sites and Rallying Its People for Return to Fighting",
-      "link": "https://www.wsj.com/world/middle-east/iran-is-fortifying-nuclear-sites-and-rallying-its-people-for-a-return-to-fighting-c4cc3c28?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 03:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Delta Delays Plans for Nonstop Service to Saudi Arabia",
@@ -271,16 +271,16 @@
       "sentiment": 0.3
     },
     {
+      "title": "BP’s New CEO to Outline Strategy as Balance Sheet Strengthens",
+      "link": "https://www.wsj.com/business/c-suite/bp-plans-strategy-update-as-balance-sheet-strengthens-83431b17?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 08:30:00 GMT",
+      "sentiment": 0.17424242424242423
+    },
+    {
       "title": "CFOs’ Key Partners For AI Transformation, According to BCG",
       "link": "https://www.wsj.com/cfo-journal/cfos-key-partners-for-ai-transformation-according-to-bcg-c189b480?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 11:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Nascar’s New CEO Aims to Take ‘Big Swings’",
-      "link": "https://www.wsj.com/articles/nascars-new-ceo-aims-to-take-big-swings-7d763ecb?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 10:05:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "Six Flags Closes Several Rides After Georgia Roller-Coaster Death",
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Swisscom Wins Appeal Against Swiss Antitrust Fine Over Fiber Network Expansion",
+      "link": "https://www.wsj.com/business/telecom/swisscom-wins-appeal-against-swiss-antitrust-fine-over-fiber-network-expansion-10539bd7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 08:55:00 GMT",
+      "sentiment": 0.37777777777777777
+    },
+    {
       "title": "AT&T to Sell AT&T Mexico to Grupo Televisa and Fintech Holdings",
       "link": "https://www.wsj.com/business/telecom/at-t-to-sell-at-t-mexico-to-grupo-televisa-and-fintech-holdings-c36a62af?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 21:34:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/cio-journal/a-new-mobile-telecom-battle-may-be-brewing-2e61ef46?mod=pls_whats_news_us_business_f",
       "published": "Fri, 09 Oct 2026 13:03:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "SpaceX Makes Big Play to Become a Wireless Carrier",
-      "link": "https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 09 Oct 2026 00:45:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "VC Firm Antares Ventures Raises Over $50 Million for Deep-Tech Investments",
@@ -433,6 +433,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
+      "link": "https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 18:00:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 11:30:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9bc8764a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 12 Oct 2026 20:59:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Adnoc Logistics in Talks to Buy Stake in HEA at $3 Billion Valuation",
-      "link": "https://www.wsj.com/business/energy-oil/adnoc-logistics-in-talks-to-buy-stake-in-hea-at-3-billion-valuation-c005541a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 12 Oct 2026 16:19:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "‘Phantom’ Data Centers Are Demanding More From the Power Grid Than They Need",
