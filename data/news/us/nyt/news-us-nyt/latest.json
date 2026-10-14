@@ -1,9 +1,33 @@
 {
   "entries": [
     {
+      "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html",
+      "published": "Wed, 14 Oct 2026 09:02:01 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Five Bodies Are Found Along Michigan Trail and the Police Hunt a Killer",
+      "link": "https://www.nytimes.com/2026/10/14/us/lansing-michigan-serial-killer.html",
+      "published": "Wed, 14 Oct 2026 09:01:52 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Supreme Court Weighs Privacy Law From the Videotape Era of ‘Be Kind, Rewind’",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/supreme-court-bork-video-privacy.html",
+      "published": "Wed, 14 Oct 2026 09:01:31 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Becerra Is a Quiet Trailblazer for Latinos in California",
+      "link": "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html",
+      "published": "Wed, 14 Oct 2026 09:00:19 +0000",
+      "sentiment": 0.15833333333333333
+    },
+    {
       "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
       "link": "https://www.nytimes.com/2026/10/14/us/icc-sanctions-trump-administration.html",
-      "published": "Wed, 14 Oct 2026 08:03:24 +0000",
+      "published": "Wed, 14 Oct 2026 08:03:25 +0000",
       "sentiment": -0.2
     },
     {
@@ -125,36 +149,6 @@
       "link": "https://www.nytimes.com/2026/10/13/us/politics/top-gop-groups-pull-support-from-first-house-incumbents.html",
       "published": "Tue, 13 Oct 2026 12:00:02 +0000",
       "sentiment": 0.25643939393939397
-    },
-    {
-      "title": "El-Sayed, Releasing His Platform on A.I., Calls It an ‘Existential Crisis’",
-      "link": "https://www.nytimes.com/2026/10/13/us/abdul-el-sayed-ai.html",
-      "published": "Tue, 13 Oct 2026 10:01:04 +0000",
-      "sentiment": -0.11666666666666665
-    },
-    {
-      "title": "They Lived Rent-Free on Boats Near San Francisco. Until Now.",
-      "link": "https://www.nytimes.com/video/us/100000011152176/san-francisco-bay-boat-dwellers-deadline.html",
-      "published": "Tue, 13 Oct 2026 09:18:28 +0000",
-      "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "These California Boat Dwellers Fear the Worst: Life on Land",
-      "link": "https://www.nytimes.com/2026/10/13/us/california-anchor-outs-boats.html",
-      "published": "Tue, 13 Oct 2026 20:26:56 +0000",
-      "sentiment": -0.6
-    },
-    {
-      "title": "He Would Be Florida’s First Black Governor. Can He Sway Black Voters?",
-      "link": "https://www.nytimes.com/2026/10/13/us/byron-donalds-florida-governor-black-voters.html",
-      "published": "Tue, 13 Oct 2026 12:18:00 +0000",
-      "sentiment": 0.04285714285714288
-    },
-    {
-      "title": "The New Affordability Fight in the Midterms: Home Insurance Prices",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/home-insurance-extreme-weather-elections.html",
-      "published": "Tue, 13 Oct 2026 13:21:03 +0000",
-      "sentiment": 0.0037878787878787845
     }
   ]
 }
