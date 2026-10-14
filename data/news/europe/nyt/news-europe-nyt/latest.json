@@ -1,9 +1,27 @@
 {
   "entries": [
     {
-      "title": "Russell Brand Labeled ‘Sexual Predator’ at Rape and Assault Trial",
+      "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
+      "published": "Wed, 14 Oct 2026 11:56:38 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Sudden Starlink Restrictions Deepen Ukraine’s Vulnerability as Russia Escalates",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+      "published": "Wed, 14 Oct 2026 12:39:00 +0000",
+      "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
+      "published": "Wed, 14 Oct 2026 12:15:27 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "Russell Brand Labeled ‘Sexual Predator’ as Trial Opens; He Denies Rape and Assault Charges",
       "link": "https://www.nytimes.com/2026/10/14/arts/russell-brand-trial-rape-sexual-assault.html",
-      "published": "Wed, 14 Oct 2026 09:54:28 +0000",
+      "published": "Wed, 14 Oct 2026 12:49:31 +0000",
       "sentiment": 0.25
     },
     {
@@ -33,7 +51,7 @@
     {
       "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
-      "published": "Wed, 14 Oct 2026 10:18:56 +0000",
+      "published": "Wed, 14 Oct 2026 10:18:57 +0000",
       "sentiment": 0.13636363636363635
     },
     {
@@ -87,7 +105,7 @@
     {
       "title": "Pope Leo Has Lung Cancer, Vatican Says",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-      "published": "Wed, 14 Oct 2026 07:27:25 +0000",
+      "published": "Wed, 14 Oct 2026 07:27:26 +0000",
       "sentiment": 0.2857142857142857
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/europe/germany-flight-nuremberg.html",
       "published": "Tue, 13 Oct 2026 16:08:04 +0000",
       "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html",
-      "published": "Tue, 13 Oct 2026 17:16:28 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "4,200 Miles From Graceland, This Town Is Crazy About Elvis",
-      "link": "https://www.nytimes.com/2026/10/13/arts/porthcawl-elvis-festival-wales.html",
-      "published": "Tue, 13 Oct 2026 20:39:08 +0000",
-      "sentiment": -0.6
-    },
-    {
-      "title": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
-      "published": "Tue, 13 Oct 2026 14:35:45 +0000",
-      "sentiment": -0.7
     }
   ]
 }
