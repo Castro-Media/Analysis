@@ -1,6 +1,60 @@
 {
   "entries": [
     {
+      "title": "New Yorker’s $3 yard sale bowl sells for $2.2 million",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2007-a-new-yorker-paid-3-for-a-white-bowl-at-a-yard-sale-and-kept-it-in-the-living-room-for-years-experts-later-identified-it-as-a-1000-year-old-chinese-artefact-and-it-sold-for-2-225-million/articleshow/134945130.cms",
+      "published": "2026-10-14T20:07:35+05:30",
+      "sentiment": 0.2185606060606061
+    },
+    {
+      "title": "Louisiana landowner turns 300 flood-prone acres into a wildlife corridor",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-landowner-bought-300-acres-to-raise-cattle-but-repeated-floods-changed-his-plans-he-is-now-restoring-wetlands-and-planting-183-acres-of-forest-to-connect-wildlife-habitats/articleshow/134945095.cms",
+      "published": "2026-10-14T20:08:34+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Selena Gomez’s Rare Impact Fund raises $30 million to support youth mental health worldwide",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2020-selena-gomez-launched-the-rare-impact-fund-alongside-rare-beauty-six-years-later-it-has-raised-over-30-million-supports-30-nonprofits-and-reaches-about-3-5-million-young-people-each-year/articleshow/134945089.cms",
+      "published": "2026-10-14T20:05:09+05:30",
+      "sentiment": 0.061111111111111116
+    },
+    {
+      "title": "Pierre Cardin restored the Marquis de Sade’s ruined French château, turning it into a festival venue",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2001-pierre-cardin-bought-the-ruined-chteau-once-owned-by-the-marquis-de-sade-after-nearly-seven-years-and-millions-of-euros-in-restoration-work-the-historic-provence-site-became-a-music-and-theatre-festival-venue/articleshow/134943723.cms",
+      "published": "2026-10-14T19:49:27+05:30",
+      "sentiment": 0.15277777777777776
+    },
+    {
+      "title": "Demolition Rule Changes Pause: Saratoga Springs mayor halts plan after opposition; safeguards stay",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-30-people-opposed-looser-demolition-rules-for-historic-buildings-in-saratoga-springs-new-yorks-mayor-has-paused-the-proposal-leaving-existing-protections-in-place-while-the-city-reviews-its-plans/articleshow/134944493.cms",
+      "published": "2026-10-14T20:03:46+05:30",
+      "sentiment": -0.013888888888888888
+    },
+    {
+      "title": "Abu Dhabi royal found slumped on London street with toddler; 'Why do you care so much?' she asks after being woken up; attorney says she was tired",
+      "link": "https://timesofindia.indiatimes.com/world/uk/abu-dhabi-royal-found-slumped-on-london-street-with-toddler-why-do-you-care-so-much-she-asks-after-being-woken-attorney-says-she-was-tired/articleshow/134944701.cms",
+      "published": "2026-10-14T19:37:56+05:30",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "Vermont forester restores 175 acres, creating a pond, rich vegetation and a 100-tree orchard",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-vermont-forester-bought-175-acres-of-degraded-woodland-in-2017-after-nine-years-of-restoring-habitats-the-land-now-features-a-wildlife-pond-rich-vegetation-and-an-orchard-of-more-than-100-fruit-trees/articleshow/134944131.cms",
+      "published": "2026-10-14T19:23:28+05:30",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "US midterms 2026: Trump to campaign in Arizona, Montana after Alaska rally",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-trump-to-campaign-in-arizona-montana-after-alaska-rally/articleshow/134943406.cms",
+      "published": "2026-10-14T18:37:50+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In 1991, Steve Harvey slept in his car with $35. After Apollo fame, his foundation awarded $700,000",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1991-steve-harvey-was-homeless-sleeping-in-his-car-with-just-35-after-his-apollo-breakthrough-his-foundation-went-on-to-award-more-than-700000-in-scholarships-and-build-mentoring-programs-for-underserved-youth/articleshow/134943175.cms",
+      "published": "2026-10-14T18:39:58+05:30",
+      "sentiment": 0.19062500000000002
+    },
+    {
       "title": "Tyler Perry transformed Atlanta’s 330-acre army base into a film hub with 12 sound stages",
       "link": "https://timesofindia.indiatimes.com/world/us/in-2015-tyler-perry-acquired-330-acres-of-atlantas-former-fort-mcpherson-army-base-11-years-later-the-site-has-12-sound-stages-40-historic-buildings-and-200-acres-of-green-space/articleshow/134941441.cms",
       "published": "2026-10-14T18:09:27+05:30",
@@ -65,60 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/science/space/nasas-latest-satellite-imagery-reveals-australias-giant-spider-the-striking-landscape-created-by-an-ancient-impact-is-a-huge-crater/articleshow/134938893.cms",
       "published": "2026-10-14T16:55:00+05:30",
       "sentiment": 0.0
-    },
-    {
-      "title": "Charleston Museum commits $15M to protect Dill Sanctuary from development",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-1985-charleston-museum-received-over-700-acres-on-james-island-from-the-dill-family-41-years-later-it-is-putting-over-15-million-in-easement-value-towards-permanently-blocking-development/articleshow/134938267.cms",
-      "published": "2026-10-14T17:00:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Robin Williams’ collection fetched $6.1 million, supporting students, veterans, disabled athletes and sick children",
-      "link": "https://timesofindia.indiatimes.com/world/us/robin-williams-watches-and-artwork-fetched-6-1-million-at-auction-with-money-going-to-arts-scholarships-wounded-veterans-disabled-athletes-and-sick-children/articleshow/134938984.cms",
-      "published": "2026-10-14T15:58:32+05:30",
-      "sentiment": -0.1660714285714286
-    },
-    {
-      "title": "Wall Street titan lists bulletproof Upper East Side mansion for $80 million; property could become the neighbourhood’s priciest",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2009-former-morgan-stanley-ceo-john-mack-paid-13-5-million-for-a-manhattan-carriage-house-after-transforming-it-into-a-nearly-16000-sq-ft-mansion-it-is-now-listed-for-80-million/articleshow/134938865.cms",
-      "published": "2026-10-14T16:00:00+05:30",
-      "sentiment": 0.03896103896103896
-    },
-    {
-      "title": "Erin French rebuilt her life after losing her first restaurant; her Maine eatery now receives 60,000 reservation postcards a year",
-      "link": "https://timesofindia.indiatimes.com/life-style/food-news/after-personal-setbacks-and-losing-her-first-restaurant-erin-french-rebuilt-her-career-in-a-small-maine-town-her-restaurant-now-receives-around-60000-reservation-postcards-a-year/articleshow/134937349.cms",
-      "published": "2026-10-14T16:00:00+05:30",
-      "sentiment": 0.20833333333333334
-    },
-    {
-      "title": "Why Asim Munir's plan to 'split' up Pakistan may spell the end of civilian govt",
-      "link": "https://timesofindia.indiatimes.com/world/pakistan/why-asim-munirs-plan-to-split-up-pakistan-may-spell-the-end-of-civilian-govt/articleshow/134938154.cms",
-      "published": "2026-10-14T15:25:51+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "ShelterBox book club raises £2 million to help disaster-hit families",
-      "link": "https://timesofindia.indiatimes.com/world/uk/a-uk-charity-started-a-book-club-in-2018-with-one-simple-idea-that-reading-could-help-families-after-disasters-eight-years-later-more-than-10000-readers-have-received-160169-books-and-raised-2-million/articleshow/134937109.cms",
-      "published": "2026-10-14T14:40:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "17-year-old Virginia student builds safer walking app; 14 schools pilot it",
-      "link": "https://timesofindia.indiatimes.com/world/us/meet-daniil-prokofev-the-17-year-old-virginia-student-who-helped-build-a-safer-walking-app-14-schools-are-now-piloting-the-program/articleshow/134937892.cms",
-      "published": "2026-10-14T15:12:59+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Chicago billionaire, 94, fed squirrels for years; now rats plague a park and market",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-94-year-old-chicago-billionaire-hired-workers-to-scatter-nuts-around-lincoln-park-to-feed-squirrels-for-years-leftover-food-attracted-rats-damaged-park-property-and-disrupted-a-nearby-farmers-market/articleshow/134937221.cms",
-      "published": "2026-10-14T14:43:57+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "USDA-funded 2022 trial found cardboard garden beds had 15% weed cover, versus 45% in tilled beds",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/in-2022-us-department-of-agriculture-funded-a-trial-by-spreading-cardboard-in-gardens-to-avoid-weeds-by-the-second-season-weeds-covered-only-15-of-the-cardboard-beds-compared-to-45-in-tilted-beds/articleshow/134936457.cms",
-      "published": "2026-10-14T14:14:11+05:30",
-      "sentiment": 0.29500000000000004
     }
   ]
 }
