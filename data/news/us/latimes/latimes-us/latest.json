@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
+      "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.39166666666666666
+    },
+    {
+      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09500000000000001
+    },
+    {
       "title": "Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate",
       "link": "https://www.latimes.com/california/story/2026-10-13/bass-vs-raman-heres-who-won-la-mayoral-debate",
       "published": "Wed, 14 Oct 2026 04:03:22 GMT",
@@ -49,10 +61,10 @@
       "sentiment": 0.6
     },
     {
-      "title": "Family of Franklin High student who fell to his death calls for security, accountability",
+      "title": "No 'back to normal' at Franklin High as campus grapples with trauma after student's death",
       "link": "https://www.latimes.com/california/story/2026-10-13/franklin-high-student-death-family-demands-school-police",
       "published": "Tue, 13 Oct 2026 19:43:41 GMT",
-      "sentiment": 0.16
+      "sentiment": 0.06899999999999999
     },
     {
       "title": "Burbank airport's new $1.3-billion terminal opens — bigger and sleeker than ever",
@@ -151,16 +163,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
-      "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
-      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
       "link": "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy",
       "published": "Sun, 11 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09722222222222222
+    },
+    {
+      "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
+      "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Rachel moves in as 'unprecedented' conditions bring SoCal coastal flooding",
@@ -187,16 +199,16 @@
       "sentiment": 0.375
     },
     {
-      "title": "Lopez: They were homeless, but turned their lives around. Here's how they did it",
-      "link": "https://www.latimes.com/california/story/2026-10-10/they-were-homeless-but-turned-their-lives-around-heres-how-they-did-it",
-      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Iowa fugitive worked as a chef in San Diego under an alias for more than a decade",
       "link": "https://www.latimes.com/california/story/2026-10-10/iowa-fugitive-worked-as-san-diego-chef-under-alias-for-decade",
       "published": "Sat, 10 Oct 2026 12:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Lopez: They were homeless, but turned their lives around. Here's how they did it",
+      "link": "https://www.latimes.com/california/story/2026-10-10/they-were-homeless-but-turned-their-lives-around-heres-how-they-did-it",
+      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
@@ -205,16 +217,16 @@
       "sentiment": -0.18181818181818182
     },
     {
-      "title": "Tropical Storm Rachel is behaving in unusual ways. What that means for SoCal this weekend",
-      "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
-      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
       "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
       "sentiment": -0.24
+    },
+    {
+      "title": "Tropical Storm Rachel is behaving in unusual ways. What that means for SoCal this weekend",
+      "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
+      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
@@ -391,6 +403,12 @@
       "sentiment": 0.05555555555555555
     },
     {
+      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08888888888888889
+    },
+    {
       "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
       "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
@@ -401,12 +419,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
     },
     {
       "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
@@ -545,18 +557,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-06/lineage-warehouse-criminal-investigation",
       "published": "Tue, 6 Oct 2026 19:11:22 GMT",
       "sentiment": -0.3333333333333333
-    },
-    {
-      "title": "Raman tells viewers to 'stop fascist liars' in video urging removal of LAPD chief",
-      "link": "https://www.latimes.com/california/story/2026-10-06/raman-declares-stop-fascist-liars-in-video-urging-lapd-chief-removal",
-      "published": "Tue, 6 Oct 2026 18:40:47 GMT",
-      "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "LAPD union will oppose half-cent sales tax hike pushed by firefighters' union",
-      "link": "https://www.latimes.com/california/story/2026-10-06/lapd-union-will-oppose-half-cent-sales-tax-hike-pushed-by-firefighters-union",
-      "published": "Tue, 6 Oct 2026 18:32:57 GMT",
-      "sentiment": 0.0
     }
   ]
 }

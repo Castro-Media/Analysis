@@ -85,8 +85,44 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Pope Leo’s Cancer Diagnosis: What Happens Next",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
+      "published": "Wed, 14 Oct 2026 09:32:46 +0000",
+      "sentiment": -0.11666666666666667
+    },
+    {
+      "title": "A Pilgrim and a Retiree: Victims of the Houthi Airport Attack in Saudi Arabia",
+      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+      "published": "Wed, 14 Oct 2026 09:30:02 +0000",
+      "sentiment": 0.18333333333333332
+    },
+    {
+      "title": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
+      "published": "Wed, 14 Oct 2026 09:28:59 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Dalí Book Cover Stolen in France",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
+      "published": "Wed, 14 Oct 2026 09:02:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Indian Protesters Describe Rough Treatment by the Police",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
+      "published": "Wed, 14 Oct 2026 09:52:43 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Argentina’s President Has a Dog Psychic. Meet Celia Melamed.",
+      "link": "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
+      "published": "Wed, 14 Oct 2026 09:00:10 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "‘The Assassin(s)’ Movie Fuels South Korea’s Culture Wars",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/korea-assasin-assassins-movie.html",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/korea-assassins-movie.html",
       "published": "Wed, 14 Oct 2026 05:22:33 +0000",
       "sentiment": 0.0
     },
@@ -111,7 +147,7 @@
     {
       "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
-      "published": "Wed, 14 Oct 2026 02:42:27 +0000",
+      "published": "Wed, 14 Oct 2026 10:18:56 +0000",
       "sentiment": 0.13636363636363635
     },
     {
@@ -165,7 +201,7 @@
     {
       "title": "Why Chinese College Grads Are Becoming Farmers",
       "link": "https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html",
-      "published": "Tue, 13 Oct 2026 03:50:38 +0000",
+      "published": "Wed, 14 Oct 2026 10:20:26 +0000",
       "sentiment": 0.15
     },
     {
@@ -275,48 +311,6 @@
       "link": "https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html",
       "published": "Sun, 11 Oct 2026 18:58:00 +0000",
       "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html",
-      "published": "Sun, 11 Oct 2026 20:15:09 +0000",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
-      "published": "Sun, 11 Oct 2026 17:59:30 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
-      "published": "Sun, 11 Oct 2026 19:57:48 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Wringing Hope From the Rubble of Gaza",
-      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
-      "published": "Sun, 11 Oct 2026 11:25:54 +0000",
-      "sentiment": -0.016666666666666663
-    },
-    {
-      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
-      "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
-      "published": "Mon, 12 Oct 2026 18:46:03 +0000",
-      "sentiment": 0.0909090909090909
-    },
-    {
-      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
-      "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
-      "published": "Sun, 11 Oct 2026 09:00:28 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
-      "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
-      "published": "Sun, 11 Oct 2026 09:00:12 +0000",
-      "sentiment": 0.47000000000000003
     }
   ]
 }

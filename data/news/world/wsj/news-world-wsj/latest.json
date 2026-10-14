@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Ukraine Says New Starlink Speed Limit Is Disrupting Its Military Operations",
+      "link": "https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews",
+      "published": "Wed, 14 Oct 2026 10:47:00 GMT",
+      "sentiment": 0.012121212121212116
+    },
+    {
+      "title": "How Kimberly Guilfoyle Lost Trump’s Confidence and Her Job in Greece",
+      "link": "https://www.wsj.com/world/how-kimberly-guilfoyle-lost-trumps-confidence-and-her-job-in-greece-1625a554?mod=rss_worldnews",
+      "published": "Wed, 14 Oct 2026 10:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Houthi Strike Hits Building at Saudi Aramco Headquarters",
       "link": "https://www.wsj.com/world/middle-east/houthi-strike-hits-building-at-saudi-aramco-headquarters-a436de59?mod=rss_worldnews",
-      "published": "Wed, 14 Oct 2026 07:59:00 GMT",
+      "published": "Wed, 14 Oct 2026 09:38:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8?mod=rss_worldnews",
       "published": "Tue, 13 Oct 2026 22:18:00 GMT",
       "sentiment": 0.2857142857142857
-    },
-    {
-      "title": "Drone Attacks on Ships Sailing Near NATO Waters Present Fresh Threat for the Alliance",
-      "link": "https://www.wsj.com/world/europe/drone-attacks-on-ships-sailing-near-nato-waters-present-fresh-test-for-the-alliance-e36c333d?mod=rss_worldnews",
-      "published": "Tue, 13 Oct 2026 18:05:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "While Trump Floats a Kim Meeting, North Korea Flaunts Its U.S.-Range Missiles",
-      "link": "https://www.wsj.com/world/asia/while-trump-floats-a-kim-meeting-north-korea-flaunts-its-u-s-range-missiles-840ea74b?mod=rss_worldnews",
-      "published": "Tue, 13 Oct 2026 16:29:00 GMT",
-      "sentiment": -0.02121212121212122
     },
     {
       "title": "Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies",
@@ -73,6 +73,12 @@
       "sentiment": -0.03333333333333333
     },
     {
+      "title": "While Trump Floats a Kim Meeting, North Korea Flaunts Its U.S.-Range Missiles",
+      "link": "https://www.wsj.com/world/asia/while-trump-floats-a-kim-meeting-north-korea-flaunts-its-u-s-range-missiles-840ea74b?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 16:29:00 GMT",
+      "sentiment": -0.02121212121212122
+    },
+    {
       "title": "China’s Next ‘Gray Zone’ Target: An Island Chain Critical to U.S. Defense of Taiwan",
       "link": "https://www.wsj.com/world/asia/chinas-next-gray-zone-target-an-island-chain-critical-to-u-s-defense-of-taiwan-f4233818?mod=rss_worldnews",
       "published": "Fri, 09 Oct 2026 18:51:00 GMT",
@@ -88,12 +94,6 @@
       "title": "U.S. Forces in Okinawa Face Curfew, Booze Ban After Killing",
       "link": "https://www.wsj.com/world/asia/u-s-forces-in-okinawa-face-curfew-booze-ban-after-killing-399c01e9?mod=rss_worldnews",
       "published": "Wed, 07 Oct 2026 11:44:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Families of Dead Prospectors Sue Authority That Certifies Gold as Ethically Produced",
-      "link": "https://www.wsj.com/business/families-of-dead-prospectors-sue-authority-that-certifies-gold-as-ethically-produced-893e162d?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 19:27:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -121,10 +121,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "France Spent for Years. Now the Bill Is Coming Due.",
-      "link": "https://www.wsj.com/articles/france-spent-for-years-now-the-bill-is-coming-due-d34c09c6?mod=rss_worldnews",
-      "published": "Tue, 06 Oct 2026 09:56:00 GMT",
-      "sentiment": -0.1125
+      "title": "Families of Dead Prospectors Sue Authority That Certifies Gold as Ethically Produced",
+      "link": "https://www.wsj.com/business/families-of-dead-prospectors-sue-authority-that-certifies-gold-as-ethically-produced-893e162d?mod=rss_worldnews",
+      "published": "Tue, 06 Oct 2026 19:27:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "BOE’s Pill ‘Skeptical’ Four Rate Rises Needed to Tame Inflation",
@@ -199,6 +199,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "Drone Attacks on Ships Sailing Near NATO Waters Present Fresh Threat for the Alliance",
+      "link": "https://www.wsj.com/world/europe/drone-attacks-on-ships-sailing-near-nato-waters-present-fresh-test-for-the-alliance-e36c333d?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 18:05:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Kimberly-Clark, Kenvue Win Conditional EU Approval for $40 Billion Tie-Up",
       "link": "https://www.wsj.com/business/deals/kimberly-clark-kenvue-win-conditional-eu-approval-for-40-billion-tie-up-1964639a?mod=rss_worldnews",
       "published": "Tue, 13 Oct 2026 14:43:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews",
       "published": "Mon, 12 Oct 2026 14:24:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance",
-      "link": "https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews",
-      "published": "Mon, 12 Oct 2026 13:16:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Chinese Exports Soar in September",

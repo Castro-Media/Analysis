@@ -1,9 +1,21 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Oct. 13, 2026: Stocks Slip Despite Solid Wall Street Results",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 08:14:38 GMT",
+      "title": "Stock Market Today: Investors Await Inflation Report, Bank of America Misses Expectations",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 09:00:38 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Fund Managers Are Bullish—Watch Out",
+      "link": "https://www.wsj.com/finance/investing/fund-managers-are-bullishwatch-out-0597c06b?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 10:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
+      "link": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/bank-earnings-look-strong-but-markets-shrug-26533199?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 20:15:00 GMT",
       "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
-      "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 17:30:00 GMT",
-      "sentiment": 0.0875
-    },
-    {
-      "title": "For Stocks, the Future Ain’t What It Used to Be",
-      "link": "https://www.wsj.com/finance/investing/for-stocks-the-future-aint-what-it-used-to-be-5b210467?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 14:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Gulf Hurricane Not Big Enough to Reset Insurance Market",
@@ -103,40 +103,46 @@
       "sentiment": 0.2333333333333333
     },
     {
+      "title": "Storm May Not Provide Relief for Insurance Market",
+      "link": "https://www.wsj.com/finance/investing/storm-may-not-provide-relief-for-insurance-market-7e629b29?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 10:40:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1d895b75?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 10:36:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4f9f083f?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 10:27:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e9bd3bcd?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 10:17:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-23402b4f?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 10:12:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Third-Quarter Earnings Season Faces Challenge of Sky-High Expectations",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 09:25:00 GMT",
+      "sentiment": 0.11363636363636363
+    },
+    {
       "title": "Stock Futures Tick Higher, Treasurys Strengthen Ahead of Inflation Data",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-tick-higher-treasurys-strengthen-ahead-of-inflation-data-3fd584f5?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 08:41:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Galderma to Buy ZO Skin Health for $1.5 Billion",
-      "link": "https://www.wsj.com/business/deals/galderma-to-buy-zo-skin-health-for-1-5-billion-354ba9ff?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 07:38:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Treasury, Eurozone Yields Decline as Markets Look to U.S. Inflation Data",
-      "link": "https://www.wsj.com/economy/central-banking/treasury-eurozone-yields-fall-as-markets-look-to-u-s-inflation-data-412d95a4?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 18:47:00 GMT",
-      "sentiment": -0.6499999999999999
-    },
-    {
-      "title": "Municipal Bond Investors Face Elevated Risks From Rising Costs of Natural Disasters",
-      "link": "https://www.wsj.com/finance/investing/municipal-bond-investors-face-elevated-risks-from-rising-costs-of-natural-disasters-66404839?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 17:58:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "VC Firm Antares Ventures Raises Over $50 Million for Deep-Tech Investments",
-      "link": "https://www.wsj.com/pro/venture-capital/vc-firm-antares-ventures-raises-over-50-million-for-deep-tech-investments-76ba087a?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 14:44:00 GMT",
-      "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Earnings Momentum Likely to Support U.S. Equities Despite High Bond Yields",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 08:25:00 GMT",
-      "sentiment": 0.12454545454545456
     },
     {
       "title": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-0-amid-geopolitical-tensions-d5b509de?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 07:24:00 GMT",
       "sentiment": 0.22285714285714286
-    },
-    {
-      "title": "Asia Stocks Battered as Semiconductor Stocks Dive",
-      "link": "https://www.wsj.com/finance/stocks/asian-stocks-battered-as-geopolitical-tensions-sap-risk-appetite-5b3ebd81?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 05:50:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "European Indexes Slide as Tech, Industrials Drop",
@@ -199,16 +199,16 @@
       "sentiment": 0.14285714285714285
     },
     {
+      "title": "Morgan Stanley Raises Dated Brent Forecast on High Shipping Costs",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-6e2a3ee0?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 09:08:00 GMT",
+      "sentiment": 0.165
+    },
+    {
       "title": "Gold Steady Ahead of U.S. Inflation Data",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 08:21:00 GMT",
       "sentiment": 0.01560606060606059
-    },
-    {
-      "title": "Oil Rises Amid Ongoing Middle East Tensions",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-6e2a3ee0?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.19999999999999998
     },
     {
       "title": "Oil Futures Settle Mixed as Diesel’s Rise Helps Lift WTI",
@@ -229,16 +229,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Dollar Edges Lower as Treasury Yields Ease",
+      "title": "Euro Struggles to Regain Momentum, Falls to 16-Month Low Vs Sterling",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-993f6e8d?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 07:07:00 GMT",
-      "sentiment": -0.16666666666666666
+      "published": "Wed, 14 Oct 2026 10:27:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Falls 0.25% to 97.34",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-c51874b4?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 21:39:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Asia Stocks Battered as Semiconductor Stocks Dive",
+      "link": "https://www.wsj.com/finance/stocks/asian-stocks-battered-as-geopolitical-tensions-sap-risk-appetite-5b3ebd81?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 05:50:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Rises 0.21% to 97.58",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 09:14:00 GMT",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
-      "link": "https://www.wsj.com/finance/currencies/rupee-jumps-after-india-central-bank-unveils-currency-defense-measures-26b7caa0?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 07:18:00 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "Kalshi Examines Bets on Trump’s Pick for New White House Press Secretary",
@@ -289,6 +289,18 @@
       "sentiment": 0.05833333333333333
     },
     {
+      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
+      "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 17:30:00 GMT",
+      "sentiment": 0.0875
+    },
+    {
+      "title": "For Stocks, the Future Ain’t What It Used to Be",
+      "link": "https://www.wsj.com/finance/investing/for-stocks-the-future-aint-what-it-used-to-be-5b210467?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 14:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-trumps-diesel-deal-with-russia-faces-questions-from-lawmakers-on-legality-8394b1c2?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 11:30:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/frenzied-stock-options-trading-shows-individual-investors-are-still-hungry-for-risk-89ed24e5?mod=rss_markets_main",
       "published": "Mon, 12 Oct 2026 21:30:00 GMT",
       "sentiment": -0.0034090909090909102
-    },
-    {
-      "title": "Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them",
-      "link": "https://www.wsj.com/finance/retirement-savers-sue-dodgers-owner-mark-walter-saying-his-insurers-misled-them-f987d06a?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 20:39:00 GMT",
-      "sentiment": -0.31666666666666665
-    },
-    {
-      "title": "How Businesses Should Respond to Positive Online Reviews",
-      "link": "https://www.wsj.com/finance/investing/businesses-respond-positive-online-reviews-263d3580?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 19:20:00 GMT",
-      "sentiment": 0.07575757575757576
     },
     {
       "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",
