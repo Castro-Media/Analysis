@@ -1,25 +1,67 @@
 {
   "entries": [
     {
+      "title": "5 Costs That Jumped for Americans",
+      "link": "https://www.nytimes.com/2026/10/14/business/5-costs-that-jumped-for-americans.html",
+      "published": "Wed, 14 Oct 2026 14:45:48 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/heres-the-latest",
+      "published": "Wed, 14 Oct 2026 14:43:17 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy",
+      "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
+      "published": "Wed, 14 Oct 2026 14:40:41 +0000",
+      "sentiment": -0.04444444444444442
+    },
+    {
+      "title": "Rising Costs Push Necessities Out of Reach for Nearly Half of Americans",
+      "link": "https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html",
+      "published": "Wed, 14 Oct 2026 14:00:05 +0000",
+      "sentiment": -0.13958333333333334
+    },
+    {
+      "title": "Social Security COLA for 2027 Will Be 3.6%",
+      "link": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html",
+      "published": "Wed, 14 Oct 2026 14:31:11 +0000",
+      "sentiment": 0.008333333333333333
+    },
+    {
+      "title": "Gas Costs 34 Percent More Than a Year Ago",
+      "link": "https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html",
+      "published": "Wed, 14 Oct 2026 14:18:28 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Hollywood Agents and Producers Push to Restore Glory Days of Indie TV",
+      "link": "https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html",
+      "published": "Wed, 14 Oct 2026 13:00:06 +0000",
+      "sentiment": -0.007575757575757576
+    },
+    {
       "title": "What Allegations of Spying at OpenAI Mean for the A.I. Industry",
       "link": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
       "published": "Wed, 14 Oct 2026 12:39:24 +0000",
       "sentiment": -0.24062499999999998
     },
     {
-      "title": "Oil Prices Rise as Iran Steps Up Attacks and Fighting Intensifies",
+      "title": "Oil Prices Rise as Iran Steps Up Attacks and Houthi-Saudi Fighting Intensifies",
       "link": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
-      "published": "Wed, 14 Oct 2026 12:08:58 +0000",
+      "published": "Wed, 14 Oct 2026 13:08:40 +0000",
       "sentiment": 0.5
     },
     {
       "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/inflation-cpi",
-      "published": "Wed, 14 Oct 2026 12:49:26 +0000",
+      "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
+      "published": "Wed, 14 Oct 2026 13:19:33 +0000",
       "sentiment": 0.5
     },
     {
-      "title": "Trump’s Latest Effort to Fire a Fed Official Underscores Political Motives",
+      "title": "Trump’s Latest Effort to Fire Fed Governor Lisa Cook Underscores Political Motives",
       "link": "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html",
       "published": "Wed, 14 Oct 2026 09:02:27 +0000",
       "sentiment": 0.16666666666666666
@@ -33,13 +75,13 @@
     {
       "title": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
       "link": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
-      "published": "Wed, 14 Oct 2026 07:32:09 +0000",
+      "published": "Wed, 14 Oct 2026 13:41:22 +0000",
       "sentiment": 0.15656565656565655
     },
     {
       "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
       "link": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
-      "published": "Wed, 14 Oct 2026 04:50:55 +0000",
+      "published": "Wed, 14 Oct 2026 13:29:45 +0000",
       "sentiment": 0.0
     },
     {
@@ -256,48 +298,6 @@
       "title": "How Correspondent Banking Can Enable Sanctions Evasion",
       "link": "https://www.nytimes.com/2026/10/09/business/correspondent-banking-russia-sanctions-evasion.html",
       "published": "Fri, 09 Oct 2026 18:34:34 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi",
-      "link": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
-      "published": "Mon, 12 Oct 2026 12:58:46 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "The Fallout From OpenAI’s Revenue Surprise",
-      "link": "https://www.nytimes.com/2026/10/09/business/dealbook/openai-revenue-safety.html",
-      "published": "Fri, 09 Oct 2026 12:06:43 +0000",
-      "sentiment": -0.125
-    },
-    {
-      "title": "The Winning Stock Funds This Time Weren’t Tech. They Were Energy.",
-      "link": "https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html",
-      "published": "Fri, 09 Oct 2026 09:03:21 +0000",
-      "sentiment": -0.03333333333333328
-    },
-    {
-      "title": "Wayne Lawson, Vanity Fair’s ‘Secret Weapon,’ Has Died",
-      "link": "https://www.nytimes.com/2026/10/09/business/media/wayne-lawson-dead.html",
-      "published": "Fri, 09 Oct 2026 15:04:18 +0000",
-      "sentiment": 0.1333333333333333
-    },
-    {
-      "title": "What to Know About the Facebook Whistle-Blowing Case Depicted in ‘The Social Reckoning’",
-      "link": "https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html",
-      "published": "Fri, 09 Oct 2026 09:01:00 +0000",
-      "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Clara Wu Tsai, the Billionaire Who Wants Brooklyn to Win",
-      "link": "https://www.nytimes.com/2026/10/09/style/clara-wu-tsai-liberty-wnba.html",
-      "published": "Sat, 10 Oct 2026 18:45:20 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Judge Extends Pause on Trump’s Ban Against CNN, MS NOW and Politico",
-      "link": "https://www.nytimes.com/2026/10/08/business/media/cnn-msnow-politico-media-ban-trump.html",
-      "published": "Thu, 08 Oct 2026 20:54:49 +0000",
       "sentiment": 0.0
     }
   ]

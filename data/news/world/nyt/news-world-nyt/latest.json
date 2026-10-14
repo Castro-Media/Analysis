@@ -3,19 +3,25 @@
     {
       "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
       "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
-      "published": "Wed, 14 Oct 2026 11:29:59 +0000",
+      "published": "Wed, 14 Oct 2026 11:30:00 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Sudden Starlink Restrictions Deepen Ukraine’s Vulnerability as Russia Escalates",
+      "title": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
       "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-      "published": "Wed, 14 Oct 2026 12:39:00 +0000",
-      "sentiment": 0.19999999999999998
+      "published": "Wed, 14 Oct 2026 14:51:32 +0000",
+      "sentiment": 0.39999999999999997
     },
     {
-      "title": "A Pilgrim and a Retiree: Victims of the Houthi Airport Attack in Saudi Arabia",
+      "title": "Turkey Raids Pro-Opposition TV Station",
+      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "published": "Wed, 14 Oct 2026 13:18:06 +0000",
+      "sentiment": 0.1325
+    },
+    {
+      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
       "link": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
-      "published": "Wed, 14 Oct 2026 12:35:30 +0000",
+      "published": "Wed, 14 Oct 2026 14:15:31 +0000",
       "sentiment": 0.18333333333333332
     },
     {
@@ -33,13 +39,13 @@
     {
       "title": "Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing",
       "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
-      "published": "Wed, 14 Oct 2026 12:15:27 +0000",
+      "published": "Wed, 14 Oct 2026 12:15:28 +0000",
       "sentiment": -0.025
     },
     {
       "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
       "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
-      "published": "Wed, 14 Oct 2026 11:56:38 +0000",
+      "published": "Wed, 14 Oct 2026 14:22:17 +0000",
       "sentiment": -0.1
     },
     {
@@ -51,13 +57,13 @@
     {
       "title": "Dalí Book Cover Stolen in France",
       "link": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
-      "published": "Wed, 14 Oct 2026 09:02:26 +0000",
+      "published": "Wed, 14 Oct 2026 14:15:56 +0000",
       "sentiment": 0.0
     },
     {
       "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War",
       "link": "https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
-      "published": "Wed, 14 Oct 2026 04:01:07 +0000",
+      "published": "Wed, 14 Oct 2026 13:15:41 +0000",
       "sentiment": -0.25416666666666665
     },
     {
@@ -79,21 +85,15 @@
       "sentiment": 0.225
     },
     {
-      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
-      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-      "published": "Wed, 14 Oct 2026 00:56:54 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "Pope Leo’s Cancer Diagnosis: What Happens Next",
       "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
-      "published": "Wed, 14 Oct 2026 09:32:46 +0000",
+      "published": "Wed, 14 Oct 2026 14:29:07 +0000",
       "sentiment": -0.11666666666666667
     },
     {
       "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
       "link": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
-      "published": "Wed, 14 Oct 2026 04:50:55 +0000",
+      "published": "Wed, 14 Oct 2026 13:29:45 +0000",
       "sentiment": 0.0
     },
     {
@@ -127,10 +127,10 @@
       "sentiment": -0.3888888888888889
     },
     {
-      "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+      "title": "Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
-      "published": "Wed, 14 Oct 2026 01:49:34 +0000",
-      "sentiment": 0.14102564102564102
+      "published": "Wed, 14 Oct 2026 14:17:27 +0000",
+      "sentiment": 0.21153846153846154
     },
     {
       "title": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
@@ -151,9 +151,15 @@
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+      "published": "Wed, 14 Oct 2026 00:56:54 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-      "published": "Tue, 13 Oct 2026 21:17:35 +0000",
+      "published": "Wed, 14 Oct 2026 13:11:17 +0000",
       "sentiment": 0.025
     },
     {
@@ -317,12 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
       "published": "Mon, 12 Oct 2026 02:27:42 +0000",
       "sentiment": -0.14090909090909093
-    },
-    {
-      "title": "India’s Youth Protests Challenge Narendra Modi",
-      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-crackdown-narendra-modi.html",
-      "published": "Mon, 12 Oct 2026 03:41:37 +0000",
-      "sentiment": -0.05
     }
   ]
 }

@@ -1,21 +1,27 @@
 {
   "entries": [
     {
+      "title": "Talarico has an edge in nearly every poll, but the Texas Senate race is tightening.",
+      "link": "https://www.nytimes.com/live/2026/10/14/us/midterms-elections-trump/talarico-has-an-edge-in-nearly-every-poll-but-the-texas-senate-race-is-tightening",
+      "published": "Wed, 14 Oct 2026 14:47:12 +0000",
+      "sentiment": 0.1
+    },
+    {
       "title": "Corruption Trial Begins for Former Oakland Mayor and City Contractors",
       "link": "https://www.nytimes.com/2026/10/14/us/oakland-mayor-sheng-thao-corruption-trial.html",
-      "published": "Wed, 14 Oct 2026 12:24:48 +0000",
+      "published": "Wed, 14 Oct 2026 13:44:04 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Multiple People Killed in Wisconsin Plane Crash",
+      "title": "6 Dead in Wisconsin Plane Crash",
       "link": "https://www.nytimes.com/2026/10/14/us/wisconsin-plane-crash-dead.html",
-      "published": "Wed, 14 Oct 2026 12:09:04 +0000",
-      "sentiment": -0.06666666666666667
+      "published": "Wed, 14 Oct 2026 13:56:37 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html",
-      "published": "Wed, 14 Oct 2026 12:26:56 +0000",
+      "published": "Wed, 14 Oct 2026 12:26:57 +0000",
       "sentiment": -0.125
     },
     {
@@ -31,10 +37,10 @@
       "sentiment": 0.3
     },
     {
-      "title": "Becerra Is a Quiet Trailblazer for Latinos in California",
+      "title": "He’s Played It Safe. But He Could Make California History as Governor.",
       "link": "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html",
-      "published": "Wed, 14 Oct 2026 09:00:19 +0000",
-      "sentiment": 0.15833333333333333
+      "published": "Wed, 14 Oct 2026 13:36:02 +0000",
+      "sentiment": 0.24166666666666667
     },
     {
       "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C.",
@@ -63,7 +69,7 @@
     {
       "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html",
-      "published": "Wed, 14 Oct 2026 03:59:46 +0000",
+      "published": "Wed, 14 Oct 2026 13:51:47 +0000",
       "sentiment": 0.0
     },
     {
@@ -99,19 +105,19 @@
     {
       "title": "Texas Prosecutors May Seek Charges Against ICE Agent Who Hit Fleeing Man",
       "link": "https://www.nytimes.com/2026/10/13/us/houston-ice-ramming-man-suv.html",
-      "published": "Tue, 13 Oct 2026 21:00:52 +0000",
+      "published": "Tue, 13 Oct 2026 21:00:53 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
+      "title": "Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
-      "published": "Wed, 14 Oct 2026 01:49:34 +0000",
-      "sentiment": 0.14102564102564102
+      "published": "Wed, 14 Oct 2026 14:17:27 +0000",
+      "sentiment": 0.21153846153846154
     },
     {
       "title": "Miami Tugboat Captain Gets 18 Months in Crash That Killed 3 Children",
       "link": "https://www.nytimes.com/2026/10/13/us/florida-tugboat-captain-sentence.html",
-      "published": "Tue, 13 Oct 2026 21:55:51 +0000",
+      "published": "Tue, 13 Oct 2026 21:55:52 +0000",
       "sentiment": -0.1
     },
     {
@@ -136,24 +142,6 @@
       "title": "You have politics questions. We answer them.",
       "link": "https://www.nytimes.com/2026/10/13/us/you-have-politics-questions-we-answer-them.html",
       "published": "Tue, 13 Oct 2026 15:33:32 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "They Pushed an Anti-Abortion Pill Law. Now, They’re Being Sued Under It.",
-      "link": "https://www.nytimes.com/2026/10/13/us/texas-abortion-pill-students-for-life-america-lawsuit.html",
-      "published": "Tue, 13 Oct 2026 17:13:08 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Supreme Court Will Review Dispute Over Records From Elon Musk’s DOGE",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/supreme-court-doge-musk-public-records.html",
-      "published": "Tue, 13 Oct 2026 16:29:12 +0000",
-      "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
-      "published": "Wed, 14 Oct 2026 01:54:48 +0000",
       "sentiment": 0.0
     }
   ]
