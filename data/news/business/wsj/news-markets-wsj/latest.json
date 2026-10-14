@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Turn Lower as AI, Tech Shares Slump",
+      "title": "Stock Market Today: Treasury Yields Turn Lower as Stocks Slump",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 09:00:38 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.25
+    },
+    {
+      "title": "Inflation Runs Hot, Stocks Go Cold",
+      "link": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 20:21:00 GMT",
+      "sentiment": -0.31666666666666665
     },
     {
       "title": "Wall Street Worries Bank of America’s Problems Will Linger",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Failure of Australia’s Largest IPO in Decades Sends Tremors Through AI Trade",
-      "link": "https://www.wsj.com/finance/firmus-ipo-ai-trade-f490c240?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.07041666666666666
     },
     {
       "title": "Gulf Hurricane Not Big Enough to Reset Insurance Market",
@@ -103,6 +103,12 @@
       "sentiment": 0.2125
     },
     {
+      "title": "U.S. Stocks Fall On Hot Inflation Report, AI Sell-Off",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-on-hot-inflation-report-ai-sell-off-6c98113d?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 20:21:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Stocks Turn Lower as AI, Tech Shares Slump",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-tick-higher-treasurys-strengthen-ahead-of-inflation-data-3fd584f5?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 18:19:00 GMT",
@@ -127,12 +133,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
-      "link": "https://www.wsj.com/tech/globalfoundries-to-build-two-chip-fabs-with-up-to-21-billion-funding-e74083ac?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 14:54:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Berkshire Hathaway Builds 4% Stake in Bending Spoons",
       "link": "https://www.wsj.com/finance/stocks/berkshire-hathaway-builds-4-stake-in-bending-spoons-a9f97f44?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 15:32:00 GMT",
@@ -143,6 +143,12 @@
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 09:25:00 GMT",
       "sentiment": 0.11363636363636363
+    },
+    {
+      "title": "Failure of Australia’s Largest IPO in Decades Sends Tremors Through AI Trade",
+      "link": "https://www.wsj.com/finance/firmus-ipo-ai-trade-f490c240?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.07041666666666666
     },
     {
       "title": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
@@ -157,10 +163,10 @@
       "sentiment": 0.21666666666666667
     },
     {
-      "title": "This Investing Strategy Is So Good You Can’t Handle It",
-      "link": "https://www.wsj.com/finance/investing/this-investing-strategy-is-so-good-you-cant-handle-it-66a2fb16?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 10:35:00 GMT",
-      "sentiment": 0.7
+      "title": "Opinion | America Needs More Capital",
+      "link": "https://www.wsj.com/opinion/america-needs-more-capital-43428ee0?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 20:31:00 GMT",
+      "sentiment": 0.27878787878787875
     },
     {
       "title": "Opinion | Modernize and Reform the Recycling System",
@@ -193,22 +199,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | CFTC’s New Rules for Crypto",
-      "link": "https://www.wsj.com/opinion/cftcs-new-rules-for-crypto-a1314e87?mod=rss_markets_main",
-      "published": "Mon, 05 Oct 2026 15:30:00 GMT",
-      "sentiment": 0.13636363636363635
+      "title": "U.S. Natural Gas Futures Fall Ahead of Weekly Storage Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-give-back-gains-139a0acd?mod=rss_markets_main",
+      "published": "Wed, 14 Oct 2026 19:41:00 GMT",
+      "sentiment": 0.11499999999999999
     },
     {
       "title": "Precious Metals Sink As U.S. CPI Numbers Give Dollar A Lift",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 18:11:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "U.S. Natural Gas Futures Give Back Gains",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-give-back-gains-139a0acd?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 14:36:00 GMT",
-      "sentiment": 0.08888888888888889
     },
     {
       "title": "Morgan Stanley Raises Dated Brent Forecast on High Shipping Costs",
@@ -313,10 +313,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Individual Investors Are Trading at Meme-Stock Levels",
-      "link": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0?mod=rss_markets_main",
-      "published": "Mon, 12 Oct 2026 21:32:00 GMT",
-      "sentiment": 0.06818181818181818
+      "title": "This Investing Strategy Is So Good You Can’t Handle It",
+      "link": "https://www.wsj.com/finance/investing/this-investing-strategy-is-so-good-you-cant-handle-it-66a2fb16?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 10:35:00 GMT",
+      "sentiment": 0.7
     },
     {
       "title": "How Families Can Beat 7% Mortgage Rates and Lower Their Tax Bills",
@@ -331,16 +331,16 @@
       "sentiment": 0.175
     },
     {
-      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
-      "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 17:30:00 GMT",
-      "sentiment": 0.0875
-    },
-    {
       "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
       "link": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
+      "link": "https://www.wsj.com/finance/investing/higher-rates-are-coming-for-private-equityand-smaller-firms-are-already-hurting-754ada6c?mod=rss_markets_main",
+      "published": "Tue, 13 Oct 2026 17:30:00 GMT",
+      "sentiment": 0.0875
     },
     {
       "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",

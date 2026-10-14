@@ -1,9 +1,39 @@
 {
   "entries": [
     {
+      "title": "Fact-Checking Senate Debates in Georgia, Maine and Michigan",
+      "link": "https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html",
+      "published": "Wed, 14 Oct 2026 20:06:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Appeals Court Questions Trump’s National Guard Deployment in D.C.",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/appeals-court-national-guard-washington.html",
+      "published": "Wed, 14 Oct 2026 19:27:15 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Sleeping ICE Agent Who Fought With Homeowner Is Charged With Assault",
+      "link": "https://www.nytimes.com/2026/10/14/us/fresno-drunk-ice-agent.html",
+      "published": "Wed, 14 Oct 2026 19:23:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Maryland Republican Andy Harris Blamed Democrats for High Gas Prices. Laughter Ensued.",
+      "link": "https://www.nytimes.com/2026/10/14/us/andy-harris-maryland-republican-diesel.html",
+      "published": "Wed, 14 Oct 2026 19:17:35 +0000",
+      "sentiment": 0.16
+    },
+    {
+      "title": "Midterm Election Ad Spending Topped $10 Billion, and It’s Still Rising",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/midterms-ad-spending-10-billion.html",
+      "published": "Wed, 14 Oct 2026 19:08:37 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Is Sending Hundreds of Troops to Latin America",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
-      "published": "Wed, 14 Oct 2026 18:48:49 +0000",
+      "published": "Wed, 14 Oct 2026 19:00:26 +0000",
       "sentiment": -0.42500000000000004
     },
     {
@@ -55,15 +85,15 @@
       "sentiment": -0.125
     },
     {
-      "title": "Supreme Court Weighs Privacy Law From the Videotape Era of ‘Be Kind, Rewind’",
+      "title": "In Age of Online Ads, Supreme Court Weighs Videotape-Era Privacy Law",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/supreme-court-bork-video-privacy.html",
-      "published": "Wed, 14 Oct 2026 09:01:31 +0000",
-      "sentiment": 0.3
+      "published": "Wed, 14 Oct 2026 19:23:55 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "He’s Played It Safe. But He Could Make California History as Governor.",
       "link": "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html",
-      "published": "Wed, 14 Oct 2026 13:36:02 +0000",
+      "published": "Wed, 14 Oct 2026 20:28:34 +0000",
       "sentiment": 0.24166666666666667
     },
     {
@@ -111,7 +141,7 @@
     {
       "title": "Justice Dept. Issues Subpoenas in Ilhan Omar Investigation",
       "link": "https://www.nytimes.com/2026/10/13/us/politics/justice-dept-ilhan-omar-subpoenas.html",
-      "published": "Tue, 13 Oct 2026 22:40:20 +0000",
+      "published": "Wed, 14 Oct 2026 18:57:28 +0000",
       "sentiment": -0.4
     },
     {
@@ -129,32 +159,8 @@
     {
       "title": "Texas Prosecutors May Seek Charges Against ICE Agent Who Hit Fleeing Man",
       "link": "https://www.nytimes.com/2026/10/13/us/houston-ice-ramming-man-suv.html",
-      "published": "Tue, 13 Oct 2026 21:00:53 +0000",
+      "published": "Wed, 14 Oct 2026 19:27:24 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
-      "published": "Wed, 14 Oct 2026 14:17:27 +0000",
-      "sentiment": 0.21153846153846154
-    },
-    {
-      "title": "Miami Tugboat Captain Gets 18 Months in Crash That Killed 3 Children",
-      "link": "https://www.nytimes.com/2026/10/13/us/florida-tugboat-captain-sentence.html",
-      "published": "Tue, 13 Oct 2026 21:55:52 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "F.B.I. Disrupts Pyongyang Revenue Stream: North Koreans in U.S. Tech Jobs",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html",
-      "published": "Tue, 13 Oct 2026 19:04:22 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Judge Prohibits Further Tree Cutting at East Potomac Golf Course for Two Weeks",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-potomac-tree-cutting-golf-course.html",
-      "published": "Tue, 13 Oct 2026 18:56:56 +0000",
-      "sentiment": -0.17916666666666667
     }
   ]
 }
