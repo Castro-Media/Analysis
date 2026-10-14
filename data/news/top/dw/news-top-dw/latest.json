@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "Germany news: Merz sets out EU priorities after urging reforms",
+      "link": "https://www.dw.com/en/germany-news-merz-sets-out-eu-priorities-after-urging-reforms/live-79656436?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.20833333333333334
+    },
+    {
+      "title": "China's influence in the gaming industry is growing",
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.23035714285714284
+    },
+    {
+      "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+      "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
+      "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
+      "link": "https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.11287878787878787
+    },
+    {
       "title": "Trump announces plans for major oil, gas and mineral exploration in Greenland",
       "link": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-rdf",
       "published": null,
@@ -31,12 +61,6 @@
       "sentiment": 0.07900432900432901
     },
     {
-      "title": "Germany news: Nord Stream sabotage suspect's trial opens",
-      "link": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.10500000000000001
-    },
-    {
       "title": "Iran: Political infighting deepens as economic woes mount during war",
       "link": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf",
       "published": null,
@@ -46,7 +70,7 @@
       "title": "India news: 'Cockroach' leaders sent to judicial custody amid protest crackdown",
       "link": "https://www.dw.com/en/india-news-cockroach-leaders-sent-to-judicial-custody-amid-protest-crackdown/live-79656344?maca=en-rss-en-all-1573-rdf",
       "published": null,
-      "sentiment": 0.06875
+      "sentiment": -0.075
     },
     {
       "title": "US judge extends media outlets' White House access",
@@ -101,30 +125,6 @@
       "link": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-rdf",
       "published": null,
       "sentiment": -0.1
-    },
-    {
-      "title": "Iran seeking 'harder targets' for attacks abroad, UK warns",
-      "link": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": -0.17142857142857143
-    },
-    {
-      "title": "How will emergency rule in Pakistan's northwest affect Afghan ties?",
-      "link": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "Saudi Arabia's military struggle against Houthi attacks",
-      "link": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
-      "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.0
     },
     {
       "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
@@ -223,7 +223,7 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Germany's population is shrinking but not everywhere",
+      "title": "Germany's population is shrinking, but not everywhere",
       "link": "https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf",
       "published": null,
       "sentiment": 0.19444444444444442
@@ -557,6 +557,12 @@
       "link": "https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-rdf",
       "published": null,
       "sentiment": 0.25
+    },
+    {
+      "title": "Germans' biggest fear is the high cost of living, an annual study finds",
+      "link": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.04000000000000001
     },
     {
       "title": "Senegal's Youth Olympics makes Olympics in Africa 'logical'",
