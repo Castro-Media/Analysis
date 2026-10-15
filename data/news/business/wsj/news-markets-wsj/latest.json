@@ -4,7 +4,13 @@
       "title": "Stock Market Today: Investors Boost Dow, Treasurys as They Rotate Out of Tech",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
       "published": "Thu, 15 Oct 2026 08:17:42 GMT",
-      "sentiment": -0.2
+      "sentiment": 0.0
+    },
+    {
+      "title": "University Endowments Land Biggest Returns Since 2021 on SpaceX, AI Gains",
+      "link": "https://www.wsj.com/finance/investing/university-endowments-land-biggest-returns-since-2021-on-spacex-ai-gains-e315c0e4?mod=rss_markets_main",
+      "published": "Thu, 15 Oct 2026 17:10:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Mark Walter Probe Dings a Guggenheim Funding Machine That Powers Wall Street",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=rss_markets_main",
       "published": "Thu, 15 Oct 2026 02:00:00 GMT",
       "sentiment": 0.04
-    },
-    {
-      "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
-      "link": "https://www.wsj.com/tech/ai/anthropics-quarterly-revenue-jumped-45-to-nearly-17-billion-1c7e28b8?mod=rss_markets_main",
-      "published": "Thu, 15 Oct 2026 00:17:00 GMT",
-      "sentiment": 0.03333333333333333
     },
     {
       "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
@@ -133,10 +133,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "Worries About AI Borrowing Push Investors Toward Dow Industrials, Treasurys",
+      "title": "Gold Futures Settle Higher As U.S. Yields, Dollar Fall",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-possible-technical-correction-28090dcd?mod=rss_markets_main",
+      "published": "Thu, 15 Oct 2026 18:48:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Dow Industrials, Treasurys Rise as Investors Rotate Out of Tech",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-global-ai-selloff-gathers-pace-da79ad4d?mod=rss_markets_main",
-      "published": "Thu, 15 Oct 2026 16:38:00 GMT",
-      "sentiment": 0.0
+      "published": "Thu, 15 Oct 2026 18:17:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Global Tech Stocks Slump as AI Rout Intensifies",
@@ -155,18 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 21:13:00 GMT",
       "sentiment": -0.2833333333333333
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e9bd3bcd?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 20:58:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Gold Futures Extend Gains As U.S. Yields, Dollar Decline",
-      "link": "https://www.wsj.com/opinion/gold-rises-on-possible-technical-correction-28090dcd?mod=rss_markets_main",
-      "published": "Thu, 15 Oct 2026 16:10:00 GMT",
-      "sentiment": 0.42777777777777776
     },
     {
       "title": "Opinion | The End of the Libor Fraud Persecution",
@@ -199,6 +193,18 @@
       "sentiment": 0.04999999999999999
     },
     {
+      "title": "Opinion | Covid, Climate and the ‘Consensus Trap’",
+      "link": "https://www.wsj.com/opinion/covid-climate-and-the-consensus-trap-2c91d57f?mod=rss_markets_main",
+      "published": "Mon, 05 Oct 2026 19:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Crude Futures Extend Gains on Big Inventory Draw",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-position-adjustments-728cc0b6?mod=rss_markets_main",
+      "published": "Thu, 15 Oct 2026 17:14:00 GMT",
+      "sentiment": -0.27999999999999997
+    },
+    {
       "title": "U.S. Crude Oil Stockpiles Post Large Weekly Drop",
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-large-weekly-drop-0a988c08?mod=rss_markets_main",
       "published": "Thu, 15 Oct 2026 16:53:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/antofagasta-copper-production-rises-61a9bf89?mod=rss_markets_main",
       "published": "Thu, 15 Oct 2026 09:00:00 GMT",
       "sentiment": 0.041666666666666664
-    },
-    {
-      "title": "Oil Falls Despite Hormuz Shipping Attacks, Houthi Strikes on Saudi Arabia",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-position-adjustments-728cc0b6?mod=rss_markets_main",
-      "published": "Thu, 15 Oct 2026 07:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -289,6 +289,12 @@
       "sentiment": -0.010101010101010102
     },
     {
+      "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
+      "link": "https://www.wsj.com/tech/ai/anthropics-quarterly-revenue-jumped-45-to-nearly-17-billion-1c7e28b8?mod=rss_markets_main",
+      "published": "Thu, 15 Oct 2026 00:17:00 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "Inflation Runs Hot, Stocks Go Cold",
       "link": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 20:21:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-51c2b458?mod=rss_markets_main",
       "published": "Tue, 13 Oct 2026 20:57:00 GMT",
       "sentiment": 0.2125
-    },
-    {
-      "title": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
-      "link": "https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 20:42:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
