@@ -1,15 +1,33 @@
 {
   "entries": [
     {
+      "title": "Trump Says Those Who Leak Military Plans Should Be Shot",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-media-leaks-shot-rally.html",
+      "published": "Thu, 15 Oct 2026 01:59:06 +0000",
+      "sentiment": 0.075
+    },
+    {
+      "title": "3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html",
+      "published": "Thu, 15 Oct 2026 01:56:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
+      "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
+      "published": "Thu, 15 Oct 2026 02:08:59 +0000",
+      "sentiment": 0.20833333333333334
+    },
+    {
       "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-      "published": "Thu, 15 Oct 2026 00:45:41 +0000",
+      "published": "Thu, 15 Oct 2026 02:49:29 +0000",
       "sentiment": 0.11818181818181818
     },
     {
       "title": "How Trump Voters Feel About High Grocery Prices Ahead of The Midterms",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html",
-      "published": "Thu, 15 Oct 2026 00:55:40 +0000",
+      "published": "Thu, 15 Oct 2026 01:56:35 +0000",
       "sentiment": 0.16
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html",
       "published": "Wed, 14 Oct 2026 16:59:11 +0000",
       "sentiment": 0.16571428571428576
-    },
-    {
-      "title": "7 Takeaways From the Second Georgia Senate Debate",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/georgia-senate-debate-ossoff-collins.html",
-      "published": "Wed, 14 Oct 2026 21:27:33 +0000",
-      "sentiment": -0.02
-    },
-    {
-      "title": "5 Takeaways From a Heated and Personal Maine Senate Debate",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/maine-senate-debate-collins-jackson.html",
-      "published": "Wed, 14 Oct 2026 13:51:47 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-      "published": "Wed, 14 Oct 2026 00:12:23 +0000",
-      "sentiment": 0.0
     }
   ]
 }

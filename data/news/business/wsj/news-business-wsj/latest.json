@@ -1,7 +1,13 @@
 {
   "entries": [
     {
-      "title": "YouTube is Looking to Expand Into Audiobooks",
+      "title": "White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam",
+      "link": "https://www.wsj.com/business/media/white-house-press-secretary-katie-zacharia-didnt-pass-bar-exam-714a484e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 01:32:00 GMT",
+      "sentiment": -0.05555555555555555
+    },
+    {
+      "title": "YouTube Is Looking to Expand Into Audiobooks",
       "link": "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 23:05:00 GMT",
       "sentiment": 0.0
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 20:55:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "What ‘Macbeth’ Can Teach Us About Avoiding Financial Fraud",
-      "link": "https://www.wsj.com/business/macbeth-shakespeare-financial-fraud-lessons-021cc815?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 19:51:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Ambani’s Jio Seeks $108 Billion Valuation in Landmark India IPO",
+      "link": "https://www.wsj.com/business/telecom/ambanis-jio-seeks-108-billion-valuation-in-landmark-india-ipo-29e18192?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e9bd3bcd?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 20:58:00 GMT",
@@ -394,12 +400,6 @@
       "title": "CSG Sets Sights on Space With Around $434 Million Stake in Canada’s MDA Space",
       "link": "https://www.wsj.com/finance/investing/csg-buys-largest-stake-in-canadas-mda-space-to-enter-space-sector-07fa370d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 09:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Melrose Industries Says GKN Aerospace Reaches $125 Million Settlement in Chemicals Case",
-      "link": "https://www.wsj.com/business/telecom/melrose-industries-says-gkn-aerospace-reaches-125-million-settlement-in-chemicals-case-1d07f6f1?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 09:25:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -433,6 +433,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "What ‘Macbeth’ Can Teach Us About Avoiding Financial Fraud",
+      "link": "https://www.wsj.com/business/macbeth-shakespeare-financial-fraud-lessons-021cc815?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 19:51:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1d895b75?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 16:26:00 GMT",
@@ -457,10 +463,10 @@
       "sentiment": 0.06212121212121211
     },
     {
-      "title": "EU Accepts Sanofi’s Concessions to End Antitrust Probe Over Vaccine Marketing",
-      "link": "https://www.wsj.com/business/eu-accepts-sanofis-concessions-to-settle-antitrust-probe-over-vaccine-marketing-a07a2a95?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 08:55:00 GMT",
-      "sentiment": -0.125
+      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
+      "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 13:07:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
@@ -469,28 +475,22 @@
       "sentiment": -0.05
     },
     {
-      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
-      "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 13:07:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "To Get This Job at McKinsey, You’ll Need to Survive a Debate With AI First",
       "link": "https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 10:00:00 GMT",
       "sentiment": 0.06212121212121211
     },
     {
-      "title": "Albertsons Just Slapped a ‘For Sale’ Sign on Itself—Again",
-      "link": "https://www.wsj.com/business/retail/albertsons-just-slapped-a-for-sale-sign-on-itselfagain-298d13f4?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 21:42:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "Berkshire Hathaway Builds 4% Stake in Bending Spoons",
       "link": "https://www.wsj.com/finance/stocks/berkshire-hathaway-builds-4-stake-in-bending-spoons-a9f97f44?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 15:32:00 GMT",
       "sentiment": 0.3
+    },
+    {
+      "title": "Albertsons Just Slapped a ‘For Sale’ Sign on Itself—Again",
+      "link": "https://www.wsj.com/business/retail/albertsons-just-slapped-a-for-sale-sign-on-itselfagain-298d13f4?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 13 Oct 2026 21:42:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Best Small-Business Loans in October 2026",
