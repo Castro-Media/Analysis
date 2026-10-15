@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Wholesale Inflation Hit 4-Year High in September",
+      "link": "https://www.wsj.com/economy/central-banking/wholesale-inflation-hit-4-year-high-in-september-e1754eee?mod=rss_socialeconomyfeed",
+      "published": "Thu, 15 Oct 2026 13:01:00 GMT",
+      "sentiment": 0.25333333333333335
+    },
+    {
+      "title": "U.S. Retail Sales Expanded in September",
+      "link": "https://www.wsj.com/economy/u-s-retail-sales-expanded-in-september-f1d83384?mod=rss_socialeconomyfeed",
+      "published": "Thu, 15 Oct 2026 12:59:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "U.S. Jobless Claims Edge Up, Snap 5-Week Skid",
+      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-edge-up-snap-5-week-skid-c99e95d5?mod=rss_socialeconomyfeed",
+      "published": "Thu, 15 Oct 2026 12:55:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Eurozone Industrial Resilience Falters as Energy Shock Bites",
       "link": "https://www.wsj.com/world/europe/eurozone-industrial-output-continued-to-decline-in-august-55722fb3?mod=rss_socialeconomyfeed",
       "published": "Thu, 15 Oct 2026 10:43:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/economy/u-k-economy-continues-growth-path-helped-by-industry-a3e7497f?mod=rss_socialeconomyfeed",
       "published": "Thu, 15 Oct 2026 09:26:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Asia’s Uneven Economic Resilience Faces Stress Tests, IMF Says",
-      "link": "https://www.wsj.com/economy/asias-uneven-economic-resilience-faces-stress-tests-imf-says-1a158927?mod=rss_socialeconomyfeed",
-      "published": "Thu, 15 Oct 2026 02:35:00 GMT",
-      "sentiment": 0.1285714285714286
-    },
-    {
-      "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
-      "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
-      "published": "Wed, 14 Oct 2026 18:39:00 GMT",
-      "sentiment": 0.02407407407407408
-    },
-    {
-      "title": "Inflation picked up in September, with consumer prices rising 3.7% in September from a year earlier, in a sign that high energy prices are tightening their squeeze on consumers",
-      "link": "https://www.wsj.com/economy/cpi-inflation-report-september-2026-b2037469?mod=rss_socialeconomyfeed",
-      "published": "Wed, 14 Oct 2026 16:32:00 GMT",
-      "sentiment": 0.08
     },
     {
       "title": "IMF Warns Governments Against Reliance on Short-Term Debt",
@@ -157,6 +157,12 @@
       "sentiment": -0.07013888888888889
     },
     {
+      "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
+      "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
+      "published": "Wed, 14 Oct 2026 18:39:00 GMT",
+      "sentiment": 0.02407407407407408
+    },
+    {
       "title": "AI Investment Boom to Drive Fastest Global Trade Growth Since Financial Crisis, WTO Forecasts",
       "link": "https://www.wsj.com/economy/trade/ai-investment-boom-to-drive-fastest-global-trade-growth-since-financial-crisis-wto-forecasts-ef3b309f?mod=rss_socialeconomyfeed",
       "published": "Thu, 08 Oct 2026 13:10:00 GMT",
@@ -179,12 +185,6 @@
       "link": "https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372?mod=rss_socialeconomyfeed",
       "published": "Tue, 06 Oct 2026 14:49:00 GMT",
       "sentiment": 0.035
-    },
-    {
-      "title": "U.S. imports were higher than exports by about $106 billion in August",
-      "link": "https://www.wsj.com/economy/trade/u-s-trade-deficit-widens-to-largest-level-in-more-than-a-year-32618af7?mod=rss_socialeconomyfeed",
-      "published": "Tue, 06 Oct 2026 14:48:00 GMT",
-      "sentiment": 0.07500000000000001
     },
     {
       "title": "Canada Jobless Rate Edges Up With Another Drop in Employment",
