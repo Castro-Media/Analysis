@@ -1,13 +1,49 @@
 {
   "entries": [
     {
+      "title": "Democratic Senators Move to Block U.S.-Saudi Nuclear Deal",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/senators-saudi-nuclear-deal.html",
+      "published": "Thu, 15 Oct 2026 14:29:31 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Cancels Planned Livestream of Fort Hood Shooter’s Execution",
+      "link": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html",
+      "published": "Thu, 15 Oct 2026 14:40:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html",
+      "published": "Thu, 15 Oct 2026 14:47:51 +0000",
+      "sentiment": -0.013095238095238097
+    },
+    {
+      "title": "‘The Call’ explains why cattle farmers feel disillusioned before the midterms.",
+      "link": "https://www.nytimes.com/live/2026/10/15/us/midterms-elections/the-call-explains-why-cattle-farmers-feel-disillusioned-before-the-midterms",
+      "published": "Thu, 15 Oct 2026 13:34:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In Kansas, they know Adam Hamilton as a pastor first and a politician second.",
+      "link": "https://www.nytimes.com/live/2026/10/15/us/midterms-elections/in-kansas-they-know-adam-hamilton-as-a-pastor-first-and-a-politician-second",
+      "published": "Thu, 15 Oct 2026 13:48:31 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "These Legislatures Could See Big Changes in November",
+      "link": "https://www.nytimes.com/2026/10/15/us/elections/state-legislature-flip-control-election.html",
+      "published": "Thu, 15 Oct 2026 13:07:09 +0000",
+      "sentiment": 0.22
+    },
+    {
       "title": "Elon Musk and Other Donors Pile $94 Million Into House Republican Effort",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/elon-musk-timothy-mellon-house-republicans.html",
       "published": "Thu, 15 Oct 2026 12:52:05 +0000",
       "sentiment": 0.24166666666666664
     },
     {
-      "title": "Glitch Delays 600,000 Voter Registrations in Texas as Early Voting Looms",
+      "title": "As Early Midterm Voting Looms, a Glitch Delays 600,000 Texas Voter Registrations",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html",
       "published": "Thu, 15 Oct 2026 09:05:35 +0000",
       "sentiment": 0.03333333333333333
@@ -33,7 +69,7 @@
     {
       "title": "Migrant Children Without Lawyers Face Fast-Tracked Deportations Alone",
       "link": "https://www.nytimes.com/2026/10/15/us/lawyers-unaccompanied-migrant-children-deportations.html",
-      "published": "Thu, 15 Oct 2026 09:01:29 +0000",
+      "published": "Thu, 15 Oct 2026 14:54:16 +0000",
       "sentiment": 0.15
     },
     {
@@ -43,9 +79,9 @@
       "sentiment": 0.024999999999999994
     },
     {
-      "title": "How Adam Hamilton Built a Megachurch Where People Can Disagree",
+      "title": "A Megachurch Pastor is Running for Senate. Will Democrats Vote for Him?",
       "link": "https://www.nytimes.com/2026/10/15/us/adam-hamilton-religious-democrats-candidates.html",
-      "published": "Thu, 15 Oct 2026 09:00:10 +0000",
+      "published": "Thu, 15 Oct 2026 14:50:21 +0000",
       "sentiment": 0.5
     },
     {
@@ -63,13 +99,13 @@
     {
       "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
-      "published": "Thu, 15 Oct 2026 02:08:59 +0000",
+      "published": "Thu, 15 Oct 2026 02:09:00 +0000",
       "sentiment": 0.20833333333333334
     },
     {
       "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-      "published": "Thu, 15 Oct 2026 08:00:08 +0000",
+      "published": "Thu, 15 Oct 2026 14:05:12 +0000",
       "sentiment": 0.11818181818181818
     },
     {
@@ -117,7 +153,7 @@
     {
       "title": "Rhode Island Farmer Grows Record-Breaking Pumpkin",
       "link": "https://www.nytimes.com/2026/10/14/us/rhode-island-giant-pumpkin-world-record.html",
-      "published": "Wed, 14 Oct 2026 23:28:37 +0000",
+      "published": "Thu, 15 Oct 2026 14:45:36 +0000",
       "sentiment": 0.5681818181818181
     },
     {
@@ -141,7 +177,7 @@
     {
       "title": "Sleeping ICE Agent Who Fought With Homeowner Is Charged With Assault",
       "link": "https://www.nytimes.com/2026/10/14/us/fresno-drunk-ice-agent.html",
-      "published": "Wed, 14 Oct 2026 19:23:09 +0000",
+      "published": "Wed, 14 Oct 2026 19:23:10 +0000",
       "sentiment": 0.0
     },
     {
@@ -179,12 +215,6 @@
       "link": "https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html",
       "published": "Wed, 14 Oct 2026 16:13:42 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Talarico has an edge in nearly every poll, but the Texas Senate race is tightening.",
-      "link": "https://www.nytimes.com/live/2026/10/14/us/midterms-elections-trump/talarico-has-an-edge-in-nearly-every-poll-but-the-texas-senate-race-is-tightening",
-      "published": "Wed, 14 Oct 2026 14:47:12 +0000",
-      "sentiment": 0.1
     }
   ]
 }
