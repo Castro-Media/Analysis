@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "An Angry Judge and a Maybe-Lawyer in the Briefing Room",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/the-docket-legal-news-roundup.html",
+      "published": "Thu, 15 Oct 2026 16:05:47 +0000",
+      "sentiment": -0.18333333333333335
+    },
+    {
       "title": "James Talarico Raises Quarterly Record of $64 Million in Texas Senate Race Against Ken Paxton",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/james-talarico-fundraising-texas-senate.html",
       "published": "Thu, 15 Oct 2026 15:42:09 +0000",
@@ -13,7 +19,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump Cancels Planned Livestream of Fort Hood Shooter’s Execution",
+      "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
       "link": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html",
       "published": "Thu, 15 Oct 2026 15:16:25 +0000",
       "sentiment": 0.0
@@ -63,8 +69,8 @@
     {
       "title": "Why Are Migrant Children in Court Without a Lawyer?",
       "link": "https://www.nytimes.com/video/us/100000011180523/why-are-migrant-children-in-court-without-a-lawyer.html",
-      "published": "Thu, 15 Oct 2026 10:33:33 +0000",
-      "sentiment": 0.35
+      "published": "Thu, 15 Oct 2026 16:40:14 +0000",
+      "sentiment": 0.39999999999999997
     },
     {
       "title": "As Texas Schools Add Police Officers to Campuses, Some Students Are Facing Serious Charges",
@@ -73,10 +79,10 @@
       "sentiment": 0.08333333333333334
     },
     {
-      "title": "Migrant Children Without Lawyers Face Fast-Tracked Deportations Alone",
+      "title": "Thousands of Immigrant Children, Alone and in Court, Face Deportation",
       "link": "https://www.nytimes.com/2026/10/15/us/lawyers-unaccompanied-migrant-children-deportations.html",
-      "published": "Thu, 15 Oct 2026 14:54:16 +0000",
-      "sentiment": 0.15
+      "published": "Thu, 15 Oct 2026 16:28:53 +0000",
+      "sentiment": 0.24
     },
     {
       "title": "Caskets on the River: The Story of an American Disaster",
@@ -93,7 +99,7 @@
     {
       "title": "Trump Says Those Who Leak Military Plans Should Be Shot",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-media-leaks-shot-rally.html",
-      "published": "Thu, 15 Oct 2026 01:59:06 +0000",
+      "published": "Thu, 15 Oct 2026 16:21:10 +0000",
       "sentiment": 0.075
     },
     {
@@ -111,7 +117,7 @@
     {
       "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-      "published": "Thu, 15 Oct 2026 14:05:12 +0000",
+      "published": "Thu, 15 Oct 2026 14:05:13 +0000",
       "sentiment": 0.11818181818181818
     },
     {
@@ -147,7 +153,7 @@
     {
       "title": "Surprise Democratic Donor Blitzes Senate Races in Republican-Leaning States With Ads",
       "link": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
-      "published": "Wed, 14 Oct 2026 22:56:22 +0000",
+      "published": "Wed, 14 Oct 2026 22:56:23 +0000",
       "sentiment": 0.0
     },
     {
@@ -183,7 +189,7 @@
     {
       "title": "Sleeping ICE Agent Who Fought With Homeowner Is Charged With Assault",
       "link": "https://www.nytimes.com/2026/10/14/us/fresno-drunk-ice-agent.html",
-      "published": "Wed, 14 Oct 2026 19:23:10 +0000",
+      "published": "Thu, 15 Oct 2026 16:30:36 +0000",
       "sentiment": 0.0
     },
     {
@@ -203,12 +209,6 @@
       "link": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
       "published": "Wed, 14 Oct 2026 22:49:04 +0000",
       "sentiment": -0.42500000000000004
-    },
-    {
-      "title": "Jon Ossoff Says He Won’t Run for President in 2028 in Georgia Senate Debate",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/jon-ossoff-georgia-senate-term-president.html",
-      "published": "Wed, 14 Oct 2026 15:57:50 +0000",
-      "sentiment": 0.0
     }
   ]
 }
