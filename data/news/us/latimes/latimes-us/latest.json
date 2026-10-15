@@ -1,16 +1,16 @@
 {
   "entries": [
     {
-      "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
-      "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.23376623376623376
+      "title": "In 100th lawsuit against Trump, California challenges immigration arrests near courthouses",
+      "link": "https://www.latimes.com/politics/story/2026-10-15/california-files-100th-lawsuit-against-trump-administration",
+      "published": "Thu, 15 Oct 2026 17:41:13 GMT",
+      "sentiment": 0.15
     },
     {
-      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
-      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
+      "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
+      "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4318181818181818
+      "sentiment": 0.15666666666666668
     },
     {
       "title": "As Santa Ana winds bear down, officials shutter parks to avoid sparking a fire: Here's what's closed",
@@ -19,10 +19,16 @@
       "sentiment": -0.0961111111111111
     },
     {
-      "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
-      "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
+      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
+      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15666666666666668
+      "sentiment": -0.4318181818181818
+    },
+    {
+      "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
+      "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.23376623376623376
     },
     {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",
@@ -151,16 +157,16 @@
       "sentiment": -0.1875
     },
     {
-      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09500000000000001
-    },
-    {
       "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
       "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
       "published": "Wed, 14 Oct 2026 10:00:00 GMT",
       "sentiment": 0.39166666666666666
+    },
+    {
+      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09500000000000001
     },
     {
       "title": "Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate",
@@ -235,12 +241,6 @@
       "sentiment": -0.018518518518518517
     },
     {
-      "title": "L.A. nonprofit rented luxury Santa Monica apartment, BMW for CEO living in Hawaii",
-      "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "L.A. community horrified after beloved dog found hanging from leash. 'No words can describe it'",
       "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
@@ -251,6 +251,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": -0.4
+    },
+    {
+      "title": "L.A. nonprofit rented luxury Santa Monica apartment, BMW for CEO living in Hawaii",
+      "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Former police officers, daughter killed in suspected murder-suicide in upscale California neighborhood",
@@ -271,18 +277,6 @@
       "sentiment": -0.05555555555555555
     },
     {
-      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
-      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05277777777777778
-    },
-    {
-      "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
-      "link": "https://www.latimes.com/lifestyle/story/2026-10-12/griffith-park-merry-go-round-restoration",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
       "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
       "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
@@ -293,6 +287,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": -0.056666666666666664
+    },
+    {
+      "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
+      "link": "https://www.latimes.com/lifestyle/story/2026-10-12/griffith-park-merry-go-round-restoration",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
+      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05277777777777778
     },
     {
       "title": "2 children fatally shot in attempted murder-suicide in Pico-Union",
@@ -349,22 +355,22 @@
       "sentiment": 0.375
     },
     {
-      "title": "Iowa fugitive worked as a chef in San Diego under an alias for more than a decade",
-      "link": "https://www.latimes.com/california/story/2026-10-10/iowa-fugitive-worked-as-san-diego-chef-under-alias-for-decade",
-      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Lopez: They were homeless, but turned their lives around. Here's how they did it",
       "link": "https://www.latimes.com/california/story/2026-10-10/they-were-homeless-but-turned-their-lives-around-heres-how-they-did-it",
       "published": "Sat, 10 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
-      "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
+      "title": "Iowa fugitive worked as a chef in San Diego under an alias for more than a decade",
+      "link": "https://www.latimes.com/california/story/2026-10-10/iowa-fugitive-worked-as-san-diego-chef-under-alias-for-decade",
+      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
+      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24
+      "sentiment": -0.18181818181818182
     },
     {
       "title": "Tropical Storm Rachel is behaving in unusual ways. What that means for SoCal this weekend",
@@ -373,10 +379,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
-      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
+      "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
+      "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.18181818181818182
+      "sentiment": -0.24
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
@@ -439,18 +445,6 @@
       "sentiment": 0.21212121212121213
     },
     {
-      "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
-      "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.06388888888888888
-    },
-    {
-      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
-      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
       "title": "Southern California braces for Tropical Storm Rachel. 'This is not even the worst,' official says",
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -473,6 +467,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09523809523809523
+    },
+    {
+      "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
+      "link": "https://www.latimes.com/california/story/2026-10-09/socal-business-owner-allegedly-hid-cameras-in-bathroom-and-shoe",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Mexican Mafia suspects charged with shaking down L.A. County business, ordering shooting",
+      "link": "https://www.latimes.com/california/story/2026-10-09/mexican-mafia-suspects-charged-la-county-extortion-shooting",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.06388888888888888
     },
     {
       "title": "Crews make progress against Danny fire in the Grapevine; I-5 open in both directions",
@@ -563,12 +569,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-08/ice-detainees-who-were-sprayed-with-cleaning-agent-reach-settlement",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
-      "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
     },
     {
       "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",

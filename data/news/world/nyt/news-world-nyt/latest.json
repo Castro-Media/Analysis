@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+      "published": "Thu, 15 Oct 2026 18:18:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Second Ebola Infection Announced in Kenya",
+      "link": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+      "published": "Thu, 15 Oct 2026 17:38:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Yemen Says Prime Minister Unhurt After Iran-Backed Houthis Strike Palace",
+      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+      "published": "Thu, 15 Oct 2026 17:41:28 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Violent Protests in Albania",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
+      "published": "Thu, 15 Oct 2026 16:20:51 +0000",
+      "sentiment": -0.8
+    },
+    {
       "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
       "link": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
       "published": "Thu, 15 Oct 2026 16:05:20 +0000",
@@ -15,7 +39,7 @@
     {
       "title": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
       "link": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html",
-      "published": "Thu, 15 Oct 2026 11:54:35 +0000",
+      "published": "Thu, 15 Oct 2026 17:02:49 +0000",
       "sentiment": -0.08518518518518518
     },
     {
@@ -27,7 +51,7 @@
     {
       "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
       "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
-      "published": "Thu, 15 Oct 2026 14:06:33 +0000",
+      "published": "Thu, 15 Oct 2026 17:00:51 +0000",
       "sentiment": -0.3666666666666667
     },
     {
@@ -61,36 +85,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Turkey Raids Pro-Opposition TV Station",
-      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
-      "published": "Wed, 14 Oct 2026 17:00:41 +0000",
-      "sentiment": 0.015625
-    },
-    {
-      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
-      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
-      "published": "Wed, 14 Oct 2026 14:15:31 +0000",
-      "sentiment": 0.18333333333333332
-    },
-    {
-      "title": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
-      "published": "Wed, 14 Oct 2026 09:28:59 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Mexico Bans Violent Content on Social Media for Children",
-      "link": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
-      "published": "Thu, 15 Oct 2026 02:03:03 +0000",
-      "sentiment": -0.2555555555555556
-    },
-    {
-      "title": "Violent Protests in Albania",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
-      "published": "Thu, 15 Oct 2026 16:20:51 +0000",
-      "sentiment": -0.8
-    },
-    {
       "title": "Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction",
       "link": "https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html",
       "published": "Thu, 15 Oct 2026 13:29:13 +0000",
@@ -107,6 +101,12 @@
       "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
       "published": "Thu, 15 Oct 2026 14:51:18 +0000",
       "sentiment": -0.2
+    },
+    {
+      "title": "Mexico Bans Violent Content on Social Media for Children",
+      "link": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
+      "published": "Thu, 15 Oct 2026 02:03:03 +0000",
+      "sentiment": -0.2555555555555556
     },
     {
       "title": "Angry Youth in Aging Europe",
@@ -133,6 +133,12 @@
       "sentiment": -0.03888888888888889
     },
     {
+      "title": "Turkey Raids Pro-Opposition TV Station",
+      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+      "published": "Wed, 14 Oct 2026 17:00:41 +0000",
+      "sentiment": 0.015625
+    },
+    {
       "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
       "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
       "published": "Wed, 14 Oct 2026 15:42:26 +0000",
@@ -155,6 +161,18 @@
       "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
       "published": "Thu, 15 Oct 2026 14:13:05 +0000",
       "sentiment": 0.024999999999999994
+    },
+    {
+      "title": "‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport",
+      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
+      "published": "Wed, 14 Oct 2026 14:15:31 +0000",
+      "sentiment": 0.18333333333333332
+    },
+    {
+      "title": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
+      "published": "Wed, 14 Oct 2026 09:28:59 +0000",
+      "sentiment": 0.05
     },
     {
       "title": "Dalí Book Cover Stolen in France",
@@ -323,24 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html",
       "published": "Thu, 15 Oct 2026 01:53:00 +0000",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html",
-      "published": "Wed, 14 Oct 2026 02:57:36 +0000",
-      "sentiment": 0.005555555555555554
-    },
-    {
-      "title": "FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html",
-      "published": "Wed, 14 Oct 2026 00:24:48 +0000",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Why Chinese College Grads Are Becoming Farmers",
-      "link": "https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html",
-      "published": "Wed, 14 Oct 2026 18:31:17 +0000",
-      "sentiment": 0.15
     }
   ]
 }
