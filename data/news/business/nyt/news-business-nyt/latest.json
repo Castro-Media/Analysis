@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
+      "link": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
+      "published": "Thu, 15 Oct 2026 22:41:40 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
       "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
       "published": "Thu, 15 Oct 2026 16:09:19 +0000",
@@ -111,7 +117,7 @@
     {
       "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
       "link": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
-      "published": "Thu, 15 Oct 2026 14:17:07 +0000",
+      "published": "Thu, 15 Oct 2026 14:17:08 +0000",
       "sentiment": 0.05
     },
     {
@@ -189,7 +195,7 @@
     {
       "title": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
       "link": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
-      "published": "Thu, 15 Oct 2026 01:52:59 +0000",
+      "published": "Thu, 15 Oct 2026 01:53:00 +0000",
       "sentiment": 0.15656565656565655
     },
     {
@@ -293,12 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/13/business/meta-settlement-children-tobacco-opioids.html",
       "published": "Tue, 13 Oct 2026 09:00:44 +0000",
       "sentiment": 0.05952380952380952
-    },
-    {
-      "title": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
-      "link": "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html",
-      "published": "Tue, 13 Oct 2026 04:58:32 +0000",
-      "sentiment": -0.033000000000000015
     }
   ]
 }
