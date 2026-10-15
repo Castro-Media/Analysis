@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants",
+      "link": "https://www.wsj.com/business/kfc-is-moving-to-ditch-pepsi-for-coke-in-thousands-of-restaurants-cb44611d?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 19:53:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 16:30:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/media/white-house-press-secretary-katie-zacharia-didnt-pass-bar-exam-714a484e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 11:53:00 GMT",
       "sentiment": -0.05555555555555555
-    },
-    {
-      "title": "The Morning Risk Report: Debanking Probe Finds JPMorgan, Banks Cut Off MAGA Sellers and Democrat Groups",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-debanking-probe-finds-jpmorgan-banks-cut-off-maga-sellers-and-democrat-groups-e2fb04ad?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 11:29:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Penske Automotive Group to Be Taken Private by Penske, Mitsui",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Alcoa Posts Higher Third-Quarter Profit, Sales on Increased Production",
+      "link": "https://www.wsj.com/business/earnings/alcoa-posts-higher-third-quarter-profit-sales-on-increased-production-06d2fd90?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 20:43:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Brunello Cucinelli Nudges Up 2026 View, Bucking Luxury’s Weak Trends",
       "link": "https://www.wsj.com/business/retail/brunello-cucinelli-nudges-up-2026-view-bucking-luxurys-weak-trends-0c372226?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 16:31:00 GMT",
@@ -91,10 +97,10 @@
       "sentiment": 0.3
     },
     {
-      "title": "Fastenal Profit Up as Spending Climbs",
-      "link": "https://www.wsj.com/business/earnings/fastenal-profit-up-as-spending-climbs-a4ba1353?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 12:20:00 GMT",
-      "sentiment": 0.0
+      "title": "J.B. Hunt Reports Higher Profit, Steeper Operating Expenses",
+      "link": "https://www.wsj.com/business/earnings/j-b-hunt-reports-higher-profit-steeper-operating-expenses-f6aa69e4?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 20:33:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/ericsson-to-streamline-structure-as-component-costs-pressure-profitability-f4be0cb0?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 09:22:00 GMT",
       "sentiment": 0.22777777777777777
-    },
-    {
-      "title": "TSMC Weighs Texas Expansion, Holds Talks on Musk’s Terafab",
-      "link": "https://www.wsj.com/tech/ai-demand-extends-tsmcs-record-earnings-streak-95bbef62?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 09:18:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Chinese Automakers Focus on International Expansion Despite Limits",
@@ -193,10 +193,16 @@
       "sentiment": 0.30000000000000004
     },
     {
-      "title": "Oil Prices Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks",
+      "title": "Oil Prices End Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-gulf-supply-recovery-hormuz-attacks-f0337002?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 17:45:00 GMT",
-      "sentiment": -0.11944444444444444
+      "published": "Thu, 15 Oct 2026 19:37:00 GMT",
+      "sentiment": -0.13999999999999999
+    },
+    {
+      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny",
+      "link": "https://www.wsj.com/tech/big-tech-is-soft-launching-data-centers-early-bracing-for-scrutiny-7a656287?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "sentiment": 0.12857142857142856
     },
     {
       "title": "U.S. Crude Oil Stockpiles Post Large Weekly Drop",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/gas-exporter-venture-global-wants-to-get-in-on-ai-power-boom-6b91b9e1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 09:00:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "TotalEnergies Expects Windfall as Conflict Squeezes Fuel Supplies",
-      "link": "https://www.wsj.com/business/earnings/totalenergies-expects-windfall-as-conflict-squeezes-energy-supplies-96bcefe4?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 07:49:00 GMT",
-      "sentiment": 0.24305555555555555
     },
     {
       "title": "Saudi Airlines Rush to Save Scores of Planes From a War Zone",
@@ -433,6 +433,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The Morning Risk Report: Debanking Probe Finds JPMorgan, Banks Cut Off MAGA Sellers and Democrat Groups",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-debanking-probe-finds-jpmorgan-banks-cut-off-maga-sellers-and-democrat-groups-e2fb04ad?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 11:29:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Even Before OpenAI Arrest, Silicon Valley Was Bracing for Spies",
       "link": "https://www.wsj.com/articles/even-before-openai-arrest-silicon-valley-was-bracing-for-spies-3c066db2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 09:58:00 GMT",
@@ -457,28 +463,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-23402b4f?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 20:56:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
       "link": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 00:18:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
-      "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 13:07:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
-      "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.04
     },
     {
       "title": "Big Pharma Is Pouring Billions Into a New Class of ‘Protein Degrader’ Drugs",
@@ -487,10 +475,22 @@
       "sentiment": 0.08116883116883117
     },
     {
-      "title": "To Get This Job at McKinsey, You’ll Need to Survive a Debate With AI First",
-      "link": "https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.06212121212121211
+      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
+      "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.04
+    },
+    {
+      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
+      "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 13:07:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "New Private-Equity Firm Specializes in Giving Companies AI Glow-Ups",
+      "link": "https://www.wsj.com/finance/investing/a-new-private-equity-firm-specializes-in-giving-companies-ai-glow-ups-86fcb48e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.021590909090909084
     },
     {
       "title": "Best Small-Business Loans in October 2026",

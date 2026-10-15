@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Justice Dept. sues California, seeks to stop state from counting 20,000 ballots",
+      "link": "https://www.latimes.com/politics/story/2026-10-15/justice-dept-sues-california-asks-court-to-force-state-to-stop-counting-20-000-ballots",
+      "published": "Thu, 15 Oct 2026 19:04:44 GMT",
+      "sentiment": -0.6
+    },
+    {
       "title": "In 100th lawsuit against Trump, California challenges immigration arrests near courthouses",
       "link": "https://www.latimes.com/politics/story/2026-10-15/california-files-100th-lawsuit-against-trump-administration",
       "published": "Thu, 15 Oct 2026 17:41:13 GMT",
@@ -283,28 +289,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to the California Congressional District 26 race: Irwin vs. Gallucci",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the California Congressional District 27 race: Whitesides vs. Gibbs",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-whitesides-gibbs-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Voter guide to the 2026 California general election",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Your guide to the California Congressional District 40 race: Kim vs. Calvert",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-40-orange-county-inland-empire-kim-calvert-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.11818181818181818
     },
     {
       "title": "Your guide to Proposition 1: Borrowing money for low-income and veteran housing",
@@ -317,12 +305,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.22500000000000003
-    },
-    {
-      "title": "Your guide to the California Congressional District 48 race: Von Wilpert vs. Desmond",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-48-san-diego-riverside-county-von-wilpert-desmond-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan",
@@ -481,24 +463,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to the California Congressional District 47 race: Min vs. Le Roux",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-47-orange-county-min-leroux-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the California Congressional District 45 race: Tran vs. Vo",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-45-orange-county-tran-vo-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Your guide to the California state schools superintendent race: Barrera vs. Shaw",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Your guide to Proposition 40: California's billionaire tax proposal",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
@@ -511,18 +475,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Your guide to the California secretary of state race: Weber vs. Wagner",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the California attorney general race: Bonta vs. Gates",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-attorney-general-bonta-gates-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.016666666666666673
-    },
-    {
       "title": "Your guide to the California treasurer race: Kounalakis vs. Hawks",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-treasurer-kounalakis-hawks-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
@@ -533,12 +485,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-01/bass-lawyers-help-influencers-file-complaint-against-raman-campaign",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1111111111111111
-    },
-    {
-      "title": "Your guide to the California insurance commissioner race: Allen vs. Kim",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-insurance-commissioner-allen-kim-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Your guide to Proposition 2: Lets leaders fatten 'rainy day' fund, reduces likelihood of taxpayer rebates",
@@ -559,10 +505,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to the California controller race: Incumbent Cohen vs. challenger Morgan",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-controller-cohen-morgan-voter-guide",
+      "title": "Your guide to the California Congressional District 40 race: Kim vs. Calvert",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-40-orange-county-inland-empire-kim-calvert-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
+      "sentiment": 0.11818181818181818
+    },
+    {
+      "title": "Your guide to the California Congressional District 45 race: Tran vs. Vo",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-45-orange-county-tran-vo-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "Your guide to the race for L.A. mayor: Bass vs. Raman",
@@ -577,6 +529,60 @@
       "sentiment": 0.0
     },
     {
+      "title": "Your guide to the California attorney general race: Bonta vs. Gates",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-attorney-general-bonta-gates-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.016666666666666673
+    },
+    {
+      "title": "Your guide to the California secretary of state race: Weber vs. Wagner",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California controller race: Incumbent Cohen vs. challenger Morgan",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-controller-cohen-morgan-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Your guide to the California insurance commissioner race: Allen vs. Kim",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-insurance-commissioner-allen-kim-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California state schools superintendent race: Barrera vs. Shaw",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-state-superintendent-public-instruction-shaw-barrera-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California Congressional District 26 race: Irwin vs. Gallucci",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California Congressional District 27 race: Whitesides vs. Gibbs",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-27-santa-clarita-antelope-valley-whitesides-gibbs-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California Congressional District 47 race: Min vs. Le Roux",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-47-orange-county-min-leroux-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California Congressional District 48 race: Von Wilpert vs. Desmond",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-48-san-diego-riverside-county-von-wilpert-desmond-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Gas prices, AI data centers and Trump's long shadow: Top takeaways from the governor's race debate",
       "link": "https://www.latimes.com/california/story/2026-09-30/hilton-becerra-governors-race-debate-gas-data-centers-trump",
       "published": "Thu, 1 Oct 2026 03:49:33 GMT",
@@ -587,12 +593,6 @@
       "link": "https://www.latimes.com/california/story/2026-09-30/lopez-column-california-ambition-cnn-governor-debate-becerra-hilton",
       "published": "Thu, 1 Oct 2026 02:45:46 GMT",
       "sentiment": 0.2375
-    },
-    {
-      "title": "$7.5-billion mini-NIH plan goes to California voters under bill signed by Newsom",
-      "link": "https://www.latimes.com/california/story/2026-09-30/newsom-signs-bill-that-could-create-state-scientific-research-arm",
-      "published": "Thu, 1 Oct 2026 01:55:25 GMT",
-      "sentiment": 0.0
     }
   ]
 }
