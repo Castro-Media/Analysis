@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+      "published": "Thu, 15 Oct 2026 08:30:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "At Least 20 Children Dead After School Roof Collapses in Pakistan",
+      "link": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
+      "published": "Thu, 15 Oct 2026 07:54:25 +0000",
+      "sentiment": -0.04999999999999999
+    },
+    {
+      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+      "published": "Thu, 15 Oct 2026 07:28:02 +0000",
+      "sentiment": -0.3666666666666667
+    },
+    {
+      "title": "North Korea and China Open Their Biggest Border Bridge",
+      "link": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
+      "published": "Thu, 15 Oct 2026 08:49:11 +0000",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "While Leo Recovers From Lung Surgery, the Church Runs on Autopilot",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html",
+      "published": "Thu, 15 Oct 2026 04:01:15 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+      "published": "Thu, 15 Oct 2026 04:01:09 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
       "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
       "published": "Thu, 15 Oct 2026 05:04:38 +0000",
@@ -49,66 +85,6 @@
       "sentiment": -0.03333333333333333
     },
     {
-      "title": "Indian Protesters Describe Rough Treatment by the Police",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
-      "published": "Wed, 14 Oct 2026 09:52:43 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Dalí Book Cover Stolen in France",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
-      "published": "Wed, 14 Oct 2026 14:15:56 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War",
-      "link": "https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
-      "published": "Wed, 14 Oct 2026 13:15:41 +0000",
-      "sentiment": -0.25416666666666665
-    },
-    {
-      "title": "‘The Assassin(s)’ Movie Fuels South Korea’s Culture Wars",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/korea-assassins-movie.html",
-      "published": "Wed, 14 Oct 2026 05:22:33 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
-      "published": "Tue, 13 Oct 2026 20:31:15 +0000",
-      "sentiment": -0.08125
-    },
-    {
-      "title": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
-      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
-      "published": "Tue, 13 Oct 2026 18:58:38 +0000",
-      "sentiment": 0.225
-    },
-    {
-      "title": "North Korea and China Open Their Biggest Border Bridge",
-      "link": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
-      "published": "Thu, 15 Oct 2026 06:45:00 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "While Leo Recovers From Lung Surgery, the Church Runs on Autopilot",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html",
-      "published": "Thu, 15 Oct 2026 04:01:15 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
-      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
-      "published": "Thu, 15 Oct 2026 04:01:09 +0000",
-      "sentiment": -0.3666666666666667
-    },
-    {
-      "title": "Home of London’s Oldest Restaurant, Rules, is Given to National Trust",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
-      "published": "Thu, 15 Oct 2026 04:01:09 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
       "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
       "published": "Thu, 15 Oct 2026 02:27:52 +0000",
@@ -149,6 +125,30 @@
       "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
       "published": "Wed, 14 Oct 2026 16:32:23 +0000",
       "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Dalí Book Cover Stolen in France",
+      "link": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
+      "published": "Wed, 14 Oct 2026 14:15:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Indian Protesters Describe Rough Treatment by the Police",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
+      "published": "Wed, 14 Oct 2026 09:52:43 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "‘The Assassin(s)’ Movie Fuels South Korea’s Culture Wars",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/korea-assassins-movie.html",
+      "published": "Wed, 14 Oct 2026 05:22:33 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War",
+      "link": "https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
+      "published": "Wed, 14 Oct 2026 13:15:41 +0000",
+      "sentiment": -0.25416666666666665
     },
     {
       "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
@@ -217,6 +217,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
+      "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
+      "published": "Tue, 13 Oct 2026 20:31:15 +0000",
+      "sentiment": -0.08125
+    },
+    {
       "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
       "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
       "published": "Wed, 14 Oct 2026 13:11:17 +0000",
@@ -257,6 +263,12 @@
       "link": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html",
       "published": "Tue, 13 Oct 2026 14:35:45 +0000",
       "sentiment": -0.7
+    },
+    {
+      "title": "The Oct. 7 Attack Changed Israel, but Not Its Politics",
+      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html",
+      "published": "Tue, 13 Oct 2026 18:58:38 +0000",
+      "sentiment": 0.225
     },
     {
       "title": "They Came to Russia for Work. Now They Are Under Fire.",
@@ -329,18 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
       "published": "Tue, 13 Oct 2026 21:30:32 +0000",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
-      "link": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
-      "published": "Tue, 13 Oct 2026 08:54:51 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges",
-      "link": "https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html",
-      "published": "Mon, 12 Oct 2026 12:36:54 +0000",
-      "sentiment": 0.16666666666666666
     }
   ]
 }
