@@ -1,6 +1,90 @@
 {
   "entries": [
     {
+      "title": "Tampa Theatre turns 100: Historic movie palace reopens after $24.5 million restoration",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1926-tampa-theatre-opened-beneath-a-twinkling-indoor-night-sky-100-years-later-it-reopened-after-a-seven-month-24-5-million-restoration-of-its-historic-auditorium/articleshow/134964170.cms",
+      "published": "2026-10-15T16:04:31+05:30",
+      "sentiment": 0.09863636363636363
+    },
+    {
+      "title": "Hawaii’s Hā‘ena State Park reopens after 39 days following Hurricane Lowell",
+      "link": "https://timesofindia.indiatimes.com/world/us/hawaiis-hena-state-park-closed-sept-6-as-hurricane-lowell-approached-39-days-later-it-reopened-after-repairs-but-overnight-camping-and-hiking-past-two-miles-remain-closed/articleshow/134963256.cms",
+      "published": "2026-10-15T16:03:39+05:30",
+      "sentiment": -0.06464285714285714
+    },
+    {
+      "title": "US bank worker stole $280,000 and used fake reports to hide it",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-bank-employee-stole-280000-from-a-vault-then-created-fake-cash-deposit-reports-to-hide-it-irs-helped-uncover-the-scheme/articleshow/134963596.cms",
+      "published": "2026-10-15T15:21:32+05:30",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Oregon woman sold home to son-in-law, says he promised she could stay for life; court rejects claim",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2006-an-oregon-woman-sold-her-398000-home-to-her-son-in-law-for-270000-and-says-she-was-promised-she-could-stay-for-life-20-years-later-an-appeals-court-rejected-that-claimed-life-estate/articleshow/134962876.cms",
+      "published": "2026-10-15T15:30:00+05:30",
+      "sentiment": 0.05367965367965367
+    },
+    {
+      "title": "Amelia Earhart vanished in 1937; a theory suggests crabs consumed her remains as a castaway",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/amelia-earhart-vanished-over-the-pacific-in-1937-a-theory-suggests-she-survived-a-crash-landing-on-a-remote-island-before-giant-coconut-crabs-consumed-her-remains/articleshow/134964353.cms",
+      "published": "2026-10-15T15:55:47+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "'Planned terrorist acts on behalf of Ukraine': Swedish national arrested in Russia",
+      "link": "https://timesofindia.indiatimes.com/world/europe/planned-terrorist-acts-on-behalf-of-ukraine-russia-arrests-swedish-man-charges-him-with-illegal-border-crossing/articleshow/134964299.cms",
+      "published": "2026-10-15T15:52:49+05:30",
+      "sentiment": -0.090625
+    },
+    {
+      "title": "Erika Kirk pens emotional tribute to late husband Charlie Kirk on his birthday - video",
+      "link": "https://timesofindia.indiatimes.com/world/us/ill-forever-celebrate-you-erika-kirk-pens-emotional-tribute-to-late-husband-charlie-kirk-on-his-birthday-video/articleshow/134964317.cms",
+      "published": "2026-10-15T15:50:20+05:30",
+      "sentiment": -0.09999999999999999
+    },
+    {
+      "title": "'Where anti-Indian hatred can lead': US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple",
+      "link": "https://timesofindia.indiatimes.com/world/us/where-anti-indian-hatred-can-lead-us-lawmaker-raja-krishnamoorthis-warning-after-plot-targeting-aurora-hindu-temple/articleshow/134963436.cms",
+      "published": "2026-10-15T15:09:30+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Jenny McCarthy co-hosted a pet contest; raised $8 million for 25-acre centre",
+      "link": "https://timesofindia.indiatimes.com/world/us/jenny-mccarthy-co-hosted-a-pet-competition-that-raised-over-8-million-to-help-complete-a-25-acre-wildlife-rehabilitation-centre-in-washington/articleshow/134962772.cms",
+      "published": "2026-10-15T14:50:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Duty-free billionaire Chuck Feeney gave Cornell $350 million in 2011; six years later, its New York tech campus opened",
+      "link": "https://timesofindia.indiatimes.com/education/news/duty-free-billionaire-chuck-feeney-gave-cornell-350-million-in-2011-to-help-create-a-new-york-tech-campus-six-years-later-its-first-permanent-phase-opened-across-12-acres-of-roosevelt-island/articleshow/134961727.cms",
+      "published": "2026-10-15T15:00:00+05:30",
+      "sentiment": 0.20909090909090908
+    },
+    {
+      "title": "London’s oldest restaurant, where Edward VII met his mistress and showbiz stars gathered, is now protected by the National Trust",
+      "link": "https://timesofindia.indiatimes.com/world/uk/londons-oldest-restaurant-where-edward-vii-met-his-mistress-and-showbiz-stars-gathered-is-now-protected-by-the-national-trust/articleshow/134961020.cms",
+      "published": "2026-10-15T15:00:00+05:30",
+      "sentiment": 0.05833333333333333
+    },
+    {
+      "title": "Pennsylvania man’s home sold for $28,000 over unpaid taxes; court overturns sale after 4 years",
+      "link": "https://timesofindia.indiatimes.com/world/us/pennsylvania-owner-held-a-chester-home-for-10-years-before-it-sold-for-28000-at-a-tax-sale-with-about-a-5741-upset-price-on-october-13-an-appeals-court-ordered-the-sale-set-aside-over-notice-failures/articleshow/134962402.cms",
+      "published": "2026-10-15T14:33:37+05:30",
+      "sentiment": 0.020000000000000007
+    },
+    {
+      "title": "Shakira started her education foundation at 20 and has helped 300 schools",
+      "link": "https://timesofindia.indiatimes.com/world/us/shakira-was-only-20-when-she-launched-her-education-mission-in-colombia-nearly-three-decades-later-her-foundation-reports-supporting-more-than-300-public-schools/articleshow/134962271.cms",
+      "published": "2026-10-15T14:21:31+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Eight crew missing after two tankers catch fire in Black Sea near Romania",
+      "link": "https://timesofindia.indiatimes.com/world/europe/eight-crew-missing-after-two-tankers-catch-fire-in-black-sea-near-romania/articleshow/134962052.cms",
+      "published": "2026-10-15T13:59:43+05:30",
+      "sentiment": -0.06666666666666668
+    },
+    {
       "title": "Orlando Bloom’s former Beverly Hills home cuts rent to $29,000 monthly after $7M sale",
       "link": "https://timesofindia.indiatimes.com/real-estate/news/orlando-blooms-former-beverly-hills-home-gets-a-2000-monthly-rent-cut-to-29000-after-selling-for-7-million-in-2025/articleshow/134962105.cms",
       "published": "2026-10-15T14:07:55+05:30",
@@ -35,90 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/barack-obamas-chicago-presidential-centre-grew-from-a-500-million-proposal-to-nearly-850-million-project-by-2026-more-than-a-decade-after-plans-emerged-it-opened-amid-debate-over-jackson-park/articleshow/134961206.cms",
       "published": "2026-10-15T13:17:39+05:30",
       "sentiment": -0.05
-    },
-    {
-      "title": "Shakira’s $3.68 million contribution helps Cartagena school educate 1,000+ children yearly",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/shakira-contributed-3-68-million-toward-an-8-million-school-in-cartagena-that-opened-in-2014-12-years-later-the-campus-still-serves-more-than-1000-children-from-the-city-every-year/articleshow/134957441.cms",
-      "published": "2026-10-15T13:07:40+05:30",
-      "sentiment": 0.09
-    },
-    {
-      "title": "Paul Bocuse’s culinary school now trains 1,200 students from 75 nationalities across two French castles",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/paul-bocuse-gave-his-name-to-a-french-culinary-school-in-2002-eight-years-after-his-death-the-institution-now-teaches-about-1200-students-from-75-nationalities-across-a-17000-square-metre-campus-in-two-castles/articleshow/134958107.cms",
-      "published": "2026-10-15T13:00:00+05:30",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Naples Pier Reef Deployment: Hurricane Ian debris becomes artificial reef; rebuilding project continues",
-      "link": "https://timesofindia.indiatimes.com/world/us/florida-turned-wreckage-from-the-hurricane-ian-damaged-naples-pier-into-an-underwater-habitat-59-concrete-pilings-weighing-more-than-300-tons-now-sit-at-wasmer-reef-about-10-miles-offshore-instead-of-a-landfill/articleshow/134934011.cms",
-      "published": "2026-10-15T12:00:00+05:30",
-      "sentiment": 0.03181818181818182
-    },
-    {
-      "title": "Could the dodo return? US firm maps 95% of its genome and identifies gene-editing targets",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/us-biotech-firm-completes-95-of-dodos-genome-and-identifies-gene-editing-targets-could-the-extinct-bird-come-alive-again-through-its-closest-living-relative-the-nicobar-pigeon/articleshow/134957542.cms",
-      "published": "2026-10-15T12:00:00+05:30",
-      "sentiment": 0.02777777777777777
-    },
-    {
-      "title": "Sara Blakely invested $5,000 in Spanx while selling fax machines; 21 years later, it is worth $1.2bn",
-      "link": "https://timesofindia.indiatimes.com/world/us/sara-blakely-was-selling-fax-machines-door-to-door-when-she-put-5000-of-her-savings-into-spanx-21-years-later-blackstone-bought-a-majority-stake-in-the-company-at-a-1-2-billion-valuation/articleshow/134958489.cms",
-      "published": "2026-10-15T11:35:54+05:30",
-      "sentiment": 0.06
-    },
-    {
-      "title": "Archaeologists find 19 injuries in 12 people buried in Iron and Viking Age Scandinavia",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/archaeologists-find-19-injuries-in-12-people-whose-remains-were-placed-in-houses-wells-and-pits-across-iron-and-viking-age-scandinavia/articleshow/134958228.cms",
-      "published": "2026-10-15T11:04:02+05:30",
-      "sentiment": 0.03888888888888889
-    },
-    {
-      "title": "Katy Perry has supported UNICEF’s global child welfare efforts since 2013",
-      "link": "https://timesofindia.indiatimes.com/world/us/katy-perry-has-supported-unicef-since-2013-from-visiting-vulnerable-children-in-madagascar-to-backing-global-vaccine-access-and-emergency-relief/articleshow/134958417.cms",
-      "published": "2026-10-15T11:11:10+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Montana rancher’s rare Nanotyrannus fossil goes on display ahead of $9M auction",
-      "link": "https://timesofindia.indiatimes.com/science/archaeology/a-montana-rancher-found-this-dinosaur-in-2019-now-the-70-complete-nanotyrannus-one-of-only-three-known-skeletons-is-on-display-in-new-york-before-an-auction-carrying-a-6-million-to-9-million-estimate/articleshow/134956980.cms",
-      "published": "2026-10-15T11:00:00+05:30",
-      "sentiment": 0.11590909090909089
-    },
-    {
-      "title": "Once the fastest US liner, SS United States is set to become the world’s largest artificial reef",
-      "link": "https://timesofindia.indiatimes.com/world/us/once-the-fastest-us-ocean-liner-that-carried-presidents-and-celebrities-across-the-atlantic-ss-united-states-is-set-to-become-the-worlds-largest-artificial-reef/articleshow/134957004.cms",
-      "published": "2026-10-15T11:00:00+05:30",
-      "sentiment": -0.07857142857142856
-    },
-    {
-      "title": "Tech Aids Lost Birdsong Recovery: Synthetic calls help sparrows relearn old songs; scientists weigh AI’s role",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-recreated-a-bird-song-recorded-in-the-1960s-using-a-computer-modern-sparrows-began-copying-it-raising-a-new-possibility-for-restoring-lost-bird-calls/articleshow/134957654.cms",
-      "published": "2026-10-15T10:55:52+05:30",
-      "sentiment": 0.23914141414141415
-    },
-    {
-      "title": "'Go to jail or be shot’: Trump warns US military secret leakers",
-      "link": "https://timesofindia.indiatimes.com/world/us/go-to-jail-or-be-shot-trump-warns-us-military-secret-leakers/articleshow/134957191.cms",
-      "published": "2026-10-15T10:32:15+05:30",
-      "sentiment": -0.05714285714285715
-    },
-    {
-      "title": "How opposition to data centres is bringing Democrats and Republicans together",
-      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/how-opposition-to-data-centres-is-bringing-democrats-and-republicans-together-during-midterms/articleshow/134957287.cms",
-      "published": "2026-10-15T10:13:35+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Con Edison’s $300M Bronx substation mimics a row of homes as $47.3M upgrade gets approval",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2007-con-edison-unveiled-a-300-million-bronx-substation-disguised-to-read-like-a-rowhouse-street-it-houses-two-substations-delivering-900mw-and-a-47-3-million-capacity-upgrade-is-now-approved/articleshow/134945240.cms",
-      "published": "2026-10-15T10:04:42+05:30",
-      "sentiment": 0.05909090909090909
-    },
-    {
-      "title": "NYC subway hides ventilation shaft and emergency exit behind 1847 Brooklyn townhouse façade",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-1907-new-yorks-subway-company-bought-an-1847-brooklyn-townhouse-and-gutted-it-more-than-a-century-later-the-restored-looking-faade-still-hides-a-ventilation-shaft-and-emergency-exit-for-the-tunnel-below/articleshow/134945400.cms",
-      "published": "2026-10-15T10:04:21+05:30",
-      "sentiment": -0.03333333333333334
     }
   ]
 }
