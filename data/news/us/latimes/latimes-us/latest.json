@@ -1,12 +1,6 @@
 {
   "entries": [
     {
-      "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
-      "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.23376623376623376
-    },
-    {
       "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
       "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -23,6 +17,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-15/santa-monica-mountains-parks-close-red-flag-warning",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0961111111111111
+    },
+    {
+      "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
+      "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.23376623376623376
     },
     {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",
@@ -151,16 +151,16 @@
       "sentiment": -0.1875
     },
     {
-      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09500000000000001
-    },
-    {
       "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
       "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
       "published": "Wed, 14 Oct 2026 10:00:00 GMT",
       "sentiment": 0.39166666666666666
+    },
+    {
+      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09500000000000001
     },
     {
       "title": "Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate",
@@ -235,6 +235,12 @@
       "sentiment": -0.018518518518518517
     },
     {
+      "title": "L.A. community horrified after beloved dog found hanging from leash. 'No words can describe it'",
+      "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0111111111111111
+    },
+    {
       "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
       "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "L.A. community horrified after beloved dog found hanging from leash. 'No words can describe it'",
-      "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0111111111111111
     },
     {
       "title": "Former police officers, daughter killed in suspected murder-suicide in upscale California neighborhood",
@@ -271,16 +271,16 @@
       "sentiment": -0.05555555555555555
     },
     {
-      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
-      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.056666666666666664
-    },
-    {
       "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
       "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": 0.45833333333333337
+    },
+    {
+      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
+      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.056666666666666664
     },
     {
       "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
@@ -433,6 +433,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
+      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
+      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
       "title": "Southern California braces for Tropical Storm Rachel. 'This is not even the worst,' official says",
       "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-09/la-county-sex-abuse-settlement-payout-loans",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09523809523809523
-    },
-    {
-      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
-      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.21212121212121213
     },
     {
       "title": "SoCal business owner hid cameras in bathroom — and his shoe — for secret recordings, police allege",
@@ -565,10 +565,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "Flu season didn't start when or where it was expected. Get your shot now, health officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+      "title": "SoCal's famed coastal railroad may have to move to survive rising seas. How could it happen?",
+      "link": "https://www.latimes.com/california/story/2026-10-08/san-clementes-famed-coastal-railroad-may-have-to-move-to-survive-rising-seas",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08888888888888889
+      "sentiment": -0.1
     }
   ]
 }
