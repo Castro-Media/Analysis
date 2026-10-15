@@ -1,12 +1,6 @@
 {
   "entries": [
     {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 22:37:21 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 17:47:22 GMT",
@@ -17,6 +11,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 16:50:18 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Maduro pleads not guilty to new torture-related charges in New York",
@@ -31,16 +31,22 @@
       "sentiment": -0.25
     },
     {
-      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 17:18:49 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
       "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 15:00:05 GMT",
       "sentiment": -0.08333333333333336
+    },
+    {
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:27:21 GMT",
+      "sentiment": -0.11666666666666665
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:38:46 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -127,6 +133,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:25:06 GMT",
+      "sentiment": -0.4125
+    },
+    {
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 11:25:19 GMT",
@@ -145,15 +157,21 @@
       "sentiment": 0.0
     },
     {
-      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-      "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 23:32:11 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
       "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 14 Oct 2026 23:01:28 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 17:31:37 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Watch: Moment drone hits supermarket in Odesa",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyq62z0n19o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 17:06:12 GMT",
       "sentiment": 0.0
     },
     {
@@ -163,28 +181,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+      "title": "Watch: What the data centre boom means for Arizona ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/videos/cw62yvzv9mm3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 19:46:07 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Watch: Australian band breaks world record for most gigs in 12 hours",
       "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 18:09:58 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 17:31:37 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
-      "link": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 15:05:29 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-      "link": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 03:26:36 GMT",
-      "sentiment": -0.3
+      "sentiment": 0.13333333333333333
     }
   ]
 }
