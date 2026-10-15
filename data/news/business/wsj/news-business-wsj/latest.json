@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "William Draper, Pioneering Silicon Valley Venture Capitalist, Dies at 98",
+      "link": "https://www.wsj.com/business/entrepreneurship/william-draper-silicon-valley-vc-dead-634e413e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 15:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "An AI-for-Climate Startup Won Nvidia’s Backing—After Putting the Climate Part on Ice",
       "link": "https://www.wsj.com/business/energy-oil/an-ai-for-climate-startup-won-nvidias-backingafter-putting-the-climate-part-on-ice-8b4eced2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 13:25:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-9e647cb7?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 11:14:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Even Before OpenAI Arrest, Silicon Valley Was Bracing for Spies",
-      "link": "https://www.wsj.com/articles/even-before-openai-arrest-silicon-valley-was-bracing-for-spies-3c066db2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 09:58:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "Penske Automotive Group to Be Taken Private by Penske, Mitsui",
@@ -433,6 +433,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Even Before OpenAI Arrest, Silicon Valley Was Bracing for Spies",
+      "link": "https://www.wsj.com/articles/even-before-openai-arrest-silicon-valley-was-bracing-for-spies-3c066db2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 09:58:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room",
       "link": "https://www.wsj.com/tech/ai/the-engineer-accused-of-bugging-openais-top-secret-conference-room-7f91c07c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 09:30:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Apple Joins Nvidia in the $5 Trillion Valuation Club",
-      "link": "https://www.wsj.com/tech/seventh-time-is-the-charm-apple-closes-above-5-trillion-market-capitalization-88a5a056?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 20:55:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
       "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 13:07:00 GMT",
@@ -475,16 +475,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "To Get This Job at McKinsey, You’ll Need to Survive a Debate With AI First",
-      "link": "https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.06212121212121211
-    },
-    {
       "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
       "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 02:00:00 GMT",
       "sentiment": 0.04
+    },
+    {
+      "title": "To Get This Job at McKinsey, You’ll Need to Survive a Debate With AI First",
+      "link": "https://www.wsj.com/lifestyle/careers/mckinsey-interview-process-ai-7d08a69e?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.06212121212121211
     },
     {
       "title": "Big Pharma Is Pouring Billions Into a New Class of ‘Protein Degrader’ Drugs",
