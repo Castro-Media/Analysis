@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Slump as Nasdaq Faces Weekly Loss",
+      "title": "Stock Market Today: Nasdaq Slump Worsens as AI Anxieties Mount",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 08:08:29 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "A Volatile Week Ends with Tech Stocks Down, Oil Up",
+      "link": "https://www.wsj.com/finance/stocks/a-volatile-week-ends-with-tech-stocks-down-oil-up-5f286ce3?mod=rss_markets_main",
+      "published": "Fri, 16 Oct 2026 20:35:00 GMT",
+      "sentiment": 0.09722222222222221
     },
     {
       "title": "From Verizon to UnitedHealth, Corporate America Is Balking at ‘Tokenized’ Stocks",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/high-rates-have-upturned-how-moodys-looks-at-credit-risk-chief-credit-officer-says-e84c61fd?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 08:02:00 GMT",
       "sentiment": 0.33
-    },
-    {
-      "title": "The Riskiest Corner of the AI Trade Is Crashing Into Higher Rates",
-      "link": "https://www.wsj.com/finance/stocks/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-fcdaad37?mod=rss_markets_main",
-      "published": "Thu, 15 Oct 2026 21:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Rising Rates Threaten Wall Street’s Golden Goose in Trading",
@@ -103,6 +103,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "U.S. Stocks Fall as Credit Fears Haunt Tech Sector",
+      "link": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-credit-fears-haunt-tech-sector-db50c887?mod=rss_markets_main",
+      "published": "Fri, 16 Oct 2026 20:26:00 GMT",
+      "sentiment": -0.20833333333333334
+    },
+    {
       "title": "Major Cryptocurrencies Mostly Higher as Dollar Eases",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-before-fed-chairmans-fireside-chat-f4462ae4?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 18:32:00 GMT",
@@ -125,12 +131,6 @@
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-aa749b35?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 16:26:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-b4026e6d?mod=rss_markets_main",
-      "published": "Fri, 16 Oct 2026 16:24:00 GMT",
-      "sentiment": 0.33999999999999997
     },
     {
       "title": "Tech Stocks Slump as Nasdaq Faces Weekly Loss",
@@ -199,6 +199,18 @@
       "sentiment": 0.04999999999999999
     },
     {
+      "title": "Crude Futures Rise on Persistent Supply Jitters",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-ieas-crude-diesel-release-announcement-c474aaa9?mod=rss_markets_main",
+      "published": "Fri, 16 Oct 2026 20:08:00 GMT",
+      "sentiment": -0.06999999999999999
+    },
+    {
+      "title": "U.S. Natural Gas Futures Settle Lower",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-in-early-trading-a3808b88?mod=rss_markets_main",
+      "published": "Fri, 16 Oct 2026 19:47:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Gold Futures Edge Up As U.S. Dollar Slips",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-investors-await-fed-chairmans-remarks-f12f0c32?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 18:09:00 GMT",
@@ -215,18 +227,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-1850994c?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 16:27:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Crude Futures Steady As Conflicts Keep Sellers At Bay",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-ieas-crude-diesel-release-announcement-c474aaa9?mod=rss_markets_main",
-      "published": "Fri, 16 Oct 2026 14:10:00 GMT",
-      "sentiment": -0.06319444444444446
-    },
-    {
-      "title": "U.S. Natural Gas Futures Fall in Early Trading",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-in-early-trading-a3808b88?mod=rss_markets_main",
-      "published": "Fri, 16 Oct 2026 13:13:00 GMT",
-      "sentiment": -0.059999999999999984
     },
     {
       "title": "WSJ Dollar Index Falls 0.32% to 97.26",
@@ -289,6 +289,12 @@
       "sentiment": -0.15555555555555556
     },
     {
+      "title": "The Riskiest Corner of the AI Trade Is Crashing Into Higher Rates",
+      "link": "https://www.wsj.com/finance/stocks/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-fcdaad37?mod=rss_markets_main",
+      "published": "Thu, 15 Oct 2026 21:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Investors Seek Safety in a Rocky Market",
       "link": "https://www.wsj.com/finance/stocks/investors-seek-safety-in-a-rocky-market-4d1e17e5?mod=rss_markets_main",
       "published": "Thu, 15 Oct 2026 20:28:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/how-to-invest-for-the-middle-class-blues-15cde35c?mod=rss_markets_main",
       "published": "Thu, 15 Oct 2026 10:46:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "New Private-Equity Firm Specializes in Giving Companies AI Glow-Ups",
-      "link": "https://www.wsj.com/finance/investing/a-new-private-equity-firm-specializes-in-giving-companies-ai-glow-ups-86fcb48e?mod=rss_markets_main",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.021590909090909084
     },
     {
       "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
