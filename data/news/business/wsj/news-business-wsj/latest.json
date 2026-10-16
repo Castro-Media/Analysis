@@ -127,6 +127,12 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "France and Germany Reach Deal to Protect Europe’s Car Industry",
+      "link": "https://www.wsj.com/business/autos/france-and-germany-reach-deal-to-protect-europes-car-industry-f829c51d?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 14:34:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Inside Porsche’s Revival Bid: Pricier Cars, Tougher Bonuses and Less Remote Work",
       "link": "https://www.wsj.com/business/autos/inside-porsches-revival-bid-pricier-cars-tougher-bonuses-and-less-remote-work-706c558d?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 01:00:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13b56b6a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 21:02:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Chinese Automakers Are Building American-Style Cars—Just Not for Americans",
-      "link": "https://www.wsj.com/business/autos/chinese-automakers-are-building-american-style-carsjust-not-for-americans-f27d30f8?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 13:00:00 GMT",
-      "sentiment": 0.32
     },
     {
       "title": "Opinion | The Democratic Hormuz Alternative",
@@ -193,16 +193,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Diesel Prices Hold High Despite Efforts to Boost Global Supplies",
+      "link": "https://www.wsj.com/business/energy-oil/diesel-prices-hold-high-despite-efforts-to-boost-global-supplies-5557b1d2?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 14:00:00 GMT",
+      "sentiment": 0.084
+    },
+    {
+      "title": "Oil Slips as Traders Weigh IEA Reserve Releases, Hormuz Risks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-iea-reserve-releases-hormuz-risks-f8d24d7b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 13:43:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-9842f9b7?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 11:33:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Oil Prices Fall as Traders Weigh IEA Reserve Releases, Hormuz Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-iea-reserve-releases-hormuz-risks-f8d24d7b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 07:11:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Asia Stocks Recover Some Ground After Tech Rout",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-e032b827?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 21:04:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Oil Prices End Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-gulf-supply-recovery-hormuz-attacks-f0337002?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 19:37:00 GMT",
-      "sentiment": -0.13999999999999999
     },
     {
       "title": "The Mystery of the Disappearing Airplane Barf Bag",
@@ -313,6 +313,12 @@
       "sentiment": -0.5
     },
     {
+      "title": "AI Hyperscalers Try to Fix Their ‘Storytelling Problem’",
+      "link": "https://www.wsj.com/cmo-today/ai-hyperscalers-try-to-fix-their-storytelling-problem-4a73d3fc?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 13:29:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Netflix Replaces Content Chief as It Struggles to Engage Viewers",
       "link": "https://www.wsj.com/business/media/netflix-replaces-content-chief-as-it-struggles-to-engage-viewers-c179e0ba?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 22:42:00 GMT",
@@ -334,12 +340,6 @@
       "title": "YouTube Is Looking to Expand Into Audiobooks",
       "link": "https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 23:05:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Why Stuffy Law Firms Are Suddenly Acting Like Consumer Brands",
-      "link": "https://www.wsj.com/cmo-today/why-stuffy-law-firms-are-suddenly-acting-like-consumer-brands-9a8cc397?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 13:29:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -469,28 +469,28 @@
       "sentiment": 0.27878787878787875
     },
     {
-      "title": "Big Pharma Is Pouring Billions Into a New Class of ‘Protein Degrader’ Drugs",
-      "link": "https://www.wsj.com/health/pharma/big-pharma-is-pouring-billions-into-a-new-class-of-protein-degrader-drugs-9de1078e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.08116883116883117
-    },
-    {
       "title": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants",
       "link": "https://www.wsj.com/business/kfc-is-moving-to-ditch-pepsi-for-coke-in-thousands-of-restaurants-cb44611d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 19:53:00 GMT",
       "sentiment": 0.1
     },
     {
-      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
-      "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.04
+      "title": "Big Pharma Is Pouring Billions Into a New Class of ‘Protein Degrader’ Drugs",
+      "link": "https://www.wsj.com/health/pharma/big-pharma-is-pouring-billions-into-a-new-class-of-protein-degrader-drugs-9de1078e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.08116883116883117
     },
     {
       "title": "Inside Porsche’s Revival Bid: Pricier Cars, Tougher Bonuses and Less Remote Work",
       "link": "https://www.wsj.com/business/autos/inside-porsches-revival-bid-pricier-cars-tougher-bonuses-and-less-remote-work-706c558d?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 01:00:00 GMT",
       "sentiment": -0.043434343434343436
+    },
+    {
+      "title": "The Unsealed NFL Memo That Shows How Recruiters Really Size Up Candidates",
+      "link": "https://www.wsj.com/business/the-unsealed-nfl-memo-that-shows-how-recruiters-really-size-up-candidates-f3e57f61?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.32999999999999996
     },
     {
       "title": "Best Small-Business Loans in October 2026",
