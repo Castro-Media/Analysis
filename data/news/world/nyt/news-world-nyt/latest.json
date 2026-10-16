@@ -21,8 +21,8 @@
     {
       "title": "El Niño Threatens Global Sugar Supply",
       "link": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
-      "published": "Fri, 16 Oct 2026 04:00:14 +0000",
-      "sentiment": -0.2
+      "published": "Fri, 16 Oct 2026 14:41:00 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
@@ -33,7 +33,7 @@
     {
       "title": "Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
       "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
-      "published": "Fri, 16 Oct 2026 12:15:32 +0000",
+      "published": "Fri, 16 Oct 2026 13:28:25 +0000",
       "sentiment": -0.15
     },
     {
@@ -83,6 +83,24 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
       "published": "Thu, 15 Oct 2026 09:03:54 +0000",
       "sentiment": 0.05454545454545456
+    },
+    {
+      "title": "Houthi Attacks on Saudi Arabia Put In Doubt Kingdom’s Sports and Business Events",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/saudi-arabia-houthi-attack-fii-events.html",
+      "published": "Fri, 16 Oct 2026 14:50:01 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+      "published": "Fri, 16 Oct 2026 14:15:42 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html",
+      "published": "Fri, 16 Oct 2026 14:08:18 +0000",
+      "sentiment": -0.2916666666666667
     },
     {
       "title": "A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell",
@@ -231,7 +249,7 @@
     {
       "title": "Pope Leo Is Recovering After Cancer Surgery, Vatican Says: What to Know",
       "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
-      "published": "Thu, 15 Oct 2026 20:02:55 +0000",
+      "published": "Fri, 16 Oct 2026 13:10:12 +0000",
       "sentiment": 0.024999999999999994
     },
     {
@@ -311,30 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/trump-russia-ukraine-deal-pope-leo.html",
       "published": "Wed, 14 Oct 2026 04:41:32 +0000",
       "sentiment": -0.3888888888888889
-    },
-    {
-      "title": "Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
-      "published": "Wed, 14 Oct 2026 14:17:27 +0000",
-      "sentiment": 0.21153846153846154
-    },
-    {
-      "title": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html",
-      "published": "Tue, 13 Oct 2026 17:26:05 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Russia Detains Japanese Journalist for Alleged Espionage",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
-      "published": "Tue, 13 Oct 2026 19:55:42 +0000",
-      "sentiment": 0.01333333333333333
-    },
-    {
-      "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
-      "published": "Wed, 14 Oct 2026 05:03:25 +0000",
-      "sentiment": 0.19999999999999998
     }
   ]
 }
