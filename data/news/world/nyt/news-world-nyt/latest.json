@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "El Niño Threatens Global Sugar Supply",
+      "link": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+      "published": "Fri, 16 Oct 2026 04:00:14 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+      "published": "Fri, 16 Oct 2026 08:22:08 +0000",
+      "sentiment": 0.17083333333333334
+    },
+    {
       "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
       "link": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
       "published": "Thu, 15 Oct 2026 18:18:46 +0000",
@@ -73,24 +85,6 @@
       "sentiment": 0.4
     },
     {
-      "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
-      "published": "Thu, 15 Oct 2026 11:55:16 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
-      "published": "Thu, 15 Oct 2026 05:04:38 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
-      "link": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
-      "published": "Fri, 16 Oct 2026 04:01:07 +0000",
-      "sentiment": 0.17083333333333334
-    },
-    {
       "title": "A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html",
       "published": "Fri, 16 Oct 2026 00:52:57 +0000",
@@ -139,6 +133,12 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+      "published": "Thu, 15 Oct 2026 11:55:16 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
       "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
       "published": "Thu, 15 Oct 2026 14:51:19 +0000",
@@ -185,6 +185,12 @@
       "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
       "published": "Wed, 14 Oct 2026 15:42:26 +0000",
       "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
+      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
+      "published": "Thu, 15 Oct 2026 05:04:38 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
@@ -329,12 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
       "published": "Tue, 13 Oct 2026 16:04:04 +0000",
       "sentiment": -0.225
-    },
-    {
-      "title": "Pope Leo Has Lung Cancer, Vatican Says",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-      "published": "Wed, 14 Oct 2026 07:27:26 +0000",
-      "sentiment": 0.2857142857142857
     }
   ]
 }
