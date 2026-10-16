@@ -1,9 +1,39 @@
 {
   "entries": [
     {
-      "title": "Trump’s Deal With Russia Inflames War He Vowed to Swiftly End",
+      "title": "Woman’s Quiet Dog Walk Near Bend Elementary School Shattered by Gunfire",
+      "link": "https://www.nytimes.com/2026/10/15/us/bend-school-shooting-witness.html",
+      "published": "Fri, 16 Oct 2026 00:48:58 +0000",
+      "sentiment": 0.02727272727272727
+    },
+    {
+      "title": "Judge Refuses to Reverse Penalties Against Crypto Firm With Ties to Trump Family",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/crypto-court-ruling-gemini-trust-trump.html",
+      "published": "Fri, 16 Oct 2026 00:35:02 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html",
+      "published": "Fri, 16 Oct 2026 00:52:57 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Oregon’s Gun Laws Are Tight, by American Standards",
+      "link": "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html",
+      "published": "Fri, 16 Oct 2026 00:18:34 +0000",
+      "sentiment": 0.10535714285714284
+    },
+    {
+      "title": "Man Found in Barrel in Lake Mead in 2022 Is Identified by Las Vegas Police",
+      "link": "https://www.nytimes.com/2026/10/15/us/lake-mead-body-identified-las-vegas.html",
+      "published": "Fri, 16 Oct 2026 00:11:49 +0000",
+      "sentiment": 0.012499999999999997
+    },
+    {
+      "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
-      "published": "Thu, 15 Oct 2026 23:26:44 +0000",
+      "published": "Fri, 16 Oct 2026 01:02:09 +0000",
       "sentiment": 0.0
     },
     {
@@ -39,7 +69,7 @@
     {
       "title": "Here’s what to know.",
       "link": "https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/bend-oregon-school-shooting",
-      "published": "Thu, 15 Oct 2026 23:41:04 +0000",
+      "published": "Fri, 16 Oct 2026 00:50:59 +0000",
       "sentiment": 0.04999999999999999
     },
     {
@@ -69,7 +99,7 @@
     {
       "title": "Senators Demand Investigation Into Ukraine Satellite Disruption",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
-      "published": "Thu, 15 Oct 2026 21:13:44 +0000",
+      "published": "Thu, 15 Oct 2026 21:13:45 +0000",
       "sentiment": 0.125
     },
     {
@@ -153,7 +183,7 @@
     {
       "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html",
-      "published": "Thu, 15 Oct 2026 19:45:18 +0000",
+      "published": "Thu, 15 Oct 2026 19:45:19 +0000",
       "sentiment": -0.013095238095238097
     },
     {
@@ -239,18 +269,6 @@
       "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
       "published": "Thu, 15 Oct 2026 02:09:00 +0000",
       "sentiment": 0.20833333333333334
-    },
-    {
-      "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-      "published": "Thu, 15 Oct 2026 14:05:13 +0000",
-      "sentiment": 0.11818181818181818
-    },
-    {
-      "title": "How Trump Voters Feel About High Grocery Prices Ahead of The Midterms",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html",
-      "published": "Thu, 15 Oct 2026 11:07:22 +0000",
-      "sentiment": 0.16
     }
   ]
 }
