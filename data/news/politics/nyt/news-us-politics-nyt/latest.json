@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Trump Administration Restricts Drone Activity Along U.S.-Mexico Border",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/drones-border-restrictions.html",
+      "published": "Fri, 16 Oct 2026 22:43:09 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Trump Returns to Dalton for a Rescue Mission in Georgia",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/trump-rally-dalton-georgia.html",
+      "published": "Fri, 16 Oct 2026 22:13:03 +0000",
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "Appeals Court Questions Justice Dept. Claim that Trump Owns White House Records",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html",
+      "published": "Fri, 16 Oct 2026 21:47:04 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "N.I.H. Hospital Board Rebukes Kennedy Over New Vaccine Injury Clinic",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/kennedy-nih-hospital-board-rebuke.html",
-      "published": "Fri, 16 Oct 2026 19:19:44 +0000",
+      "published": "Fri, 16 Oct 2026 22:38:46 +0000",
       "sentiment": 0.018181818181818174
     },
     {
@@ -21,8 +39,8 @@
     {
       "title": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
-      "published": "Fri, 16 Oct 2026 20:14:19 +0000",
-      "sentiment": 0.19545454545454546
+      "published": "Fri, 16 Oct 2026 21:57:40 +0000",
+      "sentiment": 0.11534090909090909
     },
     {
       "title": "Ocasio-Cortez Transfers $1 Million to Help El-Sayed in Michigan Senate Race",
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html",
       "published": "Thu, 15 Oct 2026 22:37:04 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "A Guide to State Legislature Elections and Where Partisan Control Is at Stake",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/state-local-elections-midterms.html",
-      "published": "Thu, 15 Oct 2026 22:06:15 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Senators Demand Investigation Into Ukraine Satellite Disruption",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
-      "published": "Fri, 16 Oct 2026 09:17:11 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "More Trump Allies Aided Pro-Russian Balkan Government",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-srpska-elections-wiles.html",
-      "published": "Thu, 15 Oct 2026 20:53:09 +0000",
-      "sentiment": 0.1
     }
   ]
 }
