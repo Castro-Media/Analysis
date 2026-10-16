@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "A Father and a Teacher Risked Their Lives to Stop Oregon Elementary School Shooter",
+      "link": "https://www.wsj.com/us-news/a-father-and-a-teacher-risked-their-lives-to-stop-oregon-elementary-school-shooter-abeafd51?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 22:49:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Air-Traffic Controllers’ Practice of Leaving Work Early Targeted in Pay Deal",
+      "link": "https://www.wsj.com/us-news/air-traffic-controllers-reach-deal-with-faa-for-2-8-pay-increase-5eb91365?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 22:06:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "White House Press Secretary Is Out One Week After Her Appointment",
       "link": "https://www.wsj.com/politics/policy/trump-gives-new-white-house-press-secretary-option-to-quit-af349452?mod=rss_usnews",
       "published": "Fri, 16 Oct 2026 19:51:00 GMT",
@@ -25,16 +37,10 @@
       "sentiment": 0.14666666666666667
     },
     {
-      "title": "Three Children and One Teacher Killed in Elementary-School Shooting in Oregon",
-      "link": "https://www.wsj.com/us-news/three-children-and-one-adult-killed-in-elementary-school-shooting-in-oregon-723a6c4f?mod=rss_usnews",
-      "published": "Fri, 16 Oct 2026 01:45:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds",
-      "link": "https://www.wsj.com/politics/new-york-city-comptroller-defends-decision-not-to-invest-in-israeli-bonds-ed190f25?mod=rss_usnews",
-      "published": "Thu, 15 Oct 2026 22:01:00 GMT",
-      "sentiment": 0.04545454545454545
+      "title": "Katie Zacharia Out of the Job as Trump’s Press Secretary",
+      "link": "https://www.wsj.com/politics/whats-news-newsletter-10-16-2026-ed8fba72?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 21:11:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "How a 72-Year-Old Pastor Became America’s Favorite Campus Evangelist",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/us-news/education/justice-department-threatens-probe-of-american-bar-association-on-law-school-rules-8bcafd7b?mod=rss_usnews",
       "published": "Tue, 13 Oct 2026 19:41:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "I Went Home to South Carolina to Ask Young Voters About Trump and the Economy",
-      "link": "https://www.wsj.com/politics/elections/i-went-home-to-south-carolina-to-ask-young-voters-about-trump-and-the-economy-6b5843f1?mod=rss_usnews",
-      "published": "Tue, 13 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "DOJ Sues California to Block Ballots From 20,000 Voters",
@@ -127,6 +127,30 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | Good Guy With a Gun Saves Lives",
+      "link": "https://www.wsj.com/opinion/good-guy-with-a-gun-saves-lives-d3e845f4?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 21:56:00 GMT",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Opinion | Do Liberals Really Want ‘Abundance’?",
+      "link": "https://www.wsj.com/opinion/prop-45-california-permitting-building-projects-abundance-857fc28d?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 21:47:00 GMT",
+      "sentiment": 0.16818181818181818
+    },
+    {
+      "title": "Opinion | All the President’s Election Excuses",
+      "link": "https://www.wsj.com/opinion/donald-trump-john-cornyn-karl-rove-ken-paxton-election-republicans-019ffd8d?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 21:46:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Washington State’s ‘Millionaire’ Tax Trick",
+      "link": "https://www.wsj.com/opinion/washington-millionaire-tax-democrats-cindy-ryu-jesse-salomon-5d63cf32?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 21:45:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Radical Professors Have Poisoned the Electorate",
       "link": "https://www.wsj.com/opinion/radical-professors-have-poisoned-the-electorate-60cc90c9?mod=rss_usnews",
       "published": "Fri, 16 Oct 2026 19:00:00 GMT",
@@ -139,28 +163,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Is Politics Still Local in New England?",
-      "link": "https://www.wsj.com/opinion/is-politics-still-local-in-new-england-93105954?mod=rss_usnews",
-      "published": "Fri, 16 Oct 2026 18:44:00 GMT",
-      "sentiment": 0.06818181818181818
+      "title": "Three Children and One Teacher Killed in Elementary-School Shooting in Oregon",
+      "link": "https://www.wsj.com/us-news/three-children-and-one-adult-killed-in-elementary-school-shooting-in-oregon-723a6c4f?mod=rss_usnews",
+      "published": "Fri, 16 Oct 2026 01:45:00 GMT",
+      "sentiment": -0.2
     },
     {
-      "title": "Opinion | Colorado River States Could Head Back to the Supreme Court",
-      "link": "https://www.wsj.com/opinion/colorado-river-states-could-head-back-to-the-supreme-court-6ea5fdac?mod=rss_usnews",
-      "published": "Fri, 16 Oct 2026 18:44:00 GMT",
-      "sentiment": 0.06944444444444445
-    },
-    {
-      "title": "Opinion | Teaching Climate Science to Judges Isn’t Indoctrination",
-      "link": "https://www.wsj.com/opinion/teaching-climate-science-to-judges-isnt-indoctrination-822134f9?mod=rss_usnews",
-      "published": "Fri, 16 Oct 2026 13:50:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Opinion | Lethal Injection Hides the Reality of Execution",
-      "link": "https://www.wsj.com/opinion/lethal-injection-hides-the-reality-of-execution-1b286636?mod=rss_usnews",
-      "published": "Fri, 16 Oct 2026 13:48:00 GMT",
-      "sentiment": 0.5
+      "title": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds",
+      "link": "https://www.wsj.com/politics/new-york-city-comptroller-defends-decision-not-to-invest-in-israeli-bonds-ed190f25?mod=rss_usnews",
+      "published": "Thu, 15 Oct 2026 22:01:00 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Prosecutors Seek Life in Prison for Real Estate Brothers in Sex-Trafficking Case",
@@ -178,18 +190,6 @@
       "title": "Trump Can’t Reinstate White House Ban on CNN, Politico and MS NOW, Judge Rules",
       "link": "https://www.wsj.com/us-news/law/trump-cant-reinstate-white-house-ban-on-cnn-politico-and-ms-now-judge-rules-de4882c0?mod=rss_usnews",
       "published": "Wed, 14 Oct 2026 16:14:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Mamdani’s Pied-à-Terre Tax Hits Wealthy Out-of-Towners With a Double Whammy",
-      "link": "https://www.wsj.com/us-news/law/nyc-mamdani-pied-a-terre-tax-aada2f1f?mod=rss_usnews",
-      "published": "Wed, 14 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.1590909090909091
-    },
-    {
-      "title": "Man Who Orchestrated Tupac Shakur’s Killing Sentenced to 40 Years to Life",
-      "link": "https://www.wsj.com/us-news/man-who-orchestrated-tupac-shakurs-killing-sentenced-to-40-years-to-life-f7918ad0?mod=rss_usnews",
-      "published": "Tue, 13 Oct 2026 19:31:00 GMT",
       "sentiment": 0.0
     },
     {
