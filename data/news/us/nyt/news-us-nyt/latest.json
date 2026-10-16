@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "What Measures Keep Students Safe? Prevention, Not Defenses, Experts Say",
+      "link": "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html",
+      "published": "Fri, 16 Oct 2026 18:28:52 +0000",
+      "sentiment": 0.275
+    },
+    {
+      "title": "Russia Appears to Step Up Efforts to Influence U.S. Voters",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/russian-influence-campaigns-midterms.html",
+      "published": "Fri, 16 Oct 2026 18:24:33 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Katie Zacharia, Trump’s New Press Secretary, Is Fired After 5 Days",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
+      "published": "Fri, 16 Oct 2026 18:29:59 +0000",
+      "sentiment": 0.19545454545454546
+    },
+    {
+      "title": "Key to Past Hurricane Cleanup, Some Immigrant Workers Fear Florida’s Raids",
+      "link": "https://www.nytimes.com/2026/10/16/us/immigration-ice-agents-hurricane-repairs.html",
+      "published": "Fri, 16 Oct 2026 17:26:26 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "Parents Struggle to Help Their Children After School Killings in Oregon",
       "link": "https://www.nytimes.com/2026/10/16/us/parents-children-shooting-trauma.html",
       "published": "Fri, 16 Oct 2026 15:18:50 +0000",
@@ -9,13 +33,13 @@
     {
       "title": "Ocasio-Cortez Transfers $1 Million to Help El-Sayed in Michigan Senate Race",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/aoc-el-sayed-million-transfer-midterms.html",
-      "published": "Fri, 16 Oct 2026 16:32:15 +0000",
+      "published": "Fri, 16 Oct 2026 18:12:17 +0000",
       "sentiment": 0.21428571428571427
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/16/us/bend-oregon-shooting-school/heres-the-latest",
-      "published": "Fri, 16 Oct 2026 16:19:41 +0000",
+      "published": "Fri, 16 Oct 2026 18:33:44 +0000",
       "sentiment": 0.5
     },
     {
@@ -93,7 +117,7 @@
     {
       "title": "What We Know About the School Shooting in Bend, Ore.",
       "link": "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html",
-      "published": "Fri, 16 Oct 2026 13:23:36 +0000",
+      "published": "Fri, 16 Oct 2026 18:49:25 +0000",
       "sentiment": 0.3
     },
     {
@@ -123,7 +147,7 @@
     {
       "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
       "link": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
-      "published": "Fri, 16 Oct 2026 01:55:50 +0000",
+      "published": "Fri, 16 Oct 2026 17:01:31 +0000",
       "sentiment": -0.1875
     },
     {
@@ -257,30 +281,6 @@
       "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
       "published": "Thu, 15 Oct 2026 21:05:29 +0000",
       "sentiment": 0.11212121212121212
-    },
-    {
-      "title": "How Trump Is Trying to Assert Control Over the Election",
-      "link": "https://www.nytimes.com/video/us/100000011205817/how-trump-is-trying-to-assert-control-over-the-election.html",
-      "published": "Fri, 16 Oct 2026 14:27:27 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Fired FBI Agents Who Worked on Trump Investigation Sue Patel and Others",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/fired-fbi-agents-lawsuit-kash-patel-trump.html",
-      "published": "Thu, 15 Oct 2026 17:40:35 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
-      "published": "Thu, 15 Oct 2026 21:37:34 +0000",
-      "sentiment": 0.6
-    },
-    {
-      "title": "‘Suspicious Substances’ Sent to Senators and State Election Officials",
-      "link": "https://www.nytimes.com/2026/10/15/us/senators-election-officials-mail-suspicious-substances.html",
-      "published": "Thu, 15 Oct 2026 22:03:12 +0000",
-      "sentiment": 0.0
     }
   ]
 }

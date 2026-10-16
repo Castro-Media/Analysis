@@ -13,6 +13,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+      "published": "Fri, 16 Oct 2026 18:25:18 +0000",
+      "sentiment": -0.2
+    },
+    {
       "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
       "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
       "published": "Fri, 16 Oct 2026 15:22:54 +0000",
@@ -67,12 +73,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Houthi Missiles Strike Government Headquarters in Yemen",
-      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
-      "published": "Fri, 16 Oct 2026 00:14:38 +0000",
-      "sentiment": -0.2
-    },
-    {
       "title": "Violent Protests in Albania",
       "link": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
       "published": "Thu, 15 Oct 2026 21:40:24 +0000",
@@ -83,6 +83,18 @@
       "link": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html",
       "published": "Thu, 15 Oct 2026 17:02:49 +0000",
       "sentiment": -0.08518518518518518
+    },
+    {
+      "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
+      "published": "Fri, 16 Oct 2026 18:37:58 +0000",
+      "sentiment": 0.26666666666666666
+    },
+    {
+      "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+      "link": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
+      "published": "Fri, 16 Oct 2026 18:28:27 +0000",
+      "sentiment": 0.08125
     },
     {
       "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake",
@@ -125,6 +137,12 @@
       "link": "https://www.nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html",
       "published": "Thu, 15 Oct 2026 19:00:51 +0000",
       "sentiment": -0.049999999999999996
+    },
+    {
+      "title": "Houthi Missiles Strike Government Headquarters in Yemen",
+      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+      "published": "Fri, 16 Oct 2026 00:14:38 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction",
@@ -311,24 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html",
       "published": "Wed, 14 Oct 2026 08:46:26 +0000",
       "sentiment": 0.05
-    },
-    {
-      "title": "Leo XIV’s Lung Cancer Diagnosis Tests a Papacy Still Taking Shape",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-health-cancer.html",
-      "published": "Wed, 14 Oct 2026 10:18:57 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
-      "published": "Wed, 14 Oct 2026 00:12:23 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier.",
-      "link": "https://www.nytimes.com/2026/10/13/world/asia/japan-cyberattack-artificial-intelligence.html",
-      "published": "Tue, 13 Oct 2026 21:22:07 +0000",
-      "sentiment": -0.3
     }
   ]
 }
