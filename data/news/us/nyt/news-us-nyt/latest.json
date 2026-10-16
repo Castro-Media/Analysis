@@ -1,9 +1,45 @@
 {
   "entries": [
     {
+      "title": "The shooter went on a quick but deadly rampage before he was killed, officials said.",
+      "link": "https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/the-shooter-went-on-a-quick-but-deadly-rampage-before-he-was-killed-officials-said",
+      "published": "Fri, 16 Oct 2026 02:48:45 +0000",
+      "sentiment": -0.022222222222222237
+    },
+    {
+      "title": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html",
+      "published": "Fri, 16 Oct 2026 02:53:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bend, Ore., is known for its outdoor charm.",
+      "link": "https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/bend-ore-is-known-for-its-outdoor-charm",
+      "published": "Fri, 16 Oct 2026 01:45:59 +0000",
+      "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "5 Takeaways From the Senate Debate in Maine",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html",
+      "published": "Fri, 16 Oct 2026 01:42:12 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
+      "link": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
+      "published": "Fri, 16 Oct 2026 01:55:49 +0000",
+      "sentiment": -0.1875
+    },
+    {
+      "title": "Trump Ally, Paolo Zampolli, Leaves State Department",
+      "link": "https://www.nytimes.com/2026/10/15/us/politics/zampolli-trump-ally-state-department.html",
+      "published": "Fri, 16 Oct 2026 01:48:39 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Woman’s Quiet Dog Walk Near Bend Elementary School Shattered by Gunfire",
       "link": "https://www.nytimes.com/2026/10/15/us/bend-school-shooting-witness.html",
-      "published": "Fri, 16 Oct 2026 00:48:58 +0000",
+      "published": "Fri, 16 Oct 2026 01:43:55 +0000",
       "sentiment": 0.02727272727272727
     },
     {
@@ -21,7 +57,7 @@
     {
       "title": "Oregon’s Gun Laws Are Tight, by American Standards",
       "link": "https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html",
-      "published": "Fri, 16 Oct 2026 00:18:34 +0000",
+      "published": "Fri, 16 Oct 2026 02:38:32 +0000",
       "sentiment": 0.10535714285714284
     },
     {
@@ -63,13 +99,13 @@
     {
       "title": "Katie Zacharia Admits Failing Bar, but Defends Calling Herself a Lawyer",
       "link": "https://www.nytimes.com/2026/10/15/us/katie-zacharia-lawyer-attorney-bar.html",
-      "published": "Thu, 15 Oct 2026 23:43:34 +0000",
+      "published": "Fri, 16 Oct 2026 02:17:05 +0000",
       "sentiment": 0.06818181818181818
     },
     {
       "title": "Here’s what to know.",
       "link": "https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/bend-oregon-school-shooting",
-      "published": "Fri, 16 Oct 2026 00:50:59 +0000",
+      "published": "Fri, 16 Oct 2026 01:48:18 +0000",
       "sentiment": 0.04999999999999999
     },
     {
@@ -177,7 +213,7 @@
     {
       "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
       "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html",
-      "published": "Thu, 15 Oct 2026 22:56:29 +0000",
+      "published": "Fri, 16 Oct 2026 02:22:17 +0000",
       "sentiment": 0.0
     },
     {
@@ -245,30 +281,6 @@
       "link": "https://www.nytimes.com/2026/10/15/us/1993-great-flood-mississippi-midwest.html",
       "published": "Thu, 15 Oct 2026 22:02:21 +0000",
       "sentiment": 0.22500000000000003
-    },
-    {
-      "title": "A Megachurch Pastor is Running for Senate. Will Democrats Vote for Him?",
-      "link": "https://www.nytimes.com/2026/10/15/us/adam-hamilton-religious-democrats-candidates.html",
-      "published": "Thu, 15 Oct 2026 17:48:53 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Trump Says Those Who Leak Military Plans Should Be Shot",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-media-leaks-shot-rally.html",
-      "published": "Thu, 15 Oct 2026 16:21:10 +0000",
-      "sentiment": 0.075
-    },
-    {
-      "title": "3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html",
-      "published": "Thu, 15 Oct 2026 22:15:35 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
-      "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
-      "published": "Thu, 15 Oct 2026 02:09:00 +0000",
-      "sentiment": 0.20833333333333334
     }
   ]
 }
