@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Eurozone Swung to Goods-Trade Deficit in August",
+      "link": "https://www.wsj.com/economy/trade/eurozone-swung-to-trade-deficit-in-august-699c6b31?mod=rss_socialeconomyfeed",
+      "published": "Fri, 16 Oct 2026 10:28:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Wall Street Trading Desks Get Undermined",
+      "link": "https://www.wsj.com/finance/investing/wall-street-trading-desks-get-undermined-7f73ff9e?mod=rss_socialeconomyfeed",
+      "published": "Fri, 16 Oct 2026 10:25:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "China Proposes Export Controls on AI Technologies",
+      "link": "https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030?mod=rss_socialeconomyfeed",
+      "published": "Fri, 16 Oct 2026 10:15:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "See the key moments from Fed Chairman Kevin Warsh’s appearance at the IMF gathering.",
+      "link": "https://www.wsj.com/economy/central-banking/key-moments-from-kevin-warshs-speech-to-the-imf-62c97df8?mod=rss_socialeconomyfeed",
+      "published": "Fri, 16 Oct 2026 10:08:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Fed Chairman Kevin Warsh declined to endorse or push back on colleagues’ signals that officials are in no rush to raise interest rates this month, saying the central bank was no longer in the business of previewing its decisions",
       "link": "https://www.wsj.com/economy/central-banking/warsh-avoids-signal-on-october-rate-move-a176b0d5?mod=rss_socialeconomyfeed",
       "published": "Fri, 16 Oct 2026 04:41:00 GMT",
@@ -11,24 +35,6 @@
       "link": "https://www.wsj.com/economy/see-the-states-where-high-gas-prices-are-hurting-the-most-61e82cc6?mod=rss_socialeconomyfeed",
       "published": "Fri, 16 Oct 2026 00:00:00 GMT",
       "sentiment": -0.13055555555555556
-    },
-    {
-      "title": "Lutnick Throws the Future of U.S.-Mexico Trade Talks Into Further Doubt",
-      "link": "https://www.wsj.com/economy/trade/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-5cfb85a4?mod=rss_socialeconomyfeed",
-      "published": "Thu, 15 Oct 2026 23:24:00 GMT",
-      "sentiment": 0.09375
-    },
-    {
-      "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
-      "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
-      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.02407407407407408
-    },
-    {
-      "title": "Canada Factory Sales Recover in August With Increased Prices",
-      "link": "https://www.wsj.com/world/americas/canada-factory-sales-recover-in-august-with-increased-prices-e67ce632?mod=rss_socialeconomyfeed",
-      "published": "Thu, 15 Oct 2026 15:18:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Economic damage from high energy prices and rising borrowing costs is mounting globally, splitting the world into a new set of winners and losers as countries with limited exposure to the AI boom fall behind",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/economy/global/frances-economy-is-trapped-in-a-negative-feedback-loop-509598a9?mod=rss_socialeconomyfeed",
       "published": "Wed, 07 Oct 2026 08:42:00 GMT",
       "sentiment": -0.13333333333333336
-    },
-    {
-      "title": "IMF Chief Tells Economic Leaders: The Time to Act Is Now",
-      "link": "https://www.wsj.com/economy/global/imf-chief-tells-economic-leaders-the-time-to-act-is-now-cef10d0a?mod=rss_socialeconomyfeed",
-      "published": "Wed, 07 Oct 2026 06:19:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Canada Building Permits Rebound in August",
@@ -157,6 +157,18 @@
       "sentiment": -0.07013888888888889
     },
     {
+      "title": "Lutnick Throws the Future of U.S.-Mexico Trade Talks Into Further Doubt",
+      "link": "https://www.wsj.com/economy/trade/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-5cfb85a4?mod=rss_socialeconomyfeed",
+      "published": "Thu, 15 Oct 2026 23:24:00 GMT",
+      "sentiment": 0.09375
+    },
+    {
+      "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
+      "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
+      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
+      "sentiment": 0.02407407407407408
+    },
+    {
       "title": "AI Investment Boom to Drive Fastest Global Trade Growth Since Financial Crisis, WTO Forecasts",
       "link": "https://www.wsj.com/economy/trade/ai-investment-boom-to-drive-fastest-global-trade-growth-since-financial-crisis-wto-forecasts-ef3b309f?mod=rss_socialeconomyfeed",
       "published": "Thu, 08 Oct 2026 13:10:00 GMT",
@@ -173,18 +185,6 @@
       "link": "https://www.wsj.com/economy/trade/trumps-tariffs-put-a-spotlight-on-forced-labor-it-isnt-going-away-b5f68fda?mod=rss_socialeconomyfeed",
       "published": "Wed, 07 Oct 2026 22:00:00 GMT",
       "sentiment": 0.26666666666666666
-    },
-    {
-      "title": "Canada’s August Trade Surplus Widens Sharply Ahead of Fresh Tariffs",
-      "link": "https://www.wsj.com/economy/trade/canadas-august-trade-surplus-widens-sharply-ahead-of-fresh-tariffs-48955372?mod=rss_socialeconomyfeed",
-      "published": "Tue, 06 Oct 2026 14:49:00 GMT",
-      "sentiment": 0.035
-    },
-    {
-      "title": "U.S. imports were higher than exports by about $106 billion in August",
-      "link": "https://www.wsj.com/economy/trade/u-s-trade-deficit-widens-to-largest-level-in-more-than-a-year-32618af7?mod=rss_socialeconomyfeed",
-      "published": "Tue, 06 Oct 2026 14:48:00 GMT",
-      "sentiment": 0.07500000000000001
     },
     {
       "title": "U.S. Jobless Claims Edge Up, Snap 5-Week Skid",

@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
+      "published": "Fri, 16 Oct 2026 09:56:26 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+      "link": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html",
+      "published": "Fri, 16 Oct 2026 10:45:55 +0000",
+      "sentiment": 0.0893939393939394
+    },
+    {
+      "title": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
+      "link": "https://www.nytimes.com/2026/10/16/world/americas/caracas-venezuela-crime-raids-icc.html",
+      "published": "Fri, 16 Oct 2026 09:00:14 +0000",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "El Niño Threatens Global Sugar Supply",
       "link": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
       "published": "Fri, 16 Oct 2026 04:00:14 +0000",
@@ -11,6 +29,12 @@
       "link": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
       "published": "Fri, 16 Oct 2026 08:22:08 +0000",
       "sentiment": 0.17083333333333334
+    },
+    {
+      "title": "Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-women-makeup-chores.html",
+      "published": "Fri, 16 Oct 2026 09:55:05 +0000",
+      "sentiment": -0.15
     },
     {
       "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
@@ -39,7 +63,7 @@
     {
       "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
       "link": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
-      "published": "Thu, 15 Oct 2026 16:05:20 +0000",
+      "published": "Thu, 15 Oct 2026 16:05:21 +0000",
       "sentiment": -0.08333333333333333
     },
     {
@@ -59,30 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
       "published": "Thu, 15 Oct 2026 09:03:54 +0000",
       "sentiment": 0.05454545454545456
-    },
-    {
-      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
-      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
-      "published": "Thu, 15 Oct 2026 17:00:51 +0000",
-      "sentiment": -0.3666666666666667
-    },
-    {
-      "title": "32 Children Killed After School Roof Collapses in Pakistan",
-      "link": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
-      "published": "Thu, 15 Oct 2026 15:04:12 +0000",
-      "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "North Korea and China Open Their Biggest Border Bridge",
-      "link": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
-      "published": "Thu, 15 Oct 2026 08:49:12 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
-      "published": "Thu, 15 Oct 2026 13:01:07 +0000",
-      "sentiment": 0.4
     },
     {
       "title": "A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell",
@@ -131,6 +131,30 @@
       "link": "https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
       "published": "Thu, 15 Oct 2026 14:12:01 +0000",
       "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "32 Children Killed After School Roof Collapses in Pakistan",
+      "link": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
+      "published": "Thu, 15 Oct 2026 15:04:12 +0000",
+      "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "North Korea and China Open Their Biggest Border Bridge",
+      "link": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
+      "published": "Thu, 15 Oct 2026 08:49:12 +0000",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
+      "published": "Thu, 15 Oct 2026 13:01:07 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+      "published": "Thu, 15 Oct 2026 17:00:51 +0000",
+      "sentiment": -0.3666666666666667
     },
     {
       "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
@@ -311,30 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
       "published": "Wed, 14 Oct 2026 05:03:25 +0000",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
-      "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-      "published": "Wed, 14 Oct 2026 00:56:54 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Father’s Mission Is to Show the World ‘What Russia Did to My Family’",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html",
-      "published": "Tue, 13 Oct 2026 20:31:15 +0000",
-      "sentiment": -0.08125
-    },
-    {
-      "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
-      "published": "Wed, 14 Oct 2026 13:11:17 +0000",
-      "sentiment": 0.025
-    },
-    {
-      "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
-      "published": "Tue, 13 Oct 2026 16:04:04 +0000",
-      "sentiment": -0.225
     }
   ]
 }

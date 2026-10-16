@@ -3,8 +3,20 @@
     {
       "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays",
       "link": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 02:10:00 GMT",
+      "published": "Fri, 16 Oct 2026 10:27:00 GMT",
       "sentiment": 0.27878787878787875
+    },
+    {
+      "title": "How Lumen’s CEO and CFO Struck a Siblinglike Partnership",
+      "link": "https://www.wsj.com/business/how-lumens-ceo-and-cfo-struck-a-siblinglike-partnership-45b427fe?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 09:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "AI Agents Bring New Headaches to Online Sellers",
+      "link": "https://www.wsj.com/business/ai-agents-bring-new-headaches-to-online-sellers-d2dc84b4?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "The Unsealed NFL Memo That Shows How Recruiters Really Size Up Candidates",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/telecom/how-does-starshield-work-and-who-controls-it-270cbe68?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 23:06:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Netflix Replaces Content Chief as It Struggles to Engage Viewers",
-      "link": "https://www.wsj.com/business/media/netflix-replaces-content-chief-as-it-struggles-to-engage-viewers-c179e0ba?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 22:42:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tesla’s Energy Boss Leaves the Company",
-      "link": "https://www.wsj.com/business/autos/teslas-energy-boss-leaves-the-company-a90d8f2b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 22:15:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "Penske Automotive Group to Be Taken Private by Penske, Mitsui",
@@ -97,6 +97,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Regions Financial Posts Higher Profit, Revenue",
+      "link": "https://www.wsj.com/business/earnings/regions-financial-posts-higher-profit-revenue-18911132?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 10:41:00 GMT",
+      "sentiment": 0.08333333333333333
+    },
+    {
       "title": "Nordex Shares Jump on Earnings Growth, Guidance Raise",
       "link": "https://www.wsj.com/business/earnings/nordex-shares-jump-on-earnings-growth-guidance-raise-3e04a680?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 08:10:00 GMT",
@@ -121,10 +127,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Bank of New York Logs Higher Profit But Flags Market Volatility",
-      "link": "https://www.wsj.com/business/earnings/bank-of-new-york-mellon-logs-higher-profit-sales-a622dae6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 12:36:00 GMT",
-      "sentiment": 0.05378787878787878
+      "title": "Tesla’s Energy Boss Leaves the Company",
+      "link": "https://www.wsj.com/business/autos/teslas-energy-boss-leaves-the-company-a90d8f2b?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 22:15:00 GMT",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "Chinese Automakers Focus on International Expansion Despite Limits",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/tech/uber-robotaxi-leader-to-depart-next-month-612295c2?mod=pls_whats_news_us_business_f",
       "published": "Tue, 13 Oct 2026 21:54:00 GMT",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8a9773ef?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 20:58:00 GMT",
-      "sentiment": 0.37878787878787873
     },
     {
       "title": "Opinion | The Democratic Hormuz Alternative",
@@ -223,6 +223,12 @@
       "sentiment": 0.12857142857142856
     },
     {
+      "title": "The Mystery of the Disappearing Airplane Barf Bag",
+      "link": "https://www.wsj.com/lifestyle/travel/the-mystery-of-the-disappearing-airplane-barf-bag-23bdeb3f?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "Saudi Airlines Rush to Save Scores of Planes From a War Zone",
       "link": "https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 17:49:00 GMT",
@@ -247,10 +253,10 @@
       "sentiment": 0.26111111111111107
     },
     {
-      "title": "Air Travel Emerges as Dangerous Front Line in Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/air-travel-emerges-as-dangerous-front-line-in-global-conflicts-20e972c5?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 11 Oct 2026 17:04:00 GMT",
-      "sentiment": -0.03749999999999999
+      "title": "Inside Lumen’s C-Suite—A CEO and CFO Who Clicked Immediately",
+      "link": "https://www.wsj.com/cfo-journal/inside-lumens-c-suitea-ceo-and-cfo-who-clicked-immediately-20995c25?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 09:54:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "High Rates Have Upturned How Moody’s Looks at Credit Risk, Chief Credit Officer Says",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/wall-street-books-profits-but-loses-some-momentum-in-q3-f77632fd?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 11:31:00 GMT",
       "sentiment": -0.09999999999999999
-    },
-    {
-      "title": "Meg Whitman Takes Charge at Albertsons",
-      "link": "https://www.wsj.com/business/meg-whitman-takes-charge-at-albertsons-c7e71e1d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 10:06:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants",
@@ -313,6 +313,12 @@
       "sentiment": -0.5
     },
     {
+      "title": "Netflix Replaces Content Chief as It Struggles to Engage Viewers",
+      "link": "https://www.wsj.com/business/media/netflix-replaces-content-chief-as-it-struggles-to-engage-viewers-c179e0ba?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 22:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "YouTube Changed Video. Are Audiobooks Its Next Frontier?",
       "link": "https://www.wsj.com/cmo-today/youtube-changed-video-are-audiobooks-its-next-frontier-9e2af61a?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 13:28:00 GMT",
@@ -334,12 +340,6 @@
       "title": "Why Stuffy Law Firms Are Suddenly Acting Like Consumer Brands",
       "link": "https://www.wsj.com/cmo-today/why-stuffy-law-firms-are-suddenly-acting-like-consumer-brands-9a8cc397?mod=pls_whats_news_us_business_f",
       "published": "Wed, 14 Oct 2026 13:29:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
-      "link": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 13:07:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -465,7 +465,7 @@
     {
       "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays",
       "link": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 02:10:00 GMT",
+      "published": "Fri, 16 Oct 2026 10:27:00 GMT",
       "sentiment": 0.27878787878787875
     },
     {
@@ -475,22 +475,22 @@
       "sentiment": 0.08116883116883117
     },
     {
-      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
-      "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.04
-    },
-    {
       "title": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants",
       "link": "https://www.wsj.com/business/kfc-is-moving-to-ditch-pepsi-for-coke-in-thousands-of-restaurants-cb44611d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 19:53:00 GMT",
       "sentiment": 0.1
     },
     {
-      "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
-      "link": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 00:18:00 GMT",
-      "sentiment": -0.05
+      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
+      "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.04
+    },
+    {
+      "title": "New Private-Equity Firm Specializes in Giving Companies AI Glow-Ups",
+      "link": "https://www.wsj.com/finance/investing/a-new-private-equity-firm-specializes-in-giving-companies-ai-glow-ups-86fcb48e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.021590909090909084
     },
     {
       "title": "Best Small-Business Loans in October 2026",
