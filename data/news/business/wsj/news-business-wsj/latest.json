@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays",
+      "link": "https://www.wsj.com/business/autos/tesla-roadster-elon-musk-530c8e78?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 02:10:00 GMT",
+      "sentiment": 0.27878787878787875
+    },
+    {
+      "title": "The Unsealed NFL Memo That Shows How Recruiters Really Size Up Candidates",
+      "link": "https://www.wsj.com/business/the-unsealed-nfl-memo-that-shows-how-recruiters-really-size-up-candidates-f3e57f61?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.32999999999999996
+    },
+    {
       "title": "Inside Porsche’s Revival Bid: Pricier Cars, Tougher Bonuses and Less Remote Work",
       "link": "https://www.wsj.com/business/autos/inside-porsches-revival-bid-pricier-cars-tougher-bonuses-and-less-remote-work-706c558d?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 01:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/autos/teslas-energy-boss-leaves-the-company-a90d8f2b?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 22:15:00 GMT",
       "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-9e647cb7?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 21:02:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Penske Automotive Group to Be Taken Private by Penske, Mitsui",
@@ -433,6 +433,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-9e647cb7?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 15 Oct 2026 21:02:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "The Morning Risk Report: Debanking Probe Finds JPMorgan, Banks Cut Off MAGA Sellers and Democrat Groups",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-debanking-probe-finds-jpmorgan-banks-cut-off-maga-sellers-and-democrat-groups-e2fb04ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 11:29:00 GMT",
@@ -451,18 +463,6 @@
       "sentiment": 0.09999999999999998
     },
     {
-      "title": "Gas Exporter Venture Global Wants to Get In on AI Power Boom",
-      "link": "https://www.wsj.com/business/energy-oil/gas-exporter-venture-global-wants-to-get-in-on-ai-power-boom-6b91b9e1?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 09:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Apple Closes Above the $5 Trillion Mark",
-      "link": "https://www.wsj.com/tech/apple-closes-above-the-5-trillion-mark-c72da719?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 21:20:00 GMT",
-      "sentiment": -0.015909090909090914
-    },
-    {
       "title": "Big Pharma Is Pouring Billions Into a New Class of ‘Protein Degrader’ Drugs",
       "link": "https://www.wsj.com/health/pharma/big-pharma-is-pouring-billions-into-a-new-class-of-protein-degrader-drugs-9de1078e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 09:30:00 GMT",
@@ -475,16 +475,16 @@
       "sentiment": 0.04
     },
     {
-      "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
-      "link": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 00:18:00 GMT",
-      "sentiment": -0.05
-    },
-    {
       "title": "KFC to Ditch Pepsi for Coke in Thousands of Restaurants",
       "link": "https://www.wsj.com/business/kfc-is-moving-to-ditch-pepsi-for-coke-in-thousands-of-restaurants-cb44611d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 19:53:00 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
+      "link": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 14 Oct 2026 00:18:00 GMT",
+      "sentiment": -0.05
     },
     {
       "title": "Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
