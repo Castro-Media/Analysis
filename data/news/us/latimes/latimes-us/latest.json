@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Luna, a 10-year-old Jack Russell, just survived a month loose in Yellowstone National Park",
+      "link": "https://www.latimes.com/california/story/2026-10-17/10-year-old-jack-russell-terrier-survives-month-lost-in-yellowstone",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.15576923076923077
+    },
+    {
+      "title": "SoCal braces for more Santa Ana winds as fire destroys homes in Orange County",
+      "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
+      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08249999999999999
+    },
+    {
       "title": "Arcadia surrogacy mansion mom fled U.S. after previous abuse charge, prosecutors allege",
       "link": "https://www.latimes.com/california/story/2026-10-16/arcadia-surrogacy-case-bail-hearing-prosecutor-allegations",
       "published": "Sat, 17 Oct 2026 01:09:13 GMT",
@@ -55,18 +73,6 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "Bass vs. Raman: Who can make housing more affordable?",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
       "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
@@ -77,6 +83,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15833333333333335
+    },
+    {
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "Bass vs. Raman: Who can make housing more affordable?",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.175
     },
     {
       "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
@@ -265,16 +283,16 @@
       "sentiment": -0.1875
     },
     {
-      "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
-      "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.39166666666666666
-    },
-    {
       "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
       "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
       "published": "Wed, 14 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09500000000000001
+    },
+    {
+      "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
+      "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.39166666666666666
     },
     {
       "title": "Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate",
@@ -385,6 +403,18 @@
       "sentiment": -0.05555555555555555
     },
     {
+      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
+      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05277777777777778
+    },
+    {
+      "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
+      "link": "https://www.latimes.com/lifestyle/story/2026-10-12/griffith-park-merry-go-round-restoration",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
       "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
@@ -395,18 +425,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": -0.056666666666666664
-    },
-    {
-      "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
-      "link": "https://www.latimes.com/lifestyle/story/2026-10-12/griffith-park-merry-go-round-restoration",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
-      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05277777777777778
     },
     {
       "title": "2 children fatally shot in attempted murder-suicide in Pico-Union",
@@ -427,16 +445,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
-      "link": "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy",
-      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09722222222222222
-    },
-    {
       "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
       "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
       "published": "Sun, 11 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
+      "link": "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09722222222222222
     },
     {
       "title": "Rachel moves in as 'unprecedented' conditions bring SoCal coastal flooding",
@@ -475,12 +493,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
-      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
-      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.18181818181818182
-    },
-    {
       "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
       "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
@@ -491,6 +503,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
+      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
+      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.18181818181818182
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
@@ -547,22 +565,10 @@
       "sentiment": -0.05
     },
     {
-      "title": "Southern California braces for Tropical Storm Rachel. 'This is not even the worst,' official says",
-      "link": "https://www.latimes.com/california/story/2026-10-09/tropical-storm-rachel-when-will-it-hit-socal-how-bad-will-it-be",
+      "title": "Arellano: We live in a world the L.A. City Hall audio leak scandal wrought. Thank God",
+      "link": "https://www.latimes.com/california/story/2026-10-09/la-city-hall-audio-leak-scandal-anniversary-2026",
       "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15
-    },
-    {
-      "title": "This Joshua Tree highway keeps killing wildlife. Enter the poop-hunting dogs",
-      "link": "https://www.latimes.com/environment/story/2026-10-09/how-poop-sniffing-dogs-are-helping-save-joshua-trees-mountain-lions",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Police lawsuits have cost L.A. nearly half a billion dollars since 2019, new data show",
-      "link": "https://www.latimes.com/california/story/2026-10-09/lapd-police-lawsuit-payouts-since-2020",
-      "published": "Fri, 9 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.010101010101010102
+      "sentiment": 0.21212121212121213
     }
   ]
 }
