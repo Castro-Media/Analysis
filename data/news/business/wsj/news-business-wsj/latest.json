@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "News Quiz for October 17, 2026",
+      "link": "https://www.wsj.com/business/media/news-quiz-for-october-17-2026-06096c58?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "It’s Too Late for Small Fixes at Pepsi",
+      "link": "https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 17 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.10416666666666667
+    },
+    {
+      "title": "What Tesla’s Flying Roadster Really Means for the Global Auto Race",
+      "link": "https://www.wsj.com/business/autos/what-teslas-flying-roadster-really-means-for-the-global-auto-race-0ede8702?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 17 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Hermès Is Targeting a New Emerging Market: The American Suburbs",
       "link": "https://www.wsj.com/business/retail/hermes-us-emerging-markets-suburbs-f6d19b58?mod=pls_whats_news_us_business_f",
       "published": "Sat, 17 Oct 2026 02:00:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/us-news/air-traffic-controllers-reach-deal-with-faa-for-2-8-pay-increase-5eb91365?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 22:06:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Katie Zacharia Out of the Job as Trump’s Press Secretary",
-      "link": "https://www.wsj.com/politics/whats-news-newsletter-10-16-2026-ed8fba72?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 21:11:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-1850994c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 21:08:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-b4026e6d?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 21:02:00 GMT",
-      "sentiment": 0.33999999999999997
     },
     {
       "title": "Proofpoint to Acquire Varonis in $6.3 Billion Cybersecurity Deal",
@@ -433,6 +433,24 @@
       "sentiment": 0.07575757575757576
     },
     {
+      "title": "Katie Zacharia Out of the Job as Trump’s Press Secretary",
+      "link": "https://www.wsj.com/politics/whats-news-newsletter-10-16-2026-ed8fba72?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 21:11:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-1850994c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 21:08:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-b4026e6d?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 21:02:00 GMT",
+      "sentiment": 0.33999999999999997
+    },
+    {
       "title": "The Unsealed NFL Memo That Shows How Recruiters Really Size Up Candidates",
       "link": "https://www.wsj.com/business/the-unsealed-nfl-memo-that-shows-how-recruiters-really-size-up-candidates-f3e57f61?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 02:00:00 GMT",
@@ -443,24 +461,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 21:03:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-9e647cb7?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 21:02:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "An AI-for-Climate Startup Won Nvidia’s Backing—After Putting the Climate Part on Ice",
-      "link": "https://www.wsj.com/business/energy-oil/an-ai-for-climate-startup-won-nvidias-backingafter-putting-the-climate-part-on-ice-8b4eced2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 13:25:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Morning Risk Report: Debanking Probe Finds JPMorgan, Banks Cut Off MAGA Sellers and Democrat Groups",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-debanking-probe-finds-jpmorgan-banks-cut-off-maga-sellers-and-democrat-groups-e2fb04ad?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 11:29:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays",
