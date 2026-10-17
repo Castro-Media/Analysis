@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "Justice Department Seeks to Disqualify Judge Overseeing Golf Course Lawsuit",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/justice-department-disqualify-judge-golf-lawsuit.html",
+      "published": "Sat, 17 Oct 2026 02:32:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "School Shooting in Bend, Ore., Has Heroes and Pain, But Few Answers",
+      "link": "https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html",
+      "published": "Sat, 17 Oct 2026 02:06:24 +0000",
+      "sentiment": 0.04999999999999999
+    },
+    {
+      "title": "Congressional Staff Open Letters Containing Suspicious Substances",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/congressional-staff-letters-suspicious-substances.html",
+      "published": "Sat, 17 Oct 2026 02:00:57 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Trump Signs Order Exempting Russia From Sanctions Legislation",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
+      "published": "Sat, 17 Oct 2026 01:56:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ilhan Omar’s Sister’s Phone Was Seized Before Search of Lawmaker’s Home",
+      "link": "https://www.nytimes.com/2026/10/16/us/politics/ilhan-omar-investigation-phone.html",
+      "published": "Sat, 17 Oct 2026 02:06:39 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "What we learned from the latest news conference on the Oregon school shooting.",
       "link": "https://www.nytimes.com/live/2026/10/16/us/bend-oregon-shooting-school/what-we-learned-from-the-latest-news-conference-on-the-oregon-school-shooting",
       "published": "Sat, 17 Oct 2026 01:02:42 +0000",
@@ -27,7 +57,7 @@
     {
       "title": "Teacher Killed in Oregon School Shooting Was Working Her ‘Dream Job,’ Family Says",
       "link": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html",
-      "published": "Fri, 16 Oct 2026 23:29:53 +0000",
+      "published": "Sat, 17 Oct 2026 01:12:39 +0000",
       "sentiment": -0.055
     },
     {
@@ -49,9 +79,9 @@
       "sentiment": 0.1
     },
     {
-      "title": "Appeals Court Questions Justice Dept. Claim that Trump Owns White House Records",
+      "title": "Appeals Court Questions Justice Dept. Claim That Trump Owns White House Records",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html",
-      "published": "Fri, 16 Oct 2026 21:47:04 +0000",
+      "published": "Sat, 17 Oct 2026 01:42:34 +0000",
       "sentiment": 0.0
     },
     {
@@ -105,7 +135,7 @@
     {
       "title": "Katie Zacharia, Trump’s New Press Secretary, Is Ousted After 5 Days",
       "link": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
-      "published": "Fri, 16 Oct 2026 21:57:41 +0000",
+      "published": "Sat, 17 Oct 2026 02:20:27 +0000",
       "sentiment": 0.11534090909090909
     },
     {
@@ -129,7 +159,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/16/us/bend-oregon-shooting-school/heres-the-latest",
-      "published": "Fri, 16 Oct 2026 23:31:29 +0000",
+      "published": "Sat, 17 Oct 2026 01:32:27 +0000",
       "sentiment": 0.5
     },
     {
@@ -209,42 +239,6 @@
       "link": "https://www.nytimes.com/2026/10/16/us/bend-oregon-shooting-victims-suspect.html",
       "published": "Sat, 17 Oct 2026 00:09:31 +0000",
       "sentiment": 0.32857142857142857
-    },
-    {
-      "title": "The shooter went on a quick but deadly rampage before he was killed, officials said.",
-      "link": "https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/the-shooter-went-on-a-quick-but-deadly-rampage-before-he-was-killed-officials-said",
-      "published": "Fri, 16 Oct 2026 02:48:45 +0000",
-      "sentiment": -0.022222222222222237
-    },
-    {
-      "title": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html",
-      "published": "Fri, 16 Oct 2026 16:19:33 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Bend, Ore., is known for its outdoor charm.",
-      "link": "https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/bend-ore-is-known-for-its-outdoor-charm",
-      "published": "Fri, 16 Oct 2026 01:45:59 +0000",
-      "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "5 Takeaways From the Senate Debate in Maine",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html",
-      "published": "Fri, 16 Oct 2026 10:50:03 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "School Shooting in Oregon Adds Silver Rail Elementary to Grim List",
-      "link": "https://www.nytimes.com/2026/10/15/us/school-shootings-usa-oregon-silver-rail.html",
-      "published": "Fri, 16 Oct 2026 17:01:31 +0000",
-      "sentiment": -0.1875
-    },
-    {
-      "title": "Trump Ally, Paolo Zampolli, Leaves State Department",
-      "link": "https://www.nytimes.com/2026/10/15/us/politics/zampolli-trump-ally-state-department.html",
-      "published": "Fri, 16 Oct 2026 15:46:20 +0000",
-      "sentiment": 0.0
     }
   ]
 }
