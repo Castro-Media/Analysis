@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
+      "link": "https://www.latimes.com/california/story/2026-10-17/who-was-openai-engineer-who-allegedly-bugged-company-conference-room",
+      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "New research shows how microplastics and water interactions could lead to cell damage",
       "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
       "published": "Sat, 17 Oct 2026 12:00:00 GMT",
@@ -19,12 +25,6 @@
       "sentiment": 0.2606060606060606
     },
     {
-      "title": "SoCal braces for more Santa Ana winds as fire destroys homes in Orange County",
-      "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1875
-    },
-    {
       "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
       "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
@@ -35,6 +35,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-17/10-year-old-jack-russell-terrier-survives-month-lost-in-yellowstone",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": 0.15576923076923077
+    },
+    {
+      "title": "SoCal braces for more Santa Ana winds as fire destroys homes in Orange County",
+      "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1875
     },
     {
       "title": "Arcadia surrogacy mansion mom fled U.S. after previous abuse charge, prosecutors allege",
@@ -563,12 +569,6 @@
       "link": "https://www.latimes.com/environment/story/2026-10-09/california-delta-water-lawsuit",
       "published": "Fri, 9 Oct 2026 18:37:17 GMT",
       "sentiment": 0.07500000000000001
-    },
-    {
-      "title": "Lawsuit accusing O.C. Board of Education trustee of choking neighbor dismissed",
-      "link": "https://www.latimes.com/california/story/2026-10-09/lawsuit-accusing-o-c-board-of-education-trustee-of-choking-neighbor-dismissed",
-      "published": "Fri, 9 Oct 2026 17:32:05 GMT",
-      "sentiment": 0.0
     }
   ]
 }
