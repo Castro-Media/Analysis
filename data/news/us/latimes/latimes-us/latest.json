@@ -19,16 +19,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "New research shows how microplastics and water interactions could lead to cell damage",
-      "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
-      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0909090909090909
-    },
-    {
       "title": "Lopez: It's been a great romance, but it's time to rethink our relationship with the California coast",
       "link": "https://www.latimes.com/california/story/2026-10-17/its-time-to-rethink-our-relationship-with-california-coast",
       "published": "Sat, 17 Oct 2026 12:00:00 GMT",
       "sentiment": 0.5666666666666667
+    },
+    {
+      "title": "New research shows how microplastics and water interactions could lead to cell damage",
+      "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
+      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0909090909090909
     },
     {
       "title": "Just 8 years after Woolsey, a new fire ignites in its scar — too soon for both residents and plants",
@@ -109,10 +109,10 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "Bass vs. Raman: Who can make housing more affordable?",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
+      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
+      "sentiment": -0.2125
     },
     {
       "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
@@ -121,16 +121,16 @@
       "sentiment": -0.15833333333333335
     },
     {
-      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
-      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2125
-    },
-    {
       "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
       "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "Bass vs. Raman: Who can make housing more affordable?",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.175
     },
     {
       "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
@@ -181,16 +181,16 @@
       "sentiment": 0.23376623376623376
     },
     {
-      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
-      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4318181818181818
-    },
-    {
       "title": "As Santa Ana winds bear down, officials shutter parks to avoid sparking a fire: Here's what's closed",
       "link": "https://www.latimes.com/california/story/2026-10-15/santa-monica-mountains-parks-close-red-flag-warning",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0961111111111111
+    },
+    {
+      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
+      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4318181818181818
     },
     {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",
@@ -403,12 +403,6 @@
       "sentiment": -0.018518518518518517
     },
     {
-      "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
-      "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4
-    },
-    {
       "title": "L.A. nonprofit rented luxury Santa Monica apartment, BMW for CEO living in Hawaii",
       "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
@@ -419,6 +413,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0111111111111111
+    },
+    {
+      "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
+      "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4
     },
     {
       "title": "Former police officers, daughter killed in suspected murder-suicide in upscale California neighborhood",
@@ -439,16 +439,10 @@
       "sentiment": -0.05555555555555555
     },
     {
-      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
-      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
+      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
+      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.056666666666666664
-    },
-    {
-      "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
-      "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.45833333333333337
+      "sentiment": 0.05277777777777778
     },
     {
       "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
@@ -457,10 +451,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
-      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
+      "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
+      "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05277777777777778
+      "sentiment": 0.45833333333333337
+    },
+    {
+      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
+      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.056666666666666664
     },
     {
       "title": "2 children fatally shot in attempted murder-suicide in Pico-Union",
@@ -517,22 +517,22 @@
       "sentiment": 0.375
     },
     {
-      "title": "Lopez: They were homeless, but turned their lives around. Here's how they did it",
-      "link": "https://www.latimes.com/california/story/2026-10-10/they-were-homeless-but-turned-their-lives-around-heres-how-they-did-it",
-      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Iowa fugitive worked as a chef in San Diego under an alias for more than a decade",
       "link": "https://www.latimes.com/california/story/2026-10-10/iowa-fugitive-worked-as-san-diego-chef-under-alias-for-decade",
       "published": "Sat, 10 Oct 2026 12:00:00 GMT",
       "sentiment": 0.5
     },
     {
-      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
-      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
+      "title": "Lopez: They were homeless, but turned their lives around. Here's how they did it",
+      "link": "https://www.latimes.com/california/story/2026-10-10/they-were-homeless-but-turned-their-lives-around-heres-how-they-did-it",
+      "published": "Sat, 10 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
+      "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.18181818181818182
+      "sentiment": -0.24
     },
     {
       "title": "Tropical Storm Rachel is behaving in unusual ways. What that means for SoCal this weekend",
@@ -541,10 +541,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
-      "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
+      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
+      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24
+      "sentiment": -0.18181818181818182
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
