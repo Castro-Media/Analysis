@@ -7,9 +7,9 @@
       "sentiment": 0.05
     },
     {
-      "title": "Pope Leo Leaves Hospital, Days After Lung Surgery",
+      "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-      "published": "Sat, 17 Oct 2026 13:42:33 +0000",
+      "published": "Sat, 17 Oct 2026 15:52:46 +0000",
       "sentiment": 0.0
     },
     {
@@ -21,7 +21,7 @@
     {
       "title": "Why Are There Protests in France?",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
-      "published": "Sat, 17 Oct 2026 13:13:08 +0000",
+      "published": "Sat, 17 Oct 2026 15:43:31 +0000",
       "sentiment": 0.0
     },
     {
@@ -79,6 +79,18 @@
       "sentiment": -0.08333333333333333
     },
     {
+      "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
+      "published": "Sat, 17 Oct 2026 15:50:19 +0000",
+      "sentiment": 0.225
+    },
+    {
+      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+      "published": "Sat, 17 Oct 2026 15:42:35 +0000",
+      "sentiment": 0.21212121212121213
+    },
+    {
       "title": "A Calgary Crowd Rallies for Canada as Alberta’s Vote on Secession Nears",
       "link": "https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html",
       "published": "Sat, 17 Oct 2026 12:14:57 +0000",
@@ -105,7 +117,7 @@
     {
       "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
       "link": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
-      "published": "Fri, 16 Oct 2026 19:42:41 +0000",
+      "published": "Sat, 17 Oct 2026 15:15:38 +0000",
       "sentiment": 0.08125
     },
     {
@@ -299,18 +311,6 @@
       "link": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
       "published": "Wed, 14 Oct 2026 17:00:41 +0000",
       "sentiment": 0.015625
-    },
-    {
-      "title": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
-      "published": "Wed, 14 Oct 2026 15:42:26 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
-      "published": "Thu, 15 Oct 2026 05:04:38 +0000",
-      "sentiment": 0.0
     }
   ]
 }
