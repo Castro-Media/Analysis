@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "published": "Sat, 17 Oct 2026 20:49:13 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-      "published": "Sat, 17 Oct 2026 18:47:02 +0000",
+      "published": "Sat, 17 Oct 2026 20:15:40 +0000",
       "sentiment": -0.037500000000000006
     },
     {
@@ -13,9 +19,21 @@
       "sentiment": 0.0
     },
     {
+      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+      "link": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
+      "published": "Sat, 17 Oct 2026 19:58:23 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Kenya Confirms Four New Ebola Cases",
+      "link": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+      "published": "Sat, 17 Oct 2026 19:41:02 +0000",
+      "sentiment": 0.11212121212121212
+    },
+    {
       "title": "What to Know About the Violent Protests in Albania",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
-      "published": "Sat, 17 Oct 2026 16:00:58 +0000",
+      "published": "Sat, 17 Oct 2026 18:57:34 +0000",
       "sentiment": -0.8
     },
     {
@@ -57,26 +75,8 @@
     {
       "title": "Why Are There Protests in France?",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
-      "published": "Sat, 17 Oct 2026 15:43:31 +0000",
+      "published": "Sat, 17 Oct 2026 18:56:17 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
-      "published": "Sat, 17 Oct 2026 16:52:47 +0000",
-      "sentiment": 0.3020833333333333
-    },
-    {
-      "title": "Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving",
-      "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html",
-      "published": "Sat, 17 Oct 2026 13:00:51 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
-      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
-      "published": "Fri, 16 Oct 2026 09:56:26 +0000",
-      "sentiment": 0.1
     },
     {
       "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
@@ -85,9 +85,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Dispute Between Trump Allies Centers on Payment From Congo",
+      "title": "Dispute Between Trump Allies Centers on Millions Transferred From Congo",
       "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-      "published": "Sat, 17 Oct 2026 17:54:05 +0000",
+      "published": "Sat, 17 Oct 2026 20:45:21 +0000",
       "sentiment": -0.06666666666666667
     },
     {
@@ -101,6 +101,18 @@
       "link": "https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html",
       "published": "Sat, 17 Oct 2026 07:00:07 +0000",
       "sentiment": 0.12467532467532468
+    },
+    {
+      "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
+      "published": "Sat, 17 Oct 2026 16:52:47 +0000",
+      "sentiment": 0.3020833333333333
+    },
+    {
+      "title": "Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving",
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html",
+      "published": "Sat, 17 Oct 2026 13:00:51 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Dancing Salaryman Pokes Fun at Japan’s Buttoned-Down Culture",
@@ -155,6 +167,12 @@
       "link": "https://www.nytimes.com/2026/10/16/world/asia/japan-earthquake-warning-false-alarm.html",
       "published": "Fri, 16 Oct 2026 15:01:28 +0000",
       "sentiment": -0.2916666666666667
+    },
+    {
+      "title": "The Arab Kingmaker in Israel’s Election Who Wants a Partnership With Jews",
+      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israel-mansour-abbas.html",
+      "published": "Fri, 16 Oct 2026 09:56:26 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "Japan’s Leader Says She Loses Hours to Makeup and Chores. Opinions Abound.",
@@ -293,24 +311,6 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
       "published": "Thu, 15 Oct 2026 13:01:07 +0000",
       "sentiment": 0.4
-    },
-    {
-      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
-      "link": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
-      "published": "Thu, 15 Oct 2026 17:00:51 +0000",
-      "sentiment": -0.3666666666666667
-    },
-    {
-      "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
-      "published": "Thu, 15 Oct 2026 11:55:16 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-      "published": "Thu, 15 Oct 2026 14:51:19 +0000",
-      "sentiment": -0.2
     }
   ]
 }
