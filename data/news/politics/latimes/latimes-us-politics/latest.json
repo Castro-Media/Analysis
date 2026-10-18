@@ -7,16 +7,16 @@
       "sentiment": -0.10714285714285715
     },
     {
-      "title": "Barabak: Despite a blue tide, this Democratic governor is fighting to survive",
-      "link": "https://www.latimes.com/politics/story/2026-10-18/midterm-election-governor-races-oregon-tina-kotek-christine-drazan",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.25
-    },
-    {
       "title": "'He's everywhere': This California Republican wants to make his party relevant again",
       "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": 0.3666666666666667
+    },
+    {
+      "title": "Barabak: Despite a blue tide, this Democratic governor is fighting to survive",
+      "link": "https://www.latimes.com/politics/story/2026-10-18/midterm-election-governor-races-oregon-tina-kotek-christine-drazan",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
@@ -235,14 +235,14 @@
       "sentiment": -0.0125
     },
     {
-      "title": "Meet the Fox News correspondent leading the fight for press freedom at the White House",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-05/meet-fox-news-correspondent-leading-fight-for-press-freedom-at-white-house",
+      "title": "When is war not 'war'? In Iran, according to the U.S.",
+      "link": "https://www.latimes.com/politics/story/2026-10-05/why-trump-administration-is-reluctant-to-call-ongoing-conflict-with-iran-war",
       "published": "Mon, 5 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "When is war not 'war'? In Iran, according to the U.S.",
-      "link": "https://www.latimes.com/politics/story/2026-10-05/why-trump-administration-is-reluctant-to-call-ongoing-conflict-with-iran-war",
+      "title": "Meet the Fox News correspondent leading the fight for press freedom at the White House",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-05/meet-fox-news-correspondent-leading-fight-for-press-freedom-at-white-house",
       "published": "Mon, 5 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
@@ -313,10 +313,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers",
-      "link": "https://www.latimes.com/politics/story/2026-10-01/bass-lawyers-help-influencers-file-complaint-against-raman-campaign",
+      "title": "Voter guide to the 2026 California general election",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1111111111111111
+      "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "Your guide to the L.A. County Superior Court judge elections: Every competitive race",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-superior-court-judge-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Commentary: Senator flubs gotcha moment by mixing up sports teams. A woman steps in to correct him",
+      "link": "https://www.latimes.com/politics/story/2026-10-01/senator-flubs-gotcha-moment-by-mixing-up-sports-teams-woman-steps-in-to-correct-him",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to Proposition 40: California's billionaire tax proposal",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1875
     },
     {
       "title": "Your guide to Proposition 5: Big changes to recall elections in California",
@@ -325,16 +343,28 @@
       "sentiment": 0.020833333333333332
     },
     {
-      "title": "Voter guide to the 2026 California general election",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
+      "title": "Your guide to Proposition 1: Borrowing money for low-income and veteran housing",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-1-affordable-housing-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05000000000000002
+      "sentiment": 0.0
     },
     {
-      "title": "Your guide to Proposition 40: California's billionaire tax proposal",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide",
+      "title": "Your guide to Proposition 3: Making a high-income tax extension permanent",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-3-high-income-tax-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.1875
+    },
+    {
+      "title": "Your guide to Proposition 4: Allowing public campaign financing in California",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-4-public-campaign-financing-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers",
+      "link": "https://www.latimes.com/politics/story/2026-10-01/bass-lawyers-help-influencers-file-complaint-against-raman-campaign",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1111111111111111
     },
     {
       "title": "Your guide to L.A. County Charter Amendment E: Jail alternatives",
@@ -397,16 +427,10 @@
       "sentiment": 0.1
     },
     {
-      "title": "Your guide to the L.A. County Superior Court judge elections: Every competitive race",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-superior-court-judge-voter-guide",
+      "title": "Your guide to Proposition 37: Loans for middle-income homeowners",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-37-loans-middle-class-homeowners-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Your guide to Proposition 38: Immunology and immunotherapy research funding",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-38-immunology-immunotherapy-funding-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "Your guide to Proposition 39: Stricter voter ID requirements",
@@ -415,16 +439,22 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Your guide to Proposition 44: Federally funded health clinic spending",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-44-health-clinic-spending-voter-guide",
+      "title": "Your guide to Proposition 38: Immunology and immunotherapy research funding",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-38-immunology-immunotherapy-funding-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09999999999999999
+      "sentiment": -0.2
     },
     {
       "title": "Your guide to Proposition 45: Faster CEQA review for housing and infrastructure",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-45-ceqa-housing-data-center-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to Proposition 44: Federally funded health clinic spending",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-44-health-clinic-spending-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09999999999999999
     },
     {
       "title": "Your guide to Proposition 42: Tax ban on retirement, personal savings",
@@ -445,40 +475,34 @@
       "sentiment": 0.24025974025974026
     },
     {
-      "title": "Commentary: Senator flubs gotcha moment by mixing up sports teams. A woman steps in to correct him",
-      "link": "https://www.latimes.com/politics/story/2026-10-01/senator-flubs-gotcha-moment-by-mixing-up-sports-teams-woman-steps-in-to-correct-him",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to Proposition 1: Borrowing money for low-income and veteran housing",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-1-affordable-housing-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to Proposition 4: Allowing public campaign financing in California",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-4-public-campaign-financing-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to Proposition 37: Loans for middle-income homeowners",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-37-loans-middle-class-homeowners-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Your guide to Proposition 3: Making a high-income tax extension permanent",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-3-high-income-tax-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1875
-    },
-    {
       "title": "Your guide to Proposition 2: Lets leaders fatten 'rainy day' fund, reduces likelihood of taxpayer rebates",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-2-rainy-day-fund-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Your guide to the race for L.A. mayor: Bass vs. Raman",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-mayor-karen-bass-nithya-raman-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.07500000000000001
+    },
+    {
+      "title": "Your guide to the California lieutenant governor race: Ma vs. Romero",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-lieutenant-governor-ma-romero-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California attorney general race: Bonta vs. Gates",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-attorney-general-bonta-gates-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.016666666666666673
+    },
+    {
+      "title": "Your guide to the California secretary of state race: Weber vs. Wagner",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Your guide to the California controller race: Incumbent Cohen vs. challenger Morgan",
@@ -499,40 +523,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to the California secretary of state race: Weber vs. Wagner",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-secretary-of-state-weber-wagner-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Your guide to the California Congressional District 26 race: Irwin vs. Gallucci",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-26-irwin-gallucci-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the Los Angeles Community College Board of Trustees Seat 4 race",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-community-college-board-of-trustees-seat-4-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the race for L.A. mayor: Bass vs. Raman",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-mayor-karen-bass-nithya-raman-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "Your guide to the California lieutenant governor race: Ma vs. Romero",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-lieutenant-governor-ma-romero-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the California attorney general race: Bonta vs. Gates",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-attorney-general-bonta-gates-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.016666666666666673
     },
     {
       "title": "Your guide to the California Congressional District 27 race: Whitesides vs. Gibbs",
@@ -571,6 +565,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Your guide to the L.A. city attorney's race: McKinney vs. Roy",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.22500000000000003
+    },
+    {
+      "title": "Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-council-district-3-gaspar-worth-girvan-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.15833333333333333
+    },
+    {
       "title": "Your guide to the Los Angeles Community College Board of Trustees Seat 2 race",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-community-college-board-of-trustees-seat-2-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
@@ -583,16 +589,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to the L.A. city attorney's race: McKinney vs. Roy",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
+      "title": "Your guide to the L.A. City Council District 9 race: Ugarte vs. Mazariegos",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-council-district-9-ugarte-mazariegos-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.22500000000000003
-    },
-    {
-      "title": "Your guide to the L.A. City Council District 3 race: Gaspar vs. Worth Girvan",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-council-district-3-gaspar-worth-girvan-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15833333333333333
+      "sentiment": 0.25
     }
   ]
 }
