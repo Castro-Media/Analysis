@@ -55,16 +55,16 @@
       "sentiment": 0.15576923076923077
     },
     {
-      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
-      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08249999999999999
-    },
-    {
       "title": "SoCal braces for another day of heat and winds as fire destroys homes in Orange County",
       "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
+    },
+    {
+      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
+      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08249999999999999
     },
     {
       "title": "Arcadia surrogacy mansion mom fled U.S. after previous abuse charge, prosecutors allege",
@@ -121,6 +121,18 @@
       "sentiment": -0.012499999999999997
     },
     {
+      "title": "Bass vs. Raman: Who can make housing more affordable?",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.175
+    },
+    {
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
       "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
@@ -131,18 +143,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15833333333333335
-    },
-    {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "Bass vs. Raman: Who can make housing more affordable?",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
     },
     {
       "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
@@ -451,18 +451,6 @@
       "sentiment": -0.05555555555555555
     },
     {
-      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
-      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05277777777777778
-    },
-    {
-      "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
-      "link": "https://www.latimes.com/lifestyle/story/2026-10-12/griffith-park-merry-go-round-restoration",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
       "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
       "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
@@ -473,6 +461,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": -0.056666666666666664
+    },
+    {
+      "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
+      "link": "https://www.latimes.com/lifestyle/story/2026-10-12/griffith-park-merry-go-round-restoration",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "L.A. mayoral candidate Nithya Raman has strong opinions. But they often change",
+      "link": "https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05277777777777778
     },
     {
       "title": "2 children fatally shot in attempted murder-suicide in Pico-Union",
@@ -493,16 +493,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
-      "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
-      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
       "link": "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy",
       "published": "Sun, 11 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09722222222222222
+    },
+    {
+      "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
+      "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Rachel moves in as 'unprecedented' conditions bring SoCal coastal flooding",
@@ -541,6 +541,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
+      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
+      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.18181818181818182
+    },
+    {
       "title": "10 deaths at L.A.'s Twin Towers jail: One man's family alleges staff failed to provide care",
       "link": "https://www.latimes.com/california/story/2026-10-10/twin-towers-jail-deaths-daniel-magana-family-claim",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
@@ -551,12 +557,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-is-behaving-unusually-what-that-means-for-socal",
       "published": "Sat, 10 Oct 2026 10:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament",
-      "link": "https://www.latimes.com/california/story/2026-10-10/san-diego-california-ghost-gun-3d-printer-filament-lawsuit",
-      "published": "Sat, 10 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.18181818181818182
     },
     {
       "title": "Off-duty ICE agent found sleeping on Fresno lawn is shot after assaulting man, authorities say",
