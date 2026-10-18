@@ -7,9 +7,15 @@
       "sentiment": -0.0875
     },
     {
+      "title": "Pope Leo Thanks the Faithful in Weekly Address a Day After Leaving Hospital",
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
+      "published": "Sun, 18 Oct 2026 10:51:29 +0000",
+      "sentiment": 0.2017857142857143
+    },
+    {
       "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
       "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-      "published": "Sun, 18 Oct 2026 07:46:18 +0000",
+      "published": "Sun, 18 Oct 2026 10:07:33 +0000",
       "sentiment": -0.5
     },
     {
@@ -35,12 +41,6 @@
       "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
       "published": "Sun, 18 Oct 2026 06:59:38 +0000",
       "sentiment": -0.037500000000000006
-    },
-    {
-      "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-      "published": "Sat, 17 Oct 2026 16:17:00 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "At Least 19 Dead After Stampede at Indian Religious Event",
@@ -73,12 +73,6 @@
       "sentiment": 0.21212121212121213
     },
     {
-      "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
-      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
-      "published": "Sat, 17 Oct 2026 15:50:19 +0000",
-      "sentiment": 0.225
-    },
-    {
       "title": "Egypt’s President Says He Will Leave Office in 2030",
       "link": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
       "published": "Sat, 17 Oct 2026 18:06:53 +0000",
@@ -97,9 +91,21 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
+      "published": "Sat, 17 Oct 2026 15:50:19 +0000",
+      "sentiment": 0.225
+    },
+    {
       "title": "A Calgary Crowd Rallies for Canada as Alberta’s Vote on Secession Nears",
       "link": "https://www.nytimes.com/2026/10/17/world/canada/alberta-referendum-separation-smith.html",
       "published": "Sat, 17 Oct 2026 12:14:57 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+      "published": "Sat, 17 Oct 2026 16:17:00 +0000",
       "sentiment": 0.0
     },
     {
@@ -299,12 +305,6 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
       "published": "Thu, 15 Oct 2026 09:03:54 +0000",
       "sentiment": 0.05454545454545456
-    },
-    {
-      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-      "published": "Fri, 16 Oct 2026 16:07:37 +0000",
-      "sentiment": 0.0
     }
   ]
 }
