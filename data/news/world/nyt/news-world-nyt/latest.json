@@ -1,9 +1,15 @@
 {
   "entries": [
     {
-      "title": "This French City Was Rarely Linked With Unrest. Then Arsonists Attacked.",
+      "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+      "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+      "published": "Sun, 18 Oct 2026 17:43:02 +0000",
+      "sentiment": -0.7
+    },
+    {
+      "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
       "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
-      "published": "Sun, 18 Oct 2026 16:29:21 +0000",
+      "published": "Sun, 18 Oct 2026 16:29:22 +0000",
       "sentiment": 0.3
     },
     {
@@ -29,12 +35,6 @@
       "link": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
       "published": "Sun, 18 Oct 2026 15:00:02 +0000",
       "sentiment": -0.1
-    },
-    {
-      "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
-      "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-      "published": "Sun, 18 Oct 2026 16:13:42 +0000",
-      "sentiment": -0.5
     },
     {
       "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
@@ -71,6 +71,12 @@
       "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
       "published": "Sat, 17 Oct 2026 18:57:34 +0000",
       "sentiment": -0.8
+    },
+    {
+      "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+      "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+      "published": "Sun, 18 Oct 2026 16:13:42 +0000",
+      "sentiment": -0.5
     },
     {
       "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",

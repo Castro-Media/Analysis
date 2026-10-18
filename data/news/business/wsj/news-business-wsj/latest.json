@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028",
+      "link": "https://www.wsj.com/business/autos/ford-wants-to-make-fun-cars-again-in-europeif-drivers-can-wait-until-2028-d2c9e50b?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 18 Oct 2026 17:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks",
       "link": "https://www.wsj.com/business/retail/lego-adult-sets-gaming-formula-one-d7ccbc9d?mod=pls_whats_news_us_business_f",
       "published": "Sun, 18 Oct 2026 16:00:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66?mod=pls_whats_news_us_business_f",
       "published": "Sat, 17 Oct 2026 18:14:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "News Quiz for October 17, 2026",
-      "link": "https://www.wsj.com/business/media/news-quiz-for-october-17-2026-06096c58?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Proofpoint to Acquire Varonis in $6.3 Billion Cybersecurity Deal",
@@ -319,6 +319,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "News Quiz for October 17, 2026",
+      "link": "https://www.wsj.com/business/media/news-quiz-for-october-17-2026-06096c58?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "AI Hyperscalers Try to Fix Their ‘Storytelling Problem’",
       "link": "https://www.wsj.com/cmo-today/ai-hyperscalers-try-to-fix-their-storytelling-problem-4a73d3fc?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 13:29:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/cmo-today/youtube-changed-video-are-audiobooks-its-next-frontier-9e2af61a?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 13:28:00 GMT",
       "sentiment": -0.024999999999999994
-    },
-    {
-      "title": "White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam",
-      "link": "https://www.wsj.com/business/media/white-house-press-secretary-katie-zacharia-didnt-pass-bar-exam-714a484e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 11:53:00 GMT",
-      "sentiment": -0.05555555555555555
     },
     {
       "title": "Tariffs on Metals, Autos Mire Down U.S.-Mexico Trade Talks",
@@ -469,16 +469,16 @@
       "sentiment": 0.3
     },
     {
-      "title": "Five Big Questions About Tesla’s New Flying Roadster",
-      "link": "https://www.wsj.com/business/autos/tesla-roadster-musk-five-questions-853c158b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 19:33:00 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
       "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains",
       "link": "https://www.wsj.com/business/hospitality/how-coke-loosened-pepsis-grip-on-kfcs-soda-fountains-1be33456?mod=pls_whats_news_us_business_f",
       "published": "Sun, 18 Oct 2026 11:00:00 GMT",
       "sentiment": -0.2
+    },
+    {
+      "title": "Five Big Questions About Tesla’s New Flying Roadster",
+      "link": "https://www.wsj.com/business/autos/tesla-roadster-musk-five-questions-853c158b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 19:33:00 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays",
