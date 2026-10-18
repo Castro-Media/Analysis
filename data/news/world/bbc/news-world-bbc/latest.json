@@ -1,12 +1,6 @@
 {
   "entries": [
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:07:31 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 20:33:21 GMT",
@@ -15,8 +9,20 @@
     {
       "title": "What we know so far about deadly fire at Canadian military base",
       "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 19:42:37 GMT",
+      "published": "Sun, 18 Oct 2026 21:37:56 GMT",
       "sentiment": -0.1625
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 22:10:45 GMT",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 21:00:22 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -25,15 +31,21 @@
       "sentiment": -0.2333333333333333
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 05:04:31 GMT",
-      "sentiment": 0.13636363636363635
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 19:53:27 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 12:16:14 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 13:47:07 GMT",
       "sentiment": -0.05
     },
     {
@@ -47,12 +59,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 20:53:00 GMT",
       "sentiment": -0.8
-    },
-    {
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 13:47:07 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -85,22 +91,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 03:11:10 GMT",
-      "sentiment": -0.05000000000000001
-    },
-    {
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
       "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 02:33:09 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 09:14:10 GMT",
-      "sentiment": -0.05555555555555555
     },
     {
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -145,6 +139,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 21:00:22 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
       "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 11:09:32 GMT",
@@ -167,24 +167,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Oct 2026 15:45:10 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 12:32:31 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 08:27:16 GMT",
-      "sentiment": -0.03833333333333334
-    },
-    {
-      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-      "link": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 11:40:41 GMT",
-      "sentiment": 0.0
     }
   ]
 }
