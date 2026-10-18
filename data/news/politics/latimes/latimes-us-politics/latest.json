@@ -247,16 +247,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1416666666666667
-    },
-    {
       "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
       "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1416666666666667
     },
     {
       "title": "Provocative, sexually suggestive ad by Hilton campaign condemned by political allies on the right",
@@ -313,52 +313,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "Voter guide to the 2026 California general election",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Your guide to the L.A. County Superior Court judge elections: Every competitive race",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-superior-court-judge-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3333333333333333
-    },
-    {
       "title": "Commentary: Senator flubs gotcha moment by mixing up sports teams. A woman steps in to correct him",
       "link": "https://www.latimes.com/politics/story/2026-10-01/senator-flubs-gotcha-moment-by-mixing-up-sports-teams-woman-steps-in-to-correct-him",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to Proposition 40: California's billionaire tax proposal",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide",
+      "title": "Your guide to Proposition 43: Voting thresholds for local special taxes",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-43-threshold-local-special-tax-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1875
+      "sentiment": 0.14285714285714285
     },
     {
-      "title": "Your guide to Proposition 5: Big changes to recall elections in California",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-5-recall-changes-voter-guide",
+      "title": "Your guide to Proposition 41: Special tax audit proposal could block billionaire tax",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-41-tax-audit-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.020833333333333332
+      "sentiment": 0.24025974025974026
     },
     {
-      "title": "Your guide to Proposition 1: Borrowing money for low-income and veteran housing",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-1-affordable-housing-voter-guide",
+      "title": "Your guide to Proposition 42: Tax ban on retirement, personal savings",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-42-tax-ban-retirement-savings-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to Proposition 3: Making a high-income tax extension permanent",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-3-high-income-tax-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1875
-    },
-    {
-      "title": "Your guide to Proposition 4: Allowing public campaign financing in California",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-4-public-campaign-financing-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.07012987012987013
     },
     {
       "title": "Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers",
@@ -367,10 +343,16 @@
       "sentiment": -0.1111111111111111
     },
     {
-      "title": "Your guide to L.A. County Charter Amendment E: Jail alternatives",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-charter-amendment-e-voter-guide",
+      "title": "Your guide to Proposition 5: Big changes to recall elections in California",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-5-recall-changes-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.12222222222222223
+      "sentiment": 0.020833333333333332
+    },
+    {
+      "title": "Voter guide to the 2026 California general election",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-general-election-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "Your guide to L.A. City Charter Amendment SC: Board of education campaign finance rules",
@@ -389,6 +371,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-pl-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": -0.02857142857142857
+    },
+    {
+      "title": "Your guide to L.A. County Charter Amendment E: Jail alternatives",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-charter-amendment-e-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.12222222222222223
     },
     {
       "title": "Your guide to L.A. City Charter Amendment EE: City Council meetings, ethics and elections",
@@ -427,16 +415,34 @@
       "sentiment": 0.1
     },
     {
+      "title": "Your guide to the L.A. County Superior Court judge elections: Every competitive race",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-superior-court-judge-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Your guide to Proposition 1: Borrowing money for low-income and veteran housing",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-1-affordable-housing-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to Proposition 3: Making a high-income tax extension permanent",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-3-high-income-tax-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Your guide to Proposition 4: Allowing public campaign financing in California",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-4-public-campaign-financing-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Your guide to Proposition 37: Loans for middle-income homeowners",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-37-loans-middle-class-homeowners-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Your guide to Proposition 39: Stricter voter ID requirements",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-39-voting-id-requirements-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Your guide to Proposition 38: Immunology and immunotherapy research funding",
@@ -445,10 +451,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "Your guide to Proposition 45: Faster CEQA review for housing and infrastructure",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-45-ceqa-housing-data-center-voter-guide",
+      "title": "Your guide to Proposition 39: Stricter voter ID requirements",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-39-voting-id-requirements-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Your guide to Proposition 44: Federally funded health clinic spending",
@@ -457,22 +463,16 @@
       "sentiment": 0.09999999999999999
     },
     {
-      "title": "Your guide to Proposition 42: Tax ban on retirement, personal savings",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-42-tax-ban-retirement-savings-voter-guide",
+      "title": "Your guide to Proposition 45: Faster CEQA review for housing and infrastructure",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-45-ceqa-housing-data-center-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.07012987012987013
+      "sentiment": 0.0
     },
     {
-      "title": "Your guide to Proposition 43: Voting thresholds for local special taxes",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-43-threshold-local-special-tax-voter-guide",
+      "title": "Your guide to Proposition 40: California's billionaire tax proposal",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-40-billionaire-tax-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "Your guide to Proposition 41: Special tax audit proposal could block billionaire tax",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-41-tax-audit-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.24025974025974026
+      "sentiment": 0.1875
     },
     {
       "title": "Your guide to Proposition 2: Lets leaders fatten 'rainy day' fund, reduces likelihood of taxpayer rebates",
@@ -485,6 +485,36 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-mayor-karen-bass-nithya-raman-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": -0.07500000000000001
+    },
+    {
+      "title": "Your guide to the California Congressional District 47 race: Min vs. Le Roux",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-47-orange-county-min-leroux-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the California Congressional District 48 race: Von Wilpert vs. Desmond",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-48-san-diego-riverside-county-von-wilpert-desmond-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Your guide to the California treasurer race: Kounalakis vs. Hawks",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-treasurer-kounalakis-hawks-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the Los Angeles Community College Board of Trustees Seat 6 race",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-community-college-board-of-trustees-seat-6-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your guide to the Los Angeles Community College Board of Trustees Seat 4 race",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-community-college-board-of-trustees-seat-4-voter-guide",
+      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Your guide to the California lieutenant governor race: Ma vs. Romero",
@@ -547,24 +577,6 @@
       "sentiment": 0.05000000000000002
     },
     {
-      "title": "Your guide to the California Congressional District 47 race: Min vs. Le Roux",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-47-orange-county-min-leroux-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the California Congressional District 48 race: Von Wilpert vs. Desmond",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-congressional-district-48-san-diego-riverside-county-von-wilpert-desmond-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Your guide to the California treasurer race: Kounalakis vs. Hawks",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-treasurer-kounalakis-hawks-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Your guide to the L.A. city attorney's race: McKinney vs. Roy",
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-attorney-mckinney-roy-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
@@ -575,18 +587,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-council-district-3-gaspar-worth-girvan-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
       "sentiment": 0.15833333333333333
-    },
-    {
-      "title": "Your guide to the Los Angeles Community College Board of Trustees Seat 2 race",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-community-college-board-of-trustees-seat-2-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your guide to the L.A. County sheriff's race: A rematch between Luna and Villanueva",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-sheriff-race-luna-villanueva-voter-guide",
-      "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Your guide to the L.A. City Council District 9 race: Ugarte vs. Mazariegos",
