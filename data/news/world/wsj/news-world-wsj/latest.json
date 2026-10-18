@@ -1,16 +1,22 @@
 {
   "entries": [
     {
-      "title": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
-      "link": "https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3?mod=rss_worldnews",
-      "published": "Sun, 18 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.06666666666666667
+      "title": "Alberta’s Secession Vote Has Opened Up a Bitter Divide in Canada",
+      "link": "https://www.wsj.com/world/americas/alberta-independence-vote-canada-22b8208b?mod=rss_worldnews",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "How Zelensky Decided to Take the Risk and Publicly Confront Trump",
       "link": "https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac?mod=rss_worldnews",
-      "published": "Sun, 18 Oct 2026 01:00:00 GMT",
+      "published": "Sun, 18 Oct 2026 09:30:00 GMT",
       "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
+      "link": "https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3?mod=rss_worldnews",
+      "published": "Sun, 18 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.06666666666666667
     },
     {
       "title": "Violent Protests Rip Through Cities Across France",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107?mod=rss_worldnews",
       "published": "Sat, 17 Oct 2026 02:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Ukraine Hurries to Build Defenses Against Russia’s Jet-Powered Drones",
-      "link": "https://www.wsj.com/world/ukraine-russia-jet-drones-defenses-ca520fcd?mod=rss_worldnews",
-      "published": "Fri, 16 Oct 2026 19:30:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Hezbollah Tells the Lebanese Government It Wants Its Explosives Back",
@@ -199,6 +199,12 @@
       "sentiment": 0.2857142857142857
     },
     {
+      "title": "Ukraine Hurries to Build Defenses Against Russia’s Jet-Powered Drones",
+      "link": "https://www.wsj.com/world/ukraine-russia-jet-drones-defenses-ca520fcd?mod=rss_worldnews",
+      "published": "Fri, 16 Oct 2026 19:30:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Brazen Russian Attacks Are Testing NATO",
       "link": "https://www.wsj.com/world/europe/brazen-russian-attacks-are-testing-nato-955ff97d?mod=rss_worldnews",
       "published": "Fri, 16 Oct 2026 16:05:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews",
       "published": "Fri, 16 Oct 2026 00:45:00 GMT",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Ukraine Resumes Strikes On Russian Refineries",
-      "link": "https://www.wsj.com/politics/policy/ukraine-resumes-strikes-on-russian-refineries-516c0072?mod=rss_worldnews",
-      "published": "Thu, 15 Oct 2026 21:29:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "China Proposes Export Controls on AI Technologies",
@@ -389,12 +389,6 @@
       "link": "https://www.wsj.com/world/starlink-suspicions-and-a-frantic-warning-inside-trumps-turn-on-zelensky-595502f1?mod=rss_worldnews",
       "published": "Thu, 15 Oct 2026 14:42:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Far-Left Firebrand Who Wants to Upend France’s Politics—and Cancel Its Debt",
-      "link": "https://www.wsj.com/world/europe/the-far-left-firebrand-who-wants-to-upend-frances-politicsand-cancel-its-debt-a50025ea?mod=rss_worldnews",
-      "published": "Thu, 15 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "The Welfare State Is Crushing Britain",
