@@ -19,16 +19,16 @@
       "sentiment": -0.11666666666666668
     },
     {
-      "title": "'He's everywhere': This California Republican wants to make his party relevant again",
-      "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3666666666666667
-    },
-    {
       "title": "Clean transit, poor oversight",
       "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": -0.05333333333333333
+    },
+    {
+      "title": "'He's everywhere': This California Republican wants to make his party relevant again",
+      "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "Two men found dead after standoff with Long Beach Police",
@@ -61,16 +61,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "Lopez: It's been a great romance, but it's time to rethink our relationship with the California coast",
-      "link": "https://www.latimes.com/california/story/2026-10-17/its-time-to-rethink-our-relationship-with-california-coast",
-      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.5666666666666667
-    },
-    {
       "title": "New research shows how microplastics and water interactions could lead to cell damage",
       "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
       "published": "Sat, 17 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0909090909090909
+    },
+    {
+      "title": "Lopez: It's been a great romance, but it's time to rethink our relationship with the California coast",
+      "link": "https://www.latimes.com/california/story/2026-10-17/its-time-to-rethink-our-relationship-with-california-coast",
+      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.5666666666666667
     },
     {
       "title": "Just 8 years after Woolsey, a new fire ignites in its scar — too soon for both residents and plants",
@@ -151,22 +151,16 @@
       "sentiment": -0.012499999999999997
     },
     {
+      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
+      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Bass vs. Raman: Who can make housing more affordable?",
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.175
-    },
-    {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
-      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2125
     },
     {
       "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
@@ -175,10 +169,16 @@
       "sentiment": -0.15833333333333335
     },
     {
-      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
-      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
+      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
+      "sentiment": -0.2125
+    },
+    {
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Los Angeles city employee among four charged in downtown graffiti spree",
@@ -217,6 +217,12 @@
       "sentiment": 0.15666666666666668
     },
     {
+      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
+      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4318181818181818
+    },
+    {
       "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
       "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -227,12 +233,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-15/santa-monica-mountains-parks-close-red-flag-warning",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0961111111111111
-    },
-    {
-      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
-      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4318181818181818
     },
     {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",
@@ -445,6 +445,12 @@
       "sentiment": -0.018518518518518517
     },
     {
+      "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
+      "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4
+    },
+    {
       "title": "L.A. nonprofit rented luxury Santa Monica apartment, BMW for CEO living in Hawaii",
       "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0111111111111111
-    },
-    {
-      "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
-      "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4
     },
     {
       "title": "Former police officers, daughter killed in suspected murder-suicide in upscale California neighborhood",
@@ -481,16 +481,16 @@
       "sentiment": -0.05555555555555555
     },
     {
-      "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
-      "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.45833333333333337
-    },
-    {
       "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
       "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": -0.056666666666666664
+    },
+    {
+      "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
+      "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.45833333333333337
     },
     {
       "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
@@ -523,16 +523,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
-      "link": "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy",
-      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09722222222222222
-    },
-    {
       "title": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
       "link": "https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home",
       "published": "Sun, 11 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
+      "link": "https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy",
+      "published": "Sun, 11 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09722222222222222
     },
     {
       "title": "Rachel moves in as 'unprecedented' conditions bring SoCal coastal flooding",
