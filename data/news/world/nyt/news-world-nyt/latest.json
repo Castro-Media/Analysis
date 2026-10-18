@@ -1,9 +1,33 @@
 {
   "entries": [
     {
+      "title": "France in Shock After Protests Devolve Into Riots",
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+      "published": "Sun, 18 Oct 2026 08:44:26 +0000",
+      "sentiment": -0.0875
+    },
+    {
+      "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+      "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+      "published": "Sun, 18 Oct 2026 07:46:18 +0000",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+      "link": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+      "published": "Sun, 18 Oct 2026 04:24:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+      "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+      "published": "Sun, 18 Oct 2026 08:04:51 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
       "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-      "published": "Sun, 18 Oct 2026 02:32:51 +0000",
+      "published": "Sun, 18 Oct 2026 07:36:55 +0000",
       "sentiment": 0.0
     },
     {
@@ -19,10 +43,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+      "title": "At Least 19 Dead After Stampede at Indian Religious Event",
       "link": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
-      "published": "Sat, 17 Oct 2026 21:39:48 +0000",
-      "sentiment": -0.13999999999999999
+      "published": "Sun, 18 Oct 2026 08:47:37 +0000",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
@@ -55,46 +79,10 @@
       "sentiment": 0.225
     },
     {
-      "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
-      "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
-      "published": "Sat, 17 Oct 2026 12:23:26 +0000",
-      "sentiment": 0.05
-    },
-    {
       "title": "Egypt’s President Says He Will Leave Office in 2030",
       "link": "https://www.nytimes.com/2026/10/17/world/middleeast/egypt-president-el-sisi-term-limits-2030.html",
       "published": "Sat, 17 Oct 2026 18:06:53 +0000",
       "sentiment": 0.1
-    },
-    {
-      "title": "Trump Signs Order Waiving New Russia Sanctions",
-      "link": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
-      "published": "Sat, 17 Oct 2026 13:30:38 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "A Wayward Shark Becomes a Celebrity in South Korea",
-      "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
-      "published": "Sat, 17 Oct 2026 12:55:53 +0000",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-      "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
-      "published": "Sun, 18 Oct 2026 04:01:17 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "link": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
-      "published": "Sun, 18 Oct 2026 04:24:04 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
-      "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-      "published": "Sun, 18 Oct 2026 06:40:20 +0000",
-      "sentiment": -0.5
     },
     {
       "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
@@ -137,6 +125,12 @@
       "link": "https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html",
       "published": "Sat, 17 Oct 2026 13:37:19 +0000",
       "sentiment": 0.26666666666666666
+    },
+    {
+      "title": "A Wayward Shark Becomes a Celebrity in South Korea",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
+      "published": "Sat, 17 Oct 2026 12:55:53 +0000",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
@@ -305,6 +299,12 @@
       "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
       "published": "Thu, 15 Oct 2026 09:03:54 +0000",
       "sentiment": 0.05454545454545456
+    },
+    {
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+      "published": "Fri, 16 Oct 2026 16:07:37 +0000",
+      "sentiment": 0.0
     }
   ]
 }
