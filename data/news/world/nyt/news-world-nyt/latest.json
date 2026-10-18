@@ -9,14 +9,20 @@
     {
       "title": "Pope Leo Thanks the Faithful in Weekly Address a Day After Leaving Hospital",
       "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
-      "published": "Sun, 18 Oct 2026 10:51:29 +0000",
+      "published": "Sun, 18 Oct 2026 10:54:22 +0000",
       "sentiment": 0.2017857142857143
     },
     {
       "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
       "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-      "published": "Sun, 18 Oct 2026 10:07:33 +0000",
+      "published": "Sun, 18 Oct 2026 10:56:27 +0000",
       "sentiment": -0.5
+    },
+    {
+      "title": "Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist",
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
+      "published": "Sun, 18 Oct 2026 11:01:55 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
@@ -35,12 +41,6 @@
       "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
       "published": "Sun, 18 Oct 2026 07:36:55 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-      "published": "Sun, 18 Oct 2026 06:59:38 +0000",
-      "sentiment": -0.037500000000000006
     },
     {
       "title": "At Least 19 Dead After Stampede at Indian Religious Event",
@@ -71,6 +71,18 @@
       "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
       "published": "Sat, 17 Oct 2026 16:46:15 +0000",
       "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+      "link": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
+      "published": "Sun, 18 Oct 2026 11:49:38 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "published": "Sun, 18 Oct 2026 06:59:38 +0000",
+      "sentiment": -0.037500000000000006
     },
     {
       "title": "Egypt’s President Says He Will Leave Office in 2030",
@@ -293,18 +305,6 @@
       "link": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html",
       "published": "Sat, 17 Oct 2026 02:53:06 +0000",
       "sentiment": -0.08518518518518518
-    },
-    {
-      "title": "Inside the Plague Research Labs at the Heart of a Russian Mystery",
-      "link": "https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
-      "published": "Thu, 15 Oct 2026 14:12:01 +0000",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-      "published": "Thu, 15 Oct 2026 09:03:54 +0000",
-      "sentiment": 0.05454545454545456
     }
   ]
 }
