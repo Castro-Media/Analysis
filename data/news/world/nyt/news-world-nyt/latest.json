@@ -7,10 +7,16 @@
       "sentiment": -0.0875
     },
     {
-      "title": "Pope Leo Thanks the Faithful in Weekly Address a Day After Leaving Hospital",
+      "title": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
       "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
-      "published": "Sun, 18 Oct 2026 10:54:22 +0000",
-      "sentiment": 0.2017857142857143
+      "published": "Sun, 18 Oct 2026 11:58:06 +0000",
+      "sentiment": 0.2023809523809524
+    },
+    {
+      "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+      "link": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
+      "published": "Sun, 18 Oct 2026 11:49:38 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
@@ -33,7 +39,7 @@
     {
       "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
       "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
-      "published": "Sun, 18 Oct 2026 08:04:51 +0000",
+      "published": "Sun, 18 Oct 2026 08:04:52 +0000",
       "sentiment": -0.03333333333333333
     },
     {
@@ -67,18 +73,6 @@
       "sentiment": -0.8
     },
     {
-      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
-      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
-      "published": "Sat, 17 Oct 2026 16:46:15 +0000",
-      "sentiment": 0.21212121212121213
-    },
-    {
-      "title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
-      "link": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
-      "published": "Sun, 18 Oct 2026 11:49:38 +0000",
-      "sentiment": -0.1
-    },
-    {
       "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
       "published": "Sun, 18 Oct 2026 06:59:38 +0000",
@@ -107,6 +101,12 @@
       "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
       "published": "Sat, 17 Oct 2026 15:50:19 +0000",
       "sentiment": 0.225
+    },
+    {
+      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+      "published": "Sat, 17 Oct 2026 16:46:15 +0000",
+      "sentiment": 0.21212121212121213
     },
     {
       "title": "A Calgary Crowd Rallies for Canada as Alberta’s Vote on Secession Nears",
