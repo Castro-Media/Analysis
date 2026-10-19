@@ -1,21 +1,51 @@
 {
   "entries": [
     {
+      "title": "U.S. Citizen Hospitalized After Being Detained by ICE, His Family Says",
+      "link": "https://www.nytimes.com/2026/10/19/us/ice-hospitalization-us-citizen.html",
+      "published": "Mon, 19 Oct 2026 18:40:00 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Visitor Killed by Roof Debris at Frank Lloyd Wright’s Taliesin West",
+      "link": "https://www.nytimes.com/2026/10/19/us/frank-lloyd-wright-home-death-taliesin-west.html",
+      "published": "Mon, 19 Oct 2026 18:25:34 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Supreme Court Will Not Revive Plea Deal for Khalid Shaikh Mohammed and 9/11 Defendants",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-plea-deal-sept-11.html",
+      "published": "Mon, 19 Oct 2026 18:02:57 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html",
+      "published": "Mon, 19 Oct 2026 18:41:55 +0000",
+      "sentiment": -0.04
+    },
+    {
+      "title": "El-Sayed Highlights Muslim Faith in New Ad After Republican Attacks",
+      "link": "https://www.nytimes.com/2026/10/19/us/el-sayed-faith-ad.html",
+      "published": "Mon, 19 Oct 2026 17:46:47 +0000",
+      "sentiment": 0.03138528138528138
+    },
+    {
       "title": "Supreme Court to Hear New Case on Race and School Admissions",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html",
-      "published": "Mon, 19 Oct 2026 16:48:23 +0000",
+      "published": "Mon, 19 Oct 2026 18:00:33 +0000",
       "sentiment": 0.21727272727272728
     },
     {
-      "title": "Trump Says Renovations on Disputed DC Golf Course Will Begin Immediately",
+      "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-      "published": "Mon, 19 Oct 2026 16:12:28 +0000",
-      "sentiment": -0.6
+      "published": "Mon, 19 Oct 2026 17:16:42 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
       "link": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
-      "published": "Mon, 19 Oct 2026 16:05:55 +0000",
+      "published": "Mon, 19 Oct 2026 17:09:20 +0000",
       "sentiment": 0.28125
     },
     {
@@ -55,10 +85,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "After Dealing Drugs in Las Vegas, He Found Signature Gathering More Lucrative",
+      "title": "Gathering Signatures for a Ballot Measure? It’s Often a Wild Chase.",
       "link": "https://www.nytimes.com/2026/10/19/us/billionaire-tax-california-signature-gatherers.html",
-      "published": "Mon, 19 Oct 2026 16:41:30 +0000",
-      "sentiment": 0.25
+      "published": "Mon, 19 Oct 2026 17:34:16 +0000",
+      "sentiment": 0.05
     },
     {
       "title": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
@@ -111,7 +141,7 @@
     {
       "title": "Migrants From Ukraine and Sudan to Keep Deportation Protections for Now",
       "link": "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html",
-      "published": "Sun, 18 Oct 2026 20:14:32 +0000",
+      "published": "Sun, 18 Oct 2026 20:14:33 +0000",
       "sentiment": 0.5
     },
     {
@@ -131,18 +161,6 @@
       "link": "https://www.nytimes.com/2026/10/18/us/kansas-city-cows-crash.html",
       "published": "Sun, 18 Oct 2026 20:09:40 +0000",
       "sentiment": 0.1
-    },
-    {
-      "title": "Obama Defends Rep. Ilhan Omar Amid Trump Administration Inquiry",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/obama-ilhan-omar-trump-investigation-immigration.html",
-      "published": "Sun, 18 Oct 2026 18:34:21 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
-      "published": "Mon, 19 Oct 2026 02:55:13 +0000",
-      "sentiment": 0.3
     }
   ]
 }
