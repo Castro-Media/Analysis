@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Melania Trump Announces White House Women’s Health Initiative",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
+      "published": "Mon, 19 Oct 2026 23:36:52 +0000",
+      "sentiment": 0.26666666666666666
+    },
+    {
+      "title": "Bend Residents Want Accountability. Oregon’s Gun Laws Make It Hard.",
+      "link": "https://www.nytimes.com/2026/10/19/us/bend-school-shooting-accountability.html",
+      "published": "Mon, 19 Oct 2026 23:31:57 +0000",
+      "sentiment": -0.24583333333333335
+    },
+    {
+      "title": "U.N.C. Strikes Trump Deal to Keep Federal Funding",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/unc-trump-deal.html",
+      "published": "Mon, 19 Oct 2026 22:50:49 +0000",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says",
       "link": "https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html",
       "published": "Mon, 19 Oct 2026 21:40:29 +0000",
@@ -45,7 +63,7 @@
     {
       "title": "Supreme Court Will Not Revive Plea Deal for Khalid Shaikh Mohammed and 9/11 Defendants",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-plea-deal-sept-11.html",
-      "published": "Mon, 19 Oct 2026 21:08:16 +0000",
+      "published": "Mon, 19 Oct 2026 22:24:08 +0000",
       "sentiment": 0.0
     },
     {
@@ -69,7 +87,7 @@
     {
       "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-      "published": "Mon, 19 Oct 2026 21:47:53 +0000",
+      "published": "Mon, 19 Oct 2026 23:24:54 +0000",
       "sentiment": 0.0
     },
     {
@@ -143,18 +161,6 @@
       "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
       "published": "Mon, 19 Oct 2026 00:05:08 +0000",
       "sentiment": 0.4
-    },
-    {
-      "title": "June 17, 1994: Millions Watched Police Chase O.J. Simpson in a Bronco",
-      "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-white-bronco-police-chase.html",
-      "published": "Sun, 18 Oct 2026 23:46:57 +0000",
-      "sentiment": 0.11212121212121212
-    },
-    {
-      "title": "Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico",
-      "link": "https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html",
-      "published": "Mon, 19 Oct 2026 09:55:20 +0000",
-      "sentiment": 0.024999999999999994
     }
   ]
 }
