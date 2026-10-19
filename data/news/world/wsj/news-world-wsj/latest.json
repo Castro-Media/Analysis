@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Saudi Arabia Rules Out In-Person ‘Davos in the Desert’ Event Next Week",
+      "link": "https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b?mod=rss_worldnews",
+      "published": "Mon, 19 Oct 2026 14:43:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "French Leaders Trade Blame After Rioting Sweeps the Nation",
       "link": "https://www.wsj.com/world/europe/french-leaders-trade-blame-after-rioting-sweeps-the-nation-ac02a5b6?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 12:31:00 GMT",
@@ -31,16 +37,16 @@
       "sentiment": 0.03571428571428571
     },
     {
-      "title": "Wall Street Elite Can’t Decide How to RSVP to the Prince’s Big Saudi Conference",
-      "link": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4?mod=rss_worldnews",
-      "published": "Sun, 18 Oct 2026 23:01:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 11:36:00 GMT",
       "sentiment": 0.03409090909090909
+    },
+    {
+      "title": "Wall Street Elite Can’t Decide How to RSVP to the Prince’s Big Saudi Conference",
+      "link": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4?mod=rss_worldnews",
+      "published": "Sun, 18 Oct 2026 23:01:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Trump Endorses Israel’s Netanyahu for Re-Election",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107?mod=rss_worldnews",
       "published": "Sat, 17 Oct 2026 02:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Hezbollah Tells the Lebanese Government It Wants Its Explosives Back",
-      "link": "https://www.wsj.com/world/middle-east/hezbollah-tells-the-lebanese-government-it-wants-its-explosives-back-45b8902e?mod=rss_worldnews",
-      "published": "Fri, 16 Oct 2026 13:12:00 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above 2%, Ueda Says",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "KKR Sent Formal Objection by EU Over Information Provided in NetCo Deal",
+      "link": "https://www.wsj.com/business/kkr-sent-formal-objection-by-eu-over-information-provided-in-26-billion-netco-deal-5848d196?mod=rss_worldnews",
+      "published": "Mon, 19 Oct 2026 13:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "French Contagion Less Virulent Than in Previous Eurozone Crisis",
       "link": "https://www.wsj.com/world/europe/french-contagion-less-virulent-than-in-previous-eurozone-crisis-cefd8692?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 08:13:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585?mod=rss_worldnews",
       "published": "Sat, 17 Oct 2026 21:49:00 GMT",
       "sentiment": -0.275
-    },
-    {
-      "title": "Why Europe’s Right Is Breaking Up With MAGA",
-      "link": "https://www.wsj.com/politics/elections/europe-trump-right-wing-populists-d91734af?mod=rss_worldnews",
-      "published": "Sat, 17 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.2857142857142857
     },
     {
       "title": "China’s Economy Expanded 4.5% in Third Quarter, Powered by Exports",
@@ -385,22 +385,10 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Brazen Russian Attacks Are Testing NATO",
-      "link": "https://www.wsj.com/world/europe/brazen-russian-attacks-are-testing-nato-955ff97d?mod=rss_worldnews",
-      "published": "Fri, 16 Oct 2026 16:05:00 GMT",
-      "sentiment": -0.1875
-    },
-    {
       "title": "The Defector: A Russian Officer Turned Against His Country and Helped Ukraine Kill Hundreds",
       "link": "https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews",
       "published": "Fri, 16 Oct 2026 00:45:00 GMT",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "China’s Weakening Economy Is Creating a Lost Generation",
-      "link": "https://www.wsj.com/world/china-economy-gen-z-f9058941?mod=rss_worldnews",
-      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.26666666666666666
     },
     {
       "title": "Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
@@ -409,16 +397,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Pope Leo Diagnosed With Lung Cancer After Surgery",
-      "link": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8?mod=rss_worldnews",
-      "published": "Tue, 13 Oct 2026 22:18:00 GMT",
-      "sentiment": 0.2857142857142857
+      "title": "China’s Weakening Economy Is Creating a Lost Generation",
+      "link": "https://www.wsj.com/world/china-economy-gen-z-f9058941?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.26666666666666666
     },
     {
       "title": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
       "link": "https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3?mod=rss_worldnews",
       "published": "Sun, 18 Oct 2026 01:00:00 GMT",
       "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Pope Leo Diagnosed With Lung Cancer After Surgery",
+      "link": "https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8?mod=rss_worldnews",
+      "published": "Tue, 13 Oct 2026 22:18:00 GMT",
+      "sentiment": 0.2857142857142857
     },
     {
       "title": "How to Refinance a Car Loan in 6 Steps",
