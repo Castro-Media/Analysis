@@ -7,6 +7,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Elon Musk Promises to Give Out SpaceX Shares to U.S. Children",
+      "link": "https://www.wsj.com/finance/stocks/elon-musk-promises-to-give-out-spacex-shares-to-u-s-children-69ffe0b5?mod=rss_markets_main",
+      "published": "Mon, 19 Oct 2026 20:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
       "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 15:44:00 GMT",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 09:30:00 GMT",
       "sentiment": -0.13124999999999998
-    },
-    {
-      "title": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner",
-      "link": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "It’s Too Late for Small Fixes at Pepsi",
@@ -103,6 +103,18 @@
       "sentiment": 0.4
     },
     {
+      "title": "U.S. Stocks Mostly Higher as AI Credit Worries Abate",
+      "link": "https://www.wsj.com/finance/investing/u-s-stocks-mostly-higher-as-ai-credit-worries-abate-600bf008?mod=rss_markets_main",
+      "published": "Mon, 19 Oct 2026 20:21:00 GMT",
+      "sentiment": 0.09375
+    },
+    {
+      "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539?mod=rss_markets_main",
+      "published": "Mon, 19 Oct 2026 19:27:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-bff57b5e?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 16:31:00 GMT",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d32997f7?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 16:26:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-ae5e63b2?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 16:24:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e8a9b95e?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 16:24:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "EU Curbs on Chinese Hybrids Could Make European Automakers Investable Again",
@@ -199,22 +199,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Settle Lower As U.S. Waives Some Russia Sanctions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15?mod=rss_markets_main",
+      "published": "Mon, 19 Oct 2026 19:44:00 GMT",
+      "sentiment": -0.095012987012987
+    },
+    {
+      "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=rss_markets_main",
+      "published": "Mon, 19 Oct 2026 19:43:00 GMT",
+      "sentiment": 0.02727272727272727
+    },
+    {
       "title": "Gold Futures Slip As U.S. Dollar Gains, Yields Edge Up",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-as-traders-weigh-fed-rate-hike-expectations-3517c447?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 18:14:00 GMT",
       "sentiment": 0.35
-    },
-    {
-      "title": "Oil Futures Pare Losses From Russia Sanctions Waiver",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 16:30:00 GMT",
-      "sentiment": 0.16818181818181818
-    },
-    {
-      "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 11:36:00 GMT",
-      "sentiment": 0.03409090909090909
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -231,8 +231,8 @@
     {
       "title": "Pace of Chinese Yuan’s Gains Vs Dollar Likely to Remain Gradual",
       "link": "https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 13:59:00 GMT",
-      "sentiment": -0.03833333333333333
+      "published": "Mon, 19 Oct 2026 19:49:00 GMT",
+      "sentiment": -0.041666666666666664
     },
     {
       "title": "Nearly All Volume on FIFA-Linked Prediction Market Is Circular Trading",
@@ -289,6 +289,12 @@
       "sentiment": -0.15555555555555556
     },
     {
+      "title": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner",
+      "link": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=rss_markets_main",
+      "published": "Mon, 19 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Wall Street Elite Can’t Decide How to RSVP to the Prince’s Big Saudi Conference",
       "link": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4?mod=rss_markets_main",
       "published": "Sun, 18 Oct 2026 23:01:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/a-popular-tax-minimizing-trade-is-juicing-wall-streets-borrowing-binge-6d81eac2?mod=rss_markets_main",
       "published": "Sat, 17 Oct 2026 02:06:00 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "Blue Owl Founders Promised a Comeback. The Company’s Share Price Hasn’t Budged.",
-      "link": "https://www.wsj.com/finance/blue-owl-stock-price-private-credit-ca6673d9?mod=rss_markets_main",
-      "published": "Sat, 17 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.000888888888888889
     },
     {
       "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",

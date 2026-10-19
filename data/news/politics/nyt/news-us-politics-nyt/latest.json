@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
+      "published": "Mon, 19 Oct 2026 20:23:52 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Mahmoud Khalil Appeals to Supreme Court to Halt Deportation",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html",
+      "published": "Mon, 19 Oct 2026 20:31:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "DOJ Charges 28 California Residents With Voting-Related Crimes Amid Trump’s Voter Fraud Push",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/doj-california-voting-crimes-trump-midterms.html",
+      "published": "Mon, 19 Oct 2026 20:25:34 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Christiane Amanpour Says She Is Leaving CNN After 43 Years",
       "link": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
-      "published": "Mon, 19 Oct 2026 18:49:17 +0000",
+      "published": "Mon, 19 Oct 2026 19:21:56 +0000",
       "sentiment": 0.3333333333333333
     },
     {
@@ -15,7 +33,7 @@
     {
       "title": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html",
-      "published": "Mon, 19 Oct 2026 18:41:55 +0000",
+      "published": "Mon, 19 Oct 2026 20:35:14 +0000",
       "sentiment": -0.04
     },
     {
@@ -79,9 +97,15 @@
       "sentiment": 0.0
     },
     {
+      "title": "‘Other Desert Cities’ Review: Julia Louis-Dreyfus’s Smashing Debut",
+      "link": "https://www.nytimes.com/2026/10/18/theater/other-desert-cities-review-julia-louis-dreyfus.html",
+      "published": "Mon, 19 Oct 2026 19:52:54 +0000",
+      "sentiment": -0.08124999999999999
+    },
+    {
       "title": "Larry David Mocks the D.S.A. Some Are Not Amused.",
       "link": "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html",
-      "published": "Mon, 19 Oct 2026 13:29:16 +0000",
+      "published": "Mon, 19 Oct 2026 13:29:17 +0000",
       "sentiment": -0.4
     },
     {
@@ -95,30 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
       "published": "Mon, 19 Oct 2026 04:04:39 +0000",
       "sentiment": 0.1590909090909091
-    },
-    {
-      "title": "Migrants From Ukraine and Sudan to Keep Deportation Protections for Now",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html",
-      "published": "Sun, 18 Oct 2026 20:14:33 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Obama Defends Rep. Ilhan Omar Amid Trump Administration Inquiry",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/obama-ilhan-omar-trump-investigation-immigration.html",
-      "published": "Sun, 18 Oct 2026 18:34:21 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
-      "published": "Mon, 19 Oct 2026 02:55:13 +0000",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
-      "published": "Sun, 18 Oct 2026 20:09:12 +0000",
-      "sentiment": 0.04910714285714285
     }
   ]
 }

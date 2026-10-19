@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
+      "published": "Mon, 19 Oct 2026 20:23:52 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Mahmoud Khalil Appeals to Supreme Court to Halt Deportation",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html",
+      "published": "Mon, 19 Oct 2026 20:31:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "DOJ Charges 28 California Residents With Voting-Related Crimes Amid Trump’s Voter Fraud Push",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/doj-california-voting-crimes-trump-midterms.html",
+      "published": "Mon, 19 Oct 2026 20:25:34 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Citizen Hospitalized After Being Detained by ICE, His Family Says",
       "link": "https://www.nytimes.com/2026/10/19/us/ice-hospitalization-us-citizen.html",
       "published": "Mon, 19 Oct 2026 18:40:00 +0000",
@@ -21,7 +39,7 @@
     {
       "title": "Republicans Barely Mention Trump in Political Ads Ahead of the Midterms",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterms-republican-political-ads.html",
-      "published": "Mon, 19 Oct 2026 18:41:55 +0000",
+      "published": "Mon, 19 Oct 2026 20:35:14 +0000",
       "sentiment": -0.04
     },
     {
@@ -85,10 +103,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gathering Signatures for a Ballot Measure? It’s Often a Wild Chase.",
+      "title": "The Frenzy Behind Getting an Initiative on the California Ballot",
       "link": "https://www.nytimes.com/2026/10/19/us/billionaire-tax-california-signature-gatherers.html",
-      "published": "Mon, 19 Oct 2026 17:34:16 +0000",
-      "sentiment": 0.05
+      "published": "Mon, 19 Oct 2026 19:23:18 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
@@ -99,7 +117,7 @@
     {
       "title": "Larry David Mocks the D.S.A. Some Are Not Amused.",
       "link": "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html",
-      "published": "Mon, 19 Oct 2026 13:29:16 +0000",
+      "published": "Mon, 19 Oct 2026 13:29:17 +0000",
       "sentiment": -0.4
     },
     {
@@ -131,36 +149,6 @@
       "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-death-trial-key-players.html",
       "published": "Sun, 18 Oct 2026 21:00:39 +0000",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "2028 Presidential ‘Shadow Primary’ Descends on the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
-      "published": "Mon, 19 Oct 2026 04:04:39 +0000",
-      "sentiment": 0.1590909090909091
-    },
-    {
-      "title": "Migrants From Ukraine and Sudan to Keep Deportation Protections for Now",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html",
-      "published": "Sun, 18 Oct 2026 20:14:33 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
-      "link": "https://www.nytimes.com/2026/10/18/us/trump-midterm-elections-republicans-approval-ratings.html",
-      "published": "Mon, 19 Oct 2026 01:15:46 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Driver Is Released After Plowing Onto Soccer Field in Wichita, Kan., Killing Two",
-      "link": "https://www.nytimes.com/2026/10/18/us/wichita-soccer-field-crash-driver-released.html",
-      "published": "Sun, 18 Oct 2026 22:18:03 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Semi-Truck Rollover Spills Dozens of Cattle Across Downtown Kansas City",
-      "link": "https://www.nytimes.com/2026/10/18/us/kansas-city-cows-crash.html",
-      "published": "Sun, 18 Oct 2026 20:09:40 +0000",
-      "sentiment": 0.1
     }
   ]
 }
