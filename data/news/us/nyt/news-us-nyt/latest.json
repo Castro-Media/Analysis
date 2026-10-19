@@ -1,22 +1,28 @@
 {
   "entries": [
     {
-      "title": "Trump Says Work on Disputed Golf Course Will Begin Immediately",
+      "title": "Supreme Court to Hear New Case on Race and School Admissions",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html",
+      "published": "Mon, 19 Oct 2026 16:48:23 +0000",
+      "sentiment": 0.21727272727272728
+    },
+    {
+      "title": "Trump Says Renovations on Disputed DC Golf Course Will Begin Immediately",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-      "published": "Mon, 19 Oct 2026 14:09:01 +0000",
+      "published": "Mon, 19 Oct 2026 16:12:28 +0000",
       "sentiment": -0.6
     },
     {
       "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
       "link": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
-      "published": "Mon, 19 Oct 2026 12:00:07 +0000",
+      "published": "Mon, 19 Oct 2026 16:05:55 +0000",
       "sentiment": 0.28125
     },
     {
-      "title": "That Huge Republican Cash Edge? It’s in Senate Races, Not House Races.",
+      "title": "Republicans Are Vastly Outspending Democrats on Senate Races",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/midterms-republican-spending-edge.html",
-      "published": "Mon, 19 Oct 2026 14:00:58 +0000",
-      "sentiment": 0.14666666666666667
+      "published": "Mon, 19 Oct 2026 14:00:59 +0000",
+      "sentiment": 0.06666666666666668
     },
     {
       "title": "Vital Early Voting Period Begins in Texas",
@@ -27,7 +33,7 @@
     {
       "title": "Midterm Elections: Who Is Winning the Race for Congress?",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/midterms-elections-senate-house-congress.html",
-      "published": "Mon, 19 Oct 2026 12:36:33 +0000",
+      "published": "Mon, 19 Oct 2026 16:29:53 +0000",
       "sentiment": 0.5
     },
     {
@@ -37,10 +43,10 @@
       "sentiment": -0.17857142857142858
     },
     {
-      "title": "Ken Paxton Has Tried to Overturn Tight Elections. He’s in One of His Own.",
+      "title": "Ken Paxton Has Contested Tight Elections. Would He Do That for His Own?",
       "link": "https://www.nytimes.com/2026/10/19/us/ken-paxton-election-results-fraud.html",
-      "published": "Mon, 19 Oct 2026 09:02:04 +0000",
-      "sentiment": -0.04285714285714285
+      "published": "Mon, 19 Oct 2026 16:43:51 +0000",
+      "sentiment": 0.11785714285714285
     },
     {
       "title": "At a Last-Hope Health Clinic, Desperation, Kindness and Fear for What’s Next",
@@ -49,10 +55,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Frenzy Behind Getting an Initiative on the California Ballot",
+      "title": "After Dealing Drugs in Las Vegas, He Found Signature Gathering More Lucrative",
       "link": "https://www.nytimes.com/2026/10/19/us/billionaire-tax-california-signature-gatherers.html",
-      "published": "Mon, 19 Oct 2026 09:00:10 +0000",
-      "sentiment": -0.2
+      "published": "Mon, 19 Oct 2026 16:41:30 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
@@ -137,12 +143,6 @@
       "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
       "published": "Mon, 19 Oct 2026 02:55:13 +0000",
       "sentiment": 0.3
-    },
-    {
-      "title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
-      "published": "Sun, 18 Oct 2026 20:09:12 +0000",
-      "sentiment": 0.04910714285714285
     }
   ]
 }
