@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "That Huge Republican Cash Edge? It’s in Senate Races, Not House Races.",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/midterms-republican-spending-edge.html",
+      "published": "Mon, 19 Oct 2026 10:52:43 +0000",
+      "sentiment": 0.14666666666666667
+    },
+    {
+      "title": "Vital Early Voting Period Begins in Texas",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/texas-early-voting-midterm-elections.html",
+      "published": "Mon, 19 Oct 2026 09:04:02 +0000",
+      "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "Who’s Winning the Race for Congress?",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/whos-winning-the-race-for-congress.html",
+      "published": "Mon, 19 Oct 2026 09:03:47 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Republicans in Ohio Are Worried About Turnout. Here’s What They’re Doing About it.",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html",
+      "published": "Mon, 19 Oct 2026 09:03:44 +0000",
+      "sentiment": -0.17857142857142858
+    },
+    {
+      "title": "Ken Paxton Has Tried to Overturn Tight Elections. He’s in One of His Own.",
+      "link": "https://www.nytimes.com/2026/10/19/us/ken-paxton-election-results-fraud.html",
+      "published": "Mon, 19 Oct 2026 09:02:04 +0000",
+      "sentiment": -0.04285714285714285
+    },
+    {
+      "title": "At a Last-Hope Health Clinic, Desperation, Kindness and Fear for What’s Next",
+      "link": "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html",
+      "published": "Mon, 19 Oct 2026 09:01:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Frenzy Behind Getting an Initiative on the California Ballot",
+      "link": "https://www.nytimes.com/2026/10/19/us/billionaire-tax-california-signature-gatherers.html",
+      "published": "Mon, 19 Oct 2026 09:00:10 +0000",
+      "sentiment": -0.2
+    },
+    {
       "title": "Trump Campaigns for Republicans as Turmoil Mounts in Washington",
       "link": "https://www.nytimes.com/video/us/100000011219687/trump-campaigns-for-republicans-as-turmoil-mounts-in-washington.html",
       "published": "Mon, 19 Oct 2026 05:29:44 +0000",
@@ -31,9 +73,9 @@
       "sentiment": 0.11212121212121212
     },
     {
-      "title": "Search Continues for 11 Passengers From Capsized Boat Off Mexico Coast",
+      "title": "Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico",
       "link": "https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html",
-      "published": "Sun, 18 Oct 2026 23:19:11 +0000",
+      "published": "Mon, 19 Oct 2026 09:55:20 +0000",
       "sentiment": 0.024999999999999994
     },
     {
@@ -89,36 +131,6 @@
       "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
       "published": "Sun, 18 Oct 2026 20:09:12 +0000",
       "sentiment": 0.04910714285714285
-    },
-    {
-      "title": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
-      "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html",
-      "published": "Sun, 18 Oct 2026 13:05:18 +0000",
-      "sentiment": -0.14715909090909093
-    },
-    {
-      "title": "5 Takeaways From The Times’s Re-Examination of the O.J. Simpson Case",
-      "link": "https://www.nytimes.com/2026/10/18/us/oj-simpson-case-takeaways.html",
-      "published": "Sun, 18 Oct 2026 12:06:33 +0000",
-      "sentiment": 0.36818181818181817
-    },
-    {
-      "title": "There Is More to the O.J. Simpson Story",
-      "link": "https://www.nytimes.com/video/us/100000011193911/there-is-more-to-the-oj-simpson-story.html",
-      "published": "Sun, 18 Oct 2026 13:56:36 +0000",
-      "sentiment": 0.15855477855477856
-    },
-    {
-      "title": "Across Farm Country, Economic Discontent Strains Republican Coalition",
-      "link": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
-      "published": "Sun, 18 Oct 2026 09:00:47 +0000",
-      "sentiment": -0.075
-    },
-    {
-      "title": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
-      "link": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
-      "published": "Sun, 18 Oct 2026 12:20:45 +0000",
-      "sentiment": 0.0
     }
   ]
 }

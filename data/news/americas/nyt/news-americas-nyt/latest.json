@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
+      "published": "Mon, 19 Oct 2026 09:15:28 +0000",
+      "sentiment": 0.11481481481481481
+    },
+    {
+      "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
+      "link": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
+      "published": "Mon, 19 Oct 2026 09:04:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
+      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
+      "published": "Mon, 19 Oct 2026 09:02:39 +0000",
+      "sentiment": -0.8
+    },
+    {
       "title": "Can This International Force Stop Haiti’s Gangs?",
       "link": "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html",
-      "published": "Mon, 19 Oct 2026 09:01:56 +0000",
+      "published": "Mon, 19 Oct 2026 10:31:03 +0000",
       "sentiment": -0.2043290043290043
     },
     {
@@ -11,6 +29,12 @@
       "link": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html",
       "published": "Mon, 19 Oct 2026 06:43:58 +0000",
       "sentiment": -0.2
+    },
+    {
+      "title": "Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico",
+      "link": "https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html",
+      "published": "Mon, 19 Oct 2026 09:55:20 +0000",
+      "sentiment": 0.024999999999999994
     },
     {
       "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
@@ -101,24 +125,6 @@
       "link": "https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html",
       "published": "Tue, 13 Oct 2026 17:42:03 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Fugitive in Venezuela Money Laundering Cases to Appear in U.S. Court",
-      "link": "https://www.nytimes.com/2026/10/12/us/venezeula-money-laundering-arrest.html",
-      "published": "Mon, 12 Oct 2026 13:42:03 +0000",
-      "sentiment": -0.024999999999999998
-    },
-    {
-      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
-      "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
-      "published": "Mon, 12 Oct 2026 18:46:03 +0000",
-      "sentiment": 0.0909090909090909
-    },
-    {
-      "title": "Conor Kennedy and Giulia Be Married in Rio",
-      "link": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
-      "published": "Sat, 10 Oct 2026 22:40:42 +0000",
-      "sentiment": 0.125
     }
   ]
 }
