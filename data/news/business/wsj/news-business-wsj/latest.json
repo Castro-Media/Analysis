@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Gene Editing Is Giving Crops a Way to Tell Farmers When They’re Feeling Stressed",
+      "link": "https://www.wsj.com/science/environment/plants-genetically-modified-signals-health-f6096e1b?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 20:50:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
       "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
       "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 18:11:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/how-patriotism-shapes-jamie-dimons-leadership-6c7be063?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 10:05:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Internet Told Them Owning a Laundromat Was Easy Money. It Was Anything But.",
-      "link": "https://www.wsj.com/business/the-internet-told-them-owning-a-laundromat-was-easy-money-it-was-anything-but-2ca220c7?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.15555555555555556
     },
     {
       "title": "H.B. Fuller Rejects Ancora’s Latest Acquisition Bid, Plans to Consider Selling Noncore Businesses",
@@ -97,6 +97,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "Crown Holdings Reports Higher Profit as Can Volumes Offset Rising Costs",
+      "link": "https://www.wsj.com/business/earnings/crown-holdings-reports-higher-profit-as-can-volumes-offset-rising-costs-ab972610?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 20:32:00 GMT",
+      "sentiment": 0.27
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-bff57b5e?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 16:31:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/alcoa-posts-higher-third-quarter-profit-sales-on-increased-production-06d2fd90?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 15:43:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Travelers Profit Ticks Up on Investment Gains",
-      "link": "https://www.wsj.com/business/earnings/travelers-profit-ticks-up-on-investment-gains-b91f6ea7?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 11:44:00 GMT",
-      "sentiment": 0.1125
     },
     {
       "title": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028",
@@ -193,10 +193,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
+      "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 11:36:00 GMT",
-      "sentiment": 0.03409090909090909
+      "published": "Mon, 19 Oct 2026 19:43:00 GMT",
+      "sentiment": 0.02727272727272727
     },
     {
       "title": "Heat Pumps That Fit in Your Window",
@@ -313,6 +313,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Adidas Spent a Fortune on World Cup Marketing. Now Comes the Hard Part.",
+      "link": "https://www.wsj.com/cmo-today/adidas-spent-a-fortune-on-world-cup-marketing-now-comes-the-hard-part-133df4c4?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 19:44:00 GMT",
+      "sentiment": -0.022916666666666682
+    },
+    {
       "title": "Jamie Dimon Ignores the Noise, While Hermès Seeks Suburban Wealth",
       "link": "https://www.wsj.com/cmo-today/jamie-dimon-ignores-the-noise-while-hermes-seeks-suburban-wealth-e0183fa4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 13:23:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/cmo-today/ai-hyperscalers-try-to-fix-their-storytelling-problem-4a73d3fc?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 13:29:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Netflix Replaces Content Chief as It Struggles to Engage Viewers",
-      "link": "https://www.wsj.com/business/media/netflix-replaces-content-chief-as-it-struggles-to-engage-viewers-c179e0ba?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 22:42:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Self-Driving Big Rigs Rack Up Miles, Just Don’t Tell Them to Back Up…Yet",
@@ -409,6 +409,12 @@
       "sentiment": 0.1787878787878788
     },
     {
+      "title": "The Internet Told Them Owning a Laundromat Was Easy Money. It Was Anything But.",
+      "link": "https://www.wsj.com/business/the-internet-told-them-owning-a-laundromat-was-easy-money-it-was-anything-but-2ca220c7?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.15555555555555556
+    },
+    {
       "title": "Can a $9 Million Robot Save Our Aging Sewers?",
       "link": "https://www.wsj.com/business/entrepreneurship/can-a-9-million-robot-save-our-aging-sewers-f090dcaf?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 15:55:00 GMT",
@@ -425,12 +431,6 @@
       "link": "https://www.wsj.com/articles/okta-ceos-counterintuitive-leadership-lesson-0c910944?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 09:55:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "VC Firm Antares Ventures Raises Over $50 Million for Deep-Tech Investments",
-      "link": "https://www.wsj.com/pro/venture-capital/vc-firm-antares-ventures-raises-over-50-million-for-deep-tech-investments-76ba087a?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 13 Oct 2026 14:44:00 GMT",
-      "sentiment": 0.033333333333333326
     },
     {
       "title": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner",
@@ -469,16 +469,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains",
-      "link": "https://www.wsj.com/business/hospitality/how-coke-loosened-pepsis-grip-on-kfcs-soda-fountains-1be33456?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 18 Oct 2026 11:00:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
       "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 18:11:00 GMT",
       "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains",
+      "link": "https://www.wsj.com/business/hospitality/how-coke-loosened-pepsis-grip-on-kfcs-soda-fountains-1be33456?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 18 Oct 2026 11:00:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "What Tesla’s Flying Roadster Really Means for the Global Auto Race",
