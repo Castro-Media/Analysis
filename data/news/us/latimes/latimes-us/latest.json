@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "California creates first tribal-led marine protected areas",
+      "link": "https://www.latimes.com/environment/story/2026-10-19/california-creates-first-tribal-led-marine-protected-areas",
+      "published": "Mon, 19 Oct 2026 13:00:00 GMT",
+      "sentiment": 0.375
+    },
+    {
       "title": "Cooler temperatures, possible rain headed for Southern California",
       "link": "https://www.latimes.com/california/story/2026-10-19/cooler-temperatures-possible-rain-headed-for-southern-california",
       "published": "Mon, 19 Oct 2026 12:48:28 GMT",
@@ -13,16 +19,16 @@
       "sentiment": 0.4166666666666667
     },
     {
-      "title": "L.A.'s next mayor will face transit challenges. Troubled LAX people mover is Exhibit A",
-      "link": "https://www.latimes.com/california/story/2026-10-19/l-a-s-next-mayor-will-face-transit-challenges-troubled-lax-people-mover-is-exhibit",
-      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1625
-    },
-    {
       "title": "Becerra's muted gubernatorial campaign comes to life in home stretch",
       "link": "https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race",
       "published": "Mon, 19 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "L.A.'s next mayor will face transit challenges. Troubled LAX people mover is Exhibit A",
+      "link": "https://www.latimes.com/california/story/2026-10-19/l-a-s-next-mayor-will-face-transit-challenges-troubled-lax-people-mover-is-exhibit",
+      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1625
     },
     {
       "title": "Serial rapist and cosmetics heir is free. San Gabriel Valley community is outraged, mayor says",
@@ -55,12 +61,6 @@
       "sentiment": 0.1452020202020202
     },
     {
-      "title": "Clean transit, poor oversight",
-      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05333333333333333
-    },
-    {
       "title": "A truck company founder was indicted for fraud. California still paid $50 million for its vehicles",
       "link": "https://www.latimes.com/environment/story/2026-10-18/former-ceo-accused-of-fraud-california-still-paid-company-50-million",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
@@ -71,6 +71,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": -0.11666666666666668
+    },
+    {
+      "title": "Clean transit, poor oversight",
+      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05333333333333333
     },
     {
       "title": "'He's everywhere': This California Republican wants to make his party relevant again",
@@ -199,22 +205,10 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
-      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "Bass vs. Raman: Who can make housing more affordable?",
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.175
-    },
-    {
-      "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15833333333333335
     },
     {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
@@ -223,10 +217,22 @@
       "sentiment": -0.2125
     },
     {
+      "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15833333333333335
+    },
+    {
       "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
       "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
+      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Los Angeles city employee among four charged in downtown graffiti spree",
@@ -265,12 +271,6 @@
       "sentiment": 0.15666666666666668
     },
     {
-      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
-      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4318181818181818
-    },
-    {
       "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
       "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -281,6 +281,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-15/santa-monica-mountains-parks-close-red-flag-warning",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0961111111111111
+    },
+    {
+      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
+      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4318181818181818
     },
     {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",
@@ -409,16 +415,16 @@
       "sentiment": -0.1875
     },
     {
-      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09500000000000001
-    },
-    {
       "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
       "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
       "published": "Wed, 14 Oct 2026 10:00:00 GMT",
       "sentiment": 0.39166666666666666
+    },
+    {
+      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09500000000000001
     },
     {
       "title": "Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate",
@@ -493,6 +499,12 @@
       "sentiment": -0.018518518518518517
     },
     {
+      "title": "L.A. community horrified after beloved dog found hanging from leash. 'No words can describe it'",
+      "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0111111111111111
+    },
+    {
       "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
       "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
@@ -503,12 +515,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "L.A. community horrified after beloved dog found hanging from leash. 'No words can describe it'",
-      "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0111111111111111
     },
     {
       "title": "Former police officers, daughter killed in suspected murder-suicide in upscale California neighborhood",
@@ -529,16 +535,16 @@
       "sentiment": -0.05555555555555555
     },
     {
-      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
-      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
-      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.056666666666666664
-    },
-    {
       "title": "Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor",
       "link": "https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign",
       "published": "Mon, 12 Oct 2026 10:00:00 GMT",
       "sentiment": 0.45833333333333337
+    },
+    {
+      "title": "Here are the threats that remain from storm Rachel and the weather whiplash that comes next",
+      "link": "https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain",
+      "published": "Mon, 12 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.056666666666666664
     },
     {
       "title": "What it will take for the Griffith Park merry-go-round to finally spin again",
