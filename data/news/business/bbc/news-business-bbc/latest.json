@@ -1,34 +1,10 @@
 {
   "entries": [
     {
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 16:46:42 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "Home sellers cut asking prices on 3,000 properties a day",
       "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 23:00:45 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 03:17:46 GMT",
-      "sentiment": -0.1875
-    },
-    {
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 04:30:59 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "People playing loud music on buses could face £100 fine",
-      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 00:22:20 GMT",
-      "sentiment": 0.2176767676767677
     },
     {
       "title": "Don't fall for this - how to protect yourself from AI scams",
@@ -37,10 +13,40 @@
       "sentiment": -0.5
     },
     {
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 16:46:42 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 06:08:02 GMT",
+      "sentiment": -0.375
+    },
+    {
+      "title": "People playing loud music on buses could face £100 fine",
+      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:22:20 GMT",
+      "sentiment": 0.2176767676767677
+    },
+    {
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 23:28:45 GMT",
       "sentiment": 0.4
+    },
+    {
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 04:30:59 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "What is the Budget and what could be in it?",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 10:22:17 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "There's a crackdown on sports piracy - but is it already out of control?",
@@ -58,12 +64,6 @@
       "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
       "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 01:59:48 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 10:22:17 GMT",
       "sentiment": 0.0
     },
     {
@@ -181,6 +181,12 @@
       "sentiment": 0.10952380952380951
     },
     {
+      "title": "Charities 'busier than ever' with furniture poverty",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 05:10:28 GMT",
+      "sentiment": 0.45
+    },
+    {
       "title": "Don't fall for this - how to protect yourself from AI scams",
       "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 23:24:59 GMT",
@@ -203,12 +209,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 06:07:40 GMT",
       "sentiment": -0.3888888888888889
-    },
-    {
-      "title": "How day of protests unfolded as disorder breaks out across France",
-      "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 21:33:17 GMT",
-      "sentiment": -0.8
     },
     {
       "title": "My hometown shows that high streets have to change or die",
