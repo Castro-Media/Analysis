@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
+      "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 21:21:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-1850994c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 20:55:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Gene Editing Is Giving Crops a Way to Tell Farmers When They’re Feeling Stressed",
       "link": "https://www.wsj.com/science/environment/plants-genetically-modified-signals-health-f6096e1b?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 20:50:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
-      "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 18:11:00 GMT",
-      "sentiment": -0.041666666666666664
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -31,10 +37,10 @@
       "sentiment": 0.033333333333333326
     },
     {
-      "title": "How Patriotism Shapes Jamie Dimon’s Leadership",
-      "link": "https://www.wsj.com/business/how-patriotism-shapes-jamie-dimons-leadership-6c7be063?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 10:05:00 GMT",
-      "sentiment": 0.0
+      "title": "Tradeweb to Buy Trumid For About $1.97 Billion",
+      "link": "https://www.wsj.com/business/deals/tradeweb-to-buy-trumid-for-about-1-97-billion-1fd21bdb?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 21:49:00 GMT",
+      "sentiment": -0.025
     },
     {
       "title": "H.B. Fuller Rejects Ancora’s Latest Acquisition Bid, Plans to Consider Selling Noncore Businesses",
@@ -58,12 +64,6 @@
       "title": "Proofpoint to Acquire Varonis in $6.3 Billion Cybersecurity Deal",
       "link": "https://www.wsj.com/pro/cybersecurity/proofpoint-to-acquire-varonis-in-6-3-billion-cybersecurity-deal-2c3dc464?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 20:24:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Penske Automotive Group to Be Taken Private by Penske, Mitsui",
-      "link": "https://www.wsj.com/business/deals/penske-automotive-group-to-be-taken-private-by-penske-mitsui-77e061af?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 12:26:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -97,16 +97,22 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-bff57b5e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 20:58:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Steel Dynamics Reports Higher Profit on Improved Pricing, Lower Imports",
+      "link": "https://www.wsj.com/business/earnings/steel-dynamics-reports-higher-profit-on-improved-pricing-lower-imports-f7bd4545?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 20:55:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Crown Holdings Reports Higher Profit as Can Volumes Offset Rising Costs",
       "link": "https://www.wsj.com/business/earnings/crown-holdings-reports-higher-profit-as-can-volumes-offset-rising-costs-ab972610?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 20:32:00 GMT",
       "sentiment": 0.27
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-bff57b5e?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 16:31:00 GMT",
-      "sentiment": 0.3333333333333333
     },
     {
       "title": "Cleveland-Cliffs Revenue Rises on Higher Volumes, Selling Price",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/chinas-cxmt-expects-over-eightfold-revenue-jump-amid-memory-squeeze-93d24f98?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 04:23:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Alcoa Posts Higher Profit, Sales as Market Conditions Improve, Production Increases",
-      "link": "https://www.wsj.com/business/earnings/alcoa-posts-higher-third-quarter-profit-sales-on-increased-production-06d2fd90?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 15:43:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Ford Wants to Make Fun Cars Again in Europe—if Drivers Can Wait Until 2028",
@@ -157,6 +157,18 @@
       "sentiment": 0.5
     },
     {
+      "title": "Opinion | The Northeast Climate Revolt",
+      "link": "https://www.wsj.com/opinion/northeast-energy-climate-elections-maura-healey-kathy-hochul-d96539ee?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 21:43:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Elon Musk Beats Anthropic on Giveaways",
+      "link": "https://www.wsj.com/opinion/elon-musk-giving-spacex-shares-anthropic-fund-81d46772?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 21:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Is New York Stuck With Kathy Hochul?",
       "link": "https://www.wsj.com/opinion/is-new-york-stuck-with-kathy-hochul-c91e20a7?mod=pls_whats_news_us_business_f",
       "published": "Sun, 18 Oct 2026 20:49:00 GMT",
@@ -181,16 +193,10 @@
       "sentiment": -0.07777777777777778
     },
     {
-      "title": "Opinion | The Best Defense Against AI Is AI",
-      "link": "https://www.wsj.com/opinion/the-best-defense-against-ai-is-ai-b8e41b8c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 21:28:00 GMT",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Opinion | Recycling Strengthens the American Economy",
-      "link": "https://www.wsj.com/opinion/recycling-strengthens-the-american-economy-5932e26e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 18:36:00 GMT",
-      "sentiment": 0.25
+      "title": "Energy and Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/energy-and-utilities-roundup-market-talk-030af115?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 21:01:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-iea-reserve-releases-hormuz-risks-f8d24d7b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 20:01:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "Star Oil Trader Who Made Wrong-Way Bet to Leave Vitol",
-      "link": "https://www.wsj.com/business/energy-oil/star-oil-trader-who-made-wrong-way-bet-to-leave-vitol-6e190ee7?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 17:17:00 GMT",
-      "sentiment": 0.09999999999999999
     },
     {
       "title": "Brace Yourself for the Priciest Holiday Travel Season in Years",
@@ -433,6 +433,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "How Patriotism Shapes Jamie Dimon’s Leadership",
+      "link": "https://www.wsj.com/business/how-patriotism-shapes-jamie-dimons-leadership-6c7be063?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 10:05:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner",
       "link": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 01:00:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-1850994c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 21:08:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner",
       "link": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 01:00:00 GMT",
@@ -471,7 +471,7 @@
     {
       "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
       "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 18:11:00 GMT",
+      "published": "Mon, 19 Oct 2026 21:21:00 GMT",
       "sentiment": -0.041666666666666664
     },
     {
