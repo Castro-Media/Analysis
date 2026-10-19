@@ -7,10 +7,10 @@
       "sentiment": -0.24444444444444446
     },
     {
-      "title": "France Officials Acknowledge ‘Failure’ Around Riots",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-      "published": "Mon, 19 Oct 2026 15:29:08 +0000",
-      "sentiment": -0.31666666666666665
+      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
+      "published": "Mon, 19 Oct 2026 17:50:36 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
@@ -19,15 +19,21 @@
       "sentiment": 0.0
     },
     {
-      "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
-      "link": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
-      "published": "Mon, 19 Oct 2026 16:11:03 +0000",
-      "sentiment": 0.05
+      "title": "Italy Faces Parallel Protests in the North and South",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
+      "published": "Mon, 19 Oct 2026 18:45:26 +0000",
+      "sentiment": -0.098
+    },
+    {
+      "title": "France Officials Acknowledge ‘Failure’ Around Riots",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+      "published": "Mon, 19 Oct 2026 15:29:09 +0000",
+      "sentiment": -0.31666666666666665
     },
     {
       "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
       "link": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
-      "published": "Mon, 19 Oct 2026 15:48:05 +0000",
+      "published": "Mon, 19 Oct 2026 18:33:39 +0000",
       "sentiment": 0.016666666666666663
     },
     {
@@ -49,21 +55,27 @@
       "sentiment": 0.0
     },
     {
+      "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
+      "link": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
+      "published": "Mon, 19 Oct 2026 16:11:03 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
       "link": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
-      "published": "Mon, 19 Oct 2026 14:22:13 +0000",
+      "published": "Mon, 19 Oct 2026 17:33:24 +0000",
       "sentiment": -0.15000000000000002
     },
     {
-      "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+      "title": "France’s Far Right Shifts Into Campaign Mode as Student Riots Erupt Into Violence",
       "link": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-      "published": "Mon, 19 Oct 2026 12:55:13 +0000",
+      "published": "Mon, 19 Oct 2026 17:10:34 +0000",
       "sentiment": 0.4619047619047619
     },
     {
       "title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
       "link": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
-      "published": "Mon, 19 Oct 2026 12:03:24 +0000",
+      "published": "Mon, 19 Oct 2026 17:45:21 +0000",
       "sentiment": 0.0
     },
     {
@@ -73,21 +85,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
-      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
-      "published": "Mon, 19 Oct 2026 13:50:24 +0000",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
-      "link": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html",
-      "published": "Mon, 19 Oct 2026 06:43:58 +0000",
-      "sentiment": -0.2
-    },
-    {
       "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
       "link": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-      "published": "Mon, 19 Oct 2026 15:26:44 +0000",
+      "published": "Mon, 19 Oct 2026 18:47:21 +0000",
       "sentiment": -0.03333333333333333
     },
     {
@@ -109,6 +109,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
+      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
+      "published": "Mon, 19 Oct 2026 18:07:27 +0000",
+      "sentiment": -0.8
+    },
+    {
       "title": "Can This International Force Stop Haiti’s Gangs?",
       "link": "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html",
       "published": "Mon, 19 Oct 2026 15:01:40 +0000",
@@ -125,6 +131,12 @@
       "link": "https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html",
       "published": "Mon, 19 Oct 2026 10:59:55 +0000",
       "sentiment": 0.4
+    },
+    {
+      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
+      "link": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html",
+      "published": "Mon, 19 Oct 2026 06:43:59 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "Coast Guard Halts Search for Survivors of Capsized Boat Off Mexico",
@@ -159,7 +171,7 @@
     {
       "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
       "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
-      "published": "Mon, 19 Oct 2026 14:27:55 +0000",
+      "published": "Mon, 19 Oct 2026 14:27:56 +0000",
       "sentiment": 0.3
     },
     {
@@ -311,12 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
       "published": "Sat, 17 Oct 2026 12:55:53 +0000",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
-      "link": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
-      "published": "Sat, 17 Oct 2026 17:41:07 +0000",
-      "sentiment": 0.001388888888888884
     }
   ]
 }

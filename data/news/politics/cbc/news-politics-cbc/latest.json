@@ -1,16 +1,22 @@
 {
   "entries": [
     {
-      "title": "Carney honours soldiers killed at CFB Wainwright, promises support for full investigation",
+      "title": "50 investigators on the ground after 4 killed, 39 injured in fast-moving fire at CFB Wainwright",
       "link": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478?cmp=rss",
       "published": "Mon, 19 Oct 2026 10:02:21 EDT",
-      "sentiment": 0.07499999999999998
+      "sentiment": -0.2
     },
     {
       "title": "Former journalist Pamela Wallin resigns from Senate",
       "link": "https://www.cbc.ca/news/politics/wallin-resigns-from-senate-9.7386708?cmp=rss",
       "published": "Mon, 19 Oct 2026 11:17:47 EDT",
-      "sentiment": -0.13333333333333333
+      "sentiment": -0.1
+    },
+    {
+      "title": "Some Alberta voting stations late to open for referendum day",
+      "link": "https://www.cbc.ca/news/canada/calgary/referendum-day-voters-react-9.7386960?cmp=rss",
+      "published": "Mon, 19 Oct 2026 14:20:07 EDT",
+      "sentiment": -0.022222222222222216
     },
     {
       "title": "'We will remember': Tributes pour in for soldiers killed when fire engulfed training exercise",
@@ -34,7 +40,7 @@
       "title": "Inflation rises to 3.1% in September, as fuel prices push higher: StatsCan",
       "link": "https://www.cbc.ca/news/business/inflation-september-2026-9.7386437?cmp=rss",
       "published": "Mon, 19 Oct 2026 08:44:28 EDT",
-      "sentiment": 0.2833333333333333
+      "sentiment": 0.0875
     },
     {
       "title": "What we know so far about fast-moving fire that killed 4, injured dozens at CFB Wainwright",
@@ -113,12 +119,6 @@
       "link": "https://www.cbc.ca/news/canada/edmonton/alberta-separatism-strain-tension-relationships-9.7382945?cmp=rss",
       "published": "Fri, 16 Oct 2026 10:42:41 EDT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Campaigns enter homestretch ahead of Alberta referendum Monday",
-      "link": "https://www.cbc.ca/news/canada/calgary/campaigns-enter-homestretch-ahead-of-alberta-referendum-monday-9.7382499?cmp=rss",
-      "published": "Fri, 16 Oct 2026 08:00:00 EDT",
-      "sentiment": 0.09523809523809523
     }
   ]
 }

@@ -1,15 +1,27 @@
 {
   "entries": [
     {
+      "title": "Italy Faces Parallel Protests in the North and South",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
+      "published": "Mon, 19 Oct 2026 18:45:26 +0000",
+      "sentiment": -0.098
+    },
+    {
+      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
+      "published": "Mon, 19 Oct 2026 17:50:36 +0000",
+      "sentiment": 0.1
+    },
+    {
       "title": "‘Mothers of Kherson’: An Operatic Show of Support for Ukraine",
       "link": "https://www.nytimes.com/2026/10/19/arts/music/mothers-of-kherson-ukraine-opera.html",
-      "published": "Mon, 19 Oct 2026 16:38:09 +0000",
+      "published": "Mon, 19 Oct 2026 16:38:10 +0000",
       "sentiment": 0.027777777777777773
     },
     {
       "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
       "link": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
-      "published": "Mon, 19 Oct 2026 15:48:05 +0000",
+      "published": "Mon, 19 Oct 2026 18:33:39 +0000",
       "sentiment": 0.016666666666666663
     },
     {
@@ -21,7 +33,7 @@
     {
       "title": "France Officials Acknowledge ‘Failure’ Around Riots",
       "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
-      "published": "Mon, 19 Oct 2026 15:29:08 +0000",
+      "published": "Mon, 19 Oct 2026 15:29:09 +0000",
       "sentiment": -0.31666666666666665
     },
     {
@@ -106,18 +118,6 @@
       "title": "A Former Rome Reporter on the Pope’s Health and Legacy",
       "link": "https://www.nytimes.com/2026/10/16/insider/pope-leo-xiv-lung-cancer-vatican-legacy.html",
       "published": "Sat, 17 Oct 2026 01:26:41 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
-      "link": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
-      "published": "Fri, 16 Oct 2026 19:04:56 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-      "link": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-      "published": "Fri, 16 Oct 2026 19:12:25 +0000",
       "sentiment": 0.0
     }
   ]
