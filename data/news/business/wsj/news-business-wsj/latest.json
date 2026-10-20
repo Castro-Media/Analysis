@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Boeing’s Last 737 MAX Jet Gets Approval to Carry Passengers",
+      "link": "https://www.wsj.com/business/airlines/boeings-last-737-max-jet-gets-approval-to-carry-passengers-73762731?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 19:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Salmon Farmers Deploy Lasers, Robots to Meet Booming Demand",
       "link": "https://www.wsj.com/business/salmon-farmers-deploy-lasers-robots-to-meet-booming-demand-2cad3925?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 17:15:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/general-motors-plans-20-billion-in-buybacks-to-shore-up-share-price-a857e6fe?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 15:39:00 GMT",
       "sentiment": 0.35
-    },
-    {
-      "title": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-saudi-arabia-postpones-davos-in-the-desert-839214f2?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 11:20:00 GMT",
-      "sentiment": 0.11818181818181818
     },
     {
       "title": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
@@ -157,6 +157,12 @@
       "sentiment": 0.04545454545454545
     },
     {
+      "title": "Opinion | The Cold Reality of No Gas",
+      "link": "https://www.wsj.com/opinion/the-cold-reality-of-no-gas-9056a4fd?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 19:42:00 GMT",
+      "sentiment": -0.6
+    },
+    {
       "title": "Opinion | The Northeast Climate Revolt",
       "link": "https://www.wsj.com/opinion/northeast-energy-climate-elections-maura-healey-kathy-hochul-d96539ee?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 21:43:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/democrats-iran-strait-of-hormuz-oil-josh-turek-troy-jackson-f3c47106?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 21:48:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Slapping Down an Insubordinate Court",
-      "link": "https://www.wsj.com/opinion/fcc-supreme-court-fourth-circuit-election-advertising-628b4a82?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 15 Oct 2026 21:38:00 GMT",
-      "sentiment": -0.07777777777777778
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -433,6 +433,12 @@
       "sentiment": 0.21818181818181817
     },
     {
+      "title": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-saudi-arabia-postpones-davos-in-the-desert-839214f2?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 11:20:00 GMT",
+      "sentiment": 0.11818181818181818
+    },
+    {
       "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
       "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 21:21:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-ae5e63b2?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 16:24:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "How Patriotism Shapes Jamie Dimon’s Leadership",
-      "link": "https://www.wsj.com/business/how-patriotism-shapes-jamie-dimons-leadership-6c7be063?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 10:05:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Netflix, America’s Dominant Streaming Service, Has Hit a Wall",
@@ -487,10 +487,10 @@
       "sentiment": -0.1
     },
     {
-      "title": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
-      "link": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 10:01:00 GMT",
-      "sentiment": 0.25
+      "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains",
+      "link": "https://www.wsj.com/business/hospitality/how-coke-loosened-pepsis-grip-on-kfcs-soda-fountains-1be33456?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 18 Oct 2026 11:00:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Best Small-Business Loans in October 2026",

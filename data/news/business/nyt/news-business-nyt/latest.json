@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Boeing’s Large 737 Max Jet Secures U.S. Approval",
+      "link": "https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html",
+      "published": "Tue, 20 Oct 2026 19:46:20 +0000",
+      "sentiment": 0.4380952380952381
+    },
+    {
       "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
       "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
       "published": "Tue, 20 Oct 2026 17:45:01 +0000",
@@ -27,7 +33,7 @@
     {
       "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
       "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
-      "published": "Tue, 20 Oct 2026 18:28:33 +0000",
+      "published": "Tue, 20 Oct 2026 19:22:40 +0000",
       "sentiment": 0.18
     },
     {
@@ -75,7 +81,7 @@
     {
       "title": "At Victoria’s Secret’s 2026 Fashion Show, an Old Stereotype of Sexy",
       "link": "https://www.nytimes.com/2026/10/19/style/victorias-secret-fantasy-bra-sexy.html",
-      "published": "Mon, 19 Oct 2026 19:04:30 +0000",
+      "published": "Tue, 20 Oct 2026 19:24:17 +0000",
       "sentiment": 0.13749999999999998
     },
     {
@@ -287,12 +293,6 @@
       "link": "https://www.nytimes.com/2026/10/15/business/economy/californias-housing-proposition-45.html",
       "published": "Thu, 15 Oct 2026 16:00:52 +0000",
       "sentiment": 0.07142857142857142
-    },
-    {
-      "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-      "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-      "published": "Thu, 15 Oct 2026 18:12:20 +0000",
-      "sentiment": 0.0
     }
   ]
 }
