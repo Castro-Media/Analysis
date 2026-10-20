@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
+      "title": "Rubio Travels to India for Trade Talks Amid Strained U.S. Relations",
+      "link": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
+      "published": "Tue, 20 Oct 2026 12:31:21 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Australian Lawmaker Helen Haines Remains in Critical Condition After Car Attack",
       "link": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
-      "published": "Tue, 20 Oct 2026 10:59:48 +0000",
-      "sentiment": -0.03111111111111111
+      "published": "Tue, 20 Oct 2026 10:59:49 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Deaths at Danjiri Float Festival Prompt Questions in Japan",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
       "published": "Thu, 15 Oct 2026 08:49:12 +0000",
       "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Japan Protests Russia’s Detention of Journalist Accused of Spying",
-      "link": "https://www.nytimes.com/2026/10/14/world/asia/japan-protest-russia-detention-journalist.html",
-      "published": "Thu, 15 Oct 2026 05:04:38 +0000",
-      "sentiment": 0.0
     }
   ]
 }

@@ -7,22 +7,16 @@
       "sentiment": 0.10277777777777779
     },
     {
-      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
-      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.13333333333333336
-    },
-    {
-      "title": "'We're in crisis': The California coastal town under siege from fires, high surf, El Niño",
-      "link": "https://www.latimes.com/california/story/2026-10-20/were-in-crisis-california-coastal-town-under-siege-from-fires-high-surf-el-nino",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.152
-    },
-    {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule.",
       "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
+      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.13333333333333336
     },
     {
       "title": "Residents fight for anti-camping zone at 6th Street Bridge park",
@@ -85,16 +79,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Why an ambitious 300-mile trail in Northern California distresses some Native Americans",
-      "link": "https://www.latimes.com/environment/story/2026-10-19/why-this-northern-california-tribe-is-fighting-great-redwood-trail",
-      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.4166666666666667
-    },
-    {
       "title": "Becerra's muted gubernatorial campaign comes to life in homestretch",
       "link": "https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race",
       "published": "Mon, 19 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Why an ambitious 300-mile trail in Northern California distresses some Native Americans",
+      "link": "https://www.latimes.com/environment/story/2026-10-19/why-this-northern-california-tribe-is-fighting-great-redwood-trail",
+      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.4166666666666667
     },
     {
       "title": "Serial rapist and cosmetics heir is free. San Gabriel Valley community is outraged, mayor says",
@@ -265,22 +259,16 @@
       "sentiment": -0.012499999999999997
     },
     {
+      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
+      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Bass vs. Raman: Who can make housing more affordable?",
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.175
-    },
-    {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
-      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2125
     },
     {
       "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
@@ -289,10 +277,16 @@
       "sentiment": -0.15833333333333335
     },
     {
-      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
-      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
+      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
+      "sentiment": -0.2125
+    },
+    {
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Los Angeles city employee among four charged in downtown graffiti spree",
