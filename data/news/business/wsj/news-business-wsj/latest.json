@@ -3,14 +3,14 @@
     {
       "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
       "link": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 21:46:00 GMT",
+      "published": "Tue, 20 Oct 2026 22:47:00 GMT",
       "sentiment": 0.0
     },
     {
       "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
       "link": "https://www.wsj.com/business/earnings/netflix-revenue-growth-slows-as-it-overhauls-programming-units-d6eac0b5?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 21:46:00 GMT",
-      "sentiment": 0.5
+      "sentiment": 0.0
     },
     {
       "title": "Order to Slow Down Starlink for Ukraine Came From Musk",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Super Micro Computer Shares Up as Preliminary Revenue Tops Guidance",
+      "link": "https://www.wsj.com/business/earnings/super-micro-computer-shares-up-as-preliminary-revenue-tops-guidance-be7f5f1f?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 22:03:00 GMT",
+      "sentiment": 0.29166666666666663
+    },
+    {
       "title": "Adidas Lifts Profit View After U.S. Tariff Refunds, Record Quarterly Performance",
       "link": "https://www.wsj.com/business/retail/adidas-lifts-profit-view-after-u-s-tariff-refunds-record-quarterly-performance-b9e91360?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 17:37:00 GMT",
@@ -91,9 +97,15 @@
       "sentiment": 0.024999999999999994
     },
     {
-      "title": "Amazon to Hire More Than 300,000 U.S. Workers for Holiday Season",
-      "link": "https://www.wsj.com/business/retail/amazon-to-hire-more-than-300-000-u-s-workers-for-holiday-season-7fcd2109?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 16:08:00 GMT",
+      "title": "América Móvil Posts Higher Third-Quarter Profit",
+      "link": "https://www.wsj.com/business/earnings/america-movil-posts-higher-third-quarter-profit-317d8c15?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 22:53:00 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Alaska Air Group Swings to Third-Quarter Loss on Fuel Costs",
+      "link": "https://www.wsj.com/business/earnings/alaska-air-group-swings-to-third-quarter-loss-on-fuel-costs-c555dce6?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 21:58:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/united-airlines-revenue-rises-as-fare-hikes-offset-fuel-costs-196ddf48?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 20:52:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Northrop Grumman Expects Growth to Accelerate Next Year on Defense Demand",
-      "link": "https://www.wsj.com/business/earnings/northrop-grumman-raises-outlook-on-higher-earnings-sales-15b4fda3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 15:16:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "General Motors Stock Slides as Iran Conflict Drives Up Costs",
-      "link": "https://www.wsj.com/business/earnings/general-motors-revenue-rises-despite-selling-fewer-cars-7cc5386d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 14:45:00 GMT",
-      "sentiment": 0.15000000000000002
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -463,16 +463,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Netflix, America’s Dominant Streaming Service, Has Hit a Wall",
-      "link": "https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.3333333333333333
-    },
-    {
       "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
       "link": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 01:00:00 GMT",
       "sentiment": 0.16
+    },
+    {
+      "title": "Netflix, America’s Dominant Streaming Service, Has Hit a Wall",
+      "link": "https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 23:00:00 GMT",
+      "sentiment": 0.3333333333333333
     },
     {
       "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
@@ -481,10 +481,10 @@
       "sentiment": -0.041666666666666664
     },
     {
-      "title": "A Hedge-Fund Billionaire’s Two Bitter Wars—Against His Wife and His Business Partner",
-      "link": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.1
+      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+      "link": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 22:47:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "GM Plans $20 Billion in Buybacks, but Warns of Bumpy 2027",
