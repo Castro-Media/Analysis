@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "What’s Behind the Protests in France and What Happens Next",
+      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 11:49:00 GMT",
+      "sentiment": -0.24000000000000005
+    },
+    {
+      "title": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-saudi-arabia-postpones-davos-in-the-desert-839214f2?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 11:20:00 GMT",
+      "sentiment": 0.11818181818181818
+    },
+    {
+      "title": "China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule.",
+      "link": "https://www.wsj.com/world/china/chinas-ultimate-political-survivor-just-fell-what-that-says-about-xis-rule-b04cfa2f?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 10:55:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "Netflix Won the Streaming Wars. Now It Faces Its Biggest Disruption in Years.",
       "link": "https://www.wsj.com/world/netflix-won-the-streaming-wars-now-it-faces-its-biggest-disruption-in-years-39c47881?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 10:03:00 GMT",
@@ -19,27 +37,15 @@
       "sentiment": 0.0
     },
     {
-      "title": "Vance Declines to Endorse Netanyahu in Re-Election Bid",
-      "link": "https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 23:50:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Says He Would Be Open to Meeting With Putin and Xi",
-      "link": "https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 21:55:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "The New Wild West of Gold Mining Is West Africa",
-      "link": "https://www.wsj.com/world/africa/the-new-wild-west-of-gold-mining-is-west-africa-8b4886c4?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 19:18:00 GMT",
-      "sentiment": 0.12424242424242422
-    },
-    {
       "title": "Oil Above $100 a Barrel as Middle East Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-up-as-traders-weigh-middle-east-supply-risks-560c31ca?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 10:28:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Vance Declines to Endorse Netanyahu in Re-Election Bid",
+      "link": "https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews",
+      "published": "Mon, 19 Oct 2026 23:50:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/israels-front-runners-shun-arab-voters-who-could-help-them-win-election-8f4cd158?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 17:13:00 GMT",
       "sentiment": 0.8
-    },
-    {
-      "title": "Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week",
-      "link": "https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 16:12:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above 2%, Ueda Says",
@@ -199,12 +199,6 @@
       "sentiment": 0.132
     },
     {
-      "title": "Rioting in France: What’s Fueling the Violence and What Happens Next",
-      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 16:46:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "KKR Sent Formal Objection by EU Over Information Provided in NetCo Deal",
       "link": "https://www.wsj.com/business/kkr-sent-formal-objection-by-eu-over-information-provided-in-26-billion-netco-deal-5848d196?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 13:53:00 GMT",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/world/europe/french-contagion-less-virulent-than-in-previous-eurozone-crisis-cefd8692?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 08:13:00 GMT",
       "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal",
+      "link": "https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c?mod=rss_worldnews",
+      "published": "Sun, 18 Oct 2026 17:23:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "China’s Export Boom Masks Deep Economic Problems at Home",
@@ -253,16 +253,16 @@
       "sentiment": 0.1325
     },
     {
+      "title": "Trump Says He Would Be Open to Meeting With Putin and Xi",
+      "link": "https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd?mod=rss_worldnews",
+      "published": "Mon, 19 Oct 2026 21:55:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
       "link": "https://www.wsj.com/world/russia/putin-floats-a-summit-with-trump-and-xi-to-decide-ukraines-fate-1cf6acc1?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 12:09:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal",
-      "link": "https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c?mod=rss_worldnews",
-      "published": "Sun, 18 Oct 2026 17:23:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "The Playboy Who Inherited the World’s Most Notorious Mercenary Force",
@@ -281,6 +281,12 @@
       "link": "https://www.wsj.com/world/russia/russia-detains-japanese-journalist-on-espionage-charges-1506f50f?mod=rss_worldnews",
       "published": "Wed, 14 Oct 2026 16:30:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "The New Wild West of Gold Mining Is West Africa",
+      "link": "https://www.wsj.com/world/africa/the-new-wild-west-of-gold-mining-is-west-africa-8b4886c4?mod=rss_worldnews",
+      "published": "Mon, 19 Oct 2026 19:18:00 GMT",
+      "sentiment": 0.12424242424242422
     },
     {
       "title": "Kenyan Club Rejects Bid to Allow Women Into Men’s Bar From ‘Out of Africa’",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/world/africa/africas-richest-man-wants-to-turn-a-pristine-coastline-into-an-oil-hub-5ce1e62e?mod=rss_worldnews",
       "published": "Sat, 03 Oct 2026 16:00:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Drones Strike Ethiopia’s Capital as Country Severs Ties with Eritrea",
-      "link": "https://www.wsj.com/world/africa/drones-strike-ethiopias-capital-as-country-severs-ties-with-eritrea-c5651f70?mod=rss_worldnews",
-      "published": "Thu, 01 Oct 2026 20:26:00 GMT",
-      "sentiment": 0.03333333333333333
     },
     {
       "title": "As China Encroaches, Even New Zealand Is Getting Serious About Its Military",
@@ -373,6 +373,12 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week",
+      "link": "https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b?mod=rss_worldnews",
+      "published": "Mon, 19 Oct 2026 16:12:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks",
       "link": "https://www.wsj.com/world/middle-east/saudi-arabias-military-limitations-are-being-exposed-by-houthi-attacks-40082655?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 02:00:00 GMT",
@@ -383,18 +389,6 @@
       "link": "https://www.wsj.com/politics/policy/trumps-overtures-to-putin-put-republican-candidates-in-hot-seat-3ac6ffc8?mod=rss_worldnews",
       "published": "Sun, 18 Oct 2026 23:19:00 GMT",
       "sentiment": 0.03571428571428571
-    },
-    {
-      "title": "Wall Street Elite Can’t Decide How to RSVP to the Prince’s Big Saudi Conference",
-      "link": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4?mod=rss_worldnews",
-      "published": "Sun, 18 Oct 2026 23:01:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Endorses Israel’s Netanyahu for Re-Election",
-      "link": "https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98?mod=rss_worldnews",
-      "published": "Sun, 18 Oct 2026 18:28:00 GMT",
-      "sentiment": -0.1142857142857143
     },
     {
       "title": "The Defector: A Russian Officer Turned Against His Country and Helped Ukraine Kill Hundreds",
