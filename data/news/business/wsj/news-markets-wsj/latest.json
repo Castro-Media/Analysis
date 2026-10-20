@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Dismal Data-Center IPO Weighs on Tech Investors",
+      "title": "Stock Market Today: Stocks U-Turn, Setting Aside AI Jitters",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 09:11:54 GMT",
-      "sentiment": -0.125
+      "sentiment": -0.7
     },
     {
       "title": "Stocks Face Headwind That Ended Other Bull Markets",
@@ -103,6 +103,18 @@
       "sentiment": 0.3181818181818182
     },
     {
+      "title": "Google Says Services Are Recovering After U.K. Cloud Outage Hits Businesses",
+      "link": "https://www.wsj.com/finance/investing/revolut-hit-by-widespread-outage-affecting-payments-transfers-withdrawals-5971bf0a?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 14:34:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Kroger Targets Earnings Growth, Operations Overhaul in New Three-Year Plan",
+      "link": "https://www.wsj.com/business/retail/kroger-targets-earnings-growth-operations-overhaul-in-new-three-year-plan-fe1d2bc5?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 14:19:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Euro at Risk of Further Falls if French Fiscal Outlook Worsens",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 12:44:00 GMT",
@@ -121,22 +133,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Stocks U-Turn, Shaking Off AI Jitters",
+      "link": "https://www.wsj.com/finance/stocks/ai-selloff-returns-oil-tops-110-a-barrel-b8400c70?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 14:51:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-9f31e1a6?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 11:10:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5d98af7d?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 11:06:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "AI Selloff Returns, Oil Tops $110 a Barrel",
-      "link": "https://www.wsj.com/finance/stocks/ai-selloff-returns-oil-tops-110-a-barrel-b8400c70?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 12:37:00 GMT",
-      "sentiment": -0.19999999999999998
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -154,12 +160,6 @@
       "title": "European Chip Stocks Resume Fall After Day of Respite",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-amid-lingering-worry-over-ai-boom-amid-elevated-bond-yields-6628932c?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 08:35:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Asian Stocks Fall, Bucking U.S. Tech Rebound",
-      "link": "https://www.wsj.com/finance/stocks/asian-stocks-fall-bucking-u-s-tech-rebound-d5c7aa96?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 06:23:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,28 +199,28 @@
       "sentiment": 0.27878787878787875
     },
     {
-      "title": "Webull to Offer Perpetual Futures Starting Next Month",
-      "link": "https://www.wsj.com/finance/commodities-futures/webull-to-offer-perpetual-futures-starting-next-month-32a82d44?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 12:48:00 GMT",
-      "sentiment": 0.03409090909090909
+      "title": "U.S. Natural Gas Futures Test Support at $3/mmBtu",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-geopolitical-risks-intensify-3222a858?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 14:05:00 GMT",
+      "sentiment": 0.2
     },
     {
-      "title": "Oil Climbs Higher, With WTI Above $100 a Barrel",
+      "title": "Oil Futures Rise As Middle East Risk Remains High",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-but-supply-risks-linger-913dc341?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 11:09:00 GMT",
-      "sentiment": 0.08333333333333333
+      "published": "Tue, 20 Oct 2026 13:36:00 GMT",
+      "sentiment": 0.065
+    },
+    {
+      "title": "Webull to Offer Perpetual Futures Starting Next Month",
+      "link": "https://www.wsj.com/finance/commodities-futures/webull-to-offer-perpetual-futures-starting-next-month-32a82d44?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 13:00:00 GMT",
+      "sentiment": 0.03409090909090909
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-93acd7cd?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 10:53:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "European Gas Prices Rise as Geopolitical Risks Intensify",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-geopolitical-risks-intensify-3222a858?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 09:10:00 GMT",
-      "sentiment": 0.19428571428571426
     },
     {
       "title": "Gold Slips as Investors Await Fed Meeting Next Week",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Fri, 16 Oct 2026 13:10:00 GMT",
+      "published": "Tue, 20 Oct 2026 13:11:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
