@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Un avión se estrelló al caer sobre una calle en California. Dos adultos y un niño sobrevivieron",
+      "link": "https://www.latimes.com/espanol/california/articulo/2026-10-20/airplane-nosedives-onto-san-jose-street",
+      "published": "Tue, 20 Oct 2026 18:14:45 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Homeboy Industries helps launch plan for LA28 Olympic merchandise",
       "link": "https://www.latimes.com/california/story/2026-10-20/la28-homeboy-industries-partner-on-merchandise",
       "published": "Tue, 20 Oct 2026 16:00:00 GMT",
@@ -13,22 +19,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "French dip icon Cole's is coming back. New menu, new ownership, same Bukowski sign",
-      "link": "https://www.latimes.com/food/story/2026-10-20/french-dip-icon-coles-will-return-new-menu-new-ownership-same-bukowski-sign",
-      "published": "Tue, 20 Oct 2026 14:00:00 GMT",
-      "sentiment": 0.09727272727272726
+      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
+      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.10277777777777779
     },
     {
       "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
       "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": -0.13333333333333336
-    },
-    {
-      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
-      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.10277777777777779
     },
     {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
@@ -97,16 +97,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Becerra's muted gubernatorial campaign comes to life in homestretch",
-      "link": "https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race",
-      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Why an ambitious 300-mile trail in Northern California distresses some Native Americans",
       "link": "https://www.latimes.com/environment/story/2026-10-19/why-this-northern-california-tribe-is-fighting-great-redwood-trail",
       "published": "Mon, 19 Oct 2026 10:00:00 GMT",
       "sentiment": 0.4166666666666667
+    },
+    {
+      "title": "Becerra's muted gubernatorial campaign comes to life in homestretch",
+      "link": "https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race",
+      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Serial rapist and cosmetics heir is free. San Gabriel Valley community is outraged, mayor says",
@@ -205,12 +205,6 @@
       "sentiment": 0.0909090909090909
     },
     {
-      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
-      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08249999999999999
-    },
-    {
       "title": "Luna, a 10-year-old Jack Russell, just survived a month loose in Yellowstone National Park",
       "link": "https://www.latimes.com/california/story/2026-10-17/10-year-old-jack-russell-terrier-survives-month-lost-in-yellowstone",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
@@ -221,6 +215,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
+    },
+    {
+      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
+      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08249999999999999
     },
     {
       "title": "Arcadia surrogacy mansion mom fled U.S. after previous abuse charge, prosecutors allege",
@@ -283,6 +283,12 @@
       "sentiment": 0.175
     },
     {
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
       "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
@@ -293,12 +299,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15833333333333335
-    },
-    {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
     },
     {
       "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
@@ -487,16 +487,16 @@
       "sentiment": -0.1875
     },
     {
-      "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
-      "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.39166666666666666
-    },
-    {
       "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
       "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
       "published": "Wed, 14 Oct 2026 10:00:00 GMT",
       "sentiment": 0.09500000000000001
+    },
+    {
+      "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
+      "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.39166666666666666
     },
     {
       "title": "Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate",
@@ -533,12 +533,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/woman-poisoned-by-co-worker-speaks-out-after-his-conviction-is-dismissed",
       "published": "Tue, 13 Oct 2026 23:12:20 GMT",
       "sentiment": -0.5333333333333333
-    },
-    {
-      "title": "First Santa Ana winds of the season bring fire danger to L.A. Thursday and Friday",
-      "link": "https://www.latimes.com/california/story/2026-10-13/first-santa-ana-winds-of-season-bring-fire-danger-to-la-thursday-friday",
-      "published": "Tue, 13 Oct 2026 22:33:13 GMT",
-      "sentiment": 0.08583333333333334
     }
   ]
 }

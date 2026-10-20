@@ -7,10 +7,10 @@
       "sentiment": 0.1
     },
     {
-      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-      "published": "Tue, 20 Oct 2026 16:06:12 +0000",
-      "sentiment": 0.30000000000000004
+      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
+      "published": "Tue, 20 Oct 2026 17:01:31 +0000",
+      "sentiment": -0.0052272727272727245
     },
     {
       "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
@@ -19,10 +19,28 @@
       "sentiment": 0.0
     },
     {
+      "title": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
+      "link": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
+      "published": "Tue, 20 Oct 2026 17:36:29 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+      "published": "Tue, 20 Oct 2026 17:40:11 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
       "link": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
       "published": "Tue, 20 Oct 2026 12:34:57 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+      "published": "Tue, 20 Oct 2026 16:06:12 +0000",
+      "sentiment": 0.30000000000000004
     },
     {
       "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
@@ -45,13 +63,13 @@
     {
       "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
       "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
-      "published": "Tue, 20 Oct 2026 15:21:16 +0000",
+      "published": "Tue, 20 Oct 2026 18:01:58 +0000",
       "sentiment": 0.5
     },
     {
       "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
       "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "published": "Tue, 20 Oct 2026 16:31:12 +0000",
+      "published": "Tue, 20 Oct 2026 18:12:25 +0000",
       "sentiment": 0.8
     },
     {
@@ -67,27 +85,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
-      "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
-      "published": "Mon, 19 Oct 2026 13:33:10 +0000",
-      "sentiment": -0.24444444444444446
-    },
-    {
-      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
-      "published": "Mon, 19 Oct 2026 22:20:21 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Italy Faces Parallel Protests in the North and South",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
-      "published": "Mon, 19 Oct 2026 21:55:10 +0000",
-      "sentiment": -0.098
-    },
-    {
-      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-      "published": "Tue, 20 Oct 2026 16:06:00 +0000",
+      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
+      "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
+      "published": "Tue, 20 Oct 2026 18:15:01 +0000",
       "sentiment": 0.0
     },
     {
@@ -119,6 +119,18 @@
       "link": "https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html",
       "published": "Tue, 20 Oct 2026 06:50:26 +0000",
       "sentiment": -0.25000000000000006
+    },
+    {
+      "title": "Italy Faces Parallel Protests in the North and South",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
+      "published": "Mon, 19 Oct 2026 21:55:10 +0000",
+      "sentiment": -0.098
+    },
+    {
+      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
+      "published": "Mon, 19 Oct 2026 22:20:21 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
@@ -223,6 +235,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
+      "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
+      "published": "Mon, 19 Oct 2026 13:33:10 +0000",
+      "sentiment": -0.24444444444444446
+    },
+    {
       "title": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
       "link": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
       "published": "Mon, 19 Oct 2026 20:14:22 +0000",
@@ -287,24 +305,6 @@
       "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
       "published": "Mon, 19 Oct 2026 02:49:27 +0000",
       "sentiment": 0.2023809523809524
-    },
-    {
-      "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
-      "published": "Sun, 18 Oct 2026 22:50:28 +0000",
-      "sentiment": 0.10714285714285714
-    },
-    {
-      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-      "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
-      "published": "Sun, 18 Oct 2026 13:10:19 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
-      "link": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
-      "published": "Mon, 19 Oct 2026 02:50:14 +0000",
-      "sentiment": 0.0
     }
   ]
 }

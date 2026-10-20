@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Salmon Farmers Deploy Lasers, Robots to Meet Booming Demand",
+      "link": "https://www.wsj.com/business/salmon-farmers-deploy-lasers-robots-to-meet-booming-demand-2cad3925?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 17:15:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-93acd7cd?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 16:28:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-saudi-arabia-postpones-davos-in-the-desert-839214f2?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 11:20:00 GMT",
       "sentiment": 0.11818181818181818
-    },
-    {
-      "title": "Netflix Won the Streaming Wars. Now It Faces Its Biggest Disruption in Years.",
-      "link": "https://www.wsj.com/world/netflix-won-the-streaming-wars-now-it-faces-its-biggest-disruption-in-years-39c47881?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 10:03:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
@@ -67,6 +67,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Adidas Lifts Profit View After U.S. Tariff Refunds, Record Quarterly Performance",
+      "link": "https://www.wsj.com/business/retail/adidas-lifts-profit-view-after-u-s-tariff-refunds-record-quarterly-performance-b9e91360?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 17:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Carrefour Slashes Guidance Due to Riots in France",
+      "link": "https://www.wsj.com/business/retail/carrefour-slashes-guidance-due-to-riots-in-france-5a1dcaab?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 17:16:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "Ray-Ban Maker EssilorLuxottica’s Sales Rise, Buoyed by Smartglasses",
       "link": "https://www.wsj.com/business/earnings/ray-ban-maker-essilorluxotticas-sales-rise-buoyed-by-smartglasses-3c37b1f6?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 16:44:00 GMT",
@@ -83,18 +95,6 @@
       "link": "https://www.wsj.com/business/retail/amazon-to-hire-more-than-300-000-u-s-workers-for-holiday-season-7fcd2109?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 16:08:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Kroger Targets Earnings Growth, Operations Overhaul in New Three-Year Plan",
-      "link": "https://www.wsj.com/business/retail/kroger-targets-earnings-growth-operations-overhaul-in-new-three-year-plan-fe1d2bc5?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 14:19:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Synchrony Financial Profit Falls on Higher Costs but Credit Trends Improve",
-      "link": "https://www.wsj.com/business/earnings/synchrony-financial-profit-falls-on-higher-costs-but-credit-trends-improve-7ba1ad80?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 12:36:00 GMT",
-      "sentiment": 0.02361111111111111
     },
     {
       "title": "Northrop Grumman Expects Growth to Accelerate Next Year on Defense Demand",
@@ -115,16 +115,16 @@
       "sentiment": 0.16
     },
     {
+      "title": "Synchrony Financial Profit Falls on Higher Costs but Credit Trends Improve",
+      "link": "https://www.wsj.com/business/earnings/synchrony-financial-profit-falls-on-higher-costs-but-credit-trends-improve-7ba1ad80?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 12:36:00 GMT",
+      "sentiment": 0.02361111111111111
+    },
+    {
       "title": "3M Lifts Earnings Outlook as Profit Jumps",
       "link": "https://www.wsj.com/business/earnings/3m-lifts-earnings-outlook-as-profit-jumps-5c5ac54a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 11:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "RTX Lifts Forecast for Third Time This Year on Aerospace, Defense Demand",
-      "link": "https://www.wsj.com/business/earnings/rtx-lifts-forecast-for-third-time-this-year-on-aerospace-defense-demand-e40e03e0?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 11:27:00 GMT",
-      "sentiment": 0.10606060606060606
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -319,6 +319,12 @@
       "sentiment": 0.15
     },
     {
+      "title": "Netflix Won the Streaming Wars. Now It Faces Its Biggest Disruption in Years.",
+      "link": "https://www.wsj.com/world/netflix-won-the-streaming-wars-now-it-faces-its-biggest-disruption-in-years-39c47881?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 10:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Netflix, America’s Dominant Streaming Service, Has Hit a Wall",
       "link": "https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 23:00:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/cmo-today/jamie-dimon-ignores-the-noise-while-hermes-seeks-suburban-wealth-e0183fa4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 13:23:00 GMT",
       "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks",
-      "link": "https://www.wsj.com/business/retail/lego-adult-sets-gaming-formula-one-d7ccbc9d?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 18 Oct 2026 16:00:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Steelmakers Post Gains on Higher Prices, Tight Supplies as Imports Shrink",
