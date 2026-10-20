@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Voters in Oil-Rich Alberta Reject Leaving Canada",
+      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+      "published": "Tue, 20 Oct 2026 07:07:17 +0000",
+      "sentiment": -0.3
+    },
+    {
+      "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
+      "published": "Tue, 20 Oct 2026 04:01:08 +0000",
+      "sentiment": 0.08333333333333334
+    },
+    {
+      "title": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
+      "link": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
+      "published": "Tue, 20 Oct 2026 08:07:21 +0000",
+      "sentiment": -0.03111111111111111
+    },
+    {
       "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
       "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
       "published": "Mon, 19 Oct 2026 13:33:10 +0000",
@@ -67,51 +85,15 @@
       "sentiment": -0.15000000000000002
     },
     {
-      "title": "France’s Far Right Shifts Into Campaign Mode as Student Riots Erupt Into Violence",
-      "link": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
-      "published": "Mon, 19 Oct 2026 17:10:34 +0000",
-      "sentiment": 0.4619047619047619
-    },
-    {
-      "title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
-      "link": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
-      "published": "Mon, 19 Oct 2026 20:08:21 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
-      "link": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
-      "published": "Mon, 19 Oct 2026 19:09:33 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "14 Dead After Gold Mine Collapses in Colombia",
       "link": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html",
       "published": "Tue, 20 Oct 2026 06:58:33 +0000",
       "sentiment": -0.1
     },
     {
-      "title": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
-      "link": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
-      "published": "Tue, 20 Oct 2026 06:05:09 +0000",
-      "sentiment": -0.03111111111111111
-    },
-    {
-      "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
-      "published": "Tue, 20 Oct 2026 04:01:08 +0000",
-      "sentiment": 0.08333333333333334
-    },
-    {
-      "title": "Voters in Oil-Rich Alberta Reject Leaving Canada",
-      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "published": "Tue, 20 Oct 2026 06:15:41 +0000",
-      "sentiment": -0.3
-    },
-    {
       "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-      "published": "Tue, 20 Oct 2026 01:00:18 +0000",
+      "published": "Tue, 20 Oct 2026 07:19:14 +0000",
       "sentiment": 0.0
     },
     {
@@ -129,7 +111,7 @@
     {
       "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
       "link": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-      "published": "Mon, 19 Oct 2026 19:54:36 +0000",
+      "published": "Tue, 20 Oct 2026 08:53:27 +0000",
       "sentiment": -0.03333333333333333
     },
     {
@@ -149,6 +131,18 @@
       "link": "https://www.nytimes.com/2026/10/19/world/asia/amelia-earhart-plane-search-explained.html",
       "published": "Mon, 19 Oct 2026 10:47:20 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
+      "link": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
+      "published": "Mon, 19 Oct 2026 20:08:21 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "María Corina Machado on Venezuela’s Future and Her Relationship With the Trump Administration",
+      "link": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
+      "published": "Mon, 19 Oct 2026 19:09:33 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
@@ -317,6 +311,12 @@
       "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
       "published": "Sat, 17 Oct 2026 15:50:20 +0000",
       "sentiment": 0.225
+    },
+    {
+      "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+      "published": "Sat, 17 Oct 2026 16:46:15 +0000",
+      "sentiment": 0.21212121212121213
     }
   ]
 }
