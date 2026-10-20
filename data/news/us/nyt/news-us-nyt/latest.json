@@ -1,15 +1,57 @@
 {
   "entries": [
     {
-      "title": "Alabama Governor Commutes a Death Sentence, Citing Thin Evidence",
+      "title": "Michigan Senate Candidates Make Dueling Pitches to Business Leaders in Detroit",
+      "link": "https://www.nytimes.com/2026/10/20/us/michigan-senate-el-sayed-rogers-economy.html",
+      "published": "Tue, 20 Oct 2026 21:40:09 +0000",
+      "sentiment": 0.07380952380952381
+    },
+    {
+      "title": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
+      "link": "https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html",
+      "published": "Tue, 20 Oct 2026 21:23:51 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mailers About Transgender Students Mysteriously Appear at Texas Homes",
+      "link": "https://www.nytimes.com/2026/10/20/us/transgender-mailers-texas.html",
+      "published": "Tue, 20 Oct 2026 21:14:38 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "She Braved Sharks and Storms to Swim the Length of California",
+      "link": "https://www.nytimes.com/2026/10/20/us/catherine-breed-first-swim-california-length.html",
+      "published": "Tue, 20 Oct 2026 21:21:29 +0000",
+      "sentiment": 0.09
+    },
+    {
+      "title": "Trump Says He Asked Putin to Release an American Jailed in Russia",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-russia-prisoner-stephen-hubbard.html",
+      "published": "Tue, 20 Oct 2026 20:47:51 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Pushes to Evict White House Press Corps",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html",
+      "published": "Tue, 20 Oct 2026 20:59:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Republican Women Hail Working-Mom Credentials to Boost Hinson in Iowa Senate Race",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/republican-women-iowa-senate-race.html",
+      "published": "Tue, 20 Oct 2026 20:42:40 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Alabama Governor Commutes Death Sentence of Man Convicted of Murder",
       "link": "https://www.nytimes.com/2026/10/20/us/death-sentence-commuted-alabama-toforest-johnson.html",
-      "published": "Tue, 20 Oct 2026 19:56:38 +0000",
-      "sentiment": -0.4
+      "published": "Tue, 20 Oct 2026 21:50:06 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "If Democrats Win Congress, Could the G.O.P. Refuse to Seat Them?",
       "link": "https://www.nytimes.com/2026/10/20/us/politics/democrats-republicans-congress-midterm-elections.html",
-      "published": "Tue, 20 Oct 2026 18:54:49 +0000",
+      "published": "Tue, 20 Oct 2026 21:32:34 +0000",
       "sentiment": 0.5
     },
     {
@@ -27,13 +69,13 @@
     {
       "title": "Richard Riehle, Prolific Actor Who Appeared in ‘Office Space,’ Dies at 78",
       "link": "https://www.nytimes.com/2026/10/20/us/richard-riehle-dead-office-space.html",
-      "published": "Tue, 20 Oct 2026 19:18:05 +0000",
+      "published": "Tue, 20 Oct 2026 20:32:18 +0000",
       "sentiment": 0.2708333333333333
     },
     {
       "title": "Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier",
       "link": "https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html",
-      "published": "Tue, 20 Oct 2026 19:07:24 +0000",
+      "published": "Tue, 20 Oct 2026 20:21:55 +0000",
       "sentiment": -0.05
     },
     {
@@ -45,13 +87,13 @@
     {
       "title": "Trump Invokes Antisemitic Trope Again at Rally for Kansas Senator",
       "link": "https://www.nytimes.com/2026/10/20/us/trump-antisemitic-trope-kansas-rally-marshall.html",
-      "published": "Tue, 20 Oct 2026 15:36:27 +0000",
+      "published": "Tue, 20 Oct 2026 21:05:12 +0000",
       "sentiment": 0.024999999999999994
     },
     {
       "title": "J Street Targets Republicans Backed by AIPAC in Iowa and Pennsylvania",
       "link": "https://www.nytimes.com/2026/10/20/us/j-street-israel-super-pac-republicans-aipac.html",
-      "published": "Tue, 20 Oct 2026 12:00:03 +0000",
+      "published": "Tue, 20 Oct 2026 20:47:10 +0000",
       "sentiment": 0.125
     },
     {
@@ -119,30 +161,6 @@
       "link": "https://www.nytimes.com/2026/10/19/us/politics/unc-trump-deal.html",
       "published": "Mon, 19 Oct 2026 23:59:20 +0000",
       "sentiment": -0.0625
-    },
-    {
-      "title": "Man Who Died in ICE Custody in Texas Was Denied Medicine, Daughter Says",
-      "link": "https://www.nytimes.com/2026/10/19/us/ice-death-laredo-texas-medicine.html",
-      "published": "Tue, 20 Oct 2026 00:31:31 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Joe Manchin to Campaign With Susan Collins in Maine Ahead of Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/19/us/manchin-collins-maine-senate-election.html",
-      "published": "Mon, 19 Oct 2026 21:15:04 +0000",
-      "sentiment": -0.19444444444444445
-    },
-    {
-      "title": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
-      "published": "Tue, 20 Oct 2026 02:37:48 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Mahmoud Khalil Appeals to Supreme Court to Halt Deportation",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html",
-      "published": "Tue, 20 Oct 2026 19:34:13 +0000",
-      "sentiment": 0.0
     }
   ]
 }

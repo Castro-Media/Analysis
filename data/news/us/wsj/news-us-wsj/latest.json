@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The Kansas Town That Sued Its Own Residents to Build a Data Center",
+      "link": "https://www.wsj.com/us-news/the-kansas-town-that-sued-its-own-residents-to-build-a-data-center-62f11d6e?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:24:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Trading Cards Worth $1 Million Stolen From FedEx Truck in Pokémon Heist",
+      "link": "https://www.wsj.com/us-news/trading-cards-worth-1-million-stolen-from-fedex-truck-in-pokemon-heist-c524d19c?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:23:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "Former OpenAI Worker Accused of Bugging Discussed Jobs With Saudi Royal",
       "link": "https://www.wsj.com/tech/ai/former-openai-worker-accused-of-bugging-discussed-jobs-with-saudi-royal-277c1c45?mod=rss_usnews",
       "published": "Mon, 19 Oct 2026 21:52:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/us-news/the-deadly-1-5-mile-corridor-that-shows-the-fatal-flaw-in-americas-road-design-8f424579?mod=rss_usnews",
       "published": "Sun, 18 Oct 2026 23:00:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
-      "link": "https://www.wsj.com/us-news/trump-presses-ahead-with-plans-to-remake-washington-golf-course-27a26ba9?mod=rss_usnews",
-      "published": "Sun, 18 Oct 2026 20:56:00 GMT",
-      "sentiment": 0.016666666666666677
-    },
-    {
-      "title": "See How the Death Penalty in the U.S. Is Changing as Executions Soar",
-      "link": "https://www.wsj.com/us-news/law/us-death-penalty-execution-rates-ff2625d7?mod=rss_usnews",
-      "published": "Sun, 18 Oct 2026 17:43:00 GMT",
-      "sentiment": -0.044444444444444446
     },
     {
       "title": "Socializing at College Is So Fraught It Requires Paperwork Before Partying",
@@ -67,6 +67,18 @@
       "sentiment": 0.3
     },
     {
+      "title": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
+      "link": "https://www.wsj.com/us-news/trump-presses-ahead-with-plans-to-remake-washington-golf-course-27a26ba9?mod=rss_usnews",
+      "published": "Sun, 18 Oct 2026 20:56:00 GMT",
+      "sentiment": 0.016666666666666677
+    },
+    {
+      "title": "See How the Death Penalty in the U.S. Is Changing as Executions Soar",
+      "link": "https://www.wsj.com/us-news/law/us-death-penalty-execution-rates-ff2625d7?mod=rss_usnews",
+      "published": "Sun, 18 Oct 2026 17:43:00 GMT",
+      "sentiment": -0.044444444444444446
+    },
+    {
       "title": "In New Letter, Ilhan Omar Fights Back Against Home Search",
       "link": "https://www.wsj.com/us-news/law/in-new-letter-ilhan-omar-fights-back-against-home-search-47c64ee1?mod=rss_usnews",
       "published": "Sat, 17 Oct 2026 00:56:00 GMT",
@@ -82,18 +94,6 @@
       "title": "DOJ Sues California to Block Ballots From 20,000 Voters",
       "link": "https://www.wsj.com/politics/elections/doj-sues-california-to-block-ballots-from-20-000-voters-00d1e6f1?mod=rss_usnews",
       "published": "Thu, 15 Oct 2026 21:45:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "FBI Investigates Mailings with ‘Unknown Substance’ Sent to Election Offices",
-      "link": "https://www.wsj.com/politics/policy/fbi-investigates-mailings-with-unknown-substance-sent-to-election-offices-48c41a05?mod=rss_usnews",
-      "published": "Thu, 15 Oct 2026 18:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Trump Cancels Plans to Livestream Execution of Fort Hood Shooter",
-      "link": "https://www.wsj.com/us-news/trump-cancels-plans-for-livestreamed-execution-of-fort-hood-shooter-b083a50f?mod=rss_usnews",
-      "published": "Thu, 15 Oct 2026 17:03:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -127,40 +127,40 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Colleges Are Selling a Product Nobody Wants",
-      "link": "https://www.wsj.com/opinion/colleges-are-selling-a-product-nobody-wants-6ecae633?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 19:44:00 GMT",
-      "sentiment": 0.2
+      "title": "Opinion | Trump’s New Global Triumvirate?",
+      "link": "https://www.wsj.com/opinion/donald-trump-xi-jinping-vladimir-putin-yalta-ukraine-russia-china-967d6efc?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:38:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
-      "title": "Opinion | What Can Be Done About the Colorado River?",
-      "link": "https://www.wsj.com/opinion/what-can-be-done-about-the-colorado-river-161633c6?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 19:43:00 GMT",
-      "sentiment": 0.0
+      "title": "Opinion | Defining ‘Affordable’ Housing in New York",
+      "link": "https://www.wsj.com/opinion/affordable-housing-new-york-kathy-hochul-zohran-mamdani-adcaf5dc?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:37:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
-      "title": "Opinion | Don’t Punish the Productive",
-      "link": "https://www.wsj.com/opinion/dont-punish-the-productive-11f69ce6?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 19:43:00 GMT",
-      "sentiment": 0.0
+      "title": "Opinion | Flying the Socialist Skies at United",
+      "link": "https://www.wsj.com/opinion/scott-kirby-united-airlines-wealth-tax-31a04c56?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:34:00 GMT",
+      "sentiment": 0.35
     },
     {
-      "title": "Opinion | The Cold Reality of No Gas",
-      "link": "https://www.wsj.com/opinion/the-cold-reality-of-no-gas-9056a4fd?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 19:42:00 GMT",
-      "sentiment": -0.6
+      "title": "Opinion | The Inmates Run the Asylum at the Psychological Association",
+      "link": "https://www.wsj.com/opinion/the-inmates-run-the-asylum-at-the-psychological-association-5e6538b7?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:09:00 GMT",
+      "sentiment": 0.05
     },
     {
-      "title": "Opinion | The Biggest Inflation Contributor: Tariffs",
-      "link": "https://www.wsj.com/opinion/the-biggest-inflation-contributor-tariffs-5660509d?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 16:35:00 GMT",
-      "sentiment": 0.0
+      "title": "Opinion | Notable & Quotable: Discourse About Cornell",
+      "link": "https://www.wsj.com/opinion/notable-quotable-discourse-about-cornell-79c887fd?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:08:00 GMT",
+      "sentiment": 0.09999999999999999
     },
     {
-      "title": "Opinion | The Northeast Climate Revolt",
-      "link": "https://www.wsj.com/opinion/northeast-energy-climate-elections-maura-healey-kathy-hochul-d96539ee?mod=rss_usnews",
-      "published": "Mon, 19 Oct 2026 21:43:00 GMT",
-      "sentiment": 0.0
+      "title": "Opinion | A Buyout for Iran’s ‘Shadow Fleet’",
+      "link": "https://www.wsj.com/opinion/a-buyout-for-irans-shadow-fleet-82749edc?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:03:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "The High-Stakes Job of Trump’s White House Physician",
