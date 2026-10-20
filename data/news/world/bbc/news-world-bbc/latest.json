@@ -1,16 +1,34 @@
 {
   "entries": [
     {
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 21:14:53 GMT",
-      "sentiment": -0.041666666666666664
+      "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 06:35:57 GMT",
+      "sentiment": 0.1090909090909091
     },
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 20:49:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Seventh day of violent clashes between Albanian protesters and police",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 02:45:05 GMT",
+      "sentiment": -0.31666666666666665
+    },
+    {
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 03:10:39 GMT",
+      "sentiment": -0.171875
+    },
+    {
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 19:45:46 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
@@ -23,12 +41,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 21:02:33 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 23:08:25 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -49,16 +61,16 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 16:16:51 GMT",
+      "sentiment": -0.35
+    },
+    {
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 14:13:18 GMT",
       "sentiment": -0.325
-    },
-    {
-      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 16:16:51 GMT",
-      "sentiment": -0.35
     },
     {
       "title": "Personal attacks fire up debate before Brazil's run-off vote",
@@ -109,10 +121,22 @@
       "sentiment": -0.25
     },
     {
+      "title": "How is the US economy really doing under President Trump?",
+      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 05:00:45 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
       "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 02:54:05 GMT",
       "sentiment": -0.2375
+    },
+    {
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 23:08:25 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
@@ -125,12 +149,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 23:04:08 GMT",
       "sentiment": 0.01428571428571425
-    },
-    {
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 00:06:25 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Funding shortages force World Food Programme to cut aid to Gaza",
