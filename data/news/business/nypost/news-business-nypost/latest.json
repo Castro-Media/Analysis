@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "title": "SpaceX stock soars on blowout earnings that see revenue surge 161% — as Musk talks Tesla merger",
+      "link": "https://nypost.com/2026/10/20/business/spacex-stock-soars-on-blowout-earnings-that-see-revenue-surge-161-as-musk-talks-tesla-merger/",
+      "published": "Tue, 20 Oct 2026 18:42:43 -0400",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iconic California waterfront restaurant closing after 20-year run, blaming landlord",
+      "link": "https://nypost.com/2026/10/20/business/bay-area-favorite-zio-fraedos-shutters-in-vallejo-after-rent-dispute/",
+      "published": "Tue, 20 Oct 2026 18:27:30 -0400",
+      "sentiment": 0.2916666666666667
+    },
+    {
+      "title": "Boeing’s 737 Max 10 approved for passenger service after years of delays: FAA says",
+      "link": "https://nypost.com/2026/10/20/business/boeings-737-max-10-approved-for-passenger-service-faa-says/",
+      "published": "Tue, 20 Oct 2026 18:12:03 -0400",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic books staggering $81B loss, warns of data center backlash as Amodei siblings draw modest salaries",
+      "link": "https://nypost.com/2026/10/20/business/anthropic-books-staggering-81b-loss-warns-of-data-center-backlash-as-amodei-siblings-draw-modest-salaries/",
+      "published": "Tue, 20 Oct 2026 18:06:02 -0400",
+      "sentiment": -0.002083333333333326
+    },
+    {
+      "title": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
+      "link": "https://nypost.com/2026/10/20/business/trump-promises-8-billion-in-relief-to-farmers-reeling-from-high-diesel-costs/",
+      "published": "Tue, 20 Oct 2026 18:04:48 -0400",
+      "sentiment": 0.08
+    },
+    {
+      "title": "Bill Ackman blasts ‘radicalized, anti-American’ Democratic Party and ‘disasters’ Pritzker, Newsom",
+      "link": "https://nypost.com/2026/10/20/business/bill-ackman-blasts-radicalized-anti-american-democratic-party-and-disasters-pritzker-newsom/",
+      "published": "Tue, 20 Oct 2026 18:00:00 -0400",
+      "sentiment": -0.5
+    },
+    {
       "title": "Trump administration sued over 50% tariffs on Canadian products",
       "link": "https://nypost.com/2026/10/20/business/trump-administration-sued-over-50-tariffs-on-canadian-products/",
       "published": "Tue, 20 Oct 2026 17:22:14 -0400",
@@ -13,10 +49,10 @@
       "sentiment": 0.04545454545454545
     },
     {
-      "title": "Netflix shares tank 7% as streamer reports slower revenue growth, issues weak forecast",
+      "title": "Netflix posts slower growth as it loses audience, overhauls leadership",
       "link": "https://nypost.com/2026/10/20/media/netflix-shares-tank-7-as-streamer-reports-slower-revenue-growth-issues-weak-forecast/",
       "published": "Tue, 20 Oct 2026 16:45:57 -0400",
-      "sentiment": -0.375
+      "sentiment": 0.04888888888888889
     },
     {
       "title": "Kathy Hochul pushing to announce chipmaking plant in Utica, NY — despite AI data center ban: sources",
@@ -83,42 +119,6 @@
       "link": "https://nypost.com/2026/10/19/business/us-home-builders-have-the-blues-but-luxury-housing-remains-a-bright-spot/",
       "published": "Mon, 19 Oct 2026 19:15:15 -0400",
       "sentiment": 0.4800000000000001
-    },
-    {
-      "title": "United CEO Scott Kirby — who earned $32M last year — calls for national wealth tax on the rich",
-      "link": "https://nypost.com/2026/10/19/business/united-ceo-scott-kirby-calls-for-national-wealth-tax-on-the-rich/",
-      "published": "Mon, 19 Oct 2026 18:59:00 -0400",
-      "sentiment": 0.17045454545454544
-    },
-    {
-      "title": "DHS cracks down on China’s DeepSeek as AI competition intensifies: ‘Multiple threat vectors’",
-      "link": "https://nypost.com/2026/10/19/business/dhs-cracks-down-on-chinas-deepseek-as-ai-competition-intensifies-multiple-threat-vectors/",
-      "published": "Mon, 19 Oct 2026 18:32:06 -0400",
-      "sentiment": 0.1574074074074074
-    },
-    {
-      "title": "Netflix film boss Dan Lin out as streaming giant continues to overhaul top ranks",
-      "link": "https://nypost.com/2026/10/19/business/netflix-film-boss-dan-lin-out-as-streaming-giant-continues-to-overhaul-top-ranks/",
-      "published": "Mon, 19 Oct 2026 18:27:15 -0400",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Tech money from Anthropic and SpaceX is transforming philanthropy, but will that cash benefit woke causes or real Americans?",
-      "link": "https://nypost.com/2026/10/19/business/tech-money-from-anthropic-and-spacex-is-transforming-philanthropy-but-will-that-cash-benefit-woke-causes-or-real-americans/",
-      "published": "Mon, 19 Oct 2026 17:50:48 -0400",
-      "sentiment": 0.2875
-    },
-    {
-      "title": "Polymarket removes bets on ‘Cornell 7’ gang-rape case as activists target LeBron James, celebrity endorsers",
-      "link": "https://nypost.com/2026/10/19/business/polymarket-removes-bets-on-cornell-7-gang-rape-case-after-backlash/",
-      "published": "Mon, 19 Oct 2026 17:28:40 -0400",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Defense stocks plummet as investors worry possible Dem midterms win could thwart Trump’s spending plans",
-      "link": "https://nypost.com/2026/10/19/business/defense-stocks-plummet-as-investors-worry-possible-dem-midterms-win-could-thwart-trumps-spending-plans/",
-      "published": "Mon, 19 Oct 2026 17:02:58 -0400",
-      "sentiment": 0.09285714285714286
     }
   ]
 }

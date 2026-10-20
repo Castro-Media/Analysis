@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "How Two Colorado House Candidates Are Thinking About AI",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/colorado-elections-ai.html",
+      "published": "Tue, 20 Oct 2026 22:47:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
+      "published": "Tue, 20 Oct 2026 22:45:45 +0000",
+      "sentiment": 0.28611111111111115
+    },
+    {
+      "title": "MAGA Inc. Unleashes Millions to Turn Out Republicans At the Polls",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-super-pac.html",
+      "published": "Tue, 20 Oct 2026 22:28:27 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Michigan Senate Candidates Make Dueling Pitches to Business Leaders in Detroit",
       "link": "https://www.nytimes.com/2026/10/20/us/michigan-senate-el-sayed-rogers-economy.html",
       "published": "Tue, 20 Oct 2026 21:40:09 +0000",
@@ -9,7 +27,7 @@
     {
       "title": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
       "link": "https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html",
-      "published": "Tue, 20 Oct 2026 21:23:51 +0000",
+      "published": "Tue, 20 Oct 2026 22:32:41 +0000",
       "sentiment": 0.0
     },
     {
@@ -43,10 +61,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Alabama Governor Commutes Death Sentence of Man Convicted of Murder",
+      "title": "Alabama Man’s Death Sentence Is Commuted as Governor Cites Thin Evidence",
       "link": "https://www.nytimes.com/2026/10/20/us/death-sentence-commuted-alabama-toforest-johnson.html",
-      "published": "Tue, 20 Oct 2026 21:50:06 +0000",
-      "sentiment": 0.0
+      "published": "Tue, 20 Oct 2026 22:07:29 +0000",
+      "sentiment": -0.4
     },
     {
       "title": "If Democrats Win Congress, Could the G.O.P. Refuse to Seat Them?",
@@ -155,12 +173,6 @@
       "link": "https://www.nytimes.com/2026/10/19/us/bend-school-shooting-accountability.html",
       "published": "Mon, 19 Oct 2026 23:31:57 +0000",
       "sentiment": -0.24583333333333335
-    },
-    {
-      "title": "U.N.C. Strikes Trump Deal to Keep Federal Funding",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/unc-trump-deal.html",
-      "published": "Mon, 19 Oct 2026 23:59:20 +0000",
-      "sentiment": -0.0625
     }
   ]
 }
