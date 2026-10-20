@@ -1,7 +1,13 @@
 {
   "entries": [
     {
-      "title": "'Help me!' Video of ICE violently detaining man who says he's U.S. citizen sparks outrage",
+      "title": "California residents accused by feds of voter fraud react with shock, confusion and anger",
+      "link": "https://www.latimes.com/california/story/2026-10-19/california-voter-fraud-charges-defendants-react",
+      "published": "Tue, 20 Oct 2026 00:52:59 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "'Help me!' Videos of ICE violently detaining man who says he's U.S. citizen spark outrage",
       "link": "https://www.latimes.com/california/story/2026-10-19/help-me-video-of-ice-violently-detaining-man-who-says-hes-u-s-citizen-sparks-outrage",
       "published": "Mon, 19 Oct 2026 22:45:40 GMT",
       "sentiment": -0.4166666666666667
@@ -85,16 +91,16 @@
       "sentiment": 0.1452020202020202
     },
     {
-      "title": "'He's everywhere': This California Republican wants to make his party relevant again",
-      "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3666666666666667
-    },
-    {
       "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
       "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": -0.11666666666666668
+    },
+    {
+      "title": "'He's everywhere': This California Republican wants to make his party relevant again",
+      "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "Clean transit, poor oversight",
@@ -229,28 +235,28 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "Bass vs. Raman: Who can make housing more affordable?",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
-    },
-    {
       "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
       "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
     },
     {
-      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
-      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
+      "title": "Bass vs. Raman: Who can make housing more affordable?",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2125
+      "sentiment": 0.175
     },
     {
       "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15833333333333335
+    },
+    {
+      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
+      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.2125
     },
     {
       "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
@@ -523,6 +529,12 @@
       "sentiment": -0.018518518518518517
     },
     {
+      "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
+      "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4
+    },
+    {
       "title": "L.A. nonprofit rented luxury Santa Monica apartment, BMW for CEO living in Hawaii",
       "link": "https://www.latimes.com/california/story/2026-10-13/la-nonprofit-rented-luxury-santa-monica-apartment-bmw-for-ceo-living-in-hawaii",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
@@ -533,12 +545,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
       "published": "Tue, 13 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0111111111111111
-    },
-    {
-      "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
-      "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4
     }
   ]
 }
