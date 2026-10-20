@@ -169,6 +169,12 @@
       "sentiment": 0.0909090909090909
     },
     {
+      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
+      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08249999999999999
+    },
+    {
       "title": "Luna, a 10-year-old Jack Russell, just survived a month loose in Yellowstone National Park",
       "link": "https://www.latimes.com/california/story/2026-10-17/10-year-old-jack-russell-terrier-survives-month-lost-in-yellowstone",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
@@ -179,12 +185,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
-      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08249999999999999
     },
     {
       "title": "Arcadia surrogacy mansion mom fled U.S. after previous abuse charge, prosecutors allege",
@@ -247,10 +247,10 @@
       "sentiment": 0.175
     },
     {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
+      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
+      "sentiment": -0.125
     },
     {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
@@ -265,10 +265,10 @@
       "sentiment": -0.15833333333333335
     },
     {
-      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
-      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Los Angeles city employee among four charged in downtown graffiti spree",
@@ -451,16 +451,16 @@
       "sentiment": -0.1875
     },
     {
-      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.09500000000000001
-    },
-    {
       "title": "Chabria: The U.S is in the death business. Newsom can change that, and win votes",
       "link": "https://www.latimes.com/california/story/2026-10-14/cruelty-or-courage-what-do-voters-want-newsom-death-penalty-trump-execution-corruption",
       "published": "Wed, 14 Oct 2026 10:00:00 GMT",
       "sentiment": 0.39166666666666666
+    },
+    {
+      "title": "'Aggressive' great white shark seen in waters off Huntington Beach. Keep out, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-14/aggressive-great-white-shark-closes-huntington-beach",
+      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.09500000000000001
     },
     {
       "title": "Commentary: Bass vs. Raman: Here's who won the L.A. mayoral debate",
@@ -533,6 +533,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/six-flags-magic-mountain-coaster-shutdown",
       "published": "Tue, 13 Oct 2026 14:33:31 GMT",
       "sentiment": -0.018518518518518517
+    },
+    {
+      "title": "L.A. community horrified after beloved dog found hanging from leash. 'No words can describe it'",
+      "link": "https://www.latimes.com/california/story/2026-10-13/investigation-underway-in-la-after-beloved-husky-is-found-hanged",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0111111111111111
+    },
+    {
+      "title": "L.A. makes it a crime for cannabis and tobacco retailers to sell nitrous oxide",
+      "link": "https://www.latimes.com/california/story/2026-10-13/la-makes-it-crime-for-cannabis-tobacco-retailers-to-sell-nitrous-oxide",
+      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4
     }
   ]
 }
