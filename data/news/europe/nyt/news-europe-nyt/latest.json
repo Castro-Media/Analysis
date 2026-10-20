@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Trump Says He Asked Putin to Release an American Jailed in Russia",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-russia-prisoner-stephen-hubbard.html",
+      "published": "Tue, 20 Oct 2026 20:47:51 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Britain Is Said to Approve New Gas Drilling in the North Sea",
+      "link": "https://www.nytimes.com/2026/10/20/business/uk-north-sea-drilling-jackdaw.html",
+      "published": "Tue, 20 Oct 2026 20:44:40 +0000",
+      "sentiment": 0.15568181818181817
+    },
+    {
+      "title": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
+      "published": "Tue, 20 Oct 2026 20:05:06 +0000",
+      "sentiment": -0.225
+    },
+    {
       "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
       "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
-      "published": "Tue, 20 Oct 2026 17:01:31 +0000",
+      "published": "Tue, 20 Oct 2026 21:21:15 +0000",
       "sentiment": -0.0052272727272727245
     },
     {
@@ -15,7 +33,7 @@
     {
       "title": "Why Zelensky Took the Gloves Off This Time With Trump",
       "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-      "published": "Tue, 20 Oct 2026 19:12:40 +0000",
+      "published": "Tue, 20 Oct 2026 20:39:58 +0000",
       "sentiment": 0.0
     },
     {
@@ -39,7 +57,7 @@
     {
       "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
       "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-      "published": "Tue, 20 Oct 2026 16:06:12 +0000",
+      "published": "Tue, 20 Oct 2026 16:06:13 +0000",
       "sentiment": 0.30000000000000004
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
       "published": "Mon, 19 Oct 2026 09:15:28 +0000",
       "sentiment": 0.11481481481481481
-    },
-    {
-      "title": "It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.",
-      "link": "https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html",
-      "published": "Mon, 19 Oct 2026 13:51:34 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Perfume Lover’s Guide to Florence",
-      "link": "https://www.nytimes.com/2026/10/19/travel/florence-italy-perfume.html",
-      "published": "Mon, 19 Oct 2026 16:07:41 +0000",
-      "sentiment": 0.26666666666666666
-    },
-    {
-      "title": "Albania’s Leader, Edi Rama, Denounces Violent Protests",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/albania-protrests.html",
-      "published": "Sun, 18 Oct 2026 21:49:49 +0000",
-      "sentiment": -0.18333333333333335
     }
   ]
 }

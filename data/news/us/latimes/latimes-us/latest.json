@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Feds hold back an additional $1.2 billion in California Medicaid reimbursements",
+      "link": "https://www.latimes.com/politics/story/2026-10-20/feds-hold-back-additional-1-2-billion-in-california-medicaid-reimbursements",
+      "published": "Tue, 20 Oct 2026 20:33:02 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Un avión se estrelló al caer sobre una calle en California. Dos adultos y un niño sobrevivieron",
       "link": "https://www.latimes.com/espanol/california/articulo/2026-10-20/airplane-nosedives-onto-san-jose-street",
       "published": "Tue, 20 Oct 2026 18:14:45 GMT",
@@ -19,6 +25,12 @@
       "sentiment": 0.13333333333333333
     },
     {
+      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
+      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.10277777777777779
+    },
+    {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
       "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
@@ -29,12 +41,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": -0.13333333333333336
-    },
-    {
-      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
-      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.10277777777777779
     },
     {
       "title": "Residents fight for anti-camping zone at 6th Street Bridge park",
@@ -97,16 +103,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Why an ambitious 300-mile trail in Northern California distresses some Native Americans",
-      "link": "https://www.latimes.com/environment/story/2026-10-19/why-this-northern-california-tribe-is-fighting-great-redwood-trail",
-      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.4166666666666667
-    },
-    {
       "title": "Becerra's muted gubernatorial campaign comes to life in homestretch",
       "link": "https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race",
       "published": "Mon, 19 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Why an ambitious 300-mile trail in Northern California distresses some Native Americans",
+      "link": "https://www.latimes.com/environment/story/2026-10-19/why-this-northern-california-tribe-is-fighting-great-redwood-trail",
+      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.4166666666666667
     },
     {
       "title": "Serial rapist and cosmetics heir is free. San Gabriel Valley community is outraged, mayor says",
@@ -283,10 +289,10 @@
       "sentiment": 0.175
     },
     {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
+      "sentiment": -0.15833333333333335
     },
     {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
@@ -295,10 +301,10 @@
       "sentiment": -0.2125
     },
     {
-      "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15833333333333335
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
@@ -527,12 +533,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-13/ice-agent-threw-man-into-side-of-car-attacked-daughter-d-a-says",
       "published": "Wed, 14 Oct 2026 00:48:51 GMT",
       "sentiment": 0.26666666666666666
-    },
-    {
-      "title": "'The system failed me.' Woman poisoned by co-worker speaks out after his conviction is dismissed",
-      "link": "https://www.latimes.com/california/story/2026-10-13/woman-poisoned-by-co-worker-speaks-out-after-his-conviction-is-dismissed",
-      "published": "Tue, 13 Oct 2026 23:12:20 GMT",
-      "sentiment": -0.5333333333333333
     }
   ]
 }

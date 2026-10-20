@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Britain Is Said to Approve New Gas Drilling in the North Sea",
+      "link": "https://www.nytimes.com/2026/10/20/business/uk-north-sea-drilling-jackdaw.html",
+      "published": "Tue, 20 Oct 2026 20:44:40 +0000",
+      "sentiment": 0.15568181818181817
+    },
+    {
+      "title": "SpaceX Swings to a Profit, Even as A.I. Spending Soars",
+      "link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+      "published": "Tue, 20 Oct 2026 20:32:32 +0000",
+      "sentiment": -0.04999999999999999
+    },
+    {
+      "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+      "link": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+      "published": "Tue, 20 Oct 2026 21:01:35 +0000",
+      "sentiment": 0.3430555555555556
+    },
+    {
       "title": "Boeing’s Large 737 Max Jet Secures U.S. Approval",
       "link": "https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html",
-      "published": "Tue, 20 Oct 2026 19:46:20 +0000",
+      "published": "Tue, 20 Oct 2026 20:04:15 +0000",
       "sentiment": 0.4380952380952381
     },
     {
@@ -275,24 +293,6 @@
       "link": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
       "published": "Fri, 16 Oct 2026 00:25:01 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
-      "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
-      "published": "Thu, 15 Oct 2026 16:09:19 +0000",
-      "sentiment": 0.12916666666666665
-    },
-    {
-      "title": "Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East",
-      "link": "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html",
-      "published": "Thu, 15 Oct 2026 16:22:27 +0000",
-      "sentiment": -0.2333333333333333
-    },
-    {
-      "title": "California’s Proposition 45 Brings the Sprawl Debate Back",
-      "link": "https://www.nytimes.com/2026/10/15/business/economy/californias-housing-proposition-45.html",
-      "published": "Thu, 15 Oct 2026 16:00:52 +0000",
-      "sentiment": 0.07142857142857142
     }
   ]
 }
