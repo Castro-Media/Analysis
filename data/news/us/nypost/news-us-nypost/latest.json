@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "NYC’s most haunted borough — with ‘wall-to-wall ghosts’ — revealed",
+      "link": "https://nypost.com/2026/10/20/lifestyle/this-nyc-borough-is-the-most-haunted/",
+      "published": "Tue, 20 Oct 2026 11:16:54 -0400",
+      "sentiment": 0.22222222222222224
+    },
+    {
+      "title": "Kyle Kennedy, RFK’s granddaughter dies at 42 — years after suffering tragic spinal cord injury",
+      "link": "https://nypost.com/2026/10/20/us-news/kyle-kennedy-rfks-granddaughter-dies-at-42-years-after-suffering-tragic-injury/",
+      "published": "Tue, 20 Oct 2026 11:07:39 -0400",
+      "sentiment": -0.75
+    },
+    {
+      "title": "Horrifying moment gunman executes his own dentist over petty fight before wild shootout with cops",
+      "link": "https://nypost.com/2026/10/20/us-news/arizona-man-executes-his-dentist-before-shootout-with-cops-in-border-town/",
+      "published": "Tue, 20 Oct 2026 11:05:28 -0400",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Bryan Kohberger has a strange demand ahead of future court hearings over Idaho muders",
+      "link": "https://nypost.com/2026/10/20/us-news/bryan-kohberger-has-a-strange-demand-ahead-of-future-court-hearings-over-idaho-muders/",
+      "published": "Tue, 20 Oct 2026 11:04:57 -0400",
+      "sentiment": -0.025
+    },
+    {
+      "title": "Feds subpoena Soros-backed Philly DA Larry Krasner after judge’s referral over pressure campaign",
+      "link": "https://nypost.com/2026/10/20/us-news/feds-subpoena-soros-backed-philly-da-larry-krasner-after-judges-referral-over-pressure-campaign/",
+      "published": "Tue, 20 Oct 2026 11:04:52 -0400",
+      "sentiment": 0.5
+    },
+    {
       "title": "Sunset Restaurant in Malibu under threat as waves rip away coastline",
       "link": "https://nypost.com/2026/10/20/us-news/popular-socal-beach-restaurant-under-threat-as-waves-erode-coastline/",
       "published": "Tue, 20 Oct 2026 10:44:25 -0400",
@@ -37,7 +67,7 @@
       "sentiment": -0.29375
     },
     {
-      "title": "Rubio tells Zelensky nothing ‘deliberately denied’ Ukraine as tensions with US grow",
+      "title": "Trump hasn’t denied anything ‘deliberately’ to Ukraine, Rubio tells Zelensky",
       "link": "https://nypost.com/2026/10/20/us-news/marco-rubio-tells-volodymyr-zelensky-nothing-deliberately-denied-ukraine-as-us-tensions-grow/",
       "published": "Tue, 20 Oct 2026 09:48:00 -0400",
       "sentiment": -0.1
@@ -79,7 +109,7 @@
       "sentiment": -0.1
     },
     {
-      "title": "Feds interviewed Ilhan Omar’s sister as probe of ‘Squad’ congresswoman intensifies",
+      "title": "Feds interview Ilhan Omar’s sister as probe of ‘Squad’ congresswoman intensifies",
       "link": "https://nypost.com/2026/10/20/us-news/feds-interviewed-ilhan-omars-sister-as-probe-of-squad-congresswoman-intensifies-report/",
       "published": "Tue, 20 Oct 2026 07:01:00 -0400",
       "sentiment": 0.0
@@ -89,36 +119,6 @@
       "link": "https://nypost.com/2026/10/20/us-news/oregon-school-shooter-griffin-john-came-from-broken-violent-family/",
       "published": "Tue, 20 Oct 2026 07:00:00 -0400",
       "sentiment": -0.23333333333333336
-    },
-    {
-      "title": "Rep. Tom Suozzi snubbed by Long Island hometown cops as union backs GOP opponent",
-      "link": "https://nypost.com/2026/10/20/us-news/rep-tom-suozzi-snubbed-by-long-island-hometown-cops-as-union-backs-gop-opponent/",
-      "published": "Tue, 20 Oct 2026 06:30:00 -0400",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Eyesore NYC corridor has homeless shacking up in RVs, trucks and trailers: ‘It looks whack’",
-      "link": "https://nypost.com/2026/10/20/us-news/eyesore-nyc-corridor-has-homeless-shacking-up-in-rvs-trucks-and-trailers/",
-      "published": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Kansas Dem Adam Hamilton, who made millions on Big Tech stocks, now running away from AI data center boom",
-      "link": "https://nypost.com/2026/10/20/us-news/kansas-dem-adam-hamilton-who-made-millions-on-big-tech-stocks-now-running-away-from-ai-data-center-boom/",
-      "published": "Tue, 20 Oct 2026 06:00:00 -0400",
-      "sentiment": -0.012500000000000002
-    },
-    {
-      "title": "Wall Street swindler who owes $59M in NY back taxes lives it up in Calif. — where he’s praised by Gavin Newsom",
-      "link": "https://nypost.com/2026/10/20/business/wall-street-con-man-daniel-gordon-dodges-59m-ny-tax-bill-lives-it-up-in-calif/",
-      "published": "Tue, 20 Oct 2026 05:00:00 -0400",
-      "sentiment": 0.12878787878787878
-    },
-    {
-      "title": "Inside Florida fisherman’s final moments before 12-foot alligator drags him into lake",
-      "link": "https://nypost.com/2026/10/20/us-news/florida-fisherman-steven-hamiltons-final-moments-before-being-killed-by-alligator/",
-      "published": "Tue, 20 Oct 2026 04:43:41 -0400",
-      "sentiment": 0.26666666666666666
     }
   ]
 }
