@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+      "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+      "published": "Wed, 21 Oct 2026 08:47:10 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "UK to Headphone Dodgers on Trains: Shush",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+      "published": "Wed, 21 Oct 2026 04:01:05 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
+      "link": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
+      "published": "Wed, 21 Oct 2026 08:01:58 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
+      "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+      "published": "Wed, 21 Oct 2026 09:02:16 +0000",
+      "sentiment": -0.35
+    },
+    {
+      "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+      "link": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+      "published": "Wed, 21 Oct 2026 00:25:00 +0000",
+      "sentiment": 0.1520833333333333
+    },
+    {
+      "title": "Modi Seeks to Calm Allies by Shackling Gen Z Protests",
+      "link": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
+      "published": "Wed, 21 Oct 2026 04:26:12 +0000",
+      "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+      "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
+      "published": "Wed, 21 Oct 2026 09:24:47 +0000",
+      "sentiment": -0.04999999999999999
+    },
+    {
       "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
       "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
       "published": "Tue, 20 Oct 2026 12:59:23 +0000",
@@ -13,10 +55,10 @@
       "sentiment": -0.0052272727272727245
     },
     {
-      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
-      "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
-      "published": "Tue, 20 Oct 2026 22:22:08 +0000",
-      "sentiment": 0.0
+      "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
+      "link": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+      "published": "Wed, 21 Oct 2026 01:01:48 +0000",
+      "sentiment": 0.125
     },
     {
       "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
@@ -43,94 +85,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-      "published": "Tue, 20 Oct 2026 16:06:13 +0000",
-      "sentiment": 0.30000000000000004
+      "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
+      "link": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
+      "published": "Wed, 21 Oct 2026 09:00:24 +0000",
+      "sentiment": 0.05
     },
     {
-      "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
-      "link": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
-      "published": "Wed, 21 Oct 2026 08:19:20 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
-      "link": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
-      "published": "Tue, 20 Oct 2026 09:00:10 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
-      "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
-      "published": "Wed, 21 Oct 2026 06:55:45 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
-      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
-      "published": "Tue, 20 Oct 2026 18:01:58 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
-      "published": "Tue, 20 Oct 2026 11:06:36 +0000",
-      "sentiment": 0.08333333333333334
-    },
-    {
-      "title": "Australian Lawmaker Helen Haines Remains in Critical Condition After Car Attack",
-      "link": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
-      "published": "Tue, 20 Oct 2026 10:59:49 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
-      "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
-      "published": "Wed, 21 Oct 2026 08:47:10 +0000",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
-      "link": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
-      "published": "Wed, 21 Oct 2026 08:01:58 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
-      "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-      "published": "Wed, 21 Oct 2026 06:39:10 +0000",
-      "sentiment": -0.04999999999999999
-    },
-    {
-      "title": "Modi Seeks to Calm Allies by Shackling Gen Z Protests",
-      "link": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
-      "published": "Wed, 21 Oct 2026 04:26:12 +0000",
-      "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "UK to Headphone Dodgers on Trains: Shush",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
-      "published": "Wed, 21 Oct 2026 04:01:05 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
-      "link": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
-      "published": "Wed, 21 Oct 2026 00:25:00 +0000",
-      "sentiment": 0.1520833333333333
+      "title": "Why These Towers Collapsed in Venezuela’s Earthquakes",
+      "link": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
+      "published": "Wed, 21 Oct 2026 10:23:10 +0000",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Art Basel Paris Preview Draws Interest Despite Protests",
       "link": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
-      "published": "Tue, 20 Oct 2026 22:15:23 +0000",
+      "published": "Wed, 21 Oct 2026 09:13:37 +0000",
       "sentiment": 0.25416666666666665
-    },
-    {
-      "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
-      "link": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
-      "published": "Wed, 21 Oct 2026 01:01:48 +0000",
-      "sentiment": 0.125
     },
     {
       "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
@@ -151,9 +121,45 @@
       "sentiment": -0.225
     },
     {
+      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
+      "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
+      "published": "Tue, 20 Oct 2026 22:22:08 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
+      "link": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
+      "published": "Wed, 21 Oct 2026 08:19:20 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+      "published": "Tue, 20 Oct 2026 18:01:58 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Google Reports Cloud Disruptions in Europe",
       "link": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
       "published": "Tue, 20 Oct 2026 13:04:12 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+      "published": "Tue, 20 Oct 2026 16:06:13 +0000",
+      "sentiment": 0.30000000000000004
+    },
+    {
+      "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+      "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+      "published": "Wed, 21 Oct 2026 06:55:45 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
+      "link": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
+      "published": "Tue, 20 Oct 2026 09:00:10 +0000",
       "sentiment": 0.0
     },
     {
@@ -161,6 +167,18 @@
       "link": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html",
       "published": "Tue, 20 Oct 2026 14:51:18 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "Australian Lawmaker Helen Haines Remains in Critical Condition After Car Attack",
+      "link": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
+      "published": "Tue, 20 Oct 2026 10:59:49 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
+      "published": "Tue, 20 Oct 2026 11:06:36 +0000",
+      "sentiment": 0.08333333333333334
     },
     {
       "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
@@ -293,30 +311,6 @@
       "link": "https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html",
       "published": "Mon, 19 Oct 2026 12:56:27 +0000",
       "sentiment": -0.13999999999999999
-    },
-    {
-      "title": "To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look",
-      "link": "https://www.nytimes.com/2026/10/19/world/africa/gold-mines-investigation-takeaways.html",
-      "published": "Mon, 19 Oct 2026 10:59:55 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
-      "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
-      "published": "Mon, 19 Oct 2026 13:33:10 +0000",
-      "sentiment": -0.24444444444444446
-    },
-    {
-      "title": "For Israelis and Jews in the U.A.E., an Eroding Sense of Security",
-      "link": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-uae-jews-dubai-fear.html",
-      "published": "Mon, 19 Oct 2026 20:14:22 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
-      "link": "https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html",
-      "published": "Tue, 20 Oct 2026 14:49:55 +0000",
-      "sentiment": -0.2
     }
   ]
 }
