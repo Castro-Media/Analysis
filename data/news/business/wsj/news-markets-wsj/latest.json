@@ -4,7 +4,7 @@
       "title": "Stock Market Today: SpaceX Shares Surge on Tesla Deal Talks",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 09:01:41 GMT",
-      "sentiment": 0.5166666666666666
+      "sentiment": 0.0
     },
     {
       "title": "Housing Looks Awful. These Housing-Related Stocks Don’t.",
@@ -103,6 +103,24 @@
       "sentiment": 0.3181818181818182
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-4025abb1?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 11:34:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e0a8366d?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 11:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-f3c3c3ff?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 11:12:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Playing the Retreat in Defense Stocks",
       "link": "https://www.wsj.com/finance/investing/playing-the-retreat-in-defense-stocks-fd1c6355?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 10:30:00 GMT",
@@ -113,24 +131,6 @@
       "link": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 09:47:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-in-asian-trade-0c544484?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 09:14:00 GMT",
-      "sentiment": 0.19305555555555554
-    },
-    {
-      "title": "WSJ Dollar Index Falls 0.25% to 96.96",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 21:29:00 GMT",
-      "sentiment": -0.20277777777777778
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c6d7409e?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 21:05:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Nasdaq Futures Higher After Asian AI Rally",
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 11:40:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field",
       "link": "https://www.wsj.com/business/energy-oil/jackdaw-gas-field-gets-green-light-from-u-k-government-19994ecc?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 09:48:00 GMT",
@@ -223,16 +229,16 @@
       "sentiment": 0.2
     },
     {
-      "title": "Oil Futures Settle Lower in Volatile Trade",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-but-supply-risks-linger-913dc341?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 20:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Euro Could Recover if Concerns About Risk of Eurozone Debt Crisis Prove Overdone",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 11:38:00 GMT",
+      "sentiment": 0.05
     },
     {
-      "title": "Sterling Hits Near 17-Month High Vs Euro, Turns Higher Vs Dollar",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 10:44:00 GMT",
-      "sentiment": 0.2314285714285714
+      "title": "WSJ Dollar Index Falls 0.25% to 96.96",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 21:29:00 GMT",
+      "sentiment": -0.20277777777777778
     },
     {
       "title": "WSJ Dollar Index Rises 0.11% to 97.20",
@@ -281,12 +287,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bank-of-america-to-pay-1-2-billion-to-settle-violations-of-money-laundering-sanctions-laws-56d72ccf?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 11:45:00 GMT",
       "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
-      "link": "https://www.wsj.com/finance/regulation/bank-of-america-to-pay-1-21-billion-to-settle-violations-of-money-laundering-sanctions-laws-203b5fdf?mod=rss_markets_main",
-      "published": "Tue, 13 Oct 2026 22:05:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Yes, the Fed Can Kill the AI Boom",
