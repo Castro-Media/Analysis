@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Australian politician Helen Haines loses both legs after car attack",
+      "link": "https://nypost.com/2026/10/21/world-news/australian-politician-helen-haines-has-both-legs-amputated-after-being-struck-by-suv/",
+      "published": "Wed, 21 Oct 2026 04:15:55 -0400",
+      "sentiment": -0.05
+    },
+    {
       "title": "Violent protesters clash with Albanian police for 8th straight day as riots engulf France, Europe",
       "link": "https://nypost.com/2026/10/20/world-news/violent-protesters-clash-with-albanian-police-as-riots-engulf-france-europe/",
       "published": "Tue, 20 Oct 2026 21:00:04 -0400",
@@ -113,12 +119,6 @@
       "link": "https://nypost.com/2026/10/19/world-news/north-korea-releases-proof-of-life-photos-of-kim-jong-un-after-wild-rumors-dictator-died-from-brain-hemorrhage/",
       "published": "Mon, 19 Oct 2026 20:56:46 -0400",
       "sentiment": 0.1
-    },
-    {
-      "title": "Russia kills Ukrainian 1-year-old in stroller during strike on park — as civilian deaths surge 85%",
-      "link": "https://nypost.com/2026/10/19/world-news/russia-kills-ukrainian-baby-in-stroller-during-strike-on-park-as-civilian-deaths-surge-85/",
-      "published": "Mon, 19 Oct 2026 18:29:33 -0400",
-      "sentiment": -0.05
     }
   ]
 }
