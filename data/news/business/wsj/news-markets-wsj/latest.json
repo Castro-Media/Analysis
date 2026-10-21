@@ -1,16 +1,28 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: SpaceX, Tesla Shares Rise After Deal Talks",
+      "title": "Tesla Earnings Today: Tesla Shares Rise Afterhours Following Earnings",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 09:01:41 GMT",
+      "sentiment": 0.15681818181818183
+    },
+    {
+      "title": "SpaceX and Tesla Consider Merger",
+      "link": "https://www.wsj.com/finance/stocks/spacex-and-tesla-consider-merger-9a38832d?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 20:26:00 GMT",
       "sentiment": 0.0
     },
     {
       "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
       "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 17:42:00 GMT",
+      "published": "Wed, 21 Oct 2026 19:34:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices",
+      "link": "https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 19:32:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Housing Looks Awful. These Housing-Related Stocks Don’t.",
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 02:00:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son’s Warner Bros. Bid",
-      "link": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
-      "link": "https://www.wsj.com/finance/stocks/stocks-make-a-u-turn-on-hopes-of-u-s-iran-diplomacy-39fb739b?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 20:18:00 GMT",
-      "sentiment": 0.05000000000000002
     },
     {
       "title": "How to Play the Retreat in Defense Stocks",
@@ -73,6 +73,12 @@
       "sentiment": -0.025000000000000005
     },
     {
+      "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son’s Warner Bros. Bid",
+      "link": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 23:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
       "link": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 10:01:00 GMT",
@@ -97,10 +103,16 @@
       "sentiment": 0.18055555555555558
     },
     {
-      "title": "The AI Boom Is Supercharging Wall Street’s Profits",
-      "link": "https://www.wsj.com/finance/banking/the-ai-boom-is-supercharging-wall-streets-profits-2a2d9747?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 16:14:00 GMT",
-      "sentiment": 0.3181818181818182
+      "title": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 20:41:00 GMT",
+      "sentiment": 0.5166666666666666
+    },
+    {
+      "title": "French Bond Yields Hit Multiyear Highs, U.S. Treasury Yields Edge Higher",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-in-asian-trade-0c544484?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 20:30:00 GMT",
+      "sentiment": 0.2125
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -121,22 +133,16 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d29e54ef?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 16:27:00 GMT",
-      "sentiment": 0.5
+      "title": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 18:30:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "NYSE Just Extended Options Trading Hours. It’s Only the Beginning.",
       "link": "https://www.wsj.com/finance/stocks/nyse-just-extended-options-trading-hours-its-only-the-beginning-fe544629?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 14:54:00 GMT",
       "sentiment": -0.026060606060606062
-    },
-    {
-      "title": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 18:30:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-risk-sentiment-improves-70443e4d?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 05:22:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Super Micro Computer Shares Up as Preliminary Revenue Tops Guidance",
-      "link": "https://www.wsj.com/business/earnings/super-micro-computer-shares-up-as-preliminary-revenue-tops-guidance-be7f5f1f?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 22:03:00 GMT",
-      "sentiment": 0.29166666666666663
     },
     {
       "title": "Opinion | Don’t Punish the Productive",
@@ -199,9 +199,21 @@
       "sentiment": 0.0
     },
     {
-      "title": "Comex Gold Settles 0.20% Higher at $4130.50",
+      "title": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 20:31:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
+      "title": "Oil Settles Mixed as Shipping Risks Temper Optimism About Flows",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-attacks-on-vessels-in-strait-of-hormuz-5456bfd8?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 19:59:00 GMT",
+      "sentiment": -0.2333333333333333
+    },
+    {
+      "title": "Gold Futures Inch Higher on Oil Price Retreat",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 17:41:00 GMT",
+      "published": "Wed, 21 Oct 2026 19:06:00 GMT",
       "sentiment": 0.02361111111111111
     },
     {
@@ -215,18 +227,6 @@
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-f8fbe807?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 15:24:00 GMT",
       "sentiment": -0.23555555555555557
-    },
-    {
-      "title": "U.S. Natural Gas Futures Extend Decline on Loss of Heating Demand",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 12:35:00 GMT",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Hudbay, Mitsubishi Approve Construction of Big Copper Project in Arizona",
-      "link": "https://www.wsj.com/business/hudbay-mitsubishi-approve-construction-of-big-copper-project-in-arizona-91e710f8?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 12:03:00 GMT",
-      "sentiment": -0.020833333333333332
     },
     {
       "title": "Dollar Could Weaken Slightly in Near Term on AI Fears",
@@ -289,6 +289,12 @@
       "sentiment": -0.13333333333333333
     },
     {
+      "title": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
+      "link": "https://www.wsj.com/finance/stocks/stocks-make-a-u-turn-on-hopes-of-u-s-iran-diplomacy-39fb739b?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 20:18:00 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
       "title": "Stocks Face Headwind That Ended Other Bull Markets",
       "link": "https://www.wsj.com/finance/stocks/stocks-face-headwind-that-ended-other-bull-markets-10b9b7b0?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 10:44:00 GMT",
@@ -313,28 +319,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
-      "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 15:44:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "It’s Too Late for Small Fixes at Pepsi",
       "link": "https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=rss_markets_main",
       "published": "Sat, 17 Oct 2026 09:30:00 GMT",
       "sentiment": -0.10416666666666667
     },
     {
-      "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son’s Warner Bros. Bid",
-      "link": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance",
       "link": "https://www.wsj.com/personal-finance/retirement/how-much-can-you-safely-spend-in-retirement-a-401-k-giant-offers-guidance-0af4f348?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
       "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son’s Warner Bros. Bid",
+      "link": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 23:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "How to Get All the Tax Benefits From Your Health-Savings Account",
