@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
+      "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 02:00:00 GMT",
+      "sentiment": -0.09722222222222222
+    },
+    {
       "title": "Five Takeaways From SpaceX’s Earnings Call",
       "link": "https://www.wsj.com/business/five-takeaways-from-spacexs-earnings-call-b91bcaf2?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 23:42:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/order-to-slow-down-starlink-for-ukraine-came-from-musk-af367811?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 21:28:00 GMT",
       "sentiment": -0.15185185185185188
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-93acd7cd?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 21:08:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Salesforce to Buy Customer-Engagement Platform for Nearly $5.7 Billion",
@@ -97,10 +97,10 @@
       "sentiment": 0.024999999999999994
     },
     {
-      "title": "CATL’s Third-Quarter Net Profit Rises",
+      "title": "CATL’s Quarterly Profit Rose, But Margins Remain Under Pressure",
       "link": "https://www.wsj.com/business/earnings/contemporary-amperex-technologys-third-quarter-net-rises-8e64f6e3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 23:51:00 GMT",
-      "sentiment": 0.0
+      "published": "Wed, 21 Oct 2026 01:50:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "América Móvil Posts Higher Third-Quarter Profit",
@@ -433,6 +433,12 @@
       "sentiment": 0.21818181818181817
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-93acd7cd?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 21:08:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c6d7409e?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 21:05:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-saudi-arabia-postpones-davos-in-the-desert-839214f2?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 11:20:00 GMT",
-      "sentiment": 0.11818181818181818
-    },
-    {
       "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
       "link": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 01:00:00 GMT",
@@ -481,16 +481,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
-      "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 21:21:00 GMT",
-      "sentiment": -0.041666666666666664
-    },
-    {
       "title": "GM Plans $20 Billion in Buybacks, but Warns of Bumpy 2027",
       "link": "https://www.wsj.com/business/autos/general-motors-plans-20-billion-in-buybacks-to-shore-up-share-price-a857e6fe?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 15:39:00 GMT",
       "sentiment": 0.35
+    },
+    {
+      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
+      "link": "https://www.wsj.com/business/musk-vows-to-give-each-u-s-child-a-spacex-share-273bc71c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 19 Oct 2026 21:21:00 GMT",
+      "sentiment": -0.041666666666666664
     },
     {
       "title": "Best Small-Business Loans in October 2026",
