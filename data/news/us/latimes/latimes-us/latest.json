@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Two teenage girls spent months plotting a mass shooting in Riverside County, officials say",
+      "link": "https://www.latimes.com/california/story/2026-10-21/two-teenage-girls-spent-months-plotting-mass-shooting-in-riverside-county-officials-say",
+      "published": "Wed, 21 Oct 2026 16:34:04 GMT",
+      "sentiment": 0.015
+    },
+    {
       "title": "New storm moves into Southern California: What to expect",
       "link": "https://www.latimes.com/california/story/2026-10-21/new-storm-moves-into-southern-california-what-to-expect",
       "published": "Wed, 21 Oct 2026 14:43:31 GMT",
@@ -73,10 +79,10 @@
       "sentiment": 0.10285714285714284
     },
     {
-      "title": "Thousands of California voters got duplicate vote-by-mail ballots. Here's what happened",
+      "title": "Getting a duplicate mail ballot is not unheard of. But in this tense election season, the outcry is outsized",
       "link": "https://www.latimes.com/california/story/2026-10-20/thousands-of-california-voters-got-duplicate-vote-by-mail-ballots",
       "published": "Tue, 20 Oct 2026 22:09:59 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.05833333333333333
     },
     {
       "title": "Rick Caruso has 'extreme concern' over Raman, but declines to endorse in mayor's race",
@@ -109,10 +115,10 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
-      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
+      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
+      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.10277777777777779
+      "sentiment": -0.13333333333333336
     },
     {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
@@ -121,10 +127,10 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
-      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
+      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
+      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.13333333333333336
+      "sentiment": 0.10277777777777779
     },
     {
       "title": "Residents fight for anti-camping zone at 6th Street Bridge park",
@@ -229,16 +235,16 @@
       "sentiment": -0.05333333333333333
     },
     {
-      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
-      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.11666666666666668
-    },
-    {
       "title": "'He's everywhere': This California Republican wants to make his party relevant again",
       "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": 0.3666666666666667
+    },
+    {
+      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
+      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.11666666666666668
     },
     {
       "title": "Two men found dead after standoff with Long Beach police",
@@ -277,6 +283,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "New research shows how microplastics and water interactions could lead to cell damage",
+      "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
+      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0909090909090909
+    },
+    {
       "title": "Lopez: It's been a great romance, but it's time to rethink our relationship with the California coast",
       "link": "https://www.latimes.com/california/story/2026-10-17/its-time-to-rethink-our-relationship-with-california-coast",
       "published": "Sat, 17 Oct 2026 12:00:00 GMT",
@@ -289,10 +301,10 @@
       "sentiment": 0.2606060606060606
     },
     {
-      "title": "New research shows how microplastics and water interactions could lead to cell damage",
-      "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
-      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0909090909090909
+      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
+      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08249999999999999
     },
     {
       "title": "Luna, a 10-year-old Jack Russell, just survived a month loose in Yellowstone National Park",
@@ -305,12 +317,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
-      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08249999999999999
     },
     {
       "title": "Arcadia surrogacy mansion mom fled U.S. after previous abuse charge, prosecutors allege",
@@ -367,22 +373,16 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "Bass vs. Raman: Who can make housing more affordable?",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
+      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
+      "sentiment": -0.2125
     },
     {
       "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15833333333333335
-    },
-    {
-      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
-      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2125
     },
     {
       "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
@@ -395,6 +395,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
+    },
+    {
+      "title": "Bass vs. Raman: Who can make housing more affordable?",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.175
     },
     {
       "title": "Los Angeles city employee among four charged in downtown graffiti spree",
@@ -427,12 +433,6 @@
       "sentiment": 0.15
     },
     {
-      "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
-      "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15666666666666668
-    },
-    {
       "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
       "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -449,6 +449,12 @@
       "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": -0.4318181818181818
+    },
+    {
+      "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
+      "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.15666666666666668
     },
     {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",
@@ -515,12 +521,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-14/catalina-helicopter-crash-second-incident",
       "published": "Wed, 14 Oct 2026 20:21:42 GMT",
       "sentiment": -0.02592592592592592
-    },
-    {
-      "title": "Lopez: Post-debate, lingering questions about who Raman is and how she would lead",
-      "link": "https://www.latimes.com/california/story/2026-10-14/post-debate-lingering-questions-about-who-raman-is-how-she-would-lead",
-      "published": "Wed, 14 Oct 2026 20:04:06 GMT",
-      "sentiment": 0.0
     }
   ]
 }
