@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: SpaceX Shares Surge After Tesla Deal Talks",
+      "title": "Stock Market Today: SpaceX, Tesla Shares Rise After Deal Talks",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 09:01:41 GMT",
-      "sentiment": 0.08
+      "sentiment": 0.0
+    },
+    {
+      "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
+      "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 17:42:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Housing Looks Awful. These Housing-Related Stocks Don’t.",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/stocks-make-a-u-turn-on-hopes-of-u-s-iran-diplomacy-39fb739b?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 20:18:00 GMT",
       "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Stocks Face Headwind That Ended Other Bull Markets",
-      "link": "https://www.wsj.com/finance/stocks/stocks-face-headwind-that-ended-other-bull-markets-10b9b7b0?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 10:44:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "How to Play the Retreat in Defense Stocks",
@@ -135,7 +135,7 @@
     {
       "title": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 16:45:00 GMT",
+      "published": "Wed, 21 Oct 2026 18:30:00 GMT",
       "sentiment": 0.3
     },
     {
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Comex Gold Settles 0.20% Higher at $4130.50",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 17:41:00 GMT",
+      "sentiment": 0.02361111111111111
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 16:34:00 GMT",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/business/hudbay-mitsubishi-approve-construction-of-big-copper-project-in-arizona-91e710f8?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 12:03:00 GMT",
       "sentiment": -0.020833333333333332
-    },
-    {
-      "title": "Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field",
-      "link": "https://www.wsj.com/business/energy-oil/jackdaw-gas-field-gets-green-light-from-u-k-government-19994ecc?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 09:48:00 GMT",
-      "sentiment": 0.55
     },
     {
       "title": "Dollar Could Weaken Slightly in Near Term on AI Fears",
@@ -289,6 +289,12 @@
       "sentiment": -0.13333333333333333
     },
     {
+      "title": "Stocks Face Headwind That Ended Other Bull Markets",
+      "link": "https://www.wsj.com/finance/stocks/stocks-face-headwind-that-ended-other-bull-markets-10b9b7b0?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 10:44:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Yes, the Fed Can Kill the AI Boom",
       "link": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 09:58:00 GMT",
@@ -313,12 +319,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Netflix Stock Might be a Sleeper Hit",
-      "link": "https://www.wsj.com/finance/stocks/netflix-stock-might-be-a-sleeper-hit-fd4bd2b1?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 10:33:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "It’s Too Late for Small Fixes at Pepsi",
       "link": "https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=rss_markets_main",
       "published": "Sat, 17 Oct 2026 09:30:00 GMT",
@@ -331,16 +331,16 @@
       "sentiment": 0.5
     },
     {
+      "title": "How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance",
+      "link": "https://www.wsj.com/personal-finance/retirement/how-much-can-you-safely-spend-in-retirement-a-401-k-giant-offers-guidance-0af4f348?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "How to Get All the Tax Benefits From Your Health-Savings Account",
       "link": "https://www.wsj.com/personal-finance/taxes/how-to-get-all-the-tax-benefits-from-your-health-savings-account-42b4ded6?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Riskiest Corner of the AI Trade Is Crashing Into Higher Rates",
-      "link": "https://www.wsj.com/finance/stocks/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-fcdaad37?mod=rss_markets_main",
-      "published": "Thu, 15 Oct 2026 21:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",

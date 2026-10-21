@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Peggy Flanagan claimed college honor society membership but never joined",
+      "title": "Lisa Demuth is running as a moderate. Her record is conservative.",
+      "link": "https://www.startribune.com/how-conservative-republican-lisa-demuth/601900816",
+      "published": "Wed, 21 Oct 2026 13:46:23 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Phi Beta Kappa says Peggy Flanagan was an honor society member",
       "link": "https://www.startribune.com/peggy-flanagan-phi-beta-kappa/601903547",
       "published": "Wed, 21 Oct 2026 16:33:17 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "DOJ seeks to remove two Minnesota judges from cases over public immigration remarks",
+      "link": "https://www.startribune.com/doj-seeks-to-remove-two-minnesota-judges-from-cases-over-public-immigration-remarks/601903542",
+      "published": "Wed, 21 Oct 2026 17:58:31 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "In the Twin Cities suburbs, hunting often begins with a knock on the door",
@@ -25,22 +37,10 @@
       "sentiment": 0.06666666666666665
     },
     {
-      "title": "Lisa Demuth is running as a moderate. Her record is conservative.",
-      "link": "https://www.startribune.com/how-conservative-republican-lisa-demuth/601900816",
-      "published": "Wed, 21 Oct 2026 13:46:23 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Strib Varsity writers predict outcomes of Week 8’s top high school football games",
-      "link": "https://www.startribune.com/minnesota-high-school-football-week-8-predictions-eden-prairie-wayzata/601901843",
-      "published": "Wed, 21 Oct 2026 15:30:00 GMT",
-      "sentiment": 0.3866666666666667
-    },
-    {
-      "title": "Wolves have championship expectations. Two challenges could stand in their way.",
-      "link": "https://www.startribune.com/minnesota-timberwolves-roster-2026-27-nba-season-wolves-championship-key-anthony-edwards-lamelo-ball/601900445",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Live: Meet our new Wolves reporter, and ask your questions before tonight’s opener",
+      "link": "https://www.startribune.com/minnesota-timberwolves-roster-anthony-edwards-lamelo-ball-26-27-nba-season-opener-wolves-miami-heat/601900460",
+      "published": "Wed, 21 Oct 2026 17:47:01 GMT",
+      "sentiment": 0.15227272727272728
     },
     {
       "title": "11 Halloween bar pop-ups, ranked from mild to wild",
@@ -55,10 +55,10 @@
       "sentiment": 0.11454545454545455
     },
     {
-      "title": "Morris: What a young Somali creative wants Minnesota to hear",
-      "link": "https://www.startribune.com/trump-admin-racism-xenophobia-ilhan-omar-metro-surge/601903242",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.16666666666666666
+      "title": "Opinion | Is it finally unacceptable to question Muslim politicians’ loyalties?",
+      "link": "https://www.startribune.com/abdul-el-sayed-us-senate-seat-town-hall-islamophobia-comment/601903388",
+      "published": "Wed, 21 Oct 2026 18:30:14 GMT",
+      "sentiment": -0.3333333333333333
     }
   ]
 }
