@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
+      "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_usnews",
+      "published": "Wed, 21 Oct 2026 17:42:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "A Disappearing Rio Grande Is Reshaping Life Along the River",
       "link": "https://www.wsj.com/us-news/climate-environment/a-disappearing-rio-grande-is-reshaping-life-along-the-river-8f442ffb?mod=rss_usnews",
       "published": "Wed, 21 Oct 2026 15:57:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/politics/policy/trumps-d-c-golf-course-renovation-spurs-new-legal-tensions-81b68e78?mod=rss_usnews",
       "published": "Mon, 19 Oct 2026 21:43:00 GMT",
       "sentiment": 0.043939393939393945
-    },
-    {
-      "title": "Trump Says He’s Open to Talks With the Leaders of Russia and China",
-      "link": "https://www.wsj.com/politics/policy/trump-says-hes-open-to-talks-with-the-leaders-of-russia-and-china-e4d6b0d7?mod=rss_usnews",
-      "published": "Mon, 19 Oct 2026 21:27:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Minnesota’s Democratic U.S. Senate Nominee Inflated Academic Record",
@@ -67,6 +67,12 @@
       "sentiment": 0.14666666666666667
     },
     {
+      "title": "Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
+      "link": "https://www.wsj.com/tech/meta-ordered-to-pay-25-billion-to-new-mexico-in-data-privacy-case-dea99fdd?mod=rss_usnews",
+      "published": "Wed, 21 Oct 2026 18:24:00 GMT",
+      "sentiment": 0.012121212121212116
+    },
+    {
       "title": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
       "link": "https://www.wsj.com/us-news/trump-presses-ahead-with-plans-to-remake-washington-golf-course-27a26ba9?mod=rss_usnews",
       "published": "Sun, 18 Oct 2026 20:56:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/us-news/federal-judge-dismisses-trump-lawsuit-to-block-new-york-city-sanctuary-laws-f84be1ce?mod=rss_usnews",
       "published": "Fri, 16 Oct 2026 17:09:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "DOJ Sues California to Block Ballots From 20,000 Voters",
-      "link": "https://www.wsj.com/politics/elections/doj-sues-california-to-block-ballots-from-20-000-voters-00d1e6f1?mod=rss_usnews",
-      "published": "Thu, 15 Oct 2026 21:45:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Californians Are Warding Off Wildfires by Trading Lush Lawns for Stone and Steel",
@@ -127,6 +127,18 @@
       "sentiment": -0.125
     },
     {
+      "title": "Opinion | The Midterm Election and a Foreign Policy in Disarray",
+      "link": "https://www.wsj.com/opinion/the-midterm-election-and-a-foreign-policy-in-disarray-9e22f076?mod=rss_usnews",
+      "published": "Wed, 21 Oct 2026 17:34:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Opinion | Trump Takes His 2026 Midterm Show on the Road",
+      "link": "https://www.wsj.com/opinion/trump-takes-his-2026-midterm-show-on-the-road-19e68287?mod=rss_usnews",
+      "published": "Wed, 21 Oct 2026 17:33:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Opinion | The CEQA’s Unlikely Politics",
       "link": "https://www.wsj.com/opinion/the-ceqas-unlikely-politics-d4fcb0ee?mod=rss_usnews",
       "published": "Wed, 21 Oct 2026 16:41:00 GMT",
@@ -151,16 +163,10 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Opinion | Flying the Socialist Skies at United",
-      "link": "https://www.wsj.com/opinion/scott-kirby-united-airlines-wealth-tax-31a04c56?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 21:34:00 GMT",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Opinion | The Inmates Run the Asylum at the Psychological Association",
-      "link": "https://www.wsj.com/opinion/the-inmates-run-the-asylum-at-the-psychological-association-5e6538b7?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 21:09:00 GMT",
-      "sentiment": 0.05
+      "title": "Trump Says He’s Open to Talks With the Leaders of Russia and China",
+      "link": "https://www.wsj.com/politics/policy/trump-says-hes-open-to-talks-with-the-leaders-of-russia-and-china-e4d6b0d7?mod=rss_usnews",
+      "published": "Mon, 19 Oct 2026 21:27:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Deadly 1.5-Mile Corridor That Shows the Fatal Flaw in America’s Road Design",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/us-news/a-father-and-a-teacher-risked-their-lives-to-stop-oregon-elementary-school-shooter-abeafd51?mod=rss_usnews",
       "published": "Fri, 16 Oct 2026 22:49:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Air-Traffic Controllers’ Practice of Leaving Work Early Targeted in Pay Deal",
-      "link": "https://www.wsj.com/us-news/air-traffic-controllers-reach-deal-with-faa-for-2-8-pay-increase-5eb91365?mod=rss_usnews",
-      "published": "Fri, 16 Oct 2026 22:06:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "The Deadly 1.5-Mile Corridor That Shows the Fatal Flaw in America’s Road Design",
