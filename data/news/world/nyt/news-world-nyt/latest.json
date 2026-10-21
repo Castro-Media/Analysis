@@ -3,7 +3,7 @@
     {
       "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
       "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
-      "published": "Wed, 21 Oct 2026 08:47:10 +0000",
+      "published": "Wed, 21 Oct 2026 13:10:32 +0000",
       "sentiment": 0.13333333333333333
     },
     {
@@ -19,10 +19,22 @@
       "sentiment": 0.2
     },
     {
+      "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
+      "published": "Wed, 21 Oct 2026 13:10:44 +0000",
+      "sentiment": 0.08
+    },
+    {
       "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
       "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-      "published": "Wed, 21 Oct 2026 09:02:16 +0000",
+      "published": "Wed, 21 Oct 2026 13:24:12 +0000",
       "sentiment": -0.35
+    },
+    {
+      "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+      "published": "Wed, 21 Oct 2026 13:16:28 +0000",
+      "sentiment": -0.18125
     },
     {
       "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
@@ -31,16 +43,22 @@
       "sentiment": 0.1520833333333333
     },
     {
+      "title": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
+      "link": "https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html",
+      "published": "Wed, 21 Oct 2026 13:15:41 +0000",
+      "sentiment": 0.1875
+    },
+    {
       "title": "Modi Seeks to Calm Allies by Shackling Gen Z Protests",
       "link": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
       "published": "Wed, 21 Oct 2026 04:26:12 +0000",
       "sentiment": 0.10000000000000002
     },
     {
-      "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+      "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
       "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-      "published": "Wed, 21 Oct 2026 09:24:47 +0000",
-      "sentiment": -0.04999999999999999
+      "published": "Wed, 21 Oct 2026 14:43:43 +0000",
+      "sentiment": -0.09999999999999998
     },
     {
       "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
@@ -65,30 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
       "published": "Tue, 20 Oct 2026 14:28:29 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
-      "link": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
-      "published": "Tue, 20 Oct 2026 19:33:59 +0000",
-      "sentiment": -0.025
-    },
-    {
-      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-      "published": "Tue, 20 Oct 2026 20:39:58 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-      "published": "Tue, 20 Oct 2026 12:34:57 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
-      "link": "https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html",
-      "published": "Wed, 21 Oct 2026 12:53:33 +0000",
-      "sentiment": 0.1875
     },
     {
       "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
@@ -130,6 +124,18 @@
       "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
       "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
       "published": "Tue, 20 Oct 2026 22:22:08 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+      "published": "Tue, 20 Oct 2026 20:39:58 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
+      "published": "Tue, 20 Oct 2026 12:34:57 +0000",
       "sentiment": 0.0
     },
     {
@@ -299,18 +305,6 @@
       "link": "https://www.nytimes.com/2026/10/19/world/americas/maria-corina-machado-venezuela-trump.html",
       "published": "Mon, 19 Oct 2026 19:09:33 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "As Alberta Holds a Referendum on Separatism, Premier Danielle Smith Has Alienated Both Sides",
-      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-referendum-danielle-smith.html",
-      "published": "Mon, 19 Oct 2026 18:07:27 +0000",
-      "sentiment": -0.8
-    },
-    {
-      "title": "Can This International Force Stop Haiti’s Gangs?",
-      "link": "https://www.nytimes.com/video/world/americas/100000011168846/un-military-haiti-gangs.html",
-      "published": "Mon, 19 Oct 2026 20:38:40 +0000",
-      "sentiment": -0.2043290043290043
     }
   ]
 }
