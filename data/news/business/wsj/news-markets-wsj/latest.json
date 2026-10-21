@@ -1,9 +1,21 @@
 {
   "entries": [
     {
-      "title": "SpaceX Earnings News, October 20, 2026: SpaceX Stock Rises After Revenue Doubles",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 09:11:54 GMT",
+      "title": "Stock Market Today: SpaceX Shares Surge on Tesla Deal Talks",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 09:01:41 GMT",
+      "sentiment": 0.5166666666666666
+    },
+    {
+      "title": "Housing Looks Awful. These Housing-Related Stocks Don’t.",
+      "link": "https://www.wsj.com/finance/stocks/housing-looks-awful-these-housing-related-stocks-dont-bcc009ae?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 10:28:00 GMT",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
+      "link": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -29,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/stocks-face-headwind-that-ended-other-bull-markets-10b9b7b0?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 10:44:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Yes, the Fed Can Kill the AI Boom",
-      "link": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 09:58:00 GMT",
-      "sentiment": 0.21428571428571427
     },
     {
       "title": "How to Play the Retreat in Defense Stocks",
@@ -67,12 +73,6 @@
       "sentiment": -0.025000000000000005
     },
     {
-      "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
-      "link": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Jamie Dimon’s National-Security Pledge Finances $230 Billion in First Year",
       "link": "https://www.wsj.com/finance/banking/jamie-dimons-national-security-pledge-finances-230-billion-in-first-year-c757faf2?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 10:01:00 GMT",
@@ -103,10 +103,22 @@
       "sentiment": 0.3181818181818182
     },
     {
-      "title": "U.S. Treasury Yields Edge Higher in Asian Trade",
+      "title": "Playing the Retreat in Defense Stocks",
+      "link": "https://www.wsj.com/finance/investing/playing-the-retreat-in-defense-stocks-fd1c6355?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 10:30:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
+      "link": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 09:47:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Eurozone Bond Yields Rise, U.S. Treasury Yields Steady",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-in-asian-trade-0c544484?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 06:28:00 GMT",
-      "sentiment": -0.008333333333333326
+      "published": "Wed, 21 Oct 2026 09:14:00 GMT",
+      "sentiment": 0.19305555555555554
     },
     {
       "title": "WSJ Dollar Index Falls 0.25% to 96.96",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c6d7409e?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 21:05:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Treasury Yields Fall on String of Weak Housing Data",
-      "link": "https://www.wsj.com/finance/french-government-bonds-recover-as-yields-on-eurozone-u-s-peers-fall-cf473ce6?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 18:51:00 GMT",
-      "sentiment": -0.375
-    },
-    {
-      "title": "Google Says Services Are Recovering After U.K. Cloud Outage Hits Businesses",
-      "link": "https://www.wsj.com/finance/investing/revolut-hit-by-widespread-outage-affecting-payments-transfers-withdrawals-5971bf0a?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 14:34:00 GMT",
-      "sentiment": -0.0625
     },
     {
       "title": "Nasdaq Futures Higher After Asian AI Rally",
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field",
+      "link": "https://www.wsj.com/business/energy-oil/jackdaw-gas-field-gets-green-light-from-u-k-government-19994ecc?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 09:48:00 GMT",
+      "sentiment": 0.55
+    },
+    {
       "title": "Gold Futures Fall as Rising Oil Fuels Inflation Concerns",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 08:02:00 GMT",
@@ -223,16 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Natural Gas Futures Extend Decline on Weather Outlook",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-geopolitical-risks-intensify-3222a858?mod=rss_markets_main",
-      "published": "Tue, 20 Oct 2026 19:28:00 GMT",
-      "sentiment": 0.17777777777777778
-    },
-    {
-      "title": "Dollar Recovers as Treasury Yields, Oil Prices Rise",
+      "title": "Sterling Hits Near 17-Month High Vs Euro, Turns Higher Vs Dollar",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 07:12:00 GMT",
-      "sentiment": 0.18125
+      "published": "Wed, 21 Oct 2026 10:44:00 GMT",
+      "sentiment": 0.2314285714285714
     },
     {
       "title": "WSJ Dollar Index Rises 0.11% to 97.20",
@@ -289,6 +289,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Yes, the Fed Can Kill the AI Boom",
+      "link": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e?mod=rss_markets_main",
+      "published": "Tue, 20 Oct 2026 09:58:00 GMT",
+      "sentiment": 0.21428571428571427
+    },
+    {
       "title": "Stock Pickers Burned by the AI Boom Think Their Moment Has Finally Arrived",
       "link": "https://www.wsj.com/finance/stocks/stock-pickers-burned-by-the-ai-boom-think-their-moment-has-finally-arrived-07878da7?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 02:00:00 GMT",
@@ -310,12 +316,6 @@
       "title": "Netflix Stock Might be a Sleeper Hit",
       "link": "https://www.wsj.com/finance/stocks/netflix-stock-might-be-a-sleeper-hit-fd4bd2b1?mod=rss_markets_main",
       "published": "Mon, 19 Oct 2026 10:33:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Putin’s Bid to End the War in Ukraine on Moscow’s Terms",
-      "link": "https://www.wsj.com/articles/putins-bid-to-end-the-war-in-ukraine-on-moscows-terms-3e09dfec?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 10:02:00 GMT",
       "sentiment": 0.0
     },
     {

@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Chinese AI Tool Linked to Hacks in Japan",
+      "link": "https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b?mod=rss_worldnews",
+      "published": "Wed, 21 Oct 2026 10:30:00 GMT",
+      "sentiment": 0.025
+    },
+    {
+      "title": "Russia Releases Captured American in Sign of Warming Ties",
+      "link": "https://www.wsj.com/world/russia/russia-releases-captured-american-in-sign-of-warming-ties-d8acccaa?mod=rss_worldnews",
+      "published": "Wed, 21 Oct 2026 09:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
+      "link": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_worldnews",
+      "published": "Wed, 21 Oct 2026 09:47:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
       "link": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 08:13:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 00:00:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Alberta Voted to Stay in Canada but the Separatists Vow to Fight On",
-      "link": "https://www.wsj.com/world/americas/alberta-voted-to-stay-in-canada-but-the-separatists-vow-to-fight-on-dc3fe0dd?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 22:24:00 GMT",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "‘The Mothers of Kherson’ Review: A Ukraine War Opera",
-      "link": "https://www.wsj.com/arts-culture/theater/the-mothers-of-kherson-review-ukrainian-crisis-on-an-opera-stage-33f33d76?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 21:26:00 GMT",
-      "sentiment": -0.25
-    },
-    {
-      "title": "French Police Hunt for Suspected Rioters in Weekend Unrest",
-      "link": "https://www.wsj.com/world/europe/french-police-hunt-for-suspected-rioters-in-weekend-unrest-d153ed6d?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 19:26:00 GMT",
-      "sentiment": 0.016666666666666666
     },
     {
       "title": "Oil Prices Rise as Hormuz Shipping Risks Persist",
@@ -97,6 +97,12 @@
       "sentiment": 0.1285714285714286
     },
     {
+      "title": "Alberta Voted to Stay in Canada but the Separatists Vow to Fight On",
+      "link": "https://www.wsj.com/world/americas/alberta-voted-to-stay-in-canada-but-the-separatists-vow-to-fight-on-dc3fe0dd?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 22:24:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "Albertans Vote to Stay in Canada in Historic Referendum",
       "link": "https://www.wsj.com/world/americas/albertans-vote-to-stay-in-canada-in-historic-referendum-79f86086?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 07:12:00 GMT",
@@ -121,21 +127,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Canada Factory Sales Recover in August With Increased Prices",
-      "link": "https://www.wsj.com/world/americas/canada-factory-sales-recover-in-august-with-increased-prices-e67ce632?mod=rss_worldnews",
-      "published": "Thu, 15 Oct 2026 15:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Jackdaw Gas Field Gets Green Light from U.K. Government",
-      "link": "https://www.wsj.com/business/energy-oil/jackdaw-gas-field-gets-green-light-from-u-k-government-19994ecc?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 07:31:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "U.K. Inflation Jumps Again on Rising Energy Costs",
+      "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
       "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-jumps-again-on-energy-costs-e2bd9d85?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 06:56:00 GMT",
+      "published": "Wed, 21 Oct 2026 09:50:00 GMT",
       "sentiment": 0.15
     },
     {
@@ -155,6 +149,12 @@
       "link": "https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews",
       "published": "Fri, 16 Oct 2026 06:54:00 GMT",
       "sentiment": 0.07999999999999999
+    },
+    {
+      "title": "A ‘Ludicrously Ugly’ Bridge Is Exhibit A That Britain Has Lost Its Mojo",
+      "link": "https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654?mod=rss_worldnews",
+      "published": "Thu, 15 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.09999999999999998
     },
     {
       "title": "Opinion | Trump’s New Global Triumvirate?",
@@ -193,6 +193,12 @@
       "sentiment": -0.2
     },
     {
+      "title": "French Police Hunt for Suspected Rioters in Weekend Unrest",
+      "link": "https://www.wsj.com/world/europe/french-police-hunt-for-suspected-rioters-in-weekend-unrest-d153ed6d?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 19:26:00 GMT",
+      "sentiment": 0.016666666666666666
+    },
+    {
       "title": "German Investor Confidence Declines for First Time in Six Months",
       "link": "https://www.wsj.com/world/europe/german-investor-confidence-declines-as-energy-prices-weigh-99fa234d?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 12:35:00 GMT",
@@ -214,12 +220,6 @@
       "title": "Marine Le Pen Seizes on French Chaos to Present Herself as Leader in Waiting",
       "link": "https://www.wsj.com/world/europe/marine-le-pen-seizes-on-french-chaos-to-present-herself-as-leader-in-waiting-80549c0a?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "KKR Sent Formal Objection by EU Over Information Provided in NetCo Deal",
-      "link": "https://www.wsj.com/business/kkr-sent-formal-objection-by-eu-over-information-provided-in-26-billion-netco-deal-5848d196?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 13:53:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "‘The Mothers of Kherson’ Review: A Ukraine War Opera",
+      "link": "https://www.wsj.com/arts-culture/theater/the-mothers-of-kherson-review-ukrainian-crisis-on-an-opera-stage-33f33d76?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 21:26:00 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
