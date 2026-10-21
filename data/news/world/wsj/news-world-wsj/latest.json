@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Airfield Attack Marked Opening Shot in Putin’s Sabotage Campaign Against Europe",
+      "link": "https://www.wsj.com/world/europe/airfield-attack-marked-opening-shot-in-putins-sabotage-campaign-against-europe-115dedd4?mod=rss_worldnews",
+      "published": "Wed, 21 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.07878787878787878
+    },
+    {
+      "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+      "link": "https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670?mod=rss_worldnews",
+      "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
       "title": "Alberta Voted to Stay in Canada but the Separatists Vow to Fight On",
       "link": "https://www.wsj.com/world/americas/alberta-voted-to-stay-in-canada-but-the-separatists-vow-to-fight-on-dc3fe0dd?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 22:24:00 GMT",
@@ -25,22 +37,16 @@
       "sentiment": 0.016666666666666666
     },
     {
-      "title": "Trump Envoy Tells Nervous Gulf Allies U.S. Can’t Guarantee Security Forever",
-      "link": "https://www.wsj.com/world/middle-east/trump-envoy-tells-nervous-gulf-allies-u-s-cant-guarantee-security-forever-f5af8521?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 14:47:00 GMT",
-      "sentiment": 0.18333333333333335
-    },
-    {
-      "title": "What’s Behind the Protests in France and What Happens Next",
-      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 11:49:00 GMT",
-      "sentiment": -0.24000000000000005
-    },
-    {
       "title": "Oil Futures Settle Lower in Volatile Session",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-up-as-traders-weigh-middle-east-supply-risks-560c31ca?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 21:17:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Trump Envoy Tells Nervous Gulf Allies U.S. Can’t Guarantee Security Forever",
+      "link": "https://www.wsj.com/world/middle-east/trump-envoy-tells-nervous-gulf-allies-u-s-cant-guarantee-security-forever-f5af8521?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 14:47:00 GMT",
+      "sentiment": 0.18333333333333335
     },
     {
       "title": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/tech/ai/former-openai-worker-accused-of-bugging-discussed-jobs-with-saudi-royal-277c1c45?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 21:52:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 19:43:00 GMT",
-      "sentiment": 0.02727272727272727
     },
     {
       "title": "Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above 2%, Ueda Says",
@@ -199,6 +199,12 @@
       "sentiment": 0.132
     },
     {
+      "title": "What’s Behind the Protests in France and What Happens Next",
+      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
+      "published": "Tue, 20 Oct 2026 11:49:00 GMT",
+      "sentiment": -0.24000000000000005
+    },
+    {
       "title": "Netflix Won the Streaming Wars. Now It Faces Its Biggest Disruption in Years.",
       "link": "https://www.wsj.com/world/netflix-won-the-streaming-wars-now-it-faces-its-biggest-disruption-in-years-39c47881?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 10:03:00 GMT",
@@ -214,12 +220,6 @@
       "title": "KKR Sent Formal Objection by EU Over Information Provided in NetCo Deal",
       "link": "https://www.wsj.com/business/kkr-sent-formal-objection-by-eu-over-information-provided-in-26-billion-netco-deal-5848d196?mod=rss_worldnews",
       "published": "Mon, 19 Oct 2026 13:53:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "French Leaders Trade Blame After Rioting Sweeps the Nation",
-      "link": "https://www.wsj.com/world/europe/french-leaders-trade-blame-after-rioting-sweeps-the-nation-ac02a5b6?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 12:31:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -371,18 +371,6 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
-    },
-    {
-      "title": "Israel’s Front-Runners Shun Arab Voters Who Could Help Them Win Election",
-      "link": "https://www.wsj.com/world/middle-east/israels-front-runners-shun-arab-voters-who-could-help-them-win-election-8f4cd158?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 17:13:00 GMT",
-      "sentiment": 0.8
-    },
-    {
-      "title": "Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week",
-      "link": "https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 16:12:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Defector: A Russian Officer Turned Against His Country and Helped Ukraine Kill Hundreds",
