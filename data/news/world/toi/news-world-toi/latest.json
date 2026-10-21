@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "title": "Dev Rai founded a nonprofit at 15; it has helped 400 artisans, sold 900 products and mobilised 300 volunteers",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-dev-rai-the-indian-american-virginia-student-who-founded-a-nonprofit-at-15-to-help-artisans-in-india-two-years-later-it-has-supported-over-400-craftspeople-sold-900-products-and-mobilised-300-volunteers/articleshow/135049146.cms",
+      "published": "2026-10-21T09:58:07+05:30",
+      "sentiment": 0.06999999999999999
+    },
+    {
+      "title": "Quote of the day by Stephen Hawking: “We are just an advanced breed of monkeys on...\"",
+      "link": "https://timesofindia.indiatimes.com/science/quote-of-the-day-by-stephen-hawking-we-are-just-an-advanced-breed-of-monkeys-on-a-minor-planet-of-understand-why-humans-are-special-despite-living-on-a-tiny-planet/articleshow/135081596.cms",
+      "published": "2026-10-21T09:34:50+05:30",
+      "sentiment": 0.2
+    },
+    {
+      "title": "'Quiet, quiet, are you a sick person?' Trumps snaps at reporter at White House; watch",
+      "link": "https://timesofindia.indiatimes.com/world/us/quiet-quiet-are-you-a-sick-person-trumps-snaps-at-reporter-at-white-house-watch/articleshow/135079420.cms",
+      "published": "2026-10-21T07:21:40+05:30",
+      "sentiment": -0.14285714285714285
+    },
+    {
+      "title": "NC State researchers create laser antenna that boosts reception 2.5 times",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/north-carolina-state-university-researchers-turn-laser-beams-into-a-lightsaber-like-antenna-that-sends-radio-signals-without-metal-and-boosts-reception-by-2-5-times/articleshow/135066810.cms",
+      "published": "2026-10-20T22:30:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Pete Davidson sells Staten Island condo at a $400,000 loss after listing in 2026",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/pete-davidson-sold-his-staten-island-condo-at-a-400000-loss-the-comedian-had-owned-the-property-before-putting-it-on-the-market-in-2026/articleshow/135067532.cms",
+      "published": "2026-10-21T09:20:00+05:30",
+      "sentiment": 0.05555555555555556
+    },
+    {
+      "title": "Third-grader Kailyn Brown won $25,000 for her child-friendly injection patches",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/meet-kailyn-brown-the-third-grader-who-won-25000-for-inventing-animal-shaped-patches-designed-to-make-injections-less-stressful-for-children/articleshow/135068031.cms",
+      "published": "2026-10-21T03:30:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "After Sergey Brin divorce, Nicole Shanahan's former Malibu home rents for $175,000 a month",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/after-her-divorce-from-google-co-founder-sergey-brin-nicole-shanahans-former-malibu-home-is-now-offered-for-175000-a-month/articleshow/135069875.cms",
+      "published": "2026-10-20T17:50:55+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Jonathan Spano’s eyesight ended his Navy dream; he flew for ‘Top Gun: Maverick’",
+      "link": "https://timesofindia.indiatimes.com/world/us/jonathan-spanos-eyesight-ended-his-navy-pilot-dream-he-built-a-traffic-control-business-with-his-brother-before-flying-camera-jets-for-top-gun-maverick/articleshow/135070645.cms",
+      "published": "2026-10-21T07:00:00+05:30",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Olivia Wilde sells Studio City home for $5.23M, nearly $700K below 2023 price",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/olivia-wilde-sells-her-studio-city-home-in-los-angeles-for-5-23-million-nearly-700000-less-than-the-5-9-million-she-paid-in-2023/articleshow/135071085.cms",
+      "published": "2026-10-21T09:40:00+05:30",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Falling water levels at Utah’s Great Salt Lake exposed mysterious circular mounds",
+      "link": "https://timesofindia.indiatimes.com/science/nature/falling-water-levels-at-utahs-great-salt-lake-exposed-mysterious-circular-mounds-freshwater-springs-beneath-them-may-supply-up-to-12-of-the-lakes-water-budget/articleshow/135071376.cms",
+      "published": "2026-10-21T04:00:00+05:30",
+      "sentiment": 0.34375
+    },
+    {
+      "title": "A newly built Nando’s drive-through in Australia sold for $5.845 million",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-newly-built-nandos-drive-through-in-australia-sold-for-5-845-million-its-15-year-lease-generates-319035-a-year-with-rent-rising-3-annually/articleshow/135071586.cms",
+      "published": "2026-10-21T08:15:00+05:30",
+      "sentiment": 0.08446969696969696
+    },
+    {
       "title": "Indian-origin Uber driver father in NYC seeks help on GoFundMe for daughter's funeral after mother kills five-year-old: 'I lost my whole world'",
       "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-uber-driver-father-in-nyc-seeks-help-on-gofundme-for-daughters-funeral-after-mother-kills-five-year-old-i-lost-my-whole-world/articleshow/135076657.cms",
       "published": "2026-10-21T01:51:13+05:30",
@@ -53,72 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2024-sister-sister-actress-tamera-mowry-housley-paid-3-8-million-for-a-neglected-15-acre-napa-valley-property-while-planning-an-orchard-and-vineyard-she-listed-her-longtime-california-home-for-2-69-million/articleshow/135070335.cms",
       "published": "2026-10-21T03:55:00+05:30",
       "sentiment": 0.19583333333333333
-    },
-    {
-      "title": "1923 Hollywood villa linked to Valentino sells for $2.5M",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2016-a-couple-paid-1-05-million-for-a-1923-hollywood-villa-built-by-rudolph-valentino-for-pola-negri-after-restoring-its-historic-details-they-have-sold-it-for-2-5-million/articleshow/135071151.cms",
-      "published": "2026-10-21T03:50:00+05:30",
-      "sentiment": 0.09583333333333333
-    },
-    {
-      "title": "San Antonio Park Deal: City uses $10 million buy to stop 3,500 homes; plan shields Edwards Aquifer",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-1858-a-texas-family-began-holding-ranchland-that-developers-later-wanted-for-3500-houses-in-2016-the-family-backed-a-plan-to-preserve-204-acres-for-a-san-antonio-park-worth-nearly-10-million/articleshow/135061695.cms",
-      "published": "2026-10-21T02:56:00+05:30",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Steve Buscemi returned to firefighting after 9/11 and backed a charity for his former colleagues",
-      "link": "https://timesofindia.indiatimes.com/world/us/steve-buscemi-returned-to-firefighting-after-9/11-and-backed-a-charity-for-his-former-colleagues-by-2024-it-was-delivering-over-4200-counselling-sessions-a-year-to-firefighters-and-families/articleshow/135069183.cms",
-      "published": "2026-10-21T01:54:00+05:30",
-      "sentiment": 0.04292929292929293
-    },
-    {
-      "title": "County Weighs Land Purchase: Sarasota County rejects 126-home deal; eyes conservation buy",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/a-florida-developer-floated-864-apartments-near-sarasotas-celery-fields-then-offered-a-126-home-settlement-on-the-same-51-acres-county-commissioners-rejected-the-deal-and-voted-to-explore-buying-the-land-instead/articleshow/135061485.cms",
-      "published": "2026-10-21T00:55:00+05:30",
-      "sentiment": 0.018055555555555557
-    },
-    {
-      "title": "Catherine Breed completes 900-mile California coast swim after 111 days",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-33-year-old-california-swimmer-spent-111-days-covering-900-miles-of-coastline-in-stages-battling-seven-foot-waves-and-polluted-water-catherine-breed-has-now-completed-her-journey-from-oregon-to-mexico/articleshow/135071628.cms",
-      "published": "2026-10-21T00:50:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Beverly Hills mansion once owned by Warner Bros. co-founder Harry Warner finally sells for $27.25 million",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/a-beverly-hills-mansion-once-owned-by-warner-bros-co-founder-harry-warner-was-restored-with-its-old-hollywood-details-intact-first-listed-for-nearly-40-million-in-2016-it-finally-sold-for-27-25-million/articleshow/135062004.cms",
-      "published": "2026-10-20T23:54:00+05:30",
-      "sentiment": 0.19687500000000002
-    },
-    {
-      "title": "Danish man transforms suburban home into castle with towers and four-metre moat",
-      "link": "https://timesofindia.indiatimes.com/world/europe/in-2005-a-danish-man-moved-into-an-ordinary-suburban-house-and-started-building-a-garden-wall-the-following-year-two-decades-later-it-has-castle-towers-a-four-metre-moat-and-hundreds-of-visitors/articleshow/135072807.cms",
-      "published": "2026-10-20T22:00:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Forgotten Victorian camera found in Oxfordshire loft sells for £18,000 for wildlife conservation",
-      "link": "https://timesofindia.indiatimes.com/world/uk/in-1996-an-oxfordshire-man-packed-away-his-fathers-old-cameras-in-a-loft-nearly-30-years-later-he-uncovered-a-rare-victorian-model-that-sold-for-18000-with-proceeds-pledged-to-wildlife-conservation/articleshow/135070794.cms",
-      "published": "2026-10-20T21:54:19+05:30",
-      "sentiment": 0.06071428571428572
-    },
-    {
-      "title": "Indian-origin lab owner charged in US over $66.2 million bogus Covid test claims: DOJ",
-      "link": "https://timesofindia.indiatimes.com/world/us/indian-origin-lab-owner-charged-in-us-over-66-2-million-bogus-covid-test-claims-doj/articleshow/135073588.cms",
-      "published": "2026-10-20T22:16:49+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Mary Berry’s daughter Belles Berry’s £3.95 million Blenheim Farm mansion goes under offer",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/mary-berrys-daughter-belles-berrys-3-95-million-oxfordshire-mansion-goes-under-offer-inside-blenheim-farms-10-acre-estate-with-swimming-pool-tennis-court-and-over-4000-sq-ft-of-living-space/articleshow/135072718.cms",
-      "published": "2026-10-20T21:10:13+05:30",
-      "sentiment": 0.05
-    },
-    {
-      "title": "'Enough drama': Prince Harry says he wants to reconcile with family after years of rift",
-      "link": "https://timesofindia.indiatimes.com/world/uk/enough-drama-in-the-world-prince-harry-says-he-wants-to-reconcile-with-family-after-years-of-rift/articleshow/135072445.cms",
-      "published": "2026-10-20T21:08:39+05:30",
-      "sentiment": 0.1484848484848485
     }
   ]
 }
