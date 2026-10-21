@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "In France, Raging Against the Luxury Machine",
+      "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+      "published": "Wed, 21 Oct 2026 15:55:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-doesnt-like-france.html",
+      "published": "Wed, 21 Oct 2026 15:26:39 +0000",
+      "sentiment": 0.01874999999999996
+    },
+    {
       "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
       "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-      "published": "Wed, 21 Oct 2026 13:16:28 +0000",
+      "published": "Wed, 21 Oct 2026 15:40:41 +0000",
       "sentiment": -0.18125
     },
     {
@@ -15,7 +27,7 @@
     {
       "title": "U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea",
       "link": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
-      "published": "Wed, 21 Oct 2026 14:12:39 +0000",
+      "published": "Wed, 21 Oct 2026 15:10:29 +0000",
       "sentiment": 0.0
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
       "published": "Mon, 19 Oct 2026 21:55:10 +0000",
       "sentiment": -0.098
-    },
-    {
-      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
-      "published": "Mon, 19 Oct 2026 22:20:21 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "‘Mothers of Kherson’: An Operatic Show of Support for Ukraine",
-      "link": "https://www.nytimes.com/2026/10/19/arts/music/mothers-of-kherson-ukraine-opera.html",
-      "published": "Mon, 19 Oct 2026 16:38:10 +0000",
-      "sentiment": 0.027777777777777773
     }
   ]
 }
