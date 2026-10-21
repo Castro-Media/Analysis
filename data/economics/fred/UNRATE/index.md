@@ -10,7 +10,7 @@ url: https://api.stlouisfed.org/fred/series/observations?series_id=UNRATE&file_t
   %Y-%m-%d]
 api_key: FRED_API_KEY
 cadence: monthly
-last_fetched: 2026-07-03T01:22
+last_fetched: 2026-10-21T14:56
 description: US Civilian Unemployment Rate (monthly)
 link: https://fred.stlouisfed.org/series/UNRATE
 ---

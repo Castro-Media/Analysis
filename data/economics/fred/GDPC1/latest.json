@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Site Maintenance | St. Louis Fed<</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    <link href="https://s3.amazonaws.com/files.research.stlouisfed.org/maintenance/styles.css" rel="stylesheet">
+</head>
+<body>
+<article>
+    <div>
+        <img id="header-logo" src="https://s3.amazonaws.com/files.research.stlouisfed.org/maintenance/masthead-88h-2x.png" alt="Economic Research Federal Reserve Bank of St. Louis logo"/>
+    </div>
+    <h1>We'll be back soon!</h1>
+    <div>
+        <p>We're currently performing scheduled maintenance on our site.
+                        We appreciate your interest and apologize for any inconvenience.
+        </p>
+        <p>— The Research Division at the St. Louis Fed</p>
+    </div>
+</article>
+</body>
+</html>

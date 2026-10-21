@@ -1,21 +1,33 @@
 {
   "entries": [
     {
+      "title": "Alaska’s Journalists Join Forces to Cover the Midterms",
+      "link": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
+      "published": "Wed, 21 Oct 2026 14:51:24 +0000",
+      "sentiment": 0.21666666666666665
+    },
+    {
+      "title": "How The New York Times Reports on A.I. Images",
+      "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+      "published": "Wed, 21 Oct 2026 13:21:54 +0000",
+      "sentiment": 0.16818181818181818
+    },
+    {
       "title": "SpaceX Boosts the A.I. Rally",
       "link": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
-      "published": "Wed, 21 Oct 2026 12:23:14 +0000",
+      "published": "Wed, 21 Oct 2026 13:37:04 +0000",
       "sentiment": -0.09999999999999998
     },
     {
       "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
       "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-      "published": "Wed, 21 Oct 2026 11:13:09 +0000",
+      "published": "Wed, 21 Oct 2026 14:39:11 +0000",
       "sentiment": -0.15
     },
     {
       "title": "Senator Asks 4 Accounting Giants to Describe Malta Tax Advice",
       "link": "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html",
-      "published": "Wed, 21 Oct 2026 09:02:32 +0000",
+      "published": "Wed, 21 Oct 2026 09:02:33 +0000",
       "sentiment": 0.0
     },
     {
@@ -33,7 +45,7 @@
     {
       "title": "U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea",
       "link": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
-      "published": "Wed, 21 Oct 2026 12:27:28 +0000",
+      "published": "Wed, 21 Oct 2026 14:12:39 +0000",
       "sentiment": 0.0
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html",
       "published": "Fri, 16 Oct 2026 09:04:21 +0000",
       "sentiment": 0.11212121212121212
-    },
-    {
-      "title": "Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story",
-      "link": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
-      "published": "Fri, 16 Oct 2026 18:05:27 +0000",
-      "sentiment": 0.02407407407407407
-    },
-    {
-      "title": "Trump Hasn’t Lowered Drug Prices for These Voters",
-      "link": "https://www.nytimes.com/2026/10/16/business/midterms-election-trump-drug-prices-affordability.html",
-      "published": "Fri, 16 Oct 2026 09:01:22 +0000",
-      "sentiment": 0.5
     }
   ]
 }
