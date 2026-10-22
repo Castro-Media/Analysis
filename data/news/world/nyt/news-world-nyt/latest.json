@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+      "published": "Thu, 22 Oct 2026 11:10:02 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "published": "Thu, 22 Oct 2026 10:10:07 +0000",
+      "published": "Thu, 22 Oct 2026 11:11:44 +0000",
       "sentiment": 0.0
     },
     {
@@ -11,6 +17,12 @@
       "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
       "published": "Thu, 22 Oct 2026 09:01:54 +0000",
       "sentiment": -0.016666666666666666
+    },
+    {
+      "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "published": "Thu, 22 Oct 2026 11:48:14 +0000",
+      "sentiment": -0.05
     },
     {
       "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
@@ -33,7 +45,7 @@
     {
       "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
       "link": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
-      "published": "Thu, 22 Oct 2026 04:01:19 +0000",
+      "published": "Thu, 22 Oct 2026 11:04:08 +0000",
       "sentiment": 0.2
     },
     {
@@ -71,18 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
       "published": "Wed, 21 Oct 2026 17:32:03 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
-      "link": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
-      "published": "Wed, 21 Oct 2026 10:57:42 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
-      "published": "Wed, 21 Oct 2026 13:10:45 +0000",
-      "sentiment": 0.08
     },
     {
       "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
@@ -127,6 +127,12 @@
       "sentiment": -0.18125
     },
     {
+      "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
+      "published": "Wed, 21 Oct 2026 13:10:45 +0000",
+      "sentiment": 0.08
+    },
+    {
       "title": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
       "link": "https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html",
       "published": "Wed, 21 Oct 2026 20:44:40 +0000",
@@ -149,6 +155,12 @@
       "link": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
       "published": "Wed, 21 Oct 2026 10:23:10 +0000",
       "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
+      "link": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
+      "published": "Wed, 21 Oct 2026 10:57:42 +0000",
+      "sentiment": 0.2
     },
     {
       "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
       "published": "Tue, 20 Oct 2026 11:06:37 +0000",
       "sentiment": 0.08333333333333334
-    },
-    {
-      "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
-      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "published": "Wed, 21 Oct 2026 02:51:17 +0000",
-      "sentiment": 0.8
-    },
-    {
-      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-      "published": "Tue, 20 Oct 2026 19:00:35 +0000",
-      "sentiment": 0.0
     }
   ]
 }

@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "published": "Thu, 22 Oct 2026 11:48:14 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "published": "Thu, 22 Oct 2026 10:10:07 +0000",
+      "published": "Thu, 22 Oct 2026 11:11:44 +0000",
       "sentiment": 0.0
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html",
       "published": "Tue, 20 Oct 2026 14:24:30 +0000",
       "sentiment": -0.33888888888888885
-    },
-    {
-      "title": "UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
-      "published": "Tue, 20 Oct 2026 12:34:57 +0000",
-      "sentiment": 0.0
     }
   ]
 }
