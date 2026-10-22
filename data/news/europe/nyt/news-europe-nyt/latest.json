@@ -1,10 +1,28 @@
 {
   "entries": [
     {
+      "title": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html",
+      "published": "Thu, 22 Oct 2026 16:30:28 +0000",
+      "sentiment": -0.0016666666666666635
+    },
+    {
+      "title": "Art Basel Paris to End Early Because of France Riots",
+      "link": "https://www.nytimes.com/2026/10/22/arts/design/art-basel-paris-france-riots.html",
+      "published": "Thu, 22 Oct 2026 15:53:20 +0000",
+      "sentiment": 0.26666666666666666
+    },
+    {
       "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
-      "published": "Thu, 22 Oct 2026 13:36:46 +0000",
+      "published": "Thu, 22 Oct 2026 15:44:46 +0000",
       "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "In the Wake of Riots, French Authorities Ban Some Protests",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+      "published": "Thu, 22 Oct 2026 16:09:51 +0000",
+      "sentiment": 0.10000000000000002
     },
     {
       "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
@@ -15,13 +33,13 @@
     {
       "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "published": "Thu, 22 Oct 2026 11:48:14 +0000",
-      "sentiment": -0.05
+      "published": "Thu, 22 Oct 2026 16:01:35 +0000",
+      "sentiment": 0.3
     },
     {
       "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "published": "Thu, 22 Oct 2026 11:11:44 +0000",
+      "published": "Thu, 22 Oct 2026 15:22:53 +0000",
       "sentiment": 0.0
     },
     {
@@ -45,7 +63,7 @@
     {
       "title": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
       "link": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
-      "published": "Wed, 21 Oct 2026 20:47:34 +0000",
+      "published": "Wed, 21 Oct 2026 20:47:35 +0000",
       "sentiment": -0.125
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/20/business/uk-north-sea-drilling-jackdaw.html",
       "published": "Tue, 20 Oct 2026 20:44:41 +0000",
       "sentiment": 0.15568181818181817
-    },
-    {
-      "title": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
-      "published": "Tue, 20 Oct 2026 20:05:06 +0000",
-      "sentiment": -0.225
-    },
-    {
-      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
-      "published": "Tue, 20 Oct 2026 21:21:16 +0000",
-      "sentiment": -0.0052272727272727245
-    },
-    {
-      "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
-      "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
-      "published": "Tue, 20 Oct 2026 17:45:01 +0000",
-      "sentiment": 0.075
     }
   ]
 }

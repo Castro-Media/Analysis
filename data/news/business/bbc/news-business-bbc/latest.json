@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 15:05:47 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 14:28:59 GMT",
@@ -19,16 +25,10 @@
       "sentiment": 0.225
     },
     {
-      "title": "Is an 'AI war' complicating your job search?",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 05:01:31 GMT",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 19:54:57 GMT",
-      "sentiment": 0.1238888888888889
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 11:15:58 GMT",
+      "sentiment": 0.09999999999999999
     },
     {
       "title": "No order, no seat: Starbucks China rolls out new store policy",
@@ -37,10 +37,16 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 11:15:58 GMT",
-      "sentiment": 0.09999999999999999
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+      "sentiment": 0.1238888888888889
+    },
+    {
+      "title": "Is an 'AI war' complicating your job search?",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 05:01:31 GMT",
+      "sentiment": 0.35
     },
     {
       "title": "The grads ditching the UK for a fresh start abroad",
@@ -155,12 +161,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 19:42:32 GMT",
       "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 11:26:48 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "The tech helping crack decades-old cold cases",
@@ -308,7 +308,7 @@
     },
     {
       "title": "The Briefing Room",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 13:19:00 GMT",
       "sentiment": 0.1
     },
