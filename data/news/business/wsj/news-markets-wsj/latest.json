@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Tesla Earnings Today: EV-Maker's Profit Falls as Batteries Prove Barrier to Growth",
+      "title": "Stock Market News, October 21, 2026: Tesla's Profit Falls as Batteries Prove Barrier to Growth",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 09:01:41 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
+      "link": "https://www.wsj.com/finance/investing/private-credit-retail-investors-festival-c550f07b?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.2333333333333333
     },
     {
       "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 19:32:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Housing Looks Awful. These Housing-Related Stocks Don’t.",
-      "link": "https://www.wsj.com/finance/stocks/housing-looks-awful-these-housing-related-stocks-dont-bcc009ae?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 10:28:00 GMT",
-      "sentiment": -0.5
     },
     {
       "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
@@ -133,6 +133,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Nikkei Edges Higher as Wall Street’s Gains Offset Mideast Worries",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-edges-higher-as-wall-streets-gains-offset-mideast-worries-b106f947?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 00:50:00 GMT",
+      "sentiment": 0.0875
+    },
+    {
       "title": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-spacex-spurs-ai-relief-rally-9d3763e7?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 20:41:00 GMT",
@@ -151,16 +157,10 @@
       "sentiment": -0.026060606060606062
     },
     {
-      "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
-      "link": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 09:47:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "European Stock Indexes Mixed as Oil Holds Above $110",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-on-improving-risk-sentiment-possible-dip-buying-4d4d8e99?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 07:27:00 GMT",
-      "sentiment": 0.016666666666666666
+      "title": "Housing Looks Awful. These Housing-Related Stocks Don’t.",
+      "link": "https://www.wsj.com/finance/stocks/housing-looks-awful-these-housing-related-stocks-dont-bcc009ae?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 10:28:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Opinion | Don’t Punish the Productive",
@@ -199,6 +199,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Gold Falls, Weighed by Rising Energy Costs, Fed Uncertainty",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 00:46:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Oil Rises Amid Concerns Over Re-Escalation of Mideast Conflict",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 00:39:00 GMT",
+      "sentiment": 0.175
+    },
+    {
       "title": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather Outlook",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 20:31:00 GMT",
@@ -215,18 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 19:06:00 GMT",
       "sentiment": 0.02361111111111111
-    },
-    {
-      "title": "U.S. Crude Oil Stockpiles Fall More Than Expected",
-      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-f8fbe807?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 15:24:00 GMT",
-      "sentiment": -0.23555555555555557
-    },
-    {
-      "title": "Hudbay, Mitsubishi Approve Construction of Big Copper Project in Arizona",
-      "link": "https://www.wsj.com/business/hudbay-mitsubishi-approve-construction-of-big-copper-project-in-arizona-91e710f8?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 12:03:00 GMT",
-      "sentiment": -0.020833333333333332
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 96.92",
