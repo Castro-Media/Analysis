@@ -3,8 +3,20 @@
     {
       "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
       "link": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 20:54:00 GMT",
+      "published": "Thu, 22 Oct 2026 22:16:00 GMT",
       "sentiment": 0.325
+    },
+    {
+      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps",
+      "link": "https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 21:27:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.A.E. Diplomat Jolts Deadlocked U.N. Leadership Race",
+      "link": "https://www.wsj.com/world/middle-east/u-a-e-diplomat-jolts-deadlocked-u-n-leadership-race-263f4ed9?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 21:21:00 GMT",
+      "sentiment": 0.065625
     },
     {
       "title": "El Salvador Attempts Rescue of Military Personnel After Gang Ambush in Haiti",
@@ -25,22 +37,16 @@
       "sentiment": -0.2
     },
     {
-      "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade",
-      "link": "https://www.wsj.com/world/middle-east/irans-fleet-of-shadow-tankers-has-run-out-of-oil-after-monthslong-u-s-blockade-0822b050?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.18333333333333335
-    },
-    {
-      "title": "How Does the Ukrainian Military Use Starlink?",
-      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 23:49:00 GMT",
-      "sentiment": -0.025
-    },
-    {
       "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 19:29:00 GMT",
       "sentiment": 0.15499999999999997
+    },
+    {
+      "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade",
+      "link": "https://www.wsj.com/world/middle-east/irans-fleet-of-shadow-tankers-has-run-out-of-oil-after-monthslong-u-s-blockade-0822b050?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.18333333333333335
     },
     {
       "title": "Diplomats Race to Head Off Escalation With Iran",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 00:00:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Oil Futures Settle Lower in Volatile Session",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-up-as-traders-weigh-middle-east-supply-risks-560c31ca?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 21:17:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
@@ -157,6 +157,12 @@
       "sentiment": -0.09999999999999998
     },
     {
+      "title": "Opinion | U.K. Labour’s Ceasefire in the War on Gas",
+      "link": "https://www.wsj.com/opinion/andy-burnham-labour-party-u-k-fossil-fuels-5791f298?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 21:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Who Wants to Be a Victim in the Wild West Bank?",
       "link": "https://www.wsj.com/opinion/who-wants-to-be-a-victim-in-the-wild-west-bank-d41d70fd?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 19:45:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/stephen-hubbard-released-from-russia-vladimir-putin-donald-trump-b7ec3a1d?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 20:46:00 GMT",
       "sentiment": 0.8
-    },
-    {
-      "title": "Opinion | Elon Musk Blunders in the Indian Market",
-      "link": "https://www.wsj.com/opinion/elon-musk-blunders-in-the-indian-market-f1af21a4?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 20:04:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "How Does the Ukrainian Military Use Starlink?",
+      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
+      "published": "Wed, 21 Oct 2026 23:49:00 GMT",
+      "sentiment": -0.025
     },
     {
       "title": "Elon Musk’s Starlink Speed Cap Has Scrambled Ukraine’s Defenses",
