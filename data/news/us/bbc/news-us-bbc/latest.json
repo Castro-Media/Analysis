@@ -13,6 +13,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 09:06:48 GMT",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "How likely is a merger of Tesla and SpaceX - and what would it mean for you?",
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 23:04:03 GMT",
@@ -37,15 +43,15 @@
       "sentiment": 0.20833333333333334
     },
     {
-      "title": "Bush family members back Democrat James Talarico in Texas Senate race",
-      "link": "https://www.bbc.co.uk/news/articles/cwx29lk15nxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 17:39:56 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 20:42:43 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bush family members back Democrat James Talarico in Texas Senate race",
+      "link": "https://www.bbc.co.uk/news/articles/cwx29lk15nxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 17:39:56 GMT",
       "sentiment": 0.0
     },
     {
@@ -61,40 +67,16 @@
       "sentiment": 0.19
     },
     {
-      "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 03:45:52 GMT",
-      "sentiment": -0.08
-    },
-    {
-      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 22:22:17 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "'Let's move on': Albertans react to referendum vote",
-      "link": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 19:31:35 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 08:42:49 GMT",
       "sentiment": 0.17857142857142858
     },
     {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 19:30:05 GMT",
-      "sentiment": 0.24
-    },
-    {
-      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
-      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 19:08:06 GMT",
-      "sentiment": 0.0
+      "title": "'Let's move on': Albertans react to referendum vote",
+      "link": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 19:31:35 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "US church on front line of battle against drug known as 'tranq'",
@@ -127,6 +109,18 @@
       "sentiment": -0.20000000000000004
     },
     {
+      "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 03:45:52 GMT",
+      "sentiment": -0.08
+    },
+    {
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 22:22:17 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Huge setback for Alberta's separatist movement after decisive defeat",
       "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 13:39:11 GMT",
@@ -142,18 +136,6 @@
       "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
       "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Oct 2026 21:00:22 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 01:20:16 GMT",
-      "sentiment": -0.1625
-    },
-    {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 05:04:31 GMT",
       "sentiment": 0.13636363636363635
     }
   ]

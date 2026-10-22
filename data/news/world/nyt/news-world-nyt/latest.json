@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+      "published": "Thu, 22 Oct 2026 10:10:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Serbian Election Underscores the Region’s Long Political Limbo",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+      "published": "Thu, 22 Oct 2026 09:01:54 +0000",
+      "sentiment": -0.016666666666666666
+    },
+    {
+      "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
+      "published": "Thu, 22 Oct 2026 09:03:31 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
       "link": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
       "published": "Thu, 22 Oct 2026 04:10:29 +0000",
@@ -14,7 +32,7 @@
     },
     {
       "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/archers-mount-their-steeds-in-pursuit-of-centuries-old-warrior-spirit.html",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
       "published": "Thu, 22 Oct 2026 04:01:19 +0000",
       "sentiment": 0.2
     },
@@ -67,24 +85,6 @@
       "sentiment": 0.08
     },
     {
-      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
-      "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-      "published": "Wed, 21 Oct 2026 19:03:46 +0000",
-      "sentiment": -0.35
-    },
-    {
-      "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-      "published": "Wed, 21 Oct 2026 17:11:32 +0000",
-      "sentiment": -0.18125
-    },
-    {
-      "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
-      "link": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
-      "published": "Wed, 21 Oct 2026 17:06:01 +0000",
-      "sentiment": 0.1520833333333333
-    },
-    {
       "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
       "link": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
       "published": "Thu, 22 Oct 2026 07:30:31 +0000",
@@ -121,10 +121,22 @@
       "sentiment": -0.16642857142857143
     },
     {
+      "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+      "published": "Wed, 21 Oct 2026 17:11:32 +0000",
+      "sentiment": -0.18125
+    },
+    {
       "title": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
       "link": "https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html",
       "published": "Wed, 21 Oct 2026 20:44:40 +0000",
       "sentiment": 0.1875
+    },
+    {
+      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
+      "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+      "published": "Wed, 21 Oct 2026 19:03:46 +0000",
+      "sentiment": -0.35
     },
     {
       "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
@@ -149,6 +161,12 @@
       "link": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
       "published": "Wed, 21 Oct 2026 18:59:00 +0000",
       "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+      "link": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+      "published": "Wed, 21 Oct 2026 17:06:01 +0000",
+      "sentiment": 0.1520833333333333
     },
     {
       "title": "Art Basel Paris Preview Draws Interest Despite Protests",
@@ -281,12 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
       "published": "Tue, 20 Oct 2026 19:00:35 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Deaths at Danjiri Float Festival Prompt Questions in Japan",
-      "link": "https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html",
-      "published": "Tue, 20 Oct 2026 02:20:07 +0000",
-      "sentiment": 0.16666666666666666
     }
   ]
 }

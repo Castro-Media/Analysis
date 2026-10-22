@@ -19,10 +19,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+      "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
       "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 07:17:39 GMT",
-      "sentiment": 0.08484848484848484
+      "published": "Thu, 22 Oct 2026 09:28:04 GMT",
+      "sentiment": -0.0045454545454545565
     },
     {
       "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
@@ -41,6 +41,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 21:45:57 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "MI5 spied on Nye Bevan for more than 20 years, newly released files show",
+      "link": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 09:35:34 GMT",
+      "sentiment": 0.3181818181818182
     },
     {
       "title": "Hull MP has the Labour whip restored",
@@ -157,12 +163,6 @@
       "sentiment": -0.08333333333333333
     },
     {
-      "title": "Reform UK mayor investigated over naked photo claims",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 20:41:21 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "How Jackdaw ignites row over climate and costs",
       "link": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 13:46:34 GMT",
@@ -181,12 +181,6 @@
       "sentiment": 0.225
     },
     {
-      "title": "What is happening to UK prices?",
-      "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 08:35:47 GMT",
-      "sentiment": 0.425
-    },
-    {
       "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
       "link": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 12:54:43 GMT",
@@ -201,8 +195,14 @@
     {
       "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
       "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 16:26:54 GMT",
+      "published": "Thu, 22 Oct 2026 09:35:25 GMT",
       "sentiment": -0.0125
+    },
+    {
+      "title": "What is happening to UK prices?",
+      "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 08:35:47 GMT",
+      "sentiment": 0.425
     },
     {
       "title": "Why the prime minister wants to talk about Brexit again",
@@ -337,6 +337,12 @@
       "sentiment": 0.06666666666666667
     },
     {
+      "title": "'500 new vulnerabilities' found in government, says AI minister",
+      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:08:44 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "How Jackdaw ignites row over climate and costs",
       "link": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 16:51:10 GMT",
@@ -359,12 +365,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 19:31:35 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Immigration protests 'could get worse', says Badenoch",
-      "link": "https://www.bbc.co.uk/news/videos/c54g1vpmpmyro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 12:01:57 GMT",
-      "sentiment": -0.4
     }
   ]
 }
