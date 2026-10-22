@@ -55,16 +55,16 @@
       "sentiment": 0.009090909090909087
     },
     {
-      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
-      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.6
-    },
-    {
       "title": "Examining Becerra's quarter of a century in Washington",
       "link": "https://www.latimes.com/politics/story/2026-10-21/becerras-time-in-washington-steady-rise-with-bumpy-final-ascent",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
       "sentiment": 0.45
+    },
+    {
+      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
+      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
+      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "Lopez: Disney built the monorail in a year. LAX's people mover, almost 8, hasn't left the station",
@@ -157,16 +157,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
-      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.10277777777777779
-    },
-    {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
       "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
+      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.10277777777777779
     },
     {
       "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
@@ -271,12 +271,6 @@
       "sentiment": 0.1452020202020202
     },
     {
-      "title": "Clean transit, poor oversight",
-      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05333333333333333
-    },
-    {
       "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
       "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
@@ -287,6 +281,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": 0.3666666666666667
+    },
+    {
+      "title": "Clean transit, poor oversight",
+      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05333333333333333
     },
     {
       "title": "Two men found dead after standoff with Long Beach police",
@@ -415,22 +415,16 @@
       "sentiment": -0.012499999999999997
     },
     {
+      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
+      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Bass vs. Raman: Who can make housing more affordable?",
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.175
-    },
-    {
-      "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15833333333333335
-    },
-    {
-      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
-      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2125
     },
     {
       "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
@@ -439,10 +433,16 @@
       "sentiment": -0.15000000000000002
     },
     {
-      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
-      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
+      "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
+      "sentiment": -0.2125
+    },
+    {
+      "title": "Bass and Raman trade accusations over ICE — and former LAPD chief Daryl Gates",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15833333333333335
     },
     {
       "title": "Los Angeles city employee among four charged in downtown graffiti spree",
@@ -475,6 +475,12 @@
       "sentiment": 0.15
     },
     {
+      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
+      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4318181818181818
+    },
+    {
       "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
       "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -493,12 +499,6 @@
       "sentiment": -0.0961111111111111
     },
     {
-      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
-      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4318181818181818
-    },
-    {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",
       "link": "https://www.latimes.com/california/story/2026-10-15/latest-california-student-test-scores-results",
       "published": "Thu, 15 Oct 2026 07:01:00 GMT",
@@ -515,12 +515,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-14/cause-of-death-jackie-bald-eagle-revealed",
       "published": "Thu, 15 Oct 2026 03:28:45 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "L.A. city and county remain at odds over who will run key homelessness systems",
-      "link": "https://www.latimes.com/california/story/2026-10-14/la-city-county-remain-at-odds-over-who-will-run-key-homeless-systems",
-      "published": "Wed, 14 Oct 2026 22:48:17 GMT",
-      "sentiment": -0.0625
     }
   ]
 }
