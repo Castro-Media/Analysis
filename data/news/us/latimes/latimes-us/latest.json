@@ -1,7 +1,19 @@
 {
   "entries": [
     {
-      "title": "Delivery worker found dead in trunk of Tesla. Suspect assumed aliases as officials hunted",
+      "title": "Your guide to the California Congressional District 34 race: Gomez vs. Gonzales-Torres",
+      "link": "https://www.latimes.com/california/story/2026-10-21/2026-california-election-congressional-district-34-gomez-gonzales-torres-voter-guide",
+      "published": "Thu, 22 Oct 2026 02:25:03 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Neighbor who allegedly fed coyote involved in Atwater Village attack could be charged",
+      "link": "https://www.latimes.com/california/story/2026-10-21/neighbor-who-allegedly-fed-atwater-village-coyote-could-be-charged",
+      "published": "Thu, 22 Oct 2026 01:44:46 GMT",
+      "sentiment": -0.20000000000000004
+    },
+    {
+      "title": "Delivery worker found dead in trunk of Tesla. Suspect assumed aliases to evade police, officials say",
       "link": "https://www.latimes.com/california/story/2026-10-21/delivery-worker-found-dead-in-trunk-of-tesla-suspect-assumed-aliases-as-officials-hunted",
       "published": "Thu, 22 Oct 2026 00:38:29 GMT",
       "sentiment": -0.2
@@ -19,10 +31,10 @@
       "sentiment": -0.05
     },
     {
-      "title": "Son fatally stabs elderly parents, family dog, in Westminster double homicide, police say",
+      "title": "Son fatally stabs elderly parents and family dog in Westminster double homicide, police say",
       "link": "https://www.latimes.com/california/story/2026-10-21/son-stabs-parents-family-dog-to-death-in-westminster-police-say",
       "published": "Wed, 21 Oct 2026 22:03:43 GMT",
-      "sentiment": -0.3
+      "sentiment": 0.0
     },
     {
       "title": "A California immigrant and a Nevada group, joined by top Democrats, sue over federal election probes",
@@ -509,18 +521,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-14/la-city-county-remain-at-odds-over-who-will-run-key-homeless-systems",
       "published": "Wed, 14 Oct 2026 22:48:17 GMT",
       "sentiment": -0.0625
-    },
-    {
-      "title": "Broken water main spawns sinkhole in Los Feliz, traps Spectrum van",
-      "link": "https://www.latimes.com/california/story/2026-10-14/broken-water-main-spawns-sinkhole-in-los-feliz-traps-spectrum-van",
-      "published": "Wed, 14 Oct 2026 22:36:43 GMT",
-      "sentiment": 0.004166666666666659
-    },
-    {
-      "title": "Man seen in video being punched by Santa Ana police will not face charges in that arrest",
-      "link": "https://www.latimes.com/california/story/2026-10-14/man-seen-in-video-being-punched-by-santa-ana-police-will-not-face-charges-in-that-arrest",
-      "published": "Wed, 14 Oct 2026 22:25:14 GMT",
-      "sentiment": -0.05
     }
   ]
 }
