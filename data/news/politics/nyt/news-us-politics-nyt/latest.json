@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Hakeem Jeffries Launches Final Midterm Sprint for House Majority",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/hakeem-jeffries-hudson-valley-campaign-midterms.html",
+      "published": "Thu, 22 Oct 2026 18:49:51 +0000",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+      "published": "Thu, 22 Oct 2026 18:34:04 +0000",
+      "sentiment": -0.35
+    },
+    {
       "title": "Is Citizens United to Blame for Everything?",
       "link": "https://www.nytimes.com/2026/10/22/us/politics/the-docket-citizens-united-recusals.html",
       "published": "Thu, 22 Oct 2026 16:44:12 +0000",
@@ -27,7 +39,7 @@
     {
       "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
       "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
-      "published": "Thu, 22 Oct 2026 16:04:54 +0000",
+      "published": "Thu, 22 Oct 2026 18:25:41 +0000",
       "sentiment": 0.13636363636363635
     },
     {
@@ -107,42 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
       "published": "Wed, 21 Oct 2026 19:04:32 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
-      "published": "Wed, 21 Oct 2026 19:04:36 +0000",
-      "sentiment": 0.024999999999999994
-    },
-    {
-      "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
-      "published": "Wed, 21 Oct 2026 22:20:05 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Abdul El-Sayed Confronts Attacks on His Faith and Family Ties",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
-      "published": "Wed, 21 Oct 2026 20:20:20 +0000",
-      "sentiment": -0.2333333333333333
-    },
-    {
-      "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-      "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-      "published": "Wed, 21 Oct 2026 18:23:52 +0000",
-      "sentiment": -0.029166666666666646
-    },
-    {
-      "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
-      "published": "Wed, 21 Oct 2026 19:50:08 +0000",
-      "sentiment": -0.024999999999999994
-    },
-    {
-      "title": "Democratic-Aligned Groups Sue Over Federal Crackdown on Voting",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/democratic-lawsuit-election-trump.html",
-      "published": "Wed, 21 Oct 2026 17:19:03 +0000",
-      "sentiment": -0.125
     }
   ]
 }

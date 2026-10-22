@@ -103,6 +103,18 @@
       "sentiment": 0.25
     },
     {
+      "title": "U.S. Stocks Fall as Tech Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 18:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-78d0473d?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 16:56:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e1d91687?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 16:54:00 GMT",
@@ -115,22 +127,10 @@
       "sentiment": 0.3333333333333333
     },
     {
-      "title": "Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower",
-      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 16:37:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "U.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety",
       "link": "https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 16:33:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Treasury Yields Fall as Investors Seek Safe Haven",
-      "link": "https://www.wsj.com/finance/jgb-yield-curve-flattens-amid-continued-ai-related-credit-concerns-4613a92a?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 13:09:00 GMT",
-      "sentiment": 0.3333333333333333
     },
     {
       "title": "European Stock Indexes Fall Sharply as Oil Rises",
@@ -199,6 +199,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/silver-futures-fall-to-lowest-this-year-as-oil-prices-fuel-inflation-risks-f013e561?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 18:34:00 GMT",
+      "sentiment": 0.046936026936026935
+    },
+    {
+      "title": "Comex Gold Settles 2.12% Lower at $4042.80",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 17:42:00 GMT",
+      "sentiment": -0.18703703703703703
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1a1c35f5?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 16:50:00 GMT",
@@ -211,22 +223,10 @@
       "sentiment": 0.10666666666666666
     },
     {
-      "title": "Silver Futures on Track for Lowest Close of the Year",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 16:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Fears of Middle East Escalation Keep Bid in Oil Futures",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 14:13:00 GMT",
       "sentiment": 0.1625
-    },
-    {
-      "title": "China’s Rising Aluminum Output Cushions Gulf Supply Shock",
-      "link": "https://www.wsj.com/finance/commodities-futures/chinas-rising-aluminum-output-cushions-gulf-supply-shock-311b805e?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 96.92",
@@ -325,16 +325,16 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "It’s Too Late for Small Fixes at Pepsi",
-      "link": "https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=rss_markets_main",
-      "published": "Sat, 17 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.10416666666666667
-    },
-    {
       "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son’s Warner Bros. Bid",
       "link": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 23:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "It’s Too Late for Small Fixes at Pepsi",
+      "link": "https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=rss_markets_main",
+      "published": "Sat, 17 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.10416666666666667
     },
     {
       "title": "How to Get All the Tax Benefits From Your Health-Savings Account",
