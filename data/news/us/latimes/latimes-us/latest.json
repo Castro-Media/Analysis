@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "California mayor accused of stalking a hairdresser she thought was an ICE agent",
+      "link": "https://www.latimes.com/california/story/2026-10-22/california-mayor-ice-agent-mistake-stalking-accusation",
+      "published": "Thu, 22 Oct 2026 18:41:20 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Feds allege $2 billion in California healthcare fraud, 15 charged",
+      "link": "https://www.latimes.com/california/story/2026-10-22/california-federal-health-care-fraud-charges",
+      "published": "Thu, 22 Oct 2026 18:14:14 GMT",
+      "sentiment": -0.06000000000000001
+    },
+    {
+      "title": "Three rescued from rushing waters in the San Fernando Valley amid heavy rainfall",
+      "link": "https://www.latimes.com/california/story/2026-10-22/three-rescued-from-rushing-waters-in-san-fernando-valley-amid-heavy-rainfall",
+      "published": "Thu, 22 Oct 2026 17:56:00 GMT",
+      "sentiment": 0.10416666666666667
+    },
+    {
+      "title": "Self-driving Tesla hits and kills 71-year-old pedestrian on California freeway",
+      "link": "https://www.latimes.com/california/story/2026-10-22/self-driving-tesla-hits-kills-71-year-old-california-pedestrian",
+      "published": "Thu, 22 Oct 2026 17:32:28 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Severe turbulence hits L.A.-bound flight from Hawaii, injuring 4 flight attendants",
       "link": "https://www.latimes.com/california/story/2026-10-22/honolulu-to-los-angeles-flight-hits-severe-turbulence-4-flight-attendants-injured",
       "published": "Thu, 22 Oct 2026 16:45:40 GMT",
@@ -13,28 +37,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
-    },
-    {
-      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
-      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
-    },
-    {
       "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
       "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 1.0
     },
     {
       "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
@@ -43,10 +55,22 @@
       "sentiment": -0.10000000000000002
     },
     {
+      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
+      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Rain triggers flooding, erosion concerns across SoCal. Could it stomp out fire season?",
       "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
+      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.7333333333333333
     },
     {
       "title": "Preschool, transitional kindergarten deliver big: 11 months ahead in reading, 8 in math",
@@ -469,16 +493,22 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
       "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
       "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
+    },
+    {
+      "title": "Bass vs. Raman: Who can make housing more affordable?",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.175
+    },
+    {
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
@@ -491,36 +521,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15833333333333335
-    },
-    {
-      "title": "Bass vs. Raman: Who can make housing more affordable?",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "Los Angeles city employee among four charged in downtown graffiti spree",
-      "link": "https://www.latimes.com/california/story/2026-10-15/ladwp-city-employee-among-four-charged-in-downtown-graffiti-spree",
-      "published": "Fri, 16 Oct 2026 01:24:58 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "SoCal woman who registered dog to vote must pay for billboards with her picture on them",
-      "link": "https://www.latimes.com/california/story/2026-10-15/woman-who-registered-dog-to-vote-must-pay-for-billboards-with-her-pic",
-      "published": "Thu, 15 Oct 2026 23:15:07 GMT",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Mortgage lenders probed over how they handled L.A. wildfire insurance payouts",
-      "link": "https://www.latimes.com/business/story/2026-10-15/mortgage-lenders-probed-over-handling-of-la-wildfire-insurance-payouts",
-      "published": "Thu, 15 Oct 2026 21:35:41 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How this Saturday's 'No Kings' protests will be different",
-      "link": "https://www.latimes.com/california/story/2026-10-15/how-this-saturdays-no-kings-day-protests-will-be-different",
-      "published": "Thu, 15 Oct 2026 21:28:06 GMT",
-      "sentiment": 0.0
     }
   ]
 }

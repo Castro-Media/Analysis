@@ -3,7 +3,7 @@
     {
       "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
       "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "published": "Thu, 22 Oct 2026 13:34:27 +0000",
+      "published": "Thu, 22 Oct 2026 18:07:36 +0000",
       "sentiment": 0.05
     },
     {
@@ -13,9 +13,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "In the Wake of Riots, French Authorities Ban Some Protests",
+      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
-      "published": "Thu, 22 Oct 2026 16:09:51 +0000",
+      "published": "Thu, 22 Oct 2026 18:48:40 +0000",
       "sentiment": 0.10000000000000002
     },
     {
@@ -27,7 +27,7 @@
     {
       "title": "Serbian Election Underscores the Region’s Long Political Limbo",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
-      "published": "Thu, 22 Oct 2026 09:01:54 +0000",
+      "published": "Thu, 22 Oct 2026 17:03:13 +0000",
       "sentiment": -0.016666666666666666
     },
     {
@@ -39,7 +39,7 @@
     {
       "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
       "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
-      "published": "Thu, 22 Oct 2026 13:07:10 +0000",
+      "published": "Thu, 22 Oct 2026 17:39:10 +0000",
       "sentiment": 0.6
     },
     {
@@ -85,9 +85,15 @@
       "sentiment": 0.19374999999999998
     },
     {
+      "title": "He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.",
+      "link": "https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html",
+      "published": "Thu, 22 Oct 2026 18:39:27 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html",
-      "published": "Thu, 22 Oct 2026 16:30:28 +0000",
+      "published": "Thu, 22 Oct 2026 17:14:29 +0000",
       "sentiment": -0.0016666666666666635
     },
     {
@@ -99,7 +105,7 @@
     {
       "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
       "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-      "published": "Thu, 22 Oct 2026 15:55:07 +0000",
+      "published": "Thu, 22 Oct 2026 15:55:08 +0000",
       "sentiment": -0.075
     },
     {
@@ -137,6 +143,12 @@
       "link": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
       "published": "Wed, 21 Oct 2026 21:05:46 +0000",
       "sentiment": -0.16642857142857143
+    },
+    {
+      "title": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
+      "published": "Wed, 21 Oct 2026 19:04:36 +0000",
+      "sentiment": 0.024999999999999994
     },
     {
       "title": "Delhi’s Winter Season of Polluted Air Begins",
@@ -269,24 +281,6 @@
       "link": "https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html",
       "published": "Tue, 20 Oct 2026 12:34:57 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Yemeni City of Taiz Running Out of Essentials as Houthis Close in",
-      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html",
-      "published": "Tue, 20 Oct 2026 14:28:29 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
-      "link": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
-      "published": "Wed, 21 Oct 2026 08:19:20 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
-      "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
-      "published": "Tue, 20 Oct 2026 18:01:58 +0000",
-      "sentiment": 0.5
     }
   ]
 }
