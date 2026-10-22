@@ -67,6 +67,18 @@
       "sentiment": 0.1
     },
     {
+      "title": "Deckers Cuts Sales Outlook Amid Slower Hoka, Ugg Growth",
+      "link": "https://www.wsj.com/business/earnings/deckers-cuts-sales-outlook-amid-slower-hoka-ugg-growth-84f46d5c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 20:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bloom Energy Lifts Outlook, Logs Higher Profit",
+      "link": "https://www.wsj.com/business/earnings/bloom-energy-lifts-outlook-logs-higher-profit-c36d68c8?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 20:33:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Kering’s Sales Lose Steam in Struggling Luxury Market",
       "link": "https://www.wsj.com/business/retail/kerings-sales-lose-steam-in-struggling-luxury-market-2154c2d6?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 17:21:00 GMT",
@@ -85,16 +97,10 @@
       "sentiment": -0.0625
     },
     {
-      "title": "Lockheed Martin Bumps Up Yearly Outlook as Backlog Hits Record",
-      "link": "https://www.wsj.com/business/earnings/lockheed-martin-bumps-up-yearly-outlook-as-backlog-hits-record-b2e58e35?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:59:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Prada Sales Cool as Luxury Recovery Fades",
-      "link": "https://www.wsj.com/business/retail/prada-sales-cool-as-luxury-recovery-fades-046ac0ad?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:08:00 GMT",
-      "sentiment": 0.35
+      "title": "Western Digital Profit Grows on Data Storage Demand",
+      "link": "https://www.wsj.com/business/earnings/western-digital-profit-grows-on-data-storage-demand-28a69a7d?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 20:22:00 GMT",
+      "sentiment": 0.08333333333333333
     },
     {
       "title": "American Airlines Sees Another Quarterly Loss as Fuel Costs Rise",
@@ -115,16 +121,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "SAP Weighs New Metric to Showcase AI Impact on Business",
-      "link": "https://www.wsj.com/business/earnings/sap-weighs-new-metric-to-showcase-ai-impact-on-business-c485302f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:50:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Procter & Gamble’s Sales Offset Rising Fuel Costs",
-      "link": "https://www.wsj.com/business/earnings/procter-gambles-sales-offset-rising-fuel-costs-463656a0?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:13:00 GMT",
-      "sentiment": 0.25
+      "title": "Lockheed Martin Bumps Up Yearly Outlook as Backlog Hits Record",
+      "link": "https://www.wsj.com/business/earnings/lockheed-martin-bumps-up-yearly-outlook-as-backlog-hits-record-b2e58e35?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 11:59:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Toyota Reckons With Short Supply of Its Most Popular SUV",
@@ -193,10 +193,10 @@
       "sentiment": -0.6
     },
     {
-      "title": "Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
+      "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 12:51:00 GMT",
-      "sentiment": 0.22000000000000003
+      "published": "Thu, 22 Oct 2026 19:29:00 GMT",
+      "sentiment": 0.15499999999999997
     },
     {
       "title": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
@@ -313,6 +313,18 @@
       "sentiment": -0.05
     },
     {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-471384ba?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 20:52:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
+      "link": "https://www.wsj.com/politics/trump-must-sit-for-deposition-in-bbc-lawsuit-judge-orders-3ea44939?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 19:09:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Communications Group Common Interest Buys a Stake in Creative Agency Mirimar",
       "link": "https://www.wsj.com/cmo-today/communications-group-common-interest-buys-a-stake-in-creative-agency-mirimar-9747a734?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:16:00 GMT",
@@ -329,18 +341,6 @@
       "link": "https://www.wsj.com/cmo-today/coterie-targets-uneven-mental-load-in-parenting-with-an-ad-in-golf-digest-078d9f47?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 13:45:00 GMT",
       "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son’s Warner Bros. Bid",
-      "link": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
-      "link": "https://www.wsj.com/business/earnings/netflix-revenue-growth-slows-as-it-overhauls-programming-units-d6eac0b5?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 21:46:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "GM Narrows Outlook on Commodity, Logistics Costs",
@@ -371,12 +371,6 @@
       "link": "https://www.wsj.com/business/driverless-trucks-18-wheeler-aurora-35b89c45?mod=pls_whats_news_us_business_f",
       "published": "Sat, 17 Oct 2026 00:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-471384ba?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 16:47:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "How Does the Ukrainian Military Use Starlink?",
@@ -433,6 +427,12 @@
       "sentiment": 0.15555555555555556
     },
     {
+      "title": "Can a $9 Million Robot Save Our Aging Sewers?",
+      "link": "https://www.wsj.com/business/entrepreneurship/can-a-9-million-robot-save-our-aging-sewers-f090dcaf?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 16 Oct 2026 15:55:00 GMT",
+      "sentiment": 0.21818181818181817
+    },
+    {
       "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
       "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
@@ -475,6 +475,12 @@
       "sentiment": -0.2
     },
     {
+      "title": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media",
+      "link": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-data-leaks-early-shares-plummet-f6bc4b4f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 20:30:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
       "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
       "link": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 01:00:00 GMT",
@@ -485,12 +491,6 @@
       "link": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 00:32:00 GMT",
       "sentiment": 0.0909090909090909
-    },
-    {
-      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
-      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:05:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in October 2026",
