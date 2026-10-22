@@ -9,7 +9,7 @@
     {
       "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
       "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
-      "published": "Wed, 21 Oct 2026 16:47:25 +0000",
+      "published": "Wed, 21 Oct 2026 16:47:26 +0000",
       "sentiment": 0.0
     },
     {
@@ -21,7 +21,7 @@
     {
       "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
       "link": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
-      "published": "Wed, 21 Oct 2026 16:51:53 +0000",
+      "published": "Thu, 22 Oct 2026 03:26:58 +0000",
       "sentiment": 0.19374999999999998
     },
     {
@@ -45,7 +45,7 @@
     {
       "title": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
       "link": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html",
-      "published": "Wed, 21 Oct 2026 13:10:44 +0000",
+      "published": "Wed, 21 Oct 2026 13:10:45 +0000",
       "sentiment": 0.08
     },
     {
@@ -57,7 +57,7 @@
     {
       "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
       "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
-      "published": "Wed, 21 Oct 2026 17:11:31 +0000",
+      "published": "Wed, 21 Oct 2026 17:11:32 +0000",
       "sentiment": -0.18125
     },
     {
@@ -83,6 +83,24 @@
       "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
       "published": "Wed, 21 Oct 2026 14:43:43 +0000",
       "sentiment": -0.09999999999999998
+    },
+    {
+      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
+      "published": "Thu, 22 Oct 2026 04:22:51 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/archers-mount-their-steeds-in-pursuit-of-centuries-old-warrior-spirit.html",
+      "published": "Thu, 22 Oct 2026 04:01:19 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+      "published": "Thu, 22 Oct 2026 04:10:29 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
@@ -111,7 +129,7 @@
     {
       "title": "A Debt-Fueled “Doom Loop”",
       "link": "https://www.nytimes.com/2026/10/21/world/debt-france-protests-russia-us.html",
-      "published": "Wed, 21 Oct 2026 20:41:12 +0000",
+      "published": "Thu, 22 Oct 2026 04:45:28 +0000",
       "sentiment": 0.29523809523809524
     },
     {
@@ -147,7 +165,7 @@
     {
       "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
       "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-      "published": "Wed, 21 Oct 2026 03:15:01 +0000",
+      "published": "Wed, 21 Oct 2026 03:15:02 +0000",
       "sentiment": 0.05
     },
     {
@@ -249,7 +267,7 @@
     {
       "title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
       "link": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
-      "published": "Tue, 20 Oct 2026 11:06:36 +0000",
+      "published": "Tue, 20 Oct 2026 11:06:37 +0000",
       "sentiment": 0.08333333333333334
     },
     {
@@ -275,24 +293,6 @@
       "link": "https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html",
       "published": "Tue, 20 Oct 2026 06:50:26 +0000",
       "sentiment": -0.25000000000000006
-    },
-    {
-      "title": "Italy Faces Parallel Protests in the North and South",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
-      "published": "Mon, 19 Oct 2026 21:55:10 +0000",
-      "sentiment": -0.098
-    },
-    {
-      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
-      "published": "Mon, 19 Oct 2026 22:20:21 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
-      "link": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
-      "published": "Mon, 19 Oct 2026 21:57:02 +0000",
-      "sentiment": 0.05
     }
   ]
 }
