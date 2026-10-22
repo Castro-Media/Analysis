@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+      "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+      "published": "Thu, 22 Oct 2026 16:26:52 +0000",
+      "sentiment": -0.05555555555555555
+    },
+    {
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "published": "Thu, 22 Oct 2026 15:55:07 +0000",
+      "sentiment": -0.075
+    },
+    {
       "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
       "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-      "published": "Thu, 22 Oct 2026 14:34:09 +0000",
+      "published": "Thu, 22 Oct 2026 16:22:28 +0000",
       "sentiment": -0.09083333333333334
     },
     {
@@ -27,8 +39,8 @@
     {
       "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "published": "Thu, 22 Oct 2026 11:48:14 +0000",
-      "sentiment": -0.05
+      "published": "Thu, 22 Oct 2026 16:01:35 +0000",
+      "sentiment": 0.3
     },
     {
       "title": "Iowa, Usually Red, Is in Play This Midterm as Economic Woes Mount",
@@ -39,7 +51,7 @@
     {
       "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
       "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
-      "published": "Thu, 22 Oct 2026 09:03:14 +0000",
+      "published": "Thu, 22 Oct 2026 16:15:25 +0000",
       "sentiment": 0.19318181818181818
     },
     {
@@ -57,7 +69,7 @@
     {
       "title": "When Do Rules on Historic Preservation Go Too Far?",
       "link": "https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html",
-      "published": "Thu, 22 Oct 2026 09:01:43 +0000",
+      "published": "Thu, 22 Oct 2026 15:24:38 +0000",
       "sentiment": 0.05
     },
     {
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
       "published": "Mon, 19 Oct 2026 16:51:47 +0000",
       "sentiment": 0.2111111111111111
-    },
-    {
-      "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
-      "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
-      "published": "Mon, 19 Oct 2026 18:39:37 +0000",
-      "sentiment": -0.025
-    },
-    {
-      "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
-      "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
-      "published": "Sun, 18 Oct 2026 09:00:50 +0000",
-      "sentiment": -0.0022222222222221997
     }
   ]
 }

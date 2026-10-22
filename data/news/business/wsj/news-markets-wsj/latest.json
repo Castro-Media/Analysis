@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Slide After Mideast Tensions Push Oil Higher",
+      "title": "Stock Market Today: Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 07:55:42 GMT",
-      "sentiment": 0.25
+      "sentiment": 0.0
     },
     {
       "title": "Blackstone’s Core Businesses Hit by Rising Rates",
@@ -103,34 +103,34 @@
       "sentiment": 0.25
     },
     {
-      "title": "Stocks Slide After Mideast Tensions Push Oil Higher",
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e1d91687?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 16:54:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-cb393691?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 16:49:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower",
       "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 14:06:00 GMT",
-      "sentiment": 0.125
+      "published": "Thu, 22 Oct 2026 16:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety",
+      "link": "https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 16:33:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Treasury Yields Fall as Investors Seek Safe Haven",
       "link": "https://www.wsj.com/finance/jgb-yield-curve-flattens-amid-continued-ai-related-credit-concerns-4613a92a?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 13:09:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "PE Firms Are Holding Investments Longer—and Changing Leaders More",
-      "link": "https://www.wsj.com/cfo-journal/pe-firms-are-holding-investments-longerand-changing-leaders-more-2d0bb31a?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 10:55:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Hot Healthcare Stocks Could Outperform for Years",
-      "link": "https://www.wsj.com/finance/investing/hot-healthcare-stocks-could-outperform-for-years-47486fa8?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 10:51:00 GMT",
-      "sentiment": 0.5833333333333334
-    },
-    {
-      "title": "French Government-Bond Yields Jump, Spread Widens as Treasury Yields Fall",
-      "link": "https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 10:48:00 GMT",
-      "sentiment": 0.06785714285714285
     },
     {
       "title": "European Stock Indexes Fall Sharply as Oil Rises",
@@ -199,10 +199,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Natural Gas Futures Steady Ahead of Inventory Data",
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1a1c35f5?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 16:50:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "U.S. Natural Gas Inventories Increase As Expected",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-ahead-of-inventory-data-5d0fb57d?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 14:16:00 GMT",
-      "sentiment": 0.044791666666666674
+      "published": "Thu, 22 Oct 2026 16:22:00 GMT",
+      "sentiment": 0.10666666666666666
+    },
+    {
+      "title": "Silver Futures on Track for Lowest Close of the Year",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 16:18:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Fears of Middle East Escalation Keep Bid in Oil Futures",
@@ -211,22 +223,10 @@
       "sentiment": 0.1625
     },
     {
-      "title": "Gold Faces ‘Difficult Cocktail’",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 13:56:00 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "China’s Rising Aluminum Output Cushions Gulf Supply Shock",
       "link": "https://www.wsj.com/finance/commodities-futures/chinas-rising-aluminum-output-cushions-gulf-supply-shock-311b805e?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "A Food Crisis Could Follow the Energy Crisis",
-      "link": "https://www.wsj.com/economy/a-food-crisis-could-follow-the-energy-crisis-4c28609b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 09:57:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 96.92",

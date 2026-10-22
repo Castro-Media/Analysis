@@ -9,19 +9,19 @@
     {
       "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "published": "Thu, 22 Oct 2026 11:11:44 +0000",
+      "published": "Thu, 22 Oct 2026 15:22:53 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "In Wake of Riots, French Authorities Ban Some Protests",
-      "link": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
-      "published": "Thu, 22 Oct 2026 12:54:19 +0000",
+      "title": "In the Wake of Riots, French Authorities Ban Some Protests",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+      "published": "Thu, 22 Oct 2026 16:09:51 +0000",
       "sentiment": 0.10000000000000002
     },
     {
       "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
-      "published": "Thu, 22 Oct 2026 13:36:46 +0000",
+      "published": "Thu, 22 Oct 2026 15:44:46 +0000",
       "sentiment": 0.09999999999999999
     },
     {
@@ -33,8 +33,8 @@
     {
       "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "published": "Thu, 22 Oct 2026 11:48:14 +0000",
-      "sentiment": -0.05
+      "published": "Thu, 22 Oct 2026 16:01:35 +0000",
+      "sentiment": 0.3
     },
     {
       "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
@@ -85,6 +85,24 @@
       "sentiment": 0.19374999999999998
     },
     {
+      "title": "Italy Experiences Food and Fuel Shortages After Truckers on Strike Block Roads",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/italy-protests-shortages-truckers.html",
+      "published": "Thu, 22 Oct 2026 16:30:28 +0000",
+      "sentiment": -0.0016666666666666635
+    },
+    {
+      "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
+      "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
+      "published": "Thu, 22 Oct 2026 16:41:13 +0000",
+      "sentiment": 0.12878787878787878
+    },
+    {
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "published": "Thu, 22 Oct 2026 15:55:07 +0000",
+      "sentiment": -0.075
+    },
+    {
       "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
       "link": "https://www.nytimes.com/2026/10/21/world/australia/green-egg-cassowary-zoo-australia.html",
       "published": "Thu, 22 Oct 2026 07:30:31 +0000",
@@ -105,7 +123,7 @@
     {
       "title": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
       "link": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
-      "published": "Wed, 21 Oct 2026 20:47:34 +0000",
+      "published": "Wed, 21 Oct 2026 20:47:35 +0000",
       "sentiment": -0.125
     },
     {
@@ -269,36 +287,6 @@
       "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
       "published": "Tue, 20 Oct 2026 18:01:58 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Google Reports Cloud Disruptions in Europe",
-      "link": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
-      "published": "Tue, 20 Oct 2026 13:04:12 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-      "published": "Tue, 20 Oct 2026 16:06:13 +0000",
-      "sentiment": 0.30000000000000004
-    },
-    {
-      "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
-      "published": "Tue, 20 Oct 2026 12:59:23 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
-      "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
-      "published": "Wed, 21 Oct 2026 06:55:45 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
-      "link": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
-      "published": "Tue, 20 Oct 2026 09:00:10 +0000",
-      "sentiment": 0.0
     }
   ]
 }

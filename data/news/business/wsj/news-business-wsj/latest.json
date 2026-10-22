@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e1d91687?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 16:54:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
       "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:16:00 GMT",
@@ -31,10 +37,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
-      "link": "https://www.wsj.com/business/carrier-plans-600-million-texas-plant-to-make-cooling-gear-for-ai-data-centers-01c1a1dc?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
+      "title": "Nippon’s U.S. Steel to Invest Nearly $3 Billion in Hot Strip Mill Near Pittsburgh",
+      "link": "https://www.wsj.com/business/nippons-u-s-steel-to-invest-nearly-3-billion-in-hot-strip-mill-near-pittsburgh-b9784176?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 15:55:00 GMT",
+      "sentiment": 0.16249999999999998
     },
     {
       "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
@@ -61,10 +67,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "Tradeweb to Buy Trumid For About $1.97 Billion",
-      "link": "https://www.wsj.com/business/deals/tradeweb-to-buy-trumid-for-about-1-97-billion-1fd21bdb?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 21:49:00 GMT",
-      "sentiment": -0.025
+      "title": "L’Oreal Eyes Profit Rise This Year as Sales Keep Growing",
+      "link": "https://www.wsj.com/business/earnings/loreal-eyes-profit-rise-this-year-as-sales-keep-growing-d1cbee8f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 16:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Kering’s Sales Lose Steam in Struggling Luxury Market",
+      "link": "https://www.wsj.com/business/retail/kerings-sales-lose-steam-in-struggling-luxury-market-2154c2d6?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 16:22:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Dow’s Profit Rises Sharply on Cost Cuts, Sales Growth",
@@ -85,16 +97,10 @@
       "sentiment": 0.35
     },
     {
-      "title": "Nestle Sales Boosted By Hot Pockets and Frozen Pizza in U.S.",
-      "link": "https://www.wsj.com/business/retail/nestle-sales-rise-with-petcare-food-growth-in-americas-2aa8e69f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 10:44:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Honeywell Technologies Raises Outlook as Sales Climb",
-      "link": "https://www.wsj.com/business/earnings/honeywell-technologies-raises-outlook-as-sales-climb-cafb5ca6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 10:41:00 GMT",
-      "sentiment": 0.22777777777777777
+      "title": "American Airlines Sees Another Quarterly Loss as Fuel Costs Rise",
+      "link": "https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 15:24:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
@@ -106,12 +112,6 @@
       "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
       "link": "https://www.wsj.com/business/earnings/comcasts-domestic-broadband-subscriber-losses-continue-b8954ae6?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:46:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "American Airlines Forecasts Another Quarterly Loss on Surging Fuel Costs",
-      "link": "https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 13:07:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,6 +199,12 @@
       "sentiment": 0.22000000000000003
     },
     {
+      "title": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
+      "link": "https://www.wsj.com/business/carrier-plans-600-million-texas-plant-to-make-cooling-gear-for-ai-data-centers-01c1a1dc?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Aramco CEO Says East-West Pipeline Capacity Could Reach 10 Million Barrels a Day",
       "link": "https://www.wsj.com/business/energy-oil/aramco-ceo-says-east-west-pipeline-capacity-could-reach-10-million-barrels-a-day-d761c76e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:15:00 GMT",
@@ -217,10 +223,10 @@
       "sentiment": 0.12
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-67302aa2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 21:16:00 GMT",
-      "sentiment": 0.10000000000000002
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-cb393691?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 16:49:00 GMT",
+      "sentiment": 0.3333333333333333
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/us-news/air-traffic-controllers-reach-deal-with-faa-for-2-8-pay-increase-5eb91365?mod=pls_whats_news_us_business_f",
       "published": "Fri, 16 Oct 2026 22:06:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "The Mystery of the Disappearing Airplane Barf Bag",
-      "link": "https://www.wsj.com/lifestyle/travel/the-mystery-of-the-disappearing-airplane-barf-bag-23bdeb3f?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.03333333333333333
     },
     {
       "title": "PE Firms Are Holding Investments Longer—and Changing Leaders More",
@@ -373,6 +373,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-471384ba?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 16:47:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "How Does the Ukrainian Military Use Starlink?",
       "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 23:49:00 GMT",
@@ -427,12 +433,6 @@
       "sentiment": 0.15555555555555556
     },
     {
-      "title": "Can a $9 Million Robot Save Our Aging Sewers?",
-      "link": "https://www.wsj.com/business/entrepreneurship/can-a-9-million-robot-save-our-aging-sewers-f090dcaf?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 15:55:00 GMT",
-      "sentiment": 0.21818181818181817
-    },
-    {
       "title": "Japan’s Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
       "link": "https://www.wsj.com/business/japans-top-labor-union-targets-big-pay-bump-in-line-with-boj-aims-405df73f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 07:25:00 GMT",
@@ -469,10 +469,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
-      "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 02:00:00 GMT",
-      "sentiment": -0.09722222222222222
+      "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
+      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
@@ -481,10 +481,10 @@
       "sentiment": 0.16
     },
     {
-      "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
-      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "sentiment": -0.2
+      "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
+      "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 02:00:00 GMT",
+      "sentiment": -0.09722222222222222
     },
     {
       "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",

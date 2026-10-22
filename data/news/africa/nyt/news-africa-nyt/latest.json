@@ -1,10 +1,16 @@
 {
   "entries": [
     {
+      "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
+      "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
+      "published": "Thu, 22 Oct 2026 16:41:13 +0000",
+      "sentiment": 0.12878787878787878
+    },
+    {
       "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "published": "Thu, 22 Oct 2026 11:48:14 +0000",
-      "sentiment": -0.05
+      "published": "Thu, 22 Oct 2026 16:01:35 +0000",
+      "sentiment": 0.3
     },
     {
       "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
       "published": "Sat, 10 Oct 2026 13:35:59 +0000",
       "sentiment": 0.10909090909090909
-    },
-    {
-      "title": "Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence",
-      "link": "https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html",
-      "published": "Sun, 11 Oct 2026 03:03:39 +0000",
-      "sentiment": -0.49999999999999994
     }
   ]
 }
