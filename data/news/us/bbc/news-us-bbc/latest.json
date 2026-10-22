@@ -7,6 +7,36 @@
       "sentiment": 0.525
     },
     {
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 03:05:28 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How likely is a merger of Tesla and SpaceX - and what would it mean for you?",
+      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 23:04:03 GMT",
+      "sentiment": -0.15625
+    },
+    {
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 22:54:58 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
+      "link": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 22:20:22 GMT",
+      "sentiment": -0.13181818181818186
+    },
+    {
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 21:49:07 GMT",
+      "sentiment": 0.20833333333333334
+    },
+    {
       "title": "Bush family members back Democrat James Talarico in Texas Senate race",
       "link": "https://www.bbc.co.uk/news/articles/cwx29lk15nxxo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 17:39:56 GMT",
@@ -17,36 +47,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 20:42:43 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 21:49:07 GMT",
-      "sentiment": 0.20833333333333334
-    },
-    {
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 03:05:28 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 22:54:58 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "How likely is a merger of Tesla and SpaceX - and what would it mean for you?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 23:04:03 GMT",
-      "sentiment": -0.15625
-    },
-    {
-      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 02:37:13 GMT",
-      "sentiment": -0.20000000000000004
     },
     {
       "title": "Google staff resign in backlash over its AI contracts with military",
@@ -119,6 +119,12 @@
       "link": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 08:19:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 02:37:13 GMT",
+      "sentiment": -0.20000000000000004
     },
     {
       "title": "Huge setback for Alberta's separatist movement after decisive defeat",

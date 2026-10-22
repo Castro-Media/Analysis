@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Preschool, transitional kindergarten deliver big: 11 months ahead in reading, 8 in math",
+      "link": "https://www.latimes.com/california/story/2026-10-21/transitional-kindergarten-academic-success-math-reading",
+      "published": "Thu, 22 Oct 2026 06:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Your guide to the California Congressional District 34 race: Gomez vs. Gonzales-Torres",
       "link": "https://www.latimes.com/california/story/2026-10-21/2026-california-election-congressional-district-34-gomez-gonzales-torres-voter-guide",
       "published": "Thu, 22 Oct 2026 02:25:03 GMT",
@@ -61,16 +67,16 @@
       "sentiment": 0.45
     },
     {
-      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
-      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.6
-    },
-    {
       "title": "Lopez: Disney built the monorail in a year. LAX's people mover, almost 8, hasn't left the station",
       "link": "https://www.latimes.com/california/story/2026-10-21/lopez-column-lax-skylink-people-mover-delays",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
+      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
+      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "After their 13-year-old died in an e-motorcycle crash, they're facing charges",
@@ -157,6 +163,12 @@
       "sentiment": 0.13333333333333333
     },
     {
+      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
+      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.13333333333333336
+    },
+    {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
       "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
@@ -167,12 +179,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.10277777777777779
-    },
-    {
-      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
-      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.13333333333333336
     },
     {
       "title": "Residents fight for anti-camping zone at 6th Street Bridge park",
@@ -271,10 +277,10 @@
       "sentiment": 0.1452020202020202
     },
     {
-      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
-      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
+      "title": "Clean transit, poor oversight",
+      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.11666666666666668
+      "sentiment": -0.05333333333333333
     },
     {
       "title": "'He's everywhere': This California Republican wants to make his party relevant again",
@@ -283,10 +289,10 @@
       "sentiment": 0.3666666666666667
     },
     {
-      "title": "Clean transit, poor oversight",
-      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
+      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
+      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05333333333333333
+      "sentiment": -0.11666666666666668
     },
     {
       "title": "Two men found dead after standoff with Long Beach police",
@@ -325,6 +331,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "New research shows how microplastics and water interactions could lead to cell damage",
+      "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
+      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0909090909090909
+    },
+    {
       "title": "Lopez: It's been a great romance, but it's time to rethink our relationship with the California coast",
       "link": "https://www.latimes.com/california/story/2026-10-17/its-time-to-rethink-our-relationship-with-california-coast",
       "published": "Sat, 17 Oct 2026 12:00:00 GMT",
@@ -337,22 +349,16 @@
       "sentiment": 0.2606060606060606
     },
     {
-      "title": "New research shows how microplastics and water interactions could lead to cell damage",
-      "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
-      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0909090909090909
+      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
+      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.08249999999999999
     },
     {
       "title": "SoCal braces for another day of heat and winds as fire destroys homes in Orange County",
       "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
-      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08249999999999999
     },
     {
       "title": "Luna, a 10-year-old Jack Russell, just survived a month loose in Yellowstone National Park",
@@ -415,24 +421,6 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
-      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Bass vs. Raman: Who can make housing more affordable?",
-      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
-      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
-      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
       "title": "A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department",
       "link": "https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
@@ -443,6 +431,24 @@
       "link": "https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15833333333333335
+    },
+    {
+      "title": "LAPD chief becomes polarizing figure as Bass and Raman diverge on handling of police",
+      "link": "https://www.latimes.com/california/story/2026-10-16/lapd-chief-bass-raman-mayoral-race-police-department",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "Chaotic scene as Norte fire burns homes in Orange County, fierce winds fan other blazes",
+      "link": "https://www.latimes.com/california/story/2026-10-16/crews-battle-malibu-fire-socal-braces-for-another-day-of-santa-ana-winds",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Bass vs. Raman: Who can make housing more affordable?",
+      "link": "https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable",
+      "published": "Fri, 16 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.175
     },
     {
       "title": "Los Angeles city employee among four charged in downtown graffiti spree",
@@ -475,18 +481,6 @@
       "sentiment": 0.15
     },
     {
-      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
-      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.4318181818181818
-    },
-    {
-      "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
-      "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15666666666666668
-    },
-    {
       "title": "L.A. voters worry about outside influence in midterm elections, new poll finds",
       "link": "https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -497,6 +491,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-15/santa-monica-mountains-parks-close-red-flag-warning",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": -0.0961111111111111
+    },
+    {
+      "title": "Climate change is weakening Santa Ana winds — but won't save SoCal from devastating fires",
+      "link": "https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.4318181818181818
+    },
+    {
+      "title": "California EV owners, beware: El Niño flooding brings risk of serious battery fires",
+      "link": "https://www.latimes.com/california/story/2026-10-15/ev-owners-beware-el-nino-flooding-brings-risk-of-battery-fires",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.15666666666666668
     },
     {
       "title": "California test scores creep up, but still fail to offset pandemic setbacks six years later",

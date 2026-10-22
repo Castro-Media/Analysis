@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Japan’s Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
+      "link": "https://www.wsj.com/business/japans-top-labor-union-targets-big-pay-bump-in-line-with-boj-aims-405df73f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 07:25:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Mark Zuckerberg Threatened to Leave California. Meta’s Board Cut Him a Deal.",
       "link": "https://www.wsj.com/business/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-21b0b522?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 04:57:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 23:49:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "Meta Is Getting Creative to Fund Its Massive AI Investments",
-      "link": "https://www.wsj.com/tech/meta-is-getting-creative-to-fund-its-massive-ai-investments-c6fa41b7?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 21:41:00 GMT",
-      "sentiment": 0.2142857142857143
     },
     {
       "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
@@ -67,16 +67,22 @@
       "sentiment": -0.025
     },
     {
+      "title": "UCB Shares Jump After Demand for Immunology Drug Bimzelx Boosts Outlook",
+      "link": "https://www.wsj.com/business/retail/ucb-shares-jump-after-demand-for-immunology-drug-bimzelx-boosts-outlook-73a9ff8a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 08:23:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
+      "title": "Nestle Sales Get Boost From Rebound of Hot Pockets and Frozen Pizza in America",
+      "link": "https://www.wsj.com/business/retail/nestle-sales-rise-with-petcare-food-growth-in-americas-2aa8e69f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 08:10:00 GMT",
+      "sentiment": 0.041666666666666664
+    },
+    {
       "title": "Hermes Sales Growth Slows as Luxury Backdrop Remains Tough",
       "link": "https://www.wsj.com/business/retail/hermes-sales-growth-slows-as-luxury-backdrop-remains-tough-c564ed84?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 06:58:00 GMT",
       "sentiment": -0.19444444444444445
-    },
-    {
-      "title": "Nokia Reports Continued Strength From AI, Data-Center Rollout",
-      "link": "https://www.wsj.com/business/earnings/nokia-reports-continued-strength-from-ai-data-center-rollout-81706d8a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 05:46:00 GMT",
-      "sentiment": 0.6
     },
     {
       "title": "Roche Posts Higher Sales on Growth Across Pharma, Diagnostics Units",
@@ -85,16 +91,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "Nestle Sales Rise With Petcare, Food Growth in Americas",
-      "link": "https://www.wsj.com/business/retail/nestle-sales-rise-with-petcare-food-growth-in-americas-2aa8e69f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 05:32:00 GMT",
-      "sentiment": -0.041666666666666664
-    },
-    {
       "title": "IBM Reports Higher Profit as Some Delayed Deals Come Through",
       "link": "https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 20:19:00 GMT",
       "sentiment": -0.033333333333333326
+    },
+    {
+      "title": "Nokia Reports Continued Strength From Data-Center Rollout",
+      "link": "https://www.wsj.com/business/earnings/nokia-reports-continued-strength-from-ai-data-center-rollout-81706d8a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 08:10:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "Barclays Pretax Profit Misses Estimates on Fixed-Income Weakness",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 00:32:00 GMT",
       "sentiment": 0.0909090909090909
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e0a8366d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 21:13:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Tesla Logs Surge in European Monthly Sales",
@@ -193,6 +193,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 07:57:00 GMT",
+      "sentiment": 0.22000000000000003
+    },
+    {
+      "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe",
+      "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 07:51:00 GMT",
+      "sentiment": 0.08916666666666667
+    },
+    {
       "title": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount",
       "link": "https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 06:30:00 GMT",
@@ -205,22 +217,10 @@
       "sentiment": 0.10000000000000002
     },
     {
-      "title": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-hormuz-shipping-risks-persist-7df58bc8?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 19:51:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Crude Oil Stockpiles Fall More Than Expected",
-      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-f8fbe807?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 15:24:00 GMT",
-      "sentiment": -0.23555555555555557
-    },
-    {
-      "title": "Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field",
-      "link": "https://www.wsj.com/business/energy-oil/jackdaw-gas-field-gets-green-light-from-u-k-government-19994ecc?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 09:48:00 GMT",
-      "sentiment": 0.55
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e0a8366d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 21:13:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Boeing’s Last 737 MAX Jet Gets Approval to Carry Passengers",
@@ -433,6 +433,12 @@
       "sentiment": 0.21818181818181817
     },
     {
+      "title": "Meta Is Getting Creative to Fund Its Massive AI Investments",
+      "link": "https://www.wsj.com/tech/meta-is-getting-creative-to-fund-its-massive-ai-investments-c6fa41b7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 21:41:00 GMT",
+      "sentiment": 0.2142857142857143
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 21:16:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.06818181818181818
     },
     {
-      "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
-      "link": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 09:47:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
       "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 02:00:00 GMT",
@@ -481,16 +481,16 @@
       "sentiment": 0.0909090909090909
     },
     {
-      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
-      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:05:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
       "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 00:00:00 GMT",
       "sentiment": -0.2
+    },
+    {
+      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:05:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in October 2026",
