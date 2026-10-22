@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Monet Painting Sells for $56 Million in France",
+      "link": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
+      "published": "Thu, 22 Oct 2026 20:25:17 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
       "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-      "published": "Thu, 22 Oct 2026 16:26:52 +0000",
+      "published": "Thu, 22 Oct 2026 19:18:58 +0000",
       "sentiment": -0.05555555555555555
     },
     {
@@ -31,10 +37,10 @@
       "sentiment": 0.03125
     },
     {
-      "title": "Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks",
+      "title": "Stocks See Steepest Decline in Months Amid A.I. Worries",
       "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
-      "published": "Thu, 22 Oct 2026 13:43:13 +0000",
-      "sentiment": 0.0
+      "published": "Thu, 22 Oct 2026 20:11:05 +0000",
+      "sentiment": 0.05
     },
     {
       "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
@@ -287,12 +293,6 @@
       "link": "https://www.nytimes.com/2026/10/19/business/electric-vw-bus-kindred-idbuzz.html",
       "published": "Tue, 20 Oct 2026 00:37:36 +0000",
       "sentiment": 0.2875
-    },
-    {
-      "title": "Strong Exports Stabilize China’s Economic Growth in Official Statistics",
-      "link": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
-      "published": "Mon, 19 Oct 2026 16:51:47 +0000",
-      "sentiment": 0.2111111111111111
     }
   ]
 }
