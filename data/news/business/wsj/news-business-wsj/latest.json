@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
+      "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 13:16:00 GMT",
+      "sentiment": -0.175
+    },
+    {
       "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
       "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 12:57:00 GMT",
@@ -23,12 +29,6 @@
       "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "SpaceX Takes Conglomerate-Building to Sci-Fi Extremes",
-      "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
@@ -67,6 +67,12 @@
       "sentiment": -0.025
     },
     {
+      "title": "Dow’s Profit Rises Sharply on Cost Cuts, Sales Growth",
+      "link": "https://www.wsj.com/business/earnings/dows-profit-rises-sharply-on-cost-cuts-sales-growth-08b5aa50?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 13:18:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Lockheed Martin Bumps Up Yearly Outlook as Backlog Hits Record",
       "link": "https://www.wsj.com/business/earnings/lockheed-martin-bumps-up-yearly-outlook-as-backlog-hits-record-b2e58e35?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 11:59:00 GMT",
@@ -91,34 +97,28 @@
       "sentiment": 0.22777777777777777
     },
     {
-      "title": "Dow’s Profit Rises Sharply on Cost Cuts, Sales Growth",
-      "link": "https://www.wsj.com/business/earnings/dows-profit-rises-sharply-on-cost-cuts-sales-growth-08b5aa50?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 10:29:00 GMT",
-      "sentiment": -0.0625
+      "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
+      "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 13:47:00 GMT",
+      "sentiment": 0.25
     },
     {
-      "title": "Comcast’s Domestic Broadband-Subscriber Losses Continue",
+      "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
       "link": "https://www.wsj.com/business/earnings/comcasts-domestic-broadband-subscriber-losses-continue-b8954ae6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 12:58:00 GMT",
+      "published": "Thu, 22 Oct 2026 13:46:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Union Pacific Posts Higher Profit, Revenue on Volume Growth",
-      "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 12:22:00 GMT",
-      "sentiment": 0.125
+      "title": "American Airlines Forecasts Another Quarterly Loss on Surging Fuel Costs",
+      "link": "https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 13:07:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "SAP Weighs New Metric to Showcase AI Impact on Business",
       "link": "https://www.wsj.com/business/earnings/sap-weighs-new-metric-to-showcase-ai-impact-on-business-c485302f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 11:50:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "American Airlines Forecasts Another Quarterly Loss on Surging Fuel Costs",
-      "link": "https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:30:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Procter & Gamble’s Sales Offset Rising Fuel Costs",
@@ -157,6 +157,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | Oil Today, Crisis Tomorrow",
+      "link": "https://www.wsj.com/opinion/oil-today-crisis-tomorrow-21eb50e2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 13:56:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Elon Musk Blunders in the Indian Market",
       "link": "https://www.wsj.com/opinion/elon-musk-blunders-in-the-indian-market-f1af21a4?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 20:04:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/the-cold-reality-of-no-gas-9056a4fd?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 19:42:00 GMT",
       "sentiment": -0.6
-    },
-    {
-      "title": "Opinion | The Northeast Climate Revolt",
-      "link": "https://www.wsj.com/opinion/northeast-energy-climate-elections-maura-healey-kathy-hochul-d96539ee?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 21:43:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
@@ -313,6 +313,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Communications Group Common Interest Buys a Stake in Creative Agency Mirimar",
+      "link": "https://www.wsj.com/cmo-today/communications-group-common-interest-buys-a-stake-in-creative-agency-mirimar-9747a734?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 13:16:00 GMT",
+      "sentiment": 0.13999999999999999
+    },
+    {
       "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
       "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 00:00:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/earnings/netflix-revenue-growth-slows-as-it-overhauls-programming-units-d6eac0b5?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 21:46:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Heavy Lift of Adidas’s World Cup Bet",
-      "link": "https://www.wsj.com/cmo-today/the-heavy-lift-of-adidass-world-cup-bet-3cc93292?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 13:39:00 GMT",
-      "sentiment": 0.15
     },
     {
       "title": "GM Narrows Outlook on Commodity, Logistics Costs",
@@ -463,6 +463,12 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
+      "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
       "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 02:00:00 GMT",
@@ -473,12 +479,6 @@
       "link": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 01:00:00 GMT",
       "sentiment": 0.16
-    },
-    {
-      "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
-      "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",

@@ -1,13 +1,19 @@
 {
   "entries": [
     {
+      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "published": "Thu, 22 Oct 2026 13:36:46 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
       "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
       "link": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
       "published": "Thu, 22 Oct 2026 12:45:53 +0000",
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
       "published": "Thu, 22 Oct 2026 11:48:14 +0000",
       "sentiment": -0.05
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
       "published": "Tue, 20 Oct 2026 17:45:01 +0000",
       "sentiment": 0.075
-    },
-    {
-      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-      "published": "Tue, 20 Oct 2026 20:39:58 +0000",
-      "sentiment": 0.0
     }
   ]
 }

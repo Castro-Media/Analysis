@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "NYC to Vote on Horse-Carriage Ban",
+      "link": "https://www.wsj.com/us-news/nyc-to-vote-on-horse-carriage-ban-0d887e76?mod=rss_usnews",
+      "published": "Thu, 22 Oct 2026 14:44:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Virginia Democratic Lawmaker Charged With Alleged Marijuana Conspiracy",
+      "link": "https://www.wsj.com/us-news/law/virginia-democratic-lawmaker-charged-with-alleged-marijuana-conspiracy-211fcfb4?mod=rss_usnews",
+      "published": "Thu, 22 Oct 2026 14:22:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Abdul El-Sayed Tests Whether an Unapologetic Progressive Muslim Can Win",
       "link": "https://www.wsj.com/politics/abdul-el-sayed-tests-whether-an-unapologetic-progressive-muslim-can-win-6a22338a?mod=rss_usnews",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/us-news/the-kansas-town-that-sued-its-own-residents-to-build-a-data-center-62f11d6e?mod=rss_usnews",
       "published": "Tue, 20 Oct 2026 21:24:00 GMT",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Trading Cards Worth $1 Million Stolen From FedEx Truck in Pokémon Heist",
-      "link": "https://www.wsj.com/us-news/trading-cards-worth-1-million-stolen-from-fedex-truck-in-pokemon-heist-c524d19c?mod=rss_usnews",
-      "published": "Tue, 20 Oct 2026 21:23:00 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Former OpenAI Worker Accused of Bugging Discussed Jobs With Saudi Royal",
-      "link": "https://www.wsj.com/tech/ai/former-openai-worker-accused-of-bugging-discussed-jobs-with-saudi-royal-277c1c45?mod=rss_usnews",
-      "published": "Mon, 19 Oct 2026 21:52:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Socializing at College Is So Fraught It Requires Paperwork Before Partying",
@@ -85,16 +85,16 @@
       "sentiment": 0.10370370370370369
     },
     {
+      "title": "Former OpenAI Worker Accused of Bugging Discussed Jobs With Saudi Royal",
+      "link": "https://www.wsj.com/tech/ai/former-openai-worker-accused-of-bugging-discussed-jobs-with-saudi-royal-277c1c45?mod=rss_usnews",
+      "published": "Mon, 19 Oct 2026 21:52:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump’s D.C. Golf Course Renovation Spurs New Legal Tensions",
       "link": "https://www.wsj.com/politics/policy/trumps-d-c-golf-course-renovation-spurs-new-legal-tensions-81b68e78?mod=rss_usnews",
       "published": "Mon, 19 Oct 2026 21:43:00 GMT",
       "sentiment": 0.043939393939393945
-    },
-    {
-      "title": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
-      "link": "https://www.wsj.com/us-news/trump-presses-ahead-with-plans-to-remake-washington-golf-course-27a26ba9?mod=rss_usnews",
-      "published": "Sun, 18 Oct 2026 20:56:00 GMT",
-      "sentiment": 0.016666666666666677
     },
     {
       "title": "Californians Are Warding Off Wildfires by Trading Lush Lawns for Stone and Steel",
@@ -127,6 +127,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "Opinion | We Need Leaders Who Understand Our Past",
+      "link": "https://www.wsj.com/opinion/we-need-leaders-who-understand-our-past-ebb46f74?mod=rss_usnews",
+      "published": "Thu, 22 Oct 2026 13:57:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Opinion | Michele Tafoya in the Red Zone",
       "link": "https://www.wsj.com/opinion/michele-tafoya-in-the-red-zone-eb165e6e?mod=rss_usnews",
       "published": "Wed, 21 Oct 2026 21:14:00 GMT",
@@ -157,10 +163,10 @@
       "sentiment": 0.8
     },
     {
-      "title": "Opinion | Democrats Need McCain-Romney Republicans",
-      "link": "https://www.wsj.com/opinion/democrats-need-mccain-romney-republicans-5f7090a3?mod=rss_usnews",
-      "published": "Wed, 21 Oct 2026 19:35:00 GMT",
-      "sentiment": -0.025
+      "title": "Trading Cards Worth $1 Million Stolen From FedEx Truck in Pokémon Heist",
+      "link": "https://www.wsj.com/us-news/trading-cards-worth-1-million-stolen-from-fedex-truck-in-pokemon-heist-c524d19c?mod=rss_usnews",
+      "published": "Tue, 20 Oct 2026 21:23:00 GMT",
+      "sentiment": 0.4
     },
     {
       "title": "Trump Says He’s Open to Talks With the Leaders of Russia and China",
@@ -175,22 +181,16 @@
       "sentiment": -0.1
     },
     {
+      "title": "Trump Presses Ahead With Plans to Remake Washington Golf Course",
+      "link": "https://www.wsj.com/us-news/trump-presses-ahead-with-plans-to-remake-washington-golf-course-27a26ba9?mod=rss_usnews",
+      "published": "Sun, 18 Oct 2026 20:56:00 GMT",
+      "sentiment": 0.016666666666666677
+    },
+    {
       "title": "See How the Death Penalty in the U.S. Is Changing as Executions Soar",
       "link": "https://www.wsj.com/us-news/law/us-death-penalty-execution-rates-ff2625d7?mod=rss_usnews",
       "published": "Sun, 18 Oct 2026 17:43:00 GMT",
       "sentiment": -0.044444444444444446
-    },
-    {
-      "title": "The High-Stakes Job of Trump’s White House Physician",
-      "link": "https://www.wsj.com/politics/trump-white-house-physician-sean-barbabella-8debfed1?mod=rss_usnews",
-      "published": "Sat, 17 Oct 2026 23:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "White House Press Secretary Is Out One Week After Her Appointment",
-      "link": "https://www.wsj.com/politics/policy/trump-gives-new-white-house-press-secretary-option-to-quit-af349452?mod=rss_usnews",
-      "published": "Sat, 17 Oct 2026 01:50:00 GMT",
-      "sentiment": 0.1278409090909091
     },
     {
       "title": "The Deadly 1.5-Mile Corridor That Shows the Fatal Flaw in America’s Road Design",

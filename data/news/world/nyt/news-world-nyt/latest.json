@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
       "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "published": "Thu, 22 Oct 2026 11:10:02 +0000",
-      "sentiment": 0.0
+      "published": "Thu, 22 Oct 2026 13:34:27 +0000",
+      "sentiment": 0.05
     },
     {
       "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
@@ -13,16 +13,34 @@
       "sentiment": 0.0
     },
     {
+      "title": "In Wake of Riots, French Authorities Ban Some Protests",
+      "link": "https://www.nytimes.com/2026/10/22/france-protests-macron.html",
+      "published": "Thu, 22 Oct 2026 12:54:19 +0000",
+      "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "published": "Thu, 22 Oct 2026 13:36:46 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
       "title": "Serbian Election Underscores the Region’s Long Political Limbo",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
       "published": "Thu, 22 Oct 2026 09:01:54 +0000",
       "sentiment": -0.016666666666666666
     },
     {
-      "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
+      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
       "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
       "published": "Thu, 22 Oct 2026 11:48:14 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
+      "published": "Thu, 22 Oct 2026 13:07:10 +0000",
+      "sentiment": 0.6
     },
     {
       "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
@@ -61,34 +79,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "UK to Headphone Dodgers on Trains: Shush",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
-      "published": "Wed, 21 Oct 2026 11:01:21 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
       "link": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
       "published": "Thu, 22 Oct 2026 03:26:58 +0000",
       "sentiment": 0.19374999999999998
-    },
-    {
-      "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
-      "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
-      "published": "Wed, 21 Oct 2026 19:16:14 +0000",
-      "sentiment": 0.01874999999999996
-    },
-    {
-      "title": "Delhi’s Winter Season of Polluted Air Begins",
-      "link": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
-      "published": "Wed, 21 Oct 2026 17:32:03 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
-      "published": "Thu, 22 Oct 2026 12:37:00 +0000",
-      "sentiment": 0.6
     },
     {
       "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
@@ -125,6 +119,18 @@
       "link": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html",
       "published": "Wed, 21 Oct 2026 21:05:46 +0000",
       "sentiment": -0.16642857142857143
+    },
+    {
+      "title": "Delhi’s Winter Season of Polluted Air Begins",
+      "link": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
+      "published": "Wed, 21 Oct 2026 17:32:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
+      "published": "Wed, 21 Oct 2026 19:16:14 +0000",
+      "sentiment": 0.01874999999999996
     },
     {
       "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
@@ -179,6 +185,12 @@
       "link": "https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html",
       "published": "Wed, 21 Oct 2026 18:59:00 +0000",
       "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "UK to Headphone Dodgers on Trains: Shush",
+      "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+      "published": "Wed, 21 Oct 2026 11:01:21 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
@@ -286,18 +298,6 @@
       "title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
       "link": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
       "published": "Tue, 20 Oct 2026 09:00:10 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "14 Dead After Gold Mine Collapses in Colombia",
-      "link": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html",
-      "published": "Tue, 20 Oct 2026 14:51:18 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Australian Lawmaker Helen Haines Remains in Critical Condition After Car Attack",
-      "link": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html",
-      "published": "Tue, 20 Oct 2026 10:59:49 +0000",
       "sentiment": 0.0
     }
   ]
