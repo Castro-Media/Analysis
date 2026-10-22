@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
+      "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:05:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "He Self-Funded a $45-Million Nicolas Cage Movie. Then It Was Stolen.",
+      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Mark Zuckerberg Discussed Leaving California Over Wealth Tax",
+      "link": "https://www.wsj.com/business/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-21b0b522?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 23:55:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "How Does the Ukrainian Military Use Starlink?",
       "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 23:49:00 GMT",
@@ -11,30 +35,6 @@
       "link": "https://www.wsj.com/tech/meta-is-getting-creative-to-fund-its-massive-ai-investments-c6fa41b7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 21:41:00 GMT",
       "sentiment": 0.2142857142857143
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 21:16:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Tesla Reports Flat Revenue, Increased Cash Flow as SpaceX Merger Talk Looms",
-      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 20:54:00 GMT",
-      "sentiment": 0.33749999999999997
-    },
-    {
-      "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
-      "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 19:34:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "What to Know About the SpaceX-Tesla Merger Talks",
-      "link": "https://www.wsj.com/business/five-takeaways-from-spacexs-earnings-call-b91bcaf2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 16:48:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "Mattel Adds Board Member As Activist Investor Pressure Mounts",
@@ -99,7 +99,7 @@
     {
       "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
       "link": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 21:33:00 GMT",
+      "published": "Thu, 22 Oct 2026 00:32:00 GMT",
       "sentiment": 0.0909090909090909
     },
     {
@@ -433,6 +433,24 @@
       "sentiment": 0.21818181818181817
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 21:16:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
+      "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 19:34:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "What to Know About the SpaceX-Tesla Merger Talks",
+      "link": "https://www.wsj.com/business/five-takeaways-from-spacexs-earnings-call-b91bcaf2?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 21 Oct 2026 16:48:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "The Morning Risk Report: Instacart Settles Employment Discrimination Case",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-instacart-settles-employment-discrimination-case-57ee23b8?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 11:32:00 GMT",
@@ -443,24 +461,6 @@
       "link": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 09:47:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Order to Slow Down Starlink for Ukraine Came From Musk",
-      "link": "https://www.wsj.com/business/order-to-slow-down-starlink-for-ukraine-came-from-musk-af367811?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 21:28:00 GMT",
-      "sentiment": -0.15185185185185188
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-93acd7cd?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 21:08:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c6d7409e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 21:05:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
@@ -481,16 +481,16 @@
       "sentiment": -0.2
     },
     {
+      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+      "link": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:32:00 GMT",
+      "sentiment": 0.0909090909090909
+    },
+    {
       "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
       "link": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 22:47:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
-      "link": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 21:33:00 GMT",
-      "sentiment": 0.0909090909090909
     },
     {
       "title": "Best Small-Business Loans in October 2026",
