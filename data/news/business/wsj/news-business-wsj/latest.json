@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
+      "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 12:57:00 GMT",
+      "sentiment": -0.15625
+    },
+    {
       "title": "The CEO Who Turns ‘Touchy-Feely’ Leadership Into Profits",
       "link": "https://www.wsj.com/business/the-ceo-who-turns-touchy-feely-leadership-into-profits-f899ccd4?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:57:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/carrier-plans-600-million-texas-plant-to-make-cooling-gear-for-ai-data-centers-01c1a1dc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Japan’s Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
-      "link": "https://www.wsj.com/business/japans-top-labor-union-targets-big-pay-bump-in-line-with-boj-aims-405df73f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 07:25:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
@@ -67,16 +67,16 @@
       "sentiment": -0.025
     },
     {
+      "title": "Lockheed Martin Bumps Up Yearly Outlook as Backlog Hits Record",
+      "link": "https://www.wsj.com/business/earnings/lockheed-martin-bumps-up-yearly-outlook-as-backlog-hits-record-b2e58e35?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 11:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Prada Sales Cool as Luxury Recovery Fades",
       "link": "https://www.wsj.com/business/retail/prada-sales-cool-as-luxury-recovery-fades-046ac0ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 11:08:00 GMT",
       "sentiment": 0.35
-    },
-    {
-      "title": "Lockheed Martin Bumps Up Yearly Outlook as Backlog Hits Record",
-      "link": "https://www.wsj.com/business/earnings/lockheed-martin-bumps-up-yearly-outlook-as-backlog-hits-record-b2e58e35?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:01:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nestle Sales Boosted By Hot Pockets and Frozen Pizza in U.S.",
@@ -97,6 +97,18 @@
       "sentiment": -0.0625
     },
     {
+      "title": "Comcast’s Domestic Broadband-Subscriber Losses Continue",
+      "link": "https://www.wsj.com/business/earnings/comcasts-domestic-broadband-subscriber-losses-continue-b8954ae6?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 12:58:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Union Pacific Posts Higher Profit, Revenue on Volume Growth",
+      "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 12:22:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "SAP Weighs New Metric to Showcase AI Impact on Business",
       "link": "https://www.wsj.com/business/earnings/sap-weighs-new-metric-to-showcase-ai-impact-on-business-c485302f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 11:50:00 GMT",
@@ -115,18 +127,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Comcast’s Domestic Broadband-Subscriber Losses Continue",
-      "link": "https://www.wsj.com/business/earnings/comcasts-domestic-broadband-subscriber-losses-continue-b8954ae6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:12:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "PulteGroup Net Down as Mortgage Rates Weigh on Home Sales",
-      "link": "https://www.wsj.com/business/earnings/pultegroup-net-down-as-mortgage-rates-weigh-on-home-sales-a248f35f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 10:59:00 GMT",
-      "sentiment": -0.07013888888888889
-    },
-    {
       "title": "Toyota Reckons With Short Supply of Its Most Popular SUV",
       "link": "https://www.wsj.com/logistics-report/toyota-reckons-with-short-supply-of-its-most-popular-suv-226a0d91?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 11:04:00 GMT",
@@ -139,12 +139,6 @@
       "sentiment": 0.14444444444444446
     },
     {
-      "title": "SpaceX and Tesla Are Joined at the Hip. A Merger Would Make It Formal.",
-      "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
       "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 00:05:00 GMT",
@@ -155,6 +149,12 @@
       "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 02:00:00 GMT",
       "sentiment": -0.09722222222222222
+    },
+    {
+      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+      "link": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 20 Oct 2026 22:47:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Opinion | Elon Musk Blunders in the Indian Market",
@@ -193,16 +193,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 12:51:00 GMT",
+      "sentiment": 0.22000000000000003
+    },
+    {
       "title": "Aramco CEO Says East-West Pipeline Capacity Could Reach 10 Million Barrels a Day",
       "link": "https://www.wsj.com/business/energy-oil/aramco-ceo-says-east-west-pipeline-capacity-could-reach-10-million-barrels-a-day-d761c76e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:15:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 07:57:00 GMT",
-      "sentiment": 0.22000000000000003
     },
     {
       "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe",
@@ -433,6 +433,12 @@
       "sentiment": 0.21818181818181817
     },
     {
+      "title": "Japan’s Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
+      "link": "https://www.wsj.com/business/japans-top-labor-union-targets-big-pay-bump-in-line-with-boj-aims-405df73f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 07:25:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Mark Zuckerberg Threatened to Leave California. Meta’s Board Cut Him a Deal.",
       "link": "https://www.wsj.com/business/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-21b0b522?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 04:57:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "What to Know About the SpaceX-Tesla Merger Talks",
-      "link": "https://www.wsj.com/business/five-takeaways-from-spacexs-earnings-call-b91bcaf2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 16:48:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
       "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 02:00:00 GMT",
@@ -475,10 +475,10 @@
       "sentiment": 0.16
     },
     {
-      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
-      "link": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:32:00 GMT",
-      "sentiment": 0.0909090909090909
+      "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
+      "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
@@ -487,10 +487,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
-      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:05:00 GMT",
-      "sentiment": 0.0
+      "title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+      "link": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:32:00 GMT",
+      "sentiment": 0.0909090909090909
     },
     {
       "title": "Best Small-Business Loans in October 2026",
