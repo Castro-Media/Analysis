@@ -1,10 +1,76 @@
 {
   "entries": [
     {
+      "title": "Barbara Corcoran's $16M NYC penthouse becomes a beach house on Fifth Avenue",
+      "link": "https://timesofindia.indiatimes.com/world/us/shark-tanks-barbara-corcoran-saw-a-new-york-penthouse-seven-months-before-it-was-listed-and-outbid-herself-twice-after-a-nine-month-makeover-the-3100-square-foot-home-has-become-her-beach-house-on-fifth-avenue/articleshow/135116891.cms",
+      "published": "2026-10-22T17:11:30+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Michigan neighbours accuse each other of flooding their land; both awarded damages",
+      "link": "https://timesofindia.indiatimes.com/world/us/two-michigan-neighbours-spent-years-fighting-over-water-flowing-across-their-land-a-jury-awarded-85000-in-damages-to-one-side-and-91250-to-the-other-and-an-appeals-court-upheld-both-awards/articleshow/135113248.cms",
+      "published": "2026-10-22T17:10:34+05:30",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "London duplex once home to Keira Knightley lists for £11.5M",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/a-london-terrace-once-home-to-keira-knightley-and-lord-randolph-churchill-has-been-restored-over-two-years-the-4071-square-foot-three-bedroom-duplex-is-asking-11-5-million/articleshow/135116758.cms",
+      "published": "2026-10-22T16:51:43+05:30",
+      "sentiment": 0.325
+    },
+    {
+      "title": "US restaurant that offered free meals in protest against ICE to shut down permanently",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-restaurant-that-offered-free-meals-in-protest-against-ice-to-shut-down-permanently/articleshow/135117753.cms",
+      "published": "2026-10-22T17:12:22+05:30",
+      "sentiment": 0.08148148148148149
+    },
+    {
+      "title": "Yorkshire couple's straw-bale home, built in 2018, now listed for £2.75 million",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-yorkshire-couple-built-a-four-bedroom-home-using-straw-bales-and-lime-plaster-completed-in-2018-the-energy-conscious-property-is-now-listed-for-2-75-million/articleshow/135116318.cms",
+      "published": "2026-10-22T16:29:24+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Entrepreneur Rebuilds Beauty Brand: Nurse turns $500 into $100m; now backs Watch &amp; Sea",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2013-former-nurse-courtney-adeleye-launched-the-mane-choice-from-her-kitchen-with-500-within-six-years-it-had-reached-100-million-in-sales-and-60000-retail-doors-before-a-reported-61-5-million-acquisition/articleshow/135106645.cms",
+      "published": "2026-10-22T16:26:51+05:30",
+      "sentiment": 0.29374999999999996
+    },
+    {
+      "title": "Indian-origin man, 24, killed in Canada highway crash days after permanent residency approval",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-man-24-killed-in-canada-highway-crash-days-after-permanent-residency-approval/articleshow/135116587.cms",
+      "published": "2026-10-22T16:21:17+05:30",
+      "sentiment": -0.1
+    },
+    {
+      "title": "‘Stand against hate’: Mamdani celebrates Navratri with Hindu New Yorkers after Illinois temple shooting plot",
+      "link": "https://timesofindia.indiatimes.com/world/us/stand-against-hate-mamdani-celebrates-navratri-with-hindu-new-yorkers-after-illinois-temple-shooting-plot/articleshow/135115594.cms",
+      "published": "2026-10-22T15:58:39+05:30",
+      "sentiment": -0.22121212121212122
+    },
+    {
+      "title": "In 1926, Frankfurt installed 10,000 modern fitted kitchens; today, volunteers are rescuing them",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1926-frankfurt-began-installing-the-worlds-first-modern-fitted-kitchens-in-thousands-of-homes-a-century-later-most-are-gone-but-volunteers-have-saved-parts-from-about-50-as-a-new-preservation-effort-takes-shape/articleshow/135112190.cms",
+      "published": "2026-10-22T16:18:25+05:30",
+      "sentiment": 0.15555555555555556
+    },
+    {
+      "title": "Oregon woman’s breast cancer diagnosis inspires husband’s gaming community to raise $1 million for research",
+      "link": "https://timesofindia.indiatimes.com/world/us/oregon-woman-was-diagnosed-with-triple-negative-breast-cancer-and-then-her-husbands-300-member-gaming-community-raised-1-million-for-research/articleshow/135112410.cms",
+      "published": "2026-10-22T16:18:32+05:30",
+      "sentiment": 0.1571428571428571
+    },
+    {
       "title": "Netanyahu denies report that Trump blocked planned Israeli strike on October 10",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-denies-report-that-trump-blocked-planned-israeli-strike-on-october-10/articleshow/135116019.cms",
       "published": "2026-10-22T16:04:08+05:30",
       "sentiment": 0.02023809523809524
+    },
+    {
+      "title": "Minnesota couple’s $27,000 neighbour dispute ends with $20,000 privacy award reversed",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2020-a-minnesota-couple-bought-a-home-reached-through-a-neighbours-gravel-driveway-a-feud-over-trees-and-a-security-camera-led-to-27000-in-damages-but-an-appeals-court-reversed-the-20000-privacy-award/articleshow/135112821.cms",
+      "published": "2026-10-22T16:20:00+05:30",
+      "sentiment": 0.05
     },
     {
       "title": "Sofía Vergara sold Beverly Hills villa for $13.7 million, had listed it for $19.6 million in 2022",
@@ -53,72 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/science/discovery/meet-isabel-rossi-a-williamsburg-virginia-eighth-grader-who-tested-a-new-way-to-position-earthquake-sensors-her-mathematical-model-improved-simulated-coverage-by-16-7-with-just-five-additional-devices/articleshow/135109931.cms",
       "published": "2026-10-22T13:55:00+05:30",
       "sentiment": 0.125
-    },
-    {
-      "title": "California adds 15,000 acres to marine protected areas after a decade",
-      "link": "https://timesofindia.indiatimes.com/science/nature/california-has-created-its-first-new-marine-protected-areas-in-over-a-decade-adding-about-15000-acres-of-safeguarded-coastal-waters-including-kelp-habitats-off-malibu-and-tribal-nominated-sites-near-santa-barbara/articleshow/135110876.cms",
-      "published": "2026-10-22T13:00:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "86-year-old Texas man spent nearly 40 years building 62-foot boat to sail to Alaska; now strangers are raising thousands to help him fulfil his dream",
-      "link": "https://timesofindia.indiatimes.com/world/us/since-1987-an-86-year-old-texas-man-named-dale-has-spent-decades-building-a-62-foot-boat-in-his-yard-when-three-visitors-discovered-his-dream-strangers-helped-raise-money-to-finish-and-move-it/articleshow/135110064.cms",
-      "published": "2026-10-22T13:06:02+05:30",
-      "sentiment": 0.08
-    },
-    {
-      "title": "California geologist finds creek fossil using Google image search",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-california-geologist-spotted-a-strange-object-sticking-out-of-a-creek-a-google-reverse-image-search-suggested-it-was-an-ice-age-mastodon-tooth-at-least-10000-years-old/articleshow/135111228.cms",
-      "published": "2026-10-22T12:56:40+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "China's Bohai Bay oyster reefs show recovery, with 286 oysters per square metre",
-      "link": "https://timesofindia.indiatimes.com/science/nature/in-2022-researchers-began-monitoring-oyster-habitat-restoration-beneath-chinas-bohai-bay-by-2026-artificial-reefs-held-286-oysters-per-square-metre-and-suspended-particles-were-about-62-lower/articleshow/135108760.cms",
-      "published": "2026-10-22T12:30:00+05:30",
-      "sentiment": -0.22999999999999998
-    },
-    {
-      "title": "Mariska Hargitay helped fund testing of 11,341 rape kits in Detroit; 263 convictions followed",
-      "link": "https://timesofindia.indiatimes.com/world/us/mariska-hargitay-helped-fund-detroits-effort-to-test-abandoned-sexual-assault-kits-by-april-2025-the-wider-project-had-secured-263-convictions-as-investigations-continued-across-decades/articleshow/135071488.cms",
-      "published": "2026-10-22T12:05:31+05:30",
-      "sentiment": 0.20833333333333331
-    },
-    {
-      "title": "Lincoln’s 1864 signed photograph, found in an old desk, sells for $149,020",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-1864-abraham-lincoln-donated-a-signed-photograph-to-help-union-soldiers-families-generations-later-it-surfaced-in-an-old-desk-with-a-forgotten-newspaper-clipping-and-sold-for-149020-at-auction/articleshow/135075675.cms",
-      "published": "2026-10-22T12:05:07+05:30",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Pompeii’s grandest ancient residence gets €1.4 million restoration",
-      "link": "https://timesofindia.indiatimes.com/science/archaeology/pompeiis-grandest-ancient-residence-gets-1-4-million-restoration-with-private-sponsor-covering-entire-cost/articleshow/135108263.cms",
-      "published": "2026-10-22T12:00:00+05:30",
-      "sentiment": 0.09583333333333334
-    },
-    {
-      "title": "Scottish castle built in 1584 with original fireplaces and staircases listed for £120,000",
-      "link": "https://timesofindia.indiatimes.com/world/uk/built-in-1584-and-abandoned-in-the-18th-century-a-roofless-scottish-castle-with-original-fireplaces-and-staircases-is-on-sale-for-120000/articleshow/135108794.cms",
-      "published": "2026-10-22T11:45:00+05:30",
-      "sentiment": 0.2785714285714286
-    },
-    {
-      "title": "Georgia woman sues over neighbour's marijuana smoke despite smoking ban; court dismisses claim",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-georgia-woman-said-her-next-door-neighbours-marijuana-smoke-kept-entering-her-apartment-despite-a-no-smoking-lease-after-she-sued-an-appeals-court-upheld-the-california-teachers-pension-funds-immunity/articleshow/135070782.cms",
-      "published": "2026-10-22T11:01:00+05:30",
-      "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "California seventh-grader tests potential brain-injury treatment on 350 fruit flies",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/meet-alekha-goldberg-a-california-seventh-grader-who-tested-a-potential-brain-injury-treatment-on-350-fruit-flies-after-her-brother-was-hurt-injured-flies-given-the-highest-dose-survived-and-climbed-better/articleshow/135107649.cms",
-      "published": "2026-10-22T11:00:00+05:30",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Maldives sinks two retired aircraft to create an unusual underwater reef; coral restoration begins in 2026",
-      "link": "https://timesofindia.indiatimes.com/science/nature/two-retired-aircraft-were-placed-underwater-near-a-maldives-island-to-create-an-unusual-diving-attraction-in-2026-conservation-teams-began-adding-coral-fragments-to-help-turn-the-wrecks-into-a-reef/articleshow/135107803.cms",
-      "published": "2026-10-22T11:00:00+05:30",
-      "sentiment": 7.93016446160826e-18
     }
   ]
 }
