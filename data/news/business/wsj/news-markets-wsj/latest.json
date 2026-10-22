@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, October 21, 2026: Tesla's Profit Falls as Batteries Prove Barrier to Growth",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 09:01:41 GMT",
-      "sentiment": 0.0
+      "title": "Stock Market Today: Stocks Tumble After Mideast Tensions, Tesla Earnings",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 07:55:42 GMT",
+      "sentiment": -0.7
     },
     {
       "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
@@ -13,10 +13,10 @@
       "sentiment": 0.2333333333333333
     },
     {
-      "title": "Dollar Falls to 3-Week Low on Fresh AI Jitters",
+      "title": "Euro Edges Higher as Weaker Dollar Outweighs French Concerns",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 07:02:00 GMT",
-      "sentiment": -0.075
+      "published": "Thu, 22 Oct 2026 08:03:00 GMT",
+      "sentiment": 0.22000000000000003
     },
     {
       "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
@@ -103,10 +103,28 @@
       "sentiment": 0.25
     },
     {
+      "title": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112",
+      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 08:34:00 GMT",
+      "sentiment": 0.075
+    },
+    {
+      "title": "French Government-Bond Yields Rise, Spread Widens as Treasury Yields Fall",
+      "link": "https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 07:21:00 GMT",
+      "sentiment": 0.04
+    },
+    {
       "title": "London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion",
       "link": "https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 06:55:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "German Bunds Could Act as Safe Haven as French Bond Yields Rise Further",
+      "link": "https://www.wsj.com/finance/jgb-yield-curve-flattens-amid-continued-ai-related-credit-concerns-4613a92a?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 06:38:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "The Financial—and Psychological—Cost of Being the Friend Who Picks Up the Tab",
@@ -115,34 +133,22 @@
       "sentiment": -0.0638888888888889
     },
     {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-4025abb1?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 21:18:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 21:16:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-f3c3c3ff?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 21:13:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Nikkei Falls to Nearly 3-Month Low Amid Strong Risk-Off Sentiment",
+      "title": "European Stock Indexes Fall Sharply as Oil Rises",
       "link": "https://www.wsj.com/finance/stocks/nikkei-edges-higher-as-wall-streets-gains-offset-mideast-worries-b106f947?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 06:56:00 GMT",
-      "sentiment": 0.16333333333333333
+      "published": "Thu, 22 Oct 2026 07:40:00 GMT",
+      "sentiment": 0.03125
     },
     {
       "title": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount",
       "link": "https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 06:30:00 GMT",
       "sentiment": 0.12
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-4025abb1?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 21:18:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 18:30:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "NYSE Just Extended Options Trading Hours. It’s Only the Beginning.",
-      "link": "https://www.wsj.com/finance/stocks/nyse-just-extended-options-trading-hours-its-only-the-beginning-fe544629?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 14:54:00 GMT",
-      "sentiment": -0.026060606060606062
     },
     {
       "title": "Opinion | Don’t Punish the Productive",
@@ -199,34 +199,34 @@
       "sentiment": 0.0
     },
     {
+      "title": "Gold Falls as Energy Prices Raise Inflation Concerns",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 08:16:00 GMT",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Brent Rises More Than 3% After Deadly Attack in Saudi Arabia",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 08:13:00 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe",
+      "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 07:51:00 GMT",
+      "sentiment": 0.08916666666666667
+    },
+    {
       "title": "Fortescue Warns of Output Guidance Cut If China Talks Aren’t Concluded Soon",
       "link": "https://www.wsj.com/business/fortescue-warns-of-output-guidance-cut-if-china-talks-arent-concluded-soon-3eaed714?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 04:51:00 GMT",
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Gold Falls, Weighed by Rising Energy Costs, Fed Uncertainty",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 00:46:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Oil Rises Amid Concerns Over Re-Escalation of Mideast Conflict",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 00:39:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather Outlook",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 20:31:00 GMT",
-      "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "Oil Settles Mixed as Shipping Risks Temper Optimism About Flows",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-attacks-on-vessels-in-strait-of-hormuz-5456bfd8?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 19:59:00 GMT",
-      "sentiment": -0.2333333333333333
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6c653c6b?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 21:16:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 96.92",
@@ -259,6 +259,12 @@
       "sentiment": 0.13541666666666666
     },
     {
+      "title": "NYSE Just Extended Options Trading Hours. It’s Only the Beginning.",
+      "link": "https://www.wsj.com/finance/stocks/nyse-just-extended-options-trading-hours-its-only-the-beginning-fe544629?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 14:54:00 GMT",
+      "sentiment": -0.026060606060606062
+    },
+    {
       "title": "From Verizon to UnitedHealth, Corporate America Is Balking at ‘Tokenized’ Stocks",
       "link": "https://www.wsj.com/finance/stocks/from-verizon-to-unitedhealth-corporate-america-is-balking-at-tokenized-stocks-6dbbeada?mod=rss_markets_main",
       "published": "Fri, 16 Oct 2026 18:18:00 GMT",
@@ -281,12 +287,6 @@
       "link": "https://www.wsj.com/finance/regulation/debanking-probe-finds-jpmorgan-banks-cut-off-maga-sellers-and-democrat-groups-c170d0a5?mod=rss_markets_main",
       "published": "Wed, 14 Oct 2026 13:43:00 GMT",
       "sentiment": 0.4
-    },
-    {
-      "title": "The Morning Risk Report: Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bank-of-america-to-pay-1-2-billion-to-settle-violations-of-money-laundering-sanctions-laws-56d72ccf?mod=rss_markets_main",
-      "published": "Wed, 14 Oct 2026 11:45:00 GMT",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices",
