@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Eurozone Consumer Sentiment Falls Further on Lingering Energy Shock",
+      "link": "https://www.wsj.com/economy/central-banking/eurozone-consumer-sentiment-falls-further-on-lingering-energy-shock-e3f4ddf9?mod=rss_socialeconomyfeed",
+      "published": "Thu, 22 Oct 2026 14:34:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Canada Producer Prices Rise Again in September, Climbing 2% for the Month",
+      "link": "https://www.wsj.com/economy/central-banking/canada-producer-prices-rise-again-in-september-climbing-2-for-the-month-39c694c2?mod=rss_socialeconomyfeed",
+      "published": "Thu, 22 Oct 2026 13:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Jobless Claims Return to Downward Trend",
+      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-return-to-downward-trend-9ba853fc?mod=rss_socialeconomyfeed",
+      "published": "Thu, 22 Oct 2026 13:11:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Philippines Central Bank Surprises With Big Rate Hike to Combat Inflation",
       "link": "https://www.wsj.com/economy/central-banking/philippines-central-bank-delivers-jumbo-hike-in-bid-to-combat-inflation-90f8c2fa?mod=rss_socialeconomyfeed",
       "published": "Thu, 22 Oct 2026 10:14:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/economy/central-banking/bank-of-korea-holds-rate-steady-after-back-to-back-hikes-f25fc515?mod=rss_socialeconomyfeed",
       "published": "Thu, 22 Oct 2026 04:11:00 GMT",
       "sentiment": 0.04666666666666666
-    },
-    {
-      "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
-      "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-jumps-again-on-energy-costs-e2bd9d85?mod=rss_socialeconomyfeed",
-      "published": "Wed, 21 Oct 2026 09:50:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Bank Indonesia Holds Key Rate as MSCI Downgrade Threat Weighs on Markets",
-      "link": "https://www.wsj.com/economy/central-banking/bank-indonesia-holds-key-rate-as-msci-downgrade-threat-weighs-on-markets-6045f668?mod=rss_socialeconomyfeed",
-      "published": "Wed, 21 Oct 2026 09:16:00 GMT",
-      "sentiment": 0.05555555555555555
-    },
-    {
-      "title": "U.K. Government on Track to Cut Borrowing Ahead of Budget",
-      "link": "https://www.wsj.com/world/uk/uk-government-on-track-to-cut-borrowing-ahead-of-budget-361f51ee?mod=rss_socialeconomyfeed",
-      "published": "Wed, 21 Oct 2026 06:53:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Financial leaders gathering in Asia this week had an urgent message for the world: The global economy is betting the house on artificial intelligence.",
@@ -97,6 +97,18 @@
       "sentiment": 0.3
     },
     {
+      "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
+      "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-jumps-again-on-energy-costs-e2bd9d85?mod=rss_socialeconomyfeed",
+      "published": "Wed, 21 Oct 2026 09:50:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Bank Indonesia Holds Key Rate as MSCI Downgrade Threat Weighs on Markets",
+      "link": "https://www.wsj.com/economy/central-banking/bank-indonesia-holds-key-rate-as-msci-downgrade-threat-weighs-on-markets-6045f668?mod=rss_socialeconomyfeed",
+      "published": "Wed, 21 Oct 2026 09:16:00 GMT",
+      "sentiment": 0.05555555555555555
+    },
+    {
       "title": "Australia’s Inflation Outlook Materially Worse, RBA Says",
       "link": "https://www.wsj.com/economy/central-banking/australias-inflation-outlook-materially-worse-rba-says-55d68979?mod=rss_socialeconomyfeed",
       "published": "Tue, 20 Oct 2026 23:43:00 GMT",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-in-september-with-jump-in-gas-prices-7cffb4b8?mod=rss_socialeconomyfeed",
       "published": "Mon, 19 Oct 2026 15:15:00 GMT",
       "sentiment": 0.13888888888888887
-    },
-    {
-      "title": "Bank of Japan Must Ensure Underlying Inflation Doesn’t Go Above 2%, Ueda Says",
-      "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0?mod=rss_socialeconomyfeed",
-      "published": "Fri, 16 Oct 2026 12:39:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "See the key moments from Fed Chairman Kevin Warsh’s appearance at the IMF gathering.",
-      "link": "https://www.wsj.com/economy/central-banking/kevin-warsh-fed-chair-imf-speech-62c97df8?mod=rss_socialeconomyfeed",
-      "published": "Fri, 16 Oct 2026 10:08:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Inflation is cooler than it was four years ago, but voters are still paying much higher prices",

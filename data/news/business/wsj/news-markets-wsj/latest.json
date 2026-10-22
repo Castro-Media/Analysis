@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stock Futures Slide After Mideast Tensions Push Oil Higher",
+      "title": "Stock Market Today: Stocks Slide After Mideast Tensions Push Oil Higher",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 07:55:42 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Blackstone’s Core Businesses Hit by Rising Rates",
+      "link": "https://www.wsj.com/finance/blackstones-core-businesses-hit-by-rising-rates-9a6a39cb?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 14:11:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet",
+      "link": "https://www.wsj.com/finance/commodities-futures/with-disruption-on-every-side-food-markets-are-somehow-eerily-quiet-c60ed033?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 13:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
+      "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 13:16:00 GMT",
+      "sentiment": -0.175
+    },
+    {
+      "title": "Lofty U.K. Rate-Rise Bets, Fiscal Risks Leave Sterling Vulnerable",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 13:04:00 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "Sports Investing Is for Millionaires Now, not Billionaires",
@@ -13,34 +37,10 @@
       "sentiment": -0.15555555555555556
     },
     {
-      "title": "Sterling’s Rise Vs Euro Reflects Both U.K., Eurozone Factors",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 10:17:00 GMT",
-      "sentiment": 0.03333333333333333
-    },
-    {
       "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
       "link": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
       "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "SpaceX Takes Conglomerate-Building to Sci-Fi Extremes",
-      "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
-      "link": "https://www.wsj.com/finance/investing/private-credit-retail-investors-festival-c550f07b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
-      "link": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 21:36:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
@@ -103,6 +103,18 @@
       "sentiment": 0.25
     },
     {
+      "title": "Stocks Slide After Mideast Tensions Push Oil Higher",
+      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 14:06:00 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Treasury Yields Fall as Investors Seek Safe Haven",
+      "link": "https://www.wsj.com/finance/jgb-yield-curve-flattens-amid-continued-ai-related-credit-concerns-4613a92a?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 13:09:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
       "title": "PE Firms Are Holding Investments Longer—and Changing Leaders More",
       "link": "https://www.wsj.com/cfo-journal/pe-firms-are-holding-investments-longerand-changing-leaders-more-2d0bb31a?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 10:55:00 GMT",
@@ -121,24 +133,6 @@
       "sentiment": 0.06785714285714285
     },
     {
-      "title": "A Food Crisis Could Follow the Energy Crisis",
-      "link": "https://www.wsj.com/economy/a-food-crisis-could-follow-the-energy-crisis-4c28609b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 09:57:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
-      "link": "https://www.wsj.com/business/musks-tesla-spacex-merger-would-formalize-a-decadeslong-partnership-3b83e542?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 09:56:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "AI Stocks Slide After Earnings Disappoint",
-      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 08:34:00 GMT",
-      "sentiment": 0.09999999999999999
-    },
-    {
       "title": "European Stock Indexes Fall Sharply as Oil Rises",
       "link": "https://www.wsj.com/finance/stocks/nikkei-edges-higher-as-wall-streets-gains-offset-mideast-worries-b106f947?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 07:40:00 GMT",
@@ -149,6 +143,12 @@
       "link": "https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 06:30:00 GMT",
       "sentiment": 0.12
+    },
+    {
+      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+      "link": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 21:36:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -199,34 +199,34 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Natural Gas Futures Steady Ahead of Inventory Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-ahead-of-inventory-data-5d0fb57d?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 14:16:00 GMT",
+      "sentiment": 0.044791666666666674
+    },
+    {
+      "title": "Fears of Middle East Escalation Keep Bid in Oil Futures",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 14:13:00 GMT",
+      "sentiment": 0.1625
+    },
+    {
+      "title": "Gold Faces ‘Difficult Cocktail’",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 13:56:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "China’s Rising Aluminum Output Cushions Gulf Supply Shock",
       "link": "https://www.wsj.com/finance/commodities-futures/chinas-rising-aluminum-output-cushions-gulf-supply-shock-311b805e?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Gold Falls as Energy Prices Raise Inflation Concerns",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 08:16:00 GMT",
-      "sentiment": 0.375
-    },
-    {
-      "title": "Brent Rises More Than 3% After Deadly Attack in Saudi Arabia",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 08:13:00 GMT",
-      "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe",
-      "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 07:51:00 GMT",
-      "sentiment": 0.08916666666666667
-    },
-    {
-      "title": "Fortescue Warns of Output Guidance Cut If China Talks Aren’t Concluded Soon",
-      "link": "https://www.wsj.com/business/fortescue-warns-of-output-guidance-cut-if-china-talks-arent-concluded-soon-3eaed714?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 04:51:00 GMT",
-      "sentiment": 0.16666666666666666
+      "title": "A Food Crisis Could Follow the Energy Crisis",
+      "link": "https://www.wsj.com/economy/a-food-crisis-could-follow-the-energy-crisis-4c28609b?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 09:57:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 96.92",
@@ -289,6 +289,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
+      "link": "https://www.wsj.com/finance/investing/private-credit-retail-investors-festival-c550f07b?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.2333333333333333
+    },
+    {
       "title": "One of Your Fuel Bills Is Poised to Be Lower This Year",
       "link": "https://www.wsj.com/finance/commodities-futures/one-of-your-fuel-bills-is-poised-to-be-lower-this-year-d127eb15?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 21:00:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/want-to-short-the-ai-boom-she-wants-to-give-you-a-way-to-bet-on-compute-prices-bcdafd3e?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 19:32:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Housing Looks Awful. These Housing-Related Stocks Don’t.",
-      "link": "https://www.wsj.com/finance/stocks/housing-looks-awful-these-housing-related-stocks-dont-bcc009ae?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 10:28:00 GMT",
-      "sentiment": -0.5
     },
     {
       "title": "How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 13:01:00 GMT",
+      "published": "Thu, 22 Oct 2026 13:05:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
