@@ -67,18 +67,6 @@
       "sentiment": 0.1
     },
     {
-      "title": "American Express to Cut 5% of Global Workforce",
-      "link": "https://www.wsj.com/business/earnings/american-express-raises-profit-outlook-on-increased-member-spending-375dac71?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 13:31:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Canada Retail Sales Look to Build on August’s Rebound",
-      "link": "https://www.wsj.com/economy/consumers/canada-retail-sales-look-to-build-on-augusts-rebound-c80f8bec?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 13:10:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
       "link": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 08:44:00 GMT",
@@ -95,6 +83,24 @@
       "link": "https://www.wsj.com/business/earnings/western-digital-profit-grows-on-data-storage-demand-28a69a7d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 22:53:00 GMT",
       "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "Deckers Cuts Sales Outlook as Shoppers Seek Out Discounted Shoes",
+      "link": "https://www.wsj.com/business/earnings/deckers-cuts-sales-outlook-amid-slower-hoka-ugg-growth-84f46d5c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 22:04:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Boston Beer Logs Lower Profit, Revenue Amid Bleak Beer Market",
+      "link": "https://www.wsj.com/business/earnings/boston-beer-logs-lower-profit-revenue-amid-bleak-beer-market-d2aecada?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 22:04:00 GMT",
+      "sentiment": -0.38518518518518513
+    },
+    {
+      "title": "American Express to Cut 5% of Global Workforce",
+      "link": "https://www.wsj.com/business/earnings/american-express-raises-profit-outlook-on-increased-member-spending-375dac71?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 15:44:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Booz Allen Expects Growth to Accelerate as Civil Business Pressures Ease",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/autos/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 11:31:00 GMT",
       "sentiment": 0.17222222222222222
-    },
-    {
-      "title": "Eni Shareholders Set for Cash Boost After Earnings Double",
-      "link": "https://www.wsj.com/business/energy-oil/eni-shareholders-set-for-cash-boost-after-earnings-double-7c3df34b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 07:18:00 GMT",
-      "sentiment": 0.3333333333333333
     },
     {
       "title": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South",
@@ -193,6 +193,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "Eni to Sign up to $1.8 Billion of Infrastructure Contracts for Cyprus Gas Project in Coming Days, Sources Say",
+      "link": "https://www.wsj.com/business/energy-oil/eni-to-sign-up-to-1-8-billion-of-infrastructure-contracts-for-cyprus-gas-project-in-coming-days-sources-say-1a6fd498?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 15:06:00 GMT",
+      "sentiment": 0.375
+    },
+    {
       "title": "Oil Prices Rise as Middle East Risks Persist",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 13:11:00 GMT",
@@ -211,16 +217,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
-      "link": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 05:24:00 GMT",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 19:29:00 GMT",
-      "sentiment": 0.15499999999999997
+      "title": "Eni Shareholders Set for Cash Boost After Earnings Double",
+      "link": "https://www.wsj.com/business/energy-oil/eni-shareholders-set-for-cash-boost-after-earnings-double-7c3df34b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 07:18:00 GMT",
+      "sentiment": 0.3333333333333333
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
