@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0b5eaf18?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 10:15:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "The Best Boards (and the Factors That Make Them)",
+      "link": "https://www.wsj.com/articles/the-best-boards-and-the-factors-that-make-them-3010102d?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 09:55:00 GMT",
+      "sentiment": 1.0
+    },
+    {
       "title": "See How Airlines Are Navigating the Dangerous Skies to Avoid Global Conflicts",
       "link": "https://www.wsj.com/business/airlines/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-3352cac3?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 02:00:00 GMT",
@@ -22,18 +34,6 @@
       "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps",
       "link": "https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 21:27:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e1d91687?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 20:57:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Inside the U.S. Push to Put Nuclear Reactors in Ports and on Cargo Ships",
-      "link": "https://www.wsj.com/business/logistics/us-nuclear-reactors-cargo-ships-ports-50ac9dd1?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 18:35:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -193,6 +193,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "Oil Majors’ Quarterly Earnings in Spotlight With Refineries Set to Gain",
+      "link": "https://www.wsj.com/business/energy-oil/oil-majors-quarterly-earnings-in-spotlight-with-refineries-set-to-gain-539ddc3a?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 09:11:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Prices Rise as Middle East Risks Persist",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 07:31:00 GMT",
@@ -214,12 +220,6 @@
       "title": "Carrier Plans $600 Million Texas Plant to Make Cooling Gear for AI Data Centers",
       "link": "https://www.wsj.com/business/carrier-plans-600-million-texas-plant-to-make-cooling-gear-for-ai-data-centers-01c1a1dc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Aramco CEO Says East-West Pipeline Capacity Could Reach 10 Million Barrels a Day",
-      "link": "https://www.wsj.com/business/energy-oil/aramco-ceo-says-east-west-pipeline-capacity-could-reach-10-million-barrels-a-day-d761c76e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 09:15:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -343,6 +343,12 @@
       "sentiment": -0.10000000000000002
     },
     {
+      "title": "Inside the U.S. Push to Put Nuclear Reactors in Ports and on Cargo Ships",
+      "link": "https://www.wsj.com/business/logistics/us-nuclear-reactors-cargo-ships-ports-50ac9dd1?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 18:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
       "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:47:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/steelmakers-post-gains-on-higher-prices-tight-supplies-as-imports-shrink-7f57cea8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 11:08:00 GMT",
       "sentiment": 0.023809523809523808
-    },
-    {
-      "title": "Self-Driving Big Rigs Rack Up Miles, Just Don’t Tell Them to Back Up…Yet",
-      "link": "https://www.wsj.com/logistics-report/self-driving-big-rigs-rack-up-miles-just-dont-tell-them-to-back-upyet-5b81408c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 19 Oct 2026 11:02:00 GMT",
-      "sentiment": 0.0011111111111111113
     },
     {
       "title": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount",
@@ -433,6 +433,12 @@
       "sentiment": 0.15555555555555556
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e1d91687?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 20:57:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
       "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:16:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/japans-top-labor-union-targets-big-pay-bump-in-line-with-boj-aims-405df73f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 07:25:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Mark Zuckerberg Threatened to Leave California. Meta’s Board Cut Him a Deal.",
-      "link": "https://www.wsj.com/business/mark-zuckerberg-discussed-leaving-california-over-wealth-tax-21b0b522?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 04:57:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
