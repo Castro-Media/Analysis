@@ -7,16 +7,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-      "link": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 20:55:00 GMT",
-      "sentiment": -0.23076923076923078
+      "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+      "link": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Falls 0.12% to 96.80",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 21:27:00 GMT",
       "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 20:55:00 GMT",
+      "sentiment": -0.23076923076923078
     },
     {
       "title": "Tech Stocks Fall on AI Concerns",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/blackstones-core-businesses-hit-by-rising-rates-9a6a39cb?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 14:11:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet",
-      "link": "https://www.wsj.com/finance/commodities-futures/with-disruption-on-every-side-food-markets-are-somehow-eerily-quiet-c60ed033?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 13:25:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
@@ -133,6 +133,12 @@
       "sentiment": -0.075
     },
     {
+      "title": "Nikkei Falls 2.2%, Dragged by Chip, Bank Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-bank-stocks-762642bf?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 00:15:00 GMT",
+      "sentiment": 0.0875
+    },
+    {
       "title": "U.S. Stocks Fall as Tech Selloff Deepens",
       "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 18:42:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 06:30:00 GMT",
       "sentiment": 0.12
-    },
-    {
-      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
-      "link": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 21:36:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Opinion | Don’t Punish the Productive",
@@ -199,6 +199,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Falls on Likely Technical Correction After Earlier Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.017857142857142856
+    },
+    {
+      "title": "Gold is Flat, Likely to Consolidate in Near Term",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 00:10:00 GMT",
+      "sentiment": 0.05975378787878788
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1a1c35f5?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 20:56:00 GMT",
@@ -215,18 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 19:32:00 GMT",
       "sentiment": 0.252
-    },
-    {
-      "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
-      "link": "https://www.wsj.com/finance/commodities-futures/silver-futures-fall-to-lowest-this-year-as-oil-prices-fuel-inflation-risks-f013e561?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 18:34:00 GMT",
-      "sentiment": 0.046936026936026935
-    },
-    {
-      "title": "Comex Gold Settles 2.12% Lower at $4042.80",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 17:42:00 GMT",
-      "sentiment": -0.18703703703703703
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 96.92",
@@ -289,6 +289,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet",
+      "link": "https://www.wsj.com/finance/commodities-futures/with-disruption-on-every-side-food-markets-are-somehow-eerily-quiet-c60ed033?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 13:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
       "link": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
@@ -301,22 +307,16 @@
       "sentiment": 0.2333333333333333
     },
     {
+      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+      "link": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_markets_main",
+      "published": "Wed, 21 Oct 2026 21:36:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "One of Your Fuel Bills Is Poised to Be Lower This Year",
       "link": "https://www.wsj.com/finance/commodities-futures/one-of-your-fuel-bills-is-poised-to-be-lower-this-year-d127eb15?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 21:00:00 GMT",
       "sentiment": 0.1111111111111111
-    },
-    {
-      "title": "SpaceX and Tesla Consider Merger",
-      "link": "https://www.wsj.com/finance/stocks/spacex-and-tesla-consider-merger-9a38832d?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 20:26:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
-      "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_markets_main",
-      "published": "Wed, 21 Oct 2026 19:34:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance",
