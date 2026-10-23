@@ -1,15 +1,45 @@
 {
   "entries": [
     {
+      "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
+      "published": "Fri, 23 Oct 2026 18:18:05 +0000",
+      "sentiment": -0.30000000000000004
+    },
+    {
+      "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
+      "published": "Fri, 23 Oct 2026 18:18:46 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
+      "published": "Fri, 23 Oct 2026 17:15:02 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Bard Names Marvin Krislov as President, as Former Leader Fends Off Epstein Allegations",
+      "link": "https://www.nytimes.com/2026/10/23/us/bard-college-president-marvin-krislov.html",
+      "published": "Fri, 23 Oct 2026 17:10:57 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Susan Collins Uses Troy Jackson’s ‘Shut Up’ Debate Comment in New Ad",
+      "link": "https://www.nytimes.com/2026/10/23/us/collins-jackson-maine-shut-up-ad.html",
+      "published": "Fri, 23 Oct 2026 17:39:19 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/democratic-agenda.html",
-      "published": "Fri, 23 Oct 2026 16:43:54 +0000",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
+      "published": "Fri, 23 Oct 2026 17:14:19 +0000",
       "sentiment": 0.5333333333333333
     },
     {
       "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
-      "published": "Fri, 23 Oct 2026 16:46:17 +0000",
+      "published": "Fri, 23 Oct 2026 17:49:54 +0000",
       "sentiment": -0.033333333333333326
     },
     {
@@ -25,21 +55,21 @@
       "sentiment": 0.41818181818181815
     },
     {
-      "title": "Karen Bass Climbed L.A.’s Political Ladder. Then a Fire Changed Everything.",
+      "title": "Nearly 2 Years After the Fires, L.A. Mayor Fights for Her Political Life",
       "link": "https://www.nytimes.com/2026/10/23/us/karen-bass-la-mayor-race.html",
-      "published": "Fri, 23 Oct 2026 14:23:55 +0000",
-      "sentiment": -0.05000000000000001
+      "published": "Fri, 23 Oct 2026 16:56:57 +0000",
+      "sentiment": -0.2625
     },
     {
       "title": "Tom Tiffany Tries to Distance Himself From Trump in Wisconsin Governor’s Race",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/midterms-wisconsin-governor-trump.html",
-      "published": "Fri, 23 Oct 2026 14:01:31 +0000",
-      "sentiment": 0.45
+      "published": "Fri, 23 Oct 2026 17:06:57 +0000",
+      "sentiment": -0.09722222222222222
     },
     {
       "title": "Judge Orders Trump to Sit for Deposition in BBC Defamation Case",
       "link": "https://www.nytimes.com/2026/10/23/us/trump-bbc-lawsuit-deposition.html",
-      "published": "Fri, 23 Oct 2026 14:01:26 +0000",
+      "published": "Fri, 23 Oct 2026 17:21:39 +0000",
       "sentiment": 0.0
     },
     {
@@ -51,13 +81,13 @@
     {
       "title": "Roy Cooper Has Never Lost an Election. Can He Flip North Carolina’s Senate Seat?",
       "link": "https://www.nytimes.com/2026/10/23/us/politics/roy-cooper-north-carolina-senate-election.html",
-      "published": "Fri, 23 Oct 2026 13:00:11 +0000",
+      "published": "Fri, 23 Oct 2026 17:18:30 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Campaigns Spend Over $1 Billion Over Two Weeks in Final Search for Votes",
       "link": "https://www.nytimes.com/2026/10/23/us/midterm-campaign-finance.html",
-      "published": "Fri, 23 Oct 2026 14:27:50 +0000",
+      "published": "Fri, 23 Oct 2026 14:27:51 +0000",
       "sentiment": 0.03472222222222222
     },
     {
@@ -173,18 +203,6 @@
       "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
       "published": "Thu, 22 Oct 2026 23:57:34 +0000",
       "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "Hakeem Jeffries Launches Final Midterm Sprint for House Majority",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/hakeem-jeffries-hudson-valley-campaign-midterms.html",
-      "published": "Thu, 22 Oct 2026 18:49:51 +0000",
-      "sentiment": 0.21212121212121213
-    },
-    {
-      "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
-      "published": "Thu, 22 Oct 2026 23:33:19 +0000",
-      "sentiment": -0.35
     }
   ]
 }

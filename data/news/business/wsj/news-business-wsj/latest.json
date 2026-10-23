@@ -1,13 +1,19 @@
 {
   "entries": [
     {
+      "title": "Why Nearly 25% of the Country Is Still Watching ‘Seinfeld’",
+      "link": "https://www.wsj.com/business/media/seinfeld-acquired-podcast-syndication-9370c0af?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0b5eaf18?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 16:34:00 GMT",
       "sentiment": 0.25
     },
     {
-      "title": "‘The UPS Man’ Review: The Secrets of Moving Goods",
+      "title": "‘The UPS Man’ Review: All in the Delivery",
       "link": "https://www.wsj.com/business/logistics/the-ups-man-review-the-secrets-of-moving-goods-162c43fb?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 16:34:00 GMT",
       "sentiment": 0.0
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-signal-chats-that-cost-openai-researchers-their-jobs-7adf1811?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 10:56:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Best Boards (and the Factors That Make Them)",
-      "link": "https://www.wsj.com/articles/the-best-boards-and-the-factors-that-make-them-3010102d?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 09:55:00 GMT",
-      "sentiment": 1.0
     },
     {
       "title": "Nippon’s U.S. Steel to Invest Nearly $3 Billion in Hot Strip Mill Near Pittsburgh",
@@ -157,6 +157,12 @@
       "sentiment": 0.14444444444444446
     },
     {
+      "title": "Opinion | Michigan’s Proposal 2 Aims at Politicians, Hits Journalists",
+      "link": "https://www.wsj.com/opinion/michigans-proposal-2-aims-at-politicians-hits-journalists-07aaa486?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 17:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | New Mexico Tries to Censor Meta",
       "link": "https://www.wsj.com/opinion/new-mexico-meta-lawsuit-judge-francis-mathew-mark-zuckerberg-a2a08fe5?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 21:39:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/gen-z-is-just-asking-questions-b9a5d072?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 21:51:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Opinion | Flying the Socialist Skies at United",
-      "link": "https://www.wsj.com/opinion/scott-kirby-united-airlines-wealth-tax-31a04c56?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 21:34:00 GMT",
-      "sentiment": 0.35
     },
     {
       "title": "Eni to Sign up to $1.8 Billion of Infrastructure Contracts for Cyprus Gas Project in Coming Days, Sources Say",
@@ -265,6 +265,12 @@
       "sentiment": 0.7444444444444445
     },
     {
+      "title": "The Best Boards (and the Factors That Make Them)",
+      "link": "https://www.wsj.com/articles/the-best-boards-and-the-factors-that-make-them-3010102d?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 09:55:00 GMT",
+      "sentiment": 1.0
+    },
+    {
       "title": "PE Firms Are Holding Investments Longer—and Changing Leaders More",
       "link": "https://www.wsj.com/cfo-journal/pe-firms-are-holding-investments-longerand-changing-leaders-more-2d0bb31a?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 10:55:00 GMT",
@@ -274,12 +280,6 @@
       "title": "The CEO Who Turns ‘Touchy-Feely’ Leadership Into Profits",
       "link": "https://www.wsj.com/business/the-ceo-who-turns-touchy-feely-leadership-into-profits-f899ccd4?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
-      "link": "https://www.wsj.com/cfo-journal/trump-hands-out-8-billion-to-farmers-kroger-targets-earnings-growth-b3446f86?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 11:19:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -463,16 +463,16 @@
       "sentiment": -0.2
     },
     {
-      "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
-      "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "Moderna’s Stock Plummets After Cancer-Vaccine Data Shared on Social Media",
       "link": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-data-leaks-early-shares-plummet-f6bc4b4f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 20:30:00 GMT",
       "sentiment": 0.21666666666666667
+    },
+    {
+      "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
+      "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
@@ -481,16 +481,16 @@
       "sentiment": 0.16
     },
     {
-      "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
-      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "American Express to Cut 3,500 Jobs",
       "link": "https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 14:10:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Why Nearly 25% of the Country Is Still Watching ‘Seinfeld’",
+      "link": "https://www.wsj.com/business/media/seinfeld-acquired-podcast-syndication-9370c0af?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Best Small-Business Loans in October 2026",
