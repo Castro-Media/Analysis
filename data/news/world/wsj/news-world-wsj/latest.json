@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Gunman Kills One Near Paris in Suspected Attack on Immigrant Communities",
+      "link": "https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 12:57:00 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "How Does the Ukrainian Military Use Starlink?",
+      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 11:43:00 GMT",
+      "sentiment": -0.025
+    },
+    {
       "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
       "link": "https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 10:32:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
-      "link": "https://www.wsj.com/world/china/xinjiang-trade-energy-controversy-dff138df?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.21000000000000002
-    },
-    {
-      "title": "El Salvador Sends Troops to Haiti to Rescue Military Personnel After Gang Ambush",
-      "link": "https://www.wsj.com/world/americas/el-salvador-attempts-rescue-of-military-personnel-after-gang-ambush-in-haiti-8ca67b13?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 00:54:00 GMT",
-      "sentiment": -0.03333333333333333
     },
     {
       "title": "Oil Prices Rise as Middle East Risks Persist",
@@ -97,6 +97,12 @@
       "sentiment": -0.3333333333333333
     },
     {
+      "title": "El Salvador Sends Troops to Haiti to Rescue Military Personnel After Gang Ambush",
+      "link": "https://www.wsj.com/world/americas/el-salvador-attempts-rescue-of-military-personnel-after-gang-ambush-in-haiti-8ca67b13?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 00:54:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "Alberta Voted to Stay in Canada but the Separatists Vow to Fight On",
       "link": "https://www.wsj.com/world/americas/alberta-voted-to-stay-in-canada-but-the-separatists-vow-to-fight-on-dc3fe0dd?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 22:24:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/cleveland-cliffs-braces-for-fight-as-canada-looks-to-block-layoffs-at-stelco-a8346d7a?mod=rss_worldnews",
       "published": "Fri, 16 Oct 2026 20:01:00 GMT",
       "sentiment": 0.35
-    },
-    {
-      "title": "How Trump’s Pressure Could Actually End Up Saving Canada",
-      "link": "https://www.wsj.com/world/americas/how-trumps-pressure-could-actually-end-up-saving-canada-1ca3f166?mod=rss_worldnews",
-      "published": "Fri, 16 Oct 2026 15:14:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "U.K. Inflation Jumps Again, Strengthening Case for Rate Hike",
@@ -195,7 +195,7 @@
     {
       "title": "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
       "link": "https://www.wsj.com/pro/central-banking/russias-central-bank-sees-only-modest-further-drop-in-key-rate-8a604c0d?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 10:53:00 GMT",
+      "published": "Fri, 23 Oct 2026 11:07:00 GMT",
       "sentiment": 0.007777777777777779
     },
     {
@@ -223,6 +223,12 @@
       "sentiment": 0.016666666666666666
     },
     {
+      "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
+      "link": "https://www.wsj.com/world/china/xinjiang-trade-energy-controversy-dff138df?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.21000000000000002
+    },
+    {
       "title": "China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule.",
       "link": "https://www.wsj.com/world/china/chinas-ultimate-political-survivor-just-fell-what-that-says-about-xis-rule-b04cfa2f?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 10:55:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030?mod=rss_worldnews",
       "published": "Fri, 16 Oct 2026 10:15:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe",
-      "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_worldnews",
-      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.2333333333333333
     },
     {
       "title": "Witkoff’s Praise of Putin as ‘Humanitarian’ Tracks With U.S. Approach to Russia",
@@ -389,12 +389,6 @@
       "link": "https://www.wsj.com/world/middle-east/irans-fleet-of-shadow-tankers-has-run-out-of-oil-after-monthslong-u-s-blockade-0822b050?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 01:00:00 GMT",
       "sentiment": -0.18333333333333335
-    },
-    {
-      "title": "How Does the Ukrainian Military Use Starlink?",
-      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 23:49:00 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "Diplomats Race to Head Off Escalation With Iran",
