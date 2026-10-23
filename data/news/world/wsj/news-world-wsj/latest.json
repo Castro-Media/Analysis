@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Netanyahu Calls for West Bank Lockdown After Deadly Attack",
+      "link": "https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 16:38:00 GMT",
+      "sentiment": -0.1851851851851852
+    },
+    {
+      "title": "Gunmen Kill Seven in Church Attack in Jordan",
+      "link": "https://www.wsj.com/world/middle-east/gunmen-kill-seven-in-church-attack-in-jordan-c4ff80b6?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 16:36:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
+      "link": "https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 15:58:00 GMT",
+      "sentiment": 0.15333333333333335
+    },
+    {
       "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
       "link": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 15:48:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/world/americas/venezuelas-shrimp-king-wanted-his-700-million-firm-back-now-hes-in-jail-1c7d0a47?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 14:30:00 GMT",
       "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "How Does the Ukrainian Military Use Starlink?",
-      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 11:43:00 GMT",
-      "sentiment": -0.025
-    },
-    {
-      "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
-      "link": "https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 10:32:00 GMT",
-      "sentiment": 0.15333333333333335
-    },
-    {
-      "title": "What’s Behind the Protests in France and What Happens Next",
-      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 10:19:00 GMT",
-      "sentiment": -0.4000000000000001
     },
     {
       "title": "Oil Prices Rise as Middle East Risks Persist",
@@ -199,6 +199,12 @@
       "sentiment": 0.007777777777777779
     },
     {
+      "title": "What’s Behind the Protests in France and What Happens Next",
+      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 10:19:00 GMT",
+      "sentiment": -0.4000000000000001
+    },
+    {
       "title": "Eight Charts That Show the Depth of France’s Financial Crunch",
       "link": "https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 02:00:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 07:51:00 GMT",
       "sentiment": 0.08916666666666667
-    },
-    {
-      "title": "Airfield Attack Marked Opening Shot in Putin’s Stepped-Up Sabotage Campaign",
-      "link": "https://www.wsj.com/world/europe/airfield-attack-marked-opening-shot-in-putins-sabotage-campaign-against-europe-115dedd4?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.08787878787878789
     },
     {
       "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
@@ -373,6 +373,12 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "How Does the Ukrainian Military Use Starlink?",
+      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 11:43:00 GMT",
+      "sentiment": -0.025
+    },
+    {
       "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps",
       "link": "https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 21:27:00 GMT",
@@ -383,18 +389,6 @@
       "link": "https://www.wsj.com/world/middle-east/one-person-killed-and-8-injured-in-airport-attack-in-saudi-arabia-4c84d5d4?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 01:06:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade",
-      "link": "https://www.wsj.com/world/middle-east/irans-fleet-of-shadow-tankers-has-run-out-of-oil-after-monthslong-u-s-blockade-0822b050?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.18333333333333335
-    },
-    {
-      "title": "Diplomats Race to Head Off Escalation With Iran",
-      "link": "https://www.wsj.com/world/middle-east/diplomats-race-to-head-off-escalation-with-iran-4dd00ab4?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 21:33:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
