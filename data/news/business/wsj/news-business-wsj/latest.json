@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South",
+      "link": "https://www.wsj.com/business/autos/chevy-bolt-electric-vehicle-road-trip-e908d420?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
+      "link": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 23:54:00 GMT",
+      "sentiment": 0.24000000000000005
+    },
+    {
       "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps",
       "link": "https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 21:27:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:16:00 GMT",
       "sentiment": -0.175
-    },
-    {
-      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
-      "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 12:57:00 GMT",
-      "sentiment": -0.15625
-    },
-    {
-      "title": "The CEO Who Turns ‘Touchy-Feely’ Leadership Into Profits",
-      "link": "https://www.wsj.com/business/the-ceo-who-turns-touchy-feely-leadership-into-profits-f899ccd4?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 09:57:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nippon’s U.S. Steel to Invest Nearly $3 Billion in Hot Strip Mill Near Pittsburgh",
@@ -127,6 +127,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
+      "link": "https://www.wsj.com/tech/spacex-and-tesla-are-joined-at-the-hip-a-merger-would-make-it-formal-507c475f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 12:57:00 GMT",
+      "sentiment": -0.15625
+    },
+    {
       "title": "Toyota Reckons With Short Supply of Its Most Popular SUV",
       "link": "https://www.wsj.com/logistics-report/toyota-reckons-with-short-supply-of-its-most-popular-suv-226a0d91?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 11:04:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 02:00:00 GMT",
       "sentiment": -0.09722222222222222
-    },
-    {
-      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
-      "link": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 22:47:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | New Mexico Tries to Censor Meta",
@@ -193,6 +193,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+      "link": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.35
+    },
+    {
       "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 19:29:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 07:51:00 GMT",
       "sentiment": 0.08916666666666667
-    },
-    {
-      "title": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount",
-      "link": "https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 06:30:00 GMT",
-      "sentiment": 0.12
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -259,6 +259,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "The CEO Who Turns ‘Touchy-Feely’ Leadership Into Profits",
+      "link": "https://www.wsj.com/business/the-ceo-who-turns-touchy-feely-leadership-into-profits-f899ccd4?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 09:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
       "link": "https://www.wsj.com/cfo-journal/trump-hands-out-8-billion-to-farmers-kroger-targets-earnings-growth-b3446f86?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 11:19:00 GMT",
@@ -274,12 +280,6 @@
       "title": "Fastenal’s CFO Is Building a Financial Planning Team. AI is Helping.",
       "link": "https://www.wsj.com/cfo-journal/fastenals-cfo-is-building-a-financial-planning-team-ai-is-helping-62ce9ab9?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 10:56:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Bill Gross’s AI Tool Could Supercharge the Number of Startups",
-      "link": "https://www.wsj.com/tech/ai/bill-grosss-ai-tool-could-supercharge-the-number-of-startups-27187080?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {

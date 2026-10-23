@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
+      "link": "https://www.wsj.com/world/china/xinjiang-trade-energy-controversy-dff138df?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.21000000000000002
+    },
+    {
+      "title": "El Salvador Sends Troops to Haiti to Rescue Military Personnel After Gang Ambush",
+      "link": "https://www.wsj.com/world/americas/el-salvador-attempts-rescue-of-military-personnel-after-gang-ambush-in-haiti-8ca67b13?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 00:54:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
+      "link": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.35
+    },
+    {
       "title": "The Voters Who Could Decide Israel’s Election and Rewrite Its Future",
       "link": "https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 23:00:00 GMT",
@@ -25,18 +43,6 @@
       "sentiment": 0.065625
     },
     {
-      "title": "El Salvador Attempts Rescue of Military Personnel After Gang Ambush in Haiti",
-      "link": "https://www.wsj.com/world/americas/el-salvador-attempts-rescue-of-military-personnel-after-gang-ambush-in-haiti-8ca67b13?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 19:11:00 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines",
-      "link": "https://www.wsj.com/world/europe/the-subterranean-battle-playing-out-deep-in-ukraines-soviet-era-pipelines-49dcc260?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 10:19:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 19:29:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/diplomats-race-to-head-off-escalation-with-iran-4dd00ab4?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 21:33:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Congressional Candidate Brad Lander Says Israeli Military Detained Him in West Bank",
-      "link": "https://www.wsj.com/politics/congressional-candidate-brad-lander-says-israeli-military-detained-him-in-west-bank-92a24ce8?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 19:25:00 GMT",
-      "sentiment": 0.018181818181818174
     },
     {
       "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
@@ -193,6 +193,12 @@
       "sentiment": 0.8
     },
     {
+      "title": "The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines",
+      "link": "https://www.wsj.com/world/europe/the-subterranean-battle-playing-out-deep-in-ukraines-soviet-era-pipelines-49dcc260?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 10:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe",
       "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 07:51:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/french-police-hunt-for-suspected-rioters-in-weekend-unrest-d153ed6d?mod=rss_worldnews",
       "published": "Tue, 20 Oct 2026 19:26:00 GMT",
       "sentiment": 0.016666666666666666
-    },
-    {
-      "title": "German Investor Confidence Declines for First Time in Six Months",
-      "link": "https://www.wsj.com/world/europe/german-investor-confidence-declines-as-energy-prices-weigh-99fa234d?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 12:35:00 GMT",
-      "sentiment": 0.132
     },
     {
       "title": "China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule.",
@@ -383,12 +383,6 @@
       "link": "https://www.wsj.com/world/elon-musks-starlink-speed-cap-has-scrambled-ukraines-defenses-fdfd936e?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 17:54:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
-      "link": "https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 09:47:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
