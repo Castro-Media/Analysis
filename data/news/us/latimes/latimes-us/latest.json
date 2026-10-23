@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "After decades of false starts, the 1914 Hotel Clark finally reopens in downtown L.A.",
+      "link": "https://www.latimes.com/travel/story/2026-10-23/hotel-clark-dtla-reopening",
+      "published": "Fri, 23 Oct 2026 17:52:18 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Mediator to decide whether Nick Reiner's trust fund can pay for defense in murder case",
+      "link": "https://www.latimes.com/california/story/2026-10-23/mediator-nick-reiner-trust-fund-murder-case-defense",
+      "published": "Fri, 23 Oct 2026 17:15:25 GMT",
+      "sentiment": 0.11111111111111112
+    },
+    {
       "title": "'His wheels weren't hot enough': California police bust $54,000 Hot Wheels thief",
       "link": "https://www.latimes.com/california/story/2026-10-23/hot-wheels-train-theft-colton-police-recover-54-000-in-stolen-toys",
       "published": "Fri, 23 Oct 2026 16:08:46 GMT",
@@ -43,12 +55,6 @@
       "sentiment": 0.08974747474747477
     },
     {
-      "title": "Many Latinos are over Trump. The shift is especially striking in Texas",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.75
-    },
-    {
       "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
       "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -61,10 +67,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "Man forced way into Arcadia home, killed teenage girl, police say",
+      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "Man kills his teenage ex-girlfriend then shoots himself, authorities say",
       "link": "https://www.latimes.com/california/story/2026-10-22/teen-is-killed-in-arcadia-suspected-shooter-attempts-suicide-in-pasadena-police-say",
       "published": "Fri, 23 Oct 2026 02:19:25 GMT",
-      "sentiment": -0.016666666666666663
+      "sentiment": 0.09999999999999999
     },
     {
       "title": "Supplement sold at gas stations blamed for California man's opioid overdose",
@@ -157,24 +169,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
-      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
-      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
-    },
-    {
       "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
       "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
@@ -191,6 +185,24 @@
       "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
+      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
+      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 1.0
     },
     {
       "title": "Preschool, transitional kindergarten deliver big: 11 months ahead in reading, 8 in math",
@@ -253,6 +265,12 @@
       "sentiment": 0.009090909090909087
     },
     {
+      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
+      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
+      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "Examining Becerra's quarter of a century in Washington",
       "link": "https://www.latimes.com/politics/story/2026-10-21/becerras-time-in-washington-steady-rise-with-bumpy-final-ascent",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
@@ -263,12 +281,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-21/lopez-column-lax-skylink-people-mover-delays",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
-      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.6
     },
     {
       "title": "After their 13-year-old died in an e-motorcycle crash, they're facing charges",
@@ -469,12 +481,6 @@
       "sentiment": 0.1452020202020202
     },
     {
-      "title": "Clean transit, poor oversight",
-      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05333333333333333
-    },
-    {
       "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
       "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
@@ -487,6 +493,12 @@
       "sentiment": 0.3666666666666667
     },
     {
+      "title": "Clean transit, poor oversight",
+      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05333333333333333
+    },
+    {
       "title": "Two men found dead after standoff with Long Beach police",
       "link": "https://www.latimes.com/california/story/2026-10-17/two-men-found-dead-after-standoff-with-long-beach-police",
       "published": "Sun, 18 Oct 2026 00:31:05 GMT",
@@ -497,18 +509,6 @@
       "link": "https://www.latimes.com/environment/story/2026-10-17/mt-shasta-rescue",
       "published": "Sat, 17 Oct 2026 23:32:17 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "At least 9 California federal lawmakers targeted in nationwide mail threat",
-      "link": "https://www.latimes.com/business/story/2026-10-17/suspicious-white-powder-letters-sent-to-california-lawmakers",
-      "published": "Sat, 17 Oct 2026 20:03:27 GMT",
-      "sentiment": -0.19999999999999998
-    },
-    {
-      "title": "'No Kings' protests mobilize across California as activists push for early voter turnout",
-      "link": "https://www.latimes.com/california/story/2026-10-17/southern-california-no-kings-protests",
-      "published": "Sat, 17 Oct 2026 17:51:27 GMT",
-      "sentiment": 0.1
     }
   ]
 }
