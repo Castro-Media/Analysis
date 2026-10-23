@@ -1,9 +1,15 @@
 {
   "entries": [
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 23:16:16 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 04:54:25 GMT",
       "sentiment": 0.0
     },
     {
@@ -19,22 +25,10 @@
       "sentiment": 0.175
     },
     {
-      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 10:10:13 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
       "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 08:31:48 GMT",
       "sentiment": 0.4
-    },
-    {
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 09:55:15 GMT",
-      "sentiment": 0.15000000000000002
     },
     {
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
@@ -43,16 +37,16 @@
       "sentiment": 0.2
     },
     {
-      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
-      "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 15:58:57 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Kenya cult leader's children still being starved weeks before trial, son says",
       "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 13:23:32 GMT",
       "sentiment": 0.3
+    },
+    {
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 09:55:15 GMT",
+      "sentiment": 0.15000000000000002
     },
     {
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",

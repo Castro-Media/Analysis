@@ -67,6 +67,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "Safran Confirms Guidance as Revenue Jumps",
+      "link": "https://www.wsj.com/business/safran-confirms-guidance-as-revenue-jumps-984356b4?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 05:37:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Western Digital Profit Grows on Data Storage Demand, Higher Pricing",
       "link": "https://www.wsj.com/business/earnings/western-digital-profit-grows-on-data-storage-demand-28a69a7d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 22:53:00 GMT",
@@ -91,10 +97,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Kering’s Sales Lose Steam in Struggling Luxury Market",
-      "link": "https://www.wsj.com/business/retail/kerings-sales-lose-steam-in-struggling-luxury-market-2154c2d6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 17:21:00 GMT",
-      "sentiment": -0.125
+      "title": "Eni Shareholders Set for Cash Boost After Earnings Double",
+      "link": "https://www.wsj.com/business/energy-oil/eni-shareholders-set-for-cash-boost-after-earnings-double-7c3df34b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 06:34:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Volvo Car to Cut 2,500 Jobs as Part of Plan to Cut Costs Further",
+      "link": "https://www.wsj.com/business/earnings/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 05:57:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/loreal-eyes-profit-rise-this-year-as-sales-keep-growing-d1cbee8f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 16:41:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "American Airlines Sees Another Quarterly Loss as Fuel Costs Rise",
-      "link": "https://www.wsj.com/business/earnings/american-airlines-forecasts-another-quarterly-loss-on-surging-fuel-costs-68307f23?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 15:24:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
-      "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 13:47:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
@@ -195,7 +195,7 @@
     {
       "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
       "link": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "published": "Fri, 23 Oct 2026 05:24:00 GMT",
       "sentiment": 0.35
     },
     {
@@ -343,6 +343,12 @@
       "sentiment": -0.10000000000000002
     },
     {
+      "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
+      "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 13:47:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "GM Narrows Outlook on Commodity, Logistics Costs",
       "link": "https://www.wsj.com/logistics-report/gm-narrows-outlook-on-commodity-logistics-costs-776deed4?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 11:04:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/self-driving-big-rigs-rack-up-miles-just-dont-tell-them-to-back-upyet-5b81408c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 19 Oct 2026 11:02:00 GMT",
       "sentiment": 0.0011111111111111113
-    },
-    {
-      "title": "The Most Polite Trucker in America Is a Driverless 18-Wheeler",
-      "link": "https://www.wsj.com/business/driverless-trucks-18-wheeler-aurora-35b89c45?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 17 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
@@ -475,16 +475,16 @@
       "sentiment": 0.21666666666666667
     },
     {
-      "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
-      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "Nurses Are in High Demand—but They’re Quitting in Droves",
       "link": "https://www.wsj.com/health/healthcare/nurses-are-in-high-demandbut-theyre-quitting-in-droves-d8ead94f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 20 Oct 2026 01:00:00 GMT",
       "sentiment": 0.16
+    },
+    {
+      "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
+      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
