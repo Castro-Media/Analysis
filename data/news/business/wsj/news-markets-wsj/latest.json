@@ -7,6 +7,12 @@
       "sentiment": -0.35
     },
     {
+      "title": "Stocks, Pulled in Two Directions, Fall to End Volatile Week",
+      "link": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 21:10:00 GMT",
+      "sentiment": -0.6
+    },
+    {
       "title": "Stock Selloff Continues as Oil Surges",
       "link": "https://www.wsj.com/finance/stocks/stock-selloff-continues-as-oil-surges-a6d20245?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 20:19:00 GMT",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 09:30:00 GMT",
       "sentiment": -0.1875
-    },
-    {
-      "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
-      "link": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
@@ -109,12 +109,6 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b467adab?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 16:33:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Bombardier to Invest $270 Million in U.S. Expansion as Trump Softens Stance",
       "link": "https://www.wsj.com/business/bombardier-to-invest-270-million-in-u-s-expansion-6d0c88cb?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 15:29:00 GMT",
@@ -131,6 +125,18 @@
       "link": "https://www.wsj.com/finance/investing/is-spacex-just-a-mess-cb1f06c2?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 10:25:00 GMT",
       "sentiment": 0.44166666666666665
+    },
+    {
+      "title": "Citi Gets Regulator Nod for Wholly Owned Securities Venture in China",
+      "link": "https://www.wsj.com/finance/investing/citi-gets-regulator-nod-for-wholly-owned-securities-venture-in-china-ca948d80?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 09:04:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b467adab?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 21:31:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "U.S. Stocks Fall as Oil Prices Hit Five-Month High",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-tech-stocks-drop-on-ai-spending-concerns-05400b55?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 20:45:00 GMT",
       "sentiment": -0.075
-    },
-    {
-      "title": "Tech Stocks Fall on AI Concerns",
-      "link": "https://www.wsj.com/finance/investing/tech-stocks-fall-on-ai-concerns-eea49847?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 20:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | Don’t Punish the Productive",
@@ -229,9 +229,9 @@
       "sentiment": 0.25
     },
     {
-      "title": "U.S. Dollar, Treasury Yields Rise",
+      "title": "WSJ Dollar Index Falls 0.25% This Week to 96.84",
       "link": "https://www.wsj.com/finance/currencies/dollar-likely-to-remain-in-155-160-yen-range-in-near-term-4e69b51a?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 10:46:00 GMT",
+      "published": "Fri, 23 Oct 2026 21:24:00 GMT",
       "sentiment": 0.25
     },
     {
@@ -289,6 +289,18 @@
       "sentiment": 0.4
     },
     {
+      "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+      "link": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tech Stocks Fall on AI Concerns",
+      "link": "https://www.wsj.com/finance/investing/tech-stocks-fall-on-ai-concerns-eea49847?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 20:26:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Optimum Communications Prepares for Bankruptcy to Implement Deal",
       "link": "https://www.wsj.com/pro/bankruptcy/optimum-communications-prepares-for-bankruptcy-to-implement-deal-fb2d868f?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 17:06:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/with-disruption-on-every-side-food-markets-are-somehow-eerily-quiet-c60ed033?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 13:25:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Sports Investing Is for Millionaires Now, not Billionaires",
-      "link": "https://www.wsj.com/finance/investing/sports-investing-is-for-millionaires-now-not-billionaires-aa16332b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 10:38:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
-      "link": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.0625
     },
     {
       "title": "How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance",
