@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0b5eaf18?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 16:34:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "‘The UPS Man’ Review: The Secrets of Moving Goods",
+      "link": "https://www.wsj.com/business/logistics/the-ups-man-review-the-secrets-of-moving-goods-162c43fb?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 16:34:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
       "link": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 14:01:00 GMT",
@@ -19,22 +31,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0b5eaf18?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 10:15:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "The Best Boards (and the Factors That Make Them)",
       "link": "https://www.wsj.com/articles/the-best-boards-and-the-factors-that-make-them-3010102d?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 09:55:00 GMT",
       "sentiment": 1.0
-    },
-    {
-      "title": "See How Airlines Are Navigating the Dangerous Skies to Avoid Global Conflicts",
-      "link": "https://www.wsj.com/business/airlines/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-3352cac3?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nippon’s U.S. Steel to Invest Nearly $3 Billion in Hot Strip Mill Near Pittsburgh",
@@ -97,6 +97,18 @@
       "sentiment": -0.38518518518518513
     },
     {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-441f39df?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 16:28:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "SLB Revenue Rises as Data-Center Demand Grows, Middle East Business Recovers",
+      "link": "https://www.wsj.com/business/earnings/slb-logs-higher-revenue-as-business-in-the-middle-east-recovers-f1b81666?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 16:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "American Express to Cut 5% of Global Workforce",
       "link": "https://www.wsj.com/business/earnings/american-express-raises-profit-outlook-on-increased-member-spending-375dac71?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 15:44:00 GMT",
@@ -113,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/rogers-communications-profit-drops-on-comparison-revenue-rises-02d2e32b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 12:11:00 GMT",
       "sentiment": 0.1130952380952381
-    },
-    {
-      "title": "SLB Logs Higher Revenue as Business in the Middle East Recovers",
-      "link": "https://www.wsj.com/business/earnings/slb-logs-higher-revenue-as-business-in-the-middle-east-recovers-f1b81666?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 11:35:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Volvo Car Shares Plunge as Automaker Slashes More Jobs",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/tesla-logs-surge-in-european-monthly-sales-add7427d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 05:06:00 GMT",
       "sentiment": 0.14444444444444446
-    },
-    {
-      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
-      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 00:05:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | New Mexico Tries to Censor Meta",
@@ -223,6 +223,18 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "title": "Archer Aviation Launches Air Taxi Fleets in Texas",
+      "link": "https://www.wsj.com/business/archer-aviation-launches-air-taxi-fleets-in-texas-38b697e6?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 15:59:00 GMT",
+      "sentiment": 0.18125
+    },
+    {
+      "title": "See How Flight Routes Are Changing to Avoid War Zones Around the World",
+      "link": "https://www.wsj.com/business/airlines/see-how-airlines-are-navigating-the-dangerous-skies-to-avoid-global-conflicts-3352cac3?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e0a8366d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 21:13:00 GMT",
@@ -241,22 +253,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "Air-Traffic Controllers’ Practice of Leaving Work Early Targeted in Pay Deal",
-      "link": "https://www.wsj.com/us-news/air-traffic-controllers-reach-deal-with-faa-for-2-8-pay-increase-5eb91365?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 22:06:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "The Mystery of the Disappearing Airplane Barf Bag",
-      "link": "https://www.wsj.com/lifestyle/travel/the-mystery-of-the-disappearing-airplane-barf-bag-23bdeb3f?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 16 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.03333333333333333
-    },
-    {
       "title": "LKQ Ousts CEO, Warns of Third-Quarter Shortfall",
       "link": "https://www.wsj.com/business/c-suite/lkq-ousts-ceo-warns-of-third-quarter-shortfall-95426635?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 13:31:00 GMT",
-      "sentiment": -0.3
+      "published": "Fri, 23 Oct 2026 16:06:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "What Makes A Great Board?",
@@ -487,10 +487,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find",
-      "link": "https://www.wsj.com/business/autos/how-toyotas-top-selling-suv-suddenly-became-so-hard-to-find-c2889dfb?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 02:00:00 GMT",
-      "sentiment": -0.09722222222222222
+      "title": "American Express to Cut 3,500 Jobs",
+      "link": "https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 14:10:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Best Small-Business Loans in October 2026",

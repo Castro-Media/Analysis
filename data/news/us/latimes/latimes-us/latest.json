@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "'His wheels weren't hot enough': California police bust $54,000 Hot Wheels thief",
+      "link": "https://www.latimes.com/california/story/2026-10-23/hot-wheels-train-theft-colton-police-recover-54-000-in-stolen-toys",
+      "published": "Fri, 23 Oct 2026 16:08:46 GMT",
+      "sentiment": 0.21000000000000002
+    },
+    {
+      "title": "ICE agents tackle and injure U.S. citizen student with disabilities, local officials say",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/santa-maria-high-school-student-u-s-citizen-is-injured-as-ice-detains-him",
+      "published": "Fri, 23 Oct 2026 16:08:06 GMT",
+      "sentiment": -0.3499999999999999
+    },
+    {
       "title": "Backers of billionaire tax plan to attack Newsom in early presidential primary states",
       "link": "https://www.latimes.com/california/story/2026-10-23/billionaire-tax-backers-plan-to-attack-newsom-in-early-presidential-primary-states",
       "published": "Fri, 23 Oct 2026 15:00:00 GMT",
@@ -19,18 +31,6 @@
       "sentiment": -0.075
     },
     {
-      "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
-      "link": "https://www.latimes.com/california/story/2026-10-23/man-facing-murder-charge-in-death-of-man-near-costco-gas-pumps-is-rabbi-records-show",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
       "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -47,6 +47,18 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
+    },
+    {
+      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
+      "link": "https://www.latimes.com/california/story/2026-10-23/man-facing-murder-charge-in-death-of-man-near-costco-gas-pumps-is-rabbi-records-show",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Man forced way into Arcadia home, killed teenage girl, police say",
@@ -497,18 +509,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-17/southern-california-no-kings-protests",
       "published": "Sat, 17 Oct 2026 17:51:27 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "As Bryson fire reignites trauma in Malibu, neighbors lean on one another",
-      "link": "https://www.latimes.com/environment/story/2026-10-17/as-bryson-fire-reignites-trauma-in-malibu-neighbors-lean-on-each-other",
-      "published": "Sat, 17 Oct 2026 16:59:28 GMT",
-      "sentiment": 0.13472222222222222
-    },
-    {
-      "title": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
-      "link": "https://www.latimes.com/california/story/2026-10-17/who-was-openai-engineer-who-allegedly-bugged-company-conference-room",
-      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
-      "sentiment": -0.05
     }
   ]
 }
