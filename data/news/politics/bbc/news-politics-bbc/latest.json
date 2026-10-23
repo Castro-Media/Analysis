@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Burnham suggests stocking up on tinned food and bottled water",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:41:10 GMT",
+      "sentiment": 0.29
+    },
+    {
       "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 05:00:32 GMT",
@@ -9,19 +15,19 @@
     {
       "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:49:36 GMT",
+      "published": "Fri, 23 Oct 2026 11:48:04 GMT",
       "sentiment": 0.25
     },
     {
-      "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
-      "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 21:29:44 GMT",
-      "sentiment": 0.1
+      "title": "PM defends Gogglebox appearance after Badenoch criticism",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g140585ngo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:01:46 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+      "title": "Military aircraft to help get UK 'on front foot' to fight wildfires, Burnham says",
       "link": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 21:35:21 GMT",
+      "published": "Fri, 23 Oct 2026 12:25:47 GMT",
       "sentiment": 0.049999999999999996
     },
     {
@@ -43,10 +49,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Prime Minister swaps dispatch box for Gogglebox",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9ye603xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 14:07:49 GMT",
-      "sentiment": 0.35714285714285715
+      "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
+      "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 21:29:44 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:13:39 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
@@ -143,18 +155,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Oct 2026 14:26:24 GMT",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
-      "link": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 15:24:23 GMT",
-      "sentiment": -0.4318181818181818
-    },
-    {
-      "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
-      "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 14:50:05 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "How Jackdaw ignites row over climate and costs",
@@ -331,6 +331,12 @@
       "sentiment": 0.06666666666666667
     },
     {
+      "title": "Government tells people to be prepared for 'everyday' threats",
+      "link": "https://www.bbc.co.uk/news/videos/cqj9ky23ymwro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:38:05 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "'500 new vulnerabilities' found in government, says AI minister",
       "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 10:08:44 GMT",
@@ -353,12 +359,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Oct 2026 23:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "'Let's move on': Albertans react to separatist movement setback",
-      "link": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 19:31:35 GMT",
-      "sentiment": 0.5
     }
   ]
 }
