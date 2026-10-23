@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
+      "link": "https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 10:32:00 GMT",
+      "sentiment": 0.15333333333333335
+    },
+    {
+      "title": "What’s Behind the Protests in France and What Happens Next",
+      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 10:19:00 GMT",
+      "sentiment": -0.4000000000000001
+    },
+    {
       "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
       "link": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 05:24:00 GMT",
@@ -25,22 +37,16 @@
       "sentiment": -0.03333333333333333
     },
     {
-      "title": "Israel’s New Center of Gravity",
-      "link": "https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.05281385281385282
-    },
-    {
-      "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
-      "link": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 22:16:00 GMT",
-      "sentiment": 0.325
-    },
-    {
       "title": "Oil Prices Rise as Middle East Risks Persist",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 07:31:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Israel’s New Center of Gravity",
+      "link": "https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 23:00:00 GMT",
+      "sentiment": 0.05281385281385282
     },
     {
       "title": "U.A.E. Diplomat Jolts Deadlocked U.N. Leadership Race",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/one-person-killed-and-8-injured-in-airport-attack-in-saudi-arabia-4c84d5d4?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 01:06:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade",
-      "link": "https://www.wsj.com/world/middle-east/irans-fleet-of-shadow-tankers-has-run-out-of-oil-after-monthslong-u-s-blockade-0822b050?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.18333333333333335
     },
     {
       "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
@@ -193,6 +193,12 @@
       "sentiment": 0.8
     },
     {
+      "title": "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
+      "link": "https://www.wsj.com/pro/central-banking/russias-central-bank-sees-only-modest-further-drop-in-key-rate-8a604c0d?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 10:53:00 GMT",
+      "sentiment": 0.007777777777777779
+    },
+    {
       "title": "The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines",
       "link": "https://www.wsj.com/world/europe/the-subterranean-battle-playing-out-deep-in-ukraines-soviet-era-pipelines-49dcc260?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 10:19:00 GMT",
@@ -203,12 +209,6 @@
       "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 07:51:00 GMT",
       "sentiment": 0.08916666666666667
-    },
-    {
-      "title": "What’s Behind the Protests in France and What Happens Next",
-      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 12:56:00 GMT",
-      "sentiment": -0.30000000000000004
     },
     {
       "title": "Airfield Attack Marked Opening Shot in Putin’s Stepped-Up Sabotage Campaign",
@@ -373,10 +373,22 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
+      "link": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 22:16:00 GMT",
+      "sentiment": 0.325
+    },
+    {
       "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps",
       "link": "https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 21:27:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Iran’s Fleet of Shadow Tankers Has Run Out of Oil After Monthslong U.S. Blockade",
+      "link": "https://www.wsj.com/world/middle-east/irans-fleet-of-shadow-tankers-has-run-out-of-oil-after-monthslong-u-s-blockade-0822b050?mod=rss_worldnews",
+      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.18333333333333335
     },
     {
       "title": "How Does the Ukrainian Military Use Starlink?",
@@ -391,12 +403,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Elon Musk’s Starlink Speed Cap Has Scrambled Ukraine’s Defenses",
-      "link": "https://www.wsj.com/world/elon-musks-starlink-speed-cap-has-scrambled-ukraines-defenses-fdfd936e?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 17:54:00 GMT",
-      "sentiment": -0.05
-    },
-    {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
       "link": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 08:13:00 GMT",
@@ -405,8 +411,8 @@
     {
       "title": "What’s Behind the Protests in France and What Happens Next",
       "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
-      "published": "Wed, 21 Oct 2026 12:56:00 GMT",
-      "sentiment": -0.30000000000000004
+      "published": "Fri, 23 Oct 2026 10:19:00 GMT",
+      "sentiment": -0.4000000000000001
     },
     {
       "title": "Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",

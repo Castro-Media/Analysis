@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "Many Latinos are over Trump. The shift is especially striking in Texas",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "He didn't think he'd ever be a lawyer. Now, he might be L.A.'s next city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.08974747474747477
+    },
+    {
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.075
+    },
+    {
+      "title": "This 'Modern Family' writer will be L.A.'s 'first gentleman' if Raman is elected mayor",
+      "link": "https://www.latimes.com/california/story/2026-10-23/this-modern-family-writer-will-be-l-a-s-first-gentleman-if-raman-is-elected-mayor",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2875
+    },
+    {
+      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
+      "link": "https://www.latimes.com/california/story/2026-10-23/man-facing-murder-charge-in-death-of-man-near-costco-gas-pumps-is-rabbi-records-show",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Teenage girl killed at Arcadia home; suspected shooter attempts suicide in Pasadena, police say",
       "link": "https://www.latimes.com/california/story/2026-10-22/teen-is-killed-in-arcadia-suspected-shooter-attempts-suicide-in-pasadena-police-say",
       "published": "Fri, 23 Oct 2026 02:19:25 GMT",
@@ -97,10 +139,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
-      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
+      "sentiment": 1.0
     },
     {
       "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
@@ -109,10 +151,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
+      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
@@ -295,12 +337,6 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
-      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.13333333333333336
-    },
-    {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
       "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
@@ -311,6 +347,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.10277777777777779
+    },
+    {
+      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
+      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.13333333333333336
     },
     {
       "title": "Residents fight for anti-camping zone at 6th Street Bridge park",
@@ -409,10 +451,10 @@
       "sentiment": 0.1452020202020202
     },
     {
-      "title": "Clean transit, poor oversight",
-      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
+      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
+      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05333333333333333
+      "sentiment": -0.11666666666666668
     },
     {
       "title": "'He's everywhere': This California Republican wants to make his party relevant again",
@@ -421,10 +463,10 @@
       "sentiment": 0.3666666666666667
     },
     {
-      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
-      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
+      "title": "Clean transit, poor oversight",
+      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.11666666666666668
+      "sentiment": -0.05333333333333333
     },
     {
       "title": "Two men found dead after standoff with Long Beach police",
@@ -463,12 +505,6 @@
       "sentiment": -0.05
     },
     {
-      "title": "New research shows how microplastics and water interactions could lead to cell damage",
-      "link": "https://www.latimes.com/science/story/2026-10-17/microplastics-water-create-free-radicals-new-study-finds",
-      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0909090909090909
-    },
-    {
       "title": "Lopez: It's been a great romance, but it's time to rethink our relationship with the California coast",
       "link": "https://www.latimes.com/california/story/2026-10-17/its-time-to-rethink-our-relationship-with-california-coast",
       "published": "Sat, 17 Oct 2026 12:00:00 GMT",
@@ -479,60 +515,6 @@
       "link": "https://www.latimes.com/environment/story/2026-10-17/just-8-years-after-woolsey-new-fire-ignites-in-its-burn-scar",
       "published": "Sat, 17 Oct 2026 12:00:00 GMT",
       "sentiment": 0.2606060606060606
-    },
-    {
-      "title": "Big assertions, sharp exchanges, little clarity define DOJ election battle with California",
-      "link": "https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.08249999999999999
-    },
-    {
-      "title": "SoCal braces for another day of heat and winds as fire destroys homes in Orange County",
-      "link": "https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Luna, a 10-year-old Jack Russell, just survived a month loose in Yellowstone National Park",
-      "link": "https://www.latimes.com/california/story/2026-10-17/10-year-old-jack-russell-terrier-survives-month-lost-in-yellowstone",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15576923076923077
-    },
-    {
-      "title": "Arcadia surrogacy mansion mom fled U.S. after previous abuse charge, prosecutors allege",
-      "link": "https://www.latimes.com/california/story/2026-10-16/arcadia-surrogacy-case-bail-hearing-prosecutor-allegations",
-      "published": "Sat, 17 Oct 2026 01:09:13 GMT",
-      "sentiment": 0.11111111111111112
-    },
-    {
-      "title": "Hackers steal personal data of millions of California students in massive breach",
-      "link": "https://www.latimes.com/california/story/2026-10-16/state-testing-student-data-hack",
-      "published": "Sat, 17 Oct 2026 00:48:32 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Top LAFD union official accuses former president of battery",
-      "link": "https://www.latimes.com/california/story/2026-10-16/top-lafd-union-official-accuses-former-president-of-battery",
-      "published": "Fri, 16 Oct 2026 22:51:33 GMT",
-      "sentiment": 0.18333333333333335
-    },
-    {
-      "title": "City controller subpoenas financial records from '28 Olympics organizers",
-      "link": "https://www.latimes.com/california/story/2026-10-16/city-controller-subpoenas-financial-records-from-28-olympic-organizers",
-      "published": "Fri, 16 Oct 2026 21:42:09 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Norte fire: Evacuations, shelters",
-      "link": "https://www.latimes.com/california/story/2026-10-16/norte-fire-evacuations-school-closures",
-      "published": "Fri, 16 Oct 2026 21:20:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Surge in ICE raids is aimed at discouraging voter turnout, immigration advocates say",
-      "link": "https://www.latimes.com/california/story/2026-10-16/surge-in-ice-raids-is-aimed-at-discouraging-voter-turnout-immigration-advocates-say",
-      "published": "Fri, 16 Oct 2026 20:58:44 GMT",
-      "sentiment": 0.0
     }
   ]
 }

@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "Powerful Earthquake in Tibet Kills at Least 16",
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
-      "published": "Fri, 23 Oct 2026 07:40:46 +0000",
-      "sentiment": -0.024999999999999994
+      "title": "The Bukeleization of Latin America Has Arrived",
+      "link": "https://www.nytimes.com/2026/10/23/world/americas/the-bukeleization-of-latin-america-has-arrived.html",
+      "published": "Fri, 23 Oct 2026 09:01:10 +0000",
+      "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+      "published": "Fri, 23 Oct 2026 10:28:15 +0000",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
+      "link": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
+      "published": "Fri, 23 Oct 2026 09:30:47 +0000",
+      "sentiment": 0.0706060606060606
+    },
+    {
+      "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+      "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+      "published": "Fri, 23 Oct 2026 09:02:54 +0000",
+      "sentiment": 0.016666666666666666
+    },
+    {
+      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
+      "published": "Fri, 23 Oct 2026 04:01:13 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
@@ -13,10 +37,16 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-      "published": "Fri, 23 Oct 2026 04:01:13 +0000",
-      "sentiment": 0.5
+      "title": "Powerful Earthquake in Tibet Kills at Least 16",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+      "published": "Fri, 23 Oct 2026 07:40:46 +0000",
+      "sentiment": -0.024999999999999994
+    },
+    {
+      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+      "published": "Fri, 23 Oct 2026 09:30:45 +0000",
+      "sentiment": -0.5
     },
     {
       "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
@@ -55,34 +85,10 @@
       "sentiment": -0.016666666666666666
     },
     {
-      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-      "published": "Thu, 22 Oct 2026 16:01:36 +0000",
-      "sentiment": 0.3
-    },
-    {
-      "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
-      "published": "Thu, 22 Oct 2026 17:39:10 +0000",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
-      "published": "Thu, 22 Oct 2026 09:03:31 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
-      "published": "Thu, 22 Oct 2026 04:10:29 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
-      "published": "Thu, 22 Oct 2026 04:22:51 +0000",
-      "sentiment": -0.25
+      "title": "Where Brazil’s Left Is Losing Voters",
+      "link": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html",
+      "published": "Fri, 23 Oct 2026 09:04:21 +0000",
+      "sentiment": 0.02261904761904762
     },
     {
       "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
@@ -121,10 +127,40 @@
       "sentiment": -0.075
     },
     {
+      "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
+      "published": "Thu, 22 Oct 2026 17:39:10 +0000",
+      "sentiment": 0.6
+    },
+    {
+      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+      "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "published": "Thu, 22 Oct 2026 16:01:36 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
+      "published": "Thu, 22 Oct 2026 09:03:31 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
+      "published": "Thu, 22 Oct 2026 04:22:51 +0000",
+      "sentiment": -0.25
+    },
+    {
       "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
       "link": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
       "published": "Thu, 22 Oct 2026 11:04:08 +0000",
       "sentiment": 0.2
+    },
+    {
+      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+      "published": "Thu, 22 Oct 2026 04:10:29 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
@@ -263,36 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
       "published": "Wed, 21 Oct 2026 09:13:37 +0000",
       "sentiment": 0.25416666666666665
-    },
-    {
-      "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
-      "link": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
-      "published": "Wed, 21 Oct 2026 01:01:48 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
-      "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-      "published": "Wed, 21 Oct 2026 03:15:02 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Is Putin’s Waiting Game Working?",
-      "link": "https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html",
-      "published": "Wed, 21 Oct 2026 04:48:02 +0000",
-      "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
-      "published": "Tue, 20 Oct 2026 20:05:06 +0000",
-      "sentiment": -0.225
-    },
-    {
-      "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
-      "link": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
-      "published": "Tue, 20 Oct 2026 22:22:08 +0000",
-      "sentiment": 0.0
     }
   ]
 }
