@@ -7,6 +7,36 @@
       "sentiment": 0.0
     },
     {
+      "title": "He didn't think he'd ever be a lawyer. Now, he might be L.A.'s next city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.08974747474747477
+    },
+    {
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.075
+    },
+    {
+      "title": "This 'Modern Family' writer will be L.A.'s 'first gentleman' if Raman is elected mayor",
+      "link": "https://www.latimes.com/california/story/2026-10-23/this-modern-family-writer-will-be-l-a-s-first-gentleman-if-raman-is-elected-mayor",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2875
+    },
+    {
+      "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
+      "link": "https://www.latimes.com/california/story/2026-10-23/man-facing-murder-charge-in-death-of-man-near-costco-gas-pumps-is-rabbi-records-show",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Many Latinos are over Trump. The shift is especially striking in Texas",
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -19,40 +49,10 @@
       "sentiment": -0.1
     },
     {
-      "title": "He didn't think he'd ever be a lawyer. Now, he might be L.A.'s next city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08974747474747477
-    },
-    {
-      "title": "This 'Modern Family' writer will be L.A.'s 'first gentleman' if Raman is elected mayor",
-      "link": "https://www.latimes.com/california/story/2026-10-23/this-modern-family-writer-will-be-l-a-s-first-gentleman-if-raman-is-elected-mayor",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2875
-    },
-    {
-      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.075
-    },
-    {
-      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
-      "link": "https://www.latimes.com/california/story/2026-10-23/man-facing-murder-charge-in-death-of-man-near-costco-gas-pumps-is-rabbi-records-show",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Teenage girl killed at Arcadia home; suspected shooter attempts suicide in Pasadena, police say",
+      "title": "Man forced way into Arcadia home, killed teenage girl, police say",
       "link": "https://www.latimes.com/california/story/2026-10-22/teen-is-killed-in-arcadia-suspected-shooter-attempts-suicide-in-pasadena-police-say",
       "published": "Fri, 23 Oct 2026 02:19:25 GMT",
-      "sentiment": 0.039999999999999994
+      "sentiment": -0.016666666666666663
     },
     {
       "title": "Supplement sold at gas stations blamed for California man's opioid overdose",
@@ -145,22 +145,28 @@
       "sentiment": 0.25
     },
     {
-      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
-      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Legendary Hollywood recording studio is up for sale",
       "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 1.0
     },
     {
+      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
+      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
       "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
+      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.7333333333333333
     },
     {
       "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
@@ -173,12 +179,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
     },
     {
       "title": "Preschool, transitional kindergarten deliver big: 11 months ahead in reading, 8 in math",

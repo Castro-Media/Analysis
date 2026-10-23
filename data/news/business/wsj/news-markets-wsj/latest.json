@@ -1,9 +1,21 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Oil Prices Climb to Highest in Five Months as Mideast Tensions Rise",
+      "title": "Stock Market Today: Dow Slides as Oil Prices Climb to Highest in Five Months",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 09:07:32 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
+      "link": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 14:01:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Brokerage Firms Want to Yank Away Your Investor Protections",
+      "link": "https://www.wsj.com/finance/investing/brokerage-firms-want-to-yank-away-your-investor-protections-b9fddd88?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 13:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 21:27:00 GMT",
       "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-      "link": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 20:55:00 GMT",
-      "sentiment": -0.23076923076923078
-    },
-    {
-      "title": "Tech Stocks Fall on AI Concerns",
-      "link": "https://www.wsj.com/finance/investing/tech-stocks-fall-on-ai-concerns-eea49847?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 20:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
@@ -105,7 +105,7 @@
     {
       "title": "Bombardier to Invest $270 Million in U.S. Expansion",
       "link": "https://www.wsj.com/business/bombardier-to-invest-270-million-in-u-s-expansion-6d0c88cb?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 12:55:00 GMT",
+      "published": "Fri, 23 Oct 2026 13:33:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -133,16 +133,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Nasdaq Futures Steady as AI Selloff Pauses",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-as-ai-selloff-pauses-275c6454?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 12:35:00 GMT",
-      "sentiment": -0.4166666666666667
-    },
-    {
       "title": "European Indexes Lower as Energy-Intensive Stocks Falter",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-bank-stocks-762642bf?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 07:40:00 GMT",
       "sentiment": 0.08061224489795918
+    },
+    {
+      "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 20:55:00 GMT",
+      "sentiment": -0.23076923076923078
     },
     {
       "title": "U.S. Tech Stocks Drop on AI Spending Concerns",
@@ -151,16 +151,16 @@
       "sentiment": -0.075
     },
     {
+      "title": "Tech Stocks Fall on AI Concerns",
+      "link": "https://www.wsj.com/finance/investing/tech-stocks-fall-on-ai-concerns-eea49847?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 20:26:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Stocks Fall as Tech Selloff Deepens",
       "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 18:42:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Sports Investing Is for Millionaires Now, not Billionaires",
-      "link": "https://www.wsj.com/finance/investing/sports-investing-is-for-millionaires-now-not-billionaires-aa16332b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 10:38:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "Opinion | Don’t Punish the Productive",
@@ -199,6 +199,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Natural Gas Futures Resume Slide on Mild Weather Outlook",
+      "link": "https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 14:56:00 GMT",
+      "sentiment": 0.2583333333333333
+    },
+    {
+      "title": "Gold Hovers Around $4,000, Pressured by Rising Energy Prices",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 14:27:00 GMT",
+      "sentiment": -0.15555555555555556
+    },
+    {
       "title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal",
       "link": "https://www.wsj.com/finance/commodities-futures/tanker-carrying-russian-diesel-signals-u-s-port-after-trump-putin-deal-c09c15dd?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 12:20:00 GMT",
@@ -209,18 +221,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 10:38:00 GMT",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "European Gas Prices at Highest Since 2022 on LNG Supply Fears",
-      "link": "https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 08:00:00 GMT",
-      "sentiment": -0.09999999999999999
-    },
-    {
-      "title": "Gold Falls as Energy Prices Rise Higher",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 07:37:00 GMT",
-      "sentiment": 0.375
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -307,16 +307,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Sports Investing Is for Millionaires Now, not Billionaires",
+      "link": "https://www.wsj.com/finance/investing/sports-investing-is-for-millionaires-now-not-billionaires-aa16332b?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 10:38:00 GMT",
+      "sentiment": -0.15555555555555556
+    },
+    {
       "title": "France’s Debt Crisis Deepens as Foreign Investors Look for the Exit",
       "link": "https://www.wsj.com/finance/investing/frances-debt-crisis-deepens-as-foreign-investors-look-for-the-exit-e6ef398c?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 09:30:00 GMT",
       "sentiment": -0.0625
-    },
-    {
-      "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
-      "link": "https://www.wsj.com/finance/investing/private-credit-retail-investors-festival-c550f07b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.2333333333333333
     },
     {
       "title": "How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 13:05:00 GMT",
+      "published": "Fri, 23 Oct 2026 13:02:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
