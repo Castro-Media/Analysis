@@ -1,16 +1,22 @@
 {
   "entries": [
     {
-      "title": "Why Nearly 25% of the Country Is Still Watching ‘Seinfeld’",
-      "link": "https://www.wsj.com/business/media/seinfeld-acquired-podcast-syndication-9370c0af?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "sentiment": 0.3
+      "title": "The Plan to Put Super Dogs on the Battlefield of the Future",
+      "link": "https://www.wsj.com/business/entrepreneurship/the-plan-to-put-super-dogs-on-the-battlefield-of-the-future-02fbca9a?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 22:31:00 GMT",
+      "sentiment": 0.07777777777777777
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-0b5eaf18?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 16:34:00 GMT",
-      "sentiment": 0.25
+      "published": "Fri, 23 Oct 2026 21:30:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Why Nearly 25% of the Country Is Still Watching ‘Seinfeld’",
+      "link": "https://www.wsj.com/business/media/seinfeld-acquired-podcast-syndication-9370c0af?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "‘The UPS Man’ Review: All in the Delivery",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 11:43:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "The Morning Risk Report: The Signal Chats That Cost OpenAI Researchers Their Jobs",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-signal-chats-that-cost-openai-researchers-their-jobs-7adf1811?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 10:56:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nippon’s U.S. Steel to Invest Nearly $3 Billion in Hot Strip Mill Near Pittsburgh",
@@ -67,6 +67,18 @@
       "sentiment": 0.1
     },
     {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b467adab?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 21:31:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "FICO Holds $10 Pricing for Mortgage Lenders Amid New Competition",
+      "link": "https://www.wsj.com/business/fico-holds-10-pricing-for-mortgage-lenders-amid-new-competition-bfcf7b12?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 21:19:00 GMT",
+      "sentiment": 0.3340909090909091
+    },
+    {
       "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
       "link": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 08:44:00 GMT",
@@ -83,24 +95,6 @@
       "link": "https://www.wsj.com/business/earnings/western-digital-profit-grows-on-data-storage-demand-28a69a7d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 22:53:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Deckers Cuts Sales Outlook as Shoppers Seek Out Discounted Shoes",
-      "link": "https://www.wsj.com/business/earnings/deckers-cuts-sales-outlook-amid-slower-hoka-ugg-growth-84f46d5c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 22:04:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Boston Beer Logs Lower Profit, Revenue Amid Bleak Beer Market",
-      "link": "https://www.wsj.com/business/earnings/boston-beer-logs-lower-profit-revenue-amid-bleak-beer-market-d2aecada?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 22:04:00 GMT",
-      "sentiment": -0.38518518518518513
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-441f39df?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 16:28:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "SLB Revenue Rises as Data-Center Demand Grows, Middle East Business Recovers",
@@ -155,6 +149,12 @@
       "link": "https://www.wsj.com/business/autos/tesla-logs-surge-in-european-monthly-sales-add7427d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 05:06:00 GMT",
       "sentiment": 0.14444444444444446
+    },
+    {
+      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+      "link": "https://www.wsj.com/business/autos/tesla-tsla-3q-earnings-report-2026-stock-a1dc9ce2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 00:05:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Opinion | Michigan’s Proposal 2 Aims at Politicians, Hits Journalists",
@@ -433,6 +433,12 @@
       "sentiment": 0.1787878787878788
     },
     {
+      "title": "The Morning Risk Report: The Signal Chats That Cost OpenAI Researchers Their Jobs",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-signal-chats-that-cost-openai-researchers-their-jobs-7adf1811?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 10:56:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps",
       "link": "https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 21:27:00 GMT",
@@ -454,12 +460,6 @@
       "title": "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
       "link": "https://www.wsj.com/business/musks-tesla-spacex-merger-would-formalize-a-decadeslong-partnership-3b83e542?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:56:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years",
-      "link": "https://www.wsj.com/business/bosses-want-the-secrets-of-the-family-firm-that-has-never-had-a-layoff-in-75-years-ac608165?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 09:30:00 GMT",
       "sentiment": -0.2
     },
     {
