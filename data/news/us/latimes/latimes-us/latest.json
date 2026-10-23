@@ -1,28 +1,22 @@
 {
   "entries": [
     {
+      "title": "Backers of billionaire tax plan to attack Newsom in early presidential primary states",
+      "link": "https://www.latimes.com/california/story/2026-10-23/billionaire-tax-backers-plan-to-attack-newsom-in-early-presidential-primary-states",
+      "published": "Fri, 23 Oct 2026 15:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "How a clash between Inglewood leaders and SoFi Stadium operators hit the ballot",
       "link": "https://www.latimes.com/sports/story/2026-10-23/clash-between-inglewood-sofi-stadium-operators-hits-ballot",
       "published": "Fri, 23 Oct 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "He didn't think he'd ever be a lawyer. Now, he might be L.A.'s next city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08974747474747477
-    },
-    {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
       "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": -0.075
-    },
-    {
-      "title": "This 'Modern Family' writer will be L.A.'s 'first gentleman' if Raman is elected mayor",
-      "link": "https://www.latimes.com/california/story/2026-10-23/this-modern-family-writer-will-be-l-a-s-first-gentleman-if-raman-is-elected-mayor",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2875
     },
     {
       "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
@@ -37,16 +31,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Many Latinos are over Trump. The shift is especially striking in Texas",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.75
-    },
-    {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
       "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "He didn't think he'd ever be a lawyer. Now, he might be L.A.'s next city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.08974747474747477
+    },
+    {
+      "title": "Many Latinos are over Trump. The shift is especially striking in Texas",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.75
     },
     {
       "title": "Man forced way into Arcadia home, killed teenage girl, police say",
@@ -145,12 +145,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
-    },
-    {
       "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
       "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
@@ -161,6 +155,12 @@
       "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 1.0
     },
     {
       "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
@@ -343,16 +343,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
-      "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13333333333333333
-    },
-    {
       "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
       "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.10277777777777779
+    },
+    {
+      "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
+      "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13333333333333333
     },
     {
       "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
@@ -457,6 +457,12 @@
       "sentiment": 0.1452020202020202
     },
     {
+      "title": "Clean transit, poor oversight",
+      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05333333333333333
+    },
+    {
       "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
       "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
@@ -467,12 +473,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": 0.3666666666666667
-    },
-    {
-      "title": "Clean transit, poor oversight",
-      "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05333333333333333
     },
     {
       "title": "Two men found dead after standoff with Long Beach police",
@@ -509,12 +509,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-17/who-was-openai-engineer-who-allegedly-bugged-company-conference-room",
       "published": "Sat, 17 Oct 2026 13:00:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Lopez: It's been a great romance, but it's time to rethink our relationship with the California coast",
-      "link": "https://www.latimes.com/california/story/2026-10-17/its-time-to-rethink-our-relationship-with-california-coast",
-      "published": "Sat, 17 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.5666666666666667
     }
   ]
 }
