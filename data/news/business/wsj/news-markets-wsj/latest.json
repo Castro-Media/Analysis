@@ -7,6 +7,12 @@
       "sentiment": -0.35
     },
     {
+      "title": "Stock Selloff Continues as Oil Surges",
+      "link": "https://www.wsj.com/finance/stocks/stock-selloff-continues-as-oil-surges-a6d20245?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 20:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
       "link": "https://www.wsj.com/business/deals/weil-gotshal-bleeds-more-top-lawyers-as-it-holds-merger-talks-4d0388ad?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 14:01:00 GMT",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/politicians-are-turning-against-ai-but-your-pension-is-riding-on-it-6764d852?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 00:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "WSJ Dollar Index Falls 0.12% to 96.80",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 21:27:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
@@ -133,6 +133,12 @@
       "sentiment": 0.44166666666666665
     },
     {
+      "title": "U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 20:34:00 GMT",
+      "sentiment": -0.003333333333333327
+    },
+    {
       "title": "European Indexes Lower as Energy-Intensive Stocks Falter",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-bank-stocks-762642bf?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 07:40:00 GMT",
@@ -154,12 +160,6 @@
       "title": "Tech Stocks Fall on AI Concerns",
       "link": "https://www.wsj.com/finance/investing/tech-stocks-fall-on-ai-concerns-eea49847?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 20:26:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Stocks Fall as Tech Selloff Deepens",
-      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
-      "published": "Thu, 22 Oct 2026 18:42:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,28 +199,28 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 20:47:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather",
+      "link": "https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 20:29:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
       "title": "Precious Metals Lose Ground As Oil Prices Press Higher",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 18:41:00 GMT",
       "sentiment": 0.2772727272727272
     },
     {
-      "title": "U.S. Natural Gas Futures Resume Slide on Mild Weather Outlook",
-      "link": "https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 14:56:00 GMT",
-      "sentiment": 0.2583333333333333
-    },
-    {
       "title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal",
       "link": "https://www.wsj.com/finance/commodities-futures/tanker-carrying-russian-diesel-signals-u-s-port-after-trump-putin-deal-c09c15dd?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 12:20:00 GMT",
       "sentiment": 0.02
-    },
-    {
-      "title": "WTI Climbs Above $101 a Barrel on U.S.-Iran Escalation Fears",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 10:38:00 GMT",
-      "sentiment": 0.19999999999999998
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -241,6 +241,12 @@
       "sentiment": 0.032
     },
     {
+      "title": "WSJ Dollar Index Falls 0.12% to 96.80",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
+      "published": "Thu, 22 Oct 2026 21:27:00 GMT",
+      "sentiment": -0.15555555555555556
+    },
+    {
       "title": "WSJ Dollar Index Falls 0.04% to 96.92",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 22:31:00 GMT",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
       "published": "Tue, 20 Oct 2026 21:29:00 GMT",
       "sentiment": -0.20277777777777778
-    },
-    {
-      "title": "WSJ Dollar Index Rises 0.11% to 97.20",
-      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 21:28:00 GMT",
-      "sentiment": 0.6
     },
     {
       "title": "NYSE Just Extended Options Trading Hours. It’s Only the Beginning.",
