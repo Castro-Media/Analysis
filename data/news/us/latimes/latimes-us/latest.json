@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Mayor Karen Bass outpaces challenger Nithya Raman in fundraising for the Nov. 3 runoff",
+      "link": "https://www.latimes.com/california/story/2026-10-23/karen-bass-leads-nithya-raman-in-fundraising",
+      "published": "Fri, 23 Oct 2026 19:21:55 GMT",
+      "sentiment": 0.039999999999999994
+    },
+    {
       "title": "After decades of false starts, the 1914 Hotel Clark finally reopens in downtown L.A.",
       "link": "https://www.latimes.com/travel/story/2026-10-23/hotel-clark-dtla-reopening",
       "published": "Fri, 23 Oct 2026 17:52:18 GMT",
@@ -55,12 +61,6 @@
       "sentiment": 0.08974747474747477
     },
     {
-      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
       "link": "https://www.latimes.com/california/story/2026-10-23/man-facing-murder-charge-in-death-of-man-near-costco-gas-pumps-is-rabbi-records-show",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -71,6 +71,12 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
+    },
+    {
+      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Man kills his teenage ex-girlfriend then shoots himself, authorities say",
@@ -169,22 +175,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
+      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
-    },
-    {
-      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
-      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Rain triggers flooding, erosion concerns across SoCal. Could it stomp out fire season?",
-      "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
@@ -193,16 +187,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
-      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
       "title": "Legendary Hollywood recording studio is up for sale",
       "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 1.0
+    },
+    {
+      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
+      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
+      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.7333333333333333
+    },
+    {
+      "title": "Rain triggers flooding, erosion concerns across SoCal. Could it stomp out fire season?",
+      "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Preschool, transitional kindergarten deliver big: 11 months ahead in reading, 8 in math",
@@ -265,12 +271,6 @@
       "sentiment": 0.009090909090909087
     },
     {
-      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
-      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.6
-    },
-    {
       "title": "Examining Becerra's quarter of a century in Washington",
       "link": "https://www.latimes.com/politics/story/2026-10-21/becerras-time-in-washington-steady-rise-with-bumpy-final-ascent",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
@@ -281,6 +281,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-21/lopez-column-lax-skylink-people-mover-delays",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
+      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
+      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "After their 13-year-old died in an e-motorcycle crash, they're facing charges",
@@ -367,10 +373,10 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
-      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
+      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
+      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.10277777777777779
+      "sentiment": -0.13333333333333336
     },
     {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
@@ -379,10 +385,10 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
-      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
+      "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
+      "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.13333333333333336
+      "sentiment": 0.10277777777777779
     },
     {
       "title": "Residents fight for anti-camping zone at 6th Street Bridge park",
@@ -481,34 +487,22 @@
       "sentiment": 0.1452020202020202
     },
     {
-      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
-      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.11666666666666668
-    },
-    {
       "title": "'He's everywhere': This California Republican wants to make his party relevant again",
       "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": 0.3666666666666667
     },
     {
+      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
+      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
+      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.11666666666666668
+    },
+    {
       "title": "Clean transit, poor oversight",
       "link": "https://www.latimes.com/environment/story/2026-10-18/california-clean-transportation-fraud-allegations",
       "published": "Sun, 18 Oct 2026 10:00:00 GMT",
       "sentiment": -0.05333333333333333
-    },
-    {
-      "title": "Two men found dead after standoff with Long Beach police",
-      "link": "https://www.latimes.com/california/story/2026-10-17/two-men-found-dead-after-standoff-with-long-beach-police",
-      "published": "Sun, 18 Oct 2026 00:31:05 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Two Utah hikers rescued after perilous, freezing 36-hour trek on Mt. Shasta",
-      "link": "https://www.latimes.com/environment/story/2026-10-17/mt-shasta-rescue",
-      "published": "Sat, 17 Oct 2026 23:32:17 GMT",
-      "sentiment": -0.2
     }
   ]
 }
