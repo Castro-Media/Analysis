@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Powerful Earthquake in Tibet Kills at Least 16",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+      "published": "Fri, 23 Oct 2026 07:40:46 +0000",
+      "sentiment": -0.024999999999999994
+    },
+    {
+      "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
+      "link": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
+      "published": "Fri, 23 Oct 2026 04:01:16 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
+      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
+      "published": "Fri, 23 Oct 2026 04:01:13 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
+      "link": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+      "published": "Fri, 23 Oct 2026 05:13:32 +0000",
+      "sentiment": 0.20000000000000004
+    },
+    {
       "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
       "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
       "published": "Thu, 22 Oct 2026 18:07:36 +0000",
@@ -61,54 +85,6 @@
       "sentiment": -0.25
     },
     {
-      "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
-      "published": "Thu, 22 Oct 2026 11:04:08 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
-      "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
-      "published": "Thu, 22 Oct 2026 08:04:47 +0000",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
-      "link": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
-      "published": "Wed, 21 Oct 2026 16:47:26 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
-      "link": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
-      "published": "Thu, 22 Oct 2026 03:26:58 +0000",
-      "sentiment": 0.19374999999999998
-    },
-    {
-      "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
-      "link": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
-      "published": "Fri, 23 Oct 2026 05:13:32 +0000",
-      "sentiment": 0.20000000000000004
-    },
-    {
-      "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
-      "link": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
-      "published": "Fri, 23 Oct 2026 04:01:16 +0000",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-      "published": "Fri, 23 Oct 2026 04:01:13 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Powerful Earthquake in Tibet Kills at Least 16",
-      "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
-      "published": "Fri, 23 Oct 2026 04:59:21 +0000",
-      "sentiment": -0.024999999999999994
-    },
-    {
       "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
       "link": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
       "published": "Thu, 22 Oct 2026 21:25:08 +0000",
@@ -143,6 +119,12 @@
       "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
       "published": "Thu, 22 Oct 2026 21:31:29 +0000",
       "sentiment": -0.075
+    },
+    {
+      "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
+      "published": "Thu, 22 Oct 2026 11:04:08 +0000",
+      "sentiment": 0.2
     },
     {
       "title": "Australian Zoo Plays Matchmaker for Giant Birds, and Big Green Eggs Are Proof",
@@ -193,6 +175,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+      "link": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+      "published": "Thu, 22 Oct 2026 03:26:58 +0000",
+      "sentiment": 0.19374999999999998
+    },
+    {
       "title": "Macron Says Trump Does Not Like France and Distorts Its Troubles",
       "link": "https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html",
       "published": "Wed, 21 Oct 2026 19:16:14 +0000",
@@ -233,6 +221,12 @@
       "link": "https://www.nytimes.com/video/world/americas/100000011160984/why-these-towers-collapsed-in-venezuelas-earthquakes.html",
       "published": "Wed, 21 Oct 2026 10:23:10 +0000",
       "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+      "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+      "published": "Thu, 22 Oct 2026 08:04:47 +0000",
+      "sentiment": 0.13333333333333333
     },
     {
       "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",

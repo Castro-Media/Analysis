@@ -67,6 +67,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
+      "link": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 08:44:00 GMT",
+      "sentiment": -0.07222222222222223
+    },
+    {
       "title": "Safran Confirms Guidance as Revenue Jumps",
       "link": "https://www.wsj.com/business/safran-confirms-guidance-as-revenue-jumps-984356b4?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 05:37:00 GMT",
@@ -91,22 +97,16 @@
       "sentiment": -0.38518518518518513
     },
     {
-      "title": "Bloom Energy Lifts Outlook, Logs Higher Profit",
-      "link": "https://www.wsj.com/business/earnings/bloom-energy-lifts-outlook-logs-higher-profit-c36d68c8?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 20:33:00 GMT",
-      "sentiment": 0.25
+      "title": "Volvo Car Shares Slump After Automaker Adds Job Cuts to Tackle Mounting Headwinds",
+      "link": "https://www.wsj.com/business/earnings/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 08:06:00 GMT",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "Eni Shareholders Set for Cash Boost After Earnings Double",
       "link": "https://www.wsj.com/business/energy-oil/eni-shareholders-set-for-cash-boost-after-earnings-double-7c3df34b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 06:34:00 GMT",
+      "published": "Fri, 23 Oct 2026 07:18:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Volvo Car to Cut 2,500 Jobs as Part of Plan to Cut Costs Further",
-      "link": "https://www.wsj.com/business/earnings/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 05:57:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs",
@@ -121,10 +121,10 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "L’Oreal Eyes Profit Rise This Year as Sales Keep Growing",
-      "link": "https://www.wsj.com/business/earnings/loreal-eyes-profit-rise-this-year-as-sales-keep-growing-d1cbee8f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 16:41:00 GMT",
-      "sentiment": 0.0
+      "title": "Bloom Energy Lifts Outlook, Logs Higher Profit",
+      "link": "https://www.wsj.com/business/earnings/bloom-energy-lifts-outlook-logs-higher-profit-c36d68c8?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 22 Oct 2026 20:33:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
@@ -193,6 +193,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "Oil Prices Rise as Middle East Risks Persist",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 07:31:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
       "link": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 05:24:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/aramco-ceo-says-east-west-pipeline-capacity-could-reach-10-million-barrels-a-day-d761c76e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 09:15:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe",
-      "link": "https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 07:51:00 GMT",
-      "sentiment": 0.08916666666666667
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -373,6 +373,12 @@
       "sentiment": 0.0011111111111111113
     },
     {
+      "title": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount",
+      "link": "https://www.wsj.com/tech/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-e9670506?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 08:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Comcast Plans Restructuring as Domestic Broadband-Subscriber Losses Continue",
       "link": "https://www.wsj.com/business/earnings/comcasts-domestic-broadband-subscriber-losses-continue-b8954ae6?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:46:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/telecom/at-t-lifts-profit-outlook-on-continued-postpaid-phone-internet-growth-8cf289e3?mod=pls_whats_news_us_business_f",
       "published": "Wed, 21 Oct 2026 13:57:00 GMT",
       "sentiment": -0.75
-    },
-    {
-      "title": "América Móvil Posts Higher Third-Quarter Profit",
-      "link": "https://www.wsj.com/business/earnings/america-movil-posts-higher-third-quarter-profit-317d8c15?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 20 Oct 2026 22:53:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Google Says Services Are Recovering After U.K. Cloud Outage Hits Businesses",
