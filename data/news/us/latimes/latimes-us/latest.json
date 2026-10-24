@@ -13,16 +13,16 @@
       "sentiment": 0.2523809523809524
     },
     {
-      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
-      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05277777777777778
-    },
-    {
       "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
       "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
+      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05277777777777778
     },
     {
       "title": "Trump wants to strip California of coastal protections unless state meets list of demands",
@@ -121,16 +121,16 @@
       "sentiment": 0.08974747474747477
     },
     {
-      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
+    },
+    {
+      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
@@ -241,28 +241,28 @@
       "sentiment": 0.25
     },
     {
-      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
-      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
       "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
+      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
+      "sentiment": 0.0
     },
     {
       "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
       "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
+      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.7333333333333333
     },
     {
       "title": "Rain triggers flooding, erosion concerns across SoCal. Could it stomp out fire season?",
@@ -439,6 +439,12 @@
       "sentiment": 0.13333333333333333
     },
     {
+      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
+      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.13333333333333336
+    },
+    {
       "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
       "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
@@ -449,12 +455,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.10277777777777779
-    },
-    {
-      "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
-      "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.13333333333333336
     },
     {
       "title": "Residents fight for anti-camping zone at 6th Street Bridge park",
