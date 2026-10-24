@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "AOC, Newsom, Jeffries swing through California to help Democrats in tight races",
+      "link": "https://www.latimes.com/california/story/2026-10-24/aoc-newsom-jeffries-swing-through-california-to-help-democrats-in-tight-races",
+      "published": "Sat, 24 Oct 2026 20:24:25 GMT",
+      "sentiment": 0.10714285714285714
+    },
+    {
       "title": "Hope and despair simmer among California Republicans ahead of election day",
       "link": "https://www.latimes.com/california/story/2026-10-24/hope-despair-simmer-among-california-republicans-as-election-day-approaches",
       "published": "Sat, 24 Oct 2026 17:19:43 GMT",
@@ -31,16 +37,16 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Trump wants to strip California of coastal protections unless state meets list of demands",
-      "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
       "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": 0.099375
+    },
+    {
+      "title": "Trump wants to strip California of coastal protections unless state yields to list of demands",
+      "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "'This is not normal': Feds demand California counties set aside 'likely' noncitizen ballots",
@@ -49,10 +55,10 @@
       "sentiment": -0.0375
     },
     {
-      "title": "San Bernardino County owes $51 million to mother of mentally-ill man killed by deputies, jury says",
+      "title": "San Bernardino County owes $51 million to mother of mentally ill man killed by deputies, jury says",
       "link": "https://www.latimes.com/california/story/2026-10-23/garza-shooting-verdict-federal-trial-award",
       "published": "Sat, 24 Oct 2026 02:18:07 GMT",
-      "sentiment": 0.033333333333333326
+      "sentiment": -0.09999999999999998
     },
     {
       "title": "9th Circuit blocks path for Trump to again deploy National Guard without state approval",
@@ -520,12 +526,6 @@
       "title": "Cooler temperatures, possible rain headed for Southern California",
       "link": "https://www.latimes.com/california/story/2026-10-19/cooler-temperatures-possible-rain-headed-for-southern-california",
       "published": "Mon, 19 Oct 2026 12:48:28 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Becerra's muted gubernatorial campaign comes to life in homestretch",
-      "link": "https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race",
-      "published": "Mon, 19 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     }
   ]
