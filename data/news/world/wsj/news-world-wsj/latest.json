@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "France Girds for Another Day of Protest After Widespread Violence",
+      "link": "https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 10:25:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Aboard USS George Washington as It Rearms for Possible Iran Strikes",
+      "link": "https://www.wsj.com/politics/national-security/aboard-uss-george-washington-as-it-rearms-for-possible-iran-strikes-afaadff2?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 09:32:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Ukraine’s Military Starlink Is Working Again, Kyiv Says",
       "link": "https://www.wsj.com/world/europe/ukraines-military-starlink-is-working-again-kyiv-says-7ad2617d?mod=rss_worldnews",
       "published": "Sat, 24 Oct 2026 08:37:00 GMT",
@@ -25,22 +37,16 @@
       "sentiment": 0.2
     },
     {
-      "title": "Gunman Kills One Near Paris in Suspected Attack on Immigrant Communities",
-      "link": "https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 19:20:00 GMT",
-      "sentiment": -0.008333333333333331
+      "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 19:54:00 GMT",
+      "sentiment": 0.0375
     },
     {
       "title": "Netanyahu Calls for West Bank Lockdown After Deadly Attack",
       "link": "https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 16:38:00 GMT",
       "sentiment": -0.1851851851851852
-    },
-    {
-      "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 19:54:00 GMT",
-      "sentiment": 0.0375
     },
     {
       "title": "Gunmen Kill Seven in Church Attack in Jordan",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 23:00:00 GMT",
       "sentiment": 0.05281385281385282
-    },
-    {
-      "title": "U.A.E. Diplomat Jolts Deadlocked U.N. Leadership Race",
-      "link": "https://www.wsj.com/world/middle-east/u-a-e-diplomat-jolts-deadlocked-u-n-leadership-race-263f4ed9?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 21:21:00 GMT",
-      "sentiment": 0.065625
     },
     {
       "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
@@ -199,6 +199,12 @@
       "sentiment": -0.11111111111111112
     },
     {
+      "title": "Gunman Kills One Near Paris in Suspected Attack on Immigrant Communities",
+      "link": "https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 19:20:00 GMT",
+      "sentiment": -0.008333333333333331
+    },
+    {
       "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
       "link": "https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 15:58:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 10:19:00 GMT",
       "sentiment": -0.4000000000000001
-    },
-    {
-      "title": "Eight Charts That Show the Depth of France’s Financial Crunch",
-      "link": "https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
@@ -383,6 +383,12 @@
       "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 11:43:00 GMT",
       "sentiment": -0.025
+    },
+    {
+      "title": "Eight Charts That Show the Depth of France’s Financial Crunch",
+      "link": "https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
