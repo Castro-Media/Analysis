@@ -1,7 +1,13 @@
 {
   "entries": [
     {
-      "title": "9th Circuit blocks path for Trump to again deploy national guard without state approval",
+      "title": "San Bernardino County owes $51 million to mother of mentally-ill man killed by deputies, jury says",
+      "link": "https://www.latimes.com/california/story/2026-10-23/garza-shooting-verdict-federal-trial-award",
+      "published": "Sat, 24 Oct 2026 02:18:07 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "9th Circuit blocks path for Trump to again deploy National Guard without state approval",
       "link": "https://www.latimes.com/california/story/2026-10-23/9th-circuit-trump-california-national-guard-deployment-ruling",
       "published": "Fri, 23 Oct 2026 23:51:08 GMT",
       "sentiment": 0.0
@@ -61,18 +67,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.75
-    },
-    {
-      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
       "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -89,6 +83,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-23/man-facing-murder-charge-in-death-of-man-near-costco-gas-pumps-is-rabbi-records-show",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
@@ -193,22 +199,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
-      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
+      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
+      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
-    },
-    {
-      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
-      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
+      "sentiment": -0.7333333333333333
     },
     {
       "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
@@ -223,10 +217,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
+      "link": "https://www.latimes.com/california/story/2026-10-22/george-gascon-los-angeles-2026-election",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
+      "sentiment": 0.0
+    },
+    {
+      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
+      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 1.0
     },
     {
       "title": "Preschool, transitional kindergarten deliver big: 11 months ahead in reading, 8 in math",
@@ -289,6 +295,12 @@
       "sentiment": 0.009090909090909087
     },
     {
+      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
+      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
+      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "Examining Becerra's quarter of a century in Washington",
       "link": "https://www.latimes.com/politics/story/2026-10-21/becerras-time-in-washington-steady-rise-with-bumpy-final-ascent",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
@@ -299,12 +311,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-21/lopez-column-lax-skylink-people-mover-delays",
       "published": "Wed, 21 Oct 2026 10:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "California woman makes history by swimming state's 900-mile length. El Niño added its own challenges",
-      "link": "https://www.latimes.com/california/story/2026-10-21/calif-woman-makes-history-by-swimming-states-900-mile-length-she-did-it-so-you-dont-have-to",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.6
     },
     {
       "title": "After their 13-year-old died in an e-motorcycle crash, they're facing charges",
@@ -391,16 +397,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
-      "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
-      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13333333333333333
-    },
-    {
       "title": "Horvath backs Raman in mayor's race, giving her a strong ally in the Valley and Westside",
       "link": "https://www.latimes.com/california/story/2026-10-20/lindsey-horvath-endorses-nithya-raman-for-mayor",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": 0.10277777777777779
+    },
+    {
+      "title": "East San Fernando Valley light rail line gets underway — five years behind schedule",
+      "link": "https://www.latimes.com/california/story/2026-10-20/east-san-fernando-valley-light-rail-line-gets-underway-five-years-behind-schedule",
+      "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13333333333333333
     },
     {
       "title": "Chabria: Why Trump's attack on California voting is false — and even a bit funny",
@@ -503,18 +509,6 @@
       "link": "https://www.latimes.com/environment/story/2026-10-18/southern-california-fires-ease-as-santa-ana-winds-die-down-but-rain-could-bring-new-risks",
       "published": "Sun, 18 Oct 2026 16:58:57 GMT",
       "sentiment": 0.1452020202020202
-    },
-    {
-      "title": "Mayoral candidate Raman was once a firm 'no' on the Olympics. She remains a skeptic",
-      "link": "https://www.latimes.com/california/story/2026-10-18/nithya-raman-says-la-needs-more-transparency-from-olympic-organizers",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.11666666666666668
-    },
-    {
-      "title": "'He's everywhere': This California Republican wants to make his party relevant again",
-      "link": "https://www.latimes.com/california/story/2026-10-18/hes-everywhere-carl-demaios-push-to-make-gop-relevant-again",
-      "published": "Sun, 18 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3666666666666667
     }
   ]
 }
