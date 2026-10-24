@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "France Girds for Another Day of Protest After Widespread Violence",
+      "title": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans",
+      "link": "https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 14:47:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "U.S. Allies Race to Escape SpaceX’s Orbit",
+      "link": "https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 14:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
+      "title": "New Wave of Protests Gets Underway in France After Widespread Violence",
       "link": "https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews",
-      "published": "Sat, 24 Oct 2026 10:25:00 GMT",
-      "sentiment": 0.15
+      "published": "Sat, 24 Oct 2026 13:55:00 GMT",
+      "sentiment": 0.14545454545454545
     },
     {
       "title": "Aboard USS George Washington as It Rearms for Possible Iran Strikes",
@@ -23,12 +35,6 @@
       "link": "https://www.wsj.com/world/americas/lula-a-giant-of-latin-americas-left-fights-for-one-last-shot-at-power-4e7a9cb3?mod=rss_worldnews",
       "published": "Sat, 24 Oct 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Yellow Vests Are Back on the Streets of France in Test for Government",
-      "link": "https://www.wsj.com/world/europe/the-yellow-vests-are-back-on-the-streets-of-france-in-test-for-government-348714c2?mod=rss_worldnews",
-      "published": "Sat, 24 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Iran Is Now Losing Overland Trade Routes to U.S. Pressure",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 05:24:00 GMT",
       "sentiment": 0.35
-    },
-    {
-      "title": "Israel’s New Center of Gravity",
-      "link": "https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 23:00:00 GMT",
-      "sentiment": 0.05281385281385282
     },
     {
       "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
@@ -193,6 +193,12 @@
       "sentiment": 0.075
     },
     {
+      "title": "The Yellow Vests Are Back on the Streets of France in Test for Government",
+      "link": "https://www.wsj.com/world/europe/the-yellow-vests-are-back-on-the-streets-of-france-in-test-for-government-348714c2?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Moody’s Keeps France’s Credit Rating Unchanged",
       "link": "https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 21:16:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/pro/central-banking/russias-central-bank-sees-only-modest-further-drop-in-key-rate-8a604c0d?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 11:07:00 GMT",
       "sentiment": 0.007777777777777779
-    },
-    {
-      "title": "What’s Behind the Protests in France and What Happens Next",
-      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 10:19:00 GMT",
-      "sentiment": -0.4000000000000001
     },
     {
       "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
@@ -385,10 +385,10 @@
       "sentiment": -0.025
     },
     {
-      "title": "Eight Charts That Show the Depth of France’s Financial Crunch",
-      "link": "https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.0
+      "title": "What’s Behind the Protests in France and What Happens Next",
+      "link": "https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 10:19:00 GMT",
+      "sentiment": -0.4000000000000001
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
