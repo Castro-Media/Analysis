@@ -1,13 +1,19 @@
 {
   "entries": [
     {
+      "title": "SoCal coast braces for high tides. Here's where the biggest impacts will be",
+      "link": "https://www.latimes.com/california/story/2026-10-25/socal-coast-braces-for-high-tides-heres-where-biggest-impacts-will-be",
+      "published": "Sun, 25 Oct 2026 22:37:56 GMT",
+      "sentiment": 0.065
+    },
+    {
       "title": "Two bicyclists killed by alleged drunk driver during pre-Halloween ride",
       "link": "https://www.latimes.com/california/story/2026-10-25/two-bicyclists-killed-by-alleged-drunk-driver-during-pre-halloween-ride",
       "published": "Sun, 25 Oct 2026 21:19:34 GMT",
       "sentiment": -0.15
     },
     {
-      "title": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
+      "title": "Elvis Presley catalog owners sue Anthropic alleging copyright infringement",
       "link": "https://www.latimes.com/california/story/2026-10-25/elvis-rights-holder-sues-anthropic-says-songs-illegally-used-to-train-ai",
       "published": "Sun, 25 Oct 2026 19:42:08 GMT",
       "sentiment": -0.5
@@ -25,16 +31,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24722222222222223
-    },
-    {
       "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
       "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.23200000000000004
+    },
+    {
+      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.24722222222222223
     },
     {
       "title": "Group of men in 'Scream' masks raped a woman in 2017. The first suspect was just arrested",
@@ -527,12 +533,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-19/residents-fight-for-anti-camping-zone-at-6th-street-bridge-park",
       "published": "Tue, 20 Oct 2026 02:23:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "California residents accused by feds of voter fraud react with shock, confusion and anger",
-      "link": "https://www.latimes.com/california/story/2026-10-19/california-voter-fraud-charges-defendants-react",
-      "published": "Tue, 20 Oct 2026 00:52:59 GMT",
-      "sentiment": -0.3333333333333333
     }
   ]
 }

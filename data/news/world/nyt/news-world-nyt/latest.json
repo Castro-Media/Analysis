@@ -1,10 +1,22 @@
 {
   "entries": [
     {
+      "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+      "published": "Sun, 25 Oct 2026 22:45:35 +0000",
+      "sentiment": 0.021590909090909088
+    },
+    {
       "title": "María Corina Machado Returns to Venezuela",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
       "published": "Sun, 25 Oct 2026 20:35:51 +0000",
       "sentiment": 0.07878787878787878
+    },
+    {
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "published": "Sun, 25 Oct 2026 22:40:54 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
@@ -23,12 +35,6 @@
       "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
       "published": "Sun, 25 Oct 2026 21:39:45 +0000",
       "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "What to Know as Serbia Votes for a New Parliament",
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
-      "published": "Sun, 25 Oct 2026 04:01:22 +0000",
-      "sentiment": 0.3181818181818182
     },
     {
       "title": "Israel’s High-Stakes Election: What to Know",
@@ -73,10 +79,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Violent Protests Resurface in Albania: What to Know",
-      "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
-      "published": "Sat, 24 Oct 2026 21:54:36 +0000",
-      "sentiment": -0.8
+      "title": "The future of the Amazon rainforest could depend on who wins.",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
+      "published": "Sun, 25 Oct 2026 22:40:18 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Lula has accused Meta of helping his opponent.",
+      "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/lula-has-accused-meta-of-helping-his-opponent",
+      "published": "Sun, 25 Oct 2026 22:13:15 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "A.I. videos flooded the internet in the run-up to the election.",
@@ -111,7 +123,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/heres-the-latest",
-      "published": "Sun, 25 Oct 2026 21:54:05 +0000",
+      "published": "Sun, 25 Oct 2026 22:08:13 +0000",
       "sentiment": 0.5
     },
     {
@@ -119,6 +131,12 @@
       "link": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
       "published": "Sun, 25 Oct 2026 09:01:42 +0000",
       "sentiment": -0.08928571428571429
+    },
+    {
+      "title": "What to Know as Serbia Votes for a New Parliament",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-election.html",
+      "published": "Sun, 25 Oct 2026 04:01:22 +0000",
+      "sentiment": 0.3181818181818182
     },
     {
       "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
@@ -299,24 +317,6 @@
       "link": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html",
       "published": "Fri, 23 Oct 2026 19:26:21 +0000",
       "sentiment": 0.02261904761904762
-    },
-    {
-      "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-      "published": "Sun, 25 Oct 2026 20:33:17 +0000",
-      "sentiment": 0.016666666666666666
-    },
-    {
-      "title": "The Bukeleization of Latin America Has Arrived",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
-      "published": "Fri, 23 Oct 2026 13:05:25 +0000",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-      "published": "Fri, 23 Oct 2026 12:18:37 +0000",
-      "sentiment": -0.5
     }
   ]
 }
