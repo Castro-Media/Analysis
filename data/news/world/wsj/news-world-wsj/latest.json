@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Venezuela’s Machado Returns Home, Challenging U.S.-Backed Government",
+      "link": "https://www.wsj.com/world/americas/venezuelas-machado-returns-home-challenging-u-s-backed-government-7e3468e8?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 16:36:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Saudi-Led Troops Had Just Gathered When a Houthi Missile Left Dozens Dead",
       "link": "https://www.wsj.com/world/middle-east/saudi-led-troops-had-just-gathered-when-a-houthi-missile-left-dozens-dead-abf87bfb?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 15:00:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/americas/she-fled-maduros-regime-washington-brought-her-back-to-negotiate-with-it-7c36c231?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
       "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Power Outages Leave Kyiv Dreading Its Worst Winter of the War",
-      "link": "https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews",
-      "published": "Sat, 24 Oct 2026 23:00:00 GMT",
-      "sentiment": -1.0
     },
     {
       "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
@@ -157,6 +157,12 @@
       "sentiment": -0.09999999999999998
     },
     {
+      "title": "Opinion | Congress’s Russia Problems",
+      "link": "https://www.wsj.com/opinion/congresss-russia-problems-2a6720dc?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 15:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Is This the End for Benjamin Netanyahu?",
       "link": "https://www.wsj.com/opinion/israel-election-benjamin-netanyahu-gadi-eisenkot-dd8d40fe?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 21:32:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/andy-burnham-labour-party-u-k-fossil-fuels-5791f298?mod=rss_worldnews",
       "published": "Thu, 22 Oct 2026 21:39:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Who Wants to Be a Victim in the Wild West Bank?",
-      "link": "https://www.wsj.com/opinion/who-wants-to-be-a-victim-in-the-wild-west-bank-d41d70fd?mod=rss_worldnews",
-      "published": "Thu, 22 Oct 2026 19:45:00 GMT",
-      "sentiment": 0.075
     },
     {
       "title": "Ukraine’s Military Starlink Is Working Again, Kyiv Says",
@@ -373,6 +373,12 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "Power Outages Leave Kyiv Dreading Its Worst Winter of the War",
+      "link": "https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 23:00:00 GMT",
+      "sentiment": -1.0
+    },
+    {
       "title": "Gunman Kills One Near Paris in Suspected Attack on Immigrant Communities",
       "link": "https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 19:20:00 GMT",
@@ -383,12 +389,6 @@
       "link": "https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 16:38:00 GMT",
       "sentiment": -0.1851851851851852
-    },
-    {
-      "title": "Gunmen Kill Seven in Church Attack in Jordan",
-      "link": "https://www.wsj.com/world/middle-east/gunmen-kill-seven-in-church-attack-in-jordan-c4ff80b6?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 16:36:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
