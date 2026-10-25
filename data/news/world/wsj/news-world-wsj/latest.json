@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge",
+      "link": "https://www.wsj.com/world/asia/kim-jong-un-makes-surprise-trip-to-china-crosses-new-bridge-3d0f7069?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 07:14:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "The Saudi Airline That Launched Right in the Middle of a War",
       "link": "https://www.wsj.com/world/middle-east/the-saudi-airline-that-launched-right-in-the-middle-of-a-war-18a5a7cb?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 02:00:00 GMT",
@@ -28,19 +34,19 @@
       "title": "Hundreds of Thousands Protest Across France as Clashes Erupt in Paris",
       "link": "https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews",
       "published": "Sat, 24 Oct 2026 19:22:00 GMT",
-      "sentiment": -0.1880952380952381
-    },
-    {
-      "title": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans",
-      "link": "https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews",
-      "published": "Sat, 24 Oct 2026 14:47:00 GMT",
-      "sentiment": -0.1
+      "sentiment": 0.21428571428571427
     },
     {
       "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
       "link": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_worldnews",
       "published": "Sat, 24 Oct 2026 17:07:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans",
+      "link": "https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 14:47:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Aboard USS George Washington as It Rearms for Possible Iran Strikes",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 19:54:00 GMT",
       "sentiment": 0.0375
-    },
-    {
-      "title": "Netanyahu Calls for West Bank Lockdown After Deadly Attack",
-      "link": "https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 16:38:00 GMT",
-      "sentiment": -0.1851851851851852
     },
     {
       "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "Netanyahu Calls for West Bank Lockdown After Deadly Attack",
+      "link": "https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 16:38:00 GMT",
+      "sentiment": -0.1851851851851852
     },
     {
       "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
