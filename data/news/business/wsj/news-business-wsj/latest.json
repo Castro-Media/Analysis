@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "The Growing Battle Between Credit-Card Firms and Points Junkies",
+      "link": "https://www.wsj.com/articles/the-growing-battle-between-credit-card-firms-and-points-junkies-e840b792?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 25 Oct 2026 11:04:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
       "link": "https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe?mod=pls_whats_news_us_business_f",
       "published": "Sun, 25 Oct 2026 00:55:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/energy-oil/the-rare-earth-vultures-harvesting-metals-from-americas-old-wind-turbines-a22b78db?mod=pls_whats_news_us_business_f",
       "published": "Sat, 24 Oct 2026 16:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Six Flags to Add Seat Belts to Rides Following Death",
-      "link": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 24 Oct 2026 10:37:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
@@ -283,6 +283,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Six Flags to Add Seat Belts to Rides Following Death",
+      "link": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 24 Oct 2026 10:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains",
       "link": "https://www.wsj.com/business/hospitality/how-coke-loosened-pepsis-grip-on-kfcs-soda-fountains-1be33456?mod=pls_whats_news_us_business_f",
       "published": "Sun, 18 Oct 2026 11:00:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/lyft-eyes-upscale-corporate-travel-as-next-leg-of-growth-c06a8568?mod=pls_whats_news_us_business_f",
       "published": "Thu, 15 Oct 2026 11:58:00 GMT",
       "sentiment": 0.12159090909090908
-    },
-    {
-      "title": "Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags’ Turnaround Hopes",
-      "link": "https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 14 Oct 2026 00:18:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "News Quiz for October 24, 2026",
@@ -469,16 +469,16 @@
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "These Basic Math Problems Once Stumped AI. Can You Solve Them?",
-      "link": "https://www.wsj.com/tech/ai/ai-math-quiz-openai-anthropic-e776b8a9?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 24 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.06666666666666667
-    },
-    {
       "title": "The Rare-Earth Vultures Harvesting Metals From America’s Old Wind Turbines",
       "link": "https://www.wsj.com/business/energy-oil/the-rare-earth-vultures-harvesting-metals-from-americas-old-wind-turbines-a22b78db?mod=pls_whats_news_us_business_f",
       "published": "Sat, 24 Oct 2026 16:00:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "These Basic Math Problems Once Stumped AI. Can You Solve Them?",
+      "link": "https://www.wsj.com/tech/ai/ai-math-quiz-openai-anthropic-e776b8a9?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 24 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "Why Nearly 25% of the Country Is Still Watching ‘Seinfeld’",
