@@ -1,22 +1,52 @@
 {
   "entries": [
     {
-      "title": "India news: Andhra, Odisha brace for severe storm",
-      "link": "https://www.dw.com/en/india-news-andhra-odisha-brace-for-severe-storm/live-79748098?maca=en-rss-en-all-1573-rdf",
+      "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
+      "link": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
       "published": null,
-      "sentiment": 0.35
+      "sentiment": -0.05
+    },
+    {
+      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
+      "link": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+      "link": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.03342857142857142
+    },
+    {
+      "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+      "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.0
+    },
+    {
+      "title": "Prague honours Roma resistance fighters against Hitler",
+      "link": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.1715909090909091
+    },
+    {
+      "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+      "link": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+      "link": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+      "published": null,
+      "sentiment": 0.5
     },
     {
       "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
       "link": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
       "published": null,
       "sentiment": -0.05833333333333333
-    },
-    {
-      "title": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
-      "link": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.1
     },
     {
       "title": "Trump announces Audi will build $4 billion factory in US",
@@ -67,12 +97,6 @@
       "sentiment": 0.3392857142857143
     },
     {
-      "title": "Germany news: Merz calls for unity at CSU party conference",
-      "link": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.2380952380952381
-    },
-    {
       "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
       "link": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf",
       "published": null,
@@ -95,30 +119,6 @@
       "link": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf",
       "published": null,
       "sentiment": -0.06875
-    },
-    {
-      "title": "Hitler's Eagle's Nest retreat catches fire, police say",
-      "link": "https://www.dw.com/en/hitler-s-eagle-s-nest-retreat-catches-fire-police-say/a-79747820?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.1
-    },
-    {
-      "title": "France to deploy 70,000 police officers ahead of protests",
-      "link": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Ebola: Kenya announces second death",
-      "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Trump eases Canada tariffs ahead of US midterms",
-      "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
-      "published": null,
-      "sentiment": 0.0
     },
     {
       "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
