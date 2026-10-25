@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "The Saudi Airline That Launched Right in the Middle of a War",
+      "link": "https://www.wsj.com/world/middle-east/the-saudi-airline-that-launched-right-in-the-middle-of-a-war-18a5a7cb?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.13705357142857144
+    },
+    {
       "title": "She Fled Maduro’s Regime. Washington Brought Her Back to Negotiate With It.",
       "link": "https://www.wsj.com/world/americas/she-fled-maduros-regime-washington-brought-her-back-to-negotiate-with-it-7c36c231?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews",
       "published": "Sat, 24 Oct 2026 14:47:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "U.S. Allies Race to Escape SpaceX’s Orbit",
-      "link": "https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews",
-      "published": "Sat, 24 Oct 2026 14:00:00 GMT",
-      "sentiment": 0.6
     },
     {
       "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
@@ -193,6 +193,12 @@
       "sentiment": 0.075
     },
     {
+      "title": "U.S. Allies Race to Escape SpaceX’s Orbit",
+      "link": "https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews",
+      "published": "Sat, 24 Oct 2026 14:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "The Yellow Vests Are Back on the Streets of France in Test for Government",
       "link": "https://www.wsj.com/world/europe/the-yellow-vests-are-back-on-the-streets-of-france-in-test-for-government-348714c2?mod=rss_worldnews",
       "published": "Sat, 24 Oct 2026 00:00:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/middle-east/gunmen-kill-seven-in-church-attack-in-jordan-c4ff80b6?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 16:36:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
-      "link": "https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 15:58:00 GMT",
-      "sentiment": 0.15333333333333335
     },
     {
       "title": "China’s Most Controversial Region Has Become a Showcase for Its Commercial Ambitions",
@@ -373,16 +373,16 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "Ukraine Says Starlink Isn’t Working, Despite Trump’s Promise to Restore It",
+      "link": "https://www.wsj.com/world/ukraine-says-starlink-isnt-working-despite-trumps-promise-to-restore-it-c3609d3d?mod=rss_worldnews",
+      "published": "Fri, 23 Oct 2026 15:58:00 GMT",
+      "sentiment": 0.15333333333333335
+    },
+    {
       "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
       "link": "https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 15:48:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "How Does the Ukrainian Military Use Starlink?",
-      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 11:43:00 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
