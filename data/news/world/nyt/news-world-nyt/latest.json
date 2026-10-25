@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "María Corina Machado Returns to Venezuela",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+      "published": "Sun, 25 Oct 2026 16:38:03 +0000",
+      "sentiment": 0.11818181818181818
+    },
+    {
       "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
       "published": "Sun, 25 Oct 2026 14:08:51 +0000",
@@ -9,14 +15,14 @@
     {
       "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
       "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
-      "published": "Sun, 25 Oct 2026 14:34:10 +0000",
+      "published": "Sun, 25 Oct 2026 16:43:33 +0000",
       "sentiment": 0.39999999999999997
     },
     {
-      "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+      "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
       "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "published": "Sun, 25 Oct 2026 14:05:17 +0000",
-      "sentiment": -0.1
+      "published": "Sun, 25 Oct 2026 15:50:53 +0000",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "What to Know as Serbia Votes for a New Parliament",
@@ -67,12 +73,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
-      "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
-      "published": "Sat, 24 Oct 2026 16:02:21 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "Violent Protests Resurface in Albania: What to Know",
       "link": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
       "published": "Sat, 24 Oct 2026 21:54:36 +0000",
@@ -95,6 +95,12 @@
       "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
       "published": "Sat, 24 Oct 2026 21:23:15 +0000",
       "sentiment": 0.04166666666666667
+    },
+    {
+      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+      "published": "Sat, 24 Oct 2026 16:02:21 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
@@ -169,16 +175,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
-      "link": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
-      "published": "Sat, 24 Oct 2026 13:00:52 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
       "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
       "published": "Sat, 24 Oct 2026 17:45:17 +0000",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
+      "link": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
+      "published": "Sat, 24 Oct 2026 13:00:52 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
@@ -305,12 +311,6 @@
       "link": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
       "published": "Thu, 22 Oct 2026 21:25:08 +0000",
       "sentiment": 0.041666666666666664
-    },
-    {
-      "title": "A Cancer Revolution",
-      "link": "https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html",
-      "published": "Fri, 23 Oct 2026 05:00:12 +0000",
-      "sentiment": 0.0
     }
   ]
 }
