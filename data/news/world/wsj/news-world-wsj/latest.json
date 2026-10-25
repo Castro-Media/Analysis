@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic",
+      "link": "https://www.wsj.com/world/russia/how-the-seizure-of-a-russian-vessel-brought-the-ukraine-war-to-the-arctic-93beddaa?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "Le Pen Pitches Herself as France’s Unifier After Another Weekend of Protests",
       "link": "https://www.wsj.com/world/europe/le-pen-pitches-herself-as-frances-unifier-after-another-weekend-of-protests-1ddb802c?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 19:54:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/saudi-led-troops-had-just-gathered-when-a-houthi-missile-left-dozens-dead-abf87bfb?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 15:00:00 GMT",
       "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge",
-      "link": "https://www.wsj.com/world/asia/kim-jong-un-makes-surprise-trip-to-china-crosses-new-bridge-3d0f7069?mod=rss_worldnews",
-      "published": "Sun, 25 Oct 2026 14:45:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "The Saudi Airline That Launched Right in the Middle of a War",
@@ -67,6 +67,12 @@
       "sentiment": 0.2
     },
     {
+      "title": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge",
+      "link": "https://www.wsj.com/world/asia/kim-jong-un-makes-surprise-trip-to-china-crosses-new-bridge-3d0f7069?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 14:45:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
       "link": "https://www.wsj.com/world/americas/canada-to-provide-steel-auto-sectors-with-billions-to-ease-trade-crunch-c4b5ae1a?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 19:59:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/economy/global/ai-boom-or-bust-scenarios-loom-large-at-world-financial-summit-00edaeff?mod=rss_worldnews",
       "published": "Fri, 16 Oct 2026 11:02:00 GMT",
       "sentiment": 0.11012987012987012
-    },
-    {
-      "title": "Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning",
-      "link": "https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews",
-      "published": "Fri, 16 Oct 2026 07:18:00 GMT",
-      "sentiment": -0.3333333333333333
     },
     {
       "title": "She Fled Maduro’s Regime. Washington Brought Her Back to Negotiate With It.",
@@ -157,6 +157,24 @@
       "sentiment": -0.09999999999999998
     },
     {
+      "title": "Opinion | California’s Wealth Tax and the French Economist",
+      "link": "https://www.wsj.com/opinion/californias-wealth-tax-and-the-french-economist-0e9e86cb?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 21:01:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Opinion | Viktor Orbán, U.N. Secretary-General?",
+      "link": "https://www.wsj.com/opinion/viktor-orban-u-n-secretary-general-china-russia-us-d968fcaf?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 20:58:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | María Corina Machado Needs Trump’s Protection",
+      "link": "https://www.wsj.com/opinion/maria-corina-machado-needs-trumps-protection-venezuela-f884da1b?mod=rss_worldnews",
+      "published": "Sun, 25 Oct 2026 20:57:00 GMT",
+      "sentiment": 0.11818181818181818
+    },
+    {
       "title": "Opinion | Coddling Putin Won’t Bring Peace to Ukraine",
       "link": "https://www.wsj.com/opinion/coddling-putin-wont-bring-peace-to-ukraine-2464d660?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 17:33:00 GMT",
@@ -173,24 +191,6 @@
       "link": "https://www.wsj.com/opinion/israel-election-benjamin-netanyahu-gadi-eisenkot-dd8d40fe?mod=rss_worldnews",
       "published": "Fri, 23 Oct 2026 21:32:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | America’s ‘Very Stable Genius’ Isn’t a Strategic Genius",
-      "link": "https://www.wsj.com/opinion/americas-very-stable-genius-isnt-a-strategic-genius-f76709be?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 20:09:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Opinion | Abdul El-Sayed’s Black Vote",
-      "link": "https://www.wsj.com/opinion/abdul-el-sayeds-black-vote-64b97dec?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 18:47:00 GMT",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Opinion | France ‘on the Brink of Civil War’",
-      "link": "https://www.wsj.com/opinion/france-on-the-brink-of-civil-war-ed743a69?mod=rss_worldnews",
-      "published": "Fri, 23 Oct 2026 17:52:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "How France Became the Poster Child for Debt Woes",
