@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Ethics complaint filed over ads falsely portraying Raman promoting homeless camps",
+      "link": "https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps",
+      "published": "Mon, 26 Oct 2026 21:49:13 GMT",
+      "sentiment": -0.2733333333333333
+    },
+    {
       "title": "Ahead of midterms, Trump offers $1-million reward to voter fraud tipsters",
       "link": "https://www.latimes.com/politics/story/2026-10-26/ahead-of-midterms-trump-offers-1-million-reward-to-voter-fraud-tipsters",
       "published": "Mon, 26 Oct 2026 21:16:17 GMT",
@@ -25,16 +31,16 @@
       "sentiment": 0.02
     },
     {
-      "title": "Chabria: California votes. Trump's Justice Department panics",
-      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3
-    },
-    {
       "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
       "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": -0.00833333333333334
+    },
+    {
+      "title": "Chabria: California votes. Trump's Justice Department panics",
+      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Man is found dead near entrance to Disneyland, police say",
@@ -67,16 +73,16 @@
       "sentiment": -0.5
     },
     {
-      "title": "Mystery Ohio news site boosting Ramaswamy's Amy Acton ad tied to California GOP nonprofit",
+      "title": "Mystery Ohio news site boosting Ramaswamy's Amy Acton ad tied to conservative California nonprofit",
       "link": "https://www.latimes.com/california/story/2026-10-25/california-group-linked-to-news-site-promoting-controversial-ramaswamy-ad",
       "published": "Sun, 25 Oct 2026 15:08:34 GMT",
       "sentiment": 0.275
     },
     {
-      "title": "Job training, housing, students' basic needs: L.A. community college candidates promise fixes",
-      "link": "https://www.latimes.com/california/story/2026-10-25/la-community-college-board-elections-candidate-promises",
+      "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
+      "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
+      "sentiment": 0.23200000000000004
     },
     {
       "title": "Chabria: What decent people get wrong about the Amy Acton ad",
@@ -85,10 +91,10 @@
       "sentiment": -0.24722222222222223
     },
     {
-      "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
-      "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
+      "title": "Job training, housing, students' basic needs: L.A. community college candidates promise fixes",
+      "link": "https://www.latimes.com/california/story/2026-10-25/la-community-college-board-elections-candidate-promises",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.23200000000000004
+      "sentiment": 0.05
     },
     {
       "title": "Group of men in 'Scream' masks raped a woman in 2017. The first suspect was just arrested",
@@ -133,18 +139,6 @@
       "sentiment": 0.2523809523809524
     },
     {
-      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
-      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.099375
-    },
-    {
-      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
-      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05277777777777778
-    },
-    {
       "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
       "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
@@ -155,6 +149,18 @@
       "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
+      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.099375
+    },
+    {
+      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
+      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05277777777777778
     },
     {
       "title": "'This is not normal': Feds demand California counties set aside 'likely' noncitizen ballots",
@@ -229,18 +235,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "He didn't think he'd ever be a lawyer. Now, he might be L.A.'s next city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08974747474747477
-    },
-    {
       "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -251,6 +245,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "He didn't think he'd ever be a lawyer. Now, he might be L.A.'s next city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/john-mckinney-los-angeles-city-attorney-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.08974747474747477
     },
     {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
@@ -373,16 +379,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
-    },
-    {
       "title": "Rain triggers flooding, erosion concerns across SoCal. Could it stomp out fire season?",
       "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
+      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.7333333333333333
     },
     {
       "title": "Legendary Hollywood recording studio is up for sale",
