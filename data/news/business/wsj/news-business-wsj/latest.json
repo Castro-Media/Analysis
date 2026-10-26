@@ -97,6 +97,18 @@
       "sentiment": 0.08333333333333333
     },
     {
+      "title": "Saudi Arabia’s Sabic Profit Rises Despite Lower Sales Volume",
+      "link": "https://www.wsj.com/business/earnings/saudi-arabias-sabic-profit-rises-despite-lower-sales-volume-1dc7b067?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 08:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Galp Raises Full-Year View After Oil-Price Assumption Increase",
+      "link": "https://www.wsj.com/business/energy-oil/galp-raises-full-year-view-after-oil-price-assumption-increase-ee79aceb?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 07:35:00 GMT",
+      "sentiment": 0.35
+    },
+    {
       "title": "SLB Revenue Rises as Data-Center Demand Grows, Middle East Business Recovers",
       "link": "https://www.wsj.com/business/earnings/slb-logs-higher-revenue-as-business-in-the-middle-east-recovers-f1b81666?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 16:18:00 GMT",
@@ -115,22 +127,16 @@
       "sentiment": 0.375
     },
     {
-      "title": "Rogers Communications Profit Drops on Comparison, Revenue Rises",
-      "link": "https://www.wsj.com/business/earnings/rogers-communications-profit-drops-on-comparison-revenue-rises-02d2e32b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 12:11:00 GMT",
-      "sentiment": 0.1130952380952381
+      "title": "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
+      "link": "https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 25 Oct 2026 00:55:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Volvo Car Shares Plunge as Automaker Slashes More Jobs",
       "link": "https://www.wsj.com/business/autos/volvo-car-to-cut-2-500-jobs-as-part-of-plan-to-cut-costs-further-c304f1f8?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 11:31:00 GMT",
       "sentiment": 0.17222222222222222
-    },
-    {
-      "title": "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
-      "link": "https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 25 Oct 2026 00:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/logistics-report/toyota-reckons-with-short-supply-of-its-most-popular-suv-226a0d91?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 11:04:00 GMT",
       "sentiment": 0.30000000000000004
-    },
-    {
-      "title": "Tesla Logs Surge in European Monthly Sales",
-      "link": "https://www.wsj.com/business/autos/tesla-logs-surge-in-european-monthly-sales-add7427d?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 05:06:00 GMT",
-      "sentiment": 0.14444444444444446
     },
     {
       "title": "Opinion | Democrats Are Coming for the CEOs",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 07:46:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
       "link": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 03:00:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/the-rare-earth-vultures-harvesting-metals-from-americas-old-wind-turbines-a22b78db?mod=pls_whats_news_us_business_f",
       "published": "Sat, 24 Oct 2026 16:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 19:54:00 GMT",
-      "sentiment": 0.0375
     },
     {
       "title": "The Saudi Airline That Launched Right in the Middle of a War",
@@ -379,6 +379,12 @@
       "sentiment": 0.275
     },
     {
+      "title": "Rogers Communications Profit Drops on Comparison, Revenue Rises",
+      "link": "https://www.wsj.com/business/earnings/rogers-communications-profit-drops-on-comparison-revenue-rises-02d2e32b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 23 Oct 2026 12:11:00 GMT",
+      "sentiment": 0.1130952380952381
+    },
+    {
       "title": "How Does the Ukrainian Military Use Starlink?",
       "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 11:43:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/earnings/comcasts-domestic-broadband-subscriber-losses-continue-b8954ae6?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:46:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d29e54ef?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 21 Oct 2026 21:08:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "The Plan to Put Super Dogs on the Battlefield of the Future",
@@ -487,10 +487,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "These Basic Math Problems Once Stumped AI. Can You Solve Them?",
-      "link": "https://www.wsj.com/tech/ai/ai-math-quiz-openai-anthropic-e776b8a9?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 24 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.06666666666666667
+      "title": "Why So Many Shoppers Think Retailers Are Using AI to Jack Up Prices",
+      "link": "https://www.wsj.com/business/retail/why-so-many-shoppers-think-retailers-are-using-ai-to-jack-up-prices-d77cd4eb?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Best Small-Business Loans in October 2026",
