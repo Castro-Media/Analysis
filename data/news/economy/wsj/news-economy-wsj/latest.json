@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "German Business Sentiment Rises Again Despite Energy Crunch",
+      "link": "https://www.wsj.com/economy/central-banking/german-business-sentiment-rises-again-despite-energy-crunch-9c17baab?mod=rss_socialeconomyfeed",
+      "published": "Mon, 26 Oct 2026 10:12:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Treasury Yields Turn Slightly Higher, French Bonds Outperform",
+      "link": "https://www.wsj.com/economy/central-banking/treasury-yields-turn-slightly-higher-french-bonds-outperform-2fd1aaa0?mod=rss_socialeconomyfeed",
+      "published": "Mon, 26 Oct 2026 10:03:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "The Federal Reserve is expected to hold interest rates steady this week for reasons that have as much to do with what Fed officials have said as with what the economy is doing",
+      "link": "https://www.wsj.com/economy/central-banking/why-the-fed-is-expected-to-hold-rates-steady-despite-a-case-for-raising-them-3761e47f?mod=rss_socialeconomyfeed",
+      "published": "Mon, 26 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.0050000000000000044
+    },
+    {
       "title": "The world’s richest people have discovered a new way to give their money away: a couple hundred bucks to one kid at a time.",
       "link": "https://www.wsj.com/economy/musk-trump-accounts-spacex-charity-dell-b9c37991?mod=rss_socialeconomyfeed",
       "published": "Sat, 24 Oct 2026 01:00:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-decisions-from-fed-other-central-banks-in-focus-92a52730?mod=rss_socialeconomyfeed",
       "published": "Fri, 23 Oct 2026 16:23:00 GMT",
       "sentiment": -0.008333333333333331
-    },
-    {
-      "title": "Canada Retail Sales Look to Build on August’s Rebound",
-      "link": "https://www.wsj.com/economy/consumers/canada-retail-sales-look-to-build-on-augusts-rebound-c80f8bec?mod=rss_socialeconomyfeed",
-      "published": "Fri, 23 Oct 2026 15:04:00 GMT",
-      "sentiment": 0.08
-    },
-    {
-      "title": "Consumer Sentiment Declined Slightly in October",
-      "link": "https://www.wsj.com/economy/consumers/consumer-sentiment-declined-slightly-in-october-bae24944?mod=rss_socialeconomyfeed",
-      "published": "Fri, 23 Oct 2026 14:17:00 GMT",
-      "sentiment": -0.07407407407407406
-    },
-    {
-      "title": "American Express is slashing around 3,500 jobs globally in an attempt to put a cap on rising costs",
-      "link": "https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f?mod=rss_socialeconomyfeed",
-      "published": "Fri, 23 Oct 2026 14:10:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "French Contraction Has Slowed Eurozone Expansion, Surveys Show",
@@ -127,6 +127,18 @@
       "sentiment": 0.04666666666666666
     },
     {
+      "title": "Canada Retail Sales Look to Build on August’s Rebound",
+      "link": "https://www.wsj.com/economy/consumers/canada-retail-sales-look-to-build-on-augusts-rebound-c80f8bec?mod=rss_socialeconomyfeed",
+      "published": "Fri, 23 Oct 2026 15:04:00 GMT",
+      "sentiment": 0.08
+    },
+    {
+      "title": "Consumer Sentiment Declined Slightly in October",
+      "link": "https://www.wsj.com/economy/consumers/consumer-sentiment-declined-slightly-in-october-bae24944?mod=rss_socialeconomyfeed",
+      "published": "Fri, 23 Oct 2026 14:17:00 GMT",
+      "sentiment": -0.07407407407407406
+    },
+    {
       "title": "U.K. Consumer Confidence Suffers Biggest Drop Since Pandemic",
       "link": "https://www.wsj.com/economy/consumers/u-k-consumer-confidence-suffers-biggest-drop-since-pandemic-e113231a?mod=rss_socialeconomyfeed",
       "published": "Fri, 23 Oct 2026 09:29:00 GMT",
@@ -143,18 +155,6 @@
       "link": "https://www.wsj.com/economy/consumers/consumer-sentiment-drops-per-michigan-survey-ea8fae7c?mod=rss_socialeconomyfeed",
       "published": "Fri, 09 Oct 2026 14:25:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. consumer spending is on the rise despite frustrations with persistent inflation and gloomy views about the economy",
-      "link": "https://www.wsj.com/economy/consumers/american-economy-consumer-profile-33903de1?mod=rss_socialeconomyfeed",
-      "published": "Mon, 05 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Consumer Sentiment Ticked Lower in September",
-      "link": "https://www.wsj.com/economy/consumers/consumer-sentiment-ticked-lower-in-september-5ad0b371?mod=rss_socialeconomyfeed",
-      "published": "Fri, 25 Sep 2026 14:26:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "Capital Account: President Trump once called “tariff” the most beautiful word in the dictionary. He has somehow made it one of the most hated words in politics, writes @greg_ip",
@@ -187,6 +187,12 @@
       "sentiment": 0.02407407407407408
     },
     {
+      "title": "American Express is slashing around 3,500 jobs globally in an attempt to put a cap on rising costs",
+      "link": "https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f?mod=rss_socialeconomyfeed",
+      "published": "Fri, 23 Oct 2026 14:10:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "U.S. Jobless Claims Return to Downward Trend",
       "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-return-to-downward-trend-9ba853fc?mod=rss_socialeconomyfeed",
       "published": "Thu, 22 Oct 2026 13:11:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-slide-yet-again-2d927e44?mod=rss_socialeconomyfeed",
       "published": "Thu, 08 Oct 2026 12:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The U.S. added 29,000 jobs in September, far short of expectations, in a sign that the labor market remains steady but may not be able to deliver consistent and sizable employment gains",
-      "link": "https://www.wsj.com/economy/jobs/september-jobs-report-unemployment-6b6d6643?mod=rss_socialeconomyfeed",
-      "published": "Fri, 02 Oct 2026 20:29:00 GMT",
-      "sentiment": 0.12166666666666667
     }
   ]
 }
