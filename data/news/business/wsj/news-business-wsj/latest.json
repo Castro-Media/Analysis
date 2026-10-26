@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Whirlpool Heading for Full-Year Loss as Costs Mount and Sales Fall",
+      "link": "https://www.wsj.com/business/earnings/whirlpool-whr-3q-earnings-report-2026-stock-2fb041aa?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 20:27:00 GMT",
+      "sentiment": 0.009615384615384609
+    },
+    {
+      "title": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
+      "link": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 19:52:00 GMT",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Ben & Jerry’s Founders Have Been Exploring Deal With KKR Executive",
+      "link": "https://www.wsj.com/business/deals/ben-jerrys-founders-have-been-exploring-deal-with-kkr-executive-8a9572de?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 19:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
       "link": "https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 18:11:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/business/energy-oil/these-maps-show-why-its-so-hard-to-recover-the-worlds-lost-fuel-supplies-11dd7a7c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 14:23:00 GMT",
       "sentiment": -0.18154761904761907
-    },
-    {
-      "title": "The Morning Risk Report: Lula Wins Fourth Term in Brazil Election Upset",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-lula-wins-fourth-term-in-brazil-election-upset-20698486?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 11:06:00 GMT",
-      "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "South Korea Holds a Key to America’s Shipbuilding Revival",
-      "link": "https://www.wsj.com/logistics-report/south-korea-holds-a-key-to-americas-shipbuilding-revival-99b645f7?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 11:02:00 GMT",
-      "sentiment": 0.18333333333333335
-    },
-    {
-      "title": "Why So Many Shoppers Think Retailers Are Using AI to Jack Up Prices",
-      "link": "https://www.wsj.com/business/retail/why-so-many-shoppers-think-retailers-are-using-ai-to-jack-up-prices-d77cd4eb?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
@@ -73,6 +73,12 @@
       "sentiment": 0.18333333333333335
     },
     {
+      "title": "Why So Many Shoppers Think Retailers Are Using AI to Jack Up Prices",
+      "link": "https://www.wsj.com/business/retail/why-so-many-shoppers-think-retailers-are-using-ai-to-jack-up-prices-d77cd4eb?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b467adab?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 21:31:00 GMT",
@@ -82,19 +88,13 @@
       "title": "FICO Holds $10 Pricing for Mortgage Lenders Amid New Competition",
       "link": "https://www.wsj.com/business/fico-holds-10-pricing-for-mortgage-lenders-amid-new-competition-bfcf7b12?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 21:19:00 GMT",
-      "sentiment": 0.3340909090909091
+      "sentiment": 0.4454545454545455
     },
     {
       "title": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding",
       "link": "https://www.wsj.com/business/shares-in-gucci-parent-kering-plunge-as-hoped-for-recovery-keeps-receding-b08ebddc?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 08:44:00 GMT",
       "sentiment": -0.07222222222222223
-    },
-    {
-      "title": "Safran Confirms Guidance as Revenue Jumps",
-      "link": "https://www.wsj.com/business/safran-confirms-guidance-as-revenue-jumps-984356b4?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 23 Oct 2026 05:37:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Verizon Lifts Outlook, Inks Amazon Deal Worth More Than $2 Billion",
@@ -195,8 +195,8 @@
     {
       "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 12:15:00 GMT",
-      "sentiment": 0.0
+      "published": "Mon, 26 Oct 2026 19:49:00 GMT",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "This German Energy Giant Is an Overlooked AI Bargain",
@@ -343,6 +343,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "South Korea Holds a Key to America’s Shipbuilding Revival",
+      "link": "https://www.wsj.com/logistics-report/south-korea-holds-a-key-to-americas-shipbuilding-revival-99b645f7?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 11:02:00 GMT",
+      "sentiment": 0.18333333333333335
+    },
+    {
       "title": "‘The UPS Man’ Review: All in the Delivery",
       "link": "https://www.wsj.com/business/logistics/the-ups-man-review-the-secrets-of-moving-goods-162c43fb?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 16:34:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 13:47:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Toyota Reckons With Short Supply of Its Most Popular SUV",
-      "link": "https://www.wsj.com/logistics-report/toyota-reckons-with-short-supply-of-its-most-popular-suv-226a0d91?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 11:04:00 GMT",
-      "sentiment": 0.30000000000000004
     },
     {
       "title": "A Veteran of the Telecom Bust Navigates the AI Boom",
@@ -433,6 +433,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "The Morning Risk Report: Lula Wins Fourth Term in Brazil Election Upset",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-lula-wins-fourth-term-in-brazil-election-upset-20698486?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 11:06:00 GMT",
+      "sentiment": 0.09999999999999999
+    },
+    {
       "title": "Pints Alone Won’t Save the British Pub. Activate the Knitting Circle.",
       "link": "https://www.wsj.com/business/pints-alone-wont-save-the-british-pub-activate-the-knitting-circle-d04afbb4?mod=pls_whats_news_us_business_f",
       "published": "Sun, 25 Oct 2026 18:00:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/how-trade-desk-rescued-executives-stock-options-from-a-dive-in-the-share-price-8c055b27?mod=pls_whats_news_us_business_f",
       "published": "Sat, 24 Oct 2026 20:04:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "The Rare-Earth Vultures Harvesting Metals From America’s Old Wind Turbines",
-      "link": "https://www.wsj.com/business/energy-oil/the-rare-earth-vultures-harvesting-metals-from-americas-old-wind-turbines-a22b78db?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 24 Oct 2026 16:00:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Why So Many Shoppers Think Retailers Are Using AI to Jack Up Prices",
@@ -487,10 +487,10 @@
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "Five Things to Know About Audi’s First U.S. Factory",
-      "link": "https://www.wsj.com/business/autos/five-things-to-know-about-audis-first-u-s-factory-ea203998?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 25 Oct 2026 17:57:00 GMT",
-      "sentiment": 0.25
+      "title": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
+      "link": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 19:52:00 GMT",
+      "sentiment": 0.4
     },
     {
       "title": "Best Small-Business Loans in October 2026",

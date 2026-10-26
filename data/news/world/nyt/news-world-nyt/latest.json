@@ -9,7 +9,7 @@
     {
       "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
       "link": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
-      "published": "Mon, 26 Oct 2026 18:35:10 +0000",
+      "published": "Mon, 26 Oct 2026 19:42:58 +0000",
       "sentiment": -0.10000000000000002
     },
     {
@@ -27,7 +27,7 @@
     {
       "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
       "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
-      "published": "Mon, 26 Oct 2026 17:22:26 +0000",
+      "published": "Mon, 26 Oct 2026 20:32:15 +0000",
       "sentiment": 0.2857142857142857
     },
     {
@@ -39,7 +39,7 @@
     {
       "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
       "link": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
-      "published": "Mon, 26 Oct 2026 15:57:06 +0000",
+      "published": "Mon, 26 Oct 2026 19:31:32 +0000",
       "sentiment": -0.2333333333333333
     },
     {
@@ -69,8 +69,26 @@
     {
       "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
       "link": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
-      "published": "Mon, 26 Oct 2026 12:09:50 +0000",
+      "published": "Mon, 26 Oct 2026 20:28:57 +0000",
       "sentiment": -0.08
+    },
+    {
+      "title": "Election Surprises",
+      "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
+      "published": "Mon, 26 Oct 2026 20:45:10 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
+      "published": "Mon, 26 Oct 2026 20:30:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
+      "published": "Mon, 26 Oct 2026 20:15:41 +0000",
+      "sentiment": -0.3
     },
     {
       "title": "Convicted Australian Murderer Loses Bid to Eat Vegemite in Prison",
@@ -81,13 +99,13 @@
     {
       "title": "Chris Brown Gets Suspended Prison Sentence Over Nightclub Assault",
       "link": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
-      "published": "Mon, 26 Oct 2026 15:30:34 +0000",
+      "published": "Mon, 26 Oct 2026 15:30:35 +0000",
       "sentiment": -0.5
     },
     {
       "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
       "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-      "published": "Mon, 26 Oct 2026 17:54:20 +0000",
+      "published": "Mon, 26 Oct 2026 20:55:24 +0000",
       "sentiment": 0.0
     },
     {
@@ -305,30 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
       "published": "Sun, 25 Oct 2026 01:14:39 +0000",
       "sentiment": 0.19318181818181818
-    },
-    {
-      "title": "Corsica’s GR20: A Visual Diary of the Hike",
-      "link": "https://www.nytimes.com/2026/10/24/travel/gr20-hike-corsica.html",
-      "published": "Sat, 24 Oct 2026 09:00:28 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
-      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-      "published": "Sat, 24 Oct 2026 17:45:17 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
-      "link": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
-      "published": "Sat, 24 Oct 2026 13:00:52 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "published": "Sat, 24 Oct 2026 16:09:15 +0000",
-      "sentiment": -0.001388888888888884
     }
   ]
 }
