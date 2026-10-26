@@ -73,9 +73,21 @@
       "sentiment": -0.08
     },
     {
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "published": "Mon, 26 Oct 2026 21:44:15 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mexico’s Top Election Official Resigns Amid Corruption Scandal",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
+      "published": "Mon, 26 Oct 2026 21:35:14 +0000",
+      "sentiment": 0.17222222222222222
+    },
+    {
       "title": "Election Surprises",
       "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
-      "published": "Mon, 26 Oct 2026 20:45:10 +0000",
+      "published": "Mon, 26 Oct 2026 21:37:28 +0000",
       "sentiment": 0.05
     },
     {
@@ -87,7 +99,7 @@
     {
       "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
       "link": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
-      "published": "Mon, 26 Oct 2026 20:15:41 +0000",
+      "published": "Mon, 26 Oct 2026 21:08:14 +0000",
       "sentiment": -0.3
     },
     {
@@ -311,18 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
       "published": "Mon, 26 Oct 2026 12:13:06 +0000",
       "sentiment": 0.425
-    },
-    {
-      "title": "Why Brazil’s Election Could Come Down to Crime",
-      "link": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
-      "published": "Sat, 24 Oct 2026 14:32:25 +0000",
-      "sentiment": -0.0761111111111111
-    },
-    {
-      "title": "Kim Jong-un Makes First Visit to China in Over a Year",
-      "link": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-      "published": "Sun, 25 Oct 2026 01:14:39 +0000",
-      "sentiment": 0.19318181818181818
     }
   ]
 }
