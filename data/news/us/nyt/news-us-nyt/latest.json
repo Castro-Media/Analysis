@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+      "published": "Mon, 26 Oct 2026 21:44:49 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Manhunt Begins After Convicted Murderer Escapes From Tennessee Prison",
+      "link": "https://www.nytimes.com/2026/10/26/us/tennessee-inmate-missing-manhunt.html",
+      "published": "Mon, 26 Oct 2026 21:34:37 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "What Early Voting Can Reveal About the 2026 Midterm Elections So Far",
+      "link": "https://www.nytimes.com/2026/10/26/us/midterm-elections-early-voting-takeaways.html",
+      "published": "Mon, 26 Oct 2026 21:19:01 +0000",
+      "sentiment": 0.10555555555555557
+    },
+    {
+      "title": "Teen Arrested in Florida Shooting Will Be Tried as Adult, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/26/us/famu-shooting-florida-arrest.html",
+      "published": "Mon, 26 Oct 2026 21:52:19 +0000",
+      "sentiment": -0.10000000000000002
+    },
+    {
       "title": "Last Ditch, a Lesbian Bar Whose Mask Policy Made It Famous, Will Close",
       "link": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
       "published": "Mon, 26 Oct 2026 20:06:53 +0000",
@@ -107,18 +131,6 @@
       "link": "https://www.nytimes.com/2026/10/25/us/elections/midterms-california-mail-ballots-trump.html",
       "published": "Sun, 25 Oct 2026 23:00:55 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Catholic Leaders Say Trump Meeting Wasn’t Intended to Be Political After White House Shares Video",
-      "link": "https://www.nytimes.com/2026/10/25/us/trump-catholic-bishops-meeting-apology.html",
-      "published": "Mon, 26 Oct 2026 13:08:40 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-      "published": "Mon, 26 Oct 2026 18:40:02 +0000",
-      "sentiment": 0.11454545454545455
     }
   ]
 }
