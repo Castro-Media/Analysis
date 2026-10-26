@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Set to Gain, but AI Jitters Persist",
+      "title": "AI Giant Anthropic Flags Risk of Catastrophic Incident in IPO Paperwork",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026?mod=rss_markets_main",
       "published": "Mon, 26 Oct 2026 08:24:19 GMT",
-      "sentiment": 0.43125
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Natural Gas Futures See Further Weather-Driven Losses",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-see-further-weather-driven-losses-55aff639?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 13:20:00 GMT",
+      "sentiment": 0.06666666666666667
     },
     {
       "title": "Financial Wisdom From Cartoon Apes",
@@ -67,12 +73,6 @@
       "sentiment": -0.1
     },
     {
-      "title": "The Weak Points in AI Bonds Are Becoming Clearer",
-      "link": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main",
-      "published": "Mon, 19 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.13124999999999998
-    },
-    {
       "title": "Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs",
       "link": "https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21?mod=rss_markets_main",
       "published": "Thu, 22 Oct 2026 21:31:00 GMT",
@@ -103,6 +103,18 @@
       "sentiment": 0.04
     },
     {
+      "title": "Dow Opens Higher, AI Trade Remains Under Scrutiny",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 14:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Ciena’s Board Opts for Patience Amid Tech Upheavals",
+      "link": "https://www.wsj.com/cio-journal/cienas-board-opts-for-patience-amid-tech-upheavals-f8d5aa6e?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 12:44:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-404d9dd6?mod=rss_markets_main",
       "published": "Mon, 26 Oct 2026 12:24:00 GMT",
@@ -121,22 +133,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-8a90f511?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 12:08:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7433e957?mod=rss_markets_main",
       "published": "Mon, 26 Oct 2026 12:05:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Stock Futures, Treasurys Steady as Brazilian Assets Slide",
-      "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 09:37:00 GMT",
-      "sentiment": 0.07083333333333333
     },
     {
       "title": "European Indexes Mostly Higher at Open",
@@ -199,16 +199,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Pull Back Amid Middle East Uncertainty",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 13:39:00 GMT",
+      "sentiment": 0.015625
+    },
+    {
       "title": "European Gas at Four-Year High on Winter Supply Fears",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145?mod=rss_markets_main",
       "published": "Mon, 26 Oct 2026 09:47:00 GMT",
       "sentiment": 0.01833333333333334
-    },
-    {
-      "title": "Tanker Rates for Saudi Crude Rise as Regional Tensions Escalate",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 09:32:00 GMT",
-      "sentiment": -0.7
     },
     {
       "title": "Gold Futures Rise on Softer Oil, With Focus on Fed",
@@ -229,10 +229,10 @@
       "sentiment": 0.21666666666666667
     },
     {
-      "title": "High Energy Prices, Fed Rate-Rise Prospects Could Keep Dollar Supported",
+      "title": "Midterm Elections Unlikely to Alter Dollar’s Outlook",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-fed-meet-in-focus-c2958e7e?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 10:38:00 GMT",
-      "sentiment": -0.013749999999999998
+      "published": "Mon, 26 Oct 2026 13:30:00 GMT",
+      "sentiment": -0.20833333333333334
     },
     {
       "title": "WSJ Dollar Index Falls 0.25% This Week to 96.84",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 13:02:00 GMT",
+      "published": "Mon, 26 Oct 2026 13:09:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
