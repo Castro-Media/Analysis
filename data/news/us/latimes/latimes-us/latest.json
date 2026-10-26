@@ -1,28 +1,28 @@
 {
   "entries": [
     {
-      "title": "Chabria: California votes. Trump's Justice Department panics",
-      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
-      "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.00833333333333334
-    },
-    {
       "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
       "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": -0.2
     },
     {
-      "title": "SoCal coast expected to be under siege for days from extreme sea levels",
+      "title": "Chabria: California votes. Trump's Justice Department panics",
+      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Record-breaking tides reach SoCal coast, inundating beach cities with worst still to come",
       "link": "https://www.latimes.com/california/story/2026-10-26/socal-coast-faces-flood-risk-from-days-of-extreme-sea-levels",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.033
+      "sentiment": -0.235
+    },
+    {
+      "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
+      "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.00833333333333334
     },
     {
       "title": "Man is found dead near entrance to Disneyland, police say",
@@ -67,16 +67,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24722222222222223
-    },
-    {
       "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
       "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.23200000000000004
+    },
+    {
+      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.24722222222222223
     },
     {
       "title": "Group of men in 'Scream' masks raped a woman in 2017. The first suspect was just arrested",
@@ -121,6 +121,18 @@
       "sentiment": 0.2523809523809524
     },
     {
+      "title": "Trump wants to strip California of coastal protections unless state yields to list of demands",
+      "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
+      "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
       "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
@@ -131,18 +143,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": -0.05277777777777778
-    },
-    {
-      "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
-      "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Trump wants to strip California of coastal protections unless state yields to list of demands",
-      "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "'This is not normal': Feds demand California counties set aside 'likely' noncitizen ballots",
@@ -229,16 +229,16 @@
       "sentiment": 0.08974747474747477
     },
     {
-      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.75
-    },
-    {
       "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
       "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.75
     },
     {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
@@ -355,16 +355,16 @@
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
-      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
       "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": -0.7333333333333333
+    },
+    {
+      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
+      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Rain triggers flooding, erosion concerns across SoCal. Could it stomp out fire season?",
