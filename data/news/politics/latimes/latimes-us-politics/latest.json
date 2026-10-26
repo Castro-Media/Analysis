@@ -37,7 +37,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Mystery Ohio news site boosting Ramaswamy's Amy Acton ad tied to California GOP nonprofit",
+      "title": "Mystery Ohio news site boosting Ramaswamy's Amy Acton ad tied to conservative California nonprofit",
       "link": "https://www.latimes.com/california/story/2026-10-25/california-group-linked-to-news-site-promoting-controversial-ramaswamy-ad",
       "published": "Sun, 25 Oct 2026 15:08:34 GMT",
       "sentiment": 0.275
@@ -97,12 +97,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
       "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -119,6 +113,12 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": -0.075
+    },
+    {
+      "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Judge limits election-related immigration stops amid broader legal war ahead of midterms",
@@ -487,28 +487,28 @@
       "sentiment": -0.0125
     },
     {
-      "title": "Meet the Fox News correspondent leading the fight for press freedom at the White House",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-05/meet-fox-news-correspondent-leading-fight-for-press-freedom-at-white-house",
-      "published": "Mon, 5 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "When is war not 'war'? In Iran, according to the U.S.",
       "link": "https://www.latimes.com/politics/story/2026-10-05/why-trump-administration-is-reluctant-to-call-ongoing-conflict-with-iran-war",
       "published": "Mon, 5 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1416666666666667
+      "title": "Meet the Fox News correspondent leading the fight for press freedom at the White House",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-05/meet-fox-news-correspondent-leading-fight-for-press-freedom-at-white-house",
+      "published": "Mon, 5 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
       "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1416666666666667
     },
     {
       "title": "Provocative, sexually suggestive ad by Hilton campaign condemned by political allies on the right",
@@ -565,22 +565,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your guide to L.A. County Charter Amendment E: Jail alternatives",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-charter-amendment-e-voter-guide",
+      "title": "Commentary: Senator flubs gotcha moment by mixing up sports teams. A woman steps in to correct him",
+      "link": "https://www.latimes.com/politics/story/2026-10-01/senator-flubs-gotcha-moment-by-mixing-up-sports-teams-woman-steps-in-to-correct-him",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.12222222222222223
+      "sentiment": 0.0
     },
     {
-      "title": "Your guide to L.A. City Charter Amendment SC: Board of education campaign finance rules",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-city-charter-amendment-sc-voter-guide",
+      "title": "Your guide to Proposition 43: Voting thresholds for local special taxes",
+      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-proposition-43-threshold-local-special-tax-voter-guide",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.049999999999999996
+      "sentiment": 0.14285714285714285
     },
     {
-      "title": "Your guide to L.A. County Charter Amendment A: Binding arbitration",
-      "link": "https://www.latimes.com/california/story/2026-10-01/2026-california-election-los-angeles-county-charter-amendment-a-voter-guide",
+      "title": "Influencers filed ethics complaint against Raman campaign — with help from Bass lawyers",
+      "link": "https://www.latimes.com/politics/story/2026-10-01/bass-lawyers-help-influencers-file-complaint-against-raman-campaign",
       "published": "Thu, 1 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
+      "sentiment": -0.1111111111111111
     }
   ]
 }
