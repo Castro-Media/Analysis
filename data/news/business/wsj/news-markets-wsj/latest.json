@@ -103,40 +103,34 @@
       "sentiment": 0.04
     },
     {
-      "title": "Dow Opens Higher, AI Trade Remains Under Scrutiny",
-      "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 14:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Ciena’s Board Opts for Patience Amid Tech Upheavals",
-      "link": "https://www.wsj.com/cio-journal/cienas-board-opts-for-patience-amid-tech-upheavals-f8d5aa6e?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 12:44:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-404d9dd6?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 12:24:00 GMT",
-      "sentiment": 0.25
+      "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
+      "link": "https://www.wsj.com/pro/private-equity/bon-secours-affiliate-to-acquire-surgery-partners-in-5-7-billion-take-private-deal-10321162?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 16:40:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-780b3b87?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 12:19:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4d509d1c?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 12:13:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7433e957?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 12:05:00 GMT",
+      "published": "Mon, 26 Oct 2026 16:30:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-8a90f511?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 16:26:00 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "U.S. Stocks Higher as Tech Rallies",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 16:20:00 GMT",
+      "sentiment": 0.2833333333333333
+    },
+    {
+      "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
+      "link": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 16:11:00 GMT",
+      "sentiment": 0.32222222222222224
     },
     {
       "title": "European Indexes Mostly Higher at Open",
@@ -161,6 +155,12 @@
       "link": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 21:10:00 GMT",
       "sentiment": -0.6
+    },
+    {
+      "title": "U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83?mod=rss_markets_main",
+      "published": "Fri, 23 Oct 2026 20:34:00 GMT",
+      "sentiment": -0.003333333333333327
     },
     {
       "title": "Opinion | Don’t Punish the Productive",
@@ -199,16 +199,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "European Gas at Four-Year High on Winter Supply Fears",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 17:13:00 GMT",
+      "sentiment": 0.01571428571428572
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4d509d1c?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 16:24:00 GMT",
+      "sentiment": 0.26
+    },
+    {
       "title": "Oil Futures Pull Back Amid Middle East Uncertainty",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-on-likely-technical-correction-ad4be59e?mod=rss_markets_main",
       "published": "Mon, 26 Oct 2026 13:39:00 GMT",
       "sentiment": 0.015625
-    },
-    {
-      "title": "European Gas at Four-Year High on Winter Supply Fears",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-four-year-high-on-winter-supply-fears-b7dd5145?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 09:47:00 GMT",
-      "sentiment": 0.01833333333333334
     },
     {
       "title": "Gold Futures Rise on Softer Oil, With Focus on Fed",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
       "published": "Fri, 23 Oct 2026 20:47:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather",
-      "link": "https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 20:29:00 GMT",
-      "sentiment": 0.21666666666666667
     },
     {
       "title": "Midterm Elections Unlikely to Alter Dollar’s Outlook",
