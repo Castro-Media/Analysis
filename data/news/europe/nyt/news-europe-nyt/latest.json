@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "2 British Men Charged Over RAF Fairford Incident",
+      "title": "Meghan, Actress Turned Duchess, Will Join Australian Cooking Show",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/meghan-junior-masterchef-australia.html",
+      "published": "Tue, 27 Oct 2026 13:56:22 +0000",
+      "sentiment": 0.11904761904761905
+    },
+    {
+      "title": "British Man Charged With Helping Iranian Intelligence In RAF Fairford Incident",
       "link": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
-      "published": "Tue, 27 Oct 2026 12:20:41 +0000",
-      "sentiment": -0.4
+      "published": "Tue, 27 Oct 2026 14:25:25 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
       "published": "Sun, 25 Oct 2026 15:41:10 +0000",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
-      "published": "Sat, 24 Oct 2026 21:23:15 +0000",
-      "sentiment": 0.04166666666666667
     }
   ]
 }
