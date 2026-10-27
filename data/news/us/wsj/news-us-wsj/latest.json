@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Judge Bars Trump Administration From Cutting More Trees on D.C. Golf Course",
+      "link": "https://www.wsj.com/politics/policy/judge-bars-trump-administration-from-cutting-more-trees-on-d-c-golf-course-54670223?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 01:29:00 GMT",
+      "sentiment": 0.03333333333333335
+    },
+    {
       "title": "Justice Department Charges James Comey Again",
       "link": "https://www.wsj.com/us-news/law/justice-department-charges-james-comey-again-e5c19c22?mod=rss_usnews",
       "published": "Tue, 27 Oct 2026 00:17:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/romance-scammers-turned-a-texas-man-into-an-unwitting-money-mule-b440be36?mod=rss_usnews",
       "published": "Sat, 24 Oct 2026 23:00:00 GMT",
       "sentiment": 0.45
-    },
-    {
-      "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
-      "link": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_usnews",
-      "published": "Sat, 24 Oct 2026 17:07:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Inside the School Board Brawl Rocking Beverly Hills",
@@ -67,6 +67,12 @@
       "sentiment": 0.09999999999999999
     },
     {
+      "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+      "link": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_usnews",
+      "published": "Sat, 24 Oct 2026 17:07:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Former FBI Officials Charged With Lying to Congress About Hunter Biden Probe",
       "link": "https://www.wsj.com/politics/policy/former-fbi-officials-charged-with-lying-to-congress-about-hunter-biden-probe-3974fdd1?mod=rss_usnews",
       "published": "Fri, 23 Oct 2026 19:04:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/us-news/law/virginia-democratic-lawmaker-charged-with-alleged-marijuana-conspiracy-211fcfb4?mod=rss_usnews",
       "published": "Thu, 22 Oct 2026 16:39:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-meta-ordered-to-pay-25-billion-to-new-mexico-in-data-privacy-case-01dd9197?mod=rss_usnews",
-      "published": "Thu, 22 Oct 2026 11:21:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "A Disappearing Rio Grande Is Reshaping Life Along the River",
@@ -199,16 +199,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Inside the School Board Brawl Rocking Beverly Hills",
-      "link": "https://www.wsj.com/us-news/education/inside-the-school-board-brawl-rocking-beverly-hills-0a799115?mod=rss_usnews",
-      "published": "Fri, 23 Oct 2026 18:47:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Mamdani Struggles to Get a Handle on Homeless Encampments",
       "link": "https://www.wsj.com/us-news/mamdani-struggles-to-get-a-handle-on-homeless-encampments-68f82a30?mod=rss_usnews",
       "published": "Mon, 26 Oct 2026 02:00:00 GMT",
       "sentiment": -0.16590909090909092
+    },
+    {
+      "title": "Inside the School Board Brawl Rocking Beverly Hills",
+      "link": "https://www.wsj.com/us-news/education/inside-the-school-board-brawl-rocking-beverly-hills-0a799115?mod=rss_usnews",
+      "published": "Fri, 23 Oct 2026 18:47:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Financial—and Psychological—Cost of Being the Friend Who Picks Up the Tab",
