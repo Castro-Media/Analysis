@@ -1,10 +1,70 @@
 {
   "entries": [
     {
+      "title": "Two Visions, Two Israels, One Nation in the Balance",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+      "published": "Tue, 27 Oct 2026 09:06:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Key Election Issues Dividing Israelis as They Vote",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html",
+      "published": "Tue, 27 Oct 2026 09:02:10 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "published": "Tue, 27 Oct 2026 08:25:45 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+      "published": "Tue, 27 Oct 2026 10:39:50 +0000",
+      "sentiment": -0.045
+    },
+    {
+      "title": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
+      "published": "Tue, 27 Oct 2026 04:01:13 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Jordan Airstrikes on Syria Kill Seven Civilians, Syrian State Media Says",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+      "published": "Tue, 27 Oct 2026 08:37:38 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "2 British Men Charged Over RAF Fairford Incident",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/raf-fairford-charges-uk-air-base-us-iran.html",
+      "published": "Tue, 27 Oct 2026 10:17:00 +0000",
+      "sentiment": -0.4
+    },
+    {
+      "title": "5 Key Moments From Israel’s Pivotal Election Campaign",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html",
+      "published": "Tue, 27 Oct 2026 09:45:05 +0000",
+      "sentiment": 0.17272727272727273
+    },
+    {
+      "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+      "published": "Mon, 26 Oct 2026 23:55:15 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "To Work With P.O.W.s, Ukrainians Suppress Feelings About the Enemy",
       "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-russia-pows-prisoners.html",
       "published": "Mon, 26 Oct 2026 09:58:09 +0000",
       "sentiment": 0.008333333333333338
+    },
+    {
+      "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+      "published": "Mon, 26 Oct 2026 23:09:14 +0000",
+      "sentiment": 0.21212121212121213
     },
     {
       "title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
@@ -25,100 +85,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
-      "published": "Mon, 26 Oct 2026 20:32:16 +0000",
-      "sentiment": 0.2857142857142857
-    },
-    {
-      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
-      "published": "Tue, 27 Oct 2026 06:59:20 +0000",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
-      "published": "Mon, 26 Oct 2026 19:31:32 +0000",
-      "sentiment": -0.2333333333333333
-    },
-    {
-      "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
-      "link": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
-      "published": "Mon, 26 Oct 2026 13:14:21 +0000",
-      "sentiment": -0.07678571428571429
-    },
-    {
-      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-      "published": "Mon, 26 Oct 2026 10:00:51 +0000",
-      "sentiment": -0.009595959595959602
-    },
-    {
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "published": "Mon, 26 Oct 2026 10:03:40 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "María Corina Machado Returns to Venezuela",
-      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "published": "Mon, 26 Oct 2026 16:40:43 +0000",
-      "sentiment": 0.07878787878787878
-    },
-    {
-      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
-      "published": "Tue, 27 Oct 2026 01:22:53 +0000",
-      "sentiment": -0.08
-    },
-    {
-      "title": "Jordan Airstrikes on Syria Kill Seven Civilians, Syrian State Media Says",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-      "published": "Tue, 27 Oct 2026 08:37:38 +0000",
-      "sentiment": -0.05
+      "title": "Hong Kong’s ‘Apartment Horror’ Films Skewer Its Ghastly Property Market",
+      "link": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
+      "published": "Tue, 27 Oct 2026 09:01:02 +0000",
+      "sentiment": -0.3
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
-      "published": "Tue, 27 Oct 2026 05:01:03 +0000",
+      "published": "Tue, 27 Oct 2026 10:00:05 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Two Candidates, Two Israels, One Nation in the Balance",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
-      "published": "Tue, 27 Oct 2026 05:19:10 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
-      "published": "Tue, 27 Oct 2026 04:01:13 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
-      "published": "Tue, 27 Oct 2026 04:01:07 +0000",
-      "sentiment": -0.045
-    },
-    {
-      "title": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "published": "Tue, 27 Oct 2026 08:25:45 +0000",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
-      "published": "Mon, 26 Oct 2026 23:55:15 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Machado’s Return to Venezuela Tests Limits of U.S. Sway",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
-      "published": "Mon, 26 Oct 2026 23:09:14 +0000",
-      "sentiment": 0.21212121212121213
     },
     {
       "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
@@ -169,6 +145,18 @@
       "sentiment": 0.18333333333333335
     },
     {
+      "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+      "published": "Mon, 26 Oct 2026 19:31:32 +0000",
+      "sentiment": -0.2333333333333333
+    },
+    {
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "published": "Tue, 27 Oct 2026 06:59:20 +0000",
+      "sentiment": 0.3
+    },
+    {
       "title": "Chris Brown Gets Suspended Prison Sentence Over Nightclub Assault",
       "link": "https://www.nytimes.com/2026/10/26/arts/music/chris-brown-sentencing.html",
       "published": "Mon, 26 Oct 2026 15:30:35 +0000",
@@ -179,6 +167,18 @@
       "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
       "published": "Tue, 27 Oct 2026 04:08:13 +0000",
       "sentiment": 0.15
+    },
+    {
+      "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
+      "link": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
+      "published": "Mon, 26 Oct 2026 10:00:51 +0000",
+      "sentiment": -0.009595959595959602
+    },
+    {
+      "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+      "published": "Tue, 27 Oct 2026 01:22:53 +0000",
+      "sentiment": -0.08
     },
     {
       "title": "Who Is Netanyahu’s Main Opponent in Israel’s Elections?",
@@ -193,6 +193,12 @@
       "sentiment": 0.39999999999999997
     },
     {
+      "title": "‘Pull Out the Sick Trees’: Xi’s Constant Purges Pave Way for Next Term",
+      "link": "https://www.nytimes.com/2026/10/26/world/asia/china-communist-party-xi-forever-purge.html",
+      "published": "Mon, 26 Oct 2026 13:14:21 +0000",
+      "sentiment": -0.07678571428571429
+    },
+    {
       "title": "The presidential election in Brazil is a test of Trump’s power as a kingmaker.",
       "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
       "published": "Sun, 25 Oct 2026 23:41:50 +0000",
@@ -203,6 +209,12 @@
       "link": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-future-of-the-amazon-rainforest-could-depend-on-who-wins",
       "published": "Sun, 25 Oct 2026 22:40:18 +0000",
       "sentiment": 0.15
+    },
+    {
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "published": "Mon, 26 Oct 2026 10:03:40 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "Lula has accused Meta of helping his opponent.",
@@ -247,6 +259,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "María Corina Machado Returns to Venezuela",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+      "published": "Mon, 26 Oct 2026 16:40:43 +0000",
+      "sentiment": 0.07878787878787878
+    },
+    {
       "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
       "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
       "published": "Sun, 25 Oct 2026 21:39:45 +0000",
@@ -259,6 +277,12 @@
       "sentiment": 0.39999999999999997
     },
     {
+      "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+      "published": "Mon, 26 Oct 2026 20:32:16 +0000",
+      "sentiment": 0.2857142857142857
+    },
+    {
       "title": "The Expat Voters Hoping to Swing Israel’s Election",
       "link": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
       "published": "Sun, 25 Oct 2026 09:01:42 +0000",
@@ -266,7 +290,7 @@
     },
     {
       "title": "Israel’s High-Stakes Election: What to Know",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
       "published": "Sun, 25 Oct 2026 09:01:00 +0000",
       "sentiment": 0.06818181818181818
     },
@@ -305,24 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
       "published": "Sat, 24 Oct 2026 21:23:15 +0000",
       "sentiment": 0.04166666666666667
-    },
-    {
-      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
-      "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
-      "published": "Sat, 24 Oct 2026 16:02:21 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
-      "published": "Sun, 25 Oct 2026 19:41:40 +0000",
-      "sentiment": 0.09206349206349207
-    },
-    {
-      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
-      "published": "Sat, 24 Oct 2026 19:53:56 +0000",
-      "sentiment": 0.0
     }
   ]
 }
