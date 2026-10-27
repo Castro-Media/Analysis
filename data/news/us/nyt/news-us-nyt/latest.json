@@ -1,15 +1,45 @@
 {
   "entries": [
     {
+      "title": "Prominent Texas Congregation Votes to Leave United Methodist Church",
+      "link": "https://www.nytimes.com/2026/10/27/us/highland-park-congregation-united-methodist-church.html",
+      "published": "Tue, 27 Oct 2026 16:28:09 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "RFK Jr. Makes Bigoted Remarks About Arabs on the Campaign Trial in Michigan",
+      "link": "https://www.nytimes.com/2026/10/27/us/rfk-jr-arabs-islamophobia-michigan.html",
+      "published": "Tue, 27 Oct 2026 16:18:36 +0000",
+      "sentiment": -0.26666666666666666
+    },
+    {
+      "title": "Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html",
+      "published": "Tue, 27 Oct 2026 16:15:07 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Alaska Asks Court to Halt Trump’s Effort to Block Votes in Senate Race",
+      "link": "https://www.nytimes.com/2026/10/27/us/alaska-election-doj-trump-lawsuit-sullivan.html",
+      "published": "Tue, 27 Oct 2026 16:46:40 +0000",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Michigan Senate Race Drives Anxiety Among Jewish and Muslim Voters",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/michigan-senate-race-jewish-muslim-voters.html",
+      "published": "Tue, 27 Oct 2026 16:47:22 +0000",
+      "sentiment": 0.25
+    },
+    {
       "title": "Skeleton of Nanotyrannus ‘Jodi,’ T. Rex’s Cousin, Is Auctioned for $47.3 Million",
       "link": "https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html",
-      "published": "Tue, 27 Oct 2026 14:41:52 +0000",
+      "published": "Tue, 27 Oct 2026 14:41:53 +0000",
       "sentiment": 0.22
     },
     {
       "title": "Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too.",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html",
-      "published": "Tue, 27 Oct 2026 14:24:14 +0000",
+      "published": "Tue, 27 Oct 2026 15:43:34 +0000",
       "sentiment": 0.05804924242424242
     },
     {
@@ -27,7 +57,7 @@
     {
       "title": "Election Officials Fear Trump Administration’s Interference in Midterms Voting",
       "link": "https://www.nytimes.com/2026/10/27/us/election-interference-trump-midterms.html",
-      "published": "Tue, 27 Oct 2026 14:38:02 +0000",
+      "published": "Tue, 27 Oct 2026 16:51:20 +0000",
       "sentiment": 0.0
     },
     {
@@ -39,7 +69,7 @@
     {
       "title": "A Tight Senate Race in Mississippi? Trump and Others Seem to Think So.",
       "link": "https://www.nytimes.com/2026/10/27/us/elections/mississippi-senate-race-trump.html",
-      "published": "Tue, 27 Oct 2026 09:02:47 +0000",
+      "published": "Tue, 27 Oct 2026 16:16:15 +0000",
       "sentiment": 0.06428571428571428
     },
     {
@@ -75,7 +105,7 @@
     {
       "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
       "link": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
-      "published": "Tue, 27 Oct 2026 00:04:44 +0000",
+      "published": "Tue, 27 Oct 2026 00:04:45 +0000",
       "sentiment": 0.0
     },
     {
@@ -137,24 +167,6 @@
       "link": "https://www.nytimes.com/2026/10/26/us/south-carolina-senate-andrews-graham.html",
       "published": "Mon, 26 Oct 2026 18:25:41 +0000",
       "sentiment": -0.05952380952380953
-    },
-    {
-      "title": "House Democrats Call for Special Counsel to Scrutinize Trump’s Ties to Epstein",
-      "link": "https://www.nytimes.com/2026/10/26/us/democrats-special-counsel-trump-epstein.html",
-      "published": "Mon, 26 Oct 2026 16:29:04 +0000",
-      "sentiment": 0.21904761904761907
-    },
-    {
-      "title": "Swing State Republican in a Razor-Thin Race Tries to Outrun Trump",
-      "link": "https://www.nytimes.com/2026/10/26/us/lombardo-nevada-governor-republican.html",
-      "published": "Mon, 26 Oct 2026 16:16:20 +0000",
-      "sentiment": 0.375
-    },
-    {
-      "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
-      "published": "Tue, 27 Oct 2026 03:48:53 +0000",
-      "sentiment": 0.02500000000000001
     }
   ]
 }
