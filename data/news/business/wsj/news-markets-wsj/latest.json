@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Oct. 26, 2026: Tech Shares Rally After Anthropic Files for Historic IPO",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 08:24:19 GMT",
+      "title": "Stock Market Today: Brent Crude Slips Just Below $110 a Barrel With Mideast in Focus",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 09:21:34 GMT",
+      "sentiment": -0.7
+    },
+    {
+      "title": "These Funds Thrive on Investors’ Impatience",
+      "link": "https://www.wsj.com/finance/investing/these-funds-thrive-on-investors-impatience-48a6d3a4?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 10:37:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
+      "link": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 10:26:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Inside the 11th-Hour Scramble to Save Anthropic’s Debt Deal",
+      "link": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 10:05:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+      "link": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
@@ -17,30 +41,6 @@
       "link": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 01:00:00 GMT",
       "sentiment": 0.1875
-    },
-    {
-      "title": "A $300 Billion ‘Debt Wall’ Is Looming Over Private-Equity Backed Companies",
-      "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 01:00:00 GMT",
-      "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "Weil Gotshal Leaders Spent Frantic Weekend Trying to Stabilize Law Firm",
-      "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 23:27:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "DoorDash Circles Deal to Buy Instacart",
-      "link": "https://www.wsj.com/business/doordash-circles-deal-to-buy-instacart-41ac407d?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 21:28:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tech Rallies, Brazil Crashes",
-      "link": "https://www.wsj.com/finance/stocks/tech-rallies-brazil-crashes-400a468f?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 20:29:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "This German Energy Giant Is an Overlooked AI Bargain",
@@ -103,10 +103,28 @@
       "sentiment": 0.5
     },
     {
+      "title": "Fed Policymakers Are in an Awkward Spot",
+      "link": "https://www.wsj.com/finance/investing/fed-policymakers-are-in-an-awkward-spot-cdc878fb?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 10:25:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Interest Rates Look Kinda Low",
+      "link": "https://www.wsj.com/economy/central-banking/interest-rates-look-kinda-low-39f99f8c?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 09:58:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership",
       "link": "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 07:01:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "A $300 Billion ‘Debt Wall’ Is Looming Over Private-Equity Backed Companies",
+      "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.041666666666666664
     },
     {
       "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
@@ -115,28 +133,16 @@
       "sentiment": 0.32222222222222224
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/energy-utilities-roundup-market-talk-8c5eb035?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 21:13:00 GMT",
-      "sentiment": 0.5
+      "title": "Stock Futures Steady as Anthropic Rally Stalls, Israel Election in Focus",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 09:41:00 GMT",
+      "sentiment": 0.18666666666666668
     },
     {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-780b3b87?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 21:07:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-404d9dd6?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 21:06:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "European Stock Indexes Slip, Banks Under Pressure",
+      "title": "European Chip Stocks Rise as Anthropic’s IPO Prospectus Reinvigorates AI Trade",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-chip-related-stocks-a902969d?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 08:29:00 GMT",
-      "sentiment": 0.0
+      "published": "Tue, 27 Oct 2026 09:29:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "U.S. Stocks Rise Ahead of Tech Earnings",
@@ -145,22 +151,16 @@
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "Tech Rallies, Brazil Crashes",
+      "link": "https://www.wsj.com/finance/stocks/tech-rallies-brazil-crashes-400a468f?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 20:29:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Tech Shares Rally After Anthropic Files for Historic IPO",
       "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
       "published": "Mon, 26 Oct 2026 18:53:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Financial Wisdom From Cartoon Apes",
-      "link": "https://www.wsj.com/finance/stocks/financial-wisdom-from-cartoon-apes-051eeb11?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 10:43:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "European Indexes Mostly Higher at Open",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-dragged-by-chip-electronics-stocks-eed519a4?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 08:33:00 GMT",
-      "sentiment": 0.07738095238095238
     },
     {
       "title": "Opinion | Anthropic’s Big IPO Gamble",
@@ -289,34 +289,34 @@
       "sentiment": 0.4
     },
     {
+      "title": "Weil Gotshal Leaders Spent Frantic Weekend Trying to Stabilize Law Firm",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 23:27:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "DoorDash Circles Deal to Buy Instacart",
+      "link": "https://www.wsj.com/business/doordash-circles-deal-to-buy-instacart-41ac407d?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 21:28:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Natural Gas Futures Settle Above Day’s Lows",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-see-further-weather-driven-losses-55aff639?mod=rss_markets_main",
       "published": "Mon, 26 Oct 2026 19:40:00 GMT",
       "sentiment": 0.08333333333333333
     },
     {
+      "title": "Financial Wisdom From Cartoon Apes",
+      "link": "https://www.wsj.com/finance/stocks/financial-wisdom-from-cartoon-apes-051eeb11?mod=rss_markets_main",
+      "published": "Mon, 26 Oct 2026 10:43:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
       "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
       "published": "Sun, 25 Oct 2026 01:00:00 GMT",
       "sentiment": -0.05625
-    },
-    {
-      "title": "How Expensive is Gasoline Where You Live?",
-      "link": "https://www.wsj.com/finance/commodities-futures/how-expensive-is-gasoline-where-you-live-4acc6026?mod=rss_markets_main",
-      "published": "Sat, 24 Oct 2026 17:19:00 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink",
-      "link": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42?mod=rss_markets_main",
-      "published": "Sat, 24 Oct 2026 02:35:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Stocks Pulled in Two Directions, Fall to End Volatile Week",
-      "link": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
-      "published": "Fri, 23 Oct 2026 21:10:00 GMT",
-      "sentiment": -0.6
     },
     {
       "title": "How Much Can You Safely Spend in Retirement? A 401(k) Giant Offers Guidance",
