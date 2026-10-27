@@ -1,15 +1,27 @@
 {
   "entries": [
     {
+      "title": "El-Sayed Campaign Distances Itself From Group’s Ad Critical of Israel",
+      "link": "https://www.nytimes.com/2026/10/26/us/michigan-senate-el-sayed-stevens-ad.html",
+      "published": "Tue, 27 Oct 2026 00:49:02 +0000",
+      "sentiment": 0.2
+    },
+    {
       "title": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
       "link": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
-      "published": "Mon, 26 Oct 2026 22:54:12 +0000",
+      "published": "Tue, 27 Oct 2026 00:24:09 +0000",
       "sentiment": -0.10909090909090909
+    },
+    {
+      "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
+      "published": "Tue, 27 Oct 2026 00:04:44 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Ohio State Professor Who Tackled a Filmmaker on Campus Resigns",
       "link": "https://www.nytimes.com/2026/10/26/us/ohio-state-professor-tackled-filmmaker-resignation.html",
-      "published": "Mon, 26 Oct 2026 22:52:27 +0000",
+      "published": "Mon, 26 Oct 2026 22:52:28 +0000",
       "sentiment": -0.06388888888888888
     },
     {
@@ -21,13 +33,13 @@
     {
       "title": "The Other Dan Sullivan Fires Back at Trump’s Lawsuit in Alaska",
       "link": "https://www.nytimes.com/2026/10/26/us/teacher-alaska-senate-trump-lawsuit.html",
-      "published": "Mon, 26 Oct 2026 21:55:09 +0000",
+      "published": "Tue, 27 Oct 2026 00:20:03 +0000",
       "sentiment": 0.075
     },
     {
       "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
       "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
-      "published": "Mon, 26 Oct 2026 22:40:21 +0000",
+      "published": "Tue, 27 Oct 2026 00:48:05 +0000",
       "sentiment": 0.5
     },
     {
@@ -45,7 +57,7 @@
     {
       "title": "Teen Arrested in Florida Shooting Will Be Tried as Adult, Officials Say",
       "link": "https://www.nytimes.com/2026/10/26/us/famu-shooting-florida-arrest.html",
-      "published": "Mon, 26 Oct 2026 21:52:19 +0000",
+      "published": "Mon, 26 Oct 2026 23:00:27 +0000",
       "sentiment": -0.10000000000000002
     },
     {
@@ -143,18 +155,6 @@
       "link": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html",
       "published": "Mon, 26 Oct 2026 02:26:14 +0000",
       "sentiment": -0.4892857142857143
-    },
-    {
-      "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
-      "link": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
-      "published": "Mon, 26 Oct 2026 05:40:30 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Appeals Court Appears to Doubt Justice Dept. Claims in California Ballot Case",
-      "link": "https://www.nytimes.com/2026/10/25/us/elections/midterms-california-mail-ballots-trump.html",
-      "published": "Sun, 25 Oct 2026 23:00:55 +0000",
-      "sentiment": 0.5
     }
   ]
 }
