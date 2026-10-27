@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "How Accurate Are the Midterm Polls? The Bias Varies by State.",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/midterm-polls-errors-states.html",
+      "published": "Tue, 27 Oct 2026 19:00:07 +0000",
+      "sentiment": 0.1166666666666667
+    },
+    {
+      "title": "As Election Nears, Reports of an Increase in ICE Arrests Across California",
+      "link": "https://www.nytimes.com/2026/10/27/us/ice-arrests-california-immigration.html",
+      "published": "Tue, 27 Oct 2026 18:16:49 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
+      "published": "Tue, 27 Oct 2026 18:28:43 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "The Christian Influencer at the Center of Ken Paxton’s New Life",
+      "link": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
+      "published": "Tue, 27 Oct 2026 18:56:21 +0000",
+      "sentiment": 0.031818181818181815
+    },
+    {
       "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
       "published": "Tue, 27 Oct 2026 17:30:52 +0000",
@@ -13,9 +37,9 @@
       "sentiment": 0.25
     },
     {
-      "title": "RFK Jr. Makes Bigoted Remarks About Arabs on the Campaign Trial in Michigan",
+      "title": "RFK Jr. Makes Bigoted Remarks About Arabs on the Campaign Trail in Michigan",
       "link": "https://www.nytimes.com/2026/10/27/us/rfk-jr-arabs-islamophobia-michigan.html",
-      "published": "Tue, 27 Oct 2026 16:18:37 +0000",
+      "published": "Tue, 27 Oct 2026 19:09:05 +0000",
       "sentiment": -0.26666666666666666
     },
     {
@@ -37,10 +61,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Skeleton of Nanotyrannus ‘Jodi,’ T. Rex’s Cousin, Is Auctioned for $47.3 Million",
+      "title": "Nanotyrannus Skeleton ‘Jodi’ Is Auctioned for $47.3 Million",
       "link": "https://www.nytimes.com/2026/10/27/us/jodi-dinosaur-skeleton-auction-sothebys.html",
-      "published": "Tue, 27 Oct 2026 14:41:53 +0000",
-      "sentiment": 0.22
+      "published": "Tue, 27 Oct 2026 18:10:56 +0000",
+      "sentiment": 0.33
     },
     {
       "title": "Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too.",
@@ -51,13 +75,13 @@
     {
       "title": "Alex Pretti’s Parents Say Federal Government Is Silent on Investigation",
       "link": "https://www.nytimes.com/2026/10/27/us/alex-pretti-parents-federal-investigation.html",
-      "published": "Tue, 27 Oct 2026 14:27:04 +0000",
+      "published": "Tue, 27 Oct 2026 18:20:27 +0000",
       "sentiment": 0.0
     },
     {
       "title": "U.C.L.A. Asks Judge to Dismiss Trump Lawsuit Over Antisemitism",
       "link": "https://www.nytimes.com/2026/10/27/us/ucla-trump-lawsuit-antisemitism-employees.html",
-      "published": "Tue, 27 Oct 2026 13:15:35 +0000",
+      "published": "Tue, 27 Oct 2026 18:51:41 +0000",
       "sentiment": -0.08333333333333333
     },
     {
@@ -105,7 +129,7 @@
     {
       "title": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
       "link": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
-      "published": "Tue, 27 Oct 2026 00:24:09 +0000",
+      "published": "Tue, 27 Oct 2026 18:36:05 +0000",
       "sentiment": -0.10909090909090909
     },
     {
@@ -141,7 +165,7 @@
     {
       "title": "Manhunt Begins After Convicted Murderer Escapes From Tennessee Prison",
       "link": "https://www.nytimes.com/2026/10/26/us/tennessee-inmate-missing-manhunt.html",
-      "published": "Mon, 26 Oct 2026 21:34:38 +0000",
+      "published": "Tue, 27 Oct 2026 18:01:24 +0000",
       "sentiment": -0.25
     },
     {
@@ -161,12 +185,6 @@
       "link": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
       "published": "Mon, 26 Oct 2026 20:06:53 +0000",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "How Scuffles at Trump Rallies Echo His Past Events",
-      "link": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
-      "published": "Mon, 26 Oct 2026 20:39:20 +0000",
-      "sentiment": -0.23051948051948054
     }
   ]
 }

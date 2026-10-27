@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Prop. 3 is being touted by unions as a school funding bill. That's partly true",
+      "link": "https://www.latimes.com/california/story/2026-10-27/california-prop-3-school-funding-tax-explained",
+      "published": "Tue, 27 Oct 2026 17:48:45 GMT",
+      "sentiment": 0.09625
+    },
+    {
       "title": "Immigrant detainee dies at Otay Mesa Detention Center in San Diego",
       "link": "https://www.latimes.com/california/story/2026-10-27/immigrant-detainee-dies-at-san-diego-ice-detention-center",
       "published": "Tue, 27 Oct 2026 17:13:54 GMT",
@@ -19,10 +25,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Measure A could radically alter L.A. County labor talks. There's been little debate",
-      "link": "https://www.latimes.com/california/story/2026-10-27/measure-could-alter-la-county-labor-talks-theres-little-debate",
+      "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
+      "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.10416666666666667
+      "sentiment": -0.00444444444444444
     },
     {
       "title": "Deaf workers lose thousands in power tools to thieves, have group hug, vow to 'keep going'",
@@ -31,22 +37,22 @@
       "sentiment": 0.0625
     },
     {
-      "title": "Body of missing climber found, buried in snow, on Mt. Whitney",
-      "link": "https://www.latimes.com/california/story/2026-10-27/body-of-missing-climber-found-buried-in-snow-on-mt-whitney",
+      "title": "Measure A could radically alter L.A. County labor talks. There's been little debate",
+      "link": "https://www.latimes.com/california/story/2026-10-27/measure-could-alter-la-county-labor-talks-theres-little-debate",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
-      "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.00444444444444444
+      "sentiment": 0.10416666666666667
     },
     {
       "title": "El Niño's record-hot ocean waters driving coastal flooding in Southern California",
       "link": "https://www.latimes.com/california/story/2026-10-27/la-me-heat-california-coast-water",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
       "sentiment": 0.15
+    },
+    {
+      "title": "Body of missing climber found, buried in snow, on Mt. Whitney",
+      "link": "https://www.latimes.com/california/story/2026-10-27/body-of-missing-climber-found-buried-in-snow-on-mt-whitney",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "DSA's national leaders postpone decision on rescinding Raman's endorsement for mayor",
@@ -97,28 +103,28 @@
       "sentiment": 0.35714285714285715
     },
     {
-      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
-      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "SoCal coast hit by widespread flooding as record-breaking tides move in",
       "link": "https://www.latimes.com/california/story/2026-10-26/socal-coast-faces-flood-risk-from-days-of-extreme-sea-levels",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": 0.02
     },
     {
-      "title": "Chabria: California votes. Trump's Justice Department panics",
-      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
+      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
+      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3
+      "sentiment": -0.2
     },
     {
       "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
       "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": -0.00833333333333334
+    },
+    {
+      "title": "Chabria: California votes. Trump's Justice Department panics",
+      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Man is found dead near entrance to Disneyland, police say",
@@ -157,16 +163,16 @@
       "sentiment": 0.275
     },
     {
-      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24722222222222223
-    },
-    {
       "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
       "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.23200000000000004
+    },
+    {
+      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.24722222222222223
     },
     {
       "title": "Job training, housing, students' basic needs: L.A. community college candidates promise fixes",
@@ -217,16 +223,16 @@
       "sentiment": 0.2523809523809524
     },
     {
-      "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
-      "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "Trump wants to strip California of coastal protections unless state yields to list of demands",
       "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
+      "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
@@ -313,18 +319,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.075
-    },
-    {
-      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
-      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
       "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -337,10 +331,22 @@
       "sentiment": 0.08974747474747477
     },
     {
+      "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
+      "link": "https://www.latimes.com/california/story/2026-10-23/marissa-roy-los-angeles-city-attorneys-candidate",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
+    },
+    {
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.075
     },
     {
       "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
@@ -451,12 +457,6 @@
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
-    },
-    {
       "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
       "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
@@ -473,6 +473,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 1.0
     },
     {
       "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
