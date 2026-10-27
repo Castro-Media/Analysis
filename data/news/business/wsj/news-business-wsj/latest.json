@@ -97,6 +97,18 @@
       "sentiment": -0.07222222222222223
     },
     {
+      "title": "HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback",
+      "link": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 27 Oct 2026 04:46:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "China’s Industrial Profit Growth Surged in September",
+      "link": "https://www.wsj.com/economy/chinas-industrial-profit-growth-surged-in-september-fc3b5d58?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 27 Oct 2026 03:16:00 GMT",
+      "sentiment": 0.3444444444444444
+    },
+    {
       "title": "Nucor Reports Higher Profit, Revenue on Steel Mills Strength",
       "link": "https://www.wsj.com/business/earnings/nucor-reports-higher-profit-revenue-on-steel-mills-strength-b9617a6b?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 21:18:00 GMT",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/verizon-lifts-outlook-inks-amazon-deal-worth-more-than-2-billion-989c8e0f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 14:15:00 GMT",
       "sentiment": 0.3590909090909091
-    },
-    {
-      "title": "Galp Energia Shares Fall After Moeve Merger-Talks Collapse, Overshadowing Positive Earnings",
-      "link": "https://www.wsj.com/business/energy-oil/galp-raises-full-year-view-after-oil-price-assumption-increase-ee79aceb?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 09:06:00 GMT",
-      "sentiment": 0.14292929292929293
-    },
-    {
-      "title": "Saudi Arabia’s Sabic Profit Rises Despite Lower Sales Volume",
-      "link": "https://www.wsj.com/business/earnings/saudi-arabias-sabic-profit-rises-despite-lower-sales-volume-1dc7b067?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 08:21:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Five Things to Know About Audi’s First U.S. Factory",
@@ -217,10 +217,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
-      "link": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 03:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Galp Energia Shares Fall After Moeve Merger-Talks Collapse, Overshadowing Positive Earnings",
+      "link": "https://www.wsj.com/business/energy-oil/galp-raises-full-year-view-after-oil-price-assumption-increase-ee79aceb?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 09:06:00 GMT",
+      "sentiment": 0.14292929292929293
     },
     {
       "title": "The Saudi Airline That Launched Right in the Middle of a War",
@@ -349,6 +349,12 @@
       "sentiment": 0.18333333333333335
     },
     {
+      "title": "Saudi Arabia’s Sabic Profit Rises Despite Lower Sales Volume",
+      "link": "https://www.wsj.com/business/earnings/saudi-arabias-sabic-profit-rises-despite-lower-sales-volume-1dc7b067?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 08:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "‘The UPS Man’ Review: All in the Delivery",
       "link": "https://www.wsj.com/business/logistics/the-ups-man-review-the-secrets-of-moving-goods-162c43fb?mod=pls_whats_news_us_business_f",
       "published": "Fri, 23 Oct 2026 16:34:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/business/logistics/us-nuclear-reactors-cargo-ships-ports-50ac9dd1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 22 Oct 2026 18:35:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
-      "link": "https://www.wsj.com/business/earnings/union-pacific-posts-higher-profit-revenue-on-volume-growth-c6666acd?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 22 Oct 2026 13:47:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "A Veteran of the Telecom Bust Navigates the AI Boom",
@@ -469,28 +469,28 @@
       "sentiment": 0.125
     },
     {
-      "title": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth",
-      "link": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 13:49:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
       "link": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 19:52:00 GMT",
       "sentiment": 0.4
     },
     {
-      "title": "U.S. Manufacturing Is Adding Jobs Again, but the Hiring Rules Have Changed",
-      "link": "https://www.wsj.com/business/u-s-manufacturing-is-adding-jobs-again-but-the-hiring-rules-have-changed-29171127?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.5
+      "title": "Meta Plans up to $95 Billion in Financing to Power Its AI Growth",
+      "link": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 13:49:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Weil Gotshal Leaders Spent Frantic Weekend Trying to Stabilize Law Firm",
       "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 23:27:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "U.S. Manufacturing Is Adding Jobs Again, but the Hiring Rules Have Changed",
+      "link": "https://www.wsj.com/business/u-s-manufacturing-is-adding-jobs-again-but-the-hiring-rules-have-changed-29171127?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Best Small-Business Loans in October 2026",
