@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 14:29:39 GMT",
-      "sentiment": 0.0625
+      "title": "Controversial Islamic cleric shot dead in northern Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 18:35:02 GMT",
+      "sentiment": 0.17500000000000002
+    },
+    {
+      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 18:43:41 GMT",
+      "sentiment": -0.09523809523809523
+    },
+    {
+      "title": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "link": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 19:01:16 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "West warns of famine risk in Sudan as civil war grinds on",
@@ -13,28 +25,22 @@
       "sentiment": 0.6
     },
     {
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 14:29:39 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
       "link": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 12:25:14 GMT",
       "sentiment": -0.024999999999999994
     },
     {
-      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 16:31:09 GMT",
-      "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 14:27:32 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 17:00:09 GMT",
-      "sentiment": 0.03125
+      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 16:11:35 GMT",
+      "sentiment": 0.13333333333333333
     },
     {
       "title": "All you need to know about the Dakar 2026 Youth Olympics",
@@ -57,8 +63,8 @@
     {
       "title": "Is Ebola under control in Kenya after nine cases confirmed?",
       "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 09:55:15 GMT",
-      "sentiment": 0.15000000000000002
+      "published": "Tue, 27 Oct 2026 19:19:10 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
@@ -97,6 +103,24 @@
       "sentiment": 0.06666666666666667
     },
     {
+      "title": "Namibia take lead in ODI series against Ireland",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy81zrd4po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 15:58:01 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Ulster's Augustus enjoying South Africa homecoming",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3lylzg00zg1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 08:06:24 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 16:58:27 GMT",
+      "sentiment": 0.39999999999999997
+    },
+    {
       "title": "World champion Jepchirchir fails drugs test",
       "link": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 12:01:20 GMT",
@@ -131,18 +155,6 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cqrkyzgre7neo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 12:51:44 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Coe aims for African 'legacy' with 2029 World Championships",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cmqxnew8427wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 08:16:44 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "SA chief pledges review over 'disappointing' Test crowds",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cky930y71xj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 11:48:07 GMT",
-      "sentiment": -0.0875
     },
     {
       "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
