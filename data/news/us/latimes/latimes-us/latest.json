@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Immigrant detainee dies at Otay Mesa Detention Center in San Diego",
+      "link": "https://www.latimes.com/california/story/2026-10-27/immigrant-detainee-dies-at-san-diego-ice-detention-center",
+      "published": "Tue, 27 Oct 2026 17:13:54 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "FBI raids billionaire's Beverly Hills mansion in connection with Eric Swalwell probe, sources say",
       "link": "https://www.latimes.com/california/story/2026-10-27/beverly-hills-mansion-swalwell-raid",
       "published": "Tue, 27 Oct 2026 14:43:09 GMT",
@@ -25,22 +31,22 @@
       "sentiment": 0.0625
     },
     {
-      "title": "El Niño's record-hot ocean waters driving coastal flooding in Southern California",
-      "link": "https://www.latimes.com/california/story/2026-10-27/la-me-heat-california-coast-water",
+      "title": "Body of missing climber found, buried in snow, on Mt. Whitney",
+      "link": "https://www.latimes.com/california/story/2026-10-27/body-of-missing-climber-found-buried-in-snow-on-mt-whitney",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
       "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.02361111111111111
+      "sentiment": -0.00444444444444444
     },
     {
-      "title": "Body of missing climber found, buried in snow, on Mt. Whitney",
-      "link": "https://www.latimes.com/california/story/2026-10-27/body-of-missing-climber-found-buried-in-snow-on-mt-whitney",
+      "title": "El Niño's record-hot ocean waters driving coastal flooding in Southern California",
+      "link": "https://www.latimes.com/california/story/2026-10-27/la-me-heat-california-coast-water",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.06666666666666667
+      "sentiment": 0.15
     },
     {
       "title": "DSA's national leaders postpone decision on rescinding Raman's endorsement for mayor",
@@ -211,12 +217,6 @@
       "sentiment": 0.2523809523809524
     },
     {
-      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
-      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.099375
-    },
-    {
       "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
       "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
@@ -233,6 +233,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": -0.05277777777777778
+    },
+    {
+      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
+      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.099375
     },
     {
       "title": "'This is not normal': Feds demand California counties set aside 'likely' noncitizen ballots",
@@ -533,12 +539,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-21/new-storm-moves-into-southern-california-what-to-expect",
       "published": "Wed, 21 Oct 2026 14:43:31 GMT",
       "sentiment": 0.009090909090909087
-    },
-    {
-      "title": "Examining Becerra's quarter of a century in Washington",
-      "link": "https://www.latimes.com/politics/story/2026-10-21/becerras-time-in-washington-steady-rise-with-bumpy-final-ascent",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.45
     }
   ]
 }
