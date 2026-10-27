@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Alexander Brothers, Former Real-Estate Stars, Sentenced to 30 Years in Prison",
+      "link": "https://www.wsj.com/us-news/law/alexander-brothers-former-real-estate-stars-sentenced-to-30-years-in-prison-0382981e?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 21:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "‘Cornell 7’ Case Puts Spotlight on Ketamine at College Campuses",
       "link": "https://www.wsj.com/us-news/education/cornell-7-case-puts-spotlight-on-ketamine-at-college-campuses-ae7163fe?mod=rss_usnews",
       "published": "Tue, 27 Oct 2026 19:07:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/law/judge-finds-maurene-comey-was-fired-unlawfully-from-prosecutors-office-f951b457?mod=rss_usnews",
       "published": "Mon, 26 Oct 2026 16:46:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Four Places Where the Midterms Will Decide the Fate of Data Centers",
-      "link": "https://www.wsj.com/politics/elections/the-four-places-where-the-midterms-will-decide-the-fate-of-data-centers-deb9f534?mod=rss_usnews",
-      "published": "Mon, 26 Oct 2026 14:13:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Inside the School Board Brawl Rocking Beverly Hills",
@@ -127,40 +127,46 @@
       "sentiment": -0.125
     },
     {
+      "title": "Opinion | Why Maine Is a 2026 Senate Bellwether",
+      "link": "https://www.wsj.com/opinion/maine-senate-race-susan-collins-troy-jackson-f60c94ab?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 21:43:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Opinion | A Cuba Showdown at the U.N.",
+      "link": "https://www.wsj.com/opinion/mike-waltz-united-nations-cuba-corruption-64ce436e?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 21:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Big Tax-and-Spend Stakes in Colorado",
+      "link": "https://www.wsj.com/opinion/colorado-ballot-measures-tabor-taxes-spending-0377aed5?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 21:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | The Statue of Liberty May Be France’s Only Good Idea",
+      "link": "https://www.wsj.com/opinion/the-statue-of-liberty-may-be-frances-only-good-idea-caafee64?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 20:44:00 GMT",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Opinion | Hispanics Ditch Trump for the Same Reason as Everyone Else",
+      "link": "https://www.wsj.com/opinion/hispanics-ditch-trump-for-the-same-reason-as-everyone-else-c8adf043?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 20:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | When Is a Sports Bet Not a Sports Bet?",
       "link": "https://www.wsj.com/opinion/when-is-a-sports-bet-not-a-sports-bet-d1eebe97?mod=rss_usnews",
       "published": "Tue, 27 Oct 2026 16:24:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Elon Musk, Starlink and Vladimir Putin",
-      "link": "https://www.wsj.com/opinion/elon-musk-starlink-starshield-vladimir-putin-russia-ukraine-4c788b54?mod=rss_usnews",
-      "published": "Mon, 26 Oct 2026 21:41:00 GMT",
-      "sentiment": -0.75
-    },
-    {
-      "title": "Opinion | Anthropic’s Big IPO Gamble",
-      "link": "https://www.wsj.com/opinion/anthropic-ipo-investors-regulation-dario-amodei-c7339185?mod=rss_usnews",
-      "published": "Mon, 26 Oct 2026 21:41:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Opinion | Obama Goes Socialist, Scorns Cheesecake",
-      "link": "https://www.wsj.com/opinion/barack-obama-angie-nixon-cheesecake-factory-bf1303ce?mod=rss_usnews",
-      "published": "Mon, 26 Oct 2026 21:37:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Slow and Steady Can Defeat Iran",
-      "link": "https://www.wsj.com/opinion/slow-and-steady-can-defeat-iran-d11aed83?mod=rss_usnews",
-      "published": "Mon, 26 Oct 2026 21:20:00 GMT",
-      "sentiment": -0.0666666666666667
-    },
-    {
-      "title": "Opinion | Regulate Polls, Not Prediction Markets",
-      "link": "https://www.wsj.com/opinion/regulate-polls-not-prediction-markets-bc545bef?mod=rss_usnews",
-      "published": "Mon, 26 Oct 2026 18:47:00 GMT",
-      "sentiment": -0.5
+      "title": "The Four Places Where the Midterms Will Decide the Fate of Data Centers",
+      "link": "https://www.wsj.com/politics/elections/the-four-places-where-the-midterms-will-decide-the-fate-of-data-centers-deb9f534?mod=rss_usnews",
+      "published": "Mon, 26 Oct 2026 14:13:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Mamdani Struggles to Get a Handle on Homeless Encampments",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/us-news/nyc-to-vote-on-horse-carriage-ban-0d887e76?mod=rss_usnews",
       "published": "Thu, 22 Oct 2026 21:23:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Inside the $126 Billion Debacle to Build California’s Bullet Train",
-      "link": "https://www.wsj.com/us-news/inside-the-126-billion-debacle-to-build-californias-bullet-train-1bba3307?mod=rss_usnews",
-      "published": "Thu, 22 Oct 2026 15:31:00 GMT",
-      "sentiment": -0.3
     },
     {
       "title": "A Student Article About the ‘Cornell 7’ Case Is Prompting a Campus Outcry at Columbia",

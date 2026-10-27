@@ -1,7 +1,13 @@
 {
   "entries": [
     {
-      "title": "How Accurate Are the Midterm Polls? The Bias Varies by State.",
+      "title": "Spy Chief Tries to Restore Order After Upheaval at Intelligence Office",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/jay-clayton-odni.html",
+      "published": "Tue, 27 Oct 2026 20:23:00 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "How Accurate Are Midterm Polls? Errors Vary From State to State.",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/midterm-polls-errors-states.html",
       "published": "Tue, 27 Oct 2026 19:00:07 +0000",
       "sentiment": 0.1166666666666667
@@ -9,19 +15,19 @@
     {
       "title": "As Election Nears, Reports of an Increase in ICE Arrests Across California",
       "link": "https://www.nytimes.com/2026/10/27/us/ice-arrests-california-immigration.html",
-      "published": "Tue, 27 Oct 2026 18:16:49 +0000",
+      "published": "Tue, 27 Oct 2026 20:41:44 +0000",
       "sentiment": -0.05
     },
     {
       "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
-      "published": "Tue, 27 Oct 2026 18:28:43 +0000",
+      "published": "Tue, 27 Oct 2026 20:03:05 +0000",
       "sentiment": 0.05
     },
     {
       "title": "The Christian Influencer at the Center of Ken Paxton’s New Life",
       "link": "https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html",
-      "published": "Tue, 27 Oct 2026 18:56:21 +0000",
+      "published": "Tue, 27 Oct 2026 20:13:12 +0000",
       "sentiment": 0.031818181818181815
     },
     {
@@ -45,13 +51,13 @@
     {
       "title": "Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html",
-      "published": "Tue, 27 Oct 2026 16:15:07 +0000",
+      "published": "Tue, 27 Oct 2026 21:02:20 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Alaska Asks Court to Halt Trump’s Effort to Block Votes in Senate Race",
       "link": "https://www.nytimes.com/2026/10/27/us/alaska-election-doj-trump-lawsuit-sullivan.html",
-      "published": "Tue, 27 Oct 2026 16:46:40 +0000",
+      "published": "Tue, 27 Oct 2026 20:36:31 +0000",
       "sentiment": -0.3
     },
     {
@@ -155,36 +161,6 @@
       "link": "https://www.nytimes.com/2026/10/26/us/teacher-alaska-senate-trump-lawsuit.html",
       "published": "Tue, 27 Oct 2026 00:20:03 +0000",
       "sentiment": 0.075
-    },
-    {
-      "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
-      "published": "Tue, 27 Oct 2026 01:36:02 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Manhunt Begins After Convicted Murderer Escapes From Tennessee Prison",
-      "link": "https://www.nytimes.com/2026/10/26/us/tennessee-inmate-missing-manhunt.html",
-      "published": "Tue, 27 Oct 2026 18:01:24 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "What Early Voting Can Reveal About the 2026 Midterm Elections So Far",
-      "link": "https://www.nytimes.com/2026/10/26/us/midterm-elections-early-voting-takeaways.html",
-      "published": "Mon, 26 Oct 2026 21:19:02 +0000",
-      "sentiment": 0.10555555555555557
-    },
-    {
-      "title": "Teen Arrested in Florida Shooting Will Be Tried as Adult, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/26/us/famu-shooting-florida-arrest.html",
-      "published": "Mon, 26 Oct 2026 23:00:27 +0000",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Last Ditch, a Lesbian Bar Whose Mask Policy Made It Famous, Will Close",
-      "link": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
-      "published": "Mon, 26 Oct 2026 20:06:53 +0000",
-      "sentiment": 0.3333333333333333
     }
   ]
 }
