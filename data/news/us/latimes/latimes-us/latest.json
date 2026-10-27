@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Woman who claimed she was carrying 'Bachelor' star's baby sentenced in pregnancy fraud scheme",
+      "link": "https://www.latimes.com/california/story/2026-10-26/woman-who-faked-pregnancy-by-bachelor-star-sentenced-in-fraud-scheme",
+      "published": "Mon, 26 Oct 2026 23:55:28 GMT",
+      "sentiment": -0.20000000000000004
+    },
+    {
+      "title": "One pair of rare Brooks-Disney athletic shoes led detectives to $1M in stolen gear, police say",
+      "link": "https://www.latimes.com/california/story/2026-10-26/one-pair-of-brooks-disney-athletic-shoes-led-detectives-to-1-million-in-stolen-gear-police-say",
+      "published": "Mon, 26 Oct 2026 23:34:06 GMT",
+      "sentiment": 0.11875
+    },
+    {
+      "title": "9th Circuit denies feds' appeal over 20,000 ballots; district court hearing to proceed",
+      "link": "https://www.latimes.com/politics/story/2026-10-26/9th-circuit-denies-feds-appeal-over-20-000-ballots-district-court-hearing-to-proceed",
+      "published": "Mon, 26 Oct 2026 23:18:42 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Former Bass opponent Rick Caruso now says he will vote for her reelection as mayor",
+      "link": "https://www.latimes.com/california/story/2026-10-26/former-bass-opponent-rick-caruso-now-says-he-will-vote-for-her-reelection-as-mayor",
+      "published": "Mon, 26 Oct 2026 22:56:09 GMT",
+      "sentiment": -0.038888888888888896
+    },
+    {
       "title": "Ethics complaint filed over ads falsely portraying Raman promoting homeless camps",
       "link": "https://www.latimes.com/california/story/2026-10-26/ethics-complaint-filed-over-ads-falsely-portraying-raman-promoting-homeless-camps",
       "published": "Mon, 26 Oct 2026 21:49:13 GMT",
@@ -79,16 +103,16 @@
       "sentiment": 0.275
     },
     {
-      "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
-      "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.23200000000000004
-    },
-    {
       "title": "Chabria: What decent people get wrong about the Amy Acton ad",
       "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": -0.24722222222222223
+    },
+    {
+      "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
+      "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.23200000000000004
     },
     {
       "title": "Job training, housing, students' basic needs: L.A. community college candidates promise fixes",
@@ -139,6 +163,12 @@
       "sentiment": 0.2523809523809524
     },
     {
+      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
+      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.099375
+    },
+    {
       "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
       "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
@@ -149,12 +179,6 @@
       "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
-      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.099375
     },
     {
       "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
@@ -235,10 +259,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.75
+      "sentiment": -0.075
     },
     {
       "title": "Inside Marissa Roy's Bollywood-bumping, group-project bid to become L.A.'s city attorney",
@@ -259,10 +283,10 @@
       "sentiment": 0.08974747474747477
     },
     {
-      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
+      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.075
+      "sentiment": 0.75
     },
     {
       "title": "The man facing murder charge in death of man near Costco gas pumps is a rabbi, records show",
@@ -373,6 +397,18 @@
       "sentiment": -0.10000000000000002
     },
     {
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 1.0
+    },
+    {
+      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
+      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.7333333333333333
+    },
+    {
       "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
       "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
@@ -383,18 +419,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-22/heres-what-rain-means-for-southern-californias-fire-season",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
-    },
-    {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
     },
     {
       "title": "A political bogeyman has emerged in L.A.'s election: Ousted D.A. George Gascón",
@@ -521,30 +545,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-20/rain-is-in-southern-california-forecast-with-flooding-concern",
       "published": "Tue, 20 Oct 2026 23:18:19 GMT",
       "sentiment": -0.21666666666666667
-    },
-    {
-      "title": "Huge crack along PCH near Laguna Beach will take at least $4 million to fix, officials say",
-      "link": "https://www.latimes.com/california/story/2026-10-20/huge-crack-along-pch-near-laguna-beach-will-take-at-least-4-million-to-fix-officials-say",
-      "published": "Tue, 20 Oct 2026 22:25:16 GMT",
-      "sentiment": 0.10285714285714284
-    },
-    {
-      "title": "Mistakenly getting a duplicate mail ballot is not unheard of. But in this tense election season, the outcry is outsized",
-      "link": "https://www.latimes.com/california/story/2026-10-20/thousands-of-california-voters-got-duplicate-vote-by-mail-ballots",
-      "published": "Tue, 20 Oct 2026 22:09:59 GMT",
-      "sentiment": -0.05833333333333333
-    },
-    {
-      "title": "Rick Caruso has 'extreme concern' over Raman, but declines to endorse in mayor's race",
-      "link": "https://www.latimes.com/california/story/2026-10-20/rick-caruso-has-extreme-concern-over-raman-but-declines-to-endorse-in-mayors-race",
-      "published": "Tue, 20 Oct 2026 22:02:33 GMT",
-      "sentiment": -0.1375
-    },
-    {
-      "title": "Feds hold back an additional $1.2 billion in California Medicaid reimbursements",
-      "link": "https://www.latimes.com/politics/story/2026-10-20/feds-hold-back-additional-1-2-billion-in-california-medicaid-reimbursements",
-      "published": "Tue, 20 Oct 2026 20:33:02 GMT",
-      "sentiment": 0.0
     }
   ]
 }
