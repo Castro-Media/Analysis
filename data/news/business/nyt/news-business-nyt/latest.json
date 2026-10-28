@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "U.S. Restricts Trade With Chinese Genomics Company",
+      "link": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
+      "published": "Wed, 28 Oct 2026 13:44:24 +0000",
+      "sentiment": -0.08750000000000001
+    },
+    {
+      "title": "Life Magazine, Chronicler of 20th Century America, Rises Again",
+      "link": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
+      "published": "Wed, 28 Oct 2026 13:09:46 +0000",
+      "sentiment": 0.2
+    },
+    {
       "title": "Investors Brace for Big Tech’s A.I. Spending Bill",
       "link": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
       "published": "Wed, 28 Oct 2026 11:48:00 +0000",
@@ -9,13 +21,13 @@
     {
       "title": "Jio’s Blockbuster I.P.O. Gives India’s Investors a Lift",
       "link": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
-      "published": "Wed, 28 Oct 2026 10:48:53 +0000",
+      "published": "Wed, 28 Oct 2026 13:48:43 +0000",
       "sentiment": 0.06212121212121211
     },
     {
       "title": "Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company",
       "link": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
-      "published": "Wed, 28 Oct 2026 10:00:13 +0000",
+      "published": "Wed, 28 Oct 2026 13:36:29 +0000",
       "sentiment": 0.1
     },
     {
@@ -31,9 +43,9 @@
       "sentiment": 0.022222222222222216
     },
     {
-      "title": "How to Tax and Spend in a ‘Turbulent Time?’ U.K. Tries a Balancing Act.",
+      "title": "How to Tax and Spend in a ‘Turbulent Time’? U.K. Tries a Balancing Act.",
       "link": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-      "published": "Wed, 28 Oct 2026 09:05:37 +0000",
+      "published": "Wed, 28 Oct 2026 13:30:46 +0000",
       "sentiment": -0.016233766233766236
     },
     {
@@ -45,7 +57,7 @@
     {
       "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
       "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
-      "published": "Wed, 28 Oct 2026 09:04:38 +0000",
+      "published": "Wed, 28 Oct 2026 13:40:03 +0000",
       "sentiment": 0.0
     },
     {
@@ -57,7 +69,7 @@
     {
       "title": "Judge Limits Candace Owens’s Liability in Macron Defamation Case",
       "link": "https://www.nytimes.com/2026/10/27/business/media/candace-owens-macron-defamation-case.html",
-      "published": "Wed, 28 Oct 2026 02:19:44 +0000",
+      "published": "Wed, 28 Oct 2026 13:40:05 +0000",
       "sentiment": 0.0
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
       "published": "Fri, 23 Oct 2026 18:46:44 +0000",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "A Fight Over Felon Voting Prompts a Free Speech Debate",
-      "link": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
-      "published": "Sun, 25 Oct 2026 21:38:35 +0000",
-      "sentiment": 0.15000000000000002
-    },
-    {
-      "title": "Republicans Cut Taxes to Win the Midterms. It May Not Work Out.",
-      "link": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
-      "published": "Fri, 23 Oct 2026 14:24:54 +0000",
-      "sentiment": 0.4
     }
   ]
 }
