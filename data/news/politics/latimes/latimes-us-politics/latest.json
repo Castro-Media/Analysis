@@ -85,16 +85,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24722222222222223
-    },
-    {
       "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
       "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.24722222222222223
     },
     {
       "title": "Hope and despair simmer among California Republicans ahead of election day",
@@ -133,12 +133,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
       "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -149,6 +143,12 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
@@ -523,28 +523,28 @@
       "sentiment": -0.0125
     },
     {
-      "title": "When is war not 'war'? In Iran, according to the U.S.",
-      "link": "https://www.latimes.com/politics/story/2026-10-05/why-trump-administration-is-reluctant-to-call-ongoing-conflict-with-iran-war",
-      "published": "Mon, 5 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Meet the Fox News correspondent leading the fight for press freedom at the White House",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-05/meet-fox-news-correspondent-leading-fight-for-press-freedom-at-white-house",
       "published": "Mon, 5 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
-      "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
-      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.125
+      "title": "When is war not 'war'? In Iran, according to the U.S.",
+      "link": "https://www.latimes.com/politics/story/2026-10-05/why-trump-administration-is-reluctant-to-call-ongoing-conflict-with-iran-war",
+      "published": "Mon, 5 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Supreme Court to weigh whether oil companies can be forced to pay for climate damage",
       "link": "https://www.latimes.com/politics/story/2026-10-04/supreme-court-oil-companies-forced-to-pay-for-climate-change",
       "published": "Sun, 4 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1416666666666667
+    },
+    {
+      "title": "Barabak: What's going to happen in the midterm election? Find out here. (Maybe)",
+      "link": "https://www.latimes.com/politics/story/2026-10-04/midterm-control-of-congress-house-senate-election-handicappers-charlie-cook-nathan-gonzales",
+      "published": "Sun, 4 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Provocative, sexually suggestive ad by Hilton campaign condemned by political allies on the right",
