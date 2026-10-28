@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Oct. 27, 2026: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 09:21:34 GMT",
+      "title": "Stock Market Today: Tech Stocks Buoyant Ahead of Fed Rate Decision",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 08:17:33 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
+      "link": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Home Buyers Who Enjoyed Cheap Adjustable Mortgages Are Now Getting a Nasty Shock",
+      "link": "https://www.wsj.com/real-estate/home-buyers-who-enjoyed-cheap-adjustable-mortgages-are-now-getting-a-nasty-shock-6c5cf3fe?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "sentiment": -0.045
+    },
+    {
+      "title": "JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion",
+      "link": "https://www.wsj.com/finance/banking/jpmorgans-skyscraper-on-park-avenue-estimated-to-cost-around-6-billion-76881bb3?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks",
+      "link": "https://www.wsj.com/finance/regulation/elizabeth-warren-demands-answers-from-anthropic-on-existential-risks-5362f009?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:00:00 GMT",
+      "sentiment": -0.06999999999999999
     },
     {
       "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
@@ -17,30 +41,6 @@
       "link": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 21:21:00 GMT",
       "sentiment": 0.0625
-    },
-    {
-      "title": "Tech Stocks Power Higher, Oil Cools",
-      "link": "https://www.wsj.com/finance/stocks/tech-stocks-power-higher-oil-cools-724e6a63?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 20:23:00 GMT",
-      "sentiment": 0.19318181818181818
-    },
-    {
-      "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
-      "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 18:09:00 GMT",
-      "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
-      "link": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 17:50:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Don’t Let Politics Poison Your Portfolio",
-      "link": "https://www.wsj.com/finance/investing/dont-let-politics-poison-your-portfolio-f346b227?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 14:55:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
@@ -91,16 +91,22 @@
       "sentiment": 0.2
     },
     {
+      "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+      "link": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 17:50:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "HSBC Profit Growth Misses, Plans $1 Billion Buyback",
       "link": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 06:21:00 GMT",
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
-      "link": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.1875
+      "title": "Tech Rally Continues, Treasurys Weaken Ahead of Fed Decision",
+      "link": "https://www.wsj.com/finance/investing/tech-rally-continues-treasurys-weaken-ahead-of-fed-decision-bbc5771d?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:24:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Treasury Yields Rise Ahead of Federal Reserve Interest-Rate Decision",
@@ -127,22 +133,22 @@
       "sentiment": 0.10000000000000002
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c4aa51dc?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 20:56:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nikkei Rises 1.3%, Led by Chip Stocks",
+      "title": "European Stocks Mixed as Earnings Drive Index Moves",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-stocks-0909d4ab?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 00:22:00 GMT",
-      "sentiment": -0.05
+      "published": "Wed, 28 Oct 2026 08:25:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Stocks Add to Gains Ahead of Earnings, Fed Statement",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-add-to-gains-ahead-of-earnings-fed-statement-d996e176?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 20:45:00 GMT",
       "sentiment": 0.26666666666666666
+    },
+    {
+      "title": "Tech Stocks Power Higher, Oil Cools",
+      "link": "https://www.wsj.com/finance/stocks/tech-stocks-power-higher-oil-cools-724e6a63?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 20:23:00 GMT",
+      "sentiment": 0.19318181818181818
     },
     {
       "title": "Tech Stocks Add to Gains After Yesterday’s Anthropic Rally",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/general-motors-moving-stock-listing-to-nasdaq-from-nyse-fbc36f02?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 14:54:00 GMT",
       "sentiment": 0.1694805194805195
-    },
-    {
-      "title": "These Funds Thrive on Investors’ Impatience",
-      "link": "https://www.wsj.com/finance/investing/these-funds-thrive-on-investors-impatience-48a6d3a4?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 10:37:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | When Is a Sports Bet Not a Sports Bet?",
@@ -199,6 +199,12 @@
       "sentiment": 0.20520833333333335
     },
     {
+      "title": "Gold Edges Lower Ahead of Fed Decision",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-clings-to-gains-above-4-000-as-markets-await-fed-90e73d3c?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump Moves to Weaken Methane Emissions Rules for Oil and Gas",
       "link": "https://www.wsj.com/politics/policy/trump-moves-to-weaken-methane-emissions-rules-for-oil-and-gas-71736afd?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 00:43:00 GMT",
@@ -208,12 +214,6 @@
       "title": "Oil Rises as Traders Focus on Potential Supply Risks",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 00:39:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Gold Clings to Gains Above $4,000 as Markets Await Fed",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-clings-to-gains-above-4-000-as-markets-await-fed-90e73d3c?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 00:25:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -229,10 +229,10 @@
       "sentiment": -0.04999999999999999
     },
     {
-      "title": "Singapore Dollar Steady as Investors Await Fed’s Decision",
+      "title": "Dollar Likely to Remain Firm Unless Fed’s Warsh Dampens Rate-Rise Bets",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fed-decision-28baaa62?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 03:47:00 GMT",
-      "sentiment": 0.16666666666666666
+      "published": "Wed, 28 Oct 2026 09:22:00 GMT",
+      "sentiment": 0.12499999999999999
     },
     {
       "title": "WSJ Dollar Index Rises 0.19% to 97.30",
@@ -289,33 +289,33 @@
       "sentiment": 0.1
     },
     {
+      "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 18:09:00 GMT",
+      "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "Don’t Let Politics Poison Your Portfolio",
+      "link": "https://www.wsj.com/finance/investing/dont-let-politics-poison-your-portfolio-f346b227?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 14:55:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "A $300 Billion ‘Debt Wall’ Is Looming Over Private-Equity Backed Companies",
       "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 12:17:00 GMT",
       "sentiment": -0.041666666666666664
     },
     {
+      "title": "These Funds Thrive on Investors’ Impatience",
+      "link": "https://www.wsj.com/finance/investing/these-funds-thrive-on-investors-impatience-48a6d3a4?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 10:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
       "link": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 10:26:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Inside the 11th-Hour Scramble to Save Anthropic’s Debt Deal",
-      "link": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 10:05:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "DoorDash Circles Deal to Buy Instacart",
-      "link": "https://www.wsj.com/business/doordash-circles-deal-to-buy-instacart-41ac407d?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 21:28:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tech Rallies, Brazil Crashes",
-      "link": "https://www.wsj.com/finance/stocks/tech-rallies-brazil-crashes-400a468f?mod=rss_markets_main",
-      "published": "Mon, 26 Oct 2026 20:29:00 GMT",
       "sentiment": 0.0
     },
     {
