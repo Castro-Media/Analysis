@@ -1,22 +1,22 @@
 {
   "entries": [
     {
+      "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+      "published": "Wed, 28 Oct 2026 18:31:36 +0000",
+      "sentiment": -0.12000000000000002
+    },
+    {
       "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "published": "Wed, 28 Oct 2026 15:05:49 +0000",
+      "published": "Wed, 28 Oct 2026 18:17:50 +0000",
       "sentiment": 0.06666666666666667
     },
     {
-      "title": "Live Updates: At Least 68 Killed in Train Crash in Spain, Officials Say",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-      "published": "Wed, 28 Oct 2026 16:50:51 +0000",
-      "sentiment": -0.07727272727272728
-    },
-    {
-      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "published": "Wed, 28 Oct 2026 12:08:53 +0000",
-      "sentiment": 0.0
+      "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
+      "link": "https://www.nytimes.com/2026/10/28/world/africa/nigeria-ebola-patient-questions-uganda.html",
+      "published": "Wed, 28 Oct 2026 18:16:55 +0000",
+      "sentiment": 0.2875
     },
     {
       "title": "Tommy Robinson Found Guilty of Harassing 2 UK Journalists",
@@ -25,9 +25,15 @@
       "sentiment": -0.15
     },
     {
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "published": "Wed, 28 Oct 2026 12:08:53 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
       "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-      "published": "Wed, 28 Oct 2026 15:33:33 +0000",
+      "published": "Wed, 28 Oct 2026 17:56:15 +0000",
       "sentiment": 0.0
     },
     {
@@ -79,10 +85,28 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Hong Kong’s Property Market Is (Literally) the Stuff of Horror Movies",
-      "link": "https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html",
-      "published": "Wed, 28 Oct 2026 03:36:13 +0000",
-      "sentiment": -0.3
+      "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
+      "link": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+      "published": "Wed, 28 Oct 2026 18:34:16 +0000",
+      "sentiment": -0.05176767676767676
+    },
+    {
+      "title": "Israel’s opposition may not be able to form a government, but it still could control Parliament.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
+      "published": "Wed, 28 Oct 2026 18:38:34 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "An Inconclusive Vote Leaves Israelis Pondering an Uncertain Future",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
+      "published": "Wed, 28 Oct 2026 18:22:34 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
+      "published": "Wed, 28 Oct 2026 17:29:29 +0000",
+      "sentiment": -0.4
     },
     {
       "title": "What We Know About the Deadly Train Crash in Spain",
@@ -99,7 +123,7 @@
     {
       "title": "Spain’s Transportation Minister Said Incorrect Instructions Led to Train Crash",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/spains-transportation-minister-described-what-led-to-the-crash.html",
-      "published": "Wed, 28 Oct 2026 16:37:30 +0000",
+      "published": "Wed, 28 Oct 2026 17:36:08 +0000",
       "sentiment": -0.6
     },
     {
@@ -135,7 +159,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "published": "Wed, 28 Oct 2026 16:18:45 +0000",
+      "published": "Wed, 28 Oct 2026 17:27:18 +0000",
       "sentiment": 0.17222222222222222
     },
     {
@@ -147,7 +171,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
-      "published": "Wed, 28 Oct 2026 15:25:23 +0000",
+      "published": "Wed, 28 Oct 2026 17:58:50 +0000",
       "sentiment": 0.5
     },
     {
@@ -311,30 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html",
       "published": "Tue, 27 Oct 2026 17:30:03 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-      "published": "Tue, 27 Oct 2026 18:33:28 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/heres-the-latest",
-      "published": "Wed, 28 Oct 2026 02:40:52 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
-      "published": "Tue, 27 Oct 2026 21:49:04 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
-      "published": "Tue, 27 Oct 2026 04:01:13 +0000",
-      "sentiment": 0.5
     }
   ]
 }
