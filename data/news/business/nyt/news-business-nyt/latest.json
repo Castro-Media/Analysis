@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
+      "link": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
+      "published": "Wed, 28 Oct 2026 20:47:13 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
+      "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
+      "published": "Wed, 28 Oct 2026 20:02:55 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Takeaways from Warsh’s news conference.",
       "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
       "published": "Wed, 28 Oct 2026 19:43:34 +0000",
@@ -43,15 +55,15 @@
       "sentiment": 0.125
     },
     {
-      "title": "Here’s the latest.",
+      "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
       "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
-      "published": "Wed, 28 Oct 2026 18:59:47 +0000",
-      "sentiment": 0.5
+      "published": "Wed, 28 Oct 2026 20:38:46 +0000",
+      "sentiment": 0.05555555555555555
     },
     {
       "title": "Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads",
       "link": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
-      "published": "Wed, 28 Oct 2026 15:45:36 +0000",
+      "published": "Wed, 28 Oct 2026 19:57:38 +0000",
       "sentiment": 0.033939393939393936
     },
     {
@@ -61,15 +73,15 @@
       "sentiment": 0.26666666666666666
     },
     {
-      "title": "Weil Gotshal, a Legal Power Player, Is Fighting to Survive",
+      "title": "Weil Gotshal, Once A Legal Powerhouse, Plans to Dissolve",
       "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-      "published": "Wed, 28 Oct 2026 16:12:12 +0000",
+      "published": "Wed, 28 Oct 2026 20:45:26 +0000",
       "sentiment": -0.006666666666666682
     },
     {
       "title": "From Senate Candidates, Surprising Stances on Fixing Social Security",
       "link": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
-      "published": "Wed, 28 Oct 2026 15:27:23 +0000",
+      "published": "Wed, 28 Oct 2026 20:08:52 +0000",
       "sentiment": 0.2666666666666667
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/25/business/the-long-life-of-the-snacking-occasiong-glp1.html",
       "published": "Sun, 25 Oct 2026 09:01:30 +0000",
       "sentiment": -0.05
-    },
-    {
-      "title": "How to Straddle the MAGA Divide",
-      "link": "https://www.nytimes.com/2026/10/25/business/how-to-straddle-the-maga-divide.html",
-      "published": "Sun, 25 Oct 2026 17:00:21 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Audi to Build Factory in Georgia, Trump Says",
-      "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
-      "published": "Sun, 25 Oct 2026 15:30:20 +0000",
-      "sentiment": -0.2916666666666667
     }
   ]
 }

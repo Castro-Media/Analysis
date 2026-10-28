@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
+      "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
+      "published": "Wed, 28 Oct 2026 20:02:55 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Takeaways from Warsh’s news conference.",
       "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
       "published": "Wed, 28 Oct 2026 19:43:34 +0000",
@@ -25,10 +31,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "Here’s the latest.",
+      "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
       "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
-      "published": "Wed, 28 Oct 2026 18:59:47 +0000",
-      "sentiment": 0.5
+      "published": "Wed, 28 Oct 2026 20:38:46 +0000",
+      "sentiment": 0.05555555555555555
     },
     {
       "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html",
       "published": "Wed, 14 Oct 2026 14:18:28 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
-      "published": "Wed, 14 Oct 2026 20:22:19 +0000",
-      "sentiment": 0.016666666666666663
     }
   ]
 }
