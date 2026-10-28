@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.05606060606060606
+    },
+    {
+      "title": "Early Israeli Exit Polls Show No Clear Winner in Key Election",
+      "link": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 00:57:00 GMT",
+      "sentiment": 0.01666666666666667
+    },
+    {
       "title": "U.S. to Issue Visa for Brazil’s Flávio Bolsonaro as Questions Swirl About His Location",
       "link": "https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 22:22:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Early Israeli Exit Polls Show No Clear Winner",
-      "link": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
-      "published": "Tue, 27 Oct 2026 21:45:00 GMT",
-      "sentiment": -0.011022727272727273
     },
     {
       "title": "Overseas Handler Linked to Iran Behind Foiled RAF Air Base Attack",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/china/xi-wants-to-play-peacemaker-trump-has-other-ideas-for-a-historic-summit-2c3e0be9?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 10:55:00 GMT",
       "sentiment": 0.018750000000000003
-    },
-    {
-      "title": "Ceasefire Brokered by Melania Trump Begins in Starving Ukrainian City",
-      "link": "https://www.wsj.com/world/europe/ceasefire-brokered-by-melania-trump-begins-in-starving-ukrainian-city-2130ae47?mod=rss_worldnews",
-      "published": "Tue, 27 Oct 2026 10:20:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Oil Futures Fall as Market Holds Out Hope for Middle East Diplomacy",
@@ -193,6 +193,12 @@
       "sentiment": -6.938893903907228e-18
     },
     {
+      "title": "Ceasefire Brokered by Melania Trump Begins in Starving Ukrainian City",
+      "link": "https://www.wsj.com/world/europe/ceasefire-brokered-by-melania-trump-begins-in-starving-ukrainian-city-2130ae47?mod=rss_worldnews",
+      "published": "Tue, 27 Oct 2026 10:20:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Italy’s Eni Expects More Gas Drilling Offshore Europe as Supply Concerns Mount",
       "link": "https://www.wsj.com/business/energy-oil/italys-eni-expects-more-gas-drilling-offshore-europe-as-supply-concerns-mount-1fc6d567?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 07:14:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/the-31-year-old-ukrainian-detective-hunting-russian-mass-killers-1a1f76e1?mod=rss_worldnews",
       "published": "Mon, 26 Oct 2026 14:13:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
-      "link": "https://www.wsj.com/pro/central-banking/ecb-expected-to-leave-key-rate-unchanged-amid-french-bond-drama-3d511cb4?mod=rss_worldnews",
-      "published": "Mon, 26 Oct 2026 07:19:00 GMT",
-      "sentiment": -0.028571428571428574
     },
     {
       "title": "Global Soccer Star Kylian Mbappé Just Apologized to China—for a Mao Zedong Meme",
@@ -383,12 +383,6 @@
       "link": "https://www.wsj.com/world/europe/frances-nuclear-forces-bring-in-neighbors-to-keep-russia-in-check-58b0967d?mod=rss_worldnews",
       "published": "Mon, 26 Oct 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Venezuela’s Machado Returns Home, Challenging U.S.-Backed Government",
-      "link": "https://www.wsj.com/world/americas/venezuelas-machado-returns-home-challenging-u-s-backed-government-7e3468e8?mod=rss_worldnews",
-      "published": "Mon, 26 Oct 2026 01:13:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",

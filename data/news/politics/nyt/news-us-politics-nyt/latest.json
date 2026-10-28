@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Judge Questions Trump Administration’s Need to Target Noncitizen Voters",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html",
+      "published": "Wed, 28 Oct 2026 00:53:53 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "U.S. Defends Military Campaign Against Cartels as Leaders Gather in Caribbean",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html",
+      "published": "Tue, 27 Oct 2026 23:53:02 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
+      "published": "Wed, 28 Oct 2026 00:52:22 +0000",
+      "sentiment": -0.08928571428571429
+    },
+    {
       "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
-      "published": "Tue, 27 Oct 2026 22:11:48 +0000",
+      "published": "Wed, 28 Oct 2026 00:45:29 +0000",
       "sentiment": 0.3333333333333333
     },
     {
@@ -15,7 +33,7 @@
     {
       "title": "Spy Chief Tries to Restore Order After Upheaval at Intelligence Office",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/jay-clayton-odni.html",
-      "published": "Tue, 27 Oct 2026 20:23:00 +0000",
+      "published": "Tue, 27 Oct 2026 23:12:16 +0000",
       "sentiment": 0.1
     },
     {
@@ -27,7 +45,7 @@
     {
       "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
-      "published": "Tue, 27 Oct 2026 22:18:49 +0000",
+      "published": "Wed, 28 Oct 2026 00:15:53 +0000",
       "sentiment": 0.05
     },
     {
@@ -39,7 +57,7 @@
     {
       "title": "Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html",
-      "published": "Tue, 27 Oct 2026 21:02:20 +0000",
+      "published": "Wed, 28 Oct 2026 00:56:42 +0000",
       "sentiment": 0.0
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
       "published": "Mon, 26 Oct 2026 20:39:20 +0000",
       "sentiment": -0.23051948051948054
-    },
-    {
-      "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
-      "published": "Tue, 27 Oct 2026 03:48:53 +0000",
-      "sentiment": 0.02500000000000001
-    },
-    {
-      "title": "In Maine, an ‘Oyster Thug’s’ Struggle to Get Over Graham Platner",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/maine-midterms-platner-jackson-collins.html",
-      "published": "Tue, 27 Oct 2026 11:08:42 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
-      "link": "https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html",
-      "published": "Tue, 27 Oct 2026 12:58:19 +0000",
-      "sentiment": 0.0
     }
   ]
 }
