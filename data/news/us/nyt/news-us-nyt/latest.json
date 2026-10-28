@@ -1,9 +1,39 @@
 {
   "entries": [
     {
+      "title": "Judge Questions Trump Administration’s Need to Target Noncitizen Voters",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html",
+      "published": "Wed, 28 Oct 2026 00:53:53 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Tennessee Race Is Rattled by a Republican’s Acknowledgment of a ‘Past Indiscretion’",
+      "link": "https://www.nytimes.com/2026/10/27/us/tennessee-brent-taylor.html",
+      "published": "Wed, 28 Oct 2026 00:22:40 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "U.S. Defends Military Campaign Against Cartels as Leaders Gather in Caribbean",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html",
+      "published": "Tue, 27 Oct 2026 23:53:02 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
+      "published": "Wed, 28 Oct 2026 00:52:22 +0000",
+      "sentiment": -0.08928571428571429
+    },
+    {
+      "title": "Utah Investigators Link Teenager’s 1974 Death to Ted Bundy",
+      "link": "https://www.nytimes.com/2026/10/27/us/ted-bundy-cold-case-utah.html",
+      "published": "Tue, 27 Oct 2026 23:07:43 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
-      "published": "Tue, 27 Oct 2026 22:11:48 +0000",
+      "published": "Wed, 28 Oct 2026 00:45:29 +0000",
       "sentiment": 0.3333333333333333
     },
     {
@@ -15,7 +45,7 @@
     {
       "title": "Spy Chief Tries to Restore Order After Upheaval at Intelligence Office",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/jay-clayton-odni.html",
-      "published": "Tue, 27 Oct 2026 20:23:00 +0000",
+      "published": "Tue, 27 Oct 2026 23:12:16 +0000",
       "sentiment": 0.1
     },
     {
@@ -33,7 +63,7 @@
     {
       "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
-      "published": "Tue, 27 Oct 2026 22:18:49 +0000",
+      "published": "Wed, 28 Oct 2026 00:15:53 +0000",
       "sentiment": 0.05
     },
     {
@@ -63,7 +93,7 @@
     {
       "title": "Supreme Court Allows Texas’ Deal With Justice Dept. on Deportation Proceedings",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/supreme-court-texas-immigration.html",
-      "published": "Tue, 27 Oct 2026 21:02:20 +0000",
+      "published": "Wed, 28 Oct 2026 00:56:42 +0000",
       "sentiment": 0.0
     },
     {
@@ -137,24 +167,6 @@
       "link": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
       "published": "Tue, 27 Oct 2026 04:00:18 +0000",
       "sentiment": -0.24166666666666667
-    },
-    {
-      "title": "El-Sayed Campaign Distances Itself From Group’s Ad Critical of Israel",
-      "link": "https://www.nytimes.com/2026/10/26/us/michigan-senate-el-sayed-stevens-ad.html",
-      "published": "Tue, 27 Oct 2026 00:49:03 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
-      "published": "Tue, 27 Oct 2026 18:36:05 +0000",
-      "sentiment": -0.10909090909090909
-    },
-    {
-      "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
-      "published": "Tue, 27 Oct 2026 00:04:45 +0000",
-      "sentiment": 0.0
     }
   ]
 }
