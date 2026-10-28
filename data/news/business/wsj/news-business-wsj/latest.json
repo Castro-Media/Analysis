@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Weil Gotshal Leaders Confirm Plan to Wind Down Law Firm",
+      "title": "Weil Gotshal Leaders Tell Partners They Plan to Dissolve Law Firm",
       "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 19:48:00 GMT",
-      "sentiment": -0.20925925925925926
+      "published": "Wed, 28 Oct 2026 20:47:00 GMT",
+      "sentiment": -0.22000000000000003
+    },
+    {
+      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+      "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 19:58:00 GMT",
+      "sentiment": -0.10138888888888889
     },
     {
       "title": "Retailers Cracked Down on In-Store Theft. Gift-Card Scammers Just Moved Online.",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/hospitality/they-sold-everything-to-live-on-a-cruise-ship-now-theyre-stuck-in-cambodia-20d98d4f?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 13:48:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-      "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 13:11:00 GMT",
-      "sentiment": -0.10138888888888889
     },
     {
       "title": "GE Vernova to Buy Grid-Equipment Manufacturer for $9 Billion as Energy Demand Grows",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "EBay Sales Rise on Strength in Collectibles, Live Shopping",
+      "link": "https://www.wsj.com/business/retail/ebay-sales-rise-on-strength-in-collectibles-live-shopping-77cd8df4?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:15:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Campari Says Aperitifs, Tequila Are Driving Sales, But U.S. Drinking Trends Remain Weak",
       "link": "https://www.wsj.com/business/earnings/campari-says-aperitifs-tequila-are-driving-sales-but-u-s-drinking-trends-remain-weak-48828379?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 17:45:00 GMT",
@@ -91,40 +97,34 @@
       "sentiment": -0.025000000000000022
     },
     {
-      "title": "Etsy Sales Rise as the Number of Active Buyers Increases",
-      "link": "https://www.wsj.com/business/retail/etsy-sales-rise-as-the-number-of-active-buyers-increases-01c646c9?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 14:16:00 GMT",
-      "sentiment": 0.15555555555555556
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d7dd9405?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:52:00 GMT",
+      "sentiment": 0.5
     },
     {
-      "title": "Airbus Posts Lower Earnings as It Seeks to Ramp Up Plane Deliveries",
-      "link": "https://www.wsj.com/business/earnings/airbus-posts-lower-earnings-as-it-seeks-to-ramp-up-plane-deliveries-9191fa97?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 18:02:00 GMT",
+      "title": "Google Misses Estimates as Growth in Search Revenue Slows",
+      "link": "https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:39:00 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "FedEx Lifts Outlook as Shipping Rates, Volumes Drive Revenue Growth",
+      "link": "https://www.wsj.com/business/earnings/fedex-lifts-outlook-as-shipping-rates-volumes-drive-revenue-growth-a52e0668?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:34:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Sandoz Shares Fall After Company Turns Cautious on Sales Guidance",
-      "link": "https://www.wsj.com/health/pharma/sandoz-shares-fall-after-company-turns-cautious-on-sales-guidance-afc34696?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 16:03:00 GMT",
-      "sentiment": 0.25
+      "title": "Carvana Profit Soars as Vehicle Sales Climb Nearly 40%",
+      "link": "https://www.wsj.com/business/earnings/carvana-profit-soars-as-vehicle-sales-climb-nearly-40-8e0355ab?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:33:00 GMT",
+      "sentiment": 0.2375
     },
     {
-      "title": "Stellantis Shares Surge on Steady Outlook, Plans for Jeep Offensive",
-      "link": "https://www.wsj.com/business/stellantis-confirms-guidance-as-turnaround-progress-continues-a098f805?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 15:54:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Dropbox to Cut About 6% of Global Workforce",
-      "link": "https://www.wsj.com/business/earnings/dropbox-to-cut-about-6-of-global-workforce-a899fbfb?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 14:09:00 GMT",
-      "sentiment": -0.024999999999999994
-    },
-    {
-      "title": "GSK Shares Slide After Vaccine Sales Disappoint",
-      "link": "https://www.wsj.com/business/earnings/gsk-sales-get-boost-from-specialty-medicines-4b1807d2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 13:52:00 GMT",
-      "sentiment": -0.125
+      "title": "Honeywell Aerospace Logs Higher Third-Quarter Profit, Revenue on Continued Demand",
+      "link": "https://www.wsj.com/business/earnings/honeywell-aerospace-logs-higher-third-quarter-profit-revenue-on-continued-demand-bff3bfd1?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:24:00 GMT",
+      "sentiment": 0.0625
     },
     {
       "title": "China’s Car Industry Is Wowing the World—but Crashing at Home",
@@ -157,6 +157,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | A CEO on a Collision Course",
+      "link": "https://www.wsj.com/opinion/a-ceo-on-a-collision-course-8cb4d47b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:02:00 GMT",
+      "sentiment": 0.8
+    },
+    {
       "title": "Opinion | How Do Investors Measure ‘Social Impact’?",
       "link": "https://www.wsj.com/opinion/how-do-investors-measure-social-impact-b42595c0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 16:35:00 GMT",
@@ -184,12 +190,6 @@
       "title": "Opinion | Democrats Are Coming for the CEOs",
       "link": "https://www.wsj.com/opinion/democrats-are-coming-for-the-ceos-investigate-business-trump-administration-24b0a75c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 25 Oct 2026 20:56:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Some Proposals for United’s CEO on Airline Equality",
-      "link": "https://www.wsj.com/opinion/some-proposals-for-uniteds-ceo-on-airline-equality-c1eedd28?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 25 Oct 2026 15:56:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -283,6 +283,12 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "MGM Resorts Revenue Ticks Down on Lower Room Rates in Las Vegas",
+      "link": "https://www.wsj.com/business/hospitality/mgm-resorts-revenue-ticks-down-on-lower-room-rates-in-las-vegas-ea6f90af?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:47:00 GMT",
+      "sentiment": 0.2222222222222222
+    },
+    {
       "title": "Cheesecake Factory Logs Higher Revenue After Double-Digit Growth at Namesake Restaurants",
       "link": "https://www.wsj.com/business/earnings/cheesecake-factory-logs-higher-revenue-after-double-digit-growth-at-namesake-restaurants-2497190d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 27 Oct 2026 21:15:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/hospitality/how-coke-loosened-pepsis-grip-on-kfcs-soda-fountains-1be33456?mod=pls_whats_news_us_business_f",
       "published": "Sun, 18 Oct 2026 11:00:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "The Holdouts Working Around New York City’s Airbnb Crackdown",
-      "link": "https://www.wsj.com/real-estate/luxury-homes/the-holdouts-working-around-new-york-citys-airbnb-crackdown-e5eb27bd?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 17 Oct 2026 11:00:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "The Cheesecake Factory Is Doing Just Fine Without the Political Discourse",
@@ -373,10 +373,10 @@
       "sentiment": 0.18333333333333335
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d7dd9405?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 16:26:00 GMT",
-      "sentiment": 0.3333333333333333
+      "title": "T-Mobile Profit, Revenue Rise on Postpaid Growth",
+      "link": "https://www.wsj.com/business/earnings/t-mobile-profit-revenue-rise-on-postpaid-growth-ac984a43?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:11:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Jio Platforms Soar After India’s Largest-Ever Initial Public Offering",
@@ -463,6 +463,12 @@
       "sentiment": 0.15
     },
     {
+      "title": "Weil Gotshal Leaders Tell Partners They Plan to Dissolve Law Firm",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 20:47:00 GMT",
+      "sentiment": -0.22000000000000003
+    },
+    {
       "title": "China’s Car Industry Is Wowing the World—but Crashing at Home",
       "link": "https://www.wsj.com/business/autos/china-cars-domestic-sale-declines-983ced7b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 01:00:00 GMT",
@@ -473,12 +479,6 @@
       "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 00:08:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "Weil Gotshal Leaders Confirm Plan to Wind Down Law Firm",
-      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 19:48:00 GMT",
-      "sentiment": -0.20925925925925926
     },
     {
       "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
