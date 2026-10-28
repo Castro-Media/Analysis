@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Bolsonaro Lands in Miami After Fleeing Brazil",
+      "link": "https://www.wsj.com/world/americas/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-6a0e9da0?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 18:48:00 GMT",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Israel Braces for Uncertainty With Early Election Results Pointing to Deadlock",
+      "link": "https://www.wsj.com/world/middle-east/israel-braces-for-uncertainty-with-early-results-pointing-to-deadlock-ce284c9d?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 18:13:00 GMT",
+      "sentiment": 0.025
+    },
+    {
+      "title": "What Comes Next for Benjamin Netanyahu",
+      "link": "https://www.wsj.com/world/middle-east/what-comes-next-for-benjamin-netanyahu-602b04d4?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 17:10:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "U.K. Budget Ducks Hard Choices Amid Market Concerns Over Debt",
+      "link": "https://www.wsj.com/world/uk/u-k-s-budget-ducks-hard-choices-amid-market-concerns-over-debt-5aa7d1d6?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 16:58:00 GMT",
+      "sentiment": -0.09583333333333334
+    },
+    {
       "title": "Spain’s Second High-Speed Train Crash This Year Leaves Dozens Dead",
       "link": "https://www.wsj.com/world/europe/spain-high-speed-rail-crash-kills-at-least-10-6c4fda57?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 16:03:00 GMT",
@@ -11,30 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/netanyahu-israels-divisive-political-houdini-is-still-at-the-center-of-the-show-a584fb31?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 14:56:00 GMT",
       "sentiment": -0.08518518518518518
-    },
-    {
-      "title": "Bolsonaro Lands in Miami After Fleeing Brazil",
-      "link": "https://www.wsj.com/world/americas/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-6a0e9da0?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 14:09:00 GMT",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Israel Braces for Uncertainty With Early Election Results Pointing to Deadlock",
-      "link": "https://www.wsj.com/world/middle-east/israel-braces-for-uncertainty-with-early-results-pointing-to-deadlock-ce284c9d?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 11:39:00 GMT",
-      "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
-      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 11:12:00 GMT",
-      "sentiment": 0.05606060606060606
-    },
-    {
-      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
-      "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
-      "sentiment": -0.225
     },
     {
       "title": "Arab States Must Invest in Productive Sectors After Iran War Exposes Weaknesses, U.N. Official Says",
@@ -49,6 +49,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 11:12:00 GMT",
+      "sentiment": 0.05606060606060606
+    },
+    {
       "title": "Netanyahu Holds on as Election Results Show No Clear Winner",
       "link": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 10:04:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/u-k-police-charge-british-man-with-assisting-iran-in-foiled-air-base-attack-aaf40c9d?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 20:32:00 GMT",
       "sentiment": -0.4416666666666667
-    },
-    {
-      "title": "Oil Futures Fall as Market Holds Out Hope for Middle East Diplomacy",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210?mod=rss_worldnews",
-      "published": "Tue, 27 Oct 2026 19:23:00 GMT",
-      "sentiment": -0.15999999999999998
     },
     {
       "title": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World",
@@ -97,6 +97,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
+      "link": "https://www.wsj.com/pro/central-banking/growth-plays-key-supporting-role-in-bank-of-canada-rate-hike-decision-fa80b153?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 18:30:00 GMT",
+      "sentiment": 0.1875
+    },
+    {
       "title": "U.S. to Issue Visa for Brazil’s Flávio Bolsonaro as Questions Swirl About His Location",
       "link": "https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 22:22:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/how-brazils-lula-pulled-off-an-upset-no-one-saw-coming-c6b7885a?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 00:00:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
-      "link": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_worldnews",
-      "published": "Mon, 26 Oct 2026 21:15:00 GMT",
-      "sentiment": 0.32222222222222224
     },
     {
       "title": "U.K. Budget Keeps Government on Track to Stay Within Rules",
@@ -373,6 +373,12 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
+      "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
+      "sentiment": -0.225
+    },
+    {
       "title": "Netanyahu and His Main Opponent Disagree on Many Things—but Not Israel’s Security",
       "link": "https://www.wsj.com/world/middle-east/netanyahu-and-his-main-opponent-disagree-on-many-thingsbut-not-israels-security-b6c9b23d?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 02:00:00 GMT",
@@ -383,12 +389,6 @@
       "link": "https://www.wsj.com/world/americas/what-maria-corina-machados-return-means-for-venezuela-7fa2f02f?mod=rss_worldnews",
       "published": "Mon, 26 Oct 2026 21:03:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "What’s on the Line as Israelis Prepare to Vote",
-      "link": "https://www.wsj.com/world/middle-east/israel-election-parliament-netanyahu-what-to-know-e9507c72?mod=rss_worldnews",
-      "published": "Mon, 26 Oct 2026 15:01:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
