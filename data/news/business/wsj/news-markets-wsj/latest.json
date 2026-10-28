@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Open Higher Ahead of Fed Rate Decision",
+      "title": "Stock Market Today: Tech Rally Stalls Out Ahead of Fed Rate Decision",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 08:17:33 GMT",
-      "sentiment": 0.07916666666666666
+      "sentiment": 0.033333333333333326
     },
     {
       "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
@@ -103,6 +103,12 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Tech Stocks Move Higher Ahead of Fed Rate Decision",
+      "link": "https://www.wsj.com/finance/investing/tech-rally-continues-treasurys-weaken-ahead-of-fed-decision-bbc5771d?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 13:56:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "The Morning Risk Report: Extreme Networks to Pay $2.5 Million Over Sales to Russian Missile Maker",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-extreme-networks-to-pay-2-5-million-over-sales-to-russian-missile-maker-ec74931d?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 11:30:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-ahead-of-federal-reserve-interest-rate-decision-b1f7ef58?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:57:00 GMT",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Tech Rally Continues, Treasurys Weaken Ahead of Fed Decision",
-      "link": "https://www.wsj.com/finance/investing/tech-rally-continues-treasurys-weaken-ahead-of-fed-decision-bbc5771d?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 09:24:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
@@ -199,16 +199,16 @@
       "sentiment": 0.20520833333333335
     },
     {
+      "title": "Oil Futures Rise on Concerns of Escalation Post U.S. Midterms",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 14:30:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "U.S. Natural Gas Futures Rise in Early Trading",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-in-early-trading-68f5df91?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 13:22:00 GMT",
       "sentiment": 0.18
-    },
-    {
-      "title": "Oil Gains As Market Prices in Greater Risk of Mideast Escalation",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 10:04:00 GMT",
-      "sentiment": 0.3666666666666667
     },
     {
       "title": "Gold Edges Lower Ahead of Fed Decision",
@@ -262,7 +262,7 @@
       "title": "Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks",
       "link": "https://www.wsj.com/finance/regulation/elizabeth-warren-demands-answers-from-anthropic-on-existential-risks-5362f009?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:00:00 GMT",
-      "sentiment": -0.06999999999999999
+      "sentiment": -0.0875
     },
     {
       "title": "The Cat-and-Mouse Game Between Premium Credit-Card Firms and Points Junkies",
