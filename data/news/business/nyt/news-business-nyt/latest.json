@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
+      "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
+      "published": "Wed, 28 Oct 2026 16:50:41 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
+      "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
+      "published": "Wed, 28 Oct 2026 16:03:21 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Trump’s Push to Fire Fed Governor Lisa Cook Looms Over Warsh",
+      "link": "https://www.nytimes.com/2026/10/28/business/economy/trump-lisa-cook-warsh.html",
+      "published": "Wed, 28 Oct 2026 16:11:25 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed",
+      "published": "Wed, 28 Oct 2026 16:00:16 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads",
       "link": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
       "published": "Wed, 28 Oct 2026 15:45:36 +0000",
@@ -9,13 +33,13 @@
     {
       "title": "FTC Sues Dollar General Amid Growing Consumer Doubts Over Pricing",
       "link": "https://www.nytimes.com/2026/10/28/business/dollar-general-prices-ftc-lawsuit.html",
-      "published": "Wed, 28 Oct 2026 15:40:27 +0000",
+      "published": "Wed, 28 Oct 2026 16:17:57 +0000",
       "sentiment": 0.26666666666666666
     },
     {
       "title": "Weil Gotshal, a Legal Power Player, Is Fighting to Survive",
-      "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-fighting-to-survive.html",
-      "published": "Wed, 28 Oct 2026 15:19:21 +0000",
+      "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+      "published": "Wed, 28 Oct 2026 16:12:12 +0000",
       "sentiment": -0.006666666666666682
     },
     {
@@ -27,13 +51,13 @@
     {
       "title": "U.S. Restricts Trade With Chinese Genomics Company",
       "link": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
-      "published": "Wed, 28 Oct 2026 13:44:24 +0000",
+      "published": "Wed, 28 Oct 2026 13:44:25 +0000",
       "sentiment": -0.08750000000000001
     },
     {
       "title": "Life Magazine, Chronicler of 20th-Century America, Rises Again",
       "link": "https://www.nytimes.com/2026/10/28/business/media/life-magazine-karlie-kloss.html",
-      "published": "Wed, 28 Oct 2026 13:54:59 +0000",
+      "published": "Wed, 28 Oct 2026 15:56:11 +0000",
       "sentiment": 0.25
     },
     {
@@ -63,19 +87,19 @@
     {
       "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
       "link": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
-      "published": "Wed, 28 Oct 2026 09:05:48 +0000",
+      "published": "Wed, 28 Oct 2026 16:36:07 +0000",
       "sentiment": 0.022222222222222216
     },
     {
-      "title": "How to Tax and Spend in a ‘Turbulent Time’? U.K. Tries a Balancing Act.",
+      "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs",
       "link": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-      "published": "Wed, 28 Oct 2026 13:30:46 +0000",
-      "sentiment": -0.016233766233766236
+      "published": "Wed, 28 Oct 2026 16:40:52 +0000",
+      "sentiment": 0.12878787878787878
     },
     {
       "title": "A Punishing Housing Market Is Squeezing Renters",
       "link": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
-      "published": "Wed, 28 Oct 2026 14:04:44 +0000",
+      "published": "Wed, 28 Oct 2026 14:04:45 +0000",
       "sentiment": 0.125
     },
     {
@@ -153,7 +177,7 @@
     {
       "title": "U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.",
       "link": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
-      "published": "Tue, 27 Oct 2026 11:06:48 +0000",
+      "published": "Wed, 28 Oct 2026 16:26:08 +0000",
       "sentiment": 0.024999999999999994
     },
     {
@@ -275,30 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
       "published": "Sun, 25 Oct 2026 22:13:59 +0000",
       "sentiment": 0.08444444444444443
-    },
-    {
-      "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
-      "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
-      "published": "Sat, 24 Oct 2026 12:50:46 +0000",
-      "sentiment": 0.005681818181818177
-    },
-    {
-      "title": "How Trump Gave the Worst Polluters a Free Pass",
-      "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
-      "published": "Sun, 25 Oct 2026 01:12:45 +0000",
-      "sentiment": -0.3
-    },
-    {
-      "title": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
-      "link": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
-      "published": "Fri, 23 Oct 2026 23:23:10 +0000",
-      "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
-      "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
-      "published": "Fri, 23 Oct 2026 20:29:40 +0000",
-      "sentiment": -0.2837301587301587
     }
   ]
 }
