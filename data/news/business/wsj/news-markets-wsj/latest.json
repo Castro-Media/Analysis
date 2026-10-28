@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Rally Stalls Out Ahead of Fed Rate Decision",
+      "title": "Fed Meeting Today: Investors Await Interest-Rate Decision, Warsh Comments",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 08:17:33 GMT",
       "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "Weil Gotshal Leaders Discussing Plan to Wind Down Law Firm",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 15:53:00 GMT",
+      "sentiment": -0.20925925925925926
     },
     {
       "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/real-estate/home-buyers-who-enjoyed-cheap-adjustable-mortgages-are-now-getting-a-nasty-shock-6c5cf3fe?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:30:00 GMT",
       "sentiment": -0.045
-    },
-    {
-      "title": "JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion",
-      "link": "https://www.wsj.com/finance/banking/jpmorgans-skyscraper-on-park-avenue-estimated-to-cost-around-6-billion-76881bb3?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
@@ -79,6 +79,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion",
+      "link": "https://www.wsj.com/finance/banking/jpmorgans-skyscraper-on-park-avenue-estimated-to-cost-around-6-billion-76881bb3?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Standard Chartered Posts Net Profit Beat, Raises Guidance",
       "link": "https://www.wsj.com/finance/banking/standard-chartered-quarterly-net-profit-jumps-raises-income-guidance-22a84a62?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 06:39:00 GMT",
@@ -95,12 +101,6 @@
       "link": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 17:50:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "HSBC Profit Growth Misses, Plans $1 Billion Buyback",
-      "link": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 06:21:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Tech Stocks Move Higher Ahead of Fed Rate Decision",
@@ -199,16 +199,22 @@
       "sentiment": 0.20520833333333335
     },
     {
+      "title": "European Gas Prices Top 100 Euros on Middle East Escalation Fears",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-in-early-trading-68f5df91?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 15:35:00 GMT",
+      "sentiment": 0.19285714285714287
+    },
+    {
+      "title": "U.S. Crude Oil Stockpiles Fall for Fourth Straight Week",
+      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-for-fourth-straight-week-81f21661?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 15:11:00 GMT",
+      "sentiment": -0.08571428571428572
+    },
+    {
       "title": "Oil Futures Rise on Concerns of Escalation Post U.S. Midterms",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 14:30:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "U.S. Natural Gas Futures Rise in Early Trading",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-in-early-trading-68f5df91?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 13:22:00 GMT",
-      "sentiment": 0.18
     },
     {
       "title": "Gold Edges Lower Ahead of Fed Decision",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/politics/policy/trump-moves-to-weaken-methane-emissions-rules-for-oil-and-gas-71736afd?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 00:43:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-839fe107?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 21:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Sterling Stays Weaker as U.K. Budget Gets Underway",

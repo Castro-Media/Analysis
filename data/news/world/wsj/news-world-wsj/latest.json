@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "High-Speed Train Crash Kills Dozens in Spain",
+      "title": "Spain’s Second High-Speed Train Crash This Year Leaves Dozens Dead",
       "link": "https://www.wsj.com/world/europe/spain-high-speed-rail-crash-kills-at-least-10-6c4fda57?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 14:19:00 GMT",
-      "sentiment": -0.10069444444444446
+      "published": "Wed, 28 Oct 2026 15:42:00 GMT",
+      "sentiment": -0.175
+    },
+    {
+      "title": "Netanyahu, Israel’s Divisive Political Houdini, Is Still at the Center of the Show",
+      "link": "https://www.wsj.com/world/middle-east/netanyahu-israels-divisive-political-houdini-is-still-at-the-center-of-the-show-a584fb31?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 14:56:00 GMT",
+      "sentiment": -0.08518518518518518
     },
     {
       "title": "Bolsonaro Lands in Miami After Fleeing Brazil",
@@ -31,12 +37,6 @@
       "sentiment": -0.225
     },
     {
-      "title": "Netanyahu Holds on as Election Results Show No Clear Winner",
-      "link": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 10:04:00 GMT",
-      "sentiment": -0.1375
-    },
-    {
       "title": "Arab States Must Invest in Productive Sectors After Iran War Exposes Weaknesses, U.N. Official Says",
       "link": "https://www.wsj.com/world/middle-east/arab-states-must-invest-in-productive-sectors-after-iran-war-exposes-weaknesses-u-n-official-says-8f6bc2c5?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 14:21:00 GMT",
@@ -49,6 +49,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Netanyahu Holds on as Election Results Show No Clear Winner",
+      "link": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 10:04:00 GMT",
+      "sentiment": -0.1375
+    },
+    {
       "title": "Overseas Handler Linked to Iran Behind Foiled RAF Air Base Attack",
       "link": "https://www.wsj.com/world/middle-east/u-k-police-charge-british-man-with-assisting-iran-in-foiled-air-base-attack-aaf40c9d?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 20:32:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 19:23:00 GMT",
       "sentiment": -0.15999999999999998
-    },
-    {
-      "title": "Tech Stocks Add to Gains After Yesterday’s Anthropic Rally",
-      "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_worldnews",
-      "published": "Tue, 27 Oct 2026 18:29:00 GMT",
-      "sentiment": 0.375
     },
     {
       "title": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World",
@@ -129,8 +129,8 @@
     {
       "title": "U.K. Budget Keeps Government on Track to Stay Within Rules",
       "link": "https://www.wsj.com/world/europe/u-k-budget-keeps-government-on-track-to-stay-within-rules-421ae665?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 13:45:00 GMT",
-      "sentiment": -0.1
+      "published": "Wed, 28 Oct 2026 14:59:00 GMT",
+      "sentiment": -0.07676767676767678
     },
     {
       "title": "U.K. Fiscal Discipline in Focus Ahead of Burnham Government’s First Budget",
