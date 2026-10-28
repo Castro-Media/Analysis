@@ -3,13 +3,13 @@
     {
       "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "published": "Wed, 28 Oct 2026 11:32:44 +0000",
+      "published": "Wed, 28 Oct 2026 12:38:05 +0000",
       "sentiment": 0.06666666666666667
     },
     {
-      "title": "Live Updates: At Least 30 Killed in Train Crash in Spain, Officials Say",
+      "title": "Live Updates: At Least 64 Killed in Train Crash in Spain, Officials Say",
       "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-      "published": "Wed, 28 Oct 2026 11:49:33 +0000",
+      "published": "Wed, 28 Oct 2026 13:49:41 +0000",
       "sentiment": -0.07727272727272728
     },
     {
@@ -19,10 +19,16 @@
       "sentiment": -0.225
     },
     {
-      "title": "Facing Waters ‘the Color of Chocolate,’ Mexico Declares War on Seaweed",
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
       "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "published": "Wed, 28 Oct 2026 11:05:53 +0000",
+      "published": "Wed, 28 Oct 2026 12:08:53 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
+      "published": "Wed, 28 Oct 2026 13:05:37 +0000",
+      "sentiment": -0.025
     },
     {
       "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
@@ -31,10 +37,10 @@
       "sentiment": 0.3
     },
     {
-      "title": "Italians Protesting High Prices Fear a Listless Future, Too",
+      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "published": "Wed, 28 Oct 2026 11:49:56 +0000",
-      "sentiment": 0.04
+      "published": "Wed, 28 Oct 2026 13:16:35 +0000",
+      "sentiment": -0.13333333333333333
     },
     {
       "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
@@ -79,10 +85,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
-      "published": "Wed, 28 Oct 2026 02:38:45 +0000",
-      "sentiment": -0.1
+      "title": "4 Takeaways From Israel’s Election",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
+      "published": "Wed, 28 Oct 2026 13:44:27 +0000",
+      "sentiment": -0.09999999999999999
     },
     {
       "title": "The crash comes months after a fatal accident involving the same train operators.",
@@ -93,13 +99,13 @@
     {
       "title": "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
       "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-      "published": "Wed, 28 Oct 2026 10:45:04 +0000",
+      "published": "Wed, 28 Oct 2026 13:21:16 +0000",
       "sentiment": -0.057499999999999996
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "published": "Wed, 28 Oct 2026 11:24:31 +0000",
+      "published": "Wed, 28 Oct 2026 13:49:39 +0000",
       "sentiment": 0.17222222222222222
     },
     {
@@ -111,7 +117,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
-      "published": "Wed, 28 Oct 2026 11:44:03 +0000",
+      "published": "Wed, 28 Oct 2026 12:43:48 +0000",
       "sentiment": 0.5
     },
     {
@@ -191,6 +197,12 @@
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/relatives-of-victims-of-the-oct-7-attack-israeli-election",
       "published": "Tue, 27 Oct 2026 18:53:09 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
+      "published": "Wed, 28 Oct 2026 02:38:45 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "In Congress, Support for Israel Is Waning Among Democrats",
@@ -329,18 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/26/world/americas/mexico-election-official-resigns.html",
       "published": "Mon, 26 Oct 2026 22:33:20 +0000",
       "sentiment": 0.17222222222222222
-    },
-    {
-      "title": "Election Surprises",
-      "link": "https://www.nytimes.com/2026/10/26/world/brazil-serbia-election-results-anthropic.html",
-      "published": "Tue, 27 Oct 2026 05:41:47 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Israel Has Committed Genocidal Acts in Gaza Since Cease-Fire, U.N. Human Rights Panel Says",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html",
-      "published": "Mon, 26 Oct 2026 20:30:07 +0000",
-      "sentiment": 0.0
     }
   ]
 }

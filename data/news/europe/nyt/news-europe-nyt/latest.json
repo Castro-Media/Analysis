@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Knife-Wielding Attacker Fatally Shot Outside Israeli Embassy in Serbia",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/knife-wielding-attacker-fatally-shot-outside-israeli-embassy-in-serbia.html",
+      "published": "Wed, 28 Oct 2026 13:05:37 +0000",
+      "sentiment": -0.025
+    },
+    {
       "title": "The crash comes months after a fatal accident involving the same train operators.",
       "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/the-crash-comes-months-after-a-fatal-accident-involving-the-same-train-operators",
       "published": "Wed, 28 Oct 2026 11:40:51 +0000",
@@ -9,25 +15,25 @@
     {
       "title": "Russell Brand Tells Court Consent ‘Is More Important Than Sex’",
       "link": "https://www.nytimes.com/2026/10/28/arts/russell-brand-trial-rape-sexual-assault.html",
-      "published": "Wed, 28 Oct 2026 11:51:06 +0000",
+      "published": "Wed, 28 Oct 2026 13:36:23 +0000",
       "sentiment": 0.45
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
-      "published": "Wed, 28 Oct 2026 11:24:31 +0000",
+      "published": "Wed, 28 Oct 2026 13:49:39 +0000",
       "sentiment": 0.17222222222222222
     },
     {
-      "title": "Italians Protesting High Prices Fear a Listless Future, Too",
+      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "published": "Wed, 28 Oct 2026 11:49:56 +0000",
-      "sentiment": 0.04
+      "published": "Wed, 28 Oct 2026 13:16:35 +0000",
+      "sentiment": -0.13333333333333333
     },
     {
-      "title": "How to Tax and Spend in a ‘Turbulent Time?’ U.K. Tries a Balancing Act.",
+      "title": "How to Tax and Spend in a ‘Turbulent Time’? U.K. Tries a Balancing Act.",
       "link": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-      "published": "Wed, 28 Oct 2026 09:05:37 +0000",
+      "published": "Wed, 28 Oct 2026 13:30:46 +0000",
       "sentiment": -0.016233766233766236
     },
     {
@@ -51,7 +57,7 @@
     {
       "title": "Judge Limits Candace Owens’s Liability in Macron Defamation Case",
       "link": "https://www.nytimes.com/2026/10/27/business/media/candace-owens-macron-defamation-case.html",
-      "published": "Wed, 28 Oct 2026 02:19:44 +0000",
+      "published": "Wed, 28 Oct 2026 13:40:05 +0000",
       "sentiment": 0.0
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
       "published": "Tue, 27 Oct 2026 08:25:45 +0000",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
-      "published": "Tue, 27 Oct 2026 01:59:55 +0000",
-      "sentiment": 0.25
     }
   ]
 }
