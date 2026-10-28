@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "German Consumers Grow Slightly Gloomier on Lingering Inflation Concerns",
+      "link": "https://www.wsj.com/economy/consumers/german-consumers-grow-slightly-gloomier-on-lingering-inflation-concerns-a15a9232?mod=rss_socialeconomyfeed",
+      "published": "Wed, 28 Oct 2026 07:11:00 GMT",
+      "sentiment": -0.09166666666666667
+    },
+    {
+      "title": "Thai Central Bank Holds Rate as Growth Remains Weak",
+      "link": "https://www.wsj.com/economy/central-banking/thai-central-bank-holds-rate-as-growth-remains-weak-48393707?mod=rss_socialeconomyfeed",
+      "published": "Wed, 28 Oct 2026 07:09:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance",
       "link": "https://www.wsj.com/economy/central-banking/boj-rate-hold-seen-as-done-deal-putting-focus-on-guidance-fe9049cc?mod=rss_socialeconomyfeed",
       "published": "Wed, 28 Oct 2026 04:28:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/economy/china-claims-strong-economic-growth-but-skeptics-question-official-figures-22e583db?mod=rss_socialeconomyfeed",
       "published": "Tue, 27 Oct 2026 17:08:00 GMT",
       "sentiment": 0.4000000000000001
-    },
-    {
-      "title": "U.S. Consumer Confidence Improved in October, Conference Board Says",
-      "link": "https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-improved-in-october-conference-board-says-746458b3?mod=rss_socialeconomyfeed",
-      "published": "Tue, 27 Oct 2026 14:33:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "U.S. Home Price Growth Kept Climbing in August",
-      "link": "https://www.wsj.com/economy/housing/u-s-home-price-growth-kept-climbing-in-august-d3840176?mod=rss_socialeconomyfeed",
-      "published": "Tue, 27 Oct 2026 13:27:00 GMT",
-      "sentiment": 0.6
     },
     {
       "title": "Eurozone Banks Report Declining Loan Demand, Tougher Conditions",
@@ -67,6 +67,12 @@
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "U.S. Home Price Growth Kept Climbing in August",
+      "link": "https://www.wsj.com/economy/housing/u-s-home-price-growth-kept-climbing-in-august-d3840176?mod=rss_socialeconomyfeed",
+      "published": "Tue, 27 Oct 2026 13:27:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "U.S. Housing Starts Dropped Again in September",
       "link": "https://www.wsj.com/economy/housing/u-s-housing-starts-dropped-again-in-september-808c2f3d?mod=rss_socialeconomyfeed",
       "published": "Tue, 20 Oct 2026 12:48:00 GMT",
@@ -91,9 +97,9 @@
       "sentiment": 0.05
     },
     {
-      "title": "Canada Building Permits Rebound in August",
-      "link": "https://www.wsj.com/economy/housing/canada-building-permits-rebound-in-august-a801156b?mod=rss_socialeconomyfeed",
-      "published": "Wed, 14 Oct 2026 13:19:00 GMT",
+      "title": "U.S. Consumer Confidence Improved in October, Conference Board Says",
+      "link": "https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-improved-in-october-conference-board-says-746458b3?mod=rss_socialeconomyfeed",
+      "published": "Tue, 27 Oct 2026 14:33:00 GMT",
       "sentiment": 0.3
     },
     {
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/economy/central-banking/french-consumer-confidence-sinks-to-13-year-low-amid-protests-bond-selloff-d7002c30?mod=rss_socialeconomyfeed",
       "published": "Tue, 27 Oct 2026 08:55:00 GMT",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Treasury Yields Little Changed, French Bonds Outperform",
-      "link": "https://www.wsj.com/economy/central-banking/treasury-yields-turn-slightly-higher-french-bonds-outperform-2fd1aaa0?mod=rss_socialeconomyfeed",
-      "published": "Mon, 26 Oct 2026 19:34:00 GMT",
-      "sentiment": -0.0375
     },
     {
       "title": "Canada Retail Sales Look to Build on August’s Rebound",
