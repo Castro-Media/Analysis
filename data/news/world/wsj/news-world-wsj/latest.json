@@ -3,13 +3,13 @@
     {
       "title": "High-Speed Train Crash Kills Dozens in Spain",
       "link": "https://www.wsj.com/world/europe/spain-high-speed-rail-crash-kills-at-least-10-6c4fda57?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 13:05:00 GMT",
+      "published": "Wed, 28 Oct 2026 14:19:00 GMT",
       "sentiment": -0.10069444444444446
     },
     {
-      "title": "Bolsonaro Fled Brazil to Argentina and Boarded Flight En Route to Miami",
+      "title": "Bolsonaro Lands in Miami After Fleeing Brazil",
       "link": "https://www.wsj.com/world/americas/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-6a0e9da0?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 13:05:00 GMT",
+      "published": "Wed, 28 Oct 2026 14:09:00 GMT",
       "sentiment": -0.4
     },
     {
@@ -37,6 +37,12 @@
       "sentiment": -0.1375
     },
     {
+      "title": "Arab States Must Invest in Productive Sectors After Iran War Exposes Weaknesses, U.N. Official Says",
+      "link": "https://www.wsj.com/world/middle-east/arab-states-must-invest-in-productive-sectors-after-iran-war-exposes-weaknesses-u-n-official-says-8f6bc2c5?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 14:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Prices Rise as Houthi Militants Target Saudi Energy",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 13:53:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 18:29:00 GMT",
       "sentiment": 0.375
-    },
-    {
-      "title": "Netanyahu and His Main Opponent Disagree on Many Things—but Not Israel’s Security",
-      "link": "https://www.wsj.com/world/middle-east/netanyahu-and-his-main-opponent-disagree-on-many-thingsbut-not-israels-security-b6c9b23d?mod=rss_worldnews",
-      "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.19122023809523808
     },
     {
       "title": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World",
@@ -130,7 +130,7 @@
       "title": "U.K. Budget Keeps Government on Track to Stay Within Rules",
       "link": "https://www.wsj.com/world/europe/u-k-budget-keeps-government-on-track-to-stay-within-rules-421ae665?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 13:45:00 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.1
     },
     {
       "title": "U.K. Fiscal Discipline in Focus Ahead of Burnham Government’s First Budget",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "Netanyahu and His Main Opponent Disagree on Many Things—but Not Israel’s Security",
+      "link": "https://www.wsj.com/world/middle-east/netanyahu-and-his-main-opponent-disagree-on-many-thingsbut-not-israels-security-b6c9b23d?mod=rss_worldnews",
+      "published": "Tue, 27 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.19122023809523808
     },
     {
       "title": "What María Corina Machado’s Return Means for Venezuela",
