@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/heres-the-latest",
+      "published": "Wed, 28 Oct 2026 05:37:18 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
+      "published": "Wed, 28 Oct 2026 05:18:10 +0000",
+      "sentiment": -0.225
+    },
+    {
       "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html",
       "published": "Wed, 28 Oct 2026 01:09:55 +0000",
@@ -245,18 +257,6 @@
       "link": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
       "published": "Fri, 23 Oct 2026 23:07:34 +0000",
       "sentiment": -0.125
-    },
-    {
-      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-      "published": "Sat, 24 Oct 2026 04:42:18 +0000",
-      "sentiment": -0.05937500000000001
-    },
-    {
-      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-      "published": "Fri, 23 Oct 2026 12:18:37 +0000",
-      "sentiment": -0.5
     }
   ]
 }
