@@ -7,6 +7,18 @@
       "sentiment": 0.033333333333333326
     },
     {
+      "title": "Boring Stocks Are Beautiful Again. Can It Last?",
+      "link": "https://www.wsj.com/finance/stocks/boring-stocks-are-beautiful-again-can-it-last-f484e1da?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 10:35:00 GMT",
+      "sentiment": -0.05000000000000001
+    },
+    {
+      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
+      "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
+      "sentiment": -0.225
+    },
+    {
       "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
       "link": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:30:00 GMT",
@@ -29,18 +41,6 @@
       "link": "https://www.wsj.com/finance/regulation/elizabeth-warren-demands-answers-from-anthropic-on-existential-risks-5362f009?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:00:00 GMT",
       "sentiment": -0.06999999999999999
-    },
-    {
-      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
-      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 00:08:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Apple Knows Some iPhone Duos Have a Major Issue",
-      "link": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 21:21:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
@@ -103,34 +103,34 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Gains in Popularity",
+      "link": "https://www.wsj.com/finance/investing/the-buy-borrow-and-die-wealth-strategy-gains-in-popularity-a3001c20?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 10:48:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "GE Vernova to Buy High-Voltage Grid Equipment Manufacturer for $9 Billion",
+      "link": "https://www.wsj.com/business/energy-oil/ge-vernova-to-buy-high-voltage-grid-equipment-manufacturer-for-9-billion-b29dd2ef?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 10:47:00 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-ahead-of-federal-reserve-interest-rate-decision-b1f7ef58?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 09:57:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "Tech Rally Continues, Treasurys Weaken Ahead of Fed Decision",
       "link": "https://www.wsj.com/finance/investing/tech-rally-continues-treasurys-weaken-ahead-of-fed-decision-bbc5771d?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:24:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Treasury Yields Rise Ahead of Federal Reserve Interest-Rate Decision",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-ahead-of-federal-reserve-interest-rate-decision-b1f7ef58?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 07:18:00 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
       "title": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
       "link": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 00:10:00 GMT",
       "sentiment": 0.175
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-839fe107?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 21:00:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-36d62767?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 20:58:00 GMT",
-      "sentiment": 0.10000000000000002
     },
     {
       "title": "European Stocks Mixed as Earnings Drive Index Moves",
@@ -199,6 +199,12 @@
       "sentiment": 0.20520833333333335
     },
     {
+      "title": "Oil Gains As Market Prices in Greater Risk of Mideast Escalation",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 10:04:00 GMT",
+      "sentiment": 0.3666666666666667
+    },
+    {
       "title": "Gold Edges Lower Ahead of Fed Decision",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-clings-to-gains-above-4-000-as-markets-await-fed-90e73d3c?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:19:00 GMT",
@@ -211,22 +217,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "Oil Rises as Traders Focus on Potential Supply Risks",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 00:39:00 GMT",
-      "sentiment": 0.0
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-839fe107?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 21:00:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "U.S. Natural Gas Futures Settle Higher",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-mixed-ahead-of-november-expiry-d72f4d97?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 20:01:00 GMT",
       "sentiment": 0.17666666666666664
-    },
-    {
-      "title": "Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-diplomatic-efforts-to-ease-u-s-iran-hostilities-c235ed0a?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 19:49:00 GMT",
-      "sentiment": -0.04999999999999999
     },
     {
       "title": "Dollar Likely to Remain Firm Unless Fed’s Warsh Dampens Rate-Rise Bets",
@@ -289,6 +289,18 @@
       "sentiment": 0.1
     },
     {
+      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
+      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 00:08:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Apple Knows Some iPhone Duos Have a Major Issue",
+      "link": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 21:21:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
       "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 18:09:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 12:17:00 GMT",
       "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "These Funds Thrive on Investors’ Impatience",
-      "link": "https://www.wsj.com/finance/investing/these-funds-thrive-on-investors-impatience-48a6d3a4?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 10:37:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
-      "link": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 10:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
