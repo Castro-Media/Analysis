@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "How Bolsonaro Fled Brazil: Decoys, a Private Jet and a Friend in the White House",
+      "link": "https://www.wsj.com/world/americas/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house-a752b829?mod=rss_worldnews",
+      "published": "Thu, 29 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Latin America’s Right-Wing Surge Suddenly Seems Vulnerable",
+      "link": "https://www.wsj.com/world/americas/latin-americas-right-wing-surge-suddenly-seems-vulnerable-8399a911?mod=rss_worldnews",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "sentiment": -0.18333333333333335
+    },
+    {
       "title": "Vance Reaches Out to Iranian Hard-Liner in Bid to Restart Peace Talks",
       "link": "https://www.wsj.com/world/middle-east/vance-reaches-out-to-iranian-hard-liner-in-bid-to-restart-peace-talks-2c8a2ab8?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 23:46:00 GMT",
@@ -25,22 +37,22 @@
       "sentiment": 0.025
     },
     {
-      "title": "What Comes Next for Benjamin Netanyahu",
-      "link": "https://www.wsj.com/world/middle-east/what-comes-next-for-benjamin-netanyahu-602b04d4?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 17:10:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "U.K. Budget Ducks Hard Choices Amid Market Concerns Over Debt",
-      "link": "https://www.wsj.com/world/uk/u-k-s-budget-ducks-hard-choices-amid-market-concerns-over-debt-5aa7d1d6?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 16:58:00 GMT",
-      "sentiment": -0.09583333333333334
+      "title": "Oil is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_worldnews",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "sentiment": -0.009166666666666665
     },
     {
       "title": "Oil Prices Rise on Worries of Middle East Conflict Escalation",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 19:22:00 GMT",
       "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "What Comes Next for Benjamin Netanyahu",
+      "link": "https://www.wsj.com/world/middle-east/what-comes-next-for-benjamin-netanyahu-602b04d4?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 17:10:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Netanyahu, Israel’s Divisive Political Houdini, Is Still at the Center of the Show",
@@ -53,18 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/arab-states-must-invest-in-productive-sectors-after-iran-war-exposes-weaknesses-u-n-official-says-8f6bc2c5?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 14:21:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
-      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 11:12:00 GMT",
-      "sentiment": 0.05606060606060606
-    },
-    {
-      "title": "Netanyahu Holds on as Election Results Show No Clear Winner",
-      "link": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 10:04:00 GMT",
-      "sentiment": -0.1375
     },
     {
       "title": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World",
@@ -127,6 +127,12 @@
       "sentiment": 0.2
     },
     {
+      "title": "U.K. Budget Ducks Hard Choices Amid Market Concerns Over Debt",
+      "link": "https://www.wsj.com/world/uk/u-k-s-budget-ducks-hard-choices-amid-market-concerns-over-debt-5aa7d1d6?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 16:58:00 GMT",
+      "sentiment": -0.09583333333333334
+    },
+    {
       "title": "U.K. Budget Keeps Government on Track to Stay Within Rules",
       "link": "https://www.wsj.com/world/europe/u-k-budget-keeps-government-on-track-to-stay-within-rules-421ae665?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 14:59:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/world/uk/uk-government-on-track-to-cut-borrowing-ahead-of-budget-361f51ee?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 06:53:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "U.K. Wage Growth Picks Up, Jobless Rate Falls Ahead of Bank of England Meeting",
-      "link": "https://www.wsj.com/world/uk/u-k-wage-growth-picks-up-ahead-of-bank-of-england-meeting-6e4a979b?mod=rss_worldnews",
-      "published": "Tue, 20 Oct 2026 07:33:00 GMT",
-      "sentiment": 0.103125
     },
     {
       "title": "Opinion | To Brazil’s Victor Goes Political Revenge",
@@ -373,16 +373,22 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 11:12:00 GMT",
+      "sentiment": 0.05606060606060606
+    },
+    {
       "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
       "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 10:07:00 GMT",
       "sentiment": -0.225
     },
     {
-      "title": "Netanyahu and His Main Opponent Disagree on Many Things—but Not Israel’s Security",
-      "link": "https://www.wsj.com/world/middle-east/netanyahu-and-his-main-opponent-disagree-on-many-thingsbut-not-israels-security-b6c9b23d?mod=rss_worldnews",
-      "published": "Tue, 27 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.19122023809523808
+      "title": "Netanyahu Holds on as Election Results Show No Clear Winner",
+      "link": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 10:04:00 GMT",
+      "sentiment": -0.1375
     },
     {
       "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
