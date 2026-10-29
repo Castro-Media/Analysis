@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Federal judge blocks ICE from making racially discriminatory stops in Southern California",
+      "title": "California man who allegedly beat elderly woman with bat captured in Oklahoma",
+      "link": "https://www.latimes.com/california/story/2026-10-29/california-man-who-beat-elderly-woman-with-bat-found-in-oklahoma",
+      "published": "Thu, 29 Oct 2026 17:47:47 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "'Mountain of evidence' ICE agents discriminated against Latinos, judge says",
       "link": "https://www.latimes.com/california/story/2026-10-29/federal-judge-blocks-racial-profiling-stops",
       "published": "Thu, 29 Oct 2026 16:41:47 GMT",
-      "sentiment": 0.3
+      "sentiment": 0.6
     },
     {
       "title": "Dark and stormy weather coming to SoCal, just in time for Halloween",
@@ -13,10 +19,10 @@
       "sentiment": -0.13333333333333333
     },
     {
-      "title": "California High-Speed Rail Authority boss Ian Choudri resigns under fire",
+      "title": "California High Speed Rail Authority boss Ian Choudri resigns under fire",
       "link": "https://www.latimes.com/california/story/2026-10-29/californias-high-speed-rail-authority-boss-choudri-resigns-under-fire",
       "published": "Thu, 29 Oct 2026 15:50:54 GMT",
-      "sentiment": -0.041666666666666664
+      "sentiment": 0.00875
     },
     {
       "title": "SoCal coast braces for more flooding as El Niño's high tides break records",
@@ -31,28 +37,16 @@
       "sentiment": 0.06666666666666668
     },
     {
-      "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
-      "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.03787878787878788
-    },
-    {
-      "title": "Arellano: How the Bass campaign channels one of L.A.'s most infamous mayoral races",
-      "link": "https://www.latimes.com/california/story/2026-10-29/karen-bass-sam-yorty-los-angeles-mayoral-race",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.09333333333333334
-    },
-    {
       "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
       "link": "https://www.latimes.com/california/story/2026-10-29/raman-leads-among-younger-voters-polls-show-but-bass-isnt-conceding-any-ground",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.21666666666666667
     },
     {
-      "title": "LAX people mover launch postponed again; city officials duck questions on the delay",
-      "link": "https://www.latimes.com/california/story/2026-10-29/skylink-train-delayed-further-lax",
+      "title": "Arellano: How the Bass campaign channels one of L.A.'s most infamous mayoral races",
+      "link": "https://www.latimes.com/california/story/2026-10-29/karen-bass-sam-yorty-los-angeles-mayoral-race",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.26666666666666666
+      "sentiment": -0.09333333333333334
     },
     {
       "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
@@ -67,16 +61,22 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "L.A. city and county fend off a court battle over homeless services",
-      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
       "title": "Billionaire tax battle heats up on Instagram with unlikely influencers paid to pick sides",
       "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": -0.23333333333333334
+    },
+    {
+      "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
+      "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.03787878787878788
+    },
+    {
+      "title": "L.A. city and county fend off a court battle over homeless services",
+      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05
     },
     {
       "title": "A man with a knife and another one with a grin. Wendy's encounter goes viral",
@@ -175,28 +175,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Teens work, drive and pay taxes. But should they vote? This California city will soon decide",
-      "link": "https://www.latimes.com/california/story/2026-10-28/la-me-culver-city-youth-vote-election",
-      "published": "Wed, 28 Oct 2026 11:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "Proposition 45 would sideline dozens of tribes from input on major California projects",
       "link": "https://www.latimes.com/environment/story/2026-10-28/prop-45-would-bar-dozens-of-tribes-from-consulting-on-development-projects",
       "published": "Wed, 28 Oct 2026 11:00:00 GMT",
       "sentiment": 0.11607142857142856
     },
     {
+      "title": "Teens work, drive and pay taxes. But should they vote? This California city will soon decide",
+      "link": "https://www.latimes.com/california/story/2026-10-28/la-me-culver-city-youth-vote-election",
+      "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Surprising close encounters with marine predators in California bring awe and fear",
       "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "sentiment": 0.22500000000000003
-    },
-    {
-      "title": "Your last-minute guide to California governor candidates' views on gas prices, EVs and high-speed rail",
-      "link": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1366666666666667
     },
     {
       "title": "Arellano: Nithya Raman is learning Spanish. What that says about her vision for L.A.",
@@ -221,6 +215,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-28/small-business-merchant-cash-advances-risks",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "sentiment": -0.03507936507936509
+    },
+    {
+      "title": "Your last-minute guide to California governor candidates' views on gas prices, EVs and high-speed rail",
+      "link": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.1366666666666667
     },
     {
       "title": "Amid rash of unusually high DWP bills, board suspends shutoffs for nonpayment",
@@ -301,18 +301,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
-      "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.00444444444444444
-    },
-    {
-      "title": "El Niño's record-hot ocean waters driving coastal flooding in Southern California",
-      "link": "https://www.latimes.com/california/story/2026-10-27/la-me-heat-california-coast-water",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
       "title": "Deaf workers lose thousands in power tools to thieves, have group hug, vow to 'keep going'",
       "link": "https://www.latimes.com/california/story/2026-10-27/brazen-thieves-steal-power-tools-from-deaf-construction-crew",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
@@ -323,6 +311,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-27/body-of-missing-climber-found-buried-in-snow-on-mt-whitney",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
       "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "El Niño's record-hot ocean waters driving coastal flooding in Southern California",
+      "link": "https://www.latimes.com/california/story/2026-10-27/la-me-heat-california-coast-water",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
+      "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.00444444444444444
     },
     {
       "title": "Measure A could radically alter L.A. County labor talks. There's been little debate",
@@ -379,28 +379,28 @@
       "sentiment": 0.35714285714285715
     },
     {
-      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
-      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "SoCal coast hit by widespread flooding as record-breaking tides move in",
       "link": "https://www.latimes.com/california/story/2026-10-26/socal-coast-faces-flood-risk-from-days-of-extreme-sea-levels",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": 0.02
     },
     {
-      "title": "Chabria: California votes. Trump's Justice Department panics",
-      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3
-    },
-    {
       "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
       "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": -0.00833333333333334
+    },
+    {
+      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
+      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Chabria: California votes. Trump's Justice Department panics",
+      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Man is found dead near entrance to Disneyland, police say",
@@ -439,6 +439,12 @@
       "sentiment": 0.275
     },
     {
+      "title": "Job training, housing, students' basic needs: L.A. community college candidates promise fixes",
+      "link": "https://www.latimes.com/california/story/2026-10-25/la-community-college-board-elections-candidate-promises",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Chabria: What decent people get wrong about the Amy Acton ad",
       "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
@@ -449,12 +455,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.23200000000000004
-    },
-    {
-      "title": "Job training, housing, students' basic needs: L.A. community college candidates promise fixes",
-      "link": "https://www.latimes.com/california/story/2026-10-25/la-community-college-board-elections-candidate-promises",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Group of men in 'Scream' masks raped a woman in 2017. The first suspect was just arrested",
@@ -505,6 +505,12 @@
       "sentiment": -0.05277777777777778
     },
     {
+      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
+      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.099375
+    },
+    {
       "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
       "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
@@ -515,12 +521,6 @@
       "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
-      "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.099375
     },
     {
       "title": "'This is not normal': Feds demand California counties set aside 'likely' noncitizen ballots",

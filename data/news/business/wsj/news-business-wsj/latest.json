@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
+      "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 19:20:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "A $1,000 Device Enables Hands-Free Driving. But Fatal Crashes Have Prompted Scrutiny.",
+      "link": "https://www.wsj.com/business/autos/a-1-000-device-enables-hands-free-driving-but-fatal-crashes-have-prompted-scrutiny-99351dd2?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 18:35:00 GMT",
+      "sentiment": -0.3
+    },
+    {
       "title": "Forget EVs. Battery Makers Are Busy Bolstering the U.S. Power Grid.",
       "link": "https://www.wsj.com/business/forget-evs-battery-makers-are-busy-bolstering-the-u-s-power-grid-537a6417?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 17:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 15:57:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
-      "link": "https://www.wsj.com/business/autos/trump-administration-promised-tariff-relief-in-talks-to-secure-u-s-audi-factory-da037c3f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 13:36:00 GMT",
-      "sentiment": 0.425
-    },
-    {
-      "title": "The Morning Risk Report: Tech, Social Media Companies Brace for Deepfake Scrutiny in Midterms Run-Up",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-tech-social-media-companies-brace-for-deepfake-scrutiny-in-midterms-run-up-e8622394?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 11:32:00 GMT",
-      "sentiment": 0.03333333333333333
     },
     {
       "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
@@ -127,6 +127,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
+      "link": "https://www.wsj.com/business/autos/trump-administration-promised-tariff-relief-in-talks-to-secure-u-s-audi-factory-da037c3f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 13:36:00 GMT",
+      "sentiment": 0.425
+    },
+    {
       "title": "Hyundai Motor Cuts Annual Outlook as Profit Slump Continues",
       "link": "https://www.wsj.com/business/earnings/hyundai-motor-net-profit-falls-on-weaker-sales-cuts-outlook-402404b2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 09:06:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/harley-davidson-wanted-an-electric-revolution-that-dream-is-in-trouble-c6b891b8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 27 Oct 2026 11:00:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "Porsche Sticks to Guidance as Turnaround Efforts Begin to Pay Off",
-      "link": "https://www.wsj.com/business/autos/porsche-sticks-to-guidance-as-turnaround-efforts-begin-to-pay-off-339931e2?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 27 Oct 2026 08:23:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Opinion | John Podesta’s Permitting Reform Sabotage",
@@ -193,6 +193,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 19:53:00 GMT",
+      "sentiment": 0.03214285714285714
+    },
+    {
       "title": "Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks",
       "link": "https://www.wsj.com/business/energy-oil/gulf-oil-giants-work-to-expand-overseas-storage-as-war-exposes-supply-risks-e9580e1c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:56:00 GMT",
@@ -203,12 +209,6 @@
       "link": "https://www.wsj.com/politics/policy/your-guide-to-energy-and-climate-at-the-midterms-9b18d6ac?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:28:00 GMT",
       "sentiment": -0.14583333333333334
-    },
-    {
-      "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 12:05:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
@@ -433,6 +433,12 @@
       "sentiment": -0.0625
     },
     {
+      "title": "The Morning Risk Report: Tech, Social Media Companies Brace for Deepfake Scrutiny in Midterms Run-Up",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-tech-social-media-companies-brace-for-deepfake-scrutiny-in-midterms-run-up-e8622394?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 11:32:00 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
       "link": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 09:47:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": -0.016666666666666677
     },
     {
-      "title": "Retailers Cracked Down on In-Store Theft. Gift-Card Scammers Just Moved Online.",
-      "link": "https://www.wsj.com/business/retail/retailers-cracked-down-on-in-store-theft-gift-card-scammers-just-moved-online-b8cd6e79?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 16:54:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
       "title": "Weil Gotshal Says It Is Shutting Its Doors",
       "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 00:59:00 GMT",
@@ -475,10 +475,10 @@
       "sentiment": 0.2333333333333333
     },
     {
-      "title": "China’s Car Industry Is Wowing the World—but Crashing at Home",
-      "link": "https://www.wsj.com/business/autos/china-cars-domestic-sale-declines-983ced7b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.05
+      "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
+      "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 14:20:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "DoorDash to Buy Instacart for $17 Billion",
@@ -487,10 +487,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Microsoft Quarterly Profit Soars as Cloud Growth Accelerates",
-      "link": "https://www.wsj.com/tech/microsoft-msft-q1-earnings-report-2027-stock-5809ce40?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 23:12:00 GMT",
-      "sentiment": 0.125
+      "title": "China’s Car Industry Is Wowing the World—but Crashing at Home",
+      "link": "https://www.wsj.com/business/autos/china-cars-domestic-sale-declines-983ced7b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Best Small-Business Loans in October 2026",
