@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Fire Breaks Out at South Carolina Nuclear Site",
+      "link": "https://www.nytimes.com/2026/10/28/us/nuclear-site-south-carolina-emergency.html",
+      "published": "Thu, 29 Oct 2026 02:34:17 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+      "published": "Thu, 29 Oct 2026 02:15:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
+      "link": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
+      "published": "Thu, 29 Oct 2026 02:42:50 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "Trump Calls for Mary Peltola, Alaska Senate Candidate, to Be Prosecuted",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
       "published": "Thu, 29 Oct 2026 00:32:47 +0000",
@@ -9,13 +27,13 @@
     {
       "title": "A Top Dartmouth Leader Steps Down Over Undisclosed A.I. Use in Writings",
       "link": "https://www.nytimes.com/2026/10/28/us/dartmouth-santiago-schnell-ai.html",
-      "published": "Thu, 29 Oct 2026 00:17:23 +0000",
+      "published": "Thu, 29 Oct 2026 01:59:23 +0000",
       "sentiment": 0.11481481481481481
     },
     {
-      "title": "She Was Arrested After Leaving Her Kids for Days. Parents Are Debating.",
+      "title": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
       "link": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html",
-      "published": "Thu, 29 Oct 2026 00:16:38 +0000",
+      "published": "Thu, 29 Oct 2026 01:03:42 +0000",
       "sentiment": 0.0
     },
     {
@@ -33,14 +51,14 @@
     {
       "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
-      "published": "Wed, 28 Oct 2026 23:17:30 +0000",
+      "published": "Thu, 29 Oct 2026 01:01:58 +0000",
       "sentiment": -0.2311111111111111
     },
     {
-      "title": "Huerta Is Remembered as a Labor Champion With a Multidimensional Legacy",
+      "title": "In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret",
       "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html",
-      "published": "Wed, 28 Oct 2026 23:03:31 +0000",
-      "sentiment": 0.55
+      "published": "Thu, 29 Oct 2026 01:47:04 +0000",
+      "sentiment": 0.13999999999999999
     },
     {
       "title": "Atlanta’s Mayor Walked Away After Covid Chaos. Will Voters Make Her Georgia’s Governor?",
@@ -93,7 +111,7 @@
     {
       "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies",
       "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html",
-      "published": "Wed, 28 Oct 2026 19:31:00 +0000",
+      "published": "Wed, 28 Oct 2026 19:31:01 +0000",
       "sentiment": 0.05
     },
     {
@@ -117,7 +135,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/28/us/midterms-elections-trump/heres-the-latest",
-      "published": "Wed, 28 Oct 2026 23:56:47 +0000",
+      "published": "Thu, 29 Oct 2026 01:44:16 +0000",
       "sentiment": 0.5
     },
     {
@@ -167,12 +185,6 @@
       "link": "https://www.nytimes.com/2026/10/27/us/elections/paxton-talarico-texas-senate-rally-lubbock.html",
       "published": "Wed, 28 Oct 2026 15:41:35 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html",
-      "published": "Wed, 28 Oct 2026 01:09:55 +0000",
-      "sentiment": 0.1875
     }
   ]
 }
