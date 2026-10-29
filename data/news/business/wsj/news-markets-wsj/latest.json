@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Alphabet Stock Sinks, Dragging Nasdaq Lower",
+      "title": "Stock Market Today: AI Jitters Spread as Intel, Amazon Results Disappoint",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 09:22:32 GMT",
-      "sentiment": -0.1
+      "sentiment": -0.8
+    },
+    {
+      "title": "Alphabet Stumbles, U.S. Economy Surges",
+      "link": "https://www.wsj.com/finance/stocks/alphabet-stumbles-u-s-economy-surges-7f47a441?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 20:32:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/pro/bankruptcy/weil-gotshal-taps-alixpartners-to-steer-wind-down-c51b561f?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 02:25:00 GMT",
       "sentiment": -0.14383838383838385
-    },
-    {
-      "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
-      "link": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 01:00:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
@@ -133,6 +133,18 @@
       "sentiment": 0.6333333333333333
     },
     {
+      "title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-alphabet-slide-weighs-on-ai-optimism-1a8d67b7?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 20:43:00 GMT",
+      "sentiment": -0.07142857142857142
+    },
+    {
+      "title": "Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever",
+      "link": "https://www.wsj.com/tech/ai/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-bde7bb6e?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 20:02:00 GMT",
+      "sentiment": -0.5833333333333334
+    },
+    {
       "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower",
       "link": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 18:35:00 GMT",
@@ -149,18 +161,6 @@
       "link": "https://www.wsj.com/business/earnings/intercontinental-exchange-posts-higher-profit-revenue-7fed5918?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 12:15:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "European Stock Indexes Mostly Higher",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-ai-related-stocks-854322dd?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 08:29:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
-      "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 21:12:00 GMT",
-      "sentiment": 0.07936507936507936
     },
     {
       "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
@@ -199,6 +199,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Settles Lower As U.S. Seeks to Engage Iran in Talks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 20:34:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "U.S. Natural Gas Futures Fall on Mild Weather Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-retreat-after-topping-100-euros-a-megawatt-hour-b9a8807b?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 20:26:00 GMT",
+      "sentiment": 0.17777777777777778
+    },
+    {
       "title": "Gold, Silver Futures Settle Lower",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 18:25:00 GMT",
@@ -209,18 +221,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-treasury-yields-fall-as-investors-digest-fed-meet-focus-shifts-to-ecb-d29ffbec?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 15:23:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Natural Gas Inventories Rise More Than Expected",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-retreat-after-topping-100-euros-a-megawatt-hour-b9a8807b?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 14:54:00 GMT",
-      "sentiment": 0.22857142857142856
-    },
-    {
-      "title": "Oil Futures Pull Back on Latest U.S. Diplomatic Push",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 14:05:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "U.S. Natural Gas Futures Gain As November Contract Expires",
@@ -289,6 +289,12 @@
       "sentiment": -0.026060606060606062
     },
     {
+      "title": "See the Trump Administration Stock Portfolio That Spans More Than 40 Companies",
+      "link": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 01:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Weil Gotshal Says It Is Shutting Its Doors",
       "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 00:59:00 GMT",
@@ -301,22 +307,16 @@
       "sentiment": 0.2333333333333333
     },
     {
+      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+      "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 21:12:00 GMT",
+      "sentiment": 0.07936507936507936
+    },
+    {
       "title": "Fed Leaves Rates Unchanged, Oil Tops $115",
       "link": "https://www.wsj.com/finance/fed-leaves-rates-unchanged-oil-tops-115-f922556e?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 20:24:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Firm That Pioneered Bankruptcy Law Is Winding Down Itself",
-      "link": "https://www.wsj.com/pro/bankruptcy/the-firm-that-pioneered-bankruptcy-law-is-on-the-brink-itself-837a39a4?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 19:54:00 GMT",
-      "sentiment": -0.17777777777777778
-    },
-    {
-      "title": "Boring Stocks Are Beautiful Again. Can It Last?",
-      "link": "https://www.wsj.com/finance/stocks/boring-stocks-are-beautiful-again-can-it-last-f484e1da?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 10:35:00 GMT",
-      "sentiment": -0.05000000000000001
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
