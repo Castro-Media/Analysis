@@ -4,7 +4,7 @@
       "title": "Stock Market Today: Alphabet Stock Sinks, Dragging Nasdaq Lower",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 09:22:32 GMT",
-      "sentiment": 0.2
+      "sentiment": -0.1
     },
     {
       "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
@@ -103,6 +103,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Treasury Yields Fall Following Major Central Banks’ Hold",
+      "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 19:49:00 GMT",
+      "sentiment": 0.078125
+    },
+    {
+      "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
+      "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 19:20:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Billionaires Don’t Like the Wealth Tax. Here’s What Some Propose Instead.",
       "link": "https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 16:42:00 GMT",
@@ -115,34 +127,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Treasury Yields Fall Amid Hot U.S. Indicators",
-      "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 13:40:00 GMT",
-      "sentiment": 0.20833333333333331
-    },
-    {
       "title": "Bankers Still Sound Cautious About AI Boom",
       "link": "https://www.wsj.com/finance/investing/bankers-still-sound-cautious-about-ai-boom-94522118?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 10:30:00 GMT",
       "sentiment": 0.6333333333333333
     },
     {
-      "title": "Vonovia Shares Fall After German Landlord Warns of Tough Market",
-      "link": "https://www.wsj.com/business/earnings/vonovia-shares-fall-after-german-landlord-warns-of-tough-market-204669ec?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 09:03:00 GMT",
-      "sentiment": -0.034722222222222224
+      "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+      "link": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 18:35:00 GMT",
+      "sentiment": -0.425
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-fd780fc4?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 16:30:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "U.S. Stocks Fall After Alphabet Earnings Spark More AI Jitters",
-      "link": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 16:25:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Intercontinental Exchange Posts Higher Profit, Revenue",
@@ -199,10 +199,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Comex Gold Settles 0.49% Lower at $4017.70",
+      "title": "Gold, Silver Futures Settle Lower",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 17:51:00 GMT",
-      "sentiment": -0.15555555555555556
+      "published": "Thu, 29 Oct 2026 18:25:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
@@ -259,6 +259,12 @@
       "sentiment": 0.6
     },
     {
+      "title": "Polymarket Is Investigating Suspicious Trades on Israel Election",
+      "link": "https://www.wsj.com/business/polymarket-investigating-suspicious-trades-on-israel-election-44626e53?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 17:55:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
       "title": "The Morning Risk Report: Tech, Social Media Companies Brace for Deepfake Scrutiny in Midterms Run-Up",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-tech-social-media-companies-brace-for-deepfake-scrutiny-in-midterms-run-up-e8622394?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 11:32:00 GMT",
@@ -281,12 +287,6 @@
       "link": "https://www.wsj.com/finance/stocks/nyse-just-extended-options-trading-hours-its-only-the-beginning-fe544629?mod=rss_markets_main",
       "published": "Wed, 21 Oct 2026 14:54:00 GMT",
       "sentiment": -0.026060606060606062
-    },
-    {
-      "title": "From Verizon to UnitedHealth, Corporate America Is Balking at ‘Tokenized’ Stocks",
-      "link": "https://www.wsj.com/finance/stocks/from-verizon-to-unitedhealth-corporate-america-is-balking-at-tokenized-stocks-6dbbeada?mod=rss_markets_main",
-      "published": "Fri, 16 Oct 2026 18:18:00 GMT",
-      "sentiment": 0.0037878787878787845
     },
     {
       "title": "Weil Gotshal Says It Is Shutting Its Doors",
