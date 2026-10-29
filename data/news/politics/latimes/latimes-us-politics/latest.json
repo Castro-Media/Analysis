@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "California's billionaire tax battle is playing out on Instagram—with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
+      "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.03333333333333333
+      "sentiment": 0.08
     },
     {
       "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
@@ -13,10 +13,10 @@
       "sentiment": 0.018181818181818174
     },
     {
-      "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
-      "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
+      "title": "Billionaire tax battle heats up on Instagram with unlikely influencers paid to pick sides",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08
+      "sentiment": -0.23333333333333334
     },
     {
       "title": "Judge denies feds' request to block 20,000 California ballots in blistering opinion",
@@ -139,16 +139,16 @@
       "sentiment": 0.275
     },
     {
-      "title": "Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
       "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Chabria: What decent people get wrong about the Amy Acton ad",
@@ -193,12 +193,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.075
-    },
-    {
       "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
       "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -215,6 +209,12 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
+    },
+    {
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.075
     },
     {
       "title": "Judge limits election-related immigration stops amid broader legal war ahead of midterms",
