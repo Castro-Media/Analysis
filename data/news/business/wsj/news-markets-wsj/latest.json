@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Oct. 28,2026: Alphabet Stock Drops Sharply After Revenue Miss",
-      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 08:17:33 GMT",
-      "sentiment": 0.0625
+      "title": "Stock Market Today: Nasdaq Futures Slump After Google Earnings Disappoint",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 09:22:32 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
+      "link": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Weil Gotshal Taps AlixPartners to Steer Wind-Down",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 22:31:00 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
-      "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 21:12:00 GMT",
-      "sentiment": 0.07936507936507936
     },
     {
       "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
@@ -103,6 +103,18 @@
       "sentiment": 0.2
     },
     {
+      "title": "Vonovia Shares Fall After German Landlord Warns of Tough Market",
+      "link": "https://www.wsj.com/business/earnings/vonovia-shares-fall-after-german-landlord-warns-of-tough-market-204669ec?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 09:03:00 GMT",
+      "sentiment": -0.034722222222222224
+    },
+    {
+      "title": "Gold Falls as Investors Assess Fed Signals, Await Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 08:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Eurozone Bond Yields Fall Ahead of ECB Decision; French OATs Outperform",
       "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 08:17:00 GMT",
@@ -121,6 +133,18 @@
       "sentiment": -0.016666666666666677
     },
     {
+      "title": "European Stock Indexes Mostly Higher",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-ai-related-stocks-854322dd?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 08:29:00 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+      "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 21:12:00 GMT",
+      "sentiment": 0.07936507936507936
+    },
+    {
       "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-up-treasury-yields-mixed-after-fed-hold-0766f105?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 20:48:00 GMT",
@@ -133,34 +157,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "European Stock Indexes Mostly Higher",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-ai-related-stocks-854322dd?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 08:29:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "U.S. Stocks Narrowly Mixed Following Fed Decision",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-stocks-0909d4ab?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 18:31:00 GMT",
       "sentiment": -0.009999999999999998
-    },
-    {
-      "title": "Nasdaq Edges Lower as Tech Rally Stalls Out",
-      "link": "https://www.wsj.com/finance/investing/tech-rally-continues-treasurys-weaken-ahead-of-fed-decision-bbc5771d?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 16:25:00 GMT",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Boring Stocks Are Beautiful Again. Can It Last?",
-      "link": "https://www.wsj.com/finance/stocks/boring-stocks-are-beautiful-again-can-it-last-f484e1da?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 10:35:00 GMT",
-      "sentiment": -0.05000000000000001
-    },
-    {
-      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
-      "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
-      "sentiment": -0.225
     },
     {
       "title": "Opinion | How Do Investors Measure ‘Social Impact’?",
@@ -199,9 +199,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gold Falls as Investors Assess Fed Signals, Await Inflation Data",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 08:24:00 GMT",
+      "title": "Oil Falls on U.S.-Iran Diplomatic Hopes",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 09:27:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -209,12 +209,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-treasury-yields-fall-as-investors-digest-fed-meet-focus-shifts-to-ecb-d29ffbec?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 07:27:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Falls as Traders Weigh Middle East Risks",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 01:21:00 GMT",
-      "sentiment": 0.0875
     },
     {
       "title": "U.S. Natural Gas Futures Gain As November Contract Expires",
@@ -227,6 +221,12 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 19:59:00 GMT",
       "sentiment": 0.046666666666666676
+    },
+    {
+      "title": "Gold Settles Lower Ahead of Fed Decision",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-clings-to-gains-above-4-000-as-markets-await-fed-90e73d3c?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 17:43:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Euro Falls Ahead of ECB Decision",
@@ -295,6 +295,18 @@
       "sentiment": -0.17777777777777778
     },
     {
+      "title": "Boring Stocks Are Beautiful Again. Can It Last?",
+      "link": "https://www.wsj.com/finance/stocks/boring-stocks-are-beautiful-again-can-it-last-f484e1da?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 10:35:00 GMT",
+      "sentiment": -0.05000000000000001
+    },
+    {
+      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
+      "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
+      "sentiment": -0.225
+    },
+    {
       "title": "Home Buyers Who Enjoyed Cheap Adjustable Mortgages Are Now Getting a Nasty Shock",
       "link": "https://www.wsj.com/real-estate/home-buyers-who-enjoyed-cheap-adjustable-mortgages-are-now-getting-a-nasty-shock-6c5cf3fe?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 09:30:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_markets_main",
       "published": "Tue, 27 Oct 2026 21:21:00 GMT",
       "sentiment": 0.0625
-    },
-    {
-      "title": "Tech Stocks Power Higher, Oil Cools",
-      "link": "https://www.wsj.com/finance/stocks/tech-stocks-power-higher-oil-cools-724e6a63?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 20:23:00 GMT",
-      "sentiment": 0.19318181818181818
-    },
-    {
-      "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
-      "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 18:09:00 GMT",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",

@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
+      "link": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=rss_worldnews",
+      "published": "Thu, 29 Oct 2026 09:47:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "I Went Home to Long Island to Find Out How the Iran War Is Shaping the Midterms",
+      "link": "https://www.wsj.com/politics/elections/i-went-home-to-long-island-to-find-out-how-the-iran-war-is-shaping-the-midterms-972264f2?mod=rss_worldnews",
+      "published": "Thu, 29 Oct 2026 09:01:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "U.S. Expels Cuban Diplomat After Extraordinary U.N. Verbal Clash",
       "link": "https://www.wsj.com/world/u-s-expels-cuban-diplomat-after-extraordinary-u-n-verbal-clash-e32b0516?mod=rss_worldnews",
       "published": "Thu, 29 Oct 2026 01:55:00 GMT",
@@ -25,18 +37,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Bolsonaro Lands in Miami After Fleeing Brazil",
-      "link": "https://www.wsj.com/world/americas/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-6a0e9da0?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 21:28:00 GMT",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Vance Engaged Iran to Revive Peace Talks",
-      "link": "https://www.wsj.com/world/middle-east/vance-engaged-iran-to-revive-peace-talks-f19eaaf8?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 21:28:00 GMT",
-      "sentiment": -0.016666666666666677
-    },
-    {
       "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=rss_worldnews",
       "published": "Thu, 29 Oct 2026 06:59:00 GMT",
@@ -49,6 +49,12 @@
       "sentiment": -0.009166666666666665
     },
     {
+      "title": "Vance Engaged Iran to Revive Peace Talks",
+      "link": "https://www.wsj.com/world/middle-east/vance-engaged-iran-to-revive-peace-talks-f19eaaf8?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 21:28:00 GMT",
+      "sentiment": -0.016666666666666677
+    },
+    {
       "title": "Oil Prices Rise on Worries of Middle East Conflict Escalation",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 19:22:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/israel-braces-for-uncertainty-with-early-results-pointing-to-deadlock-ce284c9d?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 18:13:00 GMT",
       "sentiment": 0.025
-    },
-    {
-      "title": "What Comes Next for Benjamin Netanyahu",
-      "link": "https://www.wsj.com/world/middle-east/what-comes-next-for-benjamin-netanyahu-602b04d4?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 17:10:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World",
@@ -97,6 +97,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Bolsonaro Lands in Miami After Fleeing Brazil",
+      "link": "https://www.wsj.com/world/americas/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-6a0e9da0?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 21:28:00 GMT",
+      "sentiment": -0.4
+    },
+    {
       "title": "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
       "link": "https://www.wsj.com/pro/central-banking/growth-plays-key-supporting-role-in-bank-of-canada-rate-hike-decision-fa80b153?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 18:30:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/aluminum-tariff-canada-trump-f2555b38?mod=rss_worldnews",
       "published": "Tue, 27 Oct 2026 01:00:00 GMT",
       "sentiment": -0.09999999999999994
-    },
-    {
-      "title": "How Brazil’s Lula Pulled Off an Upset No One Saw Coming",
-      "link": "https://www.wsj.com/world/americas/how-brazils-lula-pulled-off-an-upset-no-one-saw-coming-c6b7885a?mod=rss_worldnews",
-      "published": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "U.K. Budget Ducks Hard Choices Amid Market Concerns Over Debt",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "What Comes Next for Benjamin Netanyahu",
+      "link": "https://www.wsj.com/world/middle-east/what-comes-next-for-benjamin-netanyahu-602b04d4?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 17:10:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Netanyahu, Israel’s Divisive Political Houdini, Is Still at the Center of the Show",

@@ -1,16 +1,40 @@
 {
   "entries": [
     {
-      "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
-      "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
-      "published": "Wed, 28 Oct 2026 19:12:18 +0000",
-      "sentiment": -0.12000000000000002
+      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
+      "published": "Thu, 29 Oct 2026 09:00:08 +0000",
+      "sentiment": -0.45340909090909093
     },
     {
-      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "published": "Wed, 28 Oct 2026 18:17:50 +0000",
-      "sentiment": 0.06666666666666667
+      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+      "published": "Thu, 29 Oct 2026 02:27:45 +0000",
+      "sentiment": -0.049999999999999996
+    },
+    {
+      "title": "In Marseille, Macron Confronts a Potent Mix of France’s Problems",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
+      "published": "Thu, 29 Oct 2026 09:03:02 +0000",
+      "sentiment": 0.17777777777777778
+    },
+    {
+      "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
+      "link": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
+      "published": "Thu, 29 Oct 2026 09:09:00 +0000",
+      "sentiment": 0.09999999999999998
+    },
+    {
+      "title": "Spain Train Crash Kills at Least 68",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+      "published": "Wed, 28 Oct 2026 20:26:04 +0000",
+      "sentiment": -0.07333333333333333
+    },
+    {
+      "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
+      "published": "Thu, 29 Oct 2026 08:30:50 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
@@ -61,28 +85,10 @@
       "sentiment": -0.13333333333333333
     },
     {
-      "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
-      "published": "Wed, 28 Oct 2026 04:01:09 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
-      "published": "Tue, 27 Oct 2026 17:30:52 +0000",
-      "sentiment": 0.3666666666666667
-    },
-    {
-      "title": "European Leaders Split Over Phone Call to Putin",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
-      "published": "Tue, 27 Oct 2026 20:49:50 +0000",
+      "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+      "published": "Thu, 29 Oct 2026 09:29:39 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "published": "Tue, 27 Oct 2026 08:25:45 +0000",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "India’s Media Giants Join Fight Against Upcoming Privacy Law",
@@ -95,12 +101,6 @@
       "link": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
       "published": "Thu, 29 Oct 2026 05:21:20 +0000",
       "sentiment": -0.025
-    },
-    {
-      "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
-      "published": "Thu, 29 Oct 2026 08:30:50 +0000",
-      "sentiment": 0.1
     },
     {
       "title": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
@@ -143,18 +143,6 @@
       "link": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
       "published": "Wed, 28 Oct 2026 20:35:54 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
-      "published": "Thu, 29 Oct 2026 02:27:45 +0000",
-      "sentiment": -0.049999999999999996
-    },
-    {
-      "title": "Spain Train Crash Kills at Least 68",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
-      "published": "Wed, 28 Oct 2026 20:26:04 +0000",
-      "sentiment": -0.07333333333333333
     },
     {
       "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
@@ -247,6 +235,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+      "published": "Wed, 28 Oct 2026 04:01:09 +0000",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "A Historic Show of Strength for Israel’s Arab Minority",
       "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
       "published": "Wed, 28 Oct 2026 11:32:42 +0000",
@@ -313,6 +307,12 @@
       "sentiment": -0.05555555555555556
     },
     {
+      "title": "European Leaders Split Over Phone Call to Putin",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+      "published": "Tue, 27 Oct 2026 20:49:50 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
       "link": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
       "published": "Tue, 27 Oct 2026 18:28:59 +0000",
@@ -322,12 +322,6 @@
       "title": "Netanyahu accuses Arab citizens of ‘trying to steal the elections’ in racial appeal to voters.",
       "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/netanyahu-accuses-arab-citizens-of-trying-to-steal-the-elections-in-racial-appeal-to-voters",
       "published": "Tue, 27 Oct 2026 18:53:47 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Relatives of victims of the Oct. 7 attack are running for Parliament.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/relatives-of-victims-of-the-oct-7-attack-israeli-election",
-      "published": "Tue, 27 Oct 2026 18:53:09 +0000",
       "sentiment": 0.0
     }
   ]
