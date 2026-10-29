@@ -16,7 +16,7 @@
       "title": "California, feds continue election war after courts rebuke challenge to 20,000 ballots",
       "link": "https://www.latimes.com/politics/story/2026-10-29/california-feds-continue-election-war-after-courts-rebuke-challenge-to-20-000-ballots",
       "published": "Thu, 29 Oct 2026 19:53:07 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.04999999999999999
     },
     {
       "title": "California man who allegedly beat elderly woman with bat captured in Oklahoma",
@@ -55,6 +55,24 @@
       "sentiment": 0.06666666666666668
     },
     {
+      "title": "Amid Flock backlash, LAPD moves forward with license plate readers from another company",
+      "link": "https://www.latimes.com/california/story/2026-10-29/flock-safety-lapd-axon-contract",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
+      "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.03787878787878788
+    },
+    {
+      "title": "L.A. city and county fend off a court battle over homeless services",
+      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
       "link": "https://www.latimes.com/california/story/2026-10-29/raman-leads-among-younger-voters-polls-show-but-bass-isnt-conceding-any-ground",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
@@ -77,24 +95,6 @@
       "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": -0.23333333333333334
-    },
-    {
-      "title": "L.A. city and county fend off a court battle over homeless services",
-      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Amid Flock backlash, LAPD moves forward with license plate readers from another company",
-      "link": "https://www.latimes.com/california/story/2026-10-29/flock-safety-lapd-axon-contract",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
-      "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.03787878787878788
     },
     {
       "title": "A man with a knife and another one with a grin. Wendy's encounter goes viral",
@@ -169,10 +169,10 @@
       "sentiment": 0.033333333333333326
     },
     {
-      "title": "Half-marathon runners reportedly have cars towed during race across U.S.-Mexico border",
+      "title": "They raced across the border, then returned to find their cars had been towed",
       "link": "https://www.latimes.com/california/story/2026-10-28/half-marathon-runners-cars-reportedly-towed-during-race-across-border",
       "published": "Wed, 28 Oct 2026 17:57:54 GMT",
-      "sentiment": -0.16666666666666666
+      "sentiment": 0.0
     },
     {
       "title": "Marcellus Wiley faces another sexual assault allegation in lawsuit filed by a former USC student",
