@@ -109,12 +109,6 @@
       "sentiment": 0.078125
     },
     {
-      "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
-      "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 19:20:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "Billionaires Don’t Like the Wealth Tax. Here’s What Some Propose Instead.",
       "link": "https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 16:42:00 GMT",
@@ -133,16 +127,16 @@
       "sentiment": 0.6333333333333333
     },
     {
+      "title": "Vonovia Shares Fall After German Landlord Warns of Tough Market",
+      "link": "https://www.wsj.com/business/earnings/vonovia-shares-fall-after-german-landlord-warns-of-tough-market-204669ec?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 09:03:00 GMT",
+      "sentiment": -0.034722222222222224
+    },
+    {
       "title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-alphabet-slide-weighs-on-ai-optimism-1a8d67b7?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 20:43:00 GMT",
       "sentiment": -0.07142857142857142
-    },
-    {
-      "title": "Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever",
-      "link": "https://www.wsj.com/tech/ai/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-bde7bb6e?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 20:02:00 GMT",
-      "sentiment": -0.5833333333333334
     },
     {
       "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower",
@@ -151,16 +145,22 @@
       "sentiment": -0.425
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-fd780fc4?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 16:30:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Intercontinental Exchange Posts Higher Profit, Revenue",
       "link": "https://www.wsj.com/business/earnings/intercontinental-exchange-posts-higher-profit-revenue-7fed5918?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 12:15:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "European Stock Indexes Mostly Higher",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-ai-related-stocks-854322dd?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 08:29:00 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+      "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 21:12:00 GMT",
+      "sentiment": 0.07936507936507936
     },
     {
       "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
@@ -229,10 +229,10 @@
       "sentiment": 0.26666666666666666
     },
     {
-      "title": "Euro Could Trade-Range Bound Vs Dollar After ECB Decision",
+      "title": "WSJ Dollar Index Falls 0.09% to 97.09",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-data-1ac5a50c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 15:59:00 GMT",
-      "sentiment": -0.08630952380952381
+      "published": "Thu, 29 Oct 2026 21:29:00 GMT",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "WSJ Dollar Index Falls 0.12% to 97.18",
@@ -307,16 +307,16 @@
       "sentiment": 0.2333333333333333
     },
     {
-      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
-      "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 21:12:00 GMT",
-      "sentiment": 0.07936507936507936
-    },
-    {
       "title": "Fed Leaves Rates Unchanged, Oil Tops $115",
       "link": "https://www.wsj.com/finance/fed-leaves-rates-unchanged-oil-tops-115-f922556e?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 20:24:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "The Firm That Pioneered Bankruptcy Law Is Winding Down Itself",
+      "link": "https://www.wsj.com/pro/bankruptcy/the-firm-that-pioneered-bankruptcy-law-is-on-the-brink-itself-837a39a4?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 19:54:00 GMT",
+      "sentiment": -0.17777777777777778
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",

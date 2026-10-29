@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
+      "title": "Alphabet’s Market Value Drops $500 Billion",
+      "link": "https://www.wsj.com/tech/alphabets-market-value-drops-500-billion-df24d044?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 21:30:00 GMT",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
       "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 19:20:00 GMT",
-      "sentiment": 0.2
+      "published": "Thu, 29 Oct 2026 21:25:00 GMT",
+      "sentiment": 0.35
     },
     {
       "title": "A $1,000 Device Enables Hands-Free Driving. But Fatal Crashes Have Prompted Scrutiny.",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/style/design/cheesecake-factory-design-obama-de0e1bbc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 16:07:00 GMT",
       "sentiment": -0.04999999999999999
-    },
-    {
-      "title": "How CEO Tony Xu Led DoorDash to Delivery Dominance",
-      "link": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 15:57:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
@@ -67,16 +67,22 @@
       "sentiment": -0.10138888888888889
     },
     {
+      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
+      "link": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 21:38:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Roblox Narrows Loss as User, Engagement Metrics Fall",
+      "link": "https://www.wsj.com/business/earnings/roblox-narrows-loss-as-user-engagement-metrics-fall-83e05ac8?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 20:56:00 GMT",
+      "sentiment": -0.10185185185185186
+    },
+    {
       "title": "Mondelez Profit, Sales Rise on Emerging Market Growth",
       "link": "https://www.wsj.com/business/earnings/mondelez-profit-sales-rise-on-emerging-market-growth-049ffe2a?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 20:40:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
-      "link": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 20:39:00 GMT",
-      "sentiment": 0.13333333333333333
     },
     {
       "title": "Gilead Sciences Lifts Sales Guidance on HIV Portfolio Strength",
@@ -91,16 +97,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "Caterpillar Sales Jump on Growing AI Demand, But Wall Street Wanted More",
-      "link": "https://www.wsj.com/business/earnings/caterpillar-sales-jump-but-wall-street-wanted-more-5762eee6?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 14:40:00 GMT",
-      "sentiment": 0.152
+      "title": "Air Canada Expects High Fuel Costs to Eat Further Into Profit",
+      "link": "https://www.wsj.com/business/earnings/air-canada-expects-high-fuel-costs-to-eat-further-into-profit-41aeac3e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 21:24:00 GMT",
+      "sentiment": 0.0011111111111111113
     },
     {
-      "title": "Intel Shares Tumble on Lower Profit, Weak Guidance",
+      "title": "Intel Shares Tumble on Disappointing Profit and Weak PC-Market Outlook",
       "link": "https://www.wsj.com/business/earnings/intel-shares-tumble-on-lower-profit-weak-guidance-a2bdcdd8?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 20:35:00 GMT",
-      "sentiment": -0.1875
+      "published": "Thu, 29 Oct 2026 21:12:00 GMT",
+      "sentiment": -0.24375
     },
     {
       "title": "Starbucks Same-Store Sales Climb on U.S. Growth",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/universal-music-logs-higher-revenue-as-subscriptions-streaming-pick-up-6d8a5721?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 17:15:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
-      "link": "https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 14:43:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
@@ -157,6 +157,12 @@
       "sentiment": -0.2
     },
     {
+      "title": "Opinion | Trump Scores on Methane Regulation",
+      "link": "https://www.wsj.com/opinion/trump-lubbock-texas-oil-drilling-epa-lee-zeldin-13b85d0d?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 21:47:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Opinion | New Energy for the U.S. Virgin Islands",
       "link": "https://www.wsj.com/opinion/new-energy-for-the-u-s-virgin-islands-e5e48756?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 20:42:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/how-do-investors-measure-social-impact-b42595c0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 16:35:00 GMT",
       "sentiment": 0.18666666666666668
-    },
-    {
-      "title": "Opinion | Is There a Case for Wealth Taxes?",
-      "link": "https://www.wsj.com/opinion/is-there-a-case-for-wealth-taxes-905123f5?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 27 Oct 2026 21:56:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
@@ -283,6 +283,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "How CEO Tony Xu Led DoorDash to Delivery Dominance",
+      "link": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 15:57:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "They Sold Everything to Live on a Cruise Ship. Now They’re Stuck in Cambodia.",
       "link": "https://www.wsj.com/business/hospitality/they-sold-everything-to-live-on-a-cruise-ship-now-theyre-stuck-in-cambodia-20d98d4f?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 23:01:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/earnings/brinker-lifts-forecast-as-chilis-drives-profit-a93ffd09?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 16:50:00 GMT",
       "sentiment": 0.4166666666666667
-    },
-    {
-      "title": "Cheesecake Factory Logs Higher Revenue After Double-Digit Growth at Namesake Restaurants",
-      "link": "https://www.wsj.com/business/earnings/cheesecake-factory-logs-higher-revenue-after-double-digit-growth-at-namesake-restaurants-2497190d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 27 Oct 2026 21:15:00 GMT",
-      "sentiment": 0.2833333333333333
     },
     {
       "title": "A Protein Pioneer Hikes Prices to Fund a Marketing Turnaround",
