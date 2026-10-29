@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "California’s High-Speed Rail Chief Quits Amid Questions About Spending",
+      "link": "https://www.nytimes.com/2026/10/29/us/choudri-resign-california-high-speed-rail.html",
+      "published": "Thu, 29 Oct 2026 17:47:35 +0000",
+      "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Hegseth Fires General He Accused of Leaking Information to the News Media",
+      "link": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
+      "published": "Thu, 29 Oct 2026 17:35:41 +0000",
+      "sentiment": 0.053125
+    },
+    {
       "title": "State Dept. to Shift Millions in Contraception Funding to Cover Energy Costs",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
-      "published": "Thu, 29 Oct 2026 16:31:52 +0000",
+      "published": "Thu, 29 Oct 2026 16:31:53 +0000",
       "sentiment": -0.012499999999999997
     },
     {
@@ -13,7 +25,7 @@
       "sentiment": 0.2
     },
     {
-      "title": "From a Billionaires Tax to Abortion Rights, Voters Will Decide Policy",
+      "title": "2026 Midterm Election Ballot Measures: What Races We’re Watching",
       "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html",
       "published": "Thu, 29 Oct 2026 16:20:30 +0000",
       "sentiment": 0.5
@@ -33,7 +45,7 @@
     {
       "title": "A Clash Over Trans Women in Sports Erupts at a Pro Soccer Game",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/portland-thorns-women-soccer-transgender.html",
-      "published": "Thu, 29 Oct 2026 16:03:32 +0000",
+      "published": "Thu, 29 Oct 2026 17:42:38 +0000",
       "sentiment": -0.15000000000000002
     },
     {
@@ -43,13 +55,13 @@
       "sentiment": 0.10000000000000002
     },
     {
-      "title": "Billionaire Tax Campaign Pins Its Hopes on Influencers and Social Media",
+      "title": "Campaign for California’s Billionaire Tax Pins Its Hopes on Influencers and Social Media",
       "link": "https://www.nytimes.com/2026/10/29/us/california-billionaire-tax-influencers.html",
       "published": "Thu, 29 Oct 2026 09:02:28 +0000",
       "sentiment": 0.016666666666666666
     },
     {
-      "title": "Candidate Websites Are Filled With A.I.-Written Text, Analysis Shows",
+      "title": "Websites For Midterm Candidates Are Filled With A.I.-Written Text, Analysis Shows",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
       "published": "Thu, 29 Oct 2026 11:55:40 +0000",
       "sentiment": 0.4
@@ -87,7 +99,7 @@
     {
       "title": "I Can Hear Everything",
       "link": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
-      "published": "Thu, 29 Oct 2026 16:54:31 +0000",
+      "published": "Thu, 29 Oct 2026 17:00:33 +0000",
       "sentiment": -0.3888888888888889
     },
     {
@@ -191,12 +203,6 @@
       "link": "https://www.nytimes.com/2026/10/28/us/politics/justice-dept-splc-informant.html",
       "published": "Wed, 28 Oct 2026 21:58:29 +0000",
       "sentiment": -0.05
-    },
-    {
-      "title": "System to Report Campaign Donations Restored After a Hacking Attempt",
-      "link": "https://www.nytimes.com/2026/10/28/us/fec-donations-reporting.html",
-      "published": "Wed, 28 Oct 2026 21:48:29 +0000",
-      "sentiment": -0.23333333333333328
     }
   ]
 }
