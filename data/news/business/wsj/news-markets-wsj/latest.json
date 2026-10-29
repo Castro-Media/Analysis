@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Futures Slump After Google Earnings Disappoint",
+      "title": "Stock Market Today: Alphabet Stock Sinks After Earnings, Dragging the Nasdaq",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 09:22:32 GMT",
-      "sentiment": -0.05
+      "sentiment": -0.2375
     },
     {
       "title": "What Big Oil Tells Us About AI Memory Stocks",
@@ -103,16 +103,22 @@
       "sentiment": 0.2
     },
     {
+      "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
+      "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 13:43:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Treasury Yields Fall Amid Hot U.S. Indicators",
+      "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 13:40:00 GMT",
+      "sentiment": 0.20833333333333331
+    },
+    {
       "title": "Bankers Still Sound Cautious About AI Boom",
       "link": "https://www.wsj.com/finance/investing/bankers-still-sound-cautious-about-ai-boom-94522118?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 10:30:00 GMT",
       "sentiment": 0.6333333333333333
-    },
-    {
-      "title": "AI Stocks Fall After Alphabet Earnings Disappoint",
-      "link": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 10:05:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Vonovia Shares Fall After German Landlord Warns of Tough Market",
@@ -127,10 +133,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Eurozone Bond Yields Fall Ahead of ECB Decision; French OATs Outperform",
-      "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 08:17:00 GMT",
-      "sentiment": 0.0
+      "title": "Nasdaq Slumps After Google Earnings Disappoint",
+      "link": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 13:52:00 GMT",
+      "sentiment": -0.2333333333333333
     },
     {
       "title": "Intercontinental Exchange Posts Higher Profit, Revenue",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-up-treasury-yields-mixed-after-fed-hold-0766f105?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 20:48:00 GMT",
       "sentiment": 0.12
-    },
-    {
-      "title": "Fed Leaves Rates Unchanged, Oil Tops $115",
-      "link": "https://www.wsj.com/finance/fed-leaves-rates-unchanged-oil-tops-115-f922556e?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 20:24:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | How Do Investors Measure ‘Social Impact’?",
@@ -229,10 +229,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Euro Could Extend Losses if ECB Sounds Cautious About Tightening",
+      "title": "Euro Hits 17-Month Low Vs Dollar After ECB Holds Rates Steady",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-data-1ac5a50c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 12:30:00 GMT",
-      "sentiment": 0.0
+      "published": "Thu, 29 Oct 2026 13:37:00 GMT",
+      "sentiment": 0.009523809523809521
     },
     {
       "title": "WSJ Dollar Index Falls 0.12% to 97.18",
@@ -295,6 +295,12 @@
       "sentiment": 0.2333333333333333
     },
     {
+      "title": "Fed Leaves Rates Unchanged, Oil Tops $115",
+      "link": "https://www.wsj.com/finance/fed-leaves-rates-unchanged-oil-tops-115-f922556e?mod=rss_markets_main",
+      "published": "Wed, 28 Oct 2026 20:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Firm That Pioneered Bankruptcy Law Is Winding Down Itself",
       "link": "https://www.wsj.com/pro/bankruptcy/the-firm-that-pioneered-bankruptcy-law-is-on-the-brink-itself-837a39a4?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 19:54:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 10:07:00 GMT",
       "sentiment": -0.225
-    },
-    {
-      "title": "Home Buyers Who Enjoyed Cheap Adjustable Mortgages Are Now Getting a Nasty Shock",
-      "link": "https://www.wsj.com/real-estate/home-buyers-who-enjoyed-cheap-adjustable-mortgages-are-now-getting-a-nasty-shock-6c5cf3fe?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.045
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 13:08:00 GMT",
+      "published": "Thu, 29 Oct 2026 13:12:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
