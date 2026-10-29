@@ -39,8 +39,8 @@
     {
       "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
       "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 13:43:00 GMT",
-      "sentiment": -0.2
+      "published": "Thu, 29 Oct 2026 14:20:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "DoorDash to Buy Instacart for $17 Billion",
@@ -67,6 +67,12 @@
       "sentiment": 0.05000000000000002
     },
     {
+      "title": "Caterpillar Sales Jump on Growing AI Demand, But Wall Street Wanted More",
+      "link": "https://www.wsj.com/business/earnings/caterpillar-sales-jump-but-wall-street-wanted-more-5762eee6?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 14:40:00 GMT",
+      "sentiment": 0.152
+    },
+    {
       "title": "A Protein Pioneer Hikes Prices to Fund a Marketing Turnaround",
       "link": "https://www.wsj.com/cmo-today/a-protein-pioneer-hikes-prices-to-fund-a-marketing-turnaround-99cabd2c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:46:00 GMT",
@@ -91,10 +97,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Adidas Maintains Optimism Despite Industry Woes",
-      "link": "https://www.wsj.com/business/earnings/adidas-posts-higher-net-profit-e0a9996e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 11:44:00 GMT",
-      "sentiment": 0.0375
+      "title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
+      "link": "https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 14:43:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Merck Revenue Up on Keytruda, Winrevair Growth",
+      "link": "https://www.wsj.com/health/pharma/merck-revenue-up-on-keytruda-winrevair-growth-2bfd96fc?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 14:26:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Shell Maximizes Diesel Production During Supply Crunch",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/harley-davidson-net-down-company-boosts-sales-volume-projection-60984e09?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 12:09:00 GMT",
       "sentiment": -0.05185185185185185
-    },
-    {
-      "title": "Norwegian Cruise Line Raises FY Outlook as 3Q Profit Rises",
-      "link": "https://www.wsj.com/business/earnings/norwegian-cruise-line-raises-fy-outlook-as-3q-profit-rises-248cce07?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 11:44:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Hershey’s Sales Rise Despite Growing Consumer Caution",
-      "link": "https://www.wsj.com/business/retail/hersheys-sales-rise-despite-growing-consumer-caution-ca82af2b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 11:40:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Hyundai Motor Cuts Annual Outlook as Profit Slump Continues",
@@ -193,6 +193,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks",
+      "link": "https://www.wsj.com/business/energy-oil/gulf-oil-giants-work-to-expand-overseas-storage-as-war-exposes-supply-risks-e9580e1c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 13:56:00 GMT",
+      "sentiment": -0.35
+    },
+    {
       "title": "Your Guide to Energy and Climate at the Midterms",
       "link": "https://www.wsj.com/politics/policy/your-guide-to-energy-and-climate-at-the-midterms-9b18d6ac?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:28:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-31493aec?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 20:56:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "U.S. Crude Oil Stockpiles Fall for Fourth Straight Week",
-      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-for-fourth-straight-week-81f21661?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 15:11:00 GMT",
-      "sentiment": -0.08571428571428572
     },
     {
       "title": "Airlines Are Touting Fancy Suites and Fast Wi-Fi. Why’s It Taking So Long?",
@@ -487,10 +487,10 @@
       "sentiment": -0.10138888888888889
     },
     {
-      "title": "Drug Middlemen Will Soon Have to Share Details on How They Are Paid",
-      "link": "https://www.wsj.com/health/healthcare/drug-middlemen-will-soon-have-to-share-details-on-how-they-are-paid-9dd31447?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 14:54:00 GMT",
-      "sentiment": 0.13636363636363635
+      "title": "DoorDash to Buy Instacart for $17 Billion",
+      "link": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 11:51:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in October 2026",
