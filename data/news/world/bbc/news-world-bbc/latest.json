@@ -1,10 +1,22 @@
 {
   "entries": [
     {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 20:21:54 GMT",
+      "sentiment": -0.1125
+    },
+    {
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 11:07:35 GMT",
       "sentiment": -0.02500000000000001
+    },
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 20:05:57 GMT",
+      "sentiment": 0.09166666666666667
     },
     {
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
@@ -25,22 +37,10 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 20:05:57 GMT",
-      "sentiment": 0.09166666666666667
-    },
-    {
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 17:02:59 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 15:47:20 GMT",
-      "sentiment": 0.23333333333333336
     },
     {
       "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
@@ -63,7 +63,7 @@
     {
       "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 20:15:05 GMT",
+      "published": "Thu, 29 Oct 2026 21:31:12 GMT",
       "sentiment": 0.018181818181818174
     },
     {
@@ -121,6 +121,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Watch: What leaked audio reveals about Spain train crash",
+      "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 20:50:25 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
       "link": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 14:49:25 GMT",
@@ -133,22 +139,16 @@
       "sentiment": 0.275
     },
     {
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 16:45:16 GMT",
-      "sentiment": -0.35
+      "title": "Young athlete and former minister among victims of Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 21:33:35 GMT",
+      "sentiment": -0.27999999999999997
     },
     {
       "title": "Europe's youth is on the march - but does anything actually unite them?",
       "link": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 00:33:11 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "What we know so far about deadly Spain train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 10:02:37 GMT",
-      "sentiment": 0.13333333333333333
     },
     {
       "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
