@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "National Constitution Center Names New Leader",
+      "link": "https://www.nytimes.com/2026/10/29/arts/design/national-constitution-center-hiram-chodosh.html",
+      "published": "Thu, 29 Oct 2026 15:20:36 +0000",
+      "sentiment": -0.015909090909090914
+    },
+    {
+      "title": "Answers to Your Questions About New York Times Midterm Election Coverage",
+      "link": "https://www.nytimes.com/2026/10/29/insider/questions-and-answers-about-midterm-election-coverage.html",
+      "published": "Thu, 29 Oct 2026 13:56:07 +0000",
+      "sentiment": 0.19318181818181818
+    },
+    {
       "title": "A Plan for Two Dans: How Democrats Manipulated Alaska’s Ballot",
       "link": "https://www.nytimes.com/2026/10/29/podcasts/the-daily/democrats-alaska-senate-midterms-dan-sullivan.html",
       "published": "Thu, 29 Oct 2026 10:00:06 +0000",
@@ -21,7 +33,7 @@
     {
       "title": "Candidate Websites Are Filled With A.I.-Written Text, Analysis Shows",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
-      "published": "Thu, 29 Oct 2026 11:55:39 +0000",
+      "published": "Thu, 29 Oct 2026 11:55:40 +0000",
       "sentiment": 0.4
     },
     {
@@ -61,15 +73,15 @@
       "sentiment": 0.05
     },
     {
-      "title": "Alaska Governor Orders Criminal Investigation Into Peltola Campaign",
+      "title": "Alaska Governor Orders Investigation Into Peltola Campaign Over Second Dan Sullivan Recruitment Claims",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
       "published": "Thu, 29 Oct 2026 07:22:59 +0000",
-      "sentiment": -0.13181818181818183
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
-      "published": "Thu, 29 Oct 2026 04:30:48 +0000",
+      "published": "Thu, 29 Oct 2026 15:29:34 +0000",
       "sentiment": -0.5
     },
     {
@@ -99,7 +111,7 @@
     {
       "title": "Officials Back Trump’s Claim That Triumphal Arch Is Needed for National Security",
       "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-arch-national-security.html",
-      "published": "Wed, 28 Oct 2026 21:28:38 +0000",
+      "published": "Thu, 29 Oct 2026 15:48:46 +0000",
       "sentiment": 0.0
     },
     {
@@ -119,24 +131,6 @@
       "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
       "published": "Wed, 28 Oct 2026 17:55:11 +0000",
       "sentiment": -0.05
-    },
-    {
-      "title": "Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads",
-      "link": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
-      "published": "Wed, 28 Oct 2026 19:57:38 +0000",
-      "sentiment": 0.033939393939393936
-    },
-    {
-      "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
-      "published": "Wed, 28 Oct 2026 14:37:47 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Democrats Eyeing 2028 Presidential Campaigns Begin Courting Donors and Operatives",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/2028-democrats.html",
-      "published": "Thu, 29 Oct 2026 00:32:04 +0000",
-      "sentiment": 0.3333333333333333
     }
   ]
 }

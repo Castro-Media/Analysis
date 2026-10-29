@@ -13,10 +13,22 @@
       "sentiment": 0.17550505050505052
     },
     {
-      "title": "In Marseille, Macron Confronts a Potent Mix of France’s Problems",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
-      "published": "Thu, 29 Oct 2026 09:03:02 +0000",
-      "sentiment": 0.17777777777777778
+      "title": "U.S. Hits Rwanda With New Sanctions Over a Conflict Trump Declared ‘Ended’",
+      "link": "https://www.nytimes.com/2026/10/29/world/africa/rwanda-sanctions-m23-congo.html",
+      "published": "Thu, 29 Oct 2026 15:18:05 +0000",
+      "sentiment": 0.19318181818181818
+    },
+    {
+      "title": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
+      "published": "Thu, 29 Oct 2026 14:05:07 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "Haiti Postpones Elections as Gang Violence Runs Rampant",
+      "link": "https://www.nytimes.com/2026/10/29/world/americas/haiti-elections-postponed-violence.html",
+      "published": "Thu, 29 Oct 2026 15:29:55 +0000",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
@@ -25,9 +37,15 @@
       "sentiment": 0.09999999999999998
     },
     {
+      "title": "In Marseille, Macron Confronts a Potent Mix of France’s Problems",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
+      "published": "Thu, 29 Oct 2026 09:03:02 +0000",
+      "sentiment": 0.17777777777777778
+    },
+    {
       "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
       "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-      "published": "Thu, 29 Oct 2026 10:32:00 +0000",
+      "published": "Thu, 29 Oct 2026 14:35:49 +0000",
       "sentiment": 0.03125
     },
     {
@@ -37,16 +55,16 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "How Netanyahu Used Fear, Again, to Win More Votes Than Anyone Else",
+      "title": "How Netanyahu Used Fear, Again, to Win Votes in the Israel Elections",
       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
       "published": "Thu, 29 Oct 2026 10:29:01 +0000",
-      "sentiment": 0.21666666666666667
+      "sentiment": 0.16
     },
     {
-      "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+      "title": "A Cease-Fire Melania Trump Announced Gives a City Brief Calm",
       "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
-      "published": "Thu, 29 Oct 2026 12:18:45 +0000",
-      "sentiment": 0.1
+      "published": "Thu, 29 Oct 2026 14:08:32 +0000",
+      "sentiment": 0.1142857142857143
     },
     {
       "title": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
@@ -61,28 +79,10 @@
       "sentiment": 0.2875
     },
     {
-      "title": "Tommy Robinson Found Guilty of Harassing 2 UK Journalists",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/tommy-robinson-harassment-verdict-court-uk.html",
-      "published": "Wed, 28 Oct 2026 15:22:59 +0000",
-      "sentiment": -0.15
-    },
-    {
       "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
       "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
       "published": "Wed, 28 Oct 2026 12:08:53 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-      "published": "Thu, 29 Oct 2026 06:01:06 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
-      "published": "Wed, 28 Oct 2026 05:18:10 +0000",
-      "sentiment": -0.225
     },
     {
       "title": "Russian Strike on Ukrainian Train Station Kills 14",
@@ -105,7 +105,7 @@
     {
       "title": "How Israel’s Election Could End",
       "link": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
-      "published": "Thu, 29 Oct 2026 13:12:28 +0000",
+      "published": "Thu, 29 Oct 2026 14:02:01 +0000",
       "sentiment": -0.025
     },
     {
@@ -117,7 +117,7 @@
     {
       "title": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
-      "published": "Thu, 29 Oct 2026 03:16:41 +0000",
+      "published": "Thu, 29 Oct 2026 14:33:10 +0000",
       "sentiment": 0.07142857142857142
     },
     {
@@ -147,7 +147,7 @@
     {
       "title": "How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election",
       "link": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
-      "published": "Wed, 28 Oct 2026 20:35:54 +0000",
+      "published": "Thu, 29 Oct 2026 14:44:20 +0000",
       "sentiment": 0.0
     },
     {
@@ -217,6 +217,18 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "title": "Tommy Robinson Found Guilty of Harassing 2 UK Journalists",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/tommy-robinson-harassment-verdict-court-uk.html",
+      "published": "Wed, 28 Oct 2026 15:22:59 +0000",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+      "published": "Thu, 29 Oct 2026 15:06:48 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "4 Takeaways From Israel’s Election",
       "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
       "published": "Wed, 28 Oct 2026 14:10:53 +0000",
@@ -271,6 +283,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
+      "published": "Wed, 28 Oct 2026 05:18:10 +0000",
+      "sentiment": -0.225
+    },
+    {
       "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
       "published": "Wed, 28 Oct 2026 04:01:09 +0000",
@@ -305,30 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html",
       "published": "Wed, 28 Oct 2026 02:00:13 +0000",
       "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Twice before, Netanyahu was ousted then returned to power.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/twice-before-netanyahu-was-ousted-then-returned-to-power",
-      "published": "Tue, 27 Oct 2026 19:45:18 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Israeli Voting Ends After Strong Turnout With No Clear Winner",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html",
-      "published": "Tue, 27 Oct 2026 23:03:21 +0000",
-      "sentiment": 0.17323232323232327
-    },
-    {
-      "title": "Before the election, Netanyahu offered a grim economic forecast for Israel.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
-      "published": "Wed, 28 Oct 2026 07:41:59 +0000",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Israeli elections have great consequences for Palestinians, but they don’t get to vote.",
-      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
-      "published": "Tue, 27 Oct 2026 19:18:48 +0000",
-      "sentiment": 0.8
     }
   ]
 }

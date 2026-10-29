@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Suspect in France Shootings Said He Targeted Muslims and Africans, Prosecutor Says",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-shootings-suspect.html",
+      "published": "Thu, 29 Oct 2026 14:05:07 +0000",
+      "sentiment": -0.025
+    },
+    {
       "title": "Russian Strike on Ukrainian Train Station Kills 14",
       "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
       "published": "Thu, 29 Oct 2026 13:45:35 +0000",
@@ -9,13 +15,13 @@
     {
       "title": "Volkswagen ‘Must Act Quickly’ After Largest Loss in Over a Decade",
       "link": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
-      "published": "Thu, 29 Oct 2026 12:02:20 +0000",
+      "published": "Thu, 29 Oct 2026 14:35:12 +0000",
       "sentiment": 0.2222222222222222
     },
     {
       "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
       "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-      "published": "Thu, 29 Oct 2026 10:32:00 +0000",
+      "published": "Thu, 29 Oct 2026 14:35:49 +0000",
       "sentiment": 0.03125
     },
     {
@@ -37,15 +43,15 @@
       "sentiment": -0.45340909090909093
     },
     {
-      "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+      "title": "A Cease-Fire Melania Trump Announced Gives a City Brief Calm",
       "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
-      "published": "Thu, 29 Oct 2026 12:18:45 +0000",
-      "sentiment": 0.1
+      "published": "Thu, 29 Oct 2026 14:08:32 +0000",
+      "sentiment": 0.1142857142857143
     },
     {
       "title": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
       "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
-      "published": "Thu, 29 Oct 2026 03:16:41 +0000",
+      "published": "Thu, 29 Oct 2026 14:33:10 +0000",
       "sentiment": 0.07142857142857142
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo/spain-train-crash-toledo",
       "published": "Wed, 28 Oct 2026 17:27:18 +0000",
       "sentiment": 0.17222222222222222
-    },
-    {
-      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
-      "published": "Wed, 28 Oct 2026 13:16:35 +0000",
-      "sentiment": -0.13333333333333333
     }
   ]
 }
