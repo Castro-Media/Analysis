@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Alphabet Stock Sinks After Earnings, Dragging the Nasdaq",
+      "title": "Stock Market Today: Alphabet Stock Sinks, Dragging Nasdaq Lower",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 09:22:32 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
+      "link": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 16:38:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "What Big Oil Tells Us About AI Memory Stocks",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 01:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Weil Gotshal Says It Is Shutting Its Doors",
-      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 00:59:00 GMT",
-      "sentiment": -0.22499999999999998
     },
     {
       "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
@@ -103,6 +103,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Billionaires Don’t Like the Wealth Tax. Here’s What Some Propose Instead.",
+      "link": "https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 16:42:00 GMT",
+      "sentiment": 0.11666666666666668
+    },
+    {
       "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
       "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 14:20:00 GMT",
@@ -127,16 +133,16 @@
       "sentiment": -0.034722222222222224
     },
     {
-      "title": "The Fed’s AI Puzzle: Will High Rates Slow the Boom?",
-      "link": "https://www.wsj.com/economy/central-banking/the-feds-ai-puzzle-will-high-rates-slow-the-boom-c9c43ce2?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 01:12:00 GMT",
-      "sentiment": 0.02749999999999999
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-fd780fc4?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 16:30:00 GMT",
+      "sentiment": 0.5
     },
     {
-      "title": "Nasdaq Slumps After Google Earnings Disappoint",
+      "title": "U.S. Stocks Fall After Alphabet Earnings Spark More AI Jitters",
       "link": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 13:52:00 GMT",
-      "sentiment": -0.2333333333333333
+      "published": "Thu, 29 Oct 2026 16:25:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Intercontinental Exchange Posts Higher Profit, Revenue",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 21:12:00 GMT",
       "sentiment": 0.07936507936507936
-    },
-    {
-      "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-up-treasury-yields-mixed-after-fed-hold-0766f105?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 20:48:00 GMT",
-      "sentiment": 0.12
     },
     {
       "title": "Opinion | How Do Investors Measure ‘Social Impact’?",
@@ -229,10 +229,10 @@
       "sentiment": 0.26666666666666666
     },
     {
-      "title": "Euro Hits 17-Month Low Vs Dollar After ECB Holds Rates Steady",
+      "title": "Euro Could Trade-Range Bound Vs Dollar After ECB Decision",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-data-1ac5a50c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 13:37:00 GMT",
-      "sentiment": 0.009523809523809521
+      "published": "Thu, 29 Oct 2026 15:59:00 GMT",
+      "sentiment": -0.08630952380952381
     },
     {
       "title": "WSJ Dollar Index Falls 0.12% to 97.18",
@@ -289,6 +289,12 @@
       "sentiment": 0.0037878787878787845
     },
     {
+      "title": "Weil Gotshal Says It Is Shutting Its Doors",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 00:59:00 GMT",
+      "sentiment": -0.22499999999999998
+    },
+    {
       "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
       "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 22:31:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/boring-stocks-are-beautiful-again-can-it-last-f484e1da?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 10:35:00 GMT",
       "sentiment": -0.05000000000000001
-    },
-    {
-      "title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
-      "link": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 10:07:00 GMT",
-      "sentiment": -0.225
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",

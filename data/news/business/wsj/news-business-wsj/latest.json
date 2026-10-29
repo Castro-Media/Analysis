@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Chevron Is Back to Searching for Oil and Gas in Far-Flung Places",
+      "link": "https://www.wsj.com/business/energy-oil/chevron-is-back-to-searching-for-oil-and-gas-in-far-flung-places-85082fbf?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 16:33:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Cheesecake Factory Is Over-the-Top, Gaudy and Bizarre. That’s the Point.",
+      "link": "https://www.wsj.com/style/design/cheesecake-factory-design-obama-de0e1bbc?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 16:07:00 GMT",
+      "sentiment": -0.04999999999999999
+    },
+    {
+      "title": "How CEO Tony Xu Led DoorDash to Delivery Dominance",
+      "link": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 15:57:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
       "link": "https://www.wsj.com/business/autos/trump-administration-promised-tariff-relief-in-talks-to-secure-u-s-audi-factory-da037c3f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:36:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/articles/the-extremely-valuable-question-linda-yaccarino-asks-her-team-bcdbdef0?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 09:54:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
-      "link": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 09:47:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Weil Gotshal Says It Is Shutting Its Doors",
-      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 00:59:00 GMT",
-      "sentiment": -0.22499999999999998
-    },
-    {
-      "title": "They Sold Everything to Live on a Cruise Ship. Now They’re Stuck in Cambodia.",
-      "link": "https://www.wsj.com/business/hospitality/they-sold-everything-to-live-on-a-cruise-ship-now-theyre-stuck-in-cambodia-20d98d4f?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 23:01:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
@@ -55,16 +55,22 @@
       "sentiment": 0.5
     },
     {
+      "title": "Weil Gotshal Says It Is Shutting Its Doors",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 00:59:00 GMT",
+      "sentiment": -0.22499999999999998
+    },
+    {
       "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
       "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 19:58:00 GMT",
       "sentiment": -0.10138888888888889
     },
     {
-      "title": "GE Vernova to Buy Grid-Equipment Manufacturer for $9 Billion as Energy Demand Grows",
-      "link": "https://www.wsj.com/business/energy-oil/ge-vernova-to-buy-high-voltage-grid-equipment-manufacturer-for-9-billion-b29dd2ef?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 14:18:00 GMT",
-      "sentiment": 0.05000000000000002
+      "title": "Burger King’s Turnaround Attracts Price-Conscious Diners as Sales Rise",
+      "link": "https://www.wsj.com/business/retail/restaurant-brands-international-profit-revenue-rise-on-u-s-burger-king-sales-c1546d0a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 16:05:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Caterpillar Sales Jump on Growing AI Demand, But Wall Street Wanted More",
@@ -77,12 +83,6 @@
       "link": "https://www.wsj.com/cmo-today/a-protein-pioneer-hikes-prices-to-fund-a-marketing-turnaround-99cabd2c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:46:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Restaurant Brands International Profit, Revenue Rise on U.S. Burger King Sales",
-      "link": "https://www.wsj.com/business/retail/restaurant-brands-international-profit-revenue-rise-on-u-s-burger-king-sales-c1546d0a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 13:46:00 GMT",
-      "sentiment": 0.18666666666666668
     },
     {
       "title": "Intercontinental Exchange Posts Higher Profit, Revenue",
@@ -283,6 +283,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "They Sold Everything to Live on a Cruise Ship. Now They’re Stuck in Cambodia.",
+      "link": "https://www.wsj.com/business/hospitality/they-sold-everything-to-live-on-a-cruise-ship-now-theyre-stuck-in-cambodia-20d98d4f?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 23:01:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "MGM Says Deal Talks With Barry Diller’s People Incorporated Are Over",
       "link": "https://www.wsj.com/business/hospitality/mgm-resorts-revenue-ticks-down-on-lower-room-rates-in-las-vegas-ea6f90af?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 22:57:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/earnings/cheesecake-factory-logs-higher-revenue-after-double-digit-growth-at-namesake-restaurants-2497190d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 27 Oct 2026 21:15:00 GMT",
       "sentiment": 0.2833333333333333
-    },
-    {
-      "title": "DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
-      "link": "https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 19:52:00 GMT",
-      "sentiment": 0.4
     },
     {
       "title": "The Cheesecake Factory Is Doing Just Fine Without the Political Discourse",
@@ -433,6 +433,12 @@
       "sentiment": -0.0625
     },
     {
+      "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
+      "link": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 09:47:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
       "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 22:31:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": -0.15555555555555556
     },
     {
-      "title": "The ‘Touchy-Feely’ Lessons of a Family Firm That Has Never Had a Layoff in 75 Years",
-      "link": "https://www.wsj.com/lifestyle/careers/the-touchy-feely-lessons-of-a-family-firm-that-has-never-had-a-layoff-in-75-years-149f9958?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 15:00:00 GMT",
-      "sentiment": 0.09999999999999999
-    },
-    {
       "title": "Weil Gotshal Says It Is Shutting Its Doors",
       "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 00:59:00 GMT",
@@ -481,16 +481,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
-      "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 19:58:00 GMT",
-      "sentiment": -0.10138888888888889
-    },
-    {
       "title": "DoorDash to Buy Instacart for $17 Billion",
       "link": "https://www.wsj.com/business/deals/doordash-to-buy-instacart-for-17-billion-7d6a6f3f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 11:51:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Microsoft Quarterly Profit Soars as Cloud Growth Accelerates",
+      "link": "https://www.wsj.com/tech/microsoft-msft-q1-earnings-report-2027-stock-5809ce40?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 23:12:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Best Small-Business Loans in October 2026",

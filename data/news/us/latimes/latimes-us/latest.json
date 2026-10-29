@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Federal judge blocks ICE from making racially discriminatory stops in Southern California",
+      "link": "https://www.latimes.com/california/story/2026-10-29/federal-judge-blocks-racial-profiling-stops",
+      "published": "Thu, 29 Oct 2026 16:41:47 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Dark and stormy weather coming to SoCal, just in time for Halloween",
+      "link": "https://www.latimes.com/california/story/2026-10-29/rain-socal-forecast-halloween",
+      "published": "Thu, 29 Oct 2026 16:29:32 GMT",
+      "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "California High-Speed Rail Authority boss Ian Choudri resigns under fire",
+      "link": "https://www.latimes.com/california/story/2026-10-29/californias-high-speed-rail-authority-boss-choudri-resigns-under-fire",
+      "published": "Thu, 29 Oct 2026 15:50:54 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "SoCal coast braces for more flooding as El Niño's high tides break records",
       "link": "https://www.latimes.com/california/story/2026-10-29/socal-coast-braces-for-more-flooding-as-el-ninos-high-tides-break-records",
       "published": "Thu, 29 Oct 2026 14:32:21 GMT",
@@ -13,28 +31,10 @@
       "sentiment": 0.06666666666666668
     },
     {
-      "title": "Amid Flock backlash, LAPD moves forward with license plate readers from another company",
-      "link": "https://www.latimes.com/california/story/2026-10-29/flock-safety-lapd-axon-contract",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
       "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": -0.03787878787878788
-    },
-    {
-      "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
-      "link": "https://www.latimes.com/california/story/2026-10-29/raman-leads-among-younger-voters-polls-show-but-bass-isnt-conceding-any-ground",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "Arellano: How the Bass campaign channels one of L.A.'s most infamous mayoral races",
-      "link": "https://www.latimes.com/california/story/2026-10-29/karen-bass-sam-yorty-los-angeles-mayoral-race",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.09333333333333334
     },
     {
       "title": "L.A. city and county fend off a court battle over homeless services",
@@ -49,16 +49,34 @@
       "sentiment": -0.26666666666666666
     },
     {
+      "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
+      "link": "https://www.latimes.com/california/story/2026-10-29/raman-leads-among-younger-voters-polls-show-but-bass-isnt-conceding-any-ground",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
+      "title": "Arellano: How the Bass campaign channels one of L.A.'s most infamous mayoral races",
+      "link": "https://www.latimes.com/california/story/2026-10-29/karen-bass-sam-yorty-los-angeles-mayoral-race",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.09333333333333334
+    },
+    {
+      "title": "Amid Flock backlash, LAPD moves forward with license plate readers from another company",
+      "link": "https://www.latimes.com/california/story/2026-10-29/flock-safety-lapd-axon-contract",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.018181818181818174
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram—with paid influencers",
+      "title": "Billionaire tax battle heats up on Instagram with unlikely influencers paid to pick sides",
       "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.03333333333333333
+      "sentiment": -0.23333333333333334
     },
     {
       "title": "A man with a knife and another one with a grin. Wendy's encounter goes viral",
@@ -157,22 +175,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Proposition 45 would sideline dozens of tribes from input on major California projects",
-      "link": "https://www.latimes.com/environment/story/2026-10-28/prop-45-would-bar-dozens-of-tribes-from-consulting-on-development-projects",
-      "published": "Wed, 28 Oct 2026 11:00:00 GMT",
-      "sentiment": 0.11607142857142856
-    },
-    {
       "title": "Teens work, drive and pay taxes. But should they vote? This California city will soon decide",
       "link": "https://www.latimes.com/california/story/2026-10-28/la-me-culver-city-youth-vote-election",
       "published": "Wed, 28 Oct 2026 11:00:00 GMT",
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Surprising close encounters with marine predators in California bring awe and fear",
-      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.22500000000000003
+      "title": "Proposition 45 would sideline dozens of tribes from input on major California projects",
+      "link": "https://www.latimes.com/environment/story/2026-10-28/prop-45-would-bar-dozens-of-tribes-from-consulting-on-development-projects",
+      "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+      "sentiment": 0.11607142857142856
     },
     {
       "title": "Your last-minute guide to California governor candidates' views on gas prices, EVs and high-speed rail",
@@ -185,6 +197,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-28/nithya-raman-learning-spanish",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Surprising close encounters with marine predators in California bring awe and fear",
+      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.22500000000000003
     },
     {
       "title": "Marissa Roy's lead grows over John McKinney in L.A. city attorney race, latest poll shows",
@@ -367,16 +385,16 @@
       "sentiment": 0.02
     },
     {
-      "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
-      "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.00833333333333334
-    },
-    {
       "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
       "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": -0.2
+    },
+    {
+      "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
+      "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.00833333333333334
     },
     {
       "title": "Chabria: California votes. Trump's Justice Department panics",
@@ -427,16 +445,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.24722222222222223
-    },
-    {
       "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
       "link": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.23200000000000004
+    },
+    {
+      "title": "Chabria: What decent people get wrong about the Amy Acton ad",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.24722222222222223
     },
     {
       "title": "Group of men in 'Scream' masks raped a woman in 2017. The first suspect was just arrested",
@@ -481,16 +499,16 @@
       "sentiment": 0.2523809523809524
     },
     {
-      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
-      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05277777777777778
-    },
-    {
       "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
       "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
       "sentiment": 0.099375
+    },
+    {
+      "title": "Trump wants to strip California of coastal protections unless state yields to list of demands",
+      "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
@@ -499,10 +517,10 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Trump wants to strip California of coastal protections unless state yields to list of demands",
-      "link": "https://www.latimes.com/environment/story/2026-10-24/trump-administration-will-strip-california-of-coastal-protections",
+      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
+      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
+      "sentiment": -0.05277777777777778
     },
     {
       "title": "'This is not normal': Feds demand California counties set aside 'likely' noncitizen ballots",
@@ -545,24 +563,6 @@
       "link": "https://www.latimes.com/travel/story/2026-10-23/hotel-clark-dtla-reopening",
       "published": "Fri, 23 Oct 2026 17:52:18 GMT",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Mediator to help decide whether Nick Reiner's trust fund can pay for murder case defense",
-      "link": "https://www.latimes.com/california/story/2026-10-23/mediator-nick-reiner-trust-fund-murder-case-defense",
-      "published": "Fri, 23 Oct 2026 17:15:25 GMT",
-      "sentiment": 0.11111111111111112
-    },
-    {
-      "title": "'His wheels weren't hot enough': California police bust $54,000 Hot Wheels thief",
-      "link": "https://www.latimes.com/california/story/2026-10-23/hot-wheels-train-theft-colton-police-recover-54-000-in-stolen-toys",
-      "published": "Fri, 23 Oct 2026 16:08:46 GMT",
-      "sentiment": 0.21000000000000002
-    },
-    {
-      "title": "ICE agents tackle and injure U.S. citizen student with disabilities, local officials say",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/santa-maria-high-school-student-u-s-citizen-is-injured-as-ice-detains-him",
-      "published": "Fri, 23 Oct 2026 16:08:06 GMT",
-      "sentiment": -0.3499999999999999
     }
   ]
 }
