@@ -73,12 +73,6 @@
       "sentiment": -0.1875
     },
     {
-      "title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
-      "link": "https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 06:52:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Societe Generale Posts Profit, Revenue Increase in 3Q",
       "link": "https://www.wsj.com/business/earnings/societe-generale-posts-profit-revenue-increase-in-3q-3a3e34ee?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 06:26:00 GMT",
@@ -100,6 +94,18 @@
       "title": "Standard Chartered Posts Net Profit Beat, Raises Guidance",
       "link": "https://www.wsj.com/finance/banking/standard-chartered-quarterly-net-profit-jumps-raises-income-guidance-22a84a62?mod=rss_markets_main",
       "published": "Wed, 28 Oct 2026 06:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-43324d13?mod=rss_markets_main",
+      "published": "Tue, 27 Oct 2026 20:53:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Eurozone Bond Yields Fall Ahead of ECB Decision; French OATs Outperform",
+      "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 08:17:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -127,16 +133,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-ahead-of-federal-reserve-interest-rate-decision-b1f7ef58?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 20:00:00 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Nikkei Rises 0.6%, Led by AI-Related Stocks",
+      "title": "European Stock Indexes Mostly Higher",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-ai-related-stocks-854322dd?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 00:23:00 GMT",
-      "sentiment": -0.2916666666666667
+      "published": "Thu, 29 Oct 2026 08:29:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "U.S. Stocks Narrowly Mixed Following Fed Decision",
@@ -199,16 +199,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Gold Falls as Investors Assess Fed Signals, Await Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 08:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Treasury Yields Fall as Investors Digest Fed Meet, Focus Shifts to ECB",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-treasury-yields-fall-as-investors-digest-fed-meet-focus-shifts-to-ecb-d29ffbec?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 07:27:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Falls as Traders Weigh Middle East Risks",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 01:21:00 GMT",
       "sentiment": 0.0875
-    },
-    {
-      "title": "Gold Falls as Traders Mull Fed Decision",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 00:38:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "U.S. Natural Gas Futures Gain As November Contract Expires",
@@ -223,15 +229,9 @@
       "sentiment": 0.046666666666666676
     },
     {
-      "title": "Gold Settles Lower Ahead of Fed Decision",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-clings-to-gains-above-4-000-as-markets-await-fed-90e73d3c?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 17:43:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Singapore Dollar Strengthens as Investors Turn to U.S. Econ Data",
+      "title": "Euro Falls Ahead of ECB Decision",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-data-1ac5a50c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 03:47:00 GMT",
+      "published": "Thu, 29 Oct 2026 08:23:00 GMT",
       "sentiment": 0.0
     },
     {
