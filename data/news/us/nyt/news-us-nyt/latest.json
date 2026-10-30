@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Minnesota Declined to Buy a Prison for $75 Million. D.H.S. Paid $495 Million.",
+      "link": "https://www.nytimes.com/2026/10/30/us/minnesota-prison-homeland-security.html",
+      "published": "Fri, 30 Oct 2026 22:15:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Alina Habba’s Husband Ignited Drama in Trump’s Circle. Now He’s Under Scrutiny.",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/alina-habba-turhan-mildon-trump-congo-venezuela.html",
+      "published": "Fri, 30 Oct 2026 21:58:18 +0000",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "Boo! Trump’s Flyover Treat Is a Trick for Some Startled D.C. Residents",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html",
+      "published": "Fri, 30 Oct 2026 21:53:20 +0000",
+      "sentiment": 0.09444444444444444
+    },
+    {
       "title": "Appeals Court Again Rejects Trump Effort to Impound California Ballots",
       "link": "https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html",
       "published": "Fri, 30 Oct 2026 20:25:06 +0000",
@@ -33,8 +51,8 @@
     {
       "title": "El-Sayed’s Former Primary Rival Demands Apology Ahead of Joint Midterms Appearance",
       "link": "https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html",
-      "published": "Fri, 30 Oct 2026 20:13:31 +0000",
-      "sentiment": 0.275
+      "published": "Fri, 30 Oct 2026 22:36:44 +0000",
+      "sentiment": 0.225
     },
     {
       "title": "Steve Hilton Tries Anything as a G.O.P. Long Shot in California",
@@ -221,30 +239,6 @@
       "link": "https://www.nytimes.com/2026/10/29/us/politics/alaska-senate-ballots-peltola-trump.html",
       "published": "Thu, 29 Oct 2026 22:55:34 +0000",
       "sentiment": -0.05
-    },
-    {
-      "title": "Trump Erupted After Learning of Alina Habba’s $50 Million Deal",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
-      "published": "Thu, 29 Oct 2026 22:54:38 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Seeing an opening, a Democratic super PAC decides to spend on the South Carolina Senate race.",
-      "link": "https://www.nytimes.com/live/2026/10/29/us/midterms-elections-trump/seeing-an-opening-a-democratic-super-pac-decides-to-spend-on-the-south-carolina-senate-race",
-      "published": "Thu, 29 Oct 2026 22:52:36 +0000",
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Trump Attacks Black and Jewish Supporters of El-Sayed as ‘Crazy’",
-      "link": "https://www.nytimes.com/2026/10/29/us/elections/trump-jewish-arab-el-sayed-supporters.html",
-      "published": "Thu, 29 Oct 2026 22:22:19 +0000",
-      "sentiment": -0.15333333333333332
-    },
-    {
-      "title": "Oberlin College Professor and His Wife Are Murdered by His Son, Police Say",
-      "link": "https://www.nytimes.com/2026/10/29/us/oberlin-college-professor-murdered.html",
-      "published": "Thu, 29 Oct 2026 23:30:53 +0000",
-      "sentiment": 0.0
     }
   ]
 }
