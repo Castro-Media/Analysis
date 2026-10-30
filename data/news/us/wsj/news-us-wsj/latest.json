@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Flu’s Back Way Sooner Than Normal. Here’s What to Know.",
+      "link": "https://www.wsj.com/health/flus-back-way-sooner-than-normal-heres-what-to-know-ac1cc96f?mod=rss_usnews",
+      "published": "Fri, 30 Oct 2026 17:40:00 GMT",
+      "sentiment": 0.085
+    },
+    {
+      "title": "A New Matthew Perry Documentary Reminds Us of the Dangers of Ketamine Use",
+      "link": "https://www.wsj.com/health/wellness/a-new-matthew-perry-documentary-reminds-us-of-the-dangers-of-ketamine-use-a58cb517?mod=rss_usnews",
+      "published": "Fri, 30 Oct 2026 16:55:00 GMT",
+      "sentiment": 0.0909090909090909
+    },
+    {
       "title": "Christa Pike Recounts Botched Execution in First Public Comments",
       "link": "https://www.wsj.com/us-news/law/christa-pike-recounts-botched-execution-in-first-public-comments-a891b5dd?mod=rss_usnews",
       "published": "Fri, 30 Oct 2026 15:45:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_usnews",
       "published": "Thu, 29 Oct 2026 16:42:00 GMT",
       "sentiment": 0.11666666666666668
-    },
-    {
-      "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
-      "link": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_usnews",
-      "published": "Thu, 29 Oct 2026 16:38:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Justice Department Push Against Trump’s Foes Reaches Higher Gear",
-      "link": "https://www.wsj.com/us-news/law/justice-department-push-against-trumps-foes-reaches-higher-gear-a06110ed?mod=rss_usnews",
-      "published": "Wed, 28 Oct 2026 17:26:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "The Baby Bust Is Forcing a Reckoning at Public Schools",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?",
+      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_usnews",
+      "published": "Fri, 30 Oct 2026 17:23:00 GMT",
+      "sentiment": -0.03749999999999998
+    },
+    {
       "title": "Bayer Shares Rise After Win in First Roundup Trial Since Supreme Court Ruling",
       "link": "https://www.wsj.com/us-news/law/bayer-wins-first-u-s-trial-over-roundup-since-supreme-court-ruling-051d1880?mod=rss_usnews",
       "published": "Fri, 30 Oct 2026 10:50:00 GMT",
@@ -85,16 +91,10 @@
       "sentiment": -0.020833333333333332
     },
     {
-      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
-      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_usnews",
-      "published": "Wed, 28 Oct 2026 22:31:00 GMT",
-      "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "Grand Jury Declines to Indict Former White House Aide Cassidy Hutchinson",
-      "link": "https://www.wsj.com/us-news/law/grand-jury-declines-to-indict-former-white-house-aide-cassidy-hutchinson-0d84a819?mod=rss_usnews",
-      "published": "Tue, 27 Oct 2026 23:42:00 GMT",
-      "sentiment": 0.0
+      "title": "Justice Department Push Against Trump’s Foes Reaches Higher Gear",
+      "link": "https://www.wsj.com/us-news/law/justice-department-push-against-trumps-foes-reaches-higher-gear-a06110ed?mod=rss_usnews",
+      "published": "Wed, 28 Oct 2026 17:26:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "A Disappearing Rio Grande Is Reshaping Life Along the River",
@@ -163,10 +163,22 @@
       "sentiment": -0.2818181818181818
     },
     {
+      "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
+      "link": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_usnews",
+      "published": "Thu, 29 Oct 2026 16:38:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Longtime Labor Organizer Dolores Huerta Dies at 96",
       "link": "https://www.wsj.com/us-news/longtime-labor-organizer-dolores-huerta-dies-at-96-a755d6ff?mod=rss_usnews",
       "published": "Wed, 28 Oct 2026 16:36:00 GMT",
       "sentiment": 0.1875
+    },
+    {
+      "title": "Grand Jury Declines to Indict Former White House Aide Cassidy Hutchinson",
+      "link": "https://www.wsj.com/us-news/law/grand-jury-declines-to-indict-former-white-house-aide-cassidy-hutchinson-0d84a819?mod=rss_usnews",
+      "published": "Tue, 27 Oct 2026 23:42:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Alexander Brothers, Former Real-Estate Stars, Sentenced to 30 Years in Prison",
@@ -179,18 +191,6 @@
       "link": "https://www.wsj.com/politics/policy/conservatives-and-liberals-agree-on-many-of-these-policies-do-you-too-ed9a36eb?mod=rss_usnews",
       "published": "Tue, 27 Oct 2026 14:03:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Judge Bars Trump Administration From Cutting More Trees on D.C. Golf Course",
-      "link": "https://www.wsj.com/politics/policy/judge-bars-trump-administration-from-cutting-more-trees-on-d-c-golf-course-54670223?mod=rss_usnews",
-      "published": "Tue, 27 Oct 2026 04:07:00 GMT",
-      "sentiment": 0.03333333333333335
-    },
-    {
-      "title": "Justice Department Charges James Comey Again",
-      "link": "https://www.wsj.com/us-news/law/justice-department-charges-james-comey-again-e5c19c22?mod=rss_usnews",
-      "published": "Tue, 27 Oct 2026 00:17:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Seattle’s Mayor Ran as a Socialist. Then She Ran Into Reality.",
