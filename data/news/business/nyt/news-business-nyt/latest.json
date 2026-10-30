@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+      "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+      "published": "Fri, 30 Oct 2026 20:42:59 +0000",
+      "sentiment": 0.31999999999999995
+    },
+    {
+      "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
+      "link": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
+      "published": "Fri, 30 Oct 2026 20:09:36 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Why Kalshi Wants to Repeal a 1958 Law About Onions",
       "link": "https://www.nytimes.com/2026/10/30/business/kalshi-onion-futures-act-1958.html",
       "published": "Fri, 30 Oct 2026 19:18:36 +0000",
@@ -9,7 +21,7 @@
     {
       "title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
       "link": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
-      "published": "Fri, 30 Oct 2026 18:27:21 +0000",
+      "published": "Fri, 30 Oct 2026 20:49:26 +0000",
       "sentiment": 0.0
     },
     {
@@ -49,10 +61,10 @@
       "sentiment": 0.1
     },
     {
-      "title": "Tech Stocks Tumble, Putting Pressure on Broader Market",
+      "title": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
       "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-      "published": "Fri, 30 Oct 2026 18:59:54 +0000",
-      "sentiment": -0.225
+      "published": "Fri, 30 Oct 2026 20:40:47 +0000",
+      "sentiment": -1.0
     },
     {
       "title": "High Prices Haunt Trump and the GOP on Eve of the Midterms",
@@ -63,7 +75,7 @@
     {
       "title": "Why the Markets Don’t Care About the Midterms",
       "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
-      "published": "Fri, 30 Oct 2026 17:13:32 +0000",
+      "published": "Fri, 30 Oct 2026 20:36:05 +0000",
       "sentiment": 0.3333333333333333
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
       "published": "Wed, 28 Oct 2026 09:06:04 +0000",
       "sentiment": -0.022222222222222227
-    },
-    {
-      "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
-      "link": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
-      "published": "Wed, 28 Oct 2026 16:36:07 +0000",
-      "sentiment": 0.022222222222222216
-    },
-    {
-      "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs",
-      "link": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-      "published": "Wed, 28 Oct 2026 16:40:52 +0000",
-      "sentiment": 0.12878787878787878
     }
   ]
 }
