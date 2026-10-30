@@ -1,16 +1,40 @@
 {
   "entries": [
     {
+      "title": "'They come in droves': How robotaxis hog EV chargers in one corner of Southern California",
+      "link": "https://www.latimes.com/business/story/2026-10-30/they-come-in-droves-how-robotaxis-are-hogging-ev-chargers-in-one-corner-of-southern-california",
+      "published": "Fri, 30 Oct 2026 13:02:37 GMT",
+      "sentiment": 0.225
+    },
+    {
       "title": "Commentary: California's super-rich conquered the world, but not always the voters",
       "link": "https://www.latimes.com/california/story/2026-10-30/californias-super-rich-conquered-world-but-not-always-voters",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
     },
     {
+      "title": "Your last-minute guide to the L.A. Community College District elections",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-community-college-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.8
+    },
+    {
+      "title": "Your last-minute guide to L.A. County Superior Court judge elections",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-superior-court-judges-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
       "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Your last-minute guide to in-person voting for California's general election",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-general-election-in-person-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
@@ -49,22 +73,10 @@
       "sentiment": -0.15000000000000002
     },
     {
-      "title": "Your last-minute guide to the L.A. Community College District elections",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-community-college-last-minute-voter-guide",
+      "title": "Your last-minute guide to obscure but important L.A. County election races",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-important-races-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.8
-    },
-    {
-      "title": "Your last-minute guide to L.A. County Superior Court judge elections",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-superior-court-judges-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Your last-minute guide to in-person voting for California's general election",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-general-election-in-person-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.05000000000000002
+      "sentiment": 0.4
     },
     {
       "title": "Democrats are the wild card in House race between two SoCal Republicans",
@@ -73,28 +85,10 @@
       "sentiment": 0.025
     },
     {
-      "title": "Your last-minute guide to obscure but important L.A. County election races",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-important-races-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Arson, conspiracy are behind devastating Old Town Newhall fire, authorities say; 4 arrested",
-      "link": "https://www.latimes.com/california/story/2026-10-30/arson-conspiracy-are-behind-devastating-old-town-newhall-fire-authorities-say-4-arrested",
+      "title": "L.A.'s Westside once bragged about not needing air conditioning. This year's heat changed that",
+      "link": "https://www.latimes.com/california/story/2026-10-30/coastal-la-once-went-without-a-c-record-heat-changed-that",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.3916666666666666
-    },
-    {
-      "title": "Newsom announces a state 'strike force' to smooth path for 2028 Olympics",
-      "link": "https://www.latimes.com/california/story/2026-10-30/newsom-announces-28-olympics-state-strike-force",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.24861111111111112
-    },
-    {
-      "title": "Cal Fire has a new app. It looks a lot like Watch Duty",
-      "link": "https://www.latimes.com/environment/story/2026-10-30/why-cal-fire-made-watch-duty-competitor",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3181818181818182
+      "sentiment": -0.0625
     },
     {
       "title": "L.A.'s Black leaders uneasy about Bass' prospects amid declining clout at City Hall",
@@ -109,16 +103,28 @@
       "sentiment": 0.22000000000000003
     },
     {
-      "title": "L.A.'s Westside once bragged about not needing air conditioning. This year's heat changed that",
-      "link": "https://www.latimes.com/california/story/2026-10-30/coastal-la-once-went-without-a-c-record-heat-changed-that",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0625
-    },
-    {
       "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Cal Fire has a new app. It looks a lot like Watch Duty",
+      "link": "https://www.latimes.com/environment/story/2026-10-30/why-cal-fire-made-watch-duty-competitor",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.3181818181818182
+    },
+    {
+      "title": "Arson, conspiracy are behind devastating Old Town Newhall fire, authorities say; 4 arrested",
+      "link": "https://www.latimes.com/california/story/2026-10-30/arson-conspiracy-are-behind-devastating-old-town-newhall-fire-authorities-say-4-arrested",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.3916666666666666
+    },
+    {
+      "title": "Newsom announces a state 'strike force' to smooth path for 2028 Olympics",
+      "link": "https://www.latimes.com/california/story/2026-10-30/newsom-announces-28-olympics-state-strike-force",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.24861111111111112
     },
     {
       "title": "Fierce debate as California changes course in central water hub",
@@ -199,22 +205,10 @@
       "sentiment": 0.06666666666666668
     },
     {
-      "title": "Amid Flock backlash, LAPD moves forward with license plate readers from another company",
-      "link": "https://www.latimes.com/california/story/2026-10-29/flock-safety-lapd-axon-contract",
+      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
-      "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.03787878787878788
-    },
-    {
-      "title": "L.A. city and county fend off a court battle over homeless services",
-      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05
+      "sentiment": 0.018181818181818174
     },
     {
       "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
@@ -229,16 +223,28 @@
       "sentiment": -0.09333333333333334
     },
     {
-      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
+      "title": "L.A. city and county fend off a court battle over homeless services",
+      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.018181818181818174
+      "sentiment": -0.05
     },
     {
-      "title": "Billionaire tax battle heats up on Instagram with unlikely influencers paid to pick sides",
+      "title": "Amid Flock backlash, LAPD moves forward with license plate readers from another company",
+      "link": "https://www.latimes.com/california/story/2026-10-29/flock-safety-lapd-axon-contract",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI",
+      "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.03787878787878788
+    },
+    {
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
       "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.23333333333333334
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "A man with a knife and another one with a grin. Wendy's encounter goes viral",
@@ -349,16 +355,16 @@
       "sentiment": 0.11607142857142856
     },
     {
+      "title": "Living near Hollywood sign means cars, diapers, bottles of urine. Neighbors say they've had it",
+      "link": "https://www.latimes.com/california/story/2026-10-28/hollywood-sign-lawsuit-neighbor-speaks-out-traffic-james-bottles-urine",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.040000000000000015
+    },
+    {
       "title": "Arellano: Nithya Raman is learning Spanish. What that says about her vision for L.A.",
       "link": "https://www.latimes.com/california/story/2026-10-28/nithya-raman-learning-spanish",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Surprising close encounters with marine predators in California bring awe and fear",
-      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.22500000000000003
     },
     {
       "title": "Marissa Roy's lead grows over John McKinney in L.A. city attorney race, latest poll shows",
@@ -367,22 +373,22 @@
       "sentiment": 0.4047619047619047
     },
     {
-      "title": "Living near Hollywood sign means cars, diapers, bottles of urine. Neighbors say they've had it",
-      "link": "https://www.latimes.com/california/story/2026-10-28/hollywood-sign-lawsuit-neighbor-speaks-out-traffic-james-bottles-urine",
+      "title": "Surprising close encounters with marine predators in California bring awe and fear",
+      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.040000000000000015
-    },
-    {
-      "title": "Desperate mom-and-pops turn to risky cash advances in tough economy — and can get burned",
-      "link": "https://www.latimes.com/california/story/2026-10-28/small-business-merchant-cash-advances-risks",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.03507936507936509
+      "sentiment": 0.22500000000000003
     },
     {
       "title": "Your last-minute guide to California governor candidates' views on gas prices, EVs and high-speed rail",
       "link": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "sentiment": 0.1366666666666667
+    },
+    {
+      "title": "Desperate mom-and-pops turn to risky cash advances in tough economy — and can get burned",
+      "link": "https://www.latimes.com/california/story/2026-10-28/small-business-merchant-cash-advances-risks",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.03507936507936509
     },
     {
       "title": "Amid rash of unusually high DWP bills, board suspends shutoffs for nonpayment",
@@ -463,6 +469,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Measure A could radically alter L.A. County labor talks. There's been little debate",
+      "link": "https://www.latimes.com/california/story/2026-10-27/measure-could-alter-la-county-labor-talks-theres-little-debate",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.10416666666666667
+    },
+    {
       "title": "Deaf workers lose thousands in power tools to thieves, have group hug, vow to 'keep going'",
       "link": "https://www.latimes.com/california/story/2026-10-27/brazen-thieves-steal-power-tools-from-deaf-construction-crew",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
@@ -485,12 +497,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
       "sentiment": -0.00444444444444444
-    },
-    {
-      "title": "Measure A could radically alter L.A. County labor talks. There's been little debate",
-      "link": "https://www.latimes.com/california/story/2026-10-27/measure-could-alter-la-county-labor-talks-theres-little-debate",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.10416666666666667
     },
     {
       "title": "DSA's national leaders postpone decision on rescinding Raman's endorsement for mayor",
@@ -547,22 +553,16 @@
       "sentiment": 0.02
     },
     {
-      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
-      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
+      "title": "Chabria: California votes. Trump's Justice Department panics",
+      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2
+      "sentiment": 0.3
     },
     {
       "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
       "link": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": -0.00833333333333334
-    },
-    {
-      "title": "Chabria: California votes. Trump's Justice Department panics",
-      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3
     }
   ]
 }
