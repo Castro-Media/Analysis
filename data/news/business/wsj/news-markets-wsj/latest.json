@@ -1,10 +1,28 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
+      "title": "Stock Market Today: Tech Selloff Pushes Nasdaq to Its Worst Month in Over a Year",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 08:44:05 GMT",
       "sentiment": -0.5333333333333333
+    },
+    {
+      "title": "Stocks Slide, Intel Plunges, Binance Hacked",
+      "link": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 20:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Natural Gas Futures Fall on Mild Weather Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 20:28:00 GMT",
+      "sentiment": 0.07976190476190474
+    },
+    {
+      "title": "The Week the Cracks in the AI Trade Grew Deeper",
+      "link": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 20:07:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?",
@@ -19,28 +37,10 @@
       "sentiment": -0.125
     },
     {
-      "title": "U.S. Natural Gas Futures Fall in Early Trading",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 13:48:00 GMT",
-      "sentiment": 0.11944444444444445
-    },
-    {
       "title": "The Extra-Strength Funds That Are Too Much of a Good Thing",
       "link": "https://www.wsj.com/finance/investing/the-extra-strength-funds-that-are-too-much-of-a-good-thing-c71362eb?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 13:00:00 GMT",
       "sentiment": 0.4872727272727273
-    },
-    {
-      "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
-      "link": "https://www.wsj.com/finance/clues-point-to-familiar-culprit-in-massive-binance-crypto-heist-north-korea-d1fd887d?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 12:01:00 GMT",
-      "sentiment": 0.095
-    },
-    {
-      "title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 11:23:00 GMT",
-      "sentiment": 0.4
     },
     {
       "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
@@ -103,6 +103,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 20:40:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Affordable Care Act Rates To Rise Steeply—Again",
       "link": "https://www.wsj.com/health/healthcare/affordable-care-act-rates-to-rise-steeplyagain-986da40c?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 19:45:00 GMT",
@@ -125,12 +131,6 @@
       "link": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-e8eff14c?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 16:31:00 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2270c51d?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 16:28:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
@@ -229,6 +229,12 @@
       "sentiment": 0.17777777777777778
     },
     {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2270c51d?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 16:28:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Cryptocurrencies Pare Losses After $6.3 Billion Hack Spooks Markets",
       "link": "https://www.wsj.com/finance/currencies/cryptocurrencies-slide-as-news-of-major-hack-spooks-markets-14543f8e?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 14:08:00 GMT",
@@ -241,22 +247,16 @@
       "sentiment": 0.20500000000000002
     },
     {
+      "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
+      "link": "https://www.wsj.com/finance/clues-point-to-familiar-culprit-in-massive-binance-crypto-heist-north-korea-d1fd887d?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 12:01:00 GMT",
+      "sentiment": 0.095
+    },
+    {
       "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
       "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 10:10:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "WSJ Dollar Index Falls 0.09% to 97.09",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-data-1ac5a50c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 21:29:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "WSJ Dollar Index Falls 0.12% to 97.18",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fed-decision-28baaa62?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 21:46:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Polymarket Is Investigating Suspicious Trades on Israel Election",
@@ -289,6 +289,12 @@
       "sentiment": -0.026060606060606062
     },
     {
+      "title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 11:23:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "The Fast-Cash Advances Draining America’s Small Businesses",
       "link": "https://www.wsj.com/business/the-fast-cash-advances-draining-americas-small-businesses-ff7124e2?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 10:01:00 GMT",
@@ -310,12 +316,6 @@
       "title": "Alphabet Stumbles, U.S. Economy Surges",
       "link": "https://www.wsj.com/finance/stocks/alphabet-stumbles-u-s-economy-surges-7f47a441?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 20:32:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
-      "link": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 16:38:00 GMT",
       "sentiment": 0.0
     },
     {
