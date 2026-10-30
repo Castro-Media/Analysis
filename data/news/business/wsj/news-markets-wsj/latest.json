@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Oct. 29, 2026: AI Jitters Spread as Intel, Amazon Results Disappoint",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 09:22:32 GMT",
-      "sentiment": -0.8
+      "title": "Stock Market Today: Intel Stock Crashes Premarket as Tech Selloff Extends",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 08:44:05 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "European TTF Gas Is Back Above 100 Euros a Megawatt-Hour",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 08:49:00 GMT",
+      "sentiment": 0.08571428571428572
     },
     {
       "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 16:38:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "What Big Oil Tells Us About AI Memory Stocks",
-      "link": "https://www.wsj.com/finance/stocks/what-big-oil-tells-us-about-ai-memory-stocks-e32d4d00?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 10:21:00 GMT",
-      "sentiment": -0.3
     },
     {
       "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
@@ -103,6 +103,24 @@
       "sentiment": 0.0
     },
     {
+      "title": "French, Italian, Belgian Bond Yields Rise; German Yields Fall",
+      "link": "https://www.wsj.com/finance/jgb-yields-fall-ahead-of-boj-rate-decision-d2f3d90f?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 08:21:00 GMT",
+      "sentiment": 0.13999999999999999
+    },
+    {
+      "title": "U.S. Treasury Yields Fall to Multiweek Lows in Asian Trade",
+      "link": "https://www.wsj.com/finance/stocks/u-s-treasury-yields-fall-to-multiweek-lows-in-asian-trade-d355dffd?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 07:17:00 GMT",
+      "sentiment": 0.025
+    },
+    {
+      "title": "Monte dei Paschi Investors Reject Defense Plan Against Intesa’s Bid",
+      "link": "https://www.wsj.com/finance/investing/monte-dei-paschi-investors-reject-defense-plan-against-intesas-bid-0800184a?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 07:08:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Singapore Dollar Strengthens Amid Falling U.S. Treasury Yields",
       "link": "https://www.wsj.com/finance/currencies/singapore-dollar-strengthens-amid-falling-u-s-treasury-yields-b806c8af?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 02:53:00 GMT",
@@ -113,24 +131,6 @@
       "link": "https://www.wsj.com/business/weil-gotshal-collapse-bankruptcy-25c4212c?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 23:05:00 GMT",
       "sentiment": 0.08611111111111108
-    },
-    {
-      "title": "Treasury Yields Fall Following Major Central Banks’ Hold",
-      "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 19:49:00 GMT",
-      "sentiment": 0.078125
-    },
-    {
-      "title": "Billionaires Don’t Like the Wealth Tax. Here’s What Some Propose Instead.",
-      "link": "https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 16:42:00 GMT",
-      "sentiment": 0.11666666666666668
-    },
-    {
-      "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
-      "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 14:20:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nikkei Extends Losses, Yen Strengthens After BOJ Decisions",
@@ -157,10 +157,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "European Stock Indexes Mostly Higher",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-ai-related-stocks-854322dd?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 08:29:00 GMT",
-      "sentiment": 0.125
+      "title": "What Big Oil Tells Us About AI Memory Stocks",
+      "link": "https://www.wsj.com/finance/stocks/what-big-oil-tells-us-about-ai-memory-stocks-e32d4d00?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 10:21:00 GMT",
+      "sentiment": -0.3
     },
     {
       "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
@@ -199,16 +199,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Gold Below $4,000 on Inflation Concerns, Tech Selloff",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 08:52:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Lithium Miners Look Past Falling Prices to Expand Output",
       "link": "https://www.wsj.com/finance/commodities-futures/lithium-miners-look-past-falling-prices-to-expand-output-6157edd7?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 04:14:00 GMT",
       "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Gold Declines, Weighed by Tighter Monetary Policy Expectations",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 01:21:00 GMT",
-      "sentiment": 0.025
     },
     {
       "title": "Oil Ticks Back Up as Uncertainty Clouds Peace Hopes",

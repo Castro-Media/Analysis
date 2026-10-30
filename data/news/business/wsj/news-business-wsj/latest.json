@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information",
+      "link": "https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 08:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Easy Money Offers That Disguise a Deathtrap for Small Businesses",
       "link": "https://www.wsj.com/business/entrepreneurship/business-finance-merchant-cash-advance-37d8bc42?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 01:00:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/a-1-000-device-enables-hands-free-driving-but-fatal-crashes-have-prompted-scrutiny-99351dd2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 18:35:00 GMT",
       "sentiment": -0.3
-    },
-    {
-      "title": "Forget EVs. Battery Makers Are Busy Bolstering the U.S. Power Grid.",
-      "link": "https://www.wsj.com/business/forget-evs-battery-makers-are-busy-bolstering-the-u-s-power-grid-537a6417?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "sentiment": 0.03333333333333333
     },
     {
       "title": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm",
@@ -67,6 +67,12 @@
       "sentiment": -0.22499999999999998
     },
     {
+      "title": "Sanofi CEO Sets Sights on Deals to Drive Turnaround",
+      "link": "https://www.wsj.com/business/earnings/sanofi-ceo-sets-sights-on-deals-to-drive-turnaround-b61cc8e3?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 08:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
       "link": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 06:36:00 GMT",
@@ -91,10 +97,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "Burger King’s Turnaround Attracts Price-Conscious Diners as Sales Rise",
-      "link": "https://www.wsj.com/business/retail/restaurant-brands-international-profit-revenue-rise-on-u-s-burger-king-sales-c1546d0a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 16:05:00 GMT",
-      "sentiment": 0.05
+      "title": "AstraZeneca Launches $1.5 Billion Savings Plan to Fund Drug Pipeline",
+      "link": "https://www.wsj.com/business/earnings/astrazeneca-posts-revenue-profit-growth-on-strong-cancer-drug-sales-ec7ebdb5?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 08:28:00 GMT",
+      "sentiment": 0.4666666666666667
+    },
+    {
+      "title": "Audi Pledges to Intensify Efficiency Measures as It Cuts Guidance",
+      "link": "https://www.wsj.com/business/earnings/audi-pledges-to-intensify-efficiency-measures-as-it-cuts-guidance-942233b0?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 08:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "BP Slashes Net Debt as Earnings Soar",
+      "link": "https://www.wsj.com/business/earnings/bp-slashes-net-debt-as-earnings-soar-ba241a33?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 07:55:00 GMT",
+      "sentiment": 0.020833333333333332
+    },
+    {
+      "title": "NatWest Earnings Boosted by Higher Net Interest Income",
+      "link": "https://www.wsj.com/business/earnings/natwest-earnings-boosted-by-higher-net-interest-income-20ebc371?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 07:46:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Credit Agricole Profit Climbs on Boost From Investment Bank",
@@ -103,28 +127,10 @@
       "sentiment": 0.21666666666666667
     },
     {
-      "title": "Intel Shares Plunge More Than 20% on Weak PC-Market Outlook",
-      "link": "https://www.wsj.com/business/earnings/intel-shares-tumble-on-lower-profit-weak-guidance-a2bdcdd8?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 22:33:00 GMT",
-      "sentiment": 0.09500000000000001
-    },
-    {
-      "title": "Air Canada Expects High Fuel Costs to Eat Further Into Profit",
-      "link": "https://www.wsj.com/business/earnings/air-canada-expects-high-fuel-costs-to-eat-further-into-profit-41aeac3e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 21:24:00 GMT",
-      "sentiment": 0.0011111111111111113
-    },
-    {
-      "title": "Starbucks Same-Store Sales Climb on U.S. Growth",
-      "link": "https://www.wsj.com/business/earnings/starbucks-same-store-sales-climb-on-u-s-growth-88bc1df5?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 20:30:00 GMT",
+      "title": "Forget EVs. Battery Makers Are Busy Bolstering the U.S. Power Grid.",
+      "link": "https://www.wsj.com/business/forget-evs-battery-makers-are-busy-bolstering-the-u-s-power-grid-537a6417?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 17:00:00 GMT",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Sandisk Profit Soars as AI Demand Drives Up Prices",
-      "link": "https://www.wsj.com/business/earnings/sandisk-profit-soars-as-ai-demand-drives-up-prices-6a83fffd?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 20:24:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/china-cars-domestic-sale-declines-983ced7b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 01:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Harley-Davidson Wanted an Electric Revolution. That Dream Is in Trouble.",
-      "link": "https://www.wsj.com/business/autos/harley-davidson-wanted-an-electric-revolution-that-dream-is-in-trouble-c6b891b8?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 27 Oct 2026 11:00:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "Opinion | Trump Scores on Methane Regulation",
@@ -193,6 +193,12 @@
       "sentiment": 0.18666666666666668
     },
     {
+      "title": "European TTF Gas Is Back Above 100 Euros a Megawatt-Hour",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 08:49:00 GMT",
+      "sentiment": 0.08571428571428572
+    },
+    {
       "title": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 19:53:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/earnings/shell-to-launch-5-billion-share-buyback-as-earnings-soar-258aab81?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:44:00 GMT",
       "sentiment": 0.07416666666666666
-    },
-    {
-      "title": "Your Guide to Energy and Climate at the Midterms",
-      "link": "https://www.wsj.com/politics/policy/your-guide-to-energy-and-climate-at-the-midterms-9b18d6ac?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 13:28:00 GMT",
-      "sentiment": -0.14583333333333334
     },
     {
       "title": "Airlines Are Touting Fancy Suites and Fast Wi-Fi. Why’s It Taking So Long?",
@@ -289,6 +289,12 @@
       "sentiment": -0.04999999999999999
     },
     {
+      "title": "Burger King’s Turnaround Attracts Price-Conscious Diners as Sales Rise",
+      "link": "https://www.wsj.com/business/retail/restaurant-brands-international-profit-revenue-rise-on-u-s-burger-king-sales-c1546d0a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 16:05:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "How CEO Tony Xu Led DoorDash to Delivery Dominance",
       "link": "https://www.wsj.com/business/hospitality/how-ceo-tony-xu-led-doordash-to-delivery-dominance-f36b5e7c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 15:57:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/hospitality/mgm-resorts-revenue-ticks-down-on-lower-room-rates-in-las-vegas-ea6f90af?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 22:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Chipotle Logs Higher Revenue as Same-Restaurant Sales Climb",
-      "link": "https://www.wsj.com/business/earnings/chipotle-logs-higher-revenue-as-same-restaurant-sales-climb-4f8b2ba5?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 20:58:00 GMT",
-      "sentiment": 0.34659090909090906
     },
     {
       "title": "A Protein Pioneer Hikes Prices to Fund a Marketing Turnaround",
@@ -469,16 +469,16 @@
       "sentiment": -0.22499999999999998
     },
     {
-      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
-      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 22:31:00 GMT",
-      "sentiment": 0.2333333333333333
-    },
-    {
       "title": "The Five Whirlwind Days That Brought Down Weil Gotshal",
       "link": "https://www.wsj.com/business/weil-gotshal-collapse-bankruptcy-25c4212c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 23:05:00 GMT",
       "sentiment": 0.08611111111111108
+    },
+    {
+      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
+      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 22:31:00 GMT",
+      "sentiment": 0.2333333333333333
     },
     {
       "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
