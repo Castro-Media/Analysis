@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Amazon, Intel Earnings Add Fuel to Tech Selloff",
+      "title": "Stock Market Today: Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 08:44:05 GMT",
-      "sentiment": -0.6
+      "sentiment": -0.5333333333333333
+    },
+    {
+      "title": "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?",
+      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 17:23:00 GMT",
+      "sentiment": -0.03749999999999998
     },
     {
       "title": "How Binance Is Racing to Cover Losses in the Biggest Heist in Crypto History",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 11:23:00 GMT",
       "sentiment": 0.4
-    },
-    {
-      "title": "If History Repeats, Small Caps Will Win in a Landslide",
-      "link": "https://www.wsj.com/finance/stocks/if-history-repeats-small-caps-will-win-in-a-landslide-e301e37e?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 10:21:00 GMT",
-      "sentiment": 0.21666666666666667
     },
     {
       "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
@@ -105,8 +105,14 @@
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-e8eff14c?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 13:00:00 GMT",
-      "sentiment": 0.5
+      "published": "Fri, 30 Oct 2026 16:31:00 GMT",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2270c51d?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 16:28:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Alphabet Seen as a Tech One-Stop AI Shop",
@@ -127,15 +133,15 @@
       "sentiment": 0.08611111111111108
     },
     {
-      "title": "Why Josh Kushner’s Firm Just Spent $7.6 Billion on a 150-Year-Old Company",
-      "link": "https://www.wsj.com/finance/investing/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-8bfdd9f8?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 23:00:00 GMT",
-      "sentiment": -0.10000000000000002
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-de956702?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 16:36:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Amazon, Intel Earnings Add Fuel to Tech Selloff",
       "link": "https://www.wsj.com/finance/stocks/ai-selloff-deepens-oil-jumps-and-crypto-falls-4703d21b?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 14:14:00 GMT",
+      "published": "Fri, 30 Oct 2026 16:23:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -145,22 +151,16 @@
       "sentiment": 0.025
     },
     {
+      "title": "If History Repeats, Small Caps Will Win in a Landslide",
+      "link": "https://www.wsj.com/finance/stocks/if-history-repeats-small-caps-will-win-in-a-landslide-e301e37e?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 10:21:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
       "title": "European Indexes Largely Lower as AI Selloff Bites",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-3-dragged-by-electronics-metals-stocks-6961975d?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 08:55:00 GMT",
       "sentiment": 0.11535714285714285
-    },
-    {
-      "title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-alphabet-slide-weighs-on-ai-optimism-1a8d67b7?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 20:43:00 GMT",
-      "sentiment": -0.07142857142857142
-    },
-    {
-      "title": "Alphabet Stumbles, U.S. Economy Surges",
-      "link": "https://www.wsj.com/finance/stocks/alphabet-stumbles-u-s-economy-surges-7f47a441?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 20:32:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
@@ -199,10 +199,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gold Below $4,000 on Inflation Concerns, Tech Selloff",
+      "title": "Precious Metal Futures Sink Amid Rate Concerns, Rising Oil Prices",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 08:52:00 GMT",
-      "sentiment": 0.125
+      "published": "Fri, 30 Oct 2026 16:46:00 GMT",
+      "sentiment": 0.375
     },
     {
       "title": "Lithium Miners Look Past Falling Prices to Expand Output",
@@ -301,22 +301,22 @@
       "sentiment": 0.22944444444444445
     },
     {
+      "title": "Why Josh Kushner’s Firm Just Spent $7.6 Billion on a 150-Year-Old Company",
+      "link": "https://www.wsj.com/finance/investing/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-8bfdd9f8?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 23:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Alphabet Stumbles, U.S. Economy Surges",
+      "link": "https://www.wsj.com/finance/stocks/alphabet-stumbles-u-s-economy-surges-7f47a441?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 20:32:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
       "link": "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 16:38:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "What Big Oil Tells Us About AI Memory Stocks",
-      "link": "https://www.wsj.com/finance/stocks/what-big-oil-tells-us-about-ai-memory-stocks-e32d4d00?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 10:21:00 GMT",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 10:05:00 GMT",
-      "sentiment": -0.009166666666666665
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",

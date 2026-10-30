@@ -1,15 +1,33 @@
 {
   "entries": [
     {
+      "title": "Steve Hilton Tries Anything as a G.O.P. Long Shot in California",
+      "link": "https://www.nytimes.com/2026/10/30/us/hilton-california-governor.html",
+      "published": "Fri, 30 Oct 2026 17:27:49 +0000",
+      "sentiment": 0.11666666666666665
+    },
+    {
+      "title": "Democrats, Hopeful All Over the Senate Map, Remain Jittery About Iowa",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/iowa-senate-race-josh-turek.html",
+      "published": "Fri, 30 Oct 2026 17:53:30 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Pope Leo Votes by Mail, From the Vatican, in Illinois Midterm Election",
+      "link": "https://www.nytimes.com/2026/10/30/us/elections/pope-leo-votes-mail-midterm.html",
+      "published": "Fri, 30 Oct 2026 17:34:53 +0000",
+      "sentiment": 0.25
+    },
+    {
       "title": "Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase",
       "link": "https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html",
-      "published": "Fri, 30 Oct 2026 15:51:53 +0000",
+      "published": "Fri, 30 Oct 2026 16:31:34 +0000",
       "sentiment": 0.15
     },
     {
       "title": "Former Patient Files Class-Action Lawsuit Against Senator Marshall",
       "link": "https://www.nytimes.com/2026/10/30/us/elections/senator-marshall-patient-lawsuit.html",
-      "published": "Fri, 30 Oct 2026 15:36:46 +0000",
+      "published": "Fri, 30 Oct 2026 16:10:19 +0000",
       "sentiment": 0.165
     },
     {
@@ -31,10 +49,10 @@
       "sentiment": 0.08
     },
     {
-      "title": "Pelosi Calls Mamdani’s and El-Sayed’s Stances on Israel ‘Wrong’",
+      "title": "Pelosi Splits With Mamdani and El-Sayed on Israel",
       "link": "https://www.nytimes.com/2026/10/30/us/elections/pelosi-mamdani-el-sayed-israel.html",
-      "published": "Fri, 30 Oct 2026 15:52:31 +0000",
-      "sentiment": -0.12121212121212122
+      "published": "Fri, 30 Oct 2026 17:32:03 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Elon Musk Predicts End of Democracy if Midterm Elections Favor Democrats",
@@ -57,13 +75,13 @@
     {
       "title": "Democratic Candidate Mary Peltola Says She Didn’t Know About Alaska Ballot Stacking",
       "link": "https://www.nytimes.com/2026/10/30/us/elections/peltola-alaska-senate-election-sullivan-ballot-stacking.html",
-      "published": "Fri, 30 Oct 2026 13:58:05 +0000",
+      "published": "Fri, 30 Oct 2026 16:46:05 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/30/us/midterms-elections-trump/heres-the-latest",
-      "published": "Fri, 30 Oct 2026 15:53:17 +0000",
+      "published": "Fri, 30 Oct 2026 16:59:12 +0000",
       "sentiment": 0.5
     },
     {
@@ -75,7 +93,7 @@
     {
       "title": "Darline Graham Is ‘a Little Nervous.’ Can She Keep South Carolina’s Senate Seat Red?",
       "link": "https://www.nytimes.com/2026/10/30/us/darline-graham-annie-andrews-south-carolina-senate.html",
-      "published": "Fri, 30 Oct 2026 14:36:16 +0000",
+      "published": "Fri, 30 Oct 2026 16:20:29 +0000",
       "sentiment": -0.14750000000000002
     },
     {
@@ -117,7 +135,7 @@
     {
       "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
       "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
-      "published": "Fri, 30 Oct 2026 13:05:32 +0000",
+      "published": "Fri, 30 Oct 2026 16:36:05 +0000",
       "sentiment": 0.2
     },
     {
@@ -257,30 +275,6 @@
       "link": "https://www.nytimes.com/2026/10/29/us/politics/epstein-victim-ashley-moody-ad.html",
       "published": "Thu, 29 Oct 2026 18:47:54 +0000",
       "sentiment": 0.3181818181818182
-    },
-    {
-      "title": "California’s High-Speed Rail Chief Quits Amid Questions About Spending",
-      "link": "https://www.nytimes.com/2026/10/29/us/choudri-resign-california-high-speed-rail.html",
-      "published": "Thu, 29 Oct 2026 22:46:45 +0000",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
-      "link": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
-      "published": "Thu, 29 Oct 2026 22:30:07 +0000",
-      "sentiment": 0.14250000000000002
-    },
-    {
-      "title": "State Dept. to Shift Millions in Contraception Funding to Cover Energy Costs",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
-      "published": "Thu, 29 Oct 2026 16:31:53 +0000",
-      "sentiment": -0.012499999999999997
-    },
-    {
-      "title": "Trump Wants to Kick ‘Rogue Activist Judges’ Off Cases. Can He?",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/the-docket-trump-judges.html",
-      "published": "Thu, 29 Oct 2026 16:02:57 +0000",
-      "sentiment": 0.2
     }
   ]
 }

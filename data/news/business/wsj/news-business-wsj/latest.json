@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?",
+      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 17:23:00 GMT",
+      "sentiment": -0.03749999999999998
+    },
+    {
+      "title": "Ford CEO Aims for a 20% Sales Jump by 2032",
+      "link": "https://www.wsj.com/business/autos/ford-ceo-aims-for-a-20-sales-jump-by-2032-0bdaa0f9?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 17:18:00 GMT",
+      "sentiment": -1.0
+    },
+    {
+      "title": "The Scrapyard Search for Rare Earths",
+      "link": "https://www.wsj.com/business/energy-oil/the-scrapyard-search-for-rare-earths-bbe4a00f?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 15:55:00 GMT",
+      "sentiment": -0.009523809523809533
+    },
+    {
       "title": "The Wild Rise of a Trump-Backed Drone Company",
       "link": "https://www.wsj.com/business/the-wild-rise-of-a-trump-backed-drone-company-6722ac08?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 14:36:00 GMT",
@@ -16,24 +34,6 @@
       "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information",
       "link": "https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 13:01:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Polaris’s CFO Wants to Restart Buybacks After a Tough Couple of Years",
-      "link": "https://www.wsj.com/business/c-suite/polariss-cfo-wants-to-restart-buybacks-after-a-tough-couple-of-years-afa0cd12?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 11:34:00 GMT",
-      "sentiment": -0.09444444444444444
-    },
-    {
-      "title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 11:23:00 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "American Oil Giants See Profits Soar as Wars Crimp Energy Supplies",
-      "link": "https://www.wsj.com/business/energy-oil/exxonmobil-xom-chevron-cvx-3q-earnings-report-2026-stock-1d890682?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 10:33:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Colgate-Palmolive Sales Rise Despite U.S. Consumer Challenges",
+      "link": "https://www.wsj.com/business/earnings/colgate-palmolive-posts-higher-profit-sales-857724f5?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 16:12:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Capri Holding Swings to Quarterly Profit",
       "link": "https://www.wsj.com/business/earnings/capri-holding-swings-to-quarterly-profit-f3b27e54?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 14:38:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/earnings/abbvie-revenue-rises-on-strength-in-immunology-neuroscience-1fb8fdb7?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "General Dynamics Logs Higher Profit, Revenue",
-      "link": "https://www.wsj.com/business/earnings/general-dynamics-logs-higher-profit-revenue-7f7f7452?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 11:52:00 GMT",
-      "sentiment": 0.12000000000000002
     },
     {
       "title": "AstraZeneca Launches $1.5 Billion Savings Plan to Fund Drug Pipeline",
@@ -121,10 +121,10 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Colgate-Palmolive Posts Higher Profit, Sales",
-      "link": "https://www.wsj.com/business/earnings/colgate-palmolive-posts-higher-profit-sales-857724f5?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 11:46:00 GMT",
-      "sentiment": 0.16666666666666666
+      "title": "General Dynamics Logs Higher Profit, Revenue",
+      "link": "https://www.wsj.com/business/earnings/general-dynamics-logs-higher-profit-revenue-7f7f7452?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 11:52:00 GMT",
+      "sentiment": 0.12000000000000002
     },
     {
       "title": "These Trucks Haul 90 Tons of Coal on Battery Power—and Drive Themselves",
@@ -193,10 +193,22 @@
       "sentiment": 0.18666666666666668
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8beef051?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 16:31:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "BP Slashes Net Debt as Earnings Soar",
       "link": "https://www.wsj.com/business/earnings/bp-slashes-net-debt-as-earnings-soar-ba241a33?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 10:44:00 GMT",
       "sentiment": -0.006250000000000001
+    },
+    {
+      "title": "American Oil Giants See Profits Soar as Wars Crimp Energy Supplies",
+      "link": "https://www.wsj.com/business/energy-oil/exxonmobil-xom-chevron-cvx-3q-earnings-report-2026-stock-1d890682?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 10:33:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
@@ -209,18 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/chevron-is-back-to-searching-for-oil-and-gas-in-far-flung-places-85082fbf?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 16:33:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Gulf Oil Giants Work to Expand Overseas Storage As War Exposes Supply Risks",
-      "link": "https://www.wsj.com/business/energy-oil/gulf-oil-giants-work-to-expand-overseas-storage-as-war-exposes-supply-risks-e9580e1c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 13:56:00 GMT",
-      "sentiment": -0.35
-    },
-    {
-      "title": "Shell Maximizes Diesel Production During Supply Crunch",
-      "link": "https://www.wsj.com/business/earnings/shell-to-launch-5-billion-share-buyback-as-earnings-soar-258aab81?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 13:44:00 GMT",
-      "sentiment": 0.07416666666666666
     },
     {
       "title": "Airlines Are Touting Fancy Suites and Fast Wi-Fi. Why’s It Taking So Long?",
@@ -253,6 +253,12 @@
       "sentiment": 0.18125
     },
     {
+      "title": "Polaris’s CFO Wants to Restart Buybacks After a Tough Couple of Years",
+      "link": "https://www.wsj.com/business/c-suite/polariss-cfo-wants-to-restart-buybacks-after-a-tough-couple-of-years-afa0cd12?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 11:34:00 GMT",
+      "sentiment": -0.09444444444444444
+    },
+    {
       "title": "How Bristol Myers’s CEO Challenged the Company’s Managers",
       "link": "https://www.wsj.com/business/media/how-bristol-myerss-ceo-challenged-the-companys-managers-b252ec24?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 09:56:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/to-beat-the-luxury-shopping-slowdown-this-e-commerce-company-wants-the-superrich-11839a6c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": -0.15
-    },
-    {
-      "title": "The ‘Extremely Valuable’ Question Linda Yaccarino Asks Her Team",
-      "link": "https://www.wsj.com/articles/the-extremely-valuable-question-linda-yaccarino-asks-her-team-bcdbdef0?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 09:54:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "The Cheesecake Factory Is Over-the-Top, Gaudy and Bizarre. That’s the Point.",
@@ -313,10 +313,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Meta Faces U.K. Antitrust Probe Over Publisher Content Use",
+      "title": "Meta Faces U.K. Antitrust Probe Over Publisher Content Terms",
       "link": "https://www.wsj.com/tech/meta-faces-u-k-antitrust-probe-over-publisher-content-use-11637585?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 11:59:00 GMT",
-      "sentiment": 0.0
+      "published": "Fri, 30 Oct 2026 15:58:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
@@ -433,6 +433,12 @@
       "sentiment": 0.07777777777777777
     },
     {
+      "title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 11:23:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "The Fast-Cash Advances Draining America’s Small Businesses",
       "link": "https://www.wsj.com/business/the-fast-cash-advances-draining-americas-small-businesses-ff7124e2?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 10:01:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-tech-social-media-companies-brace-for-deepfake-scrutiny-in-midterms-run-up-e8622394?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 11:32:00 GMT",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
-      "link": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 09:47:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Five Whirlwind Days That Brought Down Weil Gotshal",
@@ -487,10 +487,10 @@
       "sentiment": -0.22499999999999998
     },
     {
-      "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
-      "link": "https://www.wsj.com/business/deals/josh-kushners-thrive-to-buy-adt-for-7-6-billion-55403c7a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 14:20:00 GMT",
-      "sentiment": 0.0
+      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
+      "link": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 06:36:00 GMT",
+      "sentiment": 0.13333333333333333
     },
     {
       "title": "Best Small-Business Loans in October 2026",
