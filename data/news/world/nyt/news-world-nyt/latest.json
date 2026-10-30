@@ -13,6 +13,18 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+      "published": "Fri, 30 Oct 2026 14:45:46 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+      "published": "Fri, 30 Oct 2026 14:12:50 +0000",
+      "sentiment": -0.08888888888888889
+    },
+    {
       "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
       "link": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
       "published": "Fri, 30 Oct 2026 13:49:34 +0000",
@@ -45,13 +57,13 @@
     {
       "title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
       "link": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "published": "Fri, 30 Oct 2026 12:58:05 +0000",
+      "published": "Fri, 30 Oct 2026 14:21:24 +0000",
       "sentiment": 0.2
     },
     {
       "title": "Another Toll of the Violent Unrest in France: The Political Center",
       "link": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
-      "published": "Fri, 30 Oct 2026 09:35:23 +0000",
+      "published": "Fri, 30 Oct 2026 14:00:48 +0000",
       "sentiment": -0.3
     },
     {
@@ -71,18 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
       "published": "Thu, 29 Oct 2026 11:53:48 +0000",
       "sentiment": -0.45340909090909093
-    },
-    {
-      "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
-      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-      "published": "Thu, 29 Oct 2026 18:53:47 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
-      "published": "Fri, 30 Oct 2026 06:31:57 +0000",
-      "sentiment": 0.07787878787878788
     },
     {
       "title": "I Covered the Tiananmen Square Massacre. It Still Weighs on Me.",
@@ -109,10 +109,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "In China, the War on Mosquitoes Has Entered the A.I. Era",
+      "title": "A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests",
       "link": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
-      "published": "Fri, 30 Oct 2026 04:01:12 +0000",
-      "sentiment": -0.025
+      "published": "Fri, 30 Oct 2026 14:14:36 +0000",
+      "sentiment": 0.04
     },
     {
       "title": "Newly Freed American Describes His Years in Russian Prison",
@@ -155,6 +155,12 @@
       "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
       "published": "Thu, 29 Oct 2026 21:36:23 +0000",
       "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
+      "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
+      "published": "Thu, 29 Oct 2026 18:53:47 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "A Marathon Runner’s Hard Lesson",
@@ -215,6 +221,12 @@
       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
       "published": "Thu, 29 Oct 2026 10:29:01 +0000",
       "sentiment": 0.16
+    },
+    {
+      "title": "Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?",
+      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
+      "published": "Fri, 30 Oct 2026 06:31:57 +0000",
+      "sentiment": 0.07787878787878788
     },
     {
       "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
@@ -323,18 +335,6 @@
       "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
       "published": "Wed, 28 Oct 2026 18:38:34 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "An Inconclusive Vote Leaves Israelis Pondering an Uncertain Future",
-      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-netanyahu-eisenkot-mood.html",
-      "published": "Wed, 28 Oct 2026 18:22:35 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’",
-      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html",
-      "published": "Wed, 28 Oct 2026 17:29:30 +0000",
-      "sentiment": -0.4
     }
   ]
 }
