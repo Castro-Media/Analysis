@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "What is Lewy body dementia? About the condition Patrick Stewart had",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-10-29/what-is-lewy-body-dementia-patrick-stewart",
+      "published": "Fri, 30 Oct 2026 01:09:30 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "A 'compulsion' to hurt kids: San Diego woman pleads guilty to killing best friend's baby",
       "link": "https://www.latimes.com/california/story/2026-10-29/san-diego-woman-pleads-guilty-in-killing-of-her-best-friends-baby",
       "published": "Fri, 30 Oct 2026 00:04:03 GMT",
@@ -67,10 +73,10 @@
       "sentiment": 0.06666666666666668
     },
     {
-      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
+      "title": "Arellano: How the Bass campaign channels one of L.A.'s most infamous mayoral races",
+      "link": "https://www.latimes.com/california/story/2026-10-29/karen-bass-sam-yorty-los-angeles-mayoral-race",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.018181818181818174
+      "sentiment": -0.09333333333333334
     },
     {
       "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
@@ -79,16 +85,10 @@
       "sentiment": 0.21666666666666667
     },
     {
-      "title": "Arellano: How the Bass campaign channels one of L.A.'s most infamous mayoral races",
-      "link": "https://www.latimes.com/california/story/2026-10-29/karen-bass-sam-yorty-los-angeles-mayoral-race",
+      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.09333333333333334
-    },
-    {
-      "title": "L.A. city and county fend off a court battle over homeless services",
-      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05
+      "sentiment": 0.018181818181818174
     },
     {
       "title": "Amid Flock backlash, LAPD moves forward with license plate readers from another company",
@@ -101,6 +101,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": -0.03787878787878788
+    },
+    {
+      "title": "L.A. city and county fend off a court battle over homeless services",
+      "link": "https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05
     },
     {
       "title": "Billionaire tax battle heats up on Instagram with unlikely influencers paid to pick sides",
@@ -217,6 +223,12 @@
       "sentiment": 0.11607142857142856
     },
     {
+      "title": "Surprising close encounters with marine predators in California bring awe and fear",
+      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.22500000000000003
+    },
+    {
       "title": "Arellano: Nithya Raman is learning Spanish. What that says about her vision for L.A.",
       "link": "https://www.latimes.com/california/story/2026-10-28/nithya-raman-learning-spanish",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
@@ -229,18 +241,6 @@
       "sentiment": 0.4047619047619047
     },
     {
-      "title": "Surprising close encounters with marine predators in California bring awe and fear",
-      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.22500000000000003
-    },
-    {
-      "title": "Desperate mom-and-pops turn to risky cash advances in tough economy — and can get burned",
-      "link": "https://www.latimes.com/california/story/2026-10-28/small-business-merchant-cash-advances-risks",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.03507936507936509
-    },
-    {
       "title": "Living near Hollywood sign means cars, diapers, bottles of urine. Neighbors say they've had it",
       "link": "https://www.latimes.com/california/story/2026-10-28/hollywood-sign-lawsuit-neighbor-speaks-out-traffic-james-bottles-urine",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
@@ -251,6 +251,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
       "published": "Wed, 28 Oct 2026 10:00:00 GMT",
       "sentiment": 0.1366666666666667
+    },
+    {
+      "title": "Desperate mom-and-pops turn to risky cash advances in tough economy — and can get burned",
+      "link": "https://www.latimes.com/california/story/2026-10-28/small-business-merchant-cash-advances-risks",
+      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.03507936507936509
     },
     {
       "title": "Amid rash of unusually high DWP bills, board suspends shutoffs for nonpayment",
@@ -331,6 +337,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
+      "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.00444444444444444
+    },
+    {
+      "title": "El Niño's record-hot ocean waters driving coastal flooding in Southern California",
+      "link": "https://www.latimes.com/california/story/2026-10-27/la-me-heat-california-coast-water",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "Deaf workers lose thousands in power tools to thieves, have group hug, vow to 'keep going'",
       "link": "https://www.latimes.com/california/story/2026-10-27/brazen-thieves-steal-power-tools-from-deaf-construction-crew",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
@@ -341,18 +359,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-27/body-of-missing-climber-found-buried-in-snow-on-mt-whitney",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
       "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "El Niño's record-hot ocean waters driving coastal flooding in Southern California",
-      "link": "https://www.latimes.com/california/story/2026-10-27/la-me-heat-california-coast-water",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
-      "link": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.00444444444444444
     },
     {
       "title": "Measure A could radically alter L.A. County labor talks. There's been little debate",
@@ -529,6 +535,12 @@
       "sentiment": 0.2523809523809524
     },
     {
+      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
+      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
+      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.05277777777777778
+    },
+    {
       "title": "\"A butter knife against a nuclear arsenal:\" Tech billionaires vastly outspend wealth tax supporters",
       "link": "https://www.latimes.com/california/story/2026-10-24/more-than-351-million-spent-on-wealth-tax-on-november-ballot",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
@@ -541,12 +553,6 @@
       "sentiment": 0.2
     },
     {
-      "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
-      "link": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
-      "published": "Sat, 24 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.05277777777777778
-    },
-    {
       "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
       "link": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
       "published": "Sat, 24 Oct 2026 10:00:00 GMT",
@@ -557,12 +563,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-23/trump-administration-election-letters-california-counties",
       "published": "Sat, 24 Oct 2026 02:50:14 GMT",
       "sentiment": -0.0375
-    },
-    {
-      "title": "San Bernardino County owes $51 million to mother of mentally ill man killed by deputies, jury says",
-      "link": "https://www.latimes.com/california/story/2026-10-23/garza-shooting-verdict-federal-trial-award",
-      "published": "Sat, 24 Oct 2026 02:18:07 GMT",
-      "sentiment": -0.09999999999999998
     }
   ]
 }
