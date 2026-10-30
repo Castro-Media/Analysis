@@ -1,9 +1,45 @@
 {
   "entries": [
     {
-      "title": "Musk Predicts End of Democracy if Elections Favor Democrats",
+      "title": "Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase",
+      "link": "https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html",
+      "published": "Fri, 30 Oct 2026 15:51:53 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Former Patient Files Class-Action Lawsuit Against Senator Marshall",
+      "link": "https://www.nytimes.com/2026/10/30/us/elections/senator-marshall-patient-lawsuit.html",
+      "published": "Fri, 30 Oct 2026 15:36:46 +0000",
+      "sentiment": 0.165
+    },
+    {
+      "title": "Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events",
+      "link": "https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html",
+      "published": "Fri, 30 Oct 2026 15:26:06 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Unions Sue Justice Department Over Attempt to Intervene in California’s Vote",
+      "link": "https://www.nytimes.com/2026/10/30/us/elections/california-unions-lawsuit-justice-department-election-immigrants.html",
+      "published": "Fri, 30 Oct 2026 15:11:26 +0000",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Democrats and Republicans Share Dueling Health Care Messages in Final Midterms Push",
+      "link": "https://www.nytimes.com/2026/10/30/us/politics/midterms-health-care-affordability-fraud.html",
+      "published": "Fri, 30 Oct 2026 15:09:29 +0000",
+      "sentiment": 0.08
+    },
+    {
+      "title": "Pelosi Calls Mamdani’s and El-Sayed’s Stances on Israel ‘Wrong’",
+      "link": "https://www.nytimes.com/2026/10/30/us/elections/pelosi-mamdani-el-sayed-israel.html",
+      "published": "Fri, 30 Oct 2026 15:52:31 +0000",
+      "sentiment": -0.12121212121212122
+    },
+    {
+      "title": "Elon Musk Predicts End of Democracy if Midterm Elections Favor Democrats",
       "link": "https://www.nytimes.com/2026/10/30/us/elections/elon-musk-senate-donations.html",
-      "published": "Fri, 30 Oct 2026 14:44:53 +0000",
+      "published": "Fri, 30 Oct 2026 14:44:54 +0000",
       "sentiment": 0.0
     },
     {
@@ -27,7 +63,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/30/us/midterms-elections-trump/heres-the-latest",
-      "published": "Fri, 30 Oct 2026 14:05:04 +0000",
+      "published": "Fri, 30 Oct 2026 15:53:17 +0000",
       "sentiment": 0.5
     },
     {
@@ -69,7 +105,7 @@
     {
       "title": "If Trump Gets Another Supreme Court Pick, MAGA Wants a Loyalist",
       "link": "https://www.nytimes.com/2026/10/30/us/politics/trump-supreme-court-judge-ho.html",
-      "published": "Fri, 30 Oct 2026 09:01:07 +0000",
+      "published": "Fri, 30 Oct 2026 14:59:32 +0000",
       "sentiment": 0.2
     },
     {
@@ -135,7 +171,7 @@
     {
       "title": "Trump Erupted After Learning of Alina Habba’s $50 Million Deal",
       "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
-      "published": "Thu, 29 Oct 2026 22:54:37 +0000",
+      "published": "Thu, 29 Oct 2026 22:54:38 +0000",
       "sentiment": 0.0
     },
     {
@@ -245,18 +281,6 @@
       "link": "https://www.nytimes.com/2026/10/29/us/politics/the-docket-trump-judges.html",
       "published": "Thu, 29 Oct 2026 16:02:57 +0000",
       "sentiment": 0.2
-    },
-    {
-      "title": "2026 Midterm Election Ballot Measures: What Races We’re Watching",
-      "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html",
-      "published": "Thu, 29 Oct 2026 20:28:32 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year",
-      "link": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html",
-      "published": "Thu, 29 Oct 2026 16:00:06 +0000",
-      "sentiment": 0.04
     }
   ]
 }
