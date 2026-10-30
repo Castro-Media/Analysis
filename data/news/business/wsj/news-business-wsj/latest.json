@@ -37,6 +37,12 @@
       "sentiment": -0.3
     },
     {
+      "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
+      "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm",
       "link": "https://www.wsj.com/business/deals/asian-private-equity-firm-to-buy-beleaguered-china-evergrandes-property-management-arm-0d0d5259?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 02:54:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/finance/investing/see-the-trump-administration-stock-portfolio-that-spans-more-than-40-companies-efae2bae?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 01:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Weil Gotshal Says It Is Shutting Its Doors",
-      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 00:59:00 GMT",
-      "sentiment": -0.22499999999999998
     },
     {
       "title": "Sanofi CEO Sets Sights on Deals to Drive Turnaround",
@@ -193,12 +193,6 @@
       "sentiment": 0.18666666666666668
     },
     {
-      "title": "European TTF Gas Is Back Above 100 Euros a Megawatt-Hour",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 08:49:00 GMT",
-      "sentiment": 0.08571428571428572
-    },
-    {
       "title": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 19:53:00 GMT",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/business/earnings/shell-to-launch-5-billion-share-buyback-as-earnings-soar-258aab81?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 13:44:00 GMT",
       "sentiment": 0.07416666666666666
+    },
+    {
+      "title": "Your Guide to Energy and Climate at the Midterms",
+      "link": "https://www.wsj.com/politics/policy/your-guide-to-energy-and-climate-at-the-midterms-9b18d6ac?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 13:28:00 GMT",
+      "sentiment": -0.14583333333333334
     },
     {
       "title": "Airlines Are Touting Fancy Suites and Fast Wi-Fi. Why’s It Taking So Long?",
@@ -445,6 +445,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Weil Gotshal Says It Is Shutting Its Doors",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 00:59:00 GMT",
+      "sentiment": -0.22499999999999998
+    },
+    {
       "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
       "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 22:31:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/health/healthcare/rfk-jr-allows-unapproved-peptides-on-the-market-9cf4a6d3?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 22:30:00 GMT",
       "sentiment": 0.55
-    },
-    {
-      "title": "Vance Engaged Iran to Revive Peace Talks",
-      "link": "https://www.wsj.com/world/middle-east/vance-engaged-iran-to-revive-peace-talks-f19eaaf8?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 21:28:00 GMT",
-      "sentiment": -0.016666666666666677
     },
     {
       "title": "Weil Gotshal Says It Is Shutting Its Doors",
@@ -475,16 +475,16 @@
       "sentiment": 0.08611111111111108
     },
     {
-      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
-      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 22:31:00 GMT",
-      "sentiment": 0.2333333333333333
-    },
-    {
       "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
       "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 21:25:00 GMT",
       "sentiment": 0.35
+    },
+    {
+      "title": "How Weil Gotshal, One of Wall Street’s Most Storied Law Firms, Ended Up in Chaos",
+      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 28 Oct 2026 22:31:00 GMT",
+      "sentiment": 0.2333333333333333
     },
     {
       "title": "Josh Kushner’s Thrive to Buy ADT for $7.6 Billion",
