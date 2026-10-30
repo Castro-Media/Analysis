@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Appellate court sides with former Harvey Park Board member alleging illegal removal",
+      "link": "https://www.chicagotribune.com/2026/10/30/appellate-court-rules-harvey-park-district/",
+      "published": "Fri, 30 Oct 2026 19:19:00 +0000",
+      "sentiment": -0.25
+    },
+    {
       "title": "Competing slates file for mayor, clerk and trustee in Homer Glen",
       "link": "https://www.chicagotribune.com/2026/10/30/competing-slates-mayor-trustee-homer-glen/",
       "published": "Fri, 30 Oct 2026 17:46:24 +0000",
@@ -31,10 +37,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Pope Leo mails in Chicago-area ballot, becoming the 1st pontiff in history to vote in a US election",
+      "title": "Chicago-born Pope Leo XIV casts ‘historic’ local mail-in ballot, becoming first pontiff to vote in US election",
       "link": "https://www.chicagotribune.com/2026/10/30/pope-leo-vote-us-election/",
       "published": "Fri, 30 Oct 2026 13:06:49 +0000",
-      "sentiment": 0.45
+      "sentiment": 0.175
     },
     {
       "title": "Mary Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation",
@@ -593,12 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/10/20/cnn-denied-access-air-force-one/",
       "published": "Tue, 20 Oct 2026 21:13:30 +0000",
       "sentiment": 0.14545454545454548
-    },
-    {
-      "title": "Outside task force needed to investigate Chicago police shootings: Illinois AG",
-      "link": "https://www.chicagotribune.com/2026/10/20/outside-task-force-needed-to-investigate-chicago-police-shootings-illinois-ag/",
-      "published": "Tue, 20 Oct 2026 20:36:54 +0000",
-      "sentiment": 0.0
     }
   ]
 }
