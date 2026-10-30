@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
+      "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "This L.A. city board is more than 150 years old. A ballot measure could quietly hasten its end",
+      "link": "https://www.latimes.com/politics/story/2026-10-30/la-public-works-board-ballot-measure-la",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.22000000000000003
+    },
+    {
+      "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "California, feds continue election war after courts rebuke challenge to 20,000 ballots",
       "link": "https://www.latimes.com/politics/story/2026-10-29/california-feds-continue-election-war-after-courts-rebuke-challenge-to-20-000-ballots",
       "published": "Thu, 29 Oct 2026 19:53:07 GMT",
@@ -13,16 +31,16 @@
       "sentiment": -0.43333333333333335
     },
     {
-      "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
-      "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08
-    },
-    {
       "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.018181818181818174
+    },
+    {
+      "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
+      "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.08
     },
     {
       "title": "Billionaire tax battle heats up on Instagram with unlikely influencers paid to pick sides",
@@ -151,16 +169,16 @@
       "sentiment": 0.275
     },
     {
-      "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash",
       "link": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Chabria: What decent people get wrong about the Amy Acton ad",
@@ -205,6 +223,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.075
+    },
+    {
       "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
       "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -221,12 +245,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
-    },
-    {
-      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.075
     },
     {
       "title": "Judge limits election-related immigration stops amid broader legal war ahead of midterms",
@@ -557,24 +575,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-06/trump-loves-to-bash-california-to-rally-base-let-em-take-out-la-is-just-latest",
       "published": "Tue, 6 Oct 2026 20:53:09 GMT",
       "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Becerra's 'son of immigrants' story emerges as latest flash point in governor's race",
-      "link": "https://www.latimes.com/california/story/2026-10-06/becerras-son-of-immigrants-story-emerges-as-latest-flash-point-in-governors-race",
-      "published": "Tue, 6 Oct 2026 20:15:10 GMT",
-      "sentiment": 0.16166666666666668
-    },
-    {
-      "title": "ABC says it's second-guessing news coverage decisions due to FCC's TV license review",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-06/abc-says-its-second-guessing-news-coverage-decisions-due-to-fccs-tv-license-review",
-      "published": "Tue, 6 Oct 2026 19:56:16 GMT",
-      "sentiment": -0.3125
-    },
-    {
-      "title": "Bernie Sanders boosts wealth tax while labor argues it would devastate California's economy",
-      "link": "https://www.latimes.com/california/story/2026-10-06/sanders-boosts-wealth-tax-labor-argues-it-would-devastate-economy",
-      "published": "Tue, 6 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     }
   ]
 }
