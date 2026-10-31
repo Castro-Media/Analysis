@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
+      "link": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html",
+      "published": "Sat, 31 Oct 2026 19:29:29 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "‘Poop Water’ Churns a Local Election in Parched Arizona",
+      "link": "https://www.nytimes.com/2026/10/31/us/poop-water-scottsdale-arizona.html",
+      "published": "Sat, 31 Oct 2026 19:01:13 +0000",
+      "sentiment": -0.12857142857142856
+    },
+    {
       "title": "Democrats File Suit Over Closed Polling Places in Rural Alaska",
       "link": "https://www.nytimes.com/2026/10/31/us/elections/democrats-lawsuit-alaska-elections.html",
       "published": "Sat, 31 Oct 2026 18:41:24 +0000",
@@ -9,14 +21,14 @@
     {
       "title": "Trump’s Arch Faces New Legal Challenge From Virginia and D.C.",
       "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html",
-      "published": "Sat, 31 Oct 2026 16:42:49 +0000",
+      "published": "Sat, 31 Oct 2026 19:11:06 +0000",
       "sentiment": 0.11212121212121212
     },
     {
-      "title": "One Dead in Halloween Store Shooting in California",
+      "title": "Shooting at Spirit Halloween in California Leaves at Least One Dead",
       "link": "https://www.nytimes.com/2026/10/31/us/shooting-spirit-halloween-california.html",
-      "published": "Sat, 31 Oct 2026 17:44:33 +0000",
-      "sentiment": -0.2
+      "published": "Sat, 31 Oct 2026 19:10:32 +0000",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Susan Collins Is Always Keeping Score",
@@ -33,7 +45,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/10/31/us/midterms-elections-trump/heres-the-latest",
-      "published": "Sat, 31 Oct 2026 12:01:32 +0000",
+      "published": "Sat, 31 Oct 2026 19:52:14 +0000",
       "sentiment": 0.5
     },
     {
@@ -45,7 +57,7 @@
     {
       "title": "Talarico Makes Final Election Pitch to Texans: ‘You Are My Slingshot’",
       "link": "https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html",
-      "published": "Sat, 31 Oct 2026 13:34:18 +0000",
+      "published": "Sat, 31 Oct 2026 13:34:19 +0000",
       "sentiment": 0.0
     },
     {
@@ -125,36 +137,6 @@
       "link": "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html",
       "published": "Fri, 30 Oct 2026 23:25:23 +0000",
       "sentiment": 0.09444444444444444
-    },
-    {
-      "title": "Appeals Court Again Rejects Trump Effort to Impound California Ballots",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html",
-      "published": "Fri, 30 Oct 2026 20:25:06 +0000",
-      "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "A Resurgent Justice Democrats Could Reshape a Democratic Congress",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/progressive-democrats-congress-2026.html",
-      "published": "Fri, 30 Oct 2026 19:28:01 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Prosecutors Suggest They May Seek Additional Comey Charges",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/james-comey-charges-doj.html",
-      "published": "Fri, 30 Oct 2026 20:22:31 +0000",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/special-master-reyes-trump-golf.html",
-      "published": "Fri, 30 Oct 2026 19:40:42 +0000",
-      "sentiment": 0.17857142857142858
-    },
-    {
-      "title": "Distaste for Lavrov Forces U.S. to Cancel G20 Photo Session in Atlanta",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html",
-      "published": "Fri, 30 Oct 2026 20:12:18 +0000",
-      "sentiment": 0.125
     }
   ]
 }
