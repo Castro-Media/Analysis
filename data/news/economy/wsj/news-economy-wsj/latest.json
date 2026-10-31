@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Fitch Cuts France’s Outlook to Negative on Weaker Growth, Widening Deficit",
+      "link": "https://www.wsj.com/world/europe/fitch-lowers-frances-outlook-to-negative-from-stable-27de23a3?mod=rss_socialeconomyfeed",
+      "published": "Sat, 31 Oct 2026 00:27:00 GMT",
+      "sentiment": -0.11666666666666665
+    },
+    {
+      "title": "U.S. national debt reached 100% of GDP this week, and Washington yawned. Now what?",
+      "link": "https://www.wsj.com/economy/fiscal-hawks-national-debt-midterms-gdp-8b7a950d?mod=rss_socialeconomyfeed",
+      "published": "Sat, 31 Oct 2026 00:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
       "link": "https://www.wsj.com/economy/central-banking/fed-needs-to-implement-at-least-two-more-rate-increases-dallas-feds-logan-says-c5003190?mod=rss_socialeconomyfeed",
       "published": "Fri, 30 Oct 2026 18:13:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/economy/housing/just-about-every-part-of-building-a-house-is-getting-more-expensive-d0f5ebcb?mod=rss_socialeconomyfeed",
       "published": "Fri, 30 Oct 2026 14:14:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Eurozone Economy Slows as French Debt Worries Mount",
-      "link": "https://www.wsj.com/economy/french-economy-shrinks-as-debt-worries-mount-562e99d0?mod=rss_socialeconomyfeed",
-      "published": "Fri, 30 Oct 2026 13:47:00 GMT",
-      "sentiment": 0.05333333333333334
-    },
-    {
-      "title": "Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes",
-      "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-holds-fire-while-signaling-rate-hikes-ahead-4bb8d423?mod=rss_socialeconomyfeed",
-      "published": "Fri, 30 Oct 2026 06:34:00 GMT",
-      "sentiment": 0.25833333333333336
     },
     {
       "title": "Irish Economy Surges Again in Boost to Eurozone",
@@ -97,6 +97,12 @@
       "sentiment": 0.05
     },
     {
+      "title": "Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes",
+      "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-holds-fire-while-signaling-rate-hikes-ahead-4bb8d423?mod=rss_socialeconomyfeed",
+      "published": "Fri, 30 Oct 2026 06:34:00 GMT",
+      "sentiment": 0.25833333333333336
+    },
+    {
       "title": "The European Central Bank left interest rates unchanged, hours after President Christine Lagarde said she would step down early",
       "link": "https://www.wsj.com/economy/central-banking/ecb-leaves-rates-unchanged-as-challenges-mount-for-lagardes-successor-153e78eb?mod=rss_socialeconomyfeed",
       "published": "Thu, 29 Oct 2026 13:27:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/economy/central-banking/kevin-warshs-judicious-pre-election-pause-2049700e?mod=rss_socialeconomyfeed",
       "published": "Thu, 29 Oct 2026 09:47:00 GMT",
       "sentiment": 0.35357142857142854
-    },
-    {
-      "title": "RBA’s Blunt Messaging Raises Questions About Peak in Rates",
-      "link": "https://www.wsj.com/economy/central-banking/reserve-bank-of-australias-blunt-messaging-raises-questions-about-peak-in-rates-eb1b378a?mod=rss_socialeconomyfeed",
-      "published": "Thu, 29 Oct 2026 05:06:00 GMT",
-      "sentiment": 0.07142857142857142
     },
     {
       "title": "German Consumers Grow Slightly Gloomier on Lingering Inflation Concerns",

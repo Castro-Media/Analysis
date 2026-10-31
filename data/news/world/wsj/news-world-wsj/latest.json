@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "How Iran Battered U.S. Bases and Caused Billions in Damage",
+      "link": "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224?mod=rss_worldnews",
+      "published": "Sat, 31 Oct 2026 00:30:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "The Methodology Behind the Journal’s Investigation of Damage to U.S. Bases",
+      "link": "https://www.wsj.com/world/middle-east/how-the-journal-investigated-iran-damage-bases-18cbd9ee?mod=rss_worldnews",
+      "published": "Sat, 31 Oct 2026 00:30:00 GMT",
+      "sentiment": -0.4
+    },
+    {
       "title": "EU, Canada Leaders Set Out Path to ‘Associate Membership’ Arrangement",
       "link": "https://www.wsj.com/world/europe/eu-canada-leaders-set-out-path-to-associate-membership-arrangement-c3ae806c?mod=rss_worldnews",
       "published": "Fri, 30 Oct 2026 21:53:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews",
       "published": "Fri, 30 Oct 2026 15:07:00 GMT",
       "sentiment": 0.225
-    },
-    {
-      "title": "The Troubled History of Russia’s Antiplague Institute",
-      "link": "https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews",
-      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
-      "link": "https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8?mod=rss_worldnews",
-      "published": "Thu, 29 Oct 2026 23:57:00 GMT",
-      "sentiment": 0.3666666666666667
     },
     {
       "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
@@ -193,10 +193,16 @@
       "sentiment": 0.06818181818181818
     },
     {
-      "title": "Fitch Lowers France’s Outlook to Negative From Stable",
+      "title": "Fitch Cuts France’s Outlook to Negative on Weaker Growth, Widening Deficit",
       "link": "https://www.wsj.com/world/europe/fitch-lowers-frances-outlook-to-negative-from-stable-27de23a3?mod=rss_worldnews",
-      "published": "Fri, 30 Oct 2026 21:54:00 GMT",
+      "published": "Sat, 31 Oct 2026 00:27:00 GMT",
       "sentiment": -0.11666666666666665
+    },
+    {
+      "title": "Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
+      "link": "https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8?mod=rss_worldnews",
+      "published": "Thu, 29 Oct 2026 23:57:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "Christine Lagarde to Resign Early as ECB President",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/spain-high-speed-rail-crash-kills-at-least-10-6c4fda57?mod=rss_worldnews",
       "published": "Wed, 28 Oct 2026 16:03:00 GMT",
       "sentiment": -0.175
-    },
-    {
-      "title": "German Consumers Grow Slightly Gloomier on Lingering Inflation Concerns",
-      "link": "https://www.wsj.com/economy/consumers/german-consumers-grow-slightly-gloomier-on-lingering-inflation-concerns-a15a9232?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 13:48:00 GMT",
-      "sentiment": -0.09166666666666667
     },
     {
       "title": "China’s Xi Demands More Loyalty as Purges Trim Party Elite",
@@ -253,6 +253,12 @@
       "sentiment": 0.3444444444444444
     },
     {
+      "title": "The Troubled History of Russia’s Antiplague Institute",
+      "link": "https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews",
+      "published": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
       "link": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce?mod=rss_worldnews",
       "published": "Mon, 26 Oct 2026 03:00:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/world/russia/russia-releases-captured-american-in-sign-of-warming-ties-d8acccaa?mod=rss_worldnews",
       "published": "Wed, 21 Oct 2026 13:45:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Trump Says He Would Be Open to Meeting With Putin and Xi",
-      "link": "https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd?mod=rss_worldnews",
-      "published": "Mon, 19 Oct 2026 21:55:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Trump’s Deportation Deal With Cameroon Will Equip Unit Accused of War Crimes",
@@ -377,18 +377,6 @@
       "link": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=rss_worldnews",
       "published": "Thu, 29 Oct 2026 09:47:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "I Went Home to Long Island to Find Out How the Iran War Is Shaping the Midterms",
-      "link": "https://www.wsj.com/politics/elections/i-went-home-to-long-island-to-find-out-how-the-iran-war-is-shaping-the-midterms-972264f2?mod=rss_worldnews",
-      "published": "Thu, 29 Oct 2026 09:01:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "U.S. Expels Cuban Diplomat After Extraordinary U.N. Verbal Clash",
-      "link": "https://www.wsj.com/world/u-s-expels-cuban-diplomat-after-extraordinary-u-n-verbal-clash-e32b0516?mod=rss_worldnews",
-      "published": "Thu, 29 Oct 2026 01:55:00 GMT",
-      "sentiment": 0.10416666666666666
     },
     {
       "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
