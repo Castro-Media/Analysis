@@ -7,16 +7,22 @@
       "sentiment": 0.5
     },
     {
+      "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+      "published": "Sat, 31 Oct 2026 21:50:29 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+      "published": "Sat, 31 Oct 2026 22:09:47 +0000",
+      "sentiment": 0.375
+    },
+    {
       "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
       "published": "Sat, 31 Oct 2026 04:01:13 +0000",
       "sentiment": -0.05
-    },
-    {
-      "title": "Hundreds of Thousands Join Another Round of Protests in France",
-      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
-      "published": "Sat, 31 Oct 2026 21:00:38 +0000",
-      "sentiment": -0.12291666666666667
     },
     {
       "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
@@ -55,12 +61,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Why Are There Protests in France?",
-      "link": "https://www.nytimes.com/article/france-student-protests-why.html",
-      "published": "Sat, 31 Oct 2026 11:48:56 +0000",
-      "sentiment": 0.03809523809523809
-    },
-    {
       "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
       "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
       "published": "Sat, 31 Oct 2026 09:19:30 +0000",
@@ -83,18 +83,6 @@
       "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
       "published": "Fri, 30 Oct 2026 19:09:14 +0000",
       "sentiment": -0.08888888888888889
-    },
-    {
-      "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
-      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
-      "published": "Sat, 31 Oct 2026 21:50:29 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-      "published": "Sat, 31 Oct 2026 21:40:07 +0000",
-      "sentiment": 0.25
     },
     {
       "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
@@ -335,6 +323,18 @@
       "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
       "published": "Thu, 29 Oct 2026 13:45:35 +0000",
       "sentiment": -0.1708333333333333
+    },
+    {
+      "title": "Hong Kong Leader Apologizes for Deadly Apartment Building Fire",
+      "link": "https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html",
+      "published": "Thu, 29 Oct 2026 11:34:49 +0000",
+      "sentiment": -0.17777777777777778
+    },
+    {
+      "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+      "published": "Fri, 30 Oct 2026 17:52:18 +0000",
+      "sentiment": 0.040625
     }
   ]
 }
