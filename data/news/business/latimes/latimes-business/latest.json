@@ -43,16 +43,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
-      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08901515151515152
-    },
-    {
       "title": "As Californian ports push truckers to go green, the struggling industry asks for more subsidies",
       "link": "https://www.latimes.com/business/story/2026-10-29/as-californian-ports-push-truckers-to-go-green-struggling-industry-asks-for-more-subsidies",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
+      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.08901515151515152
     },
     {
       "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
@@ -85,12 +85,6 @@
       "sentiment": 0.06818181818181818
     },
     {
-      "title": "Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess",
-      "link": "https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.39999999999999997
-    },
-    {
       "title": "West Hollywood's tallest tower could rise on a former concrete plant site",
       "link": "https://www.latimes.com/business/story/2026-10-27/former-concrete-plant-site-could-become-west-hollywoods-tallest-tower",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
@@ -101,6 +95,12 @@
       "link": "https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess",
+      "link": "https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.39999999999999997
     },
     {
       "title": "Skydance offers voluntary buyouts to some employees",
@@ -145,10 +145,10 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+      "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
+      "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Vallarta Supermarkets opens a new store",
@@ -157,10 +157,10 @@
       "sentiment": 0.0037878787878787845
     },
     {
-      "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
-      "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
+      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
+      "sentiment": -0.1
     },
     {
       "title": "Comcast to cut cable jobs, take $1-billion-plus charge as broadband losses deepen",
@@ -277,14 +277,14 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Hiltzik: The billionaires' campaign against the California billionaire tax rests on conjecture and fear-mongering",
-      "link": "https://www.latimes.com/business/story/2026-10-16/the-billionaires-campaign-against-california-billionaire-tax-relies-on-conjecture-and-fear-mongering",
+      "title": "Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution",
+      "link": "https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution",
-      "link": "https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution",
+      "title": "Hiltzik: The billionaires' campaign against the California billionaire tax rests on conjecture and fear-mongering",
+      "link": "https://www.latimes.com/business/story/2026-10-16/the-billionaires-campaign-against-california-billionaire-tax-relies-on-conjecture-and-fear-mongering",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
@@ -403,10 +403,10 @@
       "sentiment": 0.55
     },
     {
-      "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
-      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
+      "title": "Hiltzik: Trump rolls back fuel economy standards with another swipe at California's stringent anti-pollution rules",
+      "link": "https://www.latimes.com/business/story/2026-10-08/trump-rolls-back-fuel-economy-standards-just-as-gas-prices-are-soaring",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
+      "sentiment": -0.20000000000000004
     },
     {
       "title": "The Victorian, a popular Santa Monica party mansion, set to shut down",
@@ -415,10 +415,10 @@
       "sentiment": 0.15277777777777776
     },
     {
-      "title": "Hiltzik: Trump rolls back fuel economy standards with another swipe at California's stringent anti-pollution rules",
-      "link": "https://www.latimes.com/business/story/2026-10-08/trump-rolls-back-fuel-economy-standards-just-as-gas-prices-are-soaring",
+      "title": "At the ground zero of the AI boom, San Francisco Bay residents grapple with the technology",
+      "link": "https://www.latimes.com/business/story/2026-10-08/at-epicenter-of-ai-san-francisco-bay-residents-take-on-technology",
       "published": "Thu, 8 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.20000000000000004
+      "sentiment": 0.5
     },
     {
       "title": "Oprah-backed True Food Kitchen files for bankruptcy, closes 3 California restaurants",
@@ -439,16 +439,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Joby Aviation hit with $116.9-million verdict in trade secrets lawsuit",
-      "link": "https://www.latimes.com/business/story/2026-10-07/joby-aviation-hit-with-116-9-million-verdict-in-trade-secrets-lawsuit",
-      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Pool supply chain Leslie's shutters dozens of California stores in bankruptcy restructuring",
       "link": "https://www.latimes.com/business/story/2026-10-07/leslies-pool-supplies-in-bankruptcy-shutters-many-california-stores",
       "published": "Wed, 7 Oct 2026 10:00:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "Joby Aviation hit with $116.9-million verdict in trade secrets lawsuit",
+      "link": "https://www.latimes.com/business/story/2026-10-07/joby-aviation-hit-with-116-9-million-verdict-in-trade-secrets-lawsuit",
+      "published": "Wed, 7 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Bloc is back on the market as downtown L.A.'s office market shows signs of bottoming out",
