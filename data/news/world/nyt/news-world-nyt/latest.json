@@ -7,28 +7,40 @@
       "sentiment": -0.05
     },
     {
-      "title": "Train Disaster Is a Blow to Spain’s Leader, Already an Election Underdog",
+      "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
       "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-      "published": "Sat, 31 Oct 2026 11:42:16 +0000",
+      "published": "Sat, 31 Oct 2026 14:14:18 +0000",
       "sentiment": 0.03125
+    },
+    {
+      "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
+      "published": "Sat, 31 Oct 2026 14:08:06 +0000",
+      "sentiment": 0.175
     },
     {
       "title": "How Locals and Shopkeepers Tried to Save One Paris Street From Rioters",
       "link": "https://www.nytimes.com/2026/10/31/world/europe/france-riots-protests-paris-rue-beaurepaire.html",
-      "published": "Sat, 31 Oct 2026 09:05:39 +0000",
+      "published": "Sat, 31 Oct 2026 14:32:27 +0000",
       "sentiment": 0.5
     },
     {
       "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
       "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "published": "Sat, 31 Oct 2026 12:26:58 +0000",
+      "published": "Sat, 31 Oct 2026 14:22:20 +0000",
       "sentiment": 0.026620370370370367
     },
     {
       "title": "Here is the latest.",
       "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
-      "published": "Sat, 31 Oct 2026 12:58:04 +0000",
+      "published": "Sat, 31 Oct 2026 14:24:01 +0000",
       "sentiment": 0.1
+    },
+    {
+      "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+      "link": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
+      "published": "Sat, 31 Oct 2026 13:22:39 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Why Are There Protests in France?",
@@ -45,7 +57,7 @@
     {
       "title": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
-      "published": "Sat, 31 Oct 2026 07:18:22 +0000",
+      "published": "Sat, 31 Oct 2026 07:18:23 +0000",
       "sentiment": 0.16
     },
     {
@@ -61,18 +73,6 @@
       "sentiment": -0.020000000000000004
     },
     {
-      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
-      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
-      "published": "Sat, 31 Oct 2026 00:51:38 +0000",
-      "sentiment": 0.23611111111111108
-    },
-    {
-      "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-      "published": "Fri, 30 Oct 2026 09:03:38 +0000",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
       "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
       "published": "Fri, 30 Oct 2026 19:09:14 +0000",
@@ -83,6 +83,12 @@
       "link": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
       "published": "Fri, 30 Oct 2026 18:51:14 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "In Australia, Halloween Means Spring, Sunshine and Skepticism",
+      "link": "https://www.nytimes.com/2026/10/31/world/australia/australia-halloween-america-influence.html",
+      "published": "Sat, 31 Oct 2026 14:11:38 +0000",
+      "sentiment": 0.175
     },
     {
       "title": "French officials eye social media’s role in promoting unrest.",
@@ -109,6 +115,12 @@
       "sentiment": 0.11499999999999999
     },
     {
+      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
+      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+      "published": "Sat, 31 Oct 2026 00:51:38 +0000",
+      "sentiment": 0.23611111111111108
+    },
+    {
       "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
       "link": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
       "published": "Fri, 30 Oct 2026 18:45:35 +0000",
@@ -131,6 +143,12 @@
       "link": "https://www.nytimes.com/2026/10/30/world/europe/france-unrest-political-center.html",
       "published": "Fri, 30 Oct 2026 14:00:48 +0000",
       "sentiment": -0.3
+    },
+    {
+      "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
+      "link": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
+      "published": "Fri, 30 Oct 2026 09:03:38 +0000",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Taking the Saga of a Criminal Gang From Page to Screen to Opera Stage",
@@ -317,18 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
       "published": "Fri, 30 Oct 2026 05:24:20 +0000",
       "sentiment": 0.09999999999999998
-    },
-    {
-      "title": "In Marseille, Macron Confronts a Potent Mix of France’s Problems",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/france-marseille-macron-protests.html",
-      "published": "Thu, 29 Oct 2026 09:03:02 +0000",
-      "sentiment": 0.17777777777777778
-    },
-    {
-      "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
-      "published": "Thu, 29 Oct 2026 11:53:48 +0000",
-      "sentiment": -0.45340909090909093
     }
   ]
 }
