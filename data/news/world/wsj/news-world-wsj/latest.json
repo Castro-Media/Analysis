@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "China Economic Activity Loses Steam Sharply in October",
+      "link": "https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews",
+      "published": "Sat, 31 Oct 2026 01:50:00 GMT",
+      "sentiment": -0.075
+    },
+    {
+      "title": "Christine Lagarde’s Lonely Next Act: Defender of a Fading Globalist Order",
+      "link": "https://www.wsj.com/world/europe/christine-lagardes-lonely-next-act-defender-of-a-fading-globalist-order-5d2cb230?mod=rss_worldnews",
+      "published": "Sat, 31 Oct 2026 01:00:00 GMT",
+      "sentiment": -0.024999999999999994
+    },
+    {
       "title": "How Iran Battered U.S. Bases and Caused Billions in Damage",
       "link": "https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224?mod=rss_worldnews",
       "published": "Sat, 31 Oct 2026 00:30:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/china/china-scoops-up-data-that-could-aid-its-forces-in-waters-around-taiwan-7acaf563?mod=rss_worldnews",
       "published": "Fri, 30 Oct 2026 20:55:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
-      "link": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews",
-      "published": "Fri, 30 Oct 2026 16:41:00 GMT",
-      "sentiment": 0.009999999999999998
-    },
-    {
-      "title": "These Trucks Haul 90 Tons of Coal on Battery Power—and Drive Themselves",
-      "link": "https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews",
-      "published": "Fri, 30 Oct 2026 15:07:00 GMT",
-      "sentiment": 0.225
     },
     {
       "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "These Trucks Haul 90 Tons of Coal on Battery Power—and Drive Themselves",
+      "link": "https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews",
+      "published": "Fri, 30 Oct 2026 15:07:00 GMT",
+      "sentiment": 0.225
+    },
+    {
       "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information",
       "link": "https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_worldnews",
       "published": "Fri, 30 Oct 2026 13:01:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/world/asia/the-u-s-shipbuilding-revival-is-taking-lessons-halfway-around-the-world-d60f1816?mod=rss_worldnews",
       "published": "Sun, 25 Oct 2026 19:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge",
-      "link": "https://www.wsj.com/world/asia/kim-jong-un-makes-surprise-trip-to-china-crosses-new-bridge-3d0f7069?mod=rss_worldnews",
-      "published": "Sun, 25 Oct 2026 14:45:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "ICE Officer Indicted After Allegedly Striking Fleeing Man With Vehicle",
@@ -199,6 +199,12 @@
       "sentiment": -0.11666666666666665
     },
     {
+      "title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+      "link": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews",
+      "published": "Fri, 30 Oct 2026 16:41:00 GMT",
+      "sentiment": 0.009999999999999998
+    },
+    {
       "title": "Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
       "link": "https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8?mod=rss_worldnews",
       "published": "Thu, 29 Oct 2026 23:57:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/economy/global/irish-economy-surges-again-in-boost-to-eurozone-58395075?mod=rss_worldnews",
       "published": "Thu, 29 Oct 2026 11:54:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "Spain’s Second High-Speed Train Crash This Year Leaves Dozens Dead",
-      "link": "https://www.wsj.com/world/europe/spain-high-speed-rail-crash-kills-at-least-10-6c4fda57?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 16:03:00 GMT",
-      "sentiment": -0.175
     },
     {
       "title": "China’s Xi Demands More Loyalty as Purges Trim Party Elite",
@@ -371,12 +371,6 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
-    },
-    {
-      "title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
-      "link": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=rss_worldnews",
-      "published": "Thu, 29 Oct 2026 09:47:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
