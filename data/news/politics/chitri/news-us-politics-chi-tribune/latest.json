@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV and social media",
+      "link": "https://www.chicagotribune.com/2026/10/30/trump-administration-ads-pulled/",
+      "published": "Sat, 31 Oct 2026 02:10:42 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "Controversial DOJ attorney takes over ‘Broadview Six’ case, tells judge they have not agreed to cooperate",
       "link": "https://www.chicagotribune.com/2026/10/30/doj-not-cooperate-broaview-six/",
       "published": "Fri, 30 Oct 2026 22:05:18 +0000",
@@ -13,10 +19,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Top federal prosecutor in Alaska says criminal investigation underway over would-be spoiler Senate candidate",
+      "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
       "link": "https://www.chicagotribune.com/2026/10/30/federal-prosecutors-alaska-criminal-probe-elections-sullivan-peltola/",
       "published": "Fri, 30 Oct 2026 20:52:45 +0000",
-      "sentiment": 0.04999999999999999
+      "sentiment": -0.4
     },
     {
       "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
@@ -593,12 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/10/21/evergreen-park-district-124-68-million/",
       "published": "Wed, 21 Oct 2026 13:51:43 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Democrats’ faith in election results is falling but still exceeds Republicans’, AP-NORC poll finds",
-      "link": "https://www.chicagotribune.com/2026/10/21/democrats-republicans-election-results-ap-norc-poll/",
-      "published": "Wed, 21 Oct 2026 11:27:10 +0000",
-      "sentiment": 0.0
     }
   ]
 }
