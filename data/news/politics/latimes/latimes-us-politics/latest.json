@@ -31,6 +31,12 @@
       "sentiment": -0.10000000000000002
     },
     {
+      "title": "Election night TV coverage goes full nerd for the 2026 midterms",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0935897435897436
+    },
+    {
       "title": "Proposed billionaire tax could impact California sports teams",
       "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
@@ -41,12 +47,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333338
-    },
-    {
-      "title": "Election night TV coverage goes full nerd for the 2026 midterms",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0935897435897436
     },
     {
       "title": "Justice Dept. sent subpoenas to L.A. election officials. What that means and what happens next",
@@ -67,6 +67,12 @@
       "sentiment": 0.025
     },
     {
+      "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
@@ -77,12 +83,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": -0.11851851851851854
-    },
-    {
-      "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
@@ -115,16 +115,16 @@
       "sentiment": -0.43333333333333335
     },
     {
-      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.018181818181818174
-    },
-    {
       "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
       "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.08
+    },
+    {
+      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.018181818181818174
     },
     {
       "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
@@ -223,6 +223,12 @@
       "sentiment": 0.35714285714285715
     },
     {
+      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
+      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Chabria: California votes. Trump's Justice Department panics",
       "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
@@ -233,12 +239,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-26/trump-says-hes-trying-to-entice-russia-to-negotiate-it-doesnt-appear-to-be-working",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
-      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
@@ -253,16 +253,16 @@
       "sentiment": 0.275
     },
     {
-      "title": "Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
       "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Chabria: What decent people get wrong about the Amy Acton ad",
@@ -307,18 +307,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.075
-    },
-    {
-      "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
       "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -329,6 +317,18 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
+    },
+    {
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.075
+    },
+    {
+      "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Judge limits election-related immigration stops amid broader legal war ahead of midterms",
