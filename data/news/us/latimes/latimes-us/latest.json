@@ -1,10 +1,16 @@
 {
   "entries": [
     {
+      "title": "3 days trapped in a drain pipe -- officers rescue man in Riverside",
+      "link": "https://www.latimes.com/environment/story/2026-10-31/3-days-trapped-in-drain-pipe-officers-rescue-man-in-riverside",
+      "published": "Sun, 1 Nov 2026 02:16:02 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Massive sewage main break prompts closure of all coastal waters off Long Beach",
       "link": "https://www.latimes.com/california/story/2026-10-31/sewage-main-break-prompts-closure-of-all-coastal-waters-off-long-beach",
       "published": "Sat, 31 Oct 2026 21:55:09 GMT",
-      "sentiment": 0.016666666666666663
+      "sentiment": 0.019047619047619042
     },
     {
       "title": "Dana Point landmark Ritz-Carlton, Laguna Niguel resort sells for $600 million",
@@ -43,18 +49,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
-      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Your last-minute guide to L.A. County Charter Amendment A",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-charter-amendment-a-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.0625
-    },
-    {
       "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
@@ -67,22 +61,10 @@
       "sentiment": 0.22500000000000003
     },
     {
-      "title": "Your last-minute guide to L.A. City Council races: Districts 3 and 9",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-city-council-district-3-9-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Your last-minute guide to education-related ballot measures",
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-state-schools-superintendent-community-college-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Your last-minute guide to all California propositions",
-      "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.10500000000000001
     },
     {
       "title": "Your last-minute guide to every L.A. city charter amendments, ballot measures",
@@ -91,8 +73,32 @@
       "sentiment": 0.0
     },
     {
-      "title": "A tribe returns, joyful, to 51 acres in the San Gabriel foothills",
-      "link": "https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres",
+      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
+      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Your last-minute guide to L.A. County Charter Amendment A",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-charter-amendment-a-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Your last-minute guide to L.A. City Council races: Districts 3 and 9",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-city-council-district-3-9-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Your last-minute guide to all California propositions",
+      "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.10500000000000001
+    },
+    {
+      "title": "Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department",
+      "link": "https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
@@ -103,16 +109,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department",
-      "link": "https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva",
+      "title": "A tribe returns, joyful, to 51 acres in the San Gabriel foothills",
+      "link": "https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Arellano: This is the prayer Catholic bishops should have offered to Trump",
-      "link": "https://www.latimes.com/california/story/2026-10-31/prayer-trump-catholic-bishops",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.225
     },
     {
       "title": "Inside the local ballot measures L.A. will vote on in the Nov. 3 election",
@@ -121,16 +121,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Two competitive L.A. City Council seats are on the Nov. 3 ballot",
+      "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Raman says the LAPD has grown more secretive under Chief Jim McDonnell. Has it?",
       "link": "https://www.latimes.com/california/story/2026-10-31/lapd-chief-jim-mcdonnell-public-records-crime-stats-secrecy",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.175
     },
     {
-      "title": "Two competitive L.A. City Council seats are on the Nov. 3 ballot",
-      "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
+      "title": "Arellano: This is the prayer Catholic bishops should have offered to Trump",
+      "link": "https://www.latimes.com/california/story/2026-10-31/prayer-trump-catholic-bishops",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
+      "sentiment": 0.225
     },
     {
       "title": "A pregnant woman killed, 6 injured in Bay Area Spirit Halloween shooting",
@@ -241,6 +247,12 @@
       "sentiment": 0.025
     },
     {
+      "title": "Your last-minute guide to Proposition 38: Research funding for immunology, immunotherapy",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-38-immunology-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
@@ -251,12 +263,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": -0.11851851851851854
-    },
-    {
-      "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Your last-minute guide to Proposition 44: Health center spending",
@@ -271,8 +277,8 @@
       "sentiment": 0.375
     },
     {
-      "title": "Your last-minute guide to Proposition 38: Research funding for immunology, immunotherapy",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-38-immunology-last-minute-voter-guide",
+      "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
     },
@@ -307,12 +313,6 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Arson, conspiracy are behind devastating Old Town Newhall fire, authorities say; 4 arrested",
-      "link": "https://www.latimes.com/california/story/2026-10-30/arson-conspiracy-are-behind-devastating-old-town-newhall-fire-authorities-say-4-arrested",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.3916666666666666
-    },
-    {
       "title": "Newsom announces a state 'strike force' to smooth path for 2028 Olympics",
       "link": "https://www.latimes.com/california/story/2026-10-30/newsom-announces-28-olympics-state-strike-force",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
@@ -329,6 +329,12 @@
       "link": "https://www.latimes.com/california/story/2026-10-30/l-a-s-black-leaders-uneasy-about-bass-chances-amid-declining-clout",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
       "sentiment": 0.03333333333333334
+    },
+    {
+      "title": "Arson, conspiracy are behind devastating Old Town Newhall fire, authorities say; 4 arrested",
+      "link": "https://www.latimes.com/california/story/2026-10-30/arson-conspiracy-are-behind-devastating-old-town-newhall-fire-authorities-say-4-arrested",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.3916666666666666
     },
     {
       "title": "This L.A. city board is more than 120 years old. A ballot measure could quietly hasten its end",
@@ -415,16 +421,16 @@
       "sentiment": 0.06666666666666668
     },
     {
-      "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
-      "link": "https://www.latimes.com/california/story/2026-10-29/raman-leads-among-younger-voters-polls-show-but-bass-isnt-conceding-any-ground",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.21666666666666667
-    },
-    {
       "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.018181818181818174
+    },
+    {
+      "title": "Raman leads among younger voters, polls show, but Bass isn't conceding any ground",
+      "link": "https://www.latimes.com/california/story/2026-10-29/raman-leads-among-younger-voters-polls-show-but-bass-isnt-conceding-any-ground",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.21666666666666667
     },
     {
       "title": "L.A. city and county fend off a court battle over homeless services",
@@ -553,28 +559,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Proposition 45 would sideline dozens of tribes from input on major California projects",
-      "link": "https://www.latimes.com/environment/story/2026-10-28/prop-45-would-bar-dozens-of-tribes-from-consulting-on-development-projects",
-      "published": "Wed, 28 Oct 2026 11:00:00 GMT",
-      "sentiment": 0.11607142857142856
-    },
-    {
       "title": "Teens work, drive and pay taxes. But should they vote? This California city will soon decide",
       "link": "https://www.latimes.com/california/story/2026-10-28/la-me-culver-city-youth-vote-election",
       "published": "Wed, 28 Oct 2026 11:00:00 GMT",
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Surprising close encounters with marine predators in California bring awe and fear",
-      "link": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.22500000000000003
-    },
-    {
-      "title": "Arellano: Nithya Raman is learning Spanish. What that says about her vision for L.A.",
-      "link": "https://www.latimes.com/california/story/2026-10-28/nithya-raman-learning-spanish",
-      "published": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.25
+      "title": "Proposition 45 would sideline dozens of tribes from input on major California projects",
+      "link": "https://www.latimes.com/environment/story/2026-10-28/prop-45-would-bar-dozens-of-tribes-from-consulting-on-development-projects",
+      "published": "Wed, 28 Oct 2026 11:00:00 GMT",
+      "sentiment": 0.11607142857142856
     }
   ]
 }
