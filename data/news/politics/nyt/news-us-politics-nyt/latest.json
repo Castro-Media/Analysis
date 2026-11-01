@@ -1,6 +1,60 @@
 {
   "entries": [
     {
+      "title": "Democrats Want to Prove They Can Win in the Rapidly Changing South",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/southern-democrats-midterms.html",
+      "published": "Sun, 01 Nov 2026 10:02:53 +0000",
+      "sentiment": 0.04848484848484849
+    },
+    {
+      "title": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html",
+      "published": "Sun, 01 Nov 2026 10:02:36 +0000",
+      "sentiment": 0.2866666666666667
+    },
+    {
+      "title": "Culture War Tensions Roil Beverly Hills School Board Race",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/beverly-hills-school-board.html",
+      "published": "Sun, 01 Nov 2026 10:02:22 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "This Republican Wants Voters to Consider a Post-Trump World",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/john-sununu-new-hampshire-senate-race.html",
+      "published": "Sun, 01 Nov 2026 10:02:08 +0000",
+      "sentiment": 0.16818181818181818
+    },
+    {
+      "title": "Gaffes and Men’s Bodies: Analysis of Trump’s Speeches at Age 80",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/trump-speeches-rallies-age.html",
+      "published": "Sun, 01 Nov 2026 10:01:59 +0000",
+      "sentiment": 0.2666666666666667
+    },
+    {
+      "title": "In L.A., a Stark Generational Divide May Determine the Mayor’s Race",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/la-mayor-election-generational-divide.html",
+      "published": "Sun, 01 Nov 2026 10:01:01 +0000",
+      "sentiment": -0.020833333333333343
+    },
+    {
+      "title": "Ocasio-Cortez Has Evolved. She Wants the Left to Evolve, Too.",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/ocasio-cortez-dsa.html",
+      "published": "Sun, 01 Nov 2026 10:00:59 +0000",
+      "sentiment": 0.11212121212121212
+    },
+    {
+      "title": "As Political Ad Spending Skyrockets, Broadcast TV Remains King",
+      "link": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
+      "published": "Sun, 01 Nov 2026 10:00:52 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Why This Playwright Can’t Quit His Family of Anxious Liberals",
+      "link": "https://www.nytimes.com/2026/11/01/theater/richard-nelson-apple-family-public-theater.html",
+      "published": "Sun, 01 Nov 2026 10:00:17 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago",
       "link": "https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html",
       "published": "Sun, 01 Nov 2026 03:37:24 +0000",
@@ -65,60 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
       "published": "Sat, 31 Oct 2026 09:00:44 +0000",
       "sentiment": -0.18333333333333335
-    },
-    {
-      "title": "How Trump Is Dismantling America’s Scientific Research Machine",
-      "link": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
-      "published": "Sat, 31 Oct 2026 17:32:04 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Judge Blocks Expediting Migrant Children’s Asylum Cases, For Now",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/children-asylum-fast-track-deport.html",
-      "published": "Sat, 31 Oct 2026 00:50:07 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
-      "published": "Sat, 31 Oct 2026 01:33:31 +0000",
-      "sentiment": 0.1125
-    },
-    {
-      "title": "Why Running for the U.S. Senate Is a Rich Person’s Game",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/us-senate-races-millionaires-wealth.html",
-      "published": "Fri, 30 Oct 2026 22:58:45 +0000",
-      "sentiment": -0.012500000000000011
-    },
-    {
-      "title": "Alina Habba’s Husband Ignited Drama in Trump’s Circle. Now He’s Under Scrutiny.",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/alina-habba-turhan-mildon-trump-congo-venezuela.html",
-      "published": "Sat, 31 Oct 2026 00:01:53 +0000",
-      "sentiment": 0.049999999999999996
-    },
-    {
-      "title": "Trump’s Plane Flyover Is a Halloween Trick for Startled D.C. Residents",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html",
-      "published": "Fri, 30 Oct 2026 23:25:23 +0000",
-      "sentiment": 0.09444444444444444
-    },
-    {
-      "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
-      "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
-      "published": "Fri, 30 Oct 2026 23:42:10 +0000",
-      "sentiment": 0.0875
-    },
-    {
-      "title": "Appeals Court Again Rejects Trump Effort to Impound California Ballots",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html",
-      "published": "Fri, 30 Oct 2026 20:25:06 +0000",
-      "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "A Resurgent Justice Democrats Could Reshape a Democratic Congress",
-      "link": "https://www.nytimes.com/2026/10/30/us/politics/progressive-democrats-congress-2026.html",
-      "published": "Sun, 01 Nov 2026 01:01:27 +0000",
-      "sentiment": 0.5
     }
   ]
 }
