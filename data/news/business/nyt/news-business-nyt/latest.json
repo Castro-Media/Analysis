@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches",
+      "link": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+      "published": "Mon, 02 Nov 2026 15:48:38 +0000",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+      "link": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+      "published": "Mon, 02 Nov 2026 14:55:57 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
       "link": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
-      "published": "Mon, 02 Nov 2026 13:37:44 +0000",
+      "published": "Mon, 02 Nov 2026 15:11:33 +0000",
       "sentiment": 0.0
     },
     {
@@ -51,8 +63,8 @@
     {
       "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
       "link": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
-      "published": "Mon, 02 Nov 2026 13:09:42 +0000",
-      "sentiment": 0.55
+      "published": "Mon, 02 Nov 2026 15:16:03 +0000",
+      "sentiment": 0.5333333333333333
     },
     {
       "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html",
       "published": "Thu, 29 Oct 2026 11:45:05 +0000",
       "sentiment": 0.07272727272727272
-    },
-    {
-      "title": "Volkswagen ‘Must Act Quickly’ After Largest Loss in Over a Decade",
-      "link": "https://www.nytimes.com/2026/10/29/business/volkswagen-loss-china.html",
-      "published": "Thu, 29 Oct 2026 14:35:12 +0000",
-      "sentiment": 0.2222222222222222
-    },
-    {
-      "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
-      "link": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-      "published": "Thu, 29 Oct 2026 18:52:07 +0000",
-      "sentiment": 0.0
     }
   ]
 }
