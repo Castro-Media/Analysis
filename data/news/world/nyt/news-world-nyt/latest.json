@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "China’s Message to Its Rivals: You Need What We Make",
+      "link": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
+      "published": "Mon, 02 Nov 2026 05:00:08 +0000",
+      "sentiment": 0.024999999999999994
+    },
+    {
+      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+      "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+      "published": "Mon, 02 Nov 2026 05:01:07 +0000",
+      "sentiment": -0.15
+    },
+    {
       "title": "India’s Congress Party Holds Mass Protest in New Delhi",
       "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
       "published": "Sun, 01 Nov 2026 16:51:34 +0000",
@@ -67,30 +79,6 @@
       "sentiment": 0.03125
     },
     {
-      "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
-      "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
-      "published": "Sat, 31 Oct 2026 18:06:13 +0000",
-      "sentiment": 0.175
-    },
-    {
-      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
-      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
-      "published": "Sun, 01 Nov 2026 20:08:50 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
-      "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
-      "published": "Mon, 02 Nov 2026 05:01:07 +0000",
-      "sentiment": -0.15
-    },
-    {
-      "title": "China’s Message to Its Rivals: You Need What We Make",
-      "link": "https://www.nytimes.com/2026/11/02/world/asia/chinas-message-to-its-rivals-you-need-what-we-make.html",
-      "published": "Mon, 02 Nov 2026 05:00:08 +0000",
-      "sentiment": 0.024999999999999994
-    },
-    {
       "title": "A Lesson From Germany",
       "link": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
       "published": "Mon, 02 Nov 2026 05:35:54 +0000",
@@ -115,9 +103,21 @@
       "sentiment": 0.0
     },
     {
+      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+      "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+      "published": "Sun, 01 Nov 2026 20:08:50 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "In Australia, Halloween Means Spring, Sunshine and Skepticism",
       "link": "https://www.nytimes.com/2026/10/31/world/australia/australia-halloween-america-influence.html",
       "published": "Sat, 31 Oct 2026 14:11:38 +0000",
+      "sentiment": 0.175
+    },
+    {
+      "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
+      "published": "Sat, 31 Oct 2026 18:06:13 +0000",
       "sentiment": 0.175
     },
     {

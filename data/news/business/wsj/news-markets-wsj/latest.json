@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "European Indexes Open Mostly Lower as Healthcare Stocks Slide",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 08:25:00 GMT",
+      "sentiment": 0.14285714285714285
+    },
+    {
       "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
       "link": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
       "published": "Sun, 01 Nov 2026 18:54:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 23:29:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen",
-      "link": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 22:43:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "BOE Expected to Join Peers in Raising Key Rate",
+      "link": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 07:28:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "NatWest Shares Fall After Bank’s Interest Income Guidance Disappoints",
       "link": "https://www.wsj.com/business/earnings/natwest-earnings-boosted-by-higher-net-interest-income-20ebc371?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 14:17:00 GMT",
@@ -91,10 +97,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion",
-      "link": "https://www.wsj.com/finance/banking/jpmorgans-skyscraper-on-park-avenue-estimated-to-cost-around-6-billion-76881bb3?mod=rss_markets_main",
-      "published": "Wed, 28 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.0
+      "title": "Treasury Yields Little Changed in Asian Trade Ahead of Midterms, Key Data This Week",
+      "link": "https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 07:10:00 GMT",
+      "sentiment": 0.010416666666666666
     },
     {
       "title": "Why This Upscale Miami District Is Designated a Distressed Opportunity Zone",
@@ -115,22 +121,10 @@
       "sentiment": -0.025
     },
     {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2270c51d?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 21:34:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-e8eff14c?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 21:34:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Nikkei Falls 0.9%, Dragged by Bank, Tech Stocks",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 00:30:00 GMT",
-      "sentiment": -0.3
+      "title": "Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen",
+      "link": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 22:43:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "The Tangled Web of AI Bets Is Reason to Fear Tech Stocks",
@@ -155,6 +149,12 @@
       "link": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 21:36:00 GMT",
       "sentiment": -0.0625
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-e8eff14c?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 21:34:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
@@ -223,16 +223,22 @@
       "sentiment": -0.08333333333333333
     },
     {
-      "title": "Asian Currencies Mixed as Investors Await U.S. Economic Data",
+      "title": "Euro Could Stay Weak After Fitch Downgrades France Outlook",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 01:08:00 GMT",
-      "sentiment": 0.046875
+      "published": "Mon, 02 Nov 2026 08:12:00 GMT",
+      "sentiment": -0.1125
     },
     {
       "title": "WSJ Dollar Index Rises 0.04% This Month to 97.08",
       "link": "https://www.wsj.com/finance/currencies/singapore-dollar-strengthens-amid-falling-u-s-treasury-yields-b806c8af?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 21:44:00 GMT",
       "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2270c51d?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 21:34:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Cryptocurrencies Pare Losses After $6.3 Billion Hack Spooks Markets",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/finance/currencies/how-binance-is-scrambling-to-cover-losses-in-the-biggest-heist-in-crypto-history-babbfe90?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 13:55:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
-      "link": "https://www.wsj.com/finance/clues-point-to-familiar-culprit-in-massive-binance-crypto-heist-north-korea-d1fd887d?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 12:01:00 GMT",
-      "sentiment": 0.095
     },
     {
       "title": "Polymarket Is Investigating Suspicious Trades on Israel Election",
@@ -307,10 +307,10 @@
       "sentiment": 0.4872727272727273
     },
     {
-      "title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 11:23:00 GMT",
-      "sentiment": 0.4
+      "title": "Clues Point to Familiar Culprit in Massive Binance Crypto Heist: North Korea",
+      "link": "https://www.wsj.com/finance/clues-point-to-familiar-culprit-in-massive-binance-crypto-heist-north-korea-d1fd887d?mod=rss_markets_main",
+      "published": "Fri, 30 Oct 2026 12:01:00 GMT",
+      "sentiment": 0.095
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
