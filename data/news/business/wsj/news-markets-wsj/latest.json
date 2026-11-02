@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Turns Lower; Dow Rises After Friday's Selloff",
+      "title": "Stock Market Today: Investors Digest Apple Earnings; Nasdaq Falls",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 09:46:46 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 21:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Oil Tumbles, but Stocks Fail To Launch",
+      "link": "https://www.wsj.com/finance/investing/oil-tumbles-but-stocks-fail-to-launch-90972f94?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 21:16:00 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "U.S. Natural Gas Futures See Modest Pick-Up",
@@ -28,18 +40,6 @@
       "title": "Netflix Needs You to Watch, Not Just Pay",
       "link": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "European Indexes Open Mostly Lower as Healthcare Stocks Slide",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 08:25:00 GMT",
-      "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-      "link": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
-      "published": "Sun, 01 Nov 2026 18:54:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -103,6 +103,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "U.S. Stocks Mixed as Percolating AI Fears Offset Oil Relief",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-percolating-ai-fears-offset-oil-relief-6c9535a6?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 21:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
       "link": "https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 19:10:00 GMT",
@@ -127,16 +133,16 @@
       "sentiment": -0.10416666666666667
     },
     {
-      "title": "How BJ’s Restaurants Is Looking Beyond Its Signature Dessert to Fill Restaurants",
-      "link": "https://www.wsj.com/business/c-suite/how-bjs-restaurants-is-looking-beyond-its-signature-dessert-to-fill-restaurants-b1d9912d?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 12:13:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Dow Rebounds After Friday’s Selloff as Oil Slides",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 19:23:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "European Indexes Open Mostly Lower as Healthcare Stocks Slide",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 08:25:00 GMT",
+      "sentiment": 0.14285714285714285
     },
     {
       "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
       "published": "Sat, 31 Oct 2026 03:00:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 22:04:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
@@ -241,6 +241,12 @@
       "sentiment": 0.15000000000000002
     },
     {
+      "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+      "link": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
+      "published": "Sun, 01 Nov 2026 18:54:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
       "link": "https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 23:29:00 GMT",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/singapore-dollar-strengthens-amid-falling-u-s-treasury-yields-b806c8af?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 21:44:00 GMT",
       "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2270c51d?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 21:34:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Polymarket Is Investigating Suspicious Trades on Israel Election",
