@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+      "published": "Mon, 02 Nov 2026 10:30:54 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
+      "published": "Mon, 02 Nov 2026 10:05:00 +0000",
+      "sentiment": 0.325
+    },
+    {
+      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+      "published": "Mon, 02 Nov 2026 10:00:50 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "China’s Message to Its Rivals: You Need What We Make",
       "link": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
       "published": "Mon, 02 Nov 2026 05:00:08 +0000",
@@ -61,22 +79,22 @@
       "sentiment": 0.5
     },
     {
-      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-      "published": "Sat, 31 Oct 2026 23:05:42 +0000",
-      "sentiment": 0.375
+      "title": "Do Animals Grieve?",
+      "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
+      "published": "Mon, 02 Nov 2026 10:02:39 +0000",
+      "sentiment": -0.05833333333333333
     },
     {
-      "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
-      "published": "Sat, 31 Oct 2026 04:01:13 +0000",
-      "sentiment": -0.05
+      "title": "Deportees Turn to TikTok to Document Life Starting Over",
+      "link": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
+      "published": "Mon, 02 Nov 2026 10:01:55 +0000",
+      "sentiment": 0.0
     },
     {
-      "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
-      "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
-      "published": "Sat, 31 Oct 2026 14:14:19 +0000",
-      "sentiment": 0.03125
+      "title": "Why Did Snakes Lose Their Legs? And 9 More Animal Mysteries",
+      "link": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
+      "published": "Mon, 02 Nov 2026 10:00:21 +0000",
+      "sentiment": 0.33999999999999997
     },
     {
       "title": "A Lesson From Germany",
@@ -95,6 +113,12 @@
       "link": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html",
       "published": "Sun, 01 Nov 2026 15:10:28 +0000",
       "sentiment": 0.5
+    },
+    {
+      "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+      "published": "Sat, 31 Oct 2026 23:05:42 +0000",
+      "sentiment": 0.375
     },
     {
       "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
@@ -139,6 +163,12 @@
       "sentiment": -0.09375
     },
     {
+      "title": "Train Disaster Is Blow to Spain’s Leader, Already Election Underdog",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/spain-train-crash-politics.html",
+      "published": "Sat, 31 Oct 2026 14:14:19 +0000",
+      "sentiment": 0.03125
+    },
+    {
       "title": "Here is the latest.",
       "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/france-student-protests-halloween",
       "published": "Sat, 31 Oct 2026 19:46:20 +0000",
@@ -161,6 +191,12 @@
       "link": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
       "published": "Sat, 31 Oct 2026 07:18:23 +0000",
       "sentiment": 0.16
+    },
+    {
+      "title": "Will Digging Up Vietnam’s War Dead Heal Old Wounds or Reopen Them?",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html",
+      "published": "Sat, 31 Oct 2026 04:01:13 +0000",
+      "sentiment": -0.05
     },
     {
       "title": "Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery",
@@ -305,36 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
       "published": "Fri, 30 Oct 2026 15:02:51 +0000",
       "sentiment": 0.029166666666666667
-    },
-    {
-      "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
-      "link": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
-      "published": "Fri, 30 Oct 2026 10:14:33 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Venezuelan Opposition Leader Thanks Trump But Marks Distance from Washington",
-      "link": "https://www.nytimes.com/2026/10/29/world/americas/machado-trump-venezuela-return.html",
-      "published": "Thu, 29 Oct 2026 22:28:05 +0000",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
-      "link": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
-      "published": "Thu, 29 Oct 2026 22:49:01 +0000",
-      "sentiment": 0.14375
-    },
-    {
-      "title": "The Perils of Glittering Skylines",
-      "link": "https://www.nytimes.com/2026/10/29/world/glass-skyscrapers-climate-patrick-stewart.html",
-      "published": "Fri, 30 Oct 2026 05:36:36 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
-      "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-      "published": "Thu, 29 Oct 2026 21:36:23 +0000",
-      "sentiment": 0.033333333333333326
     }
   ]
 }
