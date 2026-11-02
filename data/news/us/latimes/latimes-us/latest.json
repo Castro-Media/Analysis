@@ -22,7 +22,7 @@
       "title": "Didn't register to vote? Here's how you still can cast a ballot",
       "link": "https://www.latimes.com/california/story/2026-11-02/2026-california-general-election-same-day-registration-last-minute-voter-guide",
       "published": "Mon, 2 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.02500000000000001
     },
     {
       "title": "Jurupa Valley's Patriot High has become an unlikely hotbed for flag football",
@@ -139,10 +139,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Your last-minute guide to obscure but important statewide races in California",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-lesser-known-races-last-minute-voter-guide",
+      "title": "Your last-minute guide to all California propositions",
+      "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.22500000000000003
+      "sentiment": 0.10500000000000001
     },
     {
       "title": "Your last-minute guide to every L.A. city charter amendments, ballot measures",
@@ -151,10 +151,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to all California propositions",
-      "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
+      "title": "Your last-minute guide to obscure but important statewide races in California",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-lesser-known-races-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.10500000000000001
+      "sentiment": 0.22500000000000003
     },
     {
       "title": "Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department",
@@ -307,18 +307,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.11851851851851854
-    },
-    {
       "title": "Your last-minute guide to Proposition 44: Health center spending",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-44-health-clinic-spending-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
@@ -331,22 +319,10 @@
       "sentiment": 0.375
     },
     {
-      "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Commentary: California's super-rich conquered the world, but not always the voters",
       "link": "https://www.latimes.com/california/story/2026-10-30/californias-super-rich-conquered-world-but-not-always-voters",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Your last-minute guide to the L.A. Community College District elections",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-community-college-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.8
     },
     {
       "title": "Your last-minute guide to L.A. County Superior Court judge elections",
@@ -365,6 +341,30 @@
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-important-races-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.4
+    },
+    {
+      "title": "Your last-minute guide to the L.A. Community College District elections",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-community-college-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.8
+    },
+    {
+      "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.11851851851851854
     },
     {
       "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
