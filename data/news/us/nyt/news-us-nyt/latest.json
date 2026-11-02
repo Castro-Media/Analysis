@@ -1,9 +1,33 @@
 {
   "entries": [
     {
+      "title": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+      "published": "Mon, 02 Nov 2026 16:48:54 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Returns to Reflecting Pool, Now Refilled After Botched Renovation",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-refilled-botched-repairs.html",
+      "published": "Mon, 02 Nov 2026 16:31:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Accused of Voter Fraud, They Ended Up in Shackles",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
+      "published": "Mon, 02 Nov 2026 15:58:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Early Voting Turnout Offers Promising Signs for Democrats",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/early-vote-turnout-senate-battlegrounds.html",
+      "published": "Mon, 02 Nov 2026 15:57:32 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
       "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charged-midterms.html",
-      "published": "Mon, 02 Nov 2026 15:55:20 +0000",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html",
+      "published": "Mon, 02 Nov 2026 16:12:25 +0000",
       "sentiment": 0.0
     },
     {
@@ -15,8 +39,8 @@
     {
       "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
       "link": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
-      "published": "Mon, 02 Nov 2026 15:25:58 +0000",
-      "sentiment": 0.225
+      "published": "Mon, 02 Nov 2026 16:19:30 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Why Do Pilots Say ‘Mayday’? The Story Behind the Distress Call",
@@ -27,7 +51,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/heres-the-latest",
-      "published": "Mon, 02 Nov 2026 15:22:00 +0000",
+      "published": "Mon, 02 Nov 2026 16:33:01 +0000",
       "sentiment": 0.5
     },
     {
@@ -175,10 +199,10 @@
       "sentiment": 0.06818181818181818
     },
     {
-      "title": "Desperate Mayday as Small Plane Crashes in Florida, Killing 9",
+      "title": "Plane Crash Kills 9 in Palm Beach County After ‘Mayday’ Distress Call",
       "link": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
       "published": "Mon, 02 Nov 2026 13:41:45 +0000",
-      "sentiment": -0.19999999999999998
+      "sentiment": 0.25
     },
     {
       "title": "Alaska’s Republican senator says he’ll accept the race result, even as he says it could be ‘stolen.’",
@@ -226,30 +250,6 @@
       "title": "Does the Needle use A.I.?",
       "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/does-the-needle-use-ai",
       "published": "Sun, 01 Nov 2026 17:35:46 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How do you read the Needle?",
-      "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/how-do-you-read-the-needle",
-      "published": "Sun, 01 Nov 2026 17:35:30 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Where does the data for the Needle come from, and what kind of data do we collect?",
-      "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/where-does-the-data-for-the-needle-come-from-and-what-kind-of-data-do-we-collect",
-      "published": "Sun, 01 Nov 2026 17:35:16 +0000",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Why have the Needle?",
-      "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/why-have-the-needle",
-      "published": "Sun, 01 Nov 2026 17:34:59 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Here’s what to expect as votes are counted on election night.",
-      "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/heres-what-to-expect-as-votes-are-counted-on-election-night",
-      "published": "Sun, 01 Nov 2026 17:43:27 +0000",
       "sentiment": 0.0
     }
   ]
