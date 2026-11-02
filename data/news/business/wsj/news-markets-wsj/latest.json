@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stock Futures Recover After Friday's Selloff",
+      "title": "Stock Market Today: Oil Slides on Mideast Hopes; Stocks Rebound After Friday's Selloff",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 09:46:46 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.7
+    },
+    {
+      "title": "U.S. Natural Gas Futures See Modest Pick-Up",
+      "link": "https://www.wsj.com/finance/commodities-futures/morgan-stanley-raises-bullish-european-gas-price-scenario-on-winter-supply-risks-77062b22?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 14:42:00 GMT",
+      "sentiment": 0.22000000000000003
     },
     {
       "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
@@ -34,12 +40,6 @@
       "title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
       "link": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
       "published": "Sun, 01 Nov 2026 18:54:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
-      "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main",
-      "published": "Sun, 01 Nov 2026 15:23:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -139,6 +139,12 @@
       "sentiment": 0.2833333333333333
     },
     {
+      "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+      "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main",
+      "published": "Sun, 01 Nov 2026 15:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Tangled Web of AI Bets Is Reason to Fear Tech Stocks",
       "link": "https://www.wsj.com/tech/the-tangled-web-of-ai-bets-is-reason-to-fear-tech-stocks-905bde86?mod=rss_markets_main",
       "published": "Sun, 01 Nov 2026 10:30:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 22:04:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-de956702?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 21:39:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
@@ -199,10 +199,10 @@
       "sentiment": -0.1
     },
     {
-      "title": "Oil Drops More Than 4% on U.S.-Iran Diplomatic Hopes",
+      "title": "Oil Futures Slide on Hopes for Middle East Peace Talks",
       "link": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 12:12:00 GMT",
-      "sentiment": 0.5
+      "published": "Mon, 02 Nov 2026 14:14:00 GMT",
+      "sentiment": -0.35
     },
     {
       "title": "Gold Edges Higher But Remains Below $4,000 an Ounce",
@@ -229,16 +229,16 @@
       "sentiment": 0.25
     },
     {
+      "title": "Sterling Could Fall if BOE Dampens Rate-Rise Bets",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 14:20:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "Binance Heist: ‘Welcome to Our World,’ CISOs Say",
       "link": "https://www.wsj.com/pro/cybersecurity/binance-heist-welcome-to-our-world-cisos-say-1b40a4e7?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 12:46:00 GMT",
       "sentiment": 0.15000000000000002
-    },
-    {
-      "title": "Dollar Falls to 1-Month Low as Oil Prices Slip",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 09:46:00 GMT",
-      "sentiment": 0.19
     },
     {
       "title": "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 10:01:00 GMT",
+      "published": "Mon, 02 Nov 2026 14:09:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
