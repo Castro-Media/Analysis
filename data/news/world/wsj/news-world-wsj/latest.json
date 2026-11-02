@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That.",
+      "link": "https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews",
+      "published": "Mon, 02 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
+      "link": "https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=rss_worldnews",
+      "published": "Mon, 02 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Serbia’s Gen Z Students Toppled a Strongman. Now Comes the Hard Part.",
       "link": "https://www.wsj.com/world/europe/serbias-gen-z-students-toppled-a-strongman-now-comes-the-hard-part-0f40dd7a?mod=rss_worldnews",
       "published": "Sun, 01 Nov 2026 21:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_worldnews",
       "published": "Sun, 01 Nov 2026 00:42:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
-      "link": "https://www.wsj.com/world/russias-shadow-fleet-turns-to-nets-and-rubber-tires-for-makeshift-drone-armor-95e817a1?mod=rss_worldnews",
-      "published": "Sat, 31 Oct 2026 23:00:00 GMT",
-      "sentiment": -0.2916666666666667
-    },
-    {
-      "title": "China Economic Activity Loses Steam Sharply in October",
-      "link": "https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews",
-      "published": "Sat, 31 Oct 2026 01:50:00 GMT",
-      "sentiment": -0.075
     },
     {
       "title": "How Iran Battered U.S. Bases and Caused Billions in Damage",
@@ -73,6 +73,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "China Economic Activity Loses Steam Sharply in October",
+      "link": "https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews",
+      "published": "Sat, 31 Oct 2026 01:50:00 GMT",
+      "sentiment": -0.075
+    },
+    {
       "title": "China Scoops Up Data That Could Aid Its Forces in Waters Around Taiwan",
       "link": "https://www.wsj.com/world/china/china-scoops-up-data-that-could-aid-its-forces-in-waters-around-taiwan-7acaf563?mod=rss_worldnews",
       "published": "Fri, 30 Oct 2026 20:55:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/world/europe/why-does-spain-keep-having-deadly-rail-accidents-65d8416e?mod=rss_worldnews",
       "published": "Thu, 29 Oct 2026 21:22:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "As Missile Stockpiles Dwindle and China Looms, U.S. Turns to Japan for Production",
-      "link": "https://www.wsj.com/world/as-missile-stockpiles-dwindle-and-china-looms-u-s-turns-to-japan-for-production-8d314cd7?mod=rss_worldnews",
-      "published": "Thu, 29 Oct 2026 10:45:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "ICE Officer Indicted After Allegedly Striking Fleeing Man With Vehicle",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Russia’s Shadow Fleet Turns to Nets and Rubber Tires for Makeshift Drone Armor",
+      "link": "https://www.wsj.com/world/russias-shadow-fleet-turns-to-nets-and-rubber-tires-for-makeshift-drone-armor-95e817a1?mod=rss_worldnews",
+      "published": "Sat, 31 Oct 2026 23:00:00 GMT",
+      "sentiment": -0.2916666666666667
+    },
+    {
       "title": "Christine Lagarde’s Lonely Next Act: Defender of a Fading Globalist Order",
       "link": "https://www.wsj.com/world/europe/christine-lagardes-lonely-next-act-defender-of-a-fading-globalist-order-5d2cb230?mod=rss_worldnews",
       "published": "Sat, 31 Oct 2026 01:00:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews",
       "published": "Fri, 30 Oct 2026 16:41:00 GMT",
       "sentiment": 0.009999999999999998
-    },
-    {
-      "title": "Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
-      "link": "https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8?mod=rss_worldnews",
-      "published": "Thu, 29 Oct 2026 23:57:00 GMT",
-      "sentiment": 0.3666666666666667
     },
     {
       "title": "China’s Xi Demands More Loyalty as Purges Trim Party Elite",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
+      "link": "https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8?mod=rss_worldnews",
+      "published": "Thu, 29 Oct 2026 23:57:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
