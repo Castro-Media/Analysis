@@ -1,15 +1,21 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Investors Digest Apple Earnings; Nasdaq Falls",
+      "title": "Stock Market Today: Apple Stock Slips After Earnings; Nasdaq Falls",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 09:46:46 GMT",
       "sentiment": 0.0
     },
     {
+      "title": "The Risks State and Local Elections Pose for Wall Street and the AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
       "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 21:39:00 GMT",
+      "published": "Mon, 02 Nov 2026 22:18:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,12 +73,6 @@
       "sentiment": 0.2
     },
     {
-      "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
-      "link": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
-      "published": "Tue, 27 Oct 2026 09:30:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "BOE Expected to Join Peers in Raising Key Rate",
       "link": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 07:28:00 GMT",
@@ -105,7 +105,7 @@
     {
       "title": "U.S. Stocks Mixed as Percolating AI Fears Offset Oil Relief",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-percolating-ai-fears-offset-oil-relief-6c9535a6?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 21:23:00 GMT",
+      "published": "Mon, 02 Nov 2026 22:02:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -113,12 +113,6 @@
       "link": "https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 19:10:00 GMT",
       "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-49ef235d?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 17:31:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Oracle Looks to Raise $20 Billion to Fund AI Ambitions",
@@ -131,6 +125,18 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-435c0f7e?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 12:35:00 GMT",
       "sentiment": -0.10416666666666667
+    },
+    {
+      "title": "How BJ’s Restaurants Is Looking Beyond Its Signature Dessert to Fill Restaurants",
+      "link": "https://www.wsj.com/business/c-suite/how-bjs-restaurants-is-looking-beyond-its-signature-dessert-to-fill-restaurants-b1d9912d?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 12:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Apple’s Growth Machine is Slowing. High Prices Might Not Save It.",
+      "link": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 22:45:00 GMT",
+      "sentiment": 0.0987878787878788
     },
     {
       "title": "Dow Rebounds After Friday’s Selloff as Oil Slides",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/tech/the-tangled-web-of-ai-bets-is-reason-to-fear-tech-stocks-905bde86?mod=rss_markets_main",
       "published": "Sun, 01 Nov 2026 10:30:00 GMT",
       "sentiment": -0.0063973063973064015
-    },
-    {
-      "title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
-      "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
-      "published": "Sat, 31 Oct 2026 03:00:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
@@ -229,10 +229,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Sterling Could Fall if BOE Dampens Rate-Rise Bets",
+      "title": "WSJ Dollar Index Falls 0.08% to 97.00",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 14:20:00 GMT",
-      "sentiment": 0.19999999999999998
+      "published": "Mon, 02 Nov 2026 22:35:00 GMT",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "Binance Heist: ‘Welcome to Our World,’ CISOs Say",
@@ -289,6 +289,12 @@
       "sentiment": -0.026060606060606062
     },
     {
+      "title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
+      "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
+      "published": "Sat, 31 Oct 2026 03:00:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen",
       "link": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 22:43:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 20:37:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?",
-      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 17:23:00 GMT",
-      "sentiment": -0.03749999999999998
     },
     {
       "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
