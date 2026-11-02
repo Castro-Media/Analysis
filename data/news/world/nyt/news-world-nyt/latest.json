@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+      "published": "Mon, 02 Nov 2026 13:44:14 +0000",
+      "sentiment": 0.1
+    },
+    {
       "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
       "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
       "published": "Mon, 02 Nov 2026 12:13:26 +0000",
@@ -73,12 +79,6 @@
       "sentiment": 0.5333333333333333
     },
     {
-      "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
-      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
-      "published": "Sun, 01 Nov 2026 14:25:30 +0000",
-      "sentiment": 0.5
-    },
-    {
       "title": "Do Animals Grieve?",
       "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
       "published": "Mon, 02 Nov 2026 12:07:41 +0000",
@@ -87,7 +87,7 @@
     {
       "title": "Deportees Turn to TikTok to Document Life Starting Over",
       "link": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
-      "published": "Mon, 02 Nov 2026 10:01:55 +0000",
+      "published": "Mon, 02 Nov 2026 13:19:24 +0000",
       "sentiment": 0.0
     },
     {
@@ -112,6 +112,12 @@
       "title": "Thailand’s Most Famous Snake Catcher",
       "link": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html",
       "published": "Sun, 01 Nov 2026 15:10:28 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+      "published": "Sun, 01 Nov 2026 14:25:30 +0000",
       "sentiment": 0.5
     },
     {
@@ -333,14 +339,8 @@
     {
       "title": "What Israeli Election Results Reveal About the Electorate",
       "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-      "published": "Fri, 30 Oct 2026 06:31:44 +0000",
+      "published": "Mon, 02 Nov 2026 13:16:19 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "No Clear Winner in Israel Election, Final Results Show",
-      "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-      "published": "Fri, 30 Oct 2026 15:02:51 +0000",
-      "sentiment": 0.029166666666666667
     }
   ]
 }
