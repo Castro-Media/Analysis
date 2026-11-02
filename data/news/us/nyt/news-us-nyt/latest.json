@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
+      "published": "Mon, 02 Nov 2026 21:49:51 +0000",
+      "sentiment": 0.35714285714285715
+    },
+    {
+      "title": "Georgia Democrats fear state races could be close enough to trigger disruptive hand counts.",
+      "link": "https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/georgia-democrats-fear-state-races-could-be-close-enough-to-trigger-disruptive-hand-counts",
+      "published": "Mon, 02 Nov 2026 20:55:25 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Former Chicago FBI Chief Sues DOJ, Says He Was Wrongly Blamed for Botched Broadview Six Case",
       "link": "https://www.nytimes.com/2026/11/02/us/chicago-fbi-broadview-six-lawsuit.html",
-      "published": "Mon, 02 Nov 2026 20:27:41 +0000",
+      "published": "Mon, 02 Nov 2026 21:49:31 +0000",
       "sentiment": -0.26666666666666666
     },
     {
@@ -133,9 +145,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Clancy Hearing Focuses on Holdout Juror",
+      "title": "Lindsay Clancy Hearing Focuses on Holdout Juror Who Prompted Mistrial",
       "link": "https://www.nytimes.com/2026/11/02/us/lindsay-clancy-trial-hearing.html",
-      "published": "Mon, 02 Nov 2026 19:38:40 +0000",
+      "published": "Mon, 02 Nov 2026 19:38:41 +0000",
       "sentiment": 0.6
     },
     {
@@ -213,7 +225,7 @@
     {
       "title": "What to Know About the Florida Plane Crash That Killed 9",
       "link": "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html",
-      "published": "Mon, 02 Nov 2026 15:29:55 +0000",
+      "published": "Mon, 02 Nov 2026 21:38:30 +0000",
       "sentiment": -0.225
     },
     {
@@ -239,18 +251,6 @@
       "link": "https://www.nytimes.com/2026/11/01/us/halloween-shootings-deaths.html",
       "published": "Sun, 01 Nov 2026 23:01:35 +0000",
       "sentiment": -0.15
-    },
-    {
-      "title": "Haley Stevens Bashed Mike Rogers in Michigan Senate Race Until She Endorsed Him",
-      "link": "https://www.nytimes.com/2026/11/01/us/elections/haley-stevens-mike-rogers-endorse-michigan.html",
-      "published": "Sun, 01 Nov 2026 22:35:48 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Roger Marshall Goes Rogue in Kansas Senate Race With a Video",
-      "link": "https://www.nytimes.com/2026/11/01/us/elections/roger-marshall-ad-kansas-senate-race.html",
-      "published": "Sun, 01 Nov 2026 22:10:44 +0000",
-      "sentiment": 0.35
     }
   ]
 }
