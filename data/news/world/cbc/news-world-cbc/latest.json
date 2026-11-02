@@ -1,16 +1,16 @@
 {
   "entries": [
     {
-      "title": "The Democrats could still fall short in the U.S. midterms. Here's why",
-      "link": "https://www.cbc.ca/news/world/us-midterm-elections-democrats-republicans-trump-9.7403495?cmp=rss",
-      "published": "Wed, 27 May 2026 12:12:48 EDT",
-      "sentiment": 0.0
-    },
-    {
       "title": "20-year-old co-pilot among 9 victims in Florida plane crash, mother says",
       "link": "https://www.cbc.ca/news/world/south-florida-jet-crash-9.7405773?cmp=rss",
       "published": "Mon, 02 Nov 2026 11:48:54 EST",
       "sentiment": 0.0
+    },
+    {
+      "title": "Trump administration ramps up midterm battles, asks Supreme Court to intervene in California case",
+      "link": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838?cmp=rss",
+      "published": "Mon, 02 Nov 2026 13:27:33 EST",
+      "sentiment": 0.00634920634920635
     },
     {
       "title": "Another cyberattack on supermarket fridges sweeps Europe, leaving food spoiled",
@@ -19,10 +19,28 @@
       "sentiment": 0.026785714285714284
     },
     {
-      "title": "Trump administration ramps up midterm battles, asks Supreme Court to intervene in California case",
-      "link": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838?cmp=rss",
-      "published": "Mon, 02 Nov 2026 13:27:33 EST",
-      "sentiment": 0.00634920634920635
+      "title": "Russia bombs aid centre and shelter in southern Ukraine killing at least 24, officials say",
+      "link": "https://www.cbc.ca/news/world/ukraine-russia-alert-cyberattacks-9.7405276?cmp=rss",
+      "published": "Mon, 02 Nov 2026 05:54:55 EST",
+      "sentiment": -0.06
+    },
+    {
+      "title": "Snapchat reaches settlement in case after teens allege platform designed to be addictive",
+      "link": "https://www.cbc.ca/news/health/snapchat-lawsuit-social-media-addiction-settlement-9.7406121?cmp=rss",
+      "published": "Mon, 02 Nov 2026 15:37:59 EST",
+      "sentiment": 0.033838383838383834
+    },
+    {
+      "title": "5 reasons why the Democrats might not take control of Congress in U.S. midterms",
+      "link": "https://www.cbc.ca/news/world/us-midterm-elections-democrats-republicans-trump-9.7403495?cmp=rss",
+      "published": "Mon, 02 Nov 2026 04:00:00 EST",
+      "sentiment": 0.15714285714285714
+    },
+    {
+      "title": "U.S. records 1st human bird flu death since last year",
+      "link": "https://www.cbc.ca/news/health/us-bird-flu-first-death-9.7406106?cmp=rss",
+      "published": "Mon, 02 Nov 2026 15:28:02 EST",
+      "sentiment": 0.03125
     },
     {
       "title": "Poland's in the midst of a constitutional crisis. Here's what's happening",
@@ -41,12 +59,6 @@
       "link": "https://www.cbc.ca/news/business/midterm-trump-tariffs-9.7403268?cmp=rss",
       "published": "Mon, 02 Nov 2026 04:00:00 EST",
       "sentiment": 0.1357142857142857
-    },
-    {
-      "title": "Russia bombs aid centre and shelter in southern Ukraine killing at least 24, officials say",
-      "link": "https://www.cbc.ca/news/world/ukraine-russia-alert-cyberattacks-9.7405276?cmp=rss",
-      "published": "Mon, 02 Nov 2026 05:54:55 EST",
-      "sentiment": -0.06
     },
     {
       "title": "King Charles gets drenched in Antigua rainstorm as Camilla gets only umbrella",
@@ -107,18 +119,6 @@
       "link": "https://www.cbc.ca/news/world/ohio-data-centres-battle-midterm-elections-9.7399113?cmp=rss",
       "published": "Sat, 31 Oct 2026 04:00:00 EDT",
       "sentiment": -0.010185185185185183
-    },
-    {
-      "title": "Civilians evacuated from Russian-occupied Oleshky arrive in Ukraine-held territory",
-      "link": "https://www.cbc.ca/news/world/evacuees-oleshky-belarus-ukraine-9.7404117?cmp=rss",
-      "published": "Sat, 31 Oct 2026 08:51:08 EDT",
-      "sentiment": 0.359375
-    },
-    {
-      "title": "Youth-led protests sweep across France, Europe for a 3rd weekend",
-      "link": "https://www.cbc.ca/news/world/france-student-protests-europe-9.7404105?cmp=rss",
-      "published": "Sat, 31 Oct 2026 08:27:39 EDT",
-      "sentiment": 0.00057142857142857
     }
   ]
 }

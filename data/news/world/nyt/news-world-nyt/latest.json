@@ -1,15 +1,21 @@
 {
   "entries": [
     {
-      "title": "Russia Senses Opportunity in Polish Political Turmoil",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
-      "published": "Mon, 02 Nov 2026 19:05:52 +0000",
+      "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+      "published": "Mon, 02 Nov 2026 20:50:14 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Why Orban and Vucic Broke With Trump on Election Denial",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
       "published": "Mon, 02 Nov 2026 16:48:12 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russia Senses Opportunity in Polish Political Turmoil",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+      "published": "Mon, 02 Nov 2026 19:05:52 +0000",
       "sentiment": 0.0
     },
     {
@@ -21,13 +27,13 @@
     {
       "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
       "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-      "published": "Mon, 02 Nov 2026 19:01:04 +0000",
-      "sentiment": 0.1
+      "published": "Mon, 02 Nov 2026 20:25:33 +0000",
+      "sentiment": -0.125
     },
     {
       "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
       "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-      "published": "Mon, 02 Nov 2026 18:32:11 +0000",
+      "published": "Mon, 02 Nov 2026 20:30:58 +0000",
       "sentiment": 0.25
     },
     {
@@ -79,10 +85,22 @@
       "sentiment": 0.5
     },
     {
-      "title": "Where Do Israel’s Arab Parties Stand?",
-      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
-      "published": "Sun, 01 Nov 2026 10:03:51 +0000",
-      "sentiment": -0.15555555555555556
+      "title": "America Votes",
+      "link": "https://www.nytimes.com/2026/11/02/world/midterm-elections-questions-trump-fifa.html",
+      "published": "Mon, 02 Nov 2026 20:46:29 +0000",
+      "sentiment": -0.3125
+    },
+    {
+      "title": "A 31,000-Mile Walk Ends in England, at Mom’s House",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
+      "published": "Mon, 02 Nov 2026 20:00:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "published": "Mon, 02 Nov 2026 19:49:51 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "Do Animals Grieve?",
@@ -107,6 +125,12 @@
       "link": "https://www.nytimes.com/2026/11/01/world/germany-russia-putin-deals-us-midterms.html",
       "published": "Mon, 02 Nov 2026 05:35:54 +0000",
       "sentiment": 0.2
+    },
+    {
+      "title": "Where Do Israel’s Arab Parties Stand?",
+      "link": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
+      "published": "Sun, 01 Nov 2026 10:03:51 +0000",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "Joseph Lagu, Who Led Independence Movement in Southern Sudan, Has Died",
@@ -317,24 +341,6 @@
       "link": "https://www.nytimes.com/2026/10/30/travel/via-transilvanica-romania-hike.html",
       "published": "Fri, 30 Oct 2026 09:00:24 +0000",
       "sentiment": 0.041666666666666664
-    },
-    {
-      "title": "New ‘Call of Duty’ Game Draws Criticism for Using Footage of Deadly Seoul Crowd Crush",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/call-of-duty-seoul-itaweon-crowd-crush.html",
-      "published": "Fri, 30 Oct 2026 18:32:38 +0000",
-      "sentiment": -0.07727272727272728
-    },
-    {
-      "title": "How the Japanese Spy Drama ‘Vivant’ Became The Target of China’s Anger",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/japan-vivant-spy-show-china.html",
-      "published": "Fri, 30 Oct 2026 06:15:29 +0000",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Oldest Recording of Louisiana’s Vanishing Creole Language Is Published",
-      "link": "https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html",
-      "published": "Mon, 02 Nov 2026 14:41:43 +0000",
-      "sentiment": 0.2
     }
   ]
 }
