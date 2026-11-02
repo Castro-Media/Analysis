@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Former Chicago FBI Chief Sues DOJ, Says He Was Wrongly Blamed for Botched Broadview Six Case",
+      "link": "https://www.nytimes.com/2026/11/02/us/chicago-fbi-broadview-six-lawsuit.html",
+      "published": "Mon, 02 Nov 2026 20:27:41 +0000",
+      "sentiment": -0.26666666666666666
+    },
+    {
+      "title": "Judge Dismisses Trump Lawsuit Demanding Harvard Admissions Data",
+      "link": "https://www.nytimes.com/2026/11/02/us/harvard-admissions-trump-lawsuit-dismissed.html",
+      "published": "Mon, 02 Nov 2026 20:13:41 +0000",
+      "sentiment": 0.35
+    },
+    {
+      "title": "CISA Retreats From Election Security Ahead of Midterms",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html",
+      "published": "Mon, 02 Nov 2026 20:07:28 +0000",
+      "sentiment": 0.275
+    },
+    {
+      "title": "Mystery Group Spends Millions to Boost Third-Party Candidates at Republicans’ Expense",
+      "link": "https://www.nytimes.com/2026/11/02/us/midterms-third-party-candidates-super-pac.html",
+      "published": "Mon, 02 Nov 2026 20:49:40 +0000",
+      "sentiment": 0.016666666666666663
+    },
+    {
       "title": "Will Trump’s Comments About Jon Husted’s Physique Help Him Win the Ohio Senate Race?",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-husted-body-comments.html",
       "published": "Mon, 02 Nov 2026 19:27:03 +0000",
@@ -27,7 +51,7 @@
     {
       "title": "Who Is Jason Turkish, Haley Stevens’s Fiancé?",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/jason-turkish-haley-stevens-fiance.html",
-      "published": "Mon, 02 Nov 2026 18:25:44 +0000",
+      "published": "Mon, 02 Nov 2026 20:42:23 +0000",
       "sentiment": 0.0
     },
     {
@@ -49,9 +73,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Accused of Voter Fraud, They Ended Up in Shackles",
+      "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
-      "published": "Mon, 02 Nov 2026 19:21:29 +0000",
+      "published": "Mon, 02 Nov 2026 20:23:17 +0000",
       "sentiment": 0.0
     },
     {
@@ -69,7 +93,7 @@
     {
       "title": "Trump’s Immigration Crackdown Backlash Poses Challenge for Republicans in the Midterms",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html",
-      "published": "Mon, 02 Nov 2026 15:19:18 +0000",
+      "published": "Mon, 02 Nov 2026 20:29:52 +0000",
       "sentiment": 0.09999999999999999
     },
     {
@@ -87,7 +111,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/heres-the-latest",
-      "published": "Mon, 02 Nov 2026 19:49:45 +0000",
+      "published": "Mon, 02 Nov 2026 20:11:38 +0000",
       "sentiment": 0.5
     },
     {
@@ -227,18 +251,6 @@
       "link": "https://www.nytimes.com/2026/11/01/us/elections/roger-marshall-ad-kansas-senate-race.html",
       "published": "Sun, 01 Nov 2026 22:10:44 +0000",
       "sentiment": 0.35
-    },
-    {
-      "title": "Ocasio-Cortez and Mamdani Rebuke Stevens’s G.O.P. Endorsement in Michigan",
-      "link": "https://www.nytimes.com/2026/11/01/us/elections/aoc-mamdani-haley-stevens-mike-rogers.html",
-      "published": "Sun, 01 Nov 2026 22:10:32 +0000",
-      "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Plane Crash Kills 9 in Palm Beach County After ‘Mayday’ Distress Call",
-      "link": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
-      "published": "Mon, 02 Nov 2026 13:41:45 +0000",
-      "sentiment": 0.25
     }
   ]
 }
