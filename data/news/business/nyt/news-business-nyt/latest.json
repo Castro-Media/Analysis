@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "published": "Mon, 02 Nov 2026 19:49:51 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "He Pioneered a Groundbreaking Idea and Was Met With Corporate Wrath",
+      "link": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+      "published": "Mon, 02 Nov 2026 19:51:54 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Trump’s Tariffs Are On the Ballot in Michigan",
       "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
       "published": "Mon, 02 Nov 2026 17:48:42 +0000",
@@ -9,13 +21,13 @@
     {
       "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
       "link": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-      "published": "Mon, 02 Nov 2026 15:48:38 +0000",
-      "sentiment": 0.08333333333333333
+      "published": "Mon, 02 Nov 2026 18:55:09 +0000",
+      "sentiment": 0.04
     },
     {
       "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
       "link": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
-      "published": "Mon, 02 Nov 2026 14:55:57 +0000",
+      "published": "Mon, 02 Nov 2026 19:05:35 +0000",
       "sentiment": 0.06818181818181818
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
       "published": "Thu, 29 Oct 2026 14:31:57 +0000",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "U.S. GDP Increased 3.4% in Third Quarter",
-      "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-      "published": "Thu, 29 Oct 2026 21:10:38 +0000",
-      "sentiment": 0.10666666666666666
-    },
-    {
-      "title": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
-      "link": "https://www.nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html",
-      "published": "Thu, 29 Oct 2026 12:20:10 +0000",
-      "sentiment": -0.3857638888888889
     }
   ]
 }

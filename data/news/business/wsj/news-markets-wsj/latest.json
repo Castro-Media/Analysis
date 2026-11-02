@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Rebound After Friday's Selloff; Oil Slides on Mideast Hopes",
+      "title": "Stock Market Today: Nasdaq Turns Lower; Dow Rises After Friday's Selloff",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 09:46:46 GMT",
-      "sentiment": -0.7
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Natural Gas Futures See Modest Pick-Up",
@@ -103,6 +103,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
+      "link": "https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 19:10:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-49ef235d?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 17:31:00 GMT",
@@ -127,16 +133,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Funds That Are Too Much of a Good Thing",
-      "link": "https://www.wsj.com/finance/investing/funds-that-are-too-much-of-a-good-thing-4cad4cb4?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 11:26:00 GMT",
-      "sentiment": 0.7333333333333334
-    },
-    {
-      "title": "U.S. Stocks Rebound After Friday’s Selloff as Oil Slides",
+      "title": "Dow Rebounds After Friday’s Selloff as Oil Slides",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 17:21:00 GMT",
-      "sentiment": 0.0
+      "published": "Mon, 02 Nov 2026 19:23:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
@@ -199,16 +199,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Gold Futures Pick Up Amid Falling Oil Prices",
+      "title": "Gold Futures Recover Some Ground on Oil-Price Drop",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 16:46:00 GMT",
-      "sentiment": 0.0
+      "published": "Mon, 02 Nov 2026 19:14:00 GMT",
+      "sentiment": 0.25
     },
     {
-      "title": "Oil Down More than 6% on Middle East Diplomatic Breakthrough Hopes",
+      "title": "Oil Extends Losses on Optimism for U.S.-Iran Talks",
       "link": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 15:46:00 GMT",
-      "sentiment": 0.07407407407407407
+      "published": "Mon, 02 Nov 2026 18:22:00 GMT",
+      "sentiment": -0.09999999999999998
     },
     {
       "title": "Prediction Markets Keep Whiffing on Elections. Will They Miss on the Midterms?",
