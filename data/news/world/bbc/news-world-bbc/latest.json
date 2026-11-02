@@ -1,9 +1,9 @@
 {
   "entries": [
     {
-      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
       "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 14:11:13 GMT",
+      "published": "Mon, 02 Nov 2026 15:12:22 GMT",
       "sentiment": 0.19
     },
     {
@@ -11,12 +11,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 14:35:01 GMT",
       "sentiment": 0.02500000000000001
-    },
-    {
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Nov 2026 06:00:54 GMT",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "Nine killed as small jet crashes on Florida street",
@@ -29,6 +23,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 02 Nov 2026 10:48:47 GMT",
       "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 14:35:38 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Ryanair says it may freeze workers' pay and raise airfares",
@@ -127,28 +127,34 @@
       "sentiment": 0.43333333333333335
     },
     {
-      "title": "North Carolina voters weigh up Trump's track record on cost of living",
-      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 22:25:51 GMT",
-      "sentiment": 0.5
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 14:24:25 GMT",
+      "sentiment": 0.35
     },
     {
-      "title": "Peaceful protests in Germany spiral into violence and looting",
-      "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 18:51:56 GMT",
-      "sentiment": 0.15476190476190477
+      "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
+      "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:05:34 GMT",
+      "sentiment": -0.06666666666666667
     },
     {
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 05:26:02 GMT",
-      "sentiment": -0.05681818181818182
+      "title": "What are Americans voting for in this election?",
+      "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 09:22:55 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 21:29:01 GMT",
-      "sentiment": 0.033333333333333326
+      "title": "Americast",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pkt7t5?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:58:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Nov 2026 06:00:54 GMT",
+      "sentiment": -0.13333333333333333
     },
     {
       "title": "Democrats have high hopes for midterms - but are the polls right?",
@@ -167,12 +173,6 @@
       "link": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 01 Nov 2026 22:25:01 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Lindsay Clancy is back in court - where will her case go next?",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 17:29:08 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",

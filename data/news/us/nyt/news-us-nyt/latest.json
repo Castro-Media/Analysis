@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charged-midterms.html",
+      "published": "Mon, 02 Nov 2026 15:55:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump’s Immigration Crackdown Backlash Poses Challenge for Republicans in the Midterms",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html",
+      "published": "Mon, 02 Nov 2026 15:19:18 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
+      "link": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+      "published": "Mon, 02 Nov 2026 15:25:58 +0000",
+      "sentiment": 0.225
+    },
+    {
       "title": "Why Do Pilots Say ‘Mayday’? The Story Behind the Distress Call",
       "link": "https://www.nytimes.com/2026/11/02/us/florida-lear-jet-crash-mayday-call-meaning.html",
       "published": "Mon, 02 Nov 2026 11:01:18 +0000",
@@ -9,7 +27,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/heres-the-latest",
-      "published": "Mon, 02 Nov 2026 14:50:40 +0000",
+      "published": "Mon, 02 Nov 2026 15:22:00 +0000",
       "sentiment": 0.5
     },
     {
@@ -68,7 +86,7 @@
     },
     {
       "title": "How a Tax Cut Could Threaten a Florida Necessity: Mosquito Control",
-      "link": "https://www.nytimes.com/2026/11/02/us/florida-mosquitos-dengue-fever-taxes.html",
+      "link": "https://www.nytimes.com/2026/11/02/us/florida-mosquitoes-dengue-fever-taxes.html",
       "published": "Mon, 02 Nov 2026 10:03:10 +0000",
       "sentiment": 0.0
     },
@@ -91,7 +109,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Newsom and Harris Appear Together, With Little Hint of What’s to Come",
+      "title": "Newsom and Harris Campaign in Los Angeles, With Little Hint of What’s to Come",
       "link": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
       "published": "Mon, 02 Nov 2026 05:17:34 +0000",
       "sentiment": -0.09375
@@ -105,19 +123,19 @@
     {
       "title": "Who’s Winning the Race for the Senate?",
       "link": "https://www.nytimes.com/video/us/elections/100000011241496/whos-winning-the-race-for-the-senate.html",
-      "published": "Mon, 02 Nov 2026 14:23:17 +0000",
+      "published": "Mon, 02 Nov 2026 15:03:43 +0000",
       "sentiment": 0.2111111111111111
     },
     {
       "title": "What to Know About the Florida Plane Crash That Killed 9",
       "link": "https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html",
-      "published": "Mon, 02 Nov 2026 11:53:57 +0000",
+      "published": "Mon, 02 Nov 2026 15:29:55 +0000",
       "sentiment": -0.225
     },
     {
       "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
       "link": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
-      "published": "Mon, 02 Nov 2026 06:31:56 +0000",
+      "published": "Mon, 02 Nov 2026 15:02:52 +0000",
       "sentiment": 0.1
     },
     {
@@ -147,7 +165,7 @@
     {
       "title": "Roger Marshall Goes Rogue in Kansas Senate Race With a Video",
       "link": "https://www.nytimes.com/2026/11/01/us/elections/roger-marshall-ad-kansas-senate-race.html",
-      "published": "Sun, 01 Nov 2026 22:10:43 +0000",
+      "published": "Sun, 01 Nov 2026 22:10:44 +0000",
       "sentiment": 0.35
     },
     {
@@ -233,18 +251,6 @@
       "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/heres-what-to-expect-as-votes-are-counted-on-election-night",
       "published": "Sun, 01 Nov 2026 17:43:27 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Haley Stevens Abandons El-Sayed, Endorsing Mike Rogers in Michigan",
-      "link": "https://www.nytimes.com/2026/11/01/us/elections/stevens-rogers-el-sayed-michigan-senate.html",
-      "published": "Sun, 01 Nov 2026 23:27:32 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "For Talarico and Paxton, the Battle For the Senate Could Rest on Who is More Texan",
-      "link": "https://www.nytimes.com/2026/11/01/us/texas-culture-senate-talarico-paxton.html",
-      "published": "Sun, 01 Nov 2026 16:01:07 +0000",
-      "sentiment": 0.5
     }
   ]
 }
