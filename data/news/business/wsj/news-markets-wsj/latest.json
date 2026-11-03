@@ -115,12 +115,6 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "U.S. Stocks Mixed Amid Midterm, Iran War Nerves",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-amid-midterm-iran-war-nerves-e1e285d4?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 21:19:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 19:53:00 GMT",
@@ -130,6 +124,18 @@
       "title": "Tech Stocks Rise Despite Apple Slump",
       "link": "https://www.wsj.com/finance/investing/dow-futures-fall-treasurys-yields-rise-heading-into-midterms-d3a6a938?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 19:38:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Who Was President When Mortgage Rates Were Over 18%? Take Our Quiz",
+      "link": "https://www.wsj.com/politics/elections/quiz-politics-economy-elections-5d09fd3f?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 17:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Stocks Mixed Amid Midterm, Iran War Nerves",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-amid-midterm-iran-war-nerves-e1e285d4?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 22:08:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -154,12 +160,6 @@
       "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
       "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 22:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Stocks Mixed as Percolating AI Fears Offset Oil Relief",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-percolating-ai-fears-offset-oil-relief-6c9535a6?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 22:02:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -229,10 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Dollar Could Gain if Jobs Data Boosts December Rate-Rise Bets",
+      "title": "WSJ Dollar Index Rises 0.23% to 97.22",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 18:40:00 GMT",
-      "sentiment": -0.13333333333333333
+      "published": "Tue, 03 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "WSJ Dollar Index Falls 0.08% to 97.00",
