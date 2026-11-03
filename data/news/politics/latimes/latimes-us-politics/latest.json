@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "California officials brace for unprecedented election interference by Trump administration",
+      "link": "https://www.latimes.com/politics/story/2026-11-02/california-officials-brace-for-unprecedented-election-interference-by-trump-administration",
+      "published": "Mon, 2 Nov 2026 23:06:40 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Trump's closing message to American voters highlights repairs to Reflecting Pool",
       "link": "https://www.latimes.com/politics/story/2026-11-02/trumps-closing-message-to-american-voters-highlights-repairs-to-reflecting-pool",
       "published": "Mon, 2 Nov 2026 22:13:58 GMT",
@@ -25,7 +31,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump lawyers ask Supreme Court to set aside 20,000 California ballots",
+      "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots",
       "link": "https://www.latimes.com/politics/story/2026-11-02/trump-lawyers-ask-supreme-court-to-set-aside-20-000-california-ballots",
       "published": "Mon, 2 Nov 2026 16:41:01 GMT",
       "sentiment": 0.0
@@ -67,16 +73,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
       "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Proposed billionaire tax could impact California sports teams",
@@ -568,12 +574,6 @@
       "title": "California's Prop. 45 aims to speed construction projects. Opponents say data centers will benefit",
       "link": "https://www.latimes.com/environment/story/2026-10-14/californias-prop-45-aims-to-speed-construction-projects-opponents-say-data-centers-will-benefit",
       "published": "Wed, 14 Oct 2026 20:37:26 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Lopez: Post-debate, lingering questions about who Raman is and how she would lead",
-      "link": "https://www.latimes.com/california/story/2026-10-14/post-debate-lingering-questions-about-who-raman-is-how-she-would-lead",
-      "published": "Wed, 14 Oct 2026 20:04:06 GMT",
       "sentiment": 0.0
     }
   ]

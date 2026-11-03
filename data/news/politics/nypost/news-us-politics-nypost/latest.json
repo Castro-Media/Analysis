@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Xavier Becerra, Steve Hilton make final push as California early voters show up in force for midterm election",
+      "link": "https://nypost.com/2026/11/02/us-news/xavier-becerra-steve-hilton-make-final-campaign-stops-in-california-governor-race/",
+      "published": "Mon, 02 Nov 2026 19:43:43 -0500",
+      "sentiment": 0.06
+    },
+    {
+      "title": "LA voters back billionaire tax AND voter ID in surprising political crossover",
+      "link": "https://nypost.com/2026/11/02/us-news/la-voters-want-billionaires-taxed-and-ids-checked-at-the-polls/",
+      "published": "Mon, 02 Nov 2026 19:02:17 -0500",
+      "sentiment": 0.21666666666666667
+    },
+    {
+      "title": "Michigan Dems join Haley Stevens in abandoning Abdul El-Sayed on Election Day eve: ‘Consider voting a split ticket’",
+      "link": "https://nypost.com/2026/11/02/us-news/michigan-dems-join-haley-stevens-in-abandoning-abdul-el-sayed-on-election-day-eve-consider-voting-a-split-ticket/",
+      "published": "Mon, 02 Nov 2026 18:51:48 -0500",
+      "sentiment": -1.3877787807814457e-17
+    },
+    {
+      "title": "Trump cut final Michigan stop in favor of Reflecting Pool speech",
+      "link": "https://nypost.com/2026/11/02/us-news/trump-cut-final-michigan-stop-in-favor-of-reflecting-pool-speech/",
+      "published": "Mon, 02 Nov 2026 18:41:29 -0500",
+      "sentiment": 0.3666666666666667
+    },
+    {
       "title": "Why Haley Stevens backing Mike Rogers is a painful lesson for El-Sayed: ‘Hurt people, hurt people’",
       "link": "https://nypost.com/2026/11/02/us-news/why-haley-stevens-backing-mike-rogers-is-a-painful-lesson-for-el-sayed-hurt-people-hurt-people/",
       "published": "Mon, 02 Nov 2026 17:50:22 -0500",
@@ -43,7 +67,7 @@
       "sentiment": -0.04285714285714286
     },
     {
-      "title": "Trump renews promise of $5K payout if GOP retains Congress in Midterm eve speech at Lincoln Reflecting Pool",
+      "title": "Trump renews promise of $5K payout if GOP retains Congress in midterm eve speech at Lincoln Reflecting Pool",
       "link": "https://nypost.com/2026/11/02/us-news/trump-renews-promise-of-5k-payout-if-gop-retains-congress-in-midterm-eve-speech/",
       "published": "Mon, 02 Nov 2026 15:36:23 -0500",
       "sentiment": 0.25
@@ -73,10 +97,10 @@
       "sentiment": 0.19204545454545455
     },
     {
-      "title": "Trump takes fight over 20K California mail-in ballots to Supreme Court day before election",
+      "title": "Supreme Court reject’s Trump administration plea to set aside over 20K California mail-in ballots allegedly from noncitizens",
       "link": "https://nypost.com/2026/11/02/us-news/trump-takes-fight-over-20k-california-mail-in-ballots-to-supreme-court/",
       "published": "Mon, 02 Nov 2026 12:38:10 -0500",
-      "sentiment": 0.0
+      "sentiment": -0.1
     },
     {
       "title": "Nithya Raman’s LA mayor bid in ‘disarray’ as staffer’s ‘racist’ video emerges",
@@ -95,30 +119,6 @@
       "link": "https://nypost.com/2026/11/02/us-news/dc-federal-judge-tosses-case-against-fbi-officials-accused-of-lying-about-hunter-biden-laptop/",
       "published": "Mon, 02 Nov 2026 11:04:42 -0500",
       "sentiment": -0.125
-    },
-    {
-      "title": "El-Sayed’s disturbing comments on trans athletes in girls’ sports sparks immediate backlash",
-      "link": "https://nypost.com/2026/11/02/us-news/abdul-el-sayed-defends-trans-athletes-in-girls-sports/",
-      "published": "Mon, 02 Nov 2026 10:51:59 -0500",
-      "sentiment": 0.2875
-    },
-    {
-      "title": "Hochul’s campaign, website omits very key detail — and critics say it’s no accident",
-      "link": "https://nypost.com/2026/11/02/us-news/hochuls-campaign-website-omits-very-key-detail-and-critics-say-its-no-accident/",
-      "published": "Mon, 02 Nov 2026 06:40:15 -0500",
-      "sentiment": 0.020000000000000007
-    },
-    {
-      "title": "Trump reveals he’ll use preemptive pardons to protect staff, allies if Dems take Congress",
-      "link": "https://nypost.com/2026/11/02/us-news/trump-says-hell-use-preemptive-pardons-to-protect-staff-allies-if-dems-take-congress/",
-      "published": "Mon, 02 Nov 2026 06:00:00 -0500",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Control of Congress hinges on 4 key NY battleground elections",
-      "link": "https://nypost.com/2026/11/02/us-news/control-of-congress-hinges-on-4-key-ny-battleground-elections/",
-      "published": "Mon, 02 Nov 2026 06:00:00 -0500",
-      "sentiment": 0.1590909090909091
     }
   ]
 }

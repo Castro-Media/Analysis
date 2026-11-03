@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Democrats Head Into Election Day Feeling Hopeful About the Midterms",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html",
+      "published": "Tue, 03 Nov 2026 00:48:18 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
+      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
+      "published": "Tue, 03 Nov 2026 00:22:03 +0000",
+      "sentiment": 0.4787878787878788
+    },
+    {
+      "title": "How The New York Times Reviewed 7 Million Words Uttered by Trump",
+      "link": "https://www.nytimes.com/2026/11/02/insider/trump-speeches-analysis.html",
+      "published": "Mon, 02 Nov 2026 23:06:40 +0000",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "Grand Jury Rejects Trump Administration’s Effort to Charge Individual With Voter Fraud",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/grand-jury-justice-dept-voter-fraud.html",
       "published": "Mon, 02 Nov 2026 22:50:03 +0000",
@@ -13,10 +31,10 @@
       "sentiment": 0.06888888888888889
     },
     {
-      "title": "What Voters Should Know About Possible Problems at the Polls",
+      "title": "What Voters Should Know About Election Security for the 2026 Midterms",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/election-integrity-polling-sites.html",
       "published": "Mon, 02 Nov 2026 22:20:41 +0000",
-      "sentiment": 0.13333333333333333
+      "sentiment": 0.2
     },
     {
       "title": "What to Know About the 2026 Midterm Elections and the Fight for Congress",
@@ -27,25 +45,25 @@
     {
       "title": "Trump’s Election Fraud Reward Raises Fears of Vigilantism, Local Officials Say",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-midterms-election-fraud-reward.html",
-      "published": "Mon, 02 Nov 2026 22:05:30 +0000",
+      "published": "Mon, 02 Nov 2026 22:59:40 +0000",
       "sentiment": 0.0
     },
     {
       "title": "In Run-Up to Midterms, Legacy of 2020 Looms Large Over Justice Dept.",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/midterms-2020-election-justice-department.html",
-      "published": "Mon, 02 Nov 2026 21:49:51 +0000",
+      "published": "Tue, 03 Nov 2026 00:47:52 +0000",
       "sentiment": 0.35714285714285715
     },
     {
       "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
       "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-      "published": "Mon, 02 Nov 2026 20:44:39 +0000",
+      "published": "Mon, 02 Nov 2026 23:10:20 +0000",
       "sentiment": 0.05
     },
     {
       "title": "CISA Retreats From Election Security Ahead of Midterms",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html",
-      "published": "Mon, 02 Nov 2026 22:13:14 +0000",
+      "published": "Mon, 02 Nov 2026 22:13:15 +0000",
       "sentiment": 0.275
     },
     {
@@ -79,9 +97,9 @@
       "sentiment": 0.016666666666666663
     },
     {
-      "title": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
+      "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
-      "published": "Mon, 02 Nov 2026 18:35:37 +0000",
+      "published": "Tue, 03 Nov 2026 00:14:13 +0000",
       "sentiment": 0.0
     },
     {
@@ -93,7 +111,7 @@
     {
       "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
-      "published": "Mon, 02 Nov 2026 20:23:17 +0000",
+      "published": "Tue, 03 Nov 2026 00:54:30 +0000",
       "sentiment": 0.0
     },
     {
@@ -139,9 +157,9 @@
       "sentiment": -0.010714285714285711
     },
     {
-      "title": "A ‘Pugnacious’ Vance Leans Into Personal Attacks on the Campaign Trail",
+      "title": "Vance Leans Into Personal Attacks on the Campaign Trail",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/vance-campaign-trail-personas.html",
-      "published": "Mon, 02 Nov 2026 13:17:44 +0000",
+      "published": "Tue, 03 Nov 2026 00:07:26 +0000",
       "sentiment": 0.0
     },
     {
@@ -191,18 +209,6 @@
       "link": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
       "published": "Mon, 02 Nov 2026 13:43:15 +0000",
       "sentiment": 0.03409090909090909
-    },
-    {
-      "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
-      "published": "Mon, 02 Nov 2026 07:49:17 +0000",
-      "sentiment": 0.2018181818181818
-    },
-    {
-      "title": "Democrats Are Leading or Tied in 7 Battleground Governor’s Races, Polls Find",
-      "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html",
-      "published": "Mon, 02 Nov 2026 19:02:37 +0000",
-      "sentiment": 0.1765151515151515
     }
   ]
 }
