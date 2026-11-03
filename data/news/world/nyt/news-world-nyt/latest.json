@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Bomb Threats Disrupt Several Flights Across Europe",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+      "published": "Tue, 03 Nov 2026 16:22:42 +0000",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
       "link": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
       "published": "Tue, 03 Nov 2026 15:33:45 +0000",
@@ -69,7 +75,7 @@
     {
       "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
       "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-      "published": "Mon, 02 Nov 2026 20:25:34 +0000",
+      "published": "Tue, 03 Nov 2026 16:32:56 +0000",
       "sentiment": -0.125
     },
     {
@@ -79,10 +85,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-      "published": "Mon, 02 Nov 2026 19:37:04 +0000",
-      "sentiment": 0.325
+      "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
+      "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
+      "published": "Tue, 03 Nov 2026 16:35:26 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/komyshuvakha-zaporizhzhia-attack-ukraine.html",
+      "published": "Tue, 03 Nov 2026 15:58:26 +0000",
+      "sentiment": -0.13999999999999999
     },
     {
       "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
@@ -107,6 +119,12 @@
       "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
       "published": "Tue, 03 Nov 2026 08:45:19 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
+      "published": "Mon, 02 Nov 2026 19:37:04 +0000",
+      "sentiment": 0.325
     },
     {
       "title": "Do Animals Grieve?",
@@ -311,30 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
       "published": "Sat, 31 Oct 2026 00:51:39 +0000",
       "sentiment": 0.23611111111111108
-    },
-    {
-      "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
-      "published": "Fri, 30 Oct 2026 23:27:46 +0000",
-      "sentiment": -0.020000000000000004
-    },
-    {
-      "title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
-      "link": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
-      "published": "Fri, 30 Oct 2026 18:53:37 +0000",
-      "sentiment": 0.23333333333333336
-    },
-    {
-      "title": "3 Arrested in Connection With Deadly Blast in Central Athens",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
-      "published": "Fri, 30 Oct 2026 18:45:35 +0000",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
-      "link": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
-      "published": "Fri, 30 Oct 2026 19:09:14 +0000",
-      "sentiment": -0.08888888888888889
     }
   ]
 }
