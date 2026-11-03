@@ -1,16 +1,28 @@
 {
   "entries": [
     {
-      "title": "20-year-old co-pilot among 9 victims in Florida plane crash, mother says",
+      "title": "Couple, 2 children and a 20-year-old pilot among 9 dead in Florida crash",
       "link": "https://www.cbc.ca/news/world/south-florida-jet-crash-9.7405773?cmp=rss",
       "published": "Mon, 02 Nov 2026 11:48:54 EST",
-      "sentiment": 0.0
+      "sentiment": -0.020000000000000007
     },
     {
-      "title": "Trump administration ramps up midterm battles, asks Supreme Court to intervene in California case",
+      "title": "Canadian dentist detained by ICE in Minnesota ordered released by federal judge",
+      "link": "https://www.cbc.ca/news/canada/canadian-dentist-ice-arrest-released-9.7406391?cmp=rss",
+      "published": "Mon, 02 Nov 2026 18:31:22 EST",
+      "sentiment": 0.046590909090909086
+    },
+    {
+      "title": "Experts suggest Canada lock in gains with EU amid 'associate member' confusion",
+      "link": "https://www.cbc.ca/news/politics/canada-eu-associate-membership-experts-9.7406398?cmp=rss",
+      "published": "Mon, 02 Nov 2026 18:48:27 EST",
+      "sentiment": 0.05952380952380952
+    },
+    {
+      "title": "U.S. Supreme Court rejects Trump administration's bid to set aside California mail ballots",
       "link": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838?cmp=rss",
       "published": "Mon, 02 Nov 2026 13:27:33 EST",
-      "sentiment": 0.00634920634920635
+      "sentiment": 0.05555555555555555
     },
     {
       "title": "Another cyberattack on supermarket fridges sweeps Europe, leaving food spoiled",
@@ -67,7 +79,7 @@
       "sentiment": -0.021428571428571436
     },
     {
-      "title": "Economic frustration set to boil over in midterm elections",
+      "title": "Economic frustration set to boil over in U.S. midterm elections",
       "link": "https://www.cbc.ca/news/business/midterm-trump-tariffs-9.7403268?cmp=rss",
       "published": "Mon, 02 Nov 2026 04:00:00 EST",
       "sentiment": 0.1357142857142857
@@ -107,18 +119,6 @@
       "link": "https://www.cbc.ca/news/world/german-ministers-action-rioters-9.7404719?cmp=rss",
       "published": "Sun, 01 Nov 2026 09:18:31 EST",
       "sentiment": -0.030555555555555558
-    },
-    {
-      "title": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
-      "link": "https://www.cbc.ca/news/world/trump-jeffrey-epstein-lawsuit-dismissed-9.7404357?cmp=rss",
-      "published": "Sat, 31 Oct 2026 16:13:16 EDT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Binance says billions replaced from hack that FBI blames on North Korea",
-      "link": "https://www.cbc.ca/news/world/binance-hack-north-korea-9.7404502?cmp=rss",
-      "published": "Sat, 31 Oct 2026 18:54:58 EDT",
-      "sentiment": 0.35
     }
   ]
 }
