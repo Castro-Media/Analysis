@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Poland Beefs Up Security at Border With Russia",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
+      "published": "Tue, 03 Nov 2026 17:35:45 +0000",
+      "sentiment": -0.25
+    },
+    {
       "title": "Bomb Threats Disrupt Several Flights Across Europe",
       "link": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
       "published": "Tue, 03 Nov 2026 16:22:42 +0000",
@@ -79,15 +85,15 @@
       "sentiment": -0.125
     },
     {
-      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-      "published": "Mon, 02 Nov 2026 20:30:58 +0000",
-      "sentiment": 0.25
+      "title": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
+      "published": "Tue, 03 Nov 2026 17:48:03 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
       "link": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
-      "published": "Tue, 03 Nov 2026 16:35:26 +0000",
+      "published": "Tue, 03 Nov 2026 17:53:30 +0000",
       "sentiment": 0.5
     },
     {
@@ -119,6 +125,12 @@
       "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
       "published": "Tue, 03 Nov 2026 08:45:19 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+      "published": "Mon, 02 Nov 2026 20:30:58 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
@@ -317,18 +329,6 @@
       "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
       "published": "Sat, 31 Oct 2026 09:19:30 +0000",
       "sentiment": -0.109375
-    },
-    {
-      "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
-      "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
-      "published": "Fri, 30 Oct 2026 21:08:02 +0000",
-      "sentiment": 0.11499999999999999
-    },
-    {
-      "title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
-      "link": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
-      "published": "Sat, 31 Oct 2026 00:51:39 +0000",
-      "sentiment": 0.23611111111111108
     }
   ]
 }
