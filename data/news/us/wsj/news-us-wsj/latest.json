@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Learjet Wreckage Found Miles Away From Crash Site, NTSB Says",
+      "link": "https://www.wsj.com/us-news/learjet-wreckage-found-miles-away-from-crash-site-ntsb-says-c8af581d?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 21:52:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Supreme Court Shows Sympathy for Catholic Schools in Case on LGBTQ Protections",
+      "link": "https://www.wsj.com/us-news/law/supreme-court-shows-sympathy-for-catholic-schools-in-case-on-lgbtq-protections-cfa6f0c1?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 19:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "FBI Probes Autism Therapy Provider That Billed $30,000 a Day",
       "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 16:32:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/us-news/law/people-are-using-ai-for-divorce-advice-and-its-driving-their-lawyers-crazy-9b03b123?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 01:00:00 GMT",
       "sentiment": 0.13333333333333336
-    },
-    {
-      "title": "20-Year-Old Co-Pilot Among the Victims of a Learjet Crash on Sunday, Family Says",
-      "link": "https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews",
-      "published": "Mon, 02 Nov 2026 23:15:00 GMT",
-      "sentiment": -0.06875
-    },
-    {
-      "title": "Judge Rejects Charges That Ex-FBI Officials Lied About Hunter Biden Probe",
-      "link": "https://www.wsj.com/us-news/law/judge-rejects-charges-that-ex-fbi-officials-lied-about-hunter-biden-probe-dcb5d510?mod=rss_usnews",
-      "published": "Mon, 02 Nov 2026 20:34:00 GMT",
-      "sentiment": 0.26666666666666666
     },
     {
       "title": "These Associates Had a Golden Ticket to Big Law—Until Weil Gotshal Collapsed",
@@ -67,6 +67,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Judge Rejects Charges That Ex-FBI Officials Lied About Hunter Biden Probe",
+      "link": "https://www.wsj.com/us-news/law/judge-rejects-charges-that-ex-fbi-officials-lied-about-hunter-biden-probe-dcb5d510?mod=rss_usnews",
+      "published": "Mon, 02 Nov 2026 20:34:00 GMT",
+      "sentiment": 0.26666666666666666
+    },
+    {
       "title": "To Tame the Fastest Drivers, States Deploy Speed-Limiting Devices on Cars",
       "link": "https://www.wsj.com/lifestyle/cars/to-tame-the-fastest-drivers-states-deploy-speed-limiting-devices-on-cars-4eafe66d?mod=rss_usnews",
       "published": "Mon, 02 Nov 2026 01:00:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/us-news/law/christa-pike-recounts-botched-execution-in-first-public-comments-a891b5dd?mod=rss_usnews",
       "published": "Fri, 30 Oct 2026 15:45:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Bayer Shares Rise After Win in First Roundup Trial Since Supreme Court Ruling",
-      "link": "https://www.wsj.com/us-news/law/bayer-wins-first-u-s-trial-over-roundup-since-supreme-court-ruling-051d1880?mod=rss_usnews",
-      "published": "Fri, 30 Oct 2026 10:50:00 GMT",
-      "sentiment": 0.525
     },
     {
       "title": "Homeowners Fight Utilities Over Grid Upgrades in Their Backyards",
@@ -127,40 +127,46 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Tax-Exempt Status Requires Colorblindness",
-      "link": "https://www.wsj.com/opinion/tax-exempt-status-requires-colorblindness-e09f6861?mod=rss_usnews",
-      "published": "Tue, 03 Nov 2026 16:16:00 GMT",
-      "sentiment": 0.125
+      "title": "Opinion | Time to Face the Social Security Crisis",
+      "link": "https://www.wsj.com/opinion/time-to-face-the-social-security-crisis-58c11b8e?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 21:49:00 GMT",
+      "sentiment": -0.08333333333333334
     },
     {
-      "title": "Opinion | Ban Officials From Prediction Market Trading",
-      "link": "https://www.wsj.com/opinion/ban-officials-from-prediction-market-trading-c8a2b47f?mod=rss_usnews",
-      "published": "Tue, 03 Nov 2026 16:15:00 GMT",
-      "sentiment": 0.25
+      "title": "Opinion | The Beginning of Trump’s Long Goodbye",
+      "link": "https://www.wsj.com/opinion/the-beginning-of-trumps-long-goodbye-aab26e3d?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 21:49:00 GMT",
+      "sentiment": -0.18333333333333335
     },
     {
-      "title": "Opinion | The Key to Pedestrian Safety",
-      "link": "https://www.wsj.com/opinion/the-key-to-pedestrian-safety-debdfec6?mod=rss_usnews",
-      "published": "Tue, 03 Nov 2026 16:14:00 GMT",
-      "sentiment": 0.0
+      "title": "Opinion | Permitting Reform Is an Early Test for the Democrats",
+      "link": "https://www.wsj.com/opinion/permitting-reform-is-an-early-test-for-the-democrats-8b168b35?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 21:47:00 GMT",
+      "sentiment": 0.1
     },
     {
-      "title": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’",
-      "link": "https://www.wsj.com/opinion/the-ethics-rules-behind-weil-gotshals-partner-run-75193b12?mod=rss_usnews",
-      "published": "Mon, 02 Nov 2026 23:06:00 GMT",
-      "sentiment": -0.23055555555555554
+      "title": "Opinion | Trump’s New Run at Ukraine Peace",
+      "link": "https://www.wsj.com/opinion/trumps-new-run-at-ukraine-peace-2a03316a?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 21:45:00 GMT",
+      "sentiment": 0.3181818181818182
     },
     {
-      "title": "Opinion | Religious Schools Déjà Vu at the Supreme Court",
-      "link": "https://www.wsj.com/opinion/st-mary-catholic-parish-v-roy-supreme-court-colorado-preschool-case-a09d2585?mod=rss_usnews",
-      "published": "Mon, 02 Nov 2026 23:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Opinion | Trump to Mideast: You’re on Your Own",
+      "link": "https://www.wsj.com/opinion/trump-to-mideast-youre-on-your-own-88c935b4?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 19:22:00 GMT",
+      "sentiment": 0.6
     },
     {
-      "title": "Opinion | Abigail Spanberger’s Power Play",
-      "link": "https://www.wsj.com/opinion/abigail-spanberger-dominion-nextera-energy-virginia-5f11925d?mod=rss_usnews",
-      "published": "Mon, 02 Nov 2026 22:41:00 GMT",
-      "sentiment": -0.1
+      "title": "Opinion | Elon Musk Will Turn Kids Into Capitalists",
+      "link": "https://www.wsj.com/opinion/elon-musk-will-turn-kids-into-capitalists-396c4fcf?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 19:22:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "20-Year-Old Co-Pilot Among the Victims of a Learjet Crash on Sunday, Family Says",
+      "link": "https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews",
+      "published": "Mon, 02 Nov 2026 23:15:00 GMT",
+      "sentiment": -0.06875
     },
     {
       "title": "Alaska Town Reckons With ‘Decoy Dan’ Election Fallout: ‘Now It Is Serious’",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/us-news/ice-officer-indicted-after-allegedly-striking-fleeing-man-with-vehicle-80d6dba9?mod=rss_usnews",
       "published": "Fri, 30 Oct 2026 22:57:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Do You Remember the Standout Quotes of the Midterms? Take Our Quiz",
-      "link": "https://www.wsj.com/politics/do-you-remember-the-standout-quotes-of-the-midterms-take-our-quiz-44fa6de5?mod=rss_usnews",
-      "published": "Fri, 30 Oct 2026 19:30:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "20-Year-Old Co-Pilot Among the Victims of a Learjet Crash on Sunday, Family Says",

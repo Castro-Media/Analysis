@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status",
+      "link": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 21:37:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "The Family Behind Some of the World’s Rarest Pearls",
+      "link": "https://www.wsj.com/style/paspaley-pearls-21d041ae?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+      "sentiment": -0.00833333333333334
+    },
+    {
       "title": "FBI Probes Autism Therapy Provider That Billed $30,000 a Day",
       "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 16:32:00 GMT",
@@ -22,18 +34,6 @@
       "title": "The Telling Changes to Board Composition",
       "link": "https://www.wsj.com/business/the-telling-changes-to-board-composition-3e42ee92?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 11:03:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-435c0f7e?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 12:35:00 GMT",
-      "sentiment": -0.10416666666666667
-    },
-    {
-      "title": "How BJ’s Restaurants Is Looking Beyond Its Signature Dessert to Fill Restaurants",
-      "link": "https://www.wsj.com/business/c-suite/how-bjs-restaurants-is-looking-beyond-its-signature-dessert-to-fill-restaurants-b1d9912d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 12:13:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Block Inc. Profit Rises as Square Payment Volume Jumps",
+      "link": "https://www.wsj.com/business/earnings/block-inc-profit-rises-as-square-payment-volume-jumps-b59af0ce?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 21:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Unilever Eyes $1.1 Billion in Savings as It Plans Leaner Future Away From Food",
       "link": "https://www.wsj.com/business/unilever-eyes-1-1-billion-in-savings-as-it-plans-leaner-future-away-from-food-9ed3cfc8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 17:18:00 GMT",
@@ -91,10 +97,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "DuPont Swings to a Profit and Lifts Outlook",
-      "link": "https://www.wsj.com/business/earnings/dupont-swings-to-a-profit-and-lifts-outlook-e941091d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 11:22:00 GMT",
+      "title": "Booking Profit, Sales Fall as Global Conflicts Wear on Travel Demand",
+      "link": "https://www.wsj.com/business/earnings/booking-profit-sales-fall-as-global-conflicts-wear-on-travel-demand-f91deef1?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 21:52:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Super Micro Computer Revenue Surges on AI Infrastructure Demand",
+      "link": "https://www.wsj.com/business/earnings/super-micro-computer-revenue-surges-on-ai-infrastructure-demand-32e5542c?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 21:43:00 GMT",
+      "sentiment": 0.18333333333333335
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/shopify-profit-revenue-up-as-merchant-volume-rises-4614feba?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 15:51:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Intesa Raises Profit Guidance as Monte Dei Paschi Bid Nears",
-      "link": "https://www.wsj.com/business/earnings/intesa-raises-profit-guidance-as-takeover-of-monte-dei-paschi-nears-dd194dcf?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 13:39:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Ferrari Lifts Guidance Again on Strong Demand for Car Customizations",
-      "link": "https://www.wsj.com/business/earnings/ferrari-lifts-guidance-again-on-strong-demand-for-car-customizations-869f62fd?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 13:25:00 GMT",
-      "sentiment": 0.16666666666666669
     },
     {
       "title": "Schaeffler to Cut Further 3,460 Jobs in Europe as Auto Industry Deteriorates",
@@ -193,16 +193,10 @@
       "sentiment": 0.4
     },
     {
-      "title": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rebound-as-u-s-strikes-on-iran-renew-supply-concerns-c662f284?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 17:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Natural Gas Futures Pick Up in Early Trading",
+      "title": "U.S. Natural Gas Futures Pick Up on Cooler Weather Outlook",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 14:24:00 GMT",
-      "sentiment": 0.14666666666666667
+      "published": "Tue, 03 Nov 2026 20:58:00 GMT",
+      "sentiment": 0.153125
     },
     {
       "title": "Saudi Aramco Profit Surges, Offering Some Relief to Kingdom’s Finances",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 22:44:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-857a5d99?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Nov 2026 22:26:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
@@ -265,6 +265,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "How BJ’s Restaurants Is Looking Beyond Its Signature Dessert to Fill Restaurants",
+      "link": "https://www.wsj.com/business/c-suite/how-bjs-restaurants-is-looking-beyond-its-signature-dessert-to-fill-restaurants-b1d9912d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Nov 2026 12:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Two Great Tasks Apollo’s CEO Is Tackling",
       "link": "https://www.wsj.com/cio-journal/the-two-great-tasks-apollos-ceo-is-tackling-28d0c097?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 10:51:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/business/c-suite/polariss-cfo-wants-to-restart-buybacks-after-a-tough-couple-of-years-afa0cd12?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 11:34:00 GMT",
       "sentiment": -0.09444444444444444
-    },
-    {
-      "title": "How Bristol Myers’s CEO Challenged the Company’s Managers",
-      "link": "https://www.wsj.com/business/media/how-bristol-myerss-ceo-challenged-the-companys-managers-b252ec24?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 09:56:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Cheesecake Factory Is Over-the-Top, Gaudy and Bizarre. That’s the Point.",
@@ -379,6 +379,12 @@
       "sentiment": 0.24
     },
     {
+      "title": "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-435c0f7e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Nov 2026 12:35:00 GMT",
+      "sentiment": -0.10416666666666667
+    },
+    {
       "title": "SpaceX Supplier STMicroelectronics Forecasts Strong Sales on AI, Satellite Boost",
       "link": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 07:01:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/telecom/jio-platforms-soar-after-indias-largest-ever-initial-public-offering-3bb37b23?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 05:27:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Verizon Lifts Outlook, Inks Amazon Deal Worth More Than $2 Billion",
-      "link": "https://www.wsj.com/business/earnings/verizon-lifts-outlook-inks-amazon-deal-worth-more-than-2-billion-989c8e0f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 26 Oct 2026 14:15:00 GMT",
-      "sentiment": 0.3590909090909091
     },
     {
       "title": "The Wild Rise of a Trump-Backed Drone Company",
@@ -481,16 +481,16 @@
       "sentiment": -0.6
     },
     {
-      "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
-      "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 01 Nov 2026 15:23:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",
       "link": "https://www.wsj.com/world/the-little-known-chinese-bank-in-the-middle-of-iranian-and-russian-money-flows-9e76173b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 15:55:00 GMT",
       "sentiment": -0.03111111111111111
+    },
+    {
+      "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+      "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 01 Nov 2026 15:23:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
