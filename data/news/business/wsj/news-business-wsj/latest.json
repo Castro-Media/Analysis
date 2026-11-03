@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "The Telling Changes to Board Composition",
+      "link": "https://www.wsj.com/business/the-telling-changes-to-board-composition-3e42ee92?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 11:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries",
       "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 04:59:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/cio-journal/the-two-great-tasks-apollos-ceo-is-tackling-28d0c097?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 10:51:00 GMT",
       "sentiment": 0.8
-    },
-    {
-      "title": "Netflix Needs You to Watch, Not Just Pay",
-      "link": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Oracle Looks to Raise $20 Billion to Fund AI Ambitions",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "DuPont Swings to a Profit and Lifts Outlook",
+      "link": "https://www.wsj.com/business/earnings/dupont-swings-to-a-profit-and-lifts-outlook-e941091d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 11:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Bayer Shares Jump After Pharma Recovery Prompts Outlook Raise",
       "link": "https://www.wsj.com/business/earnings/bayer-raises-earnings-outlook-on-pharma-recovery-2a480922?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 09:15:00 GMT",
@@ -91,10 +97,16 @@
       "sentiment": 0.35
     },
     {
-      "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
-      "link": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 23:16:00 GMT",
-      "sentiment": 0.0987878787878788
+      "title": "Apollo Global Swings to a Loss on Investment-Related Losses",
+      "link": "https://www.wsj.com/business/earnings/apollo-global-swings-to-a-loss-on-investment-related-losses-e2141fd4?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 11:48:00 GMT",
+      "sentiment": -0.06
+    },
+    {
+      "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
+      "link": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 11:03:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Lufthansa Turns Cautious on Outlook as Fuel Costs Weigh",
@@ -109,22 +121,10 @@
       "sentiment": -0.07013888888888889
     },
     {
-      "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
-      "link": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 23:59:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Diamondback Energy Lifts Production Targets Again as Revenue Grows",
-      "link": "https://www.wsj.com/business/earnings/diamondback-energy-lifts-production-targets-again-as-revenue-grows-1a98b68d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 22:17:00 GMT",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Clorox Posts Higher Revenue, Profit; Trims Outlook on Higher Costs",
-      "link": "https://www.wsj.com/business/retail/clorox-posts-higher-revenue-profit-trims-outlook-on-higher-costs-4e6a468b?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 21:24:00 GMT",
-      "sentiment": 0.125
+      "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
+      "link": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Nov 2026 23:16:00 GMT",
+      "sentiment": 0.0987878787878788
     },
     {
       "title": "An Iconic Porsche Was Lost to Time. Now Two Owners Think It’s Theirs.",
@@ -337,9 +337,15 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Shopping Bots Are Coming for Amazon",
-      "link": "https://www.wsj.com/tech/the-shopping-bots-are-coming-for-amazon-701caa57?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 01 Nov 2026 10:30:00 GMT",
+      "title": "Netflix Needs You to Watch, Not Just Pay",
+      "link": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Factory Activity Continues to Expand",
+      "link": "https://www.wsj.com/logistics-report/u-s-factory-activity-continues-to-expand-cb975381?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 11:51:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/employers-near-deal-to-delay-strike-threat-at-los-angeles-long-beach-ports-e44a1734?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 20:14:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "The Holiday Hiring Rush Is Moving to the Eleventh Hour",
-      "link": "https://www.wsj.com/logistics-report/the-holiday-hiring-rush-is-moving-to-the-eleventh-hour-b0f3ea50?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 19:56:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
@@ -483,7 +483,7 @@
     {
       "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
       "link": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 23:59:00 GMT",
+      "published": "Tue, 03 Nov 2026 11:03:00 GMT",
       "sentiment": 0.25
     },
     {
