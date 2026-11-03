@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Australian Court Hears Challenge to Social Media Ban",
+      "link": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
+      "published": "Tue, 03 Nov 2026 09:24:40 +0000",
+      "sentiment": 0.10555555555555556
+    },
+    {
       "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
       "published": "Mon, 02 Nov 2026 20:50:14 +0000",
@@ -51,7 +57,7 @@
     {
       "title": "China’s Message to Its Rivals: You Need What We Make",
       "link": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-      "published": "Mon, 02 Nov 2026 16:21:25 +0000",
+      "published": "Tue, 03 Nov 2026 09:18:50 +0000",
       "sentiment": 0.024999999999999994
     },
     {
@@ -77,12 +83,6 @@
       "link": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
       "published": "Sun, 01 Nov 2026 10:20:20 +0000",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
-      "link": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
-      "published": "Sat, 31 Oct 2026 21:43:34 +0000",
-      "sentiment": 0.5
     },
     {
       "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
@@ -173,6 +173,12 @@
       "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
       "published": "Tue, 03 Nov 2026 03:29:38 +0000",
       "sentiment": 0.375
+    },
+    {
+      "title": "Ukrainian Evacuees From Oleshky Tell Survival Stories",
+      "link": "https://www.nytimes.com/2026/10/31/world/europe/ukraine-evacuees-oleshky.html",
+      "published": "Sat, 31 Oct 2026 21:43:34 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
@@ -329,12 +335,6 @@
       "link": "https://www.nytimes.com/2026/10/30/world/europe/italy-romanzo-criminale-opera.html",
       "published": "Fri, 30 Oct 2026 09:02:59 +0000",
       "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "How Ukrainian Soldiers Are Moving Underground",
-      "link": "https://www.nytimes.com/video/world/europe/100000011210889/how-ukrainian-soldiers-are-moving-underground.html",
-      "published": "Fri, 30 Oct 2026 11:14:40 +0000",
-      "sentiment": 0.1
     }
   ]
 }
