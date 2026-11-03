@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "title": "LA woman killed by LAPD patrol car responding to a Halloween party call ID’d as 32-year-old mom",
+      "link": "https://nypost.com/2026/11/03/us-news/woman-killed-by-lapd-patrol-car-on-halloween-idd-as-32-year-old-mom/",
+      "published": "Tue, 03 Nov 2026 13:58:29 -0500",
+      "sentiment": -0.05
+    },
+    {
+      "title": "4-year-old boy’s lifeless body found buried under pile of clothes in closet, mom’s friend arrested",
+      "link": "https://nypost.com/2026/11/03/us-news/4-year-old-boy-found-dead-under-pile-of-clothes-in-closet/",
+      "published": "Tue, 03 Nov 2026 13:52:09 -0500",
+      "sentiment": 0.25625
+    },
+    {
+      "title": "NYC Marathon runner Rachel Apa was lifelong athlete, ‘always on the go’ before dying from rhabdomyolysis",
+      "link": "https://nypost.com/2026/11/03/us-news/nyc-marathon-runner-rachel-apa-was-lifelong-athlete-always-on-the-go-before-dying-from-rhabdomyolysis/",
+      "published": "Tue, 03 Nov 2026 13:50:47 -0500",
+      "sentiment": 0.02329545454545453
+    },
+    {
+      "title": "Escaped Tennessee inmate convicted of co-worker’s murder is recaptured after more than a week on the run, officials say",
+      "link": "https://nypost.com/2026/11/03/us-news/escaped-tennessee-inmate-convicted-of-co-workers-murder-is-recaptured-after-more-than-a-week-on-the-run-officials-say/",
+      "published": "Tue, 03 Nov 2026 13:43:45 -0500",
+      "sentiment": 0.5
+    },
+    {
+      "title": "California school district cancels all football games amid allegations of ‘extremely serious’ misconduct",
+      "link": "https://nypost.com/2026/11/03/us-news/norcal-high-school-shuts-down-football-program-amid-misconduct-probe/",
+      "published": "Tue, 03 Nov 2026 13:24:07 -0500",
+      "sentiment": -0.08666666666666666
+    },
+    {
+      "title": "Alaska Senate candidate ‘Decoy’ Dan Sullivan missing on Election Day as Trump alleges ‘criminal act’",
+      "link": "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/",
+      "published": "Tue, 03 Nov 2026 13:11:21 -0500",
+      "sentiment": -0.20000000000000004
+    },
+    {
+      "title": "Haley Stevens has no regrets over GOP endorsement as Mike Rogers defends her from vicious Dems",
+      "link": "https://nypost.com/2026/11/03/us-news/haley-stevens-has-no-regrets-over-gop-endorsement-as-mike-rogers-defends-her-from-vicious-dems/",
+      "published": "Tue, 03 Nov 2026 13:08:21 -0500",
+      "sentiment": -0.25999999999999995
+    },
+    {
+      "title": "NYPD says school officials stonewalled probe into ‘bullied’ slain student — after Mamdani crowed about helping family",
+      "link": "https://nypost.com/2026/11/03/us-news/nypd-says-school-officials-stonewalled-probe-into-bullied-slain-student-after-mamdani-crowed-about-helping-kin/",
+      "published": "Tue, 03 Nov 2026 13:03:33 -0500",
+      "sentiment": 0.05
+    },
+    {
       "title": "Friend reacts to Learjet co-pilot Nathalia Filgueiras’ haunting last words before deadly crash",
       "link": "https://nypost.com/2026/11/03/us-news/friend-reacts-to-learjet-co-pilot-nathalia-filgueiras-haunting-last-words-before-deadly-crash/",
       "published": "Tue, 03 Nov 2026 12:55:22 -0500",
@@ -25,13 +73,13 @@
       "sentiment": -0.07500000000000001
     },
     {
-      "title": "Oklahoma man charged with mailing hundreds of letters containing powder to officials ahead of the election",
+      "title": "Oklahoma man charged with mailing hundreds of letters containing powder to officials ahead of 2024 eelection",
       "link": "https://nypost.com/2026/11/03/us-news/oklahoma-man-charged-with-mailing-hundreds-of-letters-containing-powder-to-officials-ahead-of-the-election/",
       "published": "Tue, 03 Nov 2026 12:39:42 -0500",
       "sentiment": 0.0
     },
     {
-      "title": "NYC jogger, 28, dead after being stabbed in the neck apparent random attack: family",
+      "title": "NYC jogger, 28, stabbed in apparent random attack dead after three day battle for survival",
       "link": "https://nypost.com/2026/11/03/us-news/stabbed-nyc-jogger-has-died-family/",
       "published": "Tue, 03 Nov 2026 12:39:04 -0500",
       "sentiment": -0.010000000000000009
@@ -43,10 +91,10 @@
       "sentiment": 0.050757575757575765
     },
     {
-      "title": "NYC’s pampered pups are getting five-star treatment at $100k-a-year luxury country escapes",
+      "title": "New York dog moms are lavishing pooches with $100k-a-year luxury retreats and themed birthday parties",
       "link": "https://nypost.com/2026/11/03/lifestyle/nycs-pampered-pups-get-five-star-treatment-luxe-country-escapes/",
       "published": "Tue, 03 Nov 2026 12:15:14 -0500",
-      "sentiment": 0.39999999999999997
+      "sentiment": 0.3121212121212121
     },
     {
       "title": "Tech exec Learjet victim made chilling post about ‘crashing a plane’ months before dying with family on flight",
@@ -71,54 +119,6 @@
       "link": "https://nypost.com/2026/11/03/us-news/xavier-becerra-refuses-to-endorse-karen-bass-as-two-appear-at-same-rally/",
       "published": "Tue, 03 Nov 2026 11:21:09 -0500",
       "sentiment": -0.015476190476190485
-    },
-    {
-      "title": "Furious San Diego parents confront neighbors after kids given potent psychedelic gummies in Halloween bags",
-      "link": "https://nypost.com/2026/11/03/us-news/socal-parents-confront-neighbor-over-psychedelic-gummy-halloween-candy/",
-      "published": "Tue, 03 Nov 2026 11:08:46 -0500",
-      "sentiment": 0.09166666666666667
-    },
-    {
-      "title": "Melania Trump will host Russia-Ukraine peace talks at White House",
-      "link": "https://nypost.com/2026/11/03/us-news/melania-trump-will-host-russia-ukraine-peace-talks-at-white-house-in-hopes-of-brokering-new-agreement/",
-      "published": "Tue, 03 Nov 2026 11:03:30 -0500",
-      "sentiment": 0.044642857142857144
-    },
-    {
-      "title": "Startup mogul Adam Robinson was flying family, friends to celebrate birthday when doomed Learjet crashed",
-      "link": "https://nypost.com/2026/11/03/us-news/startup-mogul-adam-robinson-was-flying-family-friends-to-celebrate-birthday-when-doomed-learjet-crashed/",
-      "published": "Tue, 03 Nov 2026 11:03:08 -0500",
-      "sentiment": -0.05
-    },
-    {
-      "title": "California’s public universities now cost families more than $50K a year",
-      "link": "https://nypost.com/2026/11/03/us-news/several-uc-campuses-now-cost-over-50000-for-in-state-families/",
-      "published": "Tue, 03 Nov 2026 11:00:00 -0500",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Storm turns deadly as system threatens flash flooding on Election Day in Central US",
-      "link": "https://nypost.com/2026/11/03/us-news/cross-country-storm-turns-deadly-as-system-threatens-central-us-with-heavy-rain-election-day-flash-flooding/",
-      "published": "Tue, 03 Nov 2026 10:48:06 -0500",
-      "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "Toddler killed by DUI driver at grandmother’s gravesite as anguished mom speaks out",
-      "link": "https://nypost.com/2026/11/03/us-news/dui-driver-kills-toddler-at-grandmothers-gravesite-memorial-in-norcal/",
-      "published": "Tue, 03 Nov 2026 10:44:06 -0500",
-      "sentiment": -0.04444444444444445
-    },
-    {
-      "title": "How Trump’s ‘Donroe Doctrine’ is taking back the Western Hemisphere",
-      "link": "https://nypost.com/2026/11/03/us-news/how-trumps-donroe-doctrine-is-taking-back-the-western-hemisphere/",
-      "published": "Tue, 03 Nov 2026 10:15:57 -0500",
-      "sentiment": -0.12
-    },
-    {
-      "title": "NYC Marathon runner Rachel Apa died from rare rhabdomyolysis, which causes muscles to disintegrate and poison the blood",
-      "link": "https://nypost.com/2026/11/03/us-news/nyc-marathon-runner-rachel-apa-died-from-rare-rhabdomyolysis-which-causes-muscles-to-disintegrate-and-poison-the-blood/",
-      "published": "Tue, 03 Nov 2026 09:56:22 -0500",
-      "sentiment": 0.3060606060606061
     }
   ]
 }
