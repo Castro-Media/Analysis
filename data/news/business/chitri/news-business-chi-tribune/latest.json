@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Teamsters launch strike of employees who staff parking operations at O’Hare and McCormick Place",
+      "link": "https://www.chicagotribune.com/2026/11/03/teamsters-parking-strike-ohare-mccormick-place/",
+      "published": "Tue, 03 Nov 2026 16:43:38 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Data center growth spurs call for nuclear power plants in Indiana",
+      "link": "https://www.chicagotribune.com/2026/11/03/data-center-growth-nuclear-power-indiana/",
+      "published": "Tue, 03 Nov 2026 16:18:36 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Chicago-based Brick is the latest bet against screen addiction",
+      "link": "https://www.chicagotribune.com/2026/11/03/brick-screen-addition/",
+      "published": "Tue, 03 Nov 2026 16:00:43 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Rosemont makes EV charger ban in parking garages permanent",
       "link": "https://www.chicagotribune.com/2026/11/03/rosemont-ev-charger-ban-parking-garages/",
       "published": "Tue, 03 Nov 2026 15:41:04 +0000",
@@ -17,6 +35,18 @@
       "link": "https://www.chicagotribune.com/2026/11/03/us-job-postings-jumped-sharply-september/",
       "published": "Tue, 03 Nov 2026 15:17:45 +0000",
       "sentiment": -0.125
+    },
+    {
+      "title": "Flights across Europe hit by bomb threats that turned out to be hoaxes",
+      "link": "https://www.chicagotribune.com/2026/11/03/flights-europe-bomb-threat-hoax/",
+      "published": "Tue, 03 Nov 2026 14:47:22 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says",
+      "link": "https://www.chicagotribune.com/2026/11/03/uk-ai-cyberattacks-on-critical-infrastructure-possible-2028/",
+      "published": "Tue, 03 Nov 2026 14:10:23 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Leyden Senior Apartments opens in Franklin Park with 80 units",
@@ -569,36 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/10/22/lakeshore-east-north-facing-views/",
       "published": "Thu, 22 Oct 2026 10:00:05 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Terry Savage: Small business owners, now is the time to offer health insurance coverage",
-      "link": "https://www.chicagotribune.com/2026/10/21/terry-savage-small-business-owners-now-is-the-time-to-offer-health-insurance-coverage-2/",
-      "published": "Thu, 22 Oct 2026 03:00:50 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Michigan City residents concerned about new data center moratorium ordinance",
-      "link": "https://www.chicagotribune.com/2026/10/21/michigan-city-residents-concerned-about-new-data-center-moratorium-ordinance/",
-      "published": "Wed, 21 Oct 2026 21:06:20 +0000",
-      "sentiment": 0.018181818181818174
-    },
-    {
-      "title": "Pace unveils ambitious plan to boost suburban bus service by 50%",
-      "link": "https://www.chicagotribune.com/2026/10/21/pace-bus-service-boost/",
-      "published": "Wed, 21 Oct 2026 20:07:34 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
-      "link": "https://www.chicagotribune.com/2026/10/21/meta-new-mexico-25-billion-facebook-privacy/",
-      "published": "Wed, 21 Oct 2026 18:55:03 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "War made planting difficult. Now it could boost farmers’ profits.",
-      "link": "https://www.chicagotribune.com/2026/10/21/war-farmers-profits/",
-      "published": "Wed, 21 Oct 2026 16:59:43 +0000",
-      "sentiment": -0.5
     }
   ]
 }

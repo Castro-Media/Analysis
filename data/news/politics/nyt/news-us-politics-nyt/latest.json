@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Trump Says U.S. to End $4 Billion in Aid to Israel in Favor of New Deal",
+      "title": "House Republicans Accuse Top Psychology Group of Antisemitism",
+      "link": "https://www.nytimes.com/2026/11/03/well/mind/american-psychological-association-antisemitism-congress-house-report.html",
+      "published": "Tue, 03 Nov 2026 16:46:41 +0000",
+      "sentiment": -0.045
+    },
+    {
+      "title": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
-      "published": "Tue, 03 Nov 2026 15:39:33 +0000",
-      "sentiment": 0.23484848484848483
+      "published": "Tue, 03 Nov 2026 16:32:21 +0000",
+      "sentiment": 0.3333333333333333
     },
     {
       "title": "Election Day Could Be a Rainy One in Some Areas",
@@ -15,7 +21,7 @@
     {
       "title": "How to Follow The New York Times’s 2026 Midterm Election Results and Coverage",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/how-to-watch-midterm-election-results.html",
-      "published": "Tue, 03 Nov 2026 11:30:05 +0000",
+      "published": "Tue, 03 Nov 2026 15:54:41 +0000",
       "sentiment": 0.3181818181818182
     },
     {
@@ -39,7 +45,7 @@
     {
       "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
-      "published": "Tue, 03 Nov 2026 10:03:12 +0000",
+      "published": "Tue, 03 Nov 2026 16:21:27 +0000",
       "sentiment": -0.05
     },
     {
@@ -51,19 +57,19 @@
     {
       "title": "What’s at Stake in Today’s Elections",
       "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
-      "published": "Tue, 03 Nov 2026 15:38:45 +0000",
+      "published": "Tue, 03 Nov 2026 16:23:33 +0000",
       "sentiment": 0.04545454545454545
     },
     {
       "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
       "link": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
-      "published": "Tue, 03 Nov 2026 10:01:46 +0000",
+      "published": "Tue, 03 Nov 2026 16:20:43 +0000",
       "sentiment": 0.025
     },
     {
       "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
-      "published": "Tue, 03 Nov 2026 13:34:21 +0000",
+      "published": "Tue, 03 Nov 2026 16:23:39 +0000",
       "sentiment": -0.023809523809523808
     },
     {
@@ -75,7 +81,7 @@
     {
       "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
-      "published": "Tue, 03 Nov 2026 14:50:51 +0000",
+      "published": "Tue, 03 Nov 2026 16:51:07 +0000",
       "sentiment": 0.13333333333333333
     },
     {
@@ -147,7 +153,7 @@
     {
       "title": "Will Trump’s Comments About Jon Husted’s Physique Help Him Win the Ohio Senate Race?",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-husted-body-comments.html",
-      "published": "Mon, 02 Nov 2026 19:27:03 +0000",
+      "published": "Tue, 03 Nov 2026 16:27:36 +0000",
       "sentiment": 0.225
     },
     {
@@ -173,36 +179,6 @@
       "link": "https://www.nytimes.com/2026/11/02/us/politics/jury-selection-death-penalty-cole-bombing.html",
       "published": "Mon, 02 Nov 2026 18:22:32 +0000",
       "sentiment": 0.016666666666666663
-    },
-    {
-      "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
-      "published": "Tue, 03 Nov 2026 00:14:14 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Returns to Reflecting Pool, Now Refilled After Botched Renovation",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-refilled-botched-repairs.html",
-      "published": "Mon, 02 Nov 2026 16:31:11 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
-      "published": "Tue, 03 Nov 2026 00:54:30 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Early Voting Turnout Offers Promising Signs for Democrats",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/early-vote-turnout-senate-battlegrounds.html",
-      "published": "Mon, 02 Nov 2026 15:57:32 +0000",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html",
-      "published": "Mon, 02 Nov 2026 19:34:12 +0000",
-      "sentiment": 0.0
     }
   ]
 }
