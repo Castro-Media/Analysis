@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
+      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
+      "published": "Tue, 03 Nov 2026 10:45:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "For Midterms Night, a TV Schedule Overflowing With Options",
+      "link": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
+      "published": "Tue, 03 Nov 2026 10:20:06 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "A Guide to What We’ll Know on Election Night, Hour by Hour",
+      "link": "https://www.nytimes.com/2026/11/03/upshot/poll-closing-times-midterm-elections.html",
+      "published": "Tue, 03 Nov 2026 10:03:34 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
+      "published": "Tue, 03 Nov 2026 10:03:12 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
+      "published": "Tue, 03 Nov 2026 10:03:09 +0000",
+      "sentiment": 0.1388888888888889
+    },
+    {
+      "title": "What’s at Stake in Today’s Elections",
+      "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
+      "published": "Tue, 03 Nov 2026 10:02:27 +0000",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+      "link": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+      "published": "Tue, 03 Nov 2026 10:01:46 +0000",
+      "sentiment": 0.025
+    },
+    {
       "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
       "published": "Tue, 03 Nov 2026 04:10:38 +0000",
@@ -149,72 +191,6 @@
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html",
       "published": "Mon, 02 Nov 2026 20:29:53 +0000",
       "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "When Will We Know Election Outcomes? Don’t Hold Your Breath.",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/election-vote-counts.html",
-      "published": "Mon, 02 Nov 2026 10:04:51 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Can a Progressive Win a Swing State?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011250893/can-a-progressive-win-a-swing-state.html",
-      "published": "Mon, 02 Nov 2026 10:04:45 +0000",
-      "sentiment": 0.5333333333333333
-    },
-    {
-      "title": "We Called Back Young Men Who Voted for Trump. He’s Losing Them.",
-      "link": "https://www.nytimes.com/2026/11/02/upshot/poll-young-men-midterms-trump.html",
-      "published": "Mon, 02 Nov 2026 10:04:44 +0000",
-      "sentiment": 0.08409090909090909
-    },
-    {
-      "title": "Elon Musk Spends $474 Million on the 2026 Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/elon-musk-midterm-spending.html",
-      "published": "Mon, 02 Nov 2026 10:04:42 +0000",
-      "sentiment": -0.010714285714285711
-    },
-    {
-      "title": "Vance Leans Into Personal Attacks on the Campaign Trail",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/vance-campaign-trail-personas.html",
-      "published": "Tue, 03 Nov 2026 00:07:26 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Senate Control After the Midterms: Party Switches, Ties and Wild Cards",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/senate-midterms-tie-independents-wild-cards.html",
-      "published": "Mon, 02 Nov 2026 10:03:42 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Parties End the Midterm Election With Their Closing Arguments",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html",
-      "published": "Mon, 02 Nov 2026 13:23:50 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Midterm Elections: Who Is Winning the Race for Congress?",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/congress-races-midterms.html",
-      "published": "Mon, 02 Nov 2026 10:03:33 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Can Democrats Flip Texas?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011237962/can-democrats-flip-texas.html",
-      "published": "Mon, 02 Nov 2026 10:03:17 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Can a Republican Win in a Democratic State?",
-      "link": "https://www.nytimes.com/video/us/politics/100000011237418/can-a-republican-win-in-a-democratic-state.html",
-      "published": "Mon, 02 Nov 2026 10:03:15 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "How The New York Times Is Covering the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html",
-      "published": "Mon, 02 Nov 2026 10:02:41 +0000",
-      "sentiment": 0.0452020202020202
     }
   ]
 }

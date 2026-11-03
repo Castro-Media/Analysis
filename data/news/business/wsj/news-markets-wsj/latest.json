@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Set for Lower Open After Apple Earnings Disappoint",
+      "title": "Stock Market Today: Stock Futures Mixed After Apple Earnings Disappoint",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 08:43:11 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
+      "link": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.24
     },
     {
       "title": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/morgan-stanley-raises-bullish-european-gas-price-scenario-on-winter-supply-risks-77062b22?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 14:42:00 GMT",
       "sentiment": 0.22000000000000003
-    },
-    {
-      "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
-      "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 12:00:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Netflix Needs You to Watch, Not Just Pay",
@@ -103,16 +103,22 @@
       "sentiment": 0.125
     },
     {
+      "title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 10:04:00 GMT",
+      "sentiment": 0.06805555555555555
+    },
+    {
+      "title": "See How Race Forecasters Project the Senate and House—and Pick Your Own Winners",
+      "link": "https://www.wsj.com/articles/midterms-2026-election-predictions-odds-40ddec5a?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 10:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
       "title": "Dow Futures Fall, Treasurys Yields Rise Heading Into Midterms",
       "link": "https://www.wsj.com/finance/investing/dow-futures-fall-treasurys-yields-rise-heading-into-midterms-d3a6a938?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 09:26:00 GMT",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "U.S. Treasury Yields Rise as Markets Await Midterm Election Results",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 07:44:00 GMT",
-      "sentiment": 0.08166666666666667
     },
     {
       "title": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries",
@@ -125,12 +131,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-percolating-ai-fears-offset-oil-relief-6c9535a6?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 22:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
-      "link": "https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 19:10:00 GMT",
-      "sentiment": -0.041666666666666664
     },
     {
       "title": "European Chip Stocks Fall After Asia Selloff",
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Gold Futures Slide as Higher Oil Prices Fuel Rate-Hike Concerns",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "European TTF Gas Rebounds After Monday’s Drop",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 09:23:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/business/energy-oil/iran-war-threatens-record-annual-drop-in-global-lng-supply-iea-says-68149f2f?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 06:07:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Gold Edges Higher Amid Better Investor Sentiment",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 00:20:00 GMT",
-      "sentiment": 0.26666666666666666
     },
     {
       "title": "Oil Falls as Market Tracks Mideast Developments",
@@ -289,6 +289,12 @@
       "sentiment": -0.026060606060606062
     },
     {
+      "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
+      "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 12:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
       "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main",
       "published": "Sun, 01 Nov 2026 15:23:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 21:36:00 GMT",
       "sentiment": -0.0625
-    },
-    {
-      "title": "The Week the Cracks in the AI Trade Grew Deeper",
-      "link": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 20:52:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
