@@ -1,10 +1,52 @@
 {
   "entries": [
     {
+      "title": "Sonja Shaw says she’s ‘ready to get to work’ as California superintendent, makes final plea as race heads to Election Day",
+      "link": "https://nypost.com/2026/11/02/us-news/sonja-shaw-vows-academic-focus-in-california-superintendent-race/",
+      "published": "Mon, 02 Nov 2026 20:45:28 -0500",
+      "sentiment": 0.1
+    },
+    {
+      "title": "8 California House races to watch: GOP vs. GOP, Dems at war and Nancy Pelosi’s seat up for grabs",
+      "link": "https://nypost.com/2026/11/02/us-news/8-california-house-races-to-watch-gop-vs-gop-dems-at-war-and-nancy-pelosis-seat-up-for-grabs/",
+      "published": "Mon, 02 Nov 2026 20:18:57 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Raman vows she won’t block homeless camping bans as mayor — then votes to block one on LA’s Westside",
+      "link": "https://nypost.com/2026/11/02/us-news/nithya-raman-votes-against-westside-homeless-encampment-ban/",
+      "published": "Mon, 02 Nov 2026 20:15:00 -0500",
+      "sentiment": 0.011111111111111113
+    },
+    {
+      "title": "Florida battles largest dengue fever outbreak in decades with hundreds infected",
+      "link": "https://nypost.com/2026/11/02/health/florida-battles-largest-dengue-fever-outbreak-in-decades-with-hundreds-infected/",
+      "published": "Mon, 02 Nov 2026 20:05:49 -0500",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Bass and Raman make final pitches as voters prepare to decide city’s future",
+      "link": "https://nypost.com/2026/11/02/us-news/bass-and-raman-make-final-pitches-as-voters-prepare-to-decide-citys-future/",
+      "published": "Mon, 02 Nov 2026 20:04:04 -0500",
+      "sentiment": -0.06000000000000001
+    },
+    {
+      "title": "Tiger Woods set to create ‘new golf experience’ with shuttered Long Island course",
+      "link": "https://nypost.com/2026/11/02/sports/tiger-woods-set-to-revive-tam-oshanter-country-club-golf-course/",
+      "published": "Mon, 02 Nov 2026 20:03:17 -0500",
+      "sentiment": 0.012121212121212116
+    },
+    {
+      "title": "NYPD cops shoot career criminal, 49, who got into gunfight with officers near Bronx daycare",
+      "link": "https://nypost.com/2026/11/02/us-news/nypd-cops-shoot-career-criminal-after-shootout-near-bronx-daycare/",
+      "published": "Mon, 02 Nov 2026 19:58:52 -0500",
+      "sentiment": -0.15000000000000002
+    },
+    {
       "title": "Xavier Becerra, Steve Hilton make final push as California early voters show up in force for midterm election",
       "link": "https://nypost.com/2026/11/02/us-news/xavier-becerra-steve-hilton-make-final-campaign-stops-in-california-governor-race/",
       "published": "Mon, 02 Nov 2026 19:43:43 -0500",
-      "sentiment": 0.06
+      "sentiment": 0.08666666666666667
     },
     {
       "title": "San Diego Registrar of Voters evacuated over possible bomb threat: cops",
@@ -67,58 +109,16 @@
       "sentiment": 0.17689393939393938
     },
     {
-      "title": "Cops arrest suspect in Spirit Halloween mass shooting that left pregnant woman dead",
+      "title": "Cops arrest  teen suspect in Spirit Halloween mass shooting that left pregnant woman dead",
       "link": "https://nypost.com/2026/11/02/us-news/suspect-arrested-in-fatal-fairfield-spirit-halloween-mass-shooting/",
       "published": "Mon, 02 Nov 2026 18:23:14 -0500",
-      "sentiment": -0.012121212121212128
+      "sentiment": -0.10333333333333335
     },
     {
       "title": "Long Island GOP candidate alleges opponent violated campaign matching funds rules",
       "link": "https://nypost.com/2026/11/02/us-news/long-island-gop-candidate-alleges-opponent-violated-campaign-matching-funds-rules/",
       "published": "Mon, 02 Nov 2026 18:01:40 -0500",
       "sentiment": 0.05000000000000001
-    },
-    {
-      "title": "California released thousands of murderers, sexual predators and other criminals into streets with sanctuary policies: feds",
-      "link": "https://nypost.com/2026/11/02/us-news/feds-slam-california-sanctuary-policies-over-release-of-violent-criminals/",
-      "published": "Mon, 02 Nov 2026 18:01:32 -0500",
-      "sentiment": 0.046875
-    },
-    {
-      "title": "Why Haley Stevens backing Mike Rogers is a painful lesson for El-Sayed: ‘Hurt people, hurt people’",
-      "link": "https://nypost.com/2026/11/02/us-news/why-haley-stevens-backing-mike-rogers-is-a-painful-lesson-for-el-sayed-hurt-people-hurt-people/",
-      "published": "Mon, 02 Nov 2026 17:50:22 -0500",
-      "sentiment": -0.5666666666666667
-    },
-    {
-      "title": "‘Obsessed’ Michigan maniac hunts down ex-wife in upstate NY, kills himself as cops close in after 200-mile manhunt",
-      "link": "https://nypost.com/2026/11/02/us-news/michigan-maniac-hunts-down-ex-wife-in-upstate-ny-kills-himself-after-200-mile-manhunt/",
-      "published": "Mon, 02 Nov 2026 17:41:47 -0500",
-      "sentiment": -0.15383838383838383
-    },
-    {
-      "title": "Ilhan Omar’s two secret London siblings pictured with man accused of Somali genocide",
-      "link": "https://nypost.com/2026/11/02/us-news/ilhan-omars-two-secret-london-siblings-pictured-with-man-accused-of-somali-genocide/",
-      "published": "Mon, 02 Nov 2026 17:35:36 -0500",
-      "sentiment": -0.44375
-    },
-    {
-      "title": "LA neighborhood’s famed purple Victorian home built in 1888 hits the market for $2M",
-      "link": "https://nypost.com/2026/11/02/real-estate/historic-la-victorian-home-known-as-esperanza-hits-market-for-2m/",
-      "published": "Mon, 02 Nov 2026 17:23:14 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The 10 GOP frontliners who will determine control of the House",
-      "link": "https://nypost.com/2026/11/02/us-news/the-top-10-gop-frontliners-who-will-determine-control-of-the-house/",
-      "published": "Mon, 02 Nov 2026 17:13:10 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "West Point cadet drugged pregnant girlfriend with spiked shake, then forced abortion in gruesome assault: ‘Eat this, it’s good for you’",
-      "link": "https://nypost.com/2026/11/02/us-news/west-point-cadet-drugged-pregnant-girlfriend-with-spiked-shake-then-forced-abortion/",
-      "published": "Mon, 02 Nov 2026 17:10:59 -0500",
-      "sentiment": -0.06666666666666671
     }
   ]
 }
