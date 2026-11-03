@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "published": "Tue, 03 Nov 2026 18:25:13 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "Gaming Out the Prospect of a Blue Wave",
       "link": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
       "published": "Tue, 03 Nov 2026 15:27:12 +0000",
@@ -27,7 +33,7 @@
     {
       "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
       "link": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
-      "published": "Tue, 03 Nov 2026 16:20:43 +0000",
+      "published": "Tue, 03 Nov 2026 18:04:05 +0000",
       "sentiment": 0.025
     },
     {
@@ -51,7 +57,7 @@
     {
       "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
       "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-      "published": "Tue, 03 Nov 2026 08:45:19 +0000",
+      "published": "Tue, 03 Nov 2026 08:45:20 +0000",
       "sentiment": -0.1
     },
     {
@@ -123,7 +129,7 @@
     {
       "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
       "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
-      "published": "Mon, 02 Nov 2026 12:39:41 +0000",
+      "published": "Mon, 02 Nov 2026 12:39:42 +0000",
       "sentiment": 0.0
     },
     {
@@ -293,12 +299,6 @@
       "link": "https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html",
       "published": "Fri, 30 Oct 2026 09:03:21 +0000",
       "sentiment": 0.30666666666666664
-    },
-    {
-      "title": "Why the Markets Don’t Care About the Midterms",
-      "link": "https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html",
-      "published": "Fri, 30 Oct 2026 20:36:05 +0000",
-      "sentiment": 0.3333333333333333
     }
   ]
 }
