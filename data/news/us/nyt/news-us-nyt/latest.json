@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Trump Says U.S. to End $4 Billion in Aid to Israel in Favor of New Deal",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
+      "published": "Tue, 03 Nov 2026 15:39:33 +0000",
+      "sentiment": 0.23484848484848483
+    },
+    {
+      "title": "Voting Machine Snags Reported at Polling Sites in New York Suburbs",
+      "link": "https://www.nytimes.com/2026/11/03/us/voting-machine-issues-westchester-new-york.html",
+      "published": "Tue, 03 Nov 2026 15:14:24 +0000",
+      "sentiment": 0.3181818181818182
+    },
+    {
       "title": "What to Watch in California on Election Day",
       "link": "https://www.nytimes.com/2026/11/03/us/california-election-governor-la-mayor.html",
-      "published": "Tue, 03 Nov 2026 14:30:02 +0000",
+      "published": "Tue, 03 Nov 2026 14:57:39 +0000",
       "sentiment": 0.25
     },
     {
@@ -37,10 +49,10 @@
       "sentiment": 0.3181818181818182
     },
     {
-      "title": "How Will the Midterms Play Out? These Races May Provide Early Clues.",
+      "title": "Editors’ Note",
       "link": "https://www.nytimes.com/2026/11/03/us/midterm-election-key-house-senate-races.html",
-      "published": "Tue, 03 Nov 2026 11:43:01 +0000",
-      "sentiment": 0.1
+      "published": "Tue, 03 Nov 2026 15:01:45 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
@@ -69,7 +81,7 @@
     {
       "title": "What’s at Stake in Today’s Elections",
       "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
-      "published": "Tue, 03 Nov 2026 13:36:34 +0000",
+      "published": "Tue, 03 Nov 2026 15:38:45 +0000",
       "sentiment": 0.04545454545454545
     },
     {
@@ -99,7 +111,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/heres-the-latest",
-      "published": "Tue, 03 Nov 2026 14:50:03 +0000",
+      "published": "Tue, 03 Nov 2026 14:59:23 +0000",
       "sentiment": 0.5
     },
     {
@@ -263,18 +275,6 @@
       "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-refilled-botched-repairs.html",
       "published": "Mon, 02 Nov 2026 16:31:11 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
-      "published": "Tue, 03 Nov 2026 00:54:30 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Early Voting Turnout Offers Promising Signs for Democrats",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/early-vote-turnout-senate-battlegrounds.html",
-      "published": "Mon, 02 Nov 2026 15:57:32 +0000",
-      "sentiment": 0.13333333333333333
     }
   ]
 }
