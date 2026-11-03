@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Philips Sales Rise Amid Product Recall Agreement",
+      "link": "https://www.wsj.com/business/earnings/philips-sales-rise-amid-product-recall-agreement-5a22fdad?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 07:02:00 GMT",
+      "sentiment": -0.18888888888888888
+    },
+    {
       "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
       "link": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 23:16:00 GMT",
@@ -91,10 +97,16 @@
       "sentiment": 0.05
     },
     {
-      "title": "The Shopping Bots Are Coming for Amazon",
-      "link": "https://www.wsj.com/tech/the-shopping-bots-are-coming-for-amazon-701caa57?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 01 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.0
+      "title": "Grab Pivots Back to Southeast Asia After Blocked Taiwan Deal",
+      "link": "https://www.wsj.com/business/earnings/grab-pivots-back-to-southeast-asia-after-blocked-taiwan-deal-aa5a69d9?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 07:33:00 GMT",
+      "sentiment": -0.07013888888888889
+    },
+    {
+      "title": "Bayer Raises Earnings Outlook on Pharma Recovery",
+      "link": "https://www.wsj.com/business/earnings/bayer-raises-earnings-outlook-on-pharma-recovery-2a480922?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 07:10:00 GMT",
+      "sentiment": 0.14444444444444446
     },
     {
       "title": "Lufthansa Posts Higher Profit Despite Increase in Fuel Costs",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/diamondback-energy-lifts-production-targets-again-as-revenue-grows-1a98b68d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 22:17:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Fox Profit Increases as World Cup, Election Boost Ad Sales",
-      "link": "https://www.wsj.com/business/earnings/fox-q1-earnings-report-2027-73ef3b55?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 15:25:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Marriott Revenue Rises on Broad-Based Demand in U.S., Canada",
-      "link": "https://www.wsj.com/business/earnings/marriott-revenue-rises-on-broad-based-demand-in-u-s-canada-5799d605?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 12:35:00 GMT",
-      "sentiment": 0.19999999999999998
     },
     {
       "title": "An Iconic Porsche Was Lost to Time. Now Two Owners Think It’s Theirs.",
@@ -193,6 +193,12 @@
       "sentiment": -0.3333333333333333
     },
     {
+      "title": "Saudi Aramco Profit Surges, Offering Some Relief to Kingdom’s Finances",
+      "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-surges-offering-some-relief-to-kindgoms-finances-da309d56?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 07:25:00 GMT",
+      "sentiment": 0.010000000000000009
+    },
+    {
       "title": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says",
       "link": "https://www.wsj.com/business/energy-oil/iran-war-threatens-record-annual-drop-in-global-lng-supply-iea-says-68149f2f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 06:07:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 20:34:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Homeowners Fight Utilities Over Grid Upgrades in Their Backyards",
-      "link": "https://www.wsj.com/us-news/homeowners-fight-utilities-over-grid-upgrades-in-their-backyards-7e31d36f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 15:29:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
@@ -319,6 +319,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Fox Profit Increases as World Cup, Election Boost Ad Sales",
+      "link": "https://www.wsj.com/business/earnings/fox-q1-earnings-report-2027-73ef3b55?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Nov 2026 15:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "AI Is Stuck on Fast-Forward. The Ad Industry Is Turning to Stop Motion.",
       "link": "https://www.wsj.com/cmo-today/ai-is-stuck-on-fast-forward-the-ad-industry-is-turning-to-stop-motion-33529734?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 14:28:00 GMT",
@@ -331,15 +337,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Bill Maher and Trump’s Dinner Is Long Over. The Barbs Keep Coming.",
-      "link": "https://www.wsj.com/business/media/bill-maher-and-trumps-dinner-is-long-over-the-barbs-keep-coming-5cf9d936?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 31 Oct 2026 16:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "News Quiz for October 31, 2026",
-      "link": "https://www.wsj.com/business/media/news-quiz-for-october-31-2026-4da9f939?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "title": "The Shopping Bots Are Coming for Amazon",
+      "link": "https://www.wsj.com/tech/the-shopping-bots-are-coming-for-amazon-701caa57?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 01 Nov 2026 10:30:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -481,16 +481,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Five Whirlwind Days That Brought Down Weil Gotshal",
-      "link": "https://www.wsj.com/business/weil-gotshal-collapse-bankruptcy-25c4212c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 29 Oct 2026 23:05:00 GMT",
-      "sentiment": 0.08611111111111108
-    },
-    {
       "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
       "link": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 23:59:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "The Five Whirlwind Days That Brought Down Weil Gotshal",
+      "link": "https://www.wsj.com/business/weil-gotshal-collapse-bankruptcy-25c4212c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 29 Oct 2026 23:05:00 GMT",
+      "sentiment": 0.08611111111111108
     },
     {
       "title": "Best Small-Business Loans in November 2026",

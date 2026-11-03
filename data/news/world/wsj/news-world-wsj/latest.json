@@ -37,6 +37,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Saudi Aramco Profit Surges, Offering Some Relief to Kingdom’s Finances",
+      "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-surges-offering-some-relief-to-kindgoms-finances-da309d56?mod=rss_worldnews",
+      "published": "Tue, 03 Nov 2026 07:25:00 GMT",
+      "sentiment": 0.010000000000000009
+    },
+    {
       "title": "Oil Futures Slump As Iran Peace Efforts Ease Supply Fears",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0?mod=rss_worldnews",
       "published": "Mon, 02 Nov 2026 20:42:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/how-the-journal-investigated-iran-damage-bases-18cbd9ee?mod=rss_worldnews",
       "published": "Sat, 31 Oct 2026 00:30:00 GMT",
       "sentiment": -0.4
-    },
-    {
-      "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37?mod=rss_worldnews",
-      "published": "Fri, 30 Oct 2026 20:19:00 GMT",
-      "sentiment": 0.14285714285714285
     },
     {
       "title": "U.S. Factory Activity Expands in October",
@@ -379,16 +379,16 @@
       "sentiment": 0.06818181818181818
     },
     {
-      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
-      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews",
-      "published": "Wed, 28 Oct 2026 11:12:00 GMT",
-      "sentiment": 0.05606060606060606
-    },
-    {
       "title": "U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
       "link": "https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d?mod=rss_worldnews",
       "published": "Tue, 03 Nov 2026 02:38:00 GMT",
       "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+      "link": "https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews",
+      "published": "Wed, 28 Oct 2026 11:12:00 GMT",
+      "sentiment": 0.05606060606060606
     },
     {
       "title": "How Iran Battered U.S. Bases and Caused Billions in Damage",
