@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Unilever Eyes $1.1 Billion in Savings as It Plans Leaner Future Away From Food",
+      "link": "https://www.wsj.com/business/unilever-eyes-1-1-billion-in-savings-as-it-plans-leaner-future-away-from-food-9ed3cfc8?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 17:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Yum Says Taco Bell Sales Are Improving After Cyclospora Outbreak Fallout",
       "link": "https://www.wsj.com/business/earnings/yum-revenue-rises-despite-taco-bell-cyclospora-outbreak-fallout-04afd09a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 16:55:00 GMT",
@@ -91,10 +97,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Bayer Shares Jump After Pharma Recovery Prompts Outlook Raise",
-      "link": "https://www.wsj.com/business/earnings/bayer-raises-earnings-outlook-on-pharma-recovery-2a480922?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 09:15:00 GMT",
-      "sentiment": 0.0
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-75074e22?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 17:31:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d3c2c5fd?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 17:25:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Shopify Squeezed by AI Compute Costs, Pre-Holiday Infrastructure Buildout",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/ferrari-lifts-guidance-again-on-strong-demand-for-car-customizations-869f62fd?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 13:25:00 GMT",
       "sentiment": 0.16666666666666669
-    },
-    {
-      "title": "Pfizer Raises Forecast on Momentum With New Products",
-      "link": "https://www.wsj.com/health/pfizer-raises-forecast-on-momentum-with-new-products-df1daf00?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 13:22:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Apollo Global Swings to a Loss on Investment-Related Losses",
-      "link": "https://www.wsj.com/business/earnings/apollo-global-swings-to-a-loss-on-investment-related-losses-e2141fd4?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 11:48:00 GMT",
-      "sentiment": -0.06
     },
     {
       "title": "Schaeffler to Cut Further 3,460 Jobs in Europe as Auto Industry Deteriorates",
@@ -193,16 +193,16 @@
       "sentiment": 0.4
     },
     {
+      "title": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-rebound-as-u-s-strikes-on-iran-renew-supply-concerns-c662f284?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 17:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Natural Gas Futures Pick Up in Early Trading",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 14:24:00 GMT",
       "sentiment": 0.14666666666666667
-    },
-    {
-      "title": "Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rebound-as-u-s-strikes-on-iran-renew-supply-concerns-c662f284?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 12:51:00 GMT",
-      "sentiment": 0.24444444444444446
     },
     {
       "title": "Saudi Aramco Profit Surges, Offering Some Relief to Kingdom’s Finances",
@@ -469,16 +469,16 @@
       "sentiment": 0.0987878787878788
     },
     {
-      "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal",
-      "link": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 13:21:00 GMT",
-      "sentiment": -0.6
-    },
-    {
       "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
       "link": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 11:03:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal",
+      "link": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 02 Nov 2026 13:21:00 GMT",
+      "sentiment": -0.6
     },
     {
       "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
