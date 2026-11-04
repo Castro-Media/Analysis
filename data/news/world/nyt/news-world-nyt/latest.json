@@ -19,6 +19,12 @@
       "sentiment": 0.1666666666666667
     },
     {
+      "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+      "published": "Wed, 04 Nov 2026 18:46:33 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
       "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
       "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
       "published": "Wed, 04 Nov 2026 13:18:58 +0000",
@@ -79,10 +85,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Drones Emerge as the Top Killer of Civilians in Sudan’s War",
-      "link": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
-      "published": "Tue, 03 Nov 2026 10:03:19 +0000",
-      "sentiment": -0.25
+      "title": "John Frieda, Hairdresser to Royalty Who Built a Beauty Empire, Dies at 75",
+      "link": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html",
+      "published": "Wed, 04 Nov 2026 19:12:07 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Senji Kuroi Has Died. He Interpreted ‘the Salaried Soul.’",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
+      "published": "Wed, 04 Nov 2026 18:23:56 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
@@ -105,7 +117,7 @@
     {
       "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
       "link": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
-      "published": "Wed, 04 Nov 2026 00:48:08 +0000",
+      "published": "Wed, 04 Nov 2026 00:48:09 +0000",
       "sentiment": -0.2
     },
     {
@@ -173,6 +185,12 @@
       "link": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
       "published": "Tue, 03 Nov 2026 10:03:31 +0000",
       "sentiment": -0.068
+    },
+    {
+      "title": "Drones Emerge as the Top Killer of Civilians in Sudan’s War",
+      "link": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
+      "published": "Tue, 03 Nov 2026 10:03:19 +0000",
+      "sentiment": -0.25
     },
     {
       "title": "Australian Court Hears Challenge to Social Media Ban",
@@ -311,18 +329,6 @@
       "link": "https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html",
       "published": "Sun, 01 Nov 2026 10:02:33 +0000",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.",
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html",
-      "published": "Mon, 02 Nov 2026 00:22:34 +0000",
-      "sentiment": 0.5333333333333333
-    },
-    {
-      "title": "Thailand’s Most Famous Snake Catcher",
-      "link": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html",
-      "published": "Sun, 01 Nov 2026 15:10:28 +0000",
-      "sentiment": 0.5
     }
   ]
 }
