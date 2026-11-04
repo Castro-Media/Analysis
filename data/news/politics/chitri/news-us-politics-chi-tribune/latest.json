@@ -1,6 +1,96 @@
 {
   "entries": [
     {
+      "title": "AP: Democrat Maria Peterson defeats incumbent state Rep. Martin McLaughlin in Barrington-area state House race",
+      "link": "https://www.chicagotribune.com/2026/11/03/illinois-52nd-state-house-results/",
+      "published": "Wed, 04 Nov 2026 05:45:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Maine Sen. Susan Collins concedes to Democrat Troy Jackson, ending her run for a sixth term",
+      "link": "https://www.chicagotribune.com/2026/11/03/maine-sen-susan-collins-concedes-to-democrat-troy-jackson-ending-her-run-for-a-sixth-term/",
+      "published": "Wed, 04 Nov 2026 05:42:54 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Most of Lake County’s incumbent state House reps appear headed for victory",
+      "link": "https://www.chicagotribune.com/2026/11/03/lake-county-state-house-races/",
+      "published": "Wed, 04 Nov 2026 05:42:13 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "State Rep. Julie Olthoff trailing in re-election bid to Democrat Nicholas Neal",
+      "link": "https://www.chicagotribune.com/2026/11/03/state-rep-julie-olthoff-trailing-in-re-election-bid-to-democrat-nicholas-neal/",
+      "published": "Wed, 04 Nov 2026 05:29:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iowa governor race: Rob Sand wins election, flipping seat for Democrats",
+      "link": "https://www.chicagotribune.com/2026/11/03/rob-sand-iowa/",
+      "published": "Wed, 04 Nov 2026 05:28:25 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Democrat Nabeela Syed takes commanding lead in 26th Dist. Senate race in Illinois",
+      "link": "https://www.chicagotribune.com/2026/11/03/democrat-nabeela-syed-takes-commanding-lead-in-26th-dist-senate-race-in-illinois/",
+      "published": "Wed, 04 Nov 2026 05:28:23 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Challenger Brenda Rodgers in front in Kane County clerk’s race",
+      "link": "https://www.chicagotribune.com/2026/11/03/kane-county-clerk-election-results/",
+      "published": "Wed, 04 Nov 2026 05:24:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Moseley appears to survive challenge from Uzelac in Indiana House District 10",
+      "link": "https://www.chicagotribune.com/2026/11/03/moseley-indiana-house-district-10/",
+      "published": "Wed, 04 Nov 2026 05:20:59 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democrats strong in Lake County Board election: ‘A historic win’",
+      "link": "https://www.chicagotribune.com/2026/11/03/democrats-strong-in-lake-county-board-election-a-historic-win/",
+      "published": "Wed, 04 Nov 2026 05:14:18 +0000",
+      "sentiment": 0.41111111111111115
+    },
+    {
+      "title": "Democrats win governor’s races in Texas and other Republican-controlled states",
+      "link": "https://www.chicagotribune.com/2026/11/03/democrats-win-governor-races/",
+      "published": "Wed, 04 Nov 2026 05:14:17 +0000",
+      "sentiment": 0.3375
+    },
+    {
+      "title": "Republican Aylesworth appears to win handily in House District 11",
+      "link": "https://www.chicagotribune.com/2026/11/03/republican-aylesworth-appears-to-win-handily-in-house-district-11/",
+      "published": "Wed, 04 Nov 2026 05:10:34 +0000",
+      "sentiment": 0.7
+    },
+    {
+      "title": "Amy Johnson has lead in Kane County sheriff’s race",
+      "link": "https://www.chicagotribune.com/2026/11/03/kane-county-sheriff-election-results/",
+      "published": "Wed, 04 Nov 2026 05:09:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Pol appears to hold onto his state Senate seat in early returns",
+      "link": "https://www.chicagotribune.com/2026/11/03/pol-appears-to-hold-onto-his-state-senate-seat-in-early-returns/",
+      "published": "Wed, 04 Nov 2026 05:03:36 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Republicans lose their only seat on Cook County Board",
+      "link": "https://www.chicagotribune.com/2026/11/03/illinois-election-cook-county-board-results/",
+      "published": "Wed, 04 Nov 2026 05:02:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Two of Lake County’s state senators appear headed for defeat",
+      "link": "https://www.chicagotribune.com/2026/11/03/lake-county-state-senate/",
+      "published": "Wed, 04 Nov 2026 04:58:08 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Democrat Barbara Domer in lead for Porter County Clerk",
       "link": "https://www.chicagotribune.com/2026/11/03/democrat-barbara-domer-in-lead-for-porter-county-clerk/",
       "published": "Wed, 04 Nov 2026 04:50:47 +0000",
@@ -241,10 +331,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Biggs declares victory in race for school board president; opponents yet to concede",
+      "title": "Biggs declares victory in race for school board president, in major blow to CTU",
       "link": "https://www.chicagotribune.com/2026/11/03/chicago-school-board-president-election-results/",
       "published": "Wed, 04 Nov 2026 01:00:58 +0000",
-      "sentiment": 0.0
+      "sentiment": 0.0625
     },
     {
       "title": "US Senate race: Illinois voters choose Juliana Stratton as Dick Durbin’s successor",
@@ -259,7 +349,7 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "As results trickle in, Chicago school board races put CTU to the test",
+      "title": "Results come in for Chicago’s school board races, with a split verdict for CTU",
       "link": "https://www.chicagotribune.com/2026/11/03/chicago-school-board-election-results/",
       "published": "Wed, 04 Nov 2026 01:00:07 +0000",
       "sentiment": 0.0
@@ -509,96 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/10/31/names-on-doj-list-alleged-noncitizens-missing-california/",
       "published": "Sat, 31 Oct 2026 20:33:32 +0000",
       "sentiment": -0.1
-    },
-    {
-      "title": "Voters’ habits shift as early voting surges in Lake, Porter counties",
-      "link": "https://www.chicagotribune.com/2026/10/31/early-voting-surges-lake-porter-counties/",
-      "published": "Sat, 31 Oct 2026 20:29:17 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Meet the democratic socialists likely on their way to Congress",
-      "link": "https://www.chicagotribune.com/2026/10/31/congress-democratic-socialists/",
-      "published": "Sat, 31 Oct 2026 16:59:49 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Kamala Harris urges a ‘too big to rig’ turnout for the midterms and tees off on President Trump",
-      "link": "https://www.chicagotribune.com/2026/10/31/kamala-harris-midterms-turnout/",
-      "published": "Sat, 31 Oct 2026 15:46:19 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Cook County Dems trying for blue sweep in board races, GOP hopes to keep one seat, make gains",
-      "link": "https://www.chicagotribune.com/2026/10/31/cook-county-democrats-board-races/",
-      "published": "Sat, 31 Oct 2026 10:00:18 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tangle with Springfield forms crux of school board president debate on CPS finances",
-      "link": "https://www.chicagotribune.com/2026/10/31/school-board-president-candidate-cps-finances/",
-      "published": "Sat, 31 Oct 2026 10:00:18 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV and social media",
-      "link": "https://www.chicagotribune.com/2026/10/30/trump-administration-ads-pulled/",
-      "published": "Sat, 31 Oct 2026 02:10:42 +0000",
-      "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Controversial DOJ attorney takes over ‘Broadview Six’ case, tells judge they have not agreed to cooperate",
-      "link": "https://www.chicagotribune.com/2026/10/30/doj-not-cooperate-broaview-six/",
-      "published": "Fri, 30 Oct 2026 22:05:18 +0000",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Petalas challenged by Deane in Lake County Treasurer’s race",
-      "link": "https://www.chicagotribune.com/2026/10/30/petalas-challenged-by-deane-in-lake-county-treasurers-race/",
-      "published": "Fri, 30 Oct 2026 21:32:38 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
-      "link": "https://www.chicagotribune.com/2026/10/30/federal-prosecutors-alaska-criminal-probe-elections-sullivan-peltola/",
-      "published": "Fri, 30 Oct 2026 20:52:45 +0000",
-      "sentiment": -0.4
-    },
-    {
-      "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
-      "link": "https://www.chicagotribune.com/2026/10/30/appeals-court-rejects-doj-request-ballots/",
-      "published": "Fri, 30 Oct 2026 20:17:54 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Appellate court sides with former Harvey Park Board member alleging illegal removal",
-      "link": "https://www.chicagotribune.com/2026/10/30/appellate-court-rules-harvey-park-district/",
-      "published": "Fri, 30 Oct 2026 19:19:00 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Competing slates file for mayor, clerk and trustee in Homer Glen",
-      "link": "https://www.chicagotribune.com/2026/10/30/competing-slates-mayor-trustee-homer-glen/",
-      "published": "Fri, 30 Oct 2026 17:46:24 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What to know about the Chicago Bears’ possible move from Soldier Field",
-      "link": "https://www.chicagotribune.com/2026/10/30/chicago-bears-soldier-field-stadium-news/",
-      "published": "Fri, 30 Oct 2026 17:45:02 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "All 50 Chicago aldermen take pay raise, Mayor Brandon Johnson skips it",
-      "link": "https://www.chicagotribune.com/2026/10/30/chicago-aldermen-take-pay-raise/",
-      "published": "Fri, 30 Oct 2026 16:52:37 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "As early voting surges, President Trump reshuffles his schedule to add rallies in Senate battleground states",
-      "link": "https://www.chicagotribune.com/2026/10/30/trump-rallies-kansas-iowa-after-canceling/",
-      "published": "Fri, 30 Oct 2026 15:50:30 +0000",
-      "sentiment": 0.1
     }
   ]
 }
