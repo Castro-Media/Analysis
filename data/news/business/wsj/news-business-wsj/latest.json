@@ -67,6 +67,12 @@
       "sentiment": -0.3
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-971ddf6d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 17:25:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Wayfair Logs Profit as U.S. Sales Drive Revenue Growth",
       "link": "https://www.wsj.com/business/retail/wayfair-logs-profit-as-u-s-sales-drive-revenue-growth-d85c49aa?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 12:47:00 GMT",
@@ -91,10 +97,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
-      "link": "https://www.wsj.com/business/retail/americans-cut-back-on-boats-and-rvsbut-cant-stop-buying-harley-davidsons-3db7bb4b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 10:48:00 GMT",
-      "sentiment": 0.1965909090909091
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-abf035dd?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 17:32:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Datadog Says Lower Usage From Major AI Customer Is Weighing on Growth",
+      "link": "https://www.wsj.com/business/earnings/datadog-says-lower-usage-from-major-ai-customer-is-weighing-on-growth-ef50184f?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 17:15:00 GMT",
+      "sentiment": 0.020833333333333332
     },
     {
       "title": "New York Times Revenue Rises on Digital Subscriber Gains",
@@ -109,22 +121,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-abf035dd?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 12:30:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "McDonald’s Profit Climbs Despite Continued Sluggish Domestic Sales",
       "link": "https://www.wsj.com/business/earnings/mcdonalds-profit-climbs-despite-continued-sluggish-domestic-sales-ba5eaafe?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 12:13:00 GMT",
       "sentiment": 0.15833333333333333
     },
     {
-      "title": "Uber’s Revenue Growth Slows Amid Headwinds From Fuel Prices, Tighter Driver Supply",
-      "link": "https://www.wsj.com/business/earnings/ubers-revenue-growth-slows-amid-headwinds-from-fuel-prices-tighter-driver-supply-e6937186?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 12:09:00 GMT",
-      "sentiment": 0.25
+      "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
+      "link": "https://www.wsj.com/business/retail/americans-cut-back-on-boats-and-rvsbut-cant-stop-buying-harley-davidsons-3db7bb4b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:48:00 GMT",
+      "sentiment": 0.1965909090909091
     },
     {
       "title": "Shares in Elon Musk’s SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/lifestyle/cars/porsche-hippie-lemans-2a8448e1?mod=pls_whats_news_us_business_f",
       "published": "Sun, 01 Nov 2026 11:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Ford CEO Aims for a 20% Sales Jump by 2032",
-      "link": "https://www.wsj.com/business/autos/ford-ceo-aims-for-a-20-sales-jump-by-2032-0bdaa0f9?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 17:18:00 GMT",
-      "sentiment": -1.0
     },
     {
       "title": "Opinion | Ban Officials From Prediction Market Trading",
@@ -193,16 +193,16 @@
       "sentiment": 0.4
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-2357fb44?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 17:28:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 16:11:00 GMT",
       "sentiment": -0.13999999999999999
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-2357fb44?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 12:33:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
@@ -481,10 +481,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",
-      "link": "https://www.wsj.com/world/the-little-known-chinese-bank-in-the-middle-of-iranian-and-russian-money-flows-9e76173b?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 15:55:00 GMT",
-      "sentiment": -0.03111111111111111
+      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
+      "link": "https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 15:55:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status",
