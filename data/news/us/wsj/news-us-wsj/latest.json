@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Letitia James Steps Back From Probe Into Alleged Cornell Assault",
+      "link": "https://www.wsj.com/us-news/law/letitia-james-steps-back-from-probe-into-alleged-cornell-assault-3c8e591a?mod=rss_usnews",
+      "published": "Wed, 04 Nov 2026 14:57:00 GMT",
+      "sentiment": 0.017272727272727273
+    },
+    {
       "title": "Check the Poll Closing Times in Every County",
       "link": "https://www.wsj.com/politics/elections/check-the-poll-closing-times-in-every-county-d074ac03?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 22:31:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/the-final-seconds-before-a-learjet-plunged-into-a-florida-street-315b0c97?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 13:12:00 GMT",
       "sentiment": 0.03125
-    },
-    {
-      "title": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
-      "link": "https://www.wsj.com/us-news/law/people-are-using-ai-for-divorce-advice-and-its-driving-their-lawyers-crazy-9b03b123?mod=rss_usnews",
-      "published": "Tue, 03 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.13333333333333336
     },
     {
       "title": "These Associates Had a Golden Ticket to Big Law—Until Weil Gotshal Collapsed",
@@ -67,6 +67,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
+      "link": "https://www.wsj.com/us-news/law/people-are-using-ai-for-divorce-advice-and-its-driving-their-lawyers-crazy-9b03b123?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.13333333333333336
+    },
+    {
       "title": "Judge Rejects Charges That Ex-FBI Officials Lied About Hunter Biden Probe",
       "link": "https://www.wsj.com/us-news/law/judge-rejects-charges-that-ex-fbi-officials-lied-about-hunter-biden-probe-dcb5d510?mod=rss_usnews",
       "published": "Mon, 02 Nov 2026 20:34:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_usnews",
       "published": "Fri, 30 Oct 2026 17:23:00 GMT",
       "sentiment": -0.03749999999999998
-    },
-    {
-      "title": "Christa Pike Recounts Botched Execution in First Public Comments",
-      "link": "https://www.wsj.com/us-news/law/christa-pike-recounts-botched-execution-in-first-public-comments-a891b5dd?mod=rss_usnews",
-      "published": "Fri, 30 Oct 2026 15:45:00 GMT",
-      "sentiment": 0.08333333333333333
     },
     {
       "title": "Homeowners Fight Utilities Over Grid Upgrades in Their Backyards",
@@ -193,16 +193,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "20-Year-Old Co-Pilot Among the Victims of a Learjet Crash on Sunday, Family Says",
-      "link": "https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews",
-      "published": "Mon, 02 Nov 2026 23:15:00 GMT",
-      "sentiment": -0.06875
-    },
-    {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
       "link": "https://www.wsj.com/us-news/the-final-seconds-before-a-learjet-plunged-into-a-florida-street-315b0c97?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 13:12:00 GMT",
       "sentiment": 0.03125
+    },
+    {
+      "title": "20-Year-Old Co-Pilot Among the Victims of a Learjet Crash on Sunday, Family Says",
+      "link": "https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews",
+      "published": "Mon, 02 Nov 2026 23:15:00 GMT",
+      "sentiment": -0.06875
     },
     {
       "title": "The Best College Bargain Is a Super-Pricey Elite Liberal Arts School",
