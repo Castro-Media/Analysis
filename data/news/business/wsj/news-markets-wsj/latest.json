@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stock Futures Edge Lower as Investors Weigh Democratic Gains",
+      "title": "Stock Market Today: Stock Futures Rebound as Investors Weigh Democratic Sweep",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 03:22:53 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "How Beer Companies Stole Happy Hour From Liquor Brands",
+      "link": "https://www.wsj.com/business/retail/how-beer-companies-stole-happy-hour-from-liquor-brands-342e96c7?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.8
     },
     {
       "title": "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 13:02:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "McDonald’s Is Beefing Up, but It Won’t Be Cheap",
-      "link": "https://www.wsj.com/finance/stocks/mcdonalds-is-beefing-up-but-it-wont-be-cheap-9ce73fff?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 11:25:00 GMT",
-      "sentiment": 0.4
     },
     {
       "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
@@ -103,34 +103,34 @@
       "sentiment": 0.125
     },
     {
-      "title": "Nikkei Falls 1.4% to 3-Month Low, Dragged by Chip Stocks",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 07:17:00 GMT",
-      "sentiment": -0.08333333333333333
+      "title": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-climbs-on-softer-dollar-falling-treasury-yields-after-u-s-midterms-b16998e4?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 10:41:00 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "Two-Year Treasury Yield Falls to Two-Month Low as Democrats Sweep Midterm Elections",
+      "title": "Democrats’ Victory to Add Volatility to AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 10:27:00 GMT",
+      "sentiment": 0.3444444444444444
+    },
+    {
+      "title": "Treasury Yields Decline After Democrats Take Congress; Eurozone Yields Edge Up",
       "link": "https://www.wsj.com/finance/investing/two-year-treasury-yield-falls-to-two-month-low-as-democrats-sweep-midterm-elections-79fb1f8e?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 06:46:00 GMT",
+      "published": "Wed, 04 Nov 2026 09:50:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Stock Futures Turn Higher, Treasurys Strengthen After Democratic Sweep",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 09:16:00 GMT",
+      "sentiment": 0.5499999999999999
     },
     {
       "title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI",
       "link": "https://www.wsj.com/pro/private-equity/apollo-global-swings-to-a-loss-on-investment-related-losses-e2141fd4?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 21:46:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Live Q&A: Ask Us Your Questions About the Midterm-Elections Results",
-      "link": "https://www.wsj.com/politics/elections/live-q-a-ask-us-your-questions-about-the-midterm-elections-results-e35cf0ff?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 21:30:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 19:53:00 GMT",
-      "sentiment": 0.19999999999999998
     },
     {
       "title": "Asia Markets Get Midterm Whiplash as Selloff Gives Way to Relief Rally",
@@ -151,16 +151,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "McDonald’s Is Beefing Up, but It Won’t Be Cheap",
+      "link": "https://www.wsj.com/finance/stocks/mcdonalds-is-beefing-up-but-it-wont-be-cheap-9ce73fff?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "European Chip Stocks Fall After Asia Selloff",
       "link": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 09:30:00 GMT",
       "sentiment": -0.19999999999999998
-    },
-    {
-      "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
-      "link": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 23:16:00 GMT",
-      "sentiment": 0.0987878787878788
     },
     {
       "title": "Opinion | Elon Musk Will Turn Kids Into Capitalists",
@@ -199,6 +199,12 @@
       "sentiment": 0.18666666666666668
     },
     {
+      "title": "Democratic Sweep Could Push Brent Above $120 on Iran Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 09:49:00 GMT",
+      "sentiment": -0.14259259259259258
+    },
+    {
       "title": "European Gas Market Braces for Trump’s Next Move on Iran After Midterms",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-market-braces-for-trumps-next-move-on-iran-after-midterms-ca5f2b56?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 07:48:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 04:15:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Prices Fall as U.S. Midterm Results Unfold",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 02:43:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Oil Settles Lower as Market Awaits Middle East Developments",
@@ -229,10 +229,10 @@
       "sentiment": 0.153125
     },
     {
-      "title": "U.S. Dollar Index Weakens to One-Month Low as Democrats Take Lead",
+      "title": "Dollar, Treasury Yields Fall as Democratic Sweep Could Reduce Rate-Rise Prospects",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 02:04:00 GMT",
-      "sentiment": 0.03333333333333333
+      "published": "Wed, 04 Nov 2026 10:47:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Rises 0.23% to 97.22",

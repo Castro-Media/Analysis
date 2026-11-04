@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Oil Prices Rise as Investors Weigh U.S. Midterm Results, Iran Risks",
+      "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
+      "link": "https://www.wsj.com/business/retail/americans-cut-back-on-boats-and-rvsbut-cant-stop-buying-harley-davidsons-3db7bb4b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:48:00 GMT",
+      "sentiment": 0.1965909090909091
+    },
+    {
+      "title": "How Beer Companies Stole Happy Hour From Liquor Brands",
+      "link": "https://www.wsj.com/business/retail/how-beer-companies-stole-happy-hour-from-liquor-brands-342e96c7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.8
+    },
+    {
+      "title": "Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 07:40:00 GMT",
-      "sentiment": 0.6
+      "published": "Wed, 04 Nov 2026 10:15:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 21:37:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "The Family Behind Some of the World’s Rarest Pearls",
-      "link": "https://www.wsj.com/style/paspaley-pearls-21d041ae?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 20:00:00 GMT",
-      "sentiment": -0.00833333333333334
-    },
-    {
-      "title": "FBI Probes Autism Therapy Provider That Billed $30,000 a Day",
-      "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 16:32:00 GMT",
-      "sentiment": 1.0
     },
     {
       "title": "Foodtastic Makes Hostile Bid for Rival MTY Food After Being Rejected",
@@ -67,6 +67,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Pandora Lifts Outlook Ahead of Peak Festive Season",
+      "link": "https://www.wsj.com/business/retail/pandora-lifts-outlook-ahead-of-peak-festive-season-890f46f0?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:16:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d3c2c5fd?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 22:01:00 GMT",
@@ -91,10 +97,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Keurig Dr Pepper’s Coffee Business Remains Challenged",
-      "link": "https://www.wsj.com/business/earnings/keurig-dr-pepper-posts-higher-3q-profit-sales-9f8453bc?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 15:15:00 GMT",
-      "sentiment": -0.049999999999999996
+      "title": "Volvo Car Sales Drop on Continued China, U.S. Weakness",
+      "link": "https://www.wsj.com/business/autos/volvo-car-sales-drop-on-continued-china-u-s-weakness-7ff804ef?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 09:44:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Novo Nordisk Lifts Guidance as Rollout of Wegovy Weight-Loss Pill Continues",
+      "link": "https://www.wsj.com/health/pharma/novo-nordisk-lifts-guidance-as-rollout-of-wegovy-weight-loss-pill-continues-1f748068?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 08:41:00 GMT",
+      "sentiment": 0.05555555555555555
+    },
+    {
+      "title": "BMW Cuts Outlook Again as Carmaker Revs Up on Restructuring",
+      "link": "https://www.wsj.com/business/earnings/bmw-cuts-outlook-again-as-carmaker-revs-up-on-restructuring-373abfe8?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 08:05:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Continental Narrows Sales Outlook After Revenue Slumps",
@@ -109,22 +127,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Booking Profit, Sales Fall as Global Conflicts Wear on Travel Demand",
-      "link": "https://www.wsj.com/business/earnings/booking-profit-sales-fall-as-global-conflicts-wear-on-travel-demand-f91deef1?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 21:52:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Super Micro Computer Revenue Surges on AI Infrastructure Demand",
-      "link": "https://www.wsj.com/business/earnings/super-micro-computer-revenue-surges-on-ai-infrastructure-demand-32e5542c?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 21:43:00 GMT",
-      "sentiment": 0.18333333333333335
-    },
-    {
-      "title": "Shopify Squeezed by AI Compute Costs, Pre-Holiday Infrastructure Buildout",
-      "link": "https://www.wsj.com/business/earnings/shopify-profit-revenue-up-as-merchant-volume-rises-4614feba?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 15:51:00 GMT",
-      "sentiment": 0.0
+      "title": "Shares in Elon Musk’s SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
+      "link": "https://www.wsj.com/business/shares-in-elon-musks-spacex-tesla-fall-premarket-after-democrats-sweep-midterms-a10325e6?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:35:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Schaeffler to Cut Further 3,460 Jobs in Europe as Auto Industry Deteriorates",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=pls_whats_news_us_business_f",
       "published": "Fri, 30 Oct 2026 15:07:00 GMT",
       "sentiment": 0.225
-    },
-    {
-      "title": "Volkswagen Pauses Work on ID.Golf Model to Preserve Cash Flow",
-      "link": "https://www.wsj.com/business/autos/volkswagen-pauses-work-on-id-golf-model-to-preserve-cash-flow-4054161a?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 11:53:00 GMT",
-      "sentiment": 0.13333333333333333
     },
     {
       "title": "Opinion | Ban Officials From Prediction Market Trading",
@@ -433,6 +433,18 @@
       "sentiment": 0.5
     },
     {
+      "title": "The Family Behind Some of the World’s Rarest Pearls",
+      "link": "https://www.wsj.com/style/paspaley-pearls-21d041ae?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+      "sentiment": -0.00833333333333334
+    },
+    {
+      "title": "FBI Probes Autism Therapy Provider That Billed $30,000 a Day",
+      "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 16:32:00 GMT",
+      "sentiment": 1.0
+    },
+    {
       "title": "The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",
       "link": "https://www.wsj.com/world/the-little-known-chinese-bank-in-the-middle-of-iranian-and-russian-money-flows-9e76173b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 15:55:00 GMT",
@@ -451,28 +463,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Companies Have a Solution for the Skilled Trade Shortage: More Women",
-      "link": "https://www.wsj.com/economy/jobs/companies-have-a-solution-for-the-skilled-trade-shortage-more-women-37851f46?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
-      "link": "https://www.wsj.com/business/energy-oil/opec-allies-keep-output-steady-while-gulf-shipping-remains-under-threat-c1d14171?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 01 Nov 2026 12:44:00 GMT",
-      "sentiment": -0.17777777777777778
-    },
-    {
       "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
       "link": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 23:16:00 GMT",
       "sentiment": 0.0987878787878788
-    },
-    {
-      "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
-      "link": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 11:03:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",
@@ -484,6 +478,12 @@
       "title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status",
       "link": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 21:37:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Palantir Profit Soars as U.S. Commercial Revenue Overtakes Government Business",
+      "link": "https://www.wsj.com/business/earnings/palantir-lifts-outlook-as-u-s-commercial-business-overtakes-government-business-16eb693f?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 11:03:00 GMT",
       "sentiment": 0.25
     },
     {

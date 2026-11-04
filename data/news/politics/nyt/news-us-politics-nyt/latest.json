@@ -1,9 +1,39 @@
 {
   "entries": [
     {
+      "title": "After Midterm Drubbing, Trump and Republicans Start Pointing Fingers",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-republicans-blame-midterms.html",
+      "published": "Wed, 04 Nov 2026 10:02:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "El-Sayed Celebrates Win for ‘the Unlikeliest of Candidates’",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/michigan-senate-el-sayed.html",
+      "published": "Wed, 04 Nov 2026 10:26:54 +0000",
+      "sentiment": 0.03333333333333336
+    },
+    {
+      "title": "How a Blue Wave Became a Red Wipeout",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/democratic-midterms-wipeout.html",
+      "published": "Wed, 04 Nov 2026 08:48:51 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "8 Midterm Election Takeaways: A Democratic Landslide Punishes Trump’s Party",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/election-takeaways-democrats-win.html",
+      "published": "Wed, 04 Nov 2026 08:32:14 +0000",
+      "sentiment": -1.0
+    },
+    {
+      "title": "A Night of Seismic Triumph for Democrats",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-photos.html",
+      "published": "Wed, 04 Nov 2026 09:30:18 +0000",
+      "sentiment": -0.6
+    },
+    {
       "title": "These Wins Could Mint a New Generation of Democratic Stars",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/democratic-newcomers-congress.html",
-      "published": "Wed, 04 Nov 2026 07:35:38 +0000",
+      "published": "Wed, 04 Nov 2026 08:32:06 +0000",
       "sentiment": 0.21454545454545454
     },
     {
@@ -13,21 +43,21 @@
       "sentiment": 0.010606060606060608
     },
     {
-      "title": "Historic Midterm Rout Serves as a Sweeping Rebuke of Trump Era",
+      "title": "Angry Voters Usher in Beginning of the End to the Trump Era",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
-      "published": "Wed, 04 Nov 2026 07:08:41 +0000",
-      "sentiment": 0.0
+      "published": "Wed, 04 Nov 2026 09:26:24 +0000",
+      "sentiment": -0.125
     },
     {
       "title": "My Call With President Trump",
       "link": "https://www.nytimes.com/video/us/politics/100000011260461/my-call-with-president-trump.html",
-      "published": "Wed, 04 Nov 2026 06:38:48 +0000",
+      "published": "Wed, 04 Nov 2026 10:31:38 +0000",
       "sentiment": -0.1
     },
     {
       "title": "Americans on Why They Rejected Trump’s Republican Party",
       "link": "https://www.nytimes.com/2026/11/04/us/elections/midterms-mood.html",
-      "published": "Wed, 04 Nov 2026 06:39:19 +0000",
+      "published": "Wed, 04 Nov 2026 06:39:20 +0000",
       "sentiment": 0.0
     },
     {
@@ -37,10 +67,10 @@
       "sentiment": 0.11249999999999999
     },
     {
-      "title": "Democrat Unseats House Republican in Iowa, Flipping an Important Seat",
+      "title": "Bohannan Unseats Miller-Meeks in Iowa, Flipping Key House Seat",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/iowa-house-1-bohannan-miller-meeks.html",
       "published": "Wed, 04 Nov 2026 05:20:41 +0000",
-      "sentiment": 0.005555555555555564
+      "sentiment": -0.19444444444444445
     },
     {
       "title": "Luria Wins in Virginia, Flipping a Key House Seat for Democrats",
@@ -87,7 +117,7 @@
     {
       "title": "Representative Chris Pappas Will Become the Senate’s First Openly Gay Male Senator",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/chris-pappas-first-openly-gay-male-senator.html",
-      "published": "Wed, 04 Nov 2026 06:27:25 +0000",
+      "published": "Wed, 04 Nov 2026 08:20:59 +0000",
       "sentiment": 0.1606060606060606
     },
     {
@@ -179,48 +209,6 @@
       "link": "https://www.nytimes.com/2026/11/03/us/politics/how-to-watch-midterm-election-results.html",
       "published": "Tue, 03 Nov 2026 21:00:21 +0000",
       "sentiment": 0.3181818181818182
-    },
-    {
-      "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
-      "published": "Tue, 03 Nov 2026 21:30:27 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
-      "published": "Tue, 03 Nov 2026 17:02:14 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "A Guide to What We’ll Know on Election Night, Hour by Hour",
-      "link": "https://www.nytimes.com/2026/11/03/upshot/poll-closing-times-midterm-elections.html",
-      "published": "Tue, 03 Nov 2026 15:41:14 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
-      "published": "Tue, 03 Nov 2026 21:37:01 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
-      "published": "Tue, 03 Nov 2026 20:03:01 +0000",
-      "sentiment": 0.1388888888888889
-    },
-    {
-      "title": "What’s at Stake in Today’s Elections",
-      "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
-      "published": "Tue, 03 Nov 2026 20:51:02 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
-      "link": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
-      "published": "Wed, 04 Nov 2026 01:54:03 +0000",
-      "sentiment": 0.025
     }
   ]
 }

@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "title": "What’s Next in the Alaska Senate Race?",
+      "link": "https://www.nytimes.com/2026/11/04/us/alaska-senate-race-election-results-what-next.html",
+      "published": "Wed, 04 Nov 2026 10:48:50 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "After Midterm Drubbing, Trump and Republicans Start Pointing Fingers",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-republicans-blame-midterms.html",
+      "published": "Wed, 04 Nov 2026 10:02:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democrats Retake Governor’s Office in Nevada, a Critical Swing State",
+      "link": "https://www.nytimes.com/2026/11/04/us/nevada-governor-lombardo-ford.html",
+      "published": "Wed, 04 Nov 2026 09:56:41 +0000",
+      "sentiment": 0.03333333333333335
+    },
+    {
+      "title": "El-Sayed Celebrates Win for ‘the Unlikeliest of Candidates’",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/michigan-senate-el-sayed.html",
+      "published": "Wed, 04 Nov 2026 10:26:54 +0000",
+      "sentiment": 0.03333333333333336
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/heres-the-latest",
+      "published": "Wed, 04 Nov 2026 10:54:18 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Tina Kotek, Endangered Democratic Governor in Oregon, Wins Re-election",
+      "link": "https://www.nytimes.com/2026/11/04/us/oregon-governor-kotek-drazan.html",
+      "published": "Wed, 04 Nov 2026 08:52:51 +0000",
+      "sentiment": 0.04999999999999999
+    },
+    {
+      "title": "How a Blue Wave Became a Red Wipeout",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/democratic-midterms-wipeout.html",
+      "published": "Wed, 04 Nov 2026 08:48:51 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Senator Pete Ricketts of Nebraska Fends Off an Independent Challenger",
+      "link": "https://www.nytimes.com/2026/11/04/us/nebraska-senate-ricketts-osborn.html",
+      "published": "Wed, 04 Nov 2026 08:55:28 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "8 Midterm Election Takeaways: A Democratic Landslide Punishes Trump’s Party",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/election-takeaways-democrats-win.html",
+      "published": "Wed, 04 Nov 2026 08:32:14 +0000",
+      "sentiment": -1.0
+    },
+    {
+      "title": "Arizona’s Democratic Governor Wins Re-election",
+      "link": "https://www.nytimes.com/2026/11/04/us/arizona-governor-hobbs-biggs.html",
+      "published": "Wed, 04 Nov 2026 08:26:44 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "A Night of Seismic Triumph for Democrats",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-photos.html",
+      "published": "Wed, 04 Nov 2026 09:30:18 +0000",
+      "sentiment": -0.6
+    },
+    {
       "title": "Idaho Voters Reject Referendum to Lift State’s Abortion Ban",
       "link": "https://www.nytimes.com/2026/11/04/us/idaho-abortion.html",
       "published": "Wed, 04 Nov 2026 07:52:06 +0000",
@@ -9,13 +75,13 @@
     {
       "title": "El-Sayed Wins Michigan Senate Race in a Victory for Democrats",
       "link": "https://www.nytimes.com/2026/11/04/us/michigan-senate-el-sayed-rogers.html",
-      "published": "Wed, 04 Nov 2026 07:48:47 +0000",
+      "published": "Wed, 04 Nov 2026 08:38:50 +0000",
       "sentiment": 0.07500000000000001
     },
     {
       "title": "These Wins Could Mint a New Generation of Democratic Stars",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/democratic-newcomers-congress.html",
-      "published": "Wed, 04 Nov 2026 07:35:38 +0000",
+      "published": "Wed, 04 Nov 2026 08:32:06 +0000",
       "sentiment": 0.21454545454545454
     },
     {
@@ -31,10 +97,10 @@
       "sentiment": 0.010606060606060608
     },
     {
-      "title": "Historic Midterm Rout Serves as a Sweeping Rebuke of Trump Era",
+      "title": "Angry Voters Usher in Beginning of the End to the Trump Era",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-rebuke-of-trump-era.html",
-      "published": "Wed, 04 Nov 2026 07:08:41 +0000",
-      "sentiment": 0.0
+      "published": "Wed, 04 Nov 2026 09:26:24 +0000",
+      "sentiment": -0.125
     },
     {
       "title": "With 2 Big Wins, Democrats May Have Put Ohio Back in Play",
@@ -57,7 +123,7 @@
     {
       "title": "Democrats Seize Control of Congress, Ending a G.O.P. Trifecta",
       "link": "https://www.nytimes.com/2026/11/04/us/elections/house-of-representatives-midterms-democrats-republicans.html",
-      "published": "Wed, 04 Nov 2026 07:13:08 +0000",
+      "published": "Wed, 04 Nov 2026 07:13:09 +0000",
       "sentiment": 0.3
     },
     {
@@ -69,19 +135,19 @@
     {
       "title": "My Call With President Trump",
       "link": "https://www.nytimes.com/video/us/politics/100000011260461/my-call-with-president-trump.html",
-      "published": "Wed, 04 Nov 2026 06:38:48 +0000",
+      "published": "Wed, 04 Nov 2026 10:31:38 +0000",
       "sentiment": -0.1
     },
     {
       "title": "Americans on Why They Rejected Trump’s Republican Party",
       "link": "https://www.nytimes.com/2026/11/04/us/elections/midterms-mood.html",
-      "published": "Wed, 04 Nov 2026 06:39:19 +0000",
+      "published": "Wed, 04 Nov 2026 06:39:20 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Across the Country, Voters Give Direct Orders to State Governments",
       "link": "https://www.nytimes.com/2026/11/04/us/elections/statewide-ballot-questions-voting-redistricting.html",
-      "published": "Wed, 04 Nov 2026 07:24:23 +0000",
+      "published": "Wed, 04 Nov 2026 07:24:24 +0000",
       "sentiment": 0.3666666666666667
     },
     {
@@ -97,10 +163,10 @@
       "sentiment": 0.07323232323232323
     },
     {
-      "title": "Collins Falls to Jackson in Maine, Ending a Three-Decade Senate Tenure",
+      "title": "Susan Collins Loses to Troy Jackson in Maine, Ending Three Decades in the Senate",
       "link": "https://www.nytimes.com/2026/11/04/us/elections/maine-senate-collins-jackson.html",
-      "published": "Wed, 04 Nov 2026 07:47:10 +0000",
-      "sentiment": 0.06818181818181818
+      "published": "Wed, 04 Nov 2026 07:47:11 +0000",
+      "sentiment": -0.05454545454545454
     },
     {
       "title": "Moderate Republican Loses Seat in Pennsylvania Swing District",
@@ -133,10 +199,10 @@
       "sentiment": 0.15959595959595962
     },
     {
-      "title": "Democrat Unseats House Republican in Iowa, Flipping an Important Seat",
+      "title": "Bohannan Unseats Miller-Meeks in Iowa, Flipping Key House Seat",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/iowa-house-1-bohannan-miller-meeks.html",
       "published": "Wed, 04 Nov 2026 05:20:41 +0000",
-      "sentiment": 0.005555555555555564
+      "sentiment": -0.19444444444444445
     },
     {
       "title": "Peggy Flanagan’s Victory Keeps Minnesota Senate Seat in Democratic Hands",
@@ -146,7 +212,7 @@
     },
     {
       "title": "Alaska’s map is complicated. Here’s what we’re watching for.",
-      "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/alaskas-map-is-complicated-heres-what-were-watching-for",
+      "link": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/alaskas-map-is-complicated-heres-what-were-watching-for",
       "published": "Wed, 04 Nov 2026 05:15:31 +0000",
       "sentiment": -0.25
     },
@@ -181,10 +247,10 @@
       "sentiment": 0.04166666666666667
     },
     {
-      "title": "Democrat Wins a Kansas Senate Seat for the First Time Since 1932",
+      "title": "Adam Hamilton Is First Democrat to Win a U.S. Senate Race in Kansas Since 1932",
       "link": "https://www.nytimes.com/2026/11/03/us/kansas-senate-marshall-hamilton.html",
-      "published": "Wed, 04 Nov 2026 05:04:10 +0000",
-      "sentiment": 0.04861111111111112
+      "published": "Wed, 04 Nov 2026 05:04:11 +0000",
+      "sentiment": 0.17361111111111113
     },
     {
       "title": "Missouri Voters Reject Republican Attempt to Restore Ban on Abortions",
@@ -203,78 +269,6 @@
       "link": "https://www.nytimes.com/2026/11/03/us/iowa-governor-sand-lahn.html",
       "published": "Wed, 04 Nov 2026 05:22:39 +0000",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Sherrod Brown Regains an Ohio Senate Seat in Crucial Win for Democrats",
-      "link": "https://www.nytimes.com/2026/11/03/us/ohio-senate-brown-husted.html",
-      "published": "Wed, 04 Nov 2026 04:13:39 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Paul Pelosi Prohibited From Driving After Crash in Napa Valley",
-      "link": "https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html",
-      "published": "Wed, 04 Nov 2026 04:09:21 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Missouri Voters Reject Congressional Map Redrawn to Boost Republicans",
-      "link": "https://www.nytimes.com/2026/11/03/us/missouri-congressional-redistricting-referendum.html",
-      "published": "Wed, 04 Nov 2026 04:31:47 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Democrats Outperform in Three States",
-      "link": "https://www.nytimes.com/video/us/elections/100000011260134/democrats-outperform-in-three-states.html",
-      "published": "Wed, 04 Nov 2026 05:04:29 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Shomari Figures Holds Redrawn Alabama House Seat for Democrats",
-      "link": "https://www.nytimes.com/2026/11/03/us/alabama-house-2-marques-figures.html",
-      "published": "Wed, 04 Nov 2026 04:07:08 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Talarico Defeats Paxton in Texas Senate Race, Ending a Three-Decade Drought for Democrats",
-      "link": "https://www.nytimes.com/2026/11/03/us/texas-senate-talarico-paxton.html",
-      "published": "Wed, 04 Nov 2026 06:07:19 +0000",
-      "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Xavier Becerra Becomes California’s First Latino Elected as Governor, Defeating Steve Hilton",
-      "link": "https://www.nytimes.com/2026/11/03/us/california-governor-becerra-hilton.html",
-      "published": "Wed, 04 Nov 2026 06:26:14 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Amy Acton, a Democrat, Defeats Republican Vivek Ramaswamy in Ohio Governor’s Race",
-      "link": "https://www.nytimes.com/2026/11/03/us/ohio-governor-acton-ramaswamy.html",
-      "published": "Wed, 04 Nov 2026 05:18:24 +0000",
-      "sentiment": -0.016666666666666666
-    },
-    {
-      "title": "Deb Haaland Is First Native American Woman to Be Elected Governor After New Mexico Win",
-      "link": "https://www.nytimes.com/2026/11/03/us/new-mexico-governor-haaland-hull.html",
-      "published": "Wed, 04 Nov 2026 03:44:22 +0000",
-      "sentiment": 0.17954545454545456
-    },
-    {
-      "title": "Democrats Win South Carolina Senate Seat",
-      "link": "https://www.nytimes.com/video/us/elections/100000011259875/south-carolina-flips.html",
-      "published": "Wed, 04 Nov 2026 04:10:39 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "5 Things to Know About South Carolina Democrat Annie Andrews",
-      "link": "https://www.nytimes.com/2026/11/03/us/annie-andrews-south-carolina-what-to-know.html",
-      "published": "Wed, 04 Nov 2026 03:25:14 +0000",
-      "sentiment": 0.0625
-    },
-    {
-      "title": "Zach Dembo, a Democrat, Defeats Ralph Alvarado in Republican-Leaning House Seat in Kentucky",
-      "link": "https://www.nytimes.com/2026/11/03/us/kentucky-house-6-alvarado-dembo.html",
-      "published": "Wed, 04 Nov 2026 03:21:57 +0000",
-      "sentiment": -0.1
     }
   ]
 }
