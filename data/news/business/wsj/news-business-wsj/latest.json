@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The Skilled Trades Are Making More Room for Women",
+      "link": "https://www.wsj.com/lifestyle/careers/the-skilled-trades-are-making-more-room-for-women-22032424?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 15:59:00 GMT",
+      "sentiment": 0.4444444444444444
+    },
+    {
+      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
+      "link": "https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 15:55:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 13:46:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 11:03:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
-      "link": "https://www.wsj.com/business/retail/americans-cut-back-on-boats-and-rvsbut-cant-stop-buying-harley-davidsons-3db7bb4b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 10:48:00 GMT",
-      "sentiment": 0.1965909090909091
-    },
-    {
-      "title": "How Beer Companies Stole Happy Hour From Liquor Brands",
-      "link": "https://www.wsj.com/business/retail/how-beer-companies-stole-happy-hour-from-liquor-brands-342e96c7?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.8
     },
     {
       "title": "Andersons to Buy Harvestone Low Carbon Partners for $915 Million",
@@ -91,10 +91,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d3c2c5fd?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 22:01:00 GMT",
-      "sentiment": 0.4666666666666666
+      "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
+      "link": "https://www.wsj.com/business/retail/americans-cut-back-on-boats-and-rvsbut-cant-stop-buying-harley-davidsons-3db7bb4b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:48:00 GMT",
+      "sentiment": 0.1965909090909091
     },
     {
       "title": "New York Times Revenue Rises on Digital Subscriber Gains",
@@ -193,6 +193,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 16:11:00 GMT",
+      "sentiment": -0.13999999999999999
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-2357fb44?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 12:33:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-surges-offering-some-relief-to-kindgoms-finances-da309d56?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 08:31:00 GMT",
       "sentiment": 0.010000000000000009
-    },
-    {
-      "title": "Iran War Threatens Record Annual Drop in Global LNG Supply, IEA Says",
-      "link": "https://www.wsj.com/business/energy-oil/iran-war-threatens-record-annual-drop-in-global-lng-supply-iea-says-68149f2f?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 06:07:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
@@ -433,6 +433,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "How Beer Companies Stole Happy Hour From Liquor Brands",
+      "link": "https://www.wsj.com/business/retail/how-beer-companies-stole-happy-hour-from-liquor-brands-342e96c7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.8
+    },
+    {
       "title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case",
       "link": "https://www.wsj.com/business/3m-announces-7-4-billion-settlement-in-forever-chemicals-injuries-case-17dd1e41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 00:39:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/style/paspaley-pearls-21d041ae?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 20:00:00 GMT",
       "sentiment": -0.00833333333333334
-    },
-    {
-      "title": "FBI Probes Autism Therapy Provider That Billed $30,000 a Day",
-      "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 16:32:00 GMT",
-      "sentiment": 1.0
     },
     {
       "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
