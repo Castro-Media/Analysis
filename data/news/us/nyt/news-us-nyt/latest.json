@@ -1,6 +1,90 @@
 {
   "entries": [
     {
+      "title": "Keisha Lance Bottoms Wins in Georgia to Become First Black Woman Elected U.S. Governor",
+      "link": "https://www.nytimes.com/2026/11/03/us/georgia-governor-bottoms-jackson.html",
+      "published": "Wed, 04 Nov 2026 02:26:32 +0000",
+      "sentiment": 0.18958333333333335
+    },
+    {
+      "title": "Democrat Pia Dandiya Wins Open Congressional Seat in Florida",
+      "link": "https://www.nytimes.com/2026/11/03/us/florida-house-22-dandiya-askar.html",
+      "published": "Wed, 04 Nov 2026 02:19:14 +0000",
+      "sentiment": 0.17285714285714285
+    },
+    {
+      "title": "Byron Donalds, Staunch Trump Supporter, Wins Florida Governor’s Race Against David Jolly",
+      "link": "https://www.nytimes.com/2026/11/03/us/donalds-florida-governor-race.html",
+      "published": "Wed, 04 Nov 2026 02:18:35 +0000",
+      "sentiment": 0.1277777777777778
+    },
+    {
+      "title": "Democrats Flip North Carolina Senate Seat",
+      "link": "https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html",
+      "published": "Wed, 04 Nov 2026 02:46:56 +0000",
+      "sentiment": 0.22999999999999998
+    },
+    {
+      "title": "G.O.P. Holds Florida",
+      "link": "https://www.nytimes.com/video/us/elections/100000011237440/gop-holds-florida.html",
+      "published": "Wed, 04 Nov 2026 02:08:34 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘We Will Find You’: Trump Officials Pledge to Arrest Noncitizen Voters",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-mullin-noncitizen-voting-arrests.html",
+      "published": "Wed, 04 Nov 2026 01:46:51 +0000",
+      "sentiment": 0.08214285714285713
+    },
+    {
+      "title": "Representative Chris Pappas Will Become the Senate’s First Openly Gay Male Senator",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/chris-pappas-first-openly-gay-male-senator.html",
+      "published": "Wed, 04 Nov 2026 01:53:08 +0000",
+      "sentiment": 0.1606060606060606
+    },
+    {
+      "title": "Republican Ashley Moody Holds On to Florida Senate Seat, Defeating Angie Nixon",
+      "link": "https://www.nytimes.com/2026/11/03/us/mood-nixon-florida-senate-election.html",
+      "published": "Wed, 04 Nov 2026 02:23:38 +0000",
+      "sentiment": 0.3952380952380953
+    },
+    {
+      "title": "Roy Cooper Flips North Carolina Senate Seat to Democrats by Defeating Michael Whatley",
+      "link": "https://www.nytimes.com/2026/11/03/us/north-carolina-senate-whatley-cooper.html",
+      "published": "Wed, 04 Nov 2026 02:46:58 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Chris Pappas Defeats John Sununu in New Hampshire Senate Race",
+      "link": "https://www.nytimes.com/2026/11/03/us/pappas-new-hampshire-senate-election.html",
+      "published": "Wed, 04 Nov 2026 02:42:57 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Jon Ossoff Wins Georgia Senate Race Against Mike Collins",
+      "link": "https://www.nytimes.com/2026/11/03/us/ossoff-georgia-senate-race.html",
+      "published": "Wed, 04 Nov 2026 01:38:19 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "More Federal Election Monitors Than Ever Fanned Out to Polling Places",
+      "link": "https://www.nytimes.com/2026/11/03/us/justice-department-monitors-election.html",
+      "published": "Wed, 04 Nov 2026 00:59:21 +0000",
+      "sentiment": 0.234375
+    },
+    {
+      "title": "We’re watching a few key areas as polls close in Maine and Michigan.",
+      "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-a-few-key-areas-as-polls-close-in-maine-and-michigan",
+      "published": "Wed, 04 Nov 2026 02:06:55 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "We’re watching several areas in Texas as polls close there.",
+      "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
+      "published": "Wed, 04 Nov 2026 00:55:02 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Americans Cast Their Votes, From Sea to Shining Sea",
       "link": "https://www.nytimes.com/2026/11/03/us/elections/voters-midterms-photos.html",
       "published": "Wed, 04 Nov 2026 00:44:28 +0000",
@@ -27,7 +111,7 @@
     {
       "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
-      "published": "Wed, 04 Nov 2026 00:01:13 +0000",
+      "published": "Wed, 04 Nov 2026 01:44:13 +0000",
       "sentiment": 0.18333333333333335
     },
     {
@@ -135,7 +219,7 @@
     {
       "title": "Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/alaska-investigation-target-letters-democrats.html",
-      "published": "Tue, 03 Nov 2026 21:24:35 +0000",
+      "published": "Wed, 04 Nov 2026 01:03:49 +0000",
       "sentiment": 0.15000000000000002
     },
     {
@@ -173,84 +257,6 @@
       "link": "https://www.nytimes.com/2026/11/03/us/voting-machine-issues-midterm-elections.html",
       "published": "Tue, 03 Nov 2026 22:50:48 +0000",
       "sentiment": -0.1471590909090909
-    },
-    {
-      "title": "What to Watch in California on Election Day",
-      "link": "https://www.nytimes.com/2026/11/03/us/california-election-governor-la-mayor.html",
-      "published": "Tue, 03 Nov 2026 14:57:39 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
-      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "published": "Tue, 03 Nov 2026 20:53:40 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Latinos are now America’s most important swing voters.",
-      "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/latinos-are-now-americas-most-important-swing-voters",
-      "published": "Tue, 03 Nov 2026 17:49:59 +0000",
-      "sentiment": 0.45
-    },
-    {
-      "title": "What You Can and Can’t Do at Polling Places",
-      "link": "https://www.nytimes.com/2026/11/03/us/voting-election-day-polling-site-rules.html",
-      "published": "Tue, 03 Nov 2026 12:01:05 +0000",
-      "sentiment": 0.20476190476190478
-    },
-    {
-      "title": "Some Voters are Facing a Rainy Election Day",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/election-day-weather-storms.html",
-      "published": "Tue, 03 Nov 2026 17:06:07 +0000",
-      "sentiment": -0.24285714285714277
-    },
-    {
-      "title": "How to Follow The New York Times’s 2026 Midterm Election Results and Coverage",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/how-to-watch-midterm-election-results.html",
-      "published": "Tue, 03 Nov 2026 21:00:21 +0000",
-      "sentiment": 0.3181818181818182
-    },
-    {
-      "title": "Editors’ Note",
-      "link": "https://www.nytimes.com/2026/11/03/us/midterm-election-key-house-senate-races.html",
-      "published": "Tue, 03 Nov 2026 15:01:45 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
-      "published": "Tue, 03 Nov 2026 21:37:01 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Are the Polls Right About Democrats?",
-      "link": "https://www.nytimes.com/video/us/elections/100000011242167/are-the-polls-right-about-democrats.html",
-      "published": "Tue, 03 Nov 2026 11:28:16 +0000",
-      "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
-      "published": "Tue, 03 Nov 2026 20:03:01 +0000",
-      "sentiment": 0.1388888888888889
-    },
-    {
-      "title": "What’s at Stake in Today’s Elections",
-      "link": "https://www.nytimes.com/video/us/politics/100000011228221/whats-at-stake-in-todays-elections.html",
-      "published": "Tue, 03 Nov 2026 20:51:02 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "What to Watch in Michigan",
-      "link": "https://www.nytimes.com/video/us/elections/100000011224064/what-to-watch-in-michigan.html",
-      "published": "Tue, 03 Nov 2026 10:03:05 +0000",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "What to Watch in Texas",
-      "link": "https://www.nytimes.com/video/us/elections/100000011224046/what-to-watch-in-texas.html",
-      "published": "Tue, 03 Nov 2026 17:34:05 +0000",
-      "sentiment": 0.525
     }
   ]
 }
