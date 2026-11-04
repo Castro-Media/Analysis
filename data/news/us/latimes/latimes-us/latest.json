@@ -133,12 +133,6 @@
       "sentiment": 0.16545454545454544
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -151,16 +145,22 @@
       "sentiment": -0.12000000000000002
     },
     {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
+      "sentiment": 0.15
     },
     {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
+    },
+    {
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.016666666666666673
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
@@ -313,10 +313,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
-      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
+      "title": "Your last-minute guide to education-related ballot measures",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-state-schools-superintendent-community-college-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.10000000000000002
+      "sentiment": 0.0
     },
     {
       "title": "Your last-minute guide to L.A. City Council races: Districts 3 and 9",
@@ -331,16 +331,10 @@
       "sentiment": -0.0625
     },
     {
-      "title": "Your last-minute guide to education-related ballot measures",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-state-schools-superintendent-community-college-last-minute-voter-guide",
+      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
+      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "Your last-minute guide to the L.A. city attorney's race: McKinney vs. Roy",
@@ -361,34 +355,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Your last-minute guide to all California propositions",
       "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
       "sentiment": 0.10500000000000001
     },
     {
-      "title": "Two competitive L.A. City Council seats are on the Nov. 3 ballot",
-      "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Inside the local ballot measures L.A. will vote on in the Nov. 3 election",
-      "link": "https://www.latimes.com/california/story/2026-10-31/inside-local-ballot-measures-la-will-vote-on-in-nov-3-election",
+      "title": "A tribe returns, joyful, to 51 acres in the San Gabriel foothills",
+      "link": "https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Raman says the LAPD has grown more secretive under Chief Jim McDonnell. Has it?",
-      "link": "https://www.latimes.com/california/story/2026-10-31/lapd-chief-jim-mcdonnell-public-records-crime-stats-secrecy",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "Arellano: This is the prayer Catholic bishops should have offered to Trump",
-      "link": "https://www.latimes.com/california/story/2026-10-31/prayer-trump-catholic-bishops",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.225
     },
     {
       "title": "Proposed billionaire tax could impact California sports teams",
@@ -403,10 +385,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "A tribe returns, joyful, to 51 acres in the San Gabriel foothills",
-      "link": "https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres",
+      "title": "Arellano: This is the prayer Catholic bishops should have offered to Trump",
+      "link": "https://www.latimes.com/california/story/2026-10-31/prayer-trump-catholic-bishops",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.225
+    },
+    {
+      "title": "Inside the local ballot measures L.A. will vote on in the Nov. 3 election",
+      "link": "https://www.latimes.com/california/story/2026-10-31/inside-local-ballot-measures-la-will-vote-on-in-nov-3-election",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Raman says the LAPD has grown more secretive under Chief Jim McDonnell. Has it?",
+      "link": "https://www.latimes.com/california/story/2026-10-31/lapd-chief-jim-mcdonnell-public-records-crime-stats-secrecy",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.175
+    },
+    {
+      "title": "Two competitive L.A. City Council seats are on the Nov. 3 ballot",
+      "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "A pregnant woman killed, 6 injured in Bay Area Spirit Halloween shooting",
@@ -505,22 +505,16 @@
       "sentiment": 0.025
     },
     {
-      "title": "Your last-minute guide to Proposition 38: Research funding for immunology, immunotherapy",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-38-immunology-last-minute-voter-guide",
+      "title": "Commentary: California's super-rich conquered the world, but not always the voters",
+      "link": "https://www.latimes.com/california/story/2026-10-30/californias-super-rich-conquered-world-but-not-always-voters",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to Proposition 44: Health center spending",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-44-health-clinic-spending-last-minute-voter-guide",
+      "title": "Your last-minute guide to Proposition 38: Research funding for immunology, immunotherapy",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-38-immunology-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.04999999999999999
-    },
-    {
-      "title": "Your last-minute guide to Proposition 5: Changing how recall elections work",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-5-recall-elections-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.375
+      "sentiment": 0.0
     },
     {
       "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
@@ -529,22 +523,16 @@
       "sentiment": -0.11851851851851854
     },
     {
-      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Commentary: California's super-rich conquered the world, but not always the voters",
-      "link": "https://www.latimes.com/california/story/2026-10-30/californias-super-rich-conquered-world-but-not-always-voters",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Your last-minute guide to in-person voting for California's general election",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-general-election-in-person-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Your last-minute guide to obscure but important L.A. County election races",
@@ -557,6 +545,18 @@
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-community-college-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": 0.8
+    },
+    {
+      "title": "Your last-minute guide to Proposition 44: Health center spending",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-44-health-clinic-spending-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.04999999999999999
+    },
+    {
+      "title": "Your last-minute guide to Proposition 5: Changing how recall elections work",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-5-recall-elections-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.375
     },
     {
       "title": "Your last-minute guide to L.A. County Superior Court judge elections",
