@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "What Changes (or Doesn’t) Now?",
+      "link": "https://www.wsj.com/articles/what-changes-or-doesnt-now-ec1724d1?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 11:09:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+      "link": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 11:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
       "link": "https://www.wsj.com/business/retail/americans-cut-back-on-boats-and-rvsbut-cant-stop-buying-harley-davidsons-3db7bb4b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 10:48:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/3m-announces-7-4-billion-settlement-in-forever-chemicals-injuries-case-17dd1e41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 00:39:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Lockheed Martin to Pay $29.5 Million to Settle Federal Probe Over Diversity Efforts",
-      "link": "https://www.wsj.com/business/lockheed-martin-to-pay-29-5-million-to-settle-federal-probe-over-diversity-efforts-fbf1adf1?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 00:36:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status",
-      "link": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 21:37:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Foodtastic Makes Hostile Bid for Rival MTY Food After Being Rejected",
@@ -67,10 +67,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Pandora Lifts Outlook Ahead of Peak Festive Season",
+      "title": "CVS Raises Forecast on Health Care Benefits, Pharmacy Gains",
+      "link": "https://www.wsj.com/health/healthcare/cvs-raises-forecast-on-health-care-benefits-pharmacy-gains-d2ed0507?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 11:42:00 GMT",
+      "sentiment": 0.08
+    },
+    {
+      "title": "Pandora’s Shares Jump as Sales Continue to Rise Ahead of Festive Season",
       "link": "https://www.wsj.com/business/retail/pandora-lifts-outlook-ahead-of-peak-festive-season-890f46f0?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 10:16:00 GMT",
-      "sentiment": 0.0
+      "published": "Wed, 04 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -91,10 +97,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Yum Says Taco Bell Sales Are Improving After Cyclospora Outbreak Fallout",
-      "link": "https://www.wsj.com/business/earnings/yum-revenue-rises-despite-taco-bell-cyclospora-outbreak-fallout-04afd09a?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 16:55:00 GMT",
-      "sentiment": 0.0
+      "title": "Continental Shares Rise as Tire Maker Bets on Chinese Carmakers to Drive Growth",
+      "link": "https://www.wsj.com/business/earnings/continental-narrows-sales-outlook-after-revenue-slumps-76e2fd8b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 11:10:00 GMT",
+      "sentiment": 0.18611111111111112
     },
     {
       "title": "Volvo Car Sales Drop on Continued China, U.S. Weakness",
@@ -112,12 +118,6 @@
       "title": "BMW Cuts Outlook Again as Carmaker Revs Up on Restructuring",
       "link": "https://www.wsj.com/business/earnings/bmw-cuts-outlook-again-as-carmaker-revs-up-on-restructuring-373abfe8?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 08:05:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Continental Narrows Sales Outlook After Revenue Slumps",
-      "link": "https://www.wsj.com/business/earnings/continental-narrows-sales-outlook-after-revenue-slumps-76e2fd8b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 07:11:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -283,6 +283,12 @@
       "sentiment": 0.8
     },
     {
+      "title": "Yum Says Taco Bell Sales Are Improving After Cyclospora Outbreak Fallout",
+      "link": "https://www.wsj.com/business/earnings/yum-revenue-rises-despite-taco-bell-cyclospora-outbreak-fallout-04afd09a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 16:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Cheesecake Factory Is Over-the-Top, Gaudy and Bizarre. That’s the Point.",
       "link": "https://www.wsj.com/style/design/cheesecake-factory-design-obama-de0e1bbc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 16:07:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/hospitality/they-sold-everything-to-live-on-a-cruise-ship-now-theyre-stuck-in-cambodia-20d98d4f?mod=pls_whats_news_us_business_f",
       "published": "Wed, 28 Oct 2026 23:01:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "MGM Says Deal Talks With Barry Diller’s People Incorporated Are Over",
-      "link": "https://www.wsj.com/business/hospitality/mgm-resorts-revenue-ticks-down-on-lower-room-rates-in-las-vegas-ea6f90af?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 22:57:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "EU Court Advisor Warns AI Chatbots Could Risk Infringing Copyright Law",
@@ -433,6 +433,18 @@
       "sentiment": 0.5
     },
     {
+      "title": "Lockheed Martin to Pay $29.5 Million to Settle Federal Probe Over Diversity Efforts",
+      "link": "https://www.wsj.com/business/lockheed-martin-to-pay-29-5-million-to-settle-federal-probe-over-diversity-efforts-fbf1adf1?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 00:36:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status",
+      "link": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 03 Nov 2026 21:37:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "The Family Behind Some of the World’s Rarest Pearls",
       "link": "https://www.wsj.com/style/paspaley-pearls-21d041ae?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 20:00:00 GMT",
@@ -449,18 +461,6 @@
       "link": "https://www.wsj.com/world/the-little-known-chinese-bank-in-the-middle-of-iranian-and-russian-money-flows-9e76173b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 15:55:00 GMT",
       "sentiment": -0.03111111111111111
-    },
-    {
-      "title": "Netflix Needs You to Watch, Not Just Pay",
-      "link": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Could Orbital Data Centers Ruin the Night Sky?",
-      "link": "https://www.wsj.com/science/space-astronomy/could-orbital-data-centers-ruin-the-night-sky-9462bf2d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Apple’s Growth Machine Is Slowing. High Prices Might Not Save It.",
