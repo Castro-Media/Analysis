@@ -85,6 +85,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
+      "link": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
+      "published": "Wed, 04 Nov 2026 00:48:08 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
+      "link": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
+      "published": "Tue, 03 Nov 2026 23:19:17 +0000",
+      "sentiment": 0.6
+    },
+    {
       "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
       "link": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
       "published": "Tue, 03 Nov 2026 22:36:35 +0000",
@@ -99,13 +111,13 @@
     {
       "title": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
       "link": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
-      "published": "Tue, 03 Nov 2026 21:56:15 +0000",
+      "published": "Tue, 03 Nov 2026 23:03:45 +0000",
       "sentiment": -0.2
     },
     {
       "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
       "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "published": "Tue, 03 Nov 2026 21:46:32 +0000",
+      "published": "Tue, 03 Nov 2026 23:04:05 +0000",
       "sentiment": 0.5
     },
     {
@@ -213,7 +225,7 @@
     {
       "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
       "link": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
-      "published": "Mon, 02 Nov 2026 21:46:45 +0000",
+      "published": "Wed, 04 Nov 2026 00:23:46 +0000",
       "sentiment": -0.15
     },
     {
@@ -311,24 +323,6 @@
       "link": "https://www.nytimes.com/2026/10/31/world/australia/australia-halloween-america-influence.html",
       "published": "Sat, 31 Oct 2026 14:11:38 +0000",
       "sentiment": 0.175
-    },
-    {
-      "title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
-      "link": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
-      "published": "Sat, 31 Oct 2026 18:06:13 +0000",
-      "sentiment": 0.175
-    },
-    {
-      "title": "French officials eye social media’s role in promoting unrest.",
-      "link": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween/french-officials-eye-social-medias-role-in-promoting-unrest",
-      "published": "Sat, 31 Oct 2026 12:56:17 +0000",
-      "sentiment": 0.016666666666666666
-    },
-    {
-      "title": "75 Years On, the National Ballet of Canada ‘Remains the Icon’",
-      "link": "https://www.nytimes.com/2026/10/31/world/canada/national-ballet-canada-carney.html",
-      "published": "Sat, 31 Oct 2026 10:00:09 +0000",
-      "sentiment": 0.0
     }
   ]
 }

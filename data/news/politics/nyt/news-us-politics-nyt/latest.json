@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "How The New York Times Tracks Election News and Tips",
+      "link": "https://www.nytimes.com/2026/11/03/insider/how-we-confirm-tips-about-voting-issues.html",
+      "published": "Wed, 04 Nov 2026 00:30:28 +0000",
+      "sentiment": 0.1515151515151515
+    },
+    {
+      "title": "The On Politics Guide to Election Night",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/the-on-politics-guide-to-election-night.html",
+      "published": "Tue, 03 Nov 2026 23:31:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
+      "published": "Wed, 04 Nov 2026 00:01:13 +0000",
+      "sentiment": 0.18333333333333335
+    },
+    {
       "title": "How Will the Midterms Play Out? These Races May Provide Early Clues.",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html",
       "published": "Tue, 03 Nov 2026 22:01:05 +0000",
@@ -39,7 +57,7 @@
     {
       "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-      "published": "Tue, 03 Nov 2026 18:25:13 +0000",
+      "published": "Tue, 03 Nov 2026 23:39:55 +0000",
       "sentiment": -0.125
     },
     {
@@ -131,24 +149,6 @@
       "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
       "published": "Tue, 03 Nov 2026 16:51:07 +0000",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Democrats Head Into Election Day Feeling Hopeful About the Midterms",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html",
-      "published": "Tue, 03 Nov 2026 02:54:58 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
-      "published": "Tue, 03 Nov 2026 00:22:04 +0000",
-      "sentiment": 0.4787878787878788
-    },
-    {
-      "title": "How The New York Times Reviewed 7 Million Words Uttered by Trump",
-      "link": "https://www.nytimes.com/2026/11/02/insider/trump-speeches-analysis.html",
-      "published": "Mon, 02 Nov 2026 23:06:41 +0000",
-      "sentiment": 0.04545454545454545
     }
   ]
 }
