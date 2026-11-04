@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Marissa Roy surges to early lead over John McKinney in L.A. city attorney race",
+      "link": "https://www.latimes.com/california/story/2026-11-03/marissa-roy-john-mckinney-la-city-attorney-race-results",
+      "published": "Wed, 4 Nov 2026 04:43:54 GMT",
+      "sentiment": 0.05625
+    },
+    {
       "title": "Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead",
       "link": "https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a",
       "published": "Wed, 4 Nov 2026 04:40:22 GMT",
@@ -25,10 +31,10 @@
       "sentiment": -0.15000000000000002
     },
     {
-      "title": "Early returns suggest Democratic inroads in Senate, House races",
+      "title": "Democrats sweep to control of the Senate in sharp repudiation of Trump",
       "link": "https://www.latimes.com/politics/story/2026-11-03/congress-midterm-election",
       "published": "Tue, 3 Nov 2026 20:05:10 GMT",
-      "sentiment": 0.15918367346938775
+      "sentiment": 0.05833333333333333
     },
     {
       "title": "2026 election results: How many votes are left to count",
@@ -569,12 +575,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-19/supreme-court-may-strike-down-school-policies-that-limit-asian-students",
       "published": "Mon, 19 Oct 2026 20:27:48 GMT",
       "sentiment": 0.04388888888888889
-    },
-    {
-      "title": "Jon Stewart will remain at 'The Daily Show' through 2028",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-19/jon-stewart-will-remain-at-the-daily-show-through-2028",
-      "published": "Mon, 19 Oct 2026 18:43:27 GMT",
-      "sentiment": 0.0
     }
   ]
 }
