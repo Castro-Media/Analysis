@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Rise Despite Apple Slump",
+      "title": "Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 08:43:11 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.25
     },
     {
       "title": "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
@@ -103,6 +103,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "U.S. Stocks, Dollar Set to Weaken as Blue Wave Forms",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 02:51:00 GMT",
+      "sentiment": 0.009027777777777773
+    },
+    {
       "title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI",
       "link": "https://www.wsj.com/pro/private-equity/apollo-global-swings-to-a-loss-on-investment-related-losses-e2141fd4?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 21:46:00 GMT",
@@ -127,18 +133,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Who Was President When Mortgage Rates Were Over 18%? Take Our Quiz",
-      "link": "https://www.wsj.com/politics/elections/quiz-politics-economy-elections-5d09fd3f?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 17:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nikkei Flat, Supported by Financial, Airline Stocks",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 00:50:00 GMT",
-      "sentiment": -0.016666666666666663
-    },
-    {
       "title": "U.S. Stocks Mixed Amid Midterm, Iran War Nerves",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-amid-midterm-iran-war-nerves-e1e285d4?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 22:08:00 GMT",
@@ -160,6 +154,12 @@
       "title": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
       "link": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 22:18:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,6 +199,12 @@
       "sentiment": 0.18666666666666668
     },
     {
+      "title": "Oil Prices Fall as U.S. Midterm Results Unfold",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 02:43:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Gold Edges Higher Amid Cooling Oil Prices",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 00:54:00 GMT",
@@ -223,10 +229,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Central Banks Accelerated Gold Buying in Third Quarter",
-      "link": "https://www.wsj.com/finance/commodities-futures/central-banks-accelerated-gold-buying-in-third-quarter-eba253ff?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 11:57:00 GMT",
-      "sentiment": -0.09999999999999999
+      "title": "U.S. Dollar Index Weakens to One-Month Low as Democrats Take Lead",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 02:04:00 GMT",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "WSJ Dollar Index Rises 0.23% to 97.22",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
       "published": "Sun, 01 Nov 2026 18:54:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
-      "link": "https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main",
-      "published": "Fri, 30 Oct 2026 23:29:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "Polymarket Is Investigating Suspicious Trades on Israel Election",
@@ -301,12 +301,6 @@
       "sentiment": -0.075
     },
     {
-      "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 22:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Oil Tumbles, but Stocks Fail To Launch",
       "link": "https://www.wsj.com/finance/investing/oil-tumbles-but-stocks-fail-to-launch-90972f94?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 21:16:00 GMT",
@@ -317,6 +311,12 @@
       "link": "https://www.wsj.com/finance/commodities-futures/morgan-stanley-raises-bullish-european-gas-price-scenario-on-winter-supply-risks-77062b22?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 14:42:00 GMT",
       "sentiment": 0.22000000000000003
+    },
+    {
+      "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
+      "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 12:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
