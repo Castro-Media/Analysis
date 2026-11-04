@@ -1,16 +1,28 @@
 {
   "entries": [
     {
+      "title": "Inglewood, Rams owner face likely split election result over billboards and tax",
+      "link": "https://www.latimes.com/sports/rams/story/2026-11-03/inglewood-rams-owner-face-split-election-result-over-billboards",
+      "published": "Wed, 4 Nov 2026 06:36:06 GMT",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Billionaire tax ballot measure trails; California voters reject voter ID",
+      "link": "https://www.latimes.com/california/story/2026-11-03/california-prop-40-billionaire-trails-tax-prop-39-voter-id",
+      "published": "Wed, 4 Nov 2026 06:31:55 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Marissa Roy surges to early lead over John McKinney in L.A. city attorney race",
       "link": "https://www.latimes.com/california/story/2026-11-03/marissa-roy-john-mckinney-la-city-attorney-race-results",
       "published": "Wed, 4 Nov 2026 04:43:54 GMT",
       "sentiment": 0.05625
     },
     {
-      "title": "Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead",
+      "title": "L.A. County Sheriff Robert Luna tops challenger Alex Villanueva",
       "link": "https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a",
       "published": "Wed, 4 Nov 2026 04:40:22 GMT",
-      "sentiment": 0.0007142857142857173
+      "sentiment": -0.07142857142857142
     },
     {
       "title": "Xavier Becerra makes history as California's first elected Latino governor",
@@ -31,10 +43,10 @@
       "sentiment": -0.15000000000000002
     },
     {
-      "title": "Democrats sweep to control of the Senate in sharp repudiation of Trump",
+      "title": "Democrats take Congress in historic sweep as voters rebuke Trump",
       "link": "https://www.latimes.com/politics/story/2026-11-03/congress-midterm-election",
       "published": "Tue, 3 Nov 2026 20:05:10 GMT",
-      "sentiment": 0.05833333333333333
+      "sentiment": 0.09999999999999999
     },
     {
       "title": "2026 election results: How many votes are left to count",
@@ -49,12 +61,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
-    },
-    {
       "title": "Which races might predict a 'blue wave'? Here's what to watch",
       "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -65,6 +71,12 @@
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.11818181818181818
     },
     {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
@@ -115,16 +127,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Didn't register to vote? Here's how you still can cast a ballot",
-      "link": "https://www.latimes.com/california/story/2026-11-02/2026-california-general-election-same-day-registration-last-minute-voter-guide",
-      "published": "Mon, 2 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.02500000000000001
-    },
-    {
       "title": "A campaign season of surprises peaks with Tuesday's midterms",
       "link": "https://www.latimes.com/politics/story/2026-11-02/campaign-season-of-surprises-peaks-with-tuesdays-midterms",
       "published": "Mon, 2 Nov 2026 11:00:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "Didn't register to vote? Here's how you still can cast a ballot",
+      "link": "https://www.latimes.com/california/story/2026-11-02/2026-california-general-election-same-day-registration-last-minute-voter-guide",
+      "published": "Mon, 2 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.02500000000000001
     },
     {
       "title": "From an LGBTQ+ rally to Trunk or Treat, Becerra and Hilton barnstorm California hoping to be next governor",
@@ -163,12 +175,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Election night TV coverage is going full nerd for the 2026 midterms",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0935897435897436
-    },
-    {
       "title": "Proposed billionaire tax could impact California sports teams",
       "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
@@ -179,6 +185,12 @@
       "link": "https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333338
+    },
+    {
+      "title": "Election night TV coverage is going full nerd for the 2026 midterms",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0935897435897436
     },
     {
       "title": "Justice Dept. sent subpoenas to L.A. election officials. What that means and what happens next",
@@ -199,16 +211,16 @@
       "sentiment": 0.025
     },
     {
-      "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.11851851851851854
-    },
-    {
       "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": -0.125
+    },
+    {
+      "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.11851851851851854
     },
     {
       "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
@@ -247,6 +259,12 @@
       "sentiment": -0.43333333333333335
     },
     {
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.14166666666666666
+    },
+    {
       "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
       "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
@@ -257,12 +275,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.018181818181818174
-    },
-    {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
     },
     {
       "title": "Judge denies feds' request to block 20,000 California ballots in blistering opinion",
@@ -391,16 +403,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "Chabria: What decent people get wrong about the Amy Acton ad",
       "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": -0.24722222222222223
+    },
+    {
+      "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Hope and despair simmer among California Republicans ahead of election day",
@@ -439,10 +451,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
+      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
+      "sentiment": -0.1
     },
     {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
@@ -451,16 +463,16 @@
       "sentiment": -0.075
     },
     {
+      "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
-    },
-    {
-      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Judge limits election-related immigration stops amid broader legal war ahead of midterms",
@@ -563,18 +575,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-20/trumps-attack-on-california-voting-is-false-bit-funny",
       "published": "Tue, 20 Oct 2026 10:00:00 GMT",
       "sentiment": -0.13333333333333336
-    },
-    {
-      "title": "California residents accused by feds of voter fraud react with shock, confusion and anger",
-      "link": "https://www.latimes.com/california/story/2026-10-19/california-voter-fraud-charges-defendants-react",
-      "published": "Tue, 20 Oct 2026 00:52:59 GMT",
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "title": "Supreme Court may strike down school policies that limit Asian students",
-      "link": "https://www.latimes.com/politics/story/2026-10-19/supreme-court-may-strike-down-school-policies-that-limit-asian-students",
-      "published": "Mon, 19 Oct 2026 20:27:48 GMT",
-      "sentiment": 0.04388888888888889
     }
   ]
 }

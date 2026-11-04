@@ -103,10 +103,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "U.S. Stocks, Dollar Set to Weaken as Blue Wave Forms",
+      "title": "Nikkei Falls 1.4% to 3-Month Low, Dragged by Chip Stocks",
       "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 02:51:00 GMT",
-      "sentiment": 0.009027777777777773
+      "published": "Wed, 04 Nov 2026 07:17:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "Two-Year Treasury Yield Falls to Two-Month Low as Democrats Sweep Midterm Elections",
+      "link": "https://www.wsj.com/finance/investing/two-year-treasury-yield-falls-to-two-month-low-as-democrats-sweep-midterm-elections-79fb1f8e?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 06:46:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Apollo’s Originations Rise to a Record $114 Billion as Opportunities Arise in AI",
@@ -127,15 +133,21 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "Tech Stocks Rise Despite Apple Slump",
-      "link": "https://www.wsj.com/finance/investing/dow-futures-fall-treasurys-yields-rise-heading-into-midterms-d3a6a938?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 19:38:00 GMT",
+      "title": "Asia Markets Get Midterm Whiplash as Selloff Gives Way to Relief Rally",
+      "link": "https://www.wsj.com/finance/tech-declines-dollar-weakens-in-asia-as-u-s-midterm-votes-roll-in-bbeb85a5?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 06:59:00 GMT",
       "sentiment": 0.0
     },
     {
       "title": "U.S. Stocks Mixed Amid Midterm, Iran War Nerves",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-amid-midterm-iran-war-nerves-e1e285d4?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 22:08:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Tech Stocks Rise Despite Apple Slump",
+      "link": "https://www.wsj.com/finance/investing/dow-futures-fall-treasurys-yields-rise-heading-into-midterms-d3a6a938?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 19:38:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -149,18 +161,6 @@
       "link": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 23:16:00 GMT",
       "sentiment": 0.0987878787878788
-    },
-    {
-      "title": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
-      "link": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 22:24:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 22:18:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | Elon Musk Will Turn Kids Into Capitalists",
@@ -199,6 +199,12 @@
       "sentiment": 0.18666666666666668
     },
     {
+      "title": "European Gas Market Braces for Trump’s Next Move on Iran After Midterms",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-market-braces-for-trumps-next-move-on-iran-after-midterms-ca5f2b56?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 07:48:00 GMT",
+      "sentiment": 0.12
+    },
+    {
       "title": "Gold Stays Under Pressure as Buyers Await Midterms Clarity",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 04:15:00 GMT",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 20:58:00 GMT",
       "sentiment": 0.153125
-    },
-    {
-      "title": "Gold Futures Slip Amid Oil Price Volatility",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 19:18:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "U.S. Dollar Index Weakens to One-Month Low as Democrats Take Lead",
@@ -301,22 +301,22 @@
       "sentiment": -0.075
     },
     {
+      "title": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
+      "link": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 22:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Tumbles, but Stocks Fail To Launch",
       "link": "https://www.wsj.com/finance/investing/oil-tumbles-but-stocks-fail-to-launch-90972f94?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 21:16:00 GMT",
       "sentiment": -0.25
-    },
-    {
-      "title": "U.S. Natural Gas Futures See Modest Pick-Up",
-      "link": "https://www.wsj.com/finance/commodities-futures/morgan-stanley-raises-bullish-european-gas-price-scenario-on-winter-supply-risks-77062b22?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 14:42:00 GMT",
-      "sentiment": 0.22000000000000003
-    },
-    {
-      "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
-      "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 12:00:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
