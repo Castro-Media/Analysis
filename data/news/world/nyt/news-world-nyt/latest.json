@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Countries Weigh, and Worry About, What Trump Will Do After Midterm Defeat",
+      "title": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
       "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-      "published": "Wed, 04 Nov 2026 13:19:17 +0000",
-      "sentiment": -0.3125
+      "published": "Wed, 04 Nov 2026 15:21:09 +0000",
+      "sentiment": -0.10416666666666667
+    },
+    {
+      "title": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+      "published": "Wed, 04 Nov 2026 13:58:52 +0000",
+      "sentiment": 0.125
     },
     {
       "title": "Why Doctors in Thailand Fear KFC",
@@ -79,18 +85,6 @@
       "sentiment": -0.25
     },
     {
-      "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
-      "published": "Mon, 02 Nov 2026 20:50:14 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
-      "published": "Wed, 04 Nov 2026 12:19:26 +0000",
-      "sentiment": 0.125
-    },
-    {
       "title": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
       "link": "https://www.nytimes.com/2026/11/04/travel/patagonia-estancia-cerro-guido.html",
       "published": "Wed, 04 Nov 2026 10:00:53 +0000",
@@ -99,7 +93,7 @@
     {
       "title": "Could a Viral Video Save Her Mom’s Chinese Restaurant?",
       "link": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
-      "published": "Wed, 04 Nov 2026 11:36:22 +0000",
+      "published": "Wed, 04 Nov 2026 15:15:05 +0000",
       "sentiment": 0.19999999999999998
     },
     {
@@ -202,6 +196,12 @@
       "title": "A 31,000-Mile Walk Ends in England, at Mom’s House",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html",
       "published": "Tue, 03 Nov 2026 15:50:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+      "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+      "published": "Mon, 02 Nov 2026 20:50:14 +0000",
       "sentiment": 0.0
     },
     {
@@ -323,12 +323,6 @@
       "link": "https://www.nytimes.com/video/world/asia/100000011244032/thailand-snake-catcher-bangkok.html",
       "published": "Sun, 01 Nov 2026 15:10:28 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Korean Language Picks Up in Japan",
-      "link": "https://www.nytimes.com/2026/11/01/world/asia/japan-slang-korean-language.html",
-      "published": "Sun, 01 Nov 2026 04:01:08 +0000",
-      "sentiment": 0.16666666666666666
     }
   ]
 }
