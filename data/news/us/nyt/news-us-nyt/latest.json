@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "Americans Cast Their Votes, From Sea to Shining Sea",
+      "link": "https://www.nytimes.com/2026/11/03/us/elections/voters-midterms-photos.html",
+      "published": "Wed, 04 Nov 2026 00:44:28 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "The areas we are watching as polls close in Georgia, North Carolina and South Carolina.",
+      "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/the-areas-we-are-watching-as-polls-close-in-georgia-north-carolina-and-south-carolina",
+      "published": "Tue, 03 Nov 2026 23:59:05 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Key Part of Jet in Deadly Florida Crash Found Far From Impact Site",
+      "link": "https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html",
+      "published": "Tue, 03 Nov 2026 23:46:52 +0000",
+      "sentiment": -0.04
+    },
+    {
+      "title": "The On Politics Guide to Election Night",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/the-on-politics-guide-to-election-night.html",
+      "published": "Tue, 03 Nov 2026 23:31:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
+      "published": "Wed, 04 Nov 2026 00:01:13 +0000",
+      "sentiment": 0.18333333333333335
+    },
+    {
+      "title": "Georgia G.O.P. Chair Predicts a ‘Fair’ Election in the State",
+      "link": "https://www.nytimes.com/2026/11/03/us/georgia-republican-chair-fair-election.html",
+      "published": "Tue, 03 Nov 2026 23:30:04 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "‘Mud Bogging’ to the Polls in Storm-Soaked Navajo Nation",
+      "link": "https://www.nytimes.com/2026/11/03/us/navajo-nation-voting.html",
+      "published": "Tue, 03 Nov 2026 23:27:38 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Democratic polling leads in Michigan and Maine have come with questions.",
       "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/democratic-polling-leads-in-michigan-and-maine-have-come-with-questions",
       "published": "Tue, 03 Nov 2026 22:22:05 +0000",
@@ -9,7 +51,7 @@
     {
       "title": "In San Francisco, Voters Cast Ballots at Hair Salons and Among the Dead",
       "link": "https://www.nytimes.com/2026/11/03/us/san-francisco-polling-places-midterms-election.html",
-      "published": "Tue, 03 Nov 2026 22:16:17 +0000",
+      "published": "Tue, 03 Nov 2026 23:39:19 +0000",
       "sentiment": -0.2
     },
     {
@@ -33,7 +75,7 @@
     {
       "title": "Fugitive Murder Convict Caught in Missouri After Escape From Tennessee Prison",
       "link": "https://www.nytimes.com/2026/11/03/us/tennessee-escaped-jacob-morley-captured.html",
-      "published": "Tue, 03 Nov 2026 22:50:57 +0000",
+      "published": "Tue, 03 Nov 2026 23:55:25 +0000",
       "sentiment": 0.05
     },
     {
@@ -45,7 +87,7 @@
     {
       "title": "Election Day Turnout Is High Across Battleground States",
       "link": "https://www.nytimes.com/2026/11/03/us/election-day-turnout-battleground-states.html",
-      "published": "Tue, 03 Nov 2026 22:24:12 +0000",
+      "published": "Tue, 03 Nov 2026 22:24:13 +0000",
       "sentiment": 0.14
     },
     {
@@ -63,7 +105,7 @@
     {
       "title": "Chris Murphy, Recovering From a Stroke, Remains Hospitalized on Election Day",
       "link": "https://www.nytimes.com/2026/11/03/us/chris-murphy-stroke-hospitalization.html",
-      "published": "Tue, 03 Nov 2026 22:27:09 +0000",
+      "published": "Wed, 04 Nov 2026 00:41:18 +0000",
       "sentiment": -0.4
     },
     {
@@ -209,54 +251,6 @@
       "link": "https://www.nytimes.com/video/us/elections/100000011224046/what-to-watch-in-texas.html",
       "published": "Tue, 03 Nov 2026 17:34:05 +0000",
       "sentiment": 0.525
-    },
-    {
-      "title": "What to Watch in Georgia and North Carolina",
-      "link": "https://www.nytimes.com/video/us/elections/100000011223991/what-to-watch-in-georgia-and-north-carolina.html",
-      "published": "Tue, 03 Nov 2026 10:23:11 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
-      "link": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
-      "published": "Tue, 03 Nov 2026 19:02:36 +0000",
-      "sentiment": 0.025
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/heres-the-latest",
-      "published": "Tue, 03 Nov 2026 22:22:10 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Trump’s Immigration Dragnet Sweeps Up Ukrainian Truckers Who Fled War",
-      "link": "https://www.nytimes.com/2026/11/03/us/ukraine-immigrant-trucker-cdl-weigh-stations-ice.html",
-      "published": "Tue, 03 Nov 2026 10:00:17 +0000",
-      "sentiment": -0.15
-    },
-    {
-      "title": "Colleges Are Tempting Other Schools’ Donors to Give to Them Instead",
-      "link": "https://www.nytimes.com/2026/11/03/us/colleges-unaffiliated-donors.html",
-      "published": "Tue, 03 Nov 2026 10:00:10 +0000",
-      "sentiment": 0.17045454545454544
-    },
-    {
-      "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
-      "published": "Tue, 03 Nov 2026 19:22:51 +0000",
-      "sentiment": -0.023809523809523808
-    },
-    {
-      "title": "Judge Declines to Halt D.H.S. Demands for States to Screen Ballots",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-elections-ballots-states-dhs.html",
-      "published": "Tue, 03 Nov 2026 03:42:30 +0000",
-      "sentiment": 0.15714285714285714
-    },
-    {
-      "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
-      "published": "Tue, 03 Nov 2026 16:51:07 +0000",
-      "sentiment": 0.13333333333333333
     }
   ]
 }
