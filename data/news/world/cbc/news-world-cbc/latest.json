@@ -1,16 +1,46 @@
 {
   "entries": [
     {
-      "title": "U.S. midterms fallout: JD Vance blames Iran war for Republicans' blowout loss",
+      "title": "Trump says it's 'largely true' Iran war led to Republican midterm losses",
       "link": "https://www.cbc.ca/news/world/livestory/us-midterm-election-results-reaction-live-updates-november-4-2026-9.7408406?cmp=rss",
       "published": "Wed, 27 May 2026 12:12:48 EDT",
-      "sentiment": 0.0
+      "sentiment": 0.35
     },
     {
       "title": "Iranian officials welcome U.S. midterm results after voters rebuke Trump administration, Iran war",
       "link": "https://www.cbc.ca/news/world/iran-united-states-midterm-results-trump-9.7408499?cmp=rss",
       "published": "Wed, 04 Nov 2026 07:54:34 EST",
       "sentiment": 0.16428571428571428
+    },
+    {
+      "title": "Questions arise over emergency treatment given to Spanish soccer player in fatal collision",
+      "link": "https://www.cbc.ca/sports/soccer/jesus-de-miguel-treatment-fatal-collision-soccer-9.7409300?cmp=rss",
+      "published": "Wed, 04 Nov 2026 14:14:58 EST",
+      "sentiment": 0.015476190476190477
+    },
+    {
+      "title": "Kellogg's Rice Krispies changed its U.K. recipe, muffling its iconic snap, crackle and pop",
+      "link": "https://www.cbc.ca/news/business/rice-krispies-changes-recipe-rice-9.7408568?cmp=rss",
+      "published": "Wed, 04 Nov 2026 14:04:53 EST",
+      "sentiment": 0.2333333333333333
+    },
+    {
+      "title": "China extends tariff relief for Canadian canola, lobster and crab",
+      "link": "https://www.cbc.ca/news/politics/china-extends-tariff-relief-seafood-canola-9.7409066?cmp=rss",
+      "published": "Wed, 04 Nov 2026 13:02:31 EST",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Jimmy Kimmel roasts Trump in late night monologue amid 'blue tsunami' midterms",
+      "link": "https://www.cbc.ca/news/entertainment/jimmy-kimmel-monologue-slams-donald-trump-9.7409167?cmp=rss",
+      "published": "Wed, 04 Nov 2026 13:39:04 EST",
+      "sentiment": -0.049368686868686874
+    },
+    {
+      "title": "Elon Musk gets little bang for his buck in U.S. midterms, with possible Democratic investigations to come",
+      "link": "https://www.cbc.ca/news/world/us-midterms-elon-musk-9.7409000?cmp=rss",
+      "published": "Wed, 04 Nov 2026 13:28:27 EST",
+      "sentiment": 0.0886904761904762
     },
     {
       "title": "Israeli president accepts certified election results after commission denies voter fraud",
@@ -83,42 +113,6 @@
       "link": "https://www.cbc.ca/news/world/putin-ukraine-russia-military-peace-talks-9.7405910?cmp=rss",
       "published": "Tue, 03 Nov 2026 04:00:00 EST",
       "sentiment": -0.10555555555555556
-    },
-    {
-      "title": "String of bomb threats on flights, cruise ship disrupt travel across Europe",
-      "link": "https://www.cbc.ca/news/world/warsaw-poland-airports-bomb-threat-flight-9.7406876?cmp=rss",
-      "published": "Tue, 03 Nov 2026 08:25:24 EST",
-      "sentiment": -0.06
-    },
-    {
-      "title": "Canadian dentist detained by ICE in Minnesota released after federal court ruling",
-      "link": "https://www.cbc.ca/news/canada/canadian-dentist-ice-arrest-released-9.7406391?cmp=rss",
-      "published": "Mon, 02 Nov 2026 18:31:22 EST",
-      "sentiment": 0.03727272727272727
-    },
-    {
-      "title": "Canadians Paul Anka, David Foster to receive Kennedy Center honours next month",
-      "link": "https://www.cbc.ca/news/entertainment/kennedy-center-anka-foster-9.7406813?cmp=rss",
-      "published": "Tue, 03 Nov 2026 07:25:05 EST",
-      "sentiment": -0.028125000000000004
-    },
-    {
-      "title": "Ryan Wedding's $40M US motorbike collection to go up for auction",
-      "link": "https://www.cbc.ca/news/world/ryan-wedding-motorcycle-auction-mexico-9.7406052?cmp=rss",
-      "published": "Tue, 03 Nov 2026 04:00:00 EST",
-      "sentiment": 0.005555555555555554
-    },
-    {
-      "title": "Vivienne Jolie drops dad Brad Pitt's last name, following 3 other siblings",
-      "link": "https://www.cbc.ca/news/entertainment/vivienne-jolie-brad-pitt-name-change-9.7407340?cmp=rss",
-      "published": "Tue, 03 Nov 2026 12:17:51 EST",
-      "sentiment": 0.001623376623376622
-    },
-    {
-      "title": "Dancing with the Stars 'shock' as fan favourite sent packing",
-      "link": "https://www.cbc.ca/news/entertainment/dancing-with-the-stars-disney-night-elimination-9.7407533?cmp=rss",
-      "published": "Tue, 03 Nov 2026 14:30:58 EST",
-      "sentiment": 0.02812500000000001
     }
   ]
 }
