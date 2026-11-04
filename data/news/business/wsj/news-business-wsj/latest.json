@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "News Corp Revenue Rises, With Growth Across Most Segments",
+      "link": "https://www.wsj.com/business/media/news-corp-nwsa-q1-earnings-report-2027-stock-4545e08f?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 22:28:00 GMT",
+      "sentiment": 0.16666666666666669
+    },
+    {
       "title": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 20:49:00 GMT",
@@ -28,12 +34,6 @@
       "title": "What Changes (or Doesn’t) Now?",
       "link": "https://www.wsj.com/articles/what-changes-or-doesnt-now-ec1724d1?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 11:09:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
-      "link": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 11:03:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,6 +67,24 @@
       "sentiment": 0.0
     },
     {
+      "title": "Zillow Traffic Slides as High Mortgage Rates Freeze Housing Market",
+      "link": "https://www.wsj.com/business/earnings/zillow-revenue-rises-as-rentals-help-offset-weak-market-for-home-sales-02fc9d5e?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 22:47:00 GMT",
+      "sentiment": 0.16
+    },
+    {
+      "title": "Cava Group Sales Slump on Cyclospora Outbreak, Profit Down on Higher Costs",
+      "link": "https://www.wsj.com/business/earnings/cava-group-raises-same-restaurant-sales-view-on-higher-revenue-d7956af6?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 22:17:00 GMT",
+      "sentiment": 0.05486111111111111
+    },
+    {
+      "title": "FICO Declines to Share Guidance Amid Price Structure Change",
+      "link": "https://www.wsj.com/business/earnings/fico-declines-to-share-guidance-amid-price-structure-change-27edfe82?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 21:52:00 GMT",
+      "sentiment": -0.03214285714285714
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-971ddf6d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 17:25:00 GMT",
@@ -79,52 +97,34 @@
       "sentiment": 0.0
     },
     {
-      "title": "Applebee’s Owner Dine Brands Logs Higher Sales, Profit Slips",
-      "link": "https://www.wsj.com/business/earnings/applebees-owner-dine-brands-logs-higher-sales-profit-slips-64a3c3e1?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 12:40:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "CVS Raises Forecast on Health Care Benefits, Pharmacy Gains",
-      "link": "https://www.wsj.com/health/healthcare/cvs-raises-forecast-on-health-care-benefits-pharmacy-gains-d2ed0507?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 11:42:00 GMT",
-      "sentiment": 0.08
-    },
-    {
-      "title": "Pandora’s Shares Jump as Sales Continue to Rise Ahead of Festive Season",
-      "link": "https://www.wsj.com/business/retail/pandora-lifts-outlook-ahead-of-peak-festive-season-890f46f0?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-abf035dd?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 17:32:00 GMT",
+      "published": "Wed, 04 Nov 2026 22:05:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains",
+      "link": "https://www.wsj.com/business/earnings/qualcomm-revenue-falls-as-handset-slowdown-offsets-automotive-gains-dd021608?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 21:34:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Arm Holdings Sales Climb 27% on AI Demand",
+      "link": "https://www.wsj.com/business/earnings/arm-holdings-sales-climb-27-on-ai-demand-206782b6?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 21:20:00 GMT",
+      "sentiment": 0.4166666666666667
+    },
+    {
+      "title": "Expedia Raises Outlook Following Higher Profit, Sales",
+      "link": "https://www.wsj.com/business/earnings/expedia-raises-outlook-following-higher-profit-sales-6556d0a2?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 21:09:00 GMT",
+      "sentiment": 0.02777777777777778
     },
     {
       "title": "Datadog Says Lower Usage From Major AI Customer Is Weighing on Growth",
       "link": "https://www.wsj.com/business/earnings/datadog-says-lower-usage-from-major-ai-customer-is-weighing-on-growth-ef50184f?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 17:15:00 GMT",
       "sentiment": 0.020833333333333332
-    },
-    {
-      "title": "New York Times Revenue Rises on Digital Subscriber Gains",
-      "link": "https://www.wsj.com/business/earnings/new-york-times-revenue-rises-on-digital-subscriber-gains-f175f8a6?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 12:59:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Kraft Heinz Boosts Full-Year Sales View",
-      "link": "https://www.wsj.com/business/earnings/kraft-heinz-boosts-full-year-sales-view-ea6a2b28?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 12:46:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "McDonald’s Profit Climbs Despite Continued Sluggish Domestic Sales",
-      "link": "https://www.wsj.com/business/earnings/mcdonalds-profit-climbs-despite-continued-sluggish-domestic-sales-ba5eaafe?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 12:13:00 GMT",
-      "sentiment": 0.15833333333333333
     },
     {
       "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
@@ -195,8 +195,14 @@
     {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-2357fb44?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 17:28:00 GMT",
-      "sentiment": 0.1
+      "published": "Wed, 04 Nov 2026 22:02:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "U.S. Natural Gas Futures Rise for Second Session",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-for-second-session-1bce85ae?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 21:50:00 GMT",
+      "sentiment": 0.06666666666666667
     },
     {
       "title": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rebounds-after-mondays-drop-3ac50c0d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 20:58:00 GMT",
       "sentiment": 0.153125
-    },
-    {
-      "title": "Saudi Aramco Profit Surges, Offering Some Relief to Kingdom’s Finances",
-      "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-surges-offering-some-relief-to-kindgoms-finances-da309d56?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 08:31:00 GMT",
-      "sentiment": 0.010000000000000009
     },
     {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
@@ -433,6 +433,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+      "link": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 11:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Beer Companies Stole Happy Hour From Liquor Brands",
       "link": "https://www.wsj.com/business/retail/how-beer-companies-stole-happy-hour-from-liquor-brands-342e96c7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 10:30:00 GMT",
@@ -457,22 +463,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "The Family Behind Some of the World’s Rarest Pearls",
-      "link": "https://www.wsj.com/style/paspaley-pearls-21d041ae?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 20:00:00 GMT",
-      "sentiment": -0.00833333333333334
+      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
+      "link": "https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 15:55:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
       "link": "https://www.wsj.com/business/retail/americans-cut-back-on-boats-and-rvsbut-cant-stop-buying-harley-davidsons-3db7bb4b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 10:48:00 GMT",
       "sentiment": 0.1965909090909091
-    },
-    {
-      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
-      "link": "https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 15:55:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It.",
