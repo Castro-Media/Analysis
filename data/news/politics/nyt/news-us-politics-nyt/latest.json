@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Trump Says in Interview That He Will Accept Election Results",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-somber-white-house.html",
+      "published": "Wed, 04 Nov 2026 03:49:22 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Democrats Flip South Carolina Senate Seat",
+      "link": "https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html",
+      "published": "Wed, 04 Nov 2026 03:36:53 +0000",
+      "sentiment": 0.08333333333333333
+    },
+    {
       "title": "Democrats Flip North Carolina Senate Seat",
       "link": "https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html",
-      "published": "Wed, 04 Nov 2026 02:46:56 +0000",
+      "published": "Wed, 04 Nov 2026 03:34:09 +0000",
       "sentiment": 0.22999999999999998
     },
     {
@@ -69,7 +81,7 @@
     {
       "title": "Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/alaska-investigation-target-letters-democrats.html",
-      "published": "Wed, 04 Nov 2026 01:03:49 +0000",
+      "published": "Wed, 04 Nov 2026 01:03:50 +0000",
       "sentiment": 0.15000000000000002
     },
     {
@@ -99,7 +111,7 @@
     {
       "title": "Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year",
       "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html",
-      "published": "Tue, 03 Nov 2026 21:52:37 +0000",
+      "published": "Tue, 03 Nov 2026 21:52:38 +0000",
       "sentiment": 0.3333333333333333
     },
     {
@@ -161,12 +173,6 @@
       "link": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html",
       "published": "Tue, 03 Nov 2026 19:22:51 +0000",
       "sentiment": -0.023809523809523808
-    },
-    {
-      "title": "Judge Declines to Halt D.H.S. Demands for States to Screen Ballots",
-      "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-elections-ballots-states-dhs.html",
-      "published": "Tue, 03 Nov 2026 03:42:30 +0000",
-      "sentiment": 0.15714285714285714
     }
   ]
 }
