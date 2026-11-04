@@ -61,6 +61,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.11818181818181818
+    },
+    {
       "title": "Which races might predict a 'blue wave'? Here's what to watch",
       "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -73,22 +85,10 @@
       "sentiment": -0.12000000000000002
     },
     {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
-    },
-    {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
-    },
-    {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
     },
     {
       "title": "California officials brace for unprecedented election interference by Trump administration",
@@ -211,16 +211,16 @@
       "sentiment": 0.025
     },
     {
-      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": -0.11851851851851854
+    },
+    {
+      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
@@ -259,16 +259,16 @@
       "sentiment": -0.43333333333333335
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
-    },
-    {
       "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
       "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.08
+    },
+    {
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.14166666666666666
     },
     {
       "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
@@ -397,6 +397,12 @@
       "sentiment": 0.275
     },
     {
+      "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
+      "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
+      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash",
       "link": "https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
@@ -407,12 +413,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-25/that-ramaswamy-ad-is-repugnant-it-will-eventually-be-seen-as-gift-to-trump",
       "published": "Sun, 25 Oct 2026 10:00:00 GMT",
       "sentiment": -0.24722222222222223
-    },
-    {
-      "title": "As vote nears, Trump's AI gamble fuels economic uncertainty",
-      "link": "https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty",
-      "published": "Sun, 25 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Hope and despair simmer among California Republicans ahead of election day",
@@ -457,6 +457,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.75
+    },
+    {
       "title": "Trump ramps up fraud investigations of immigrants as election approaches",
       "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
@@ -467,12 +473,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.75
     },
     {
       "title": "Judge limits election-related immigration stops amid broader legal war ahead of midterms",
