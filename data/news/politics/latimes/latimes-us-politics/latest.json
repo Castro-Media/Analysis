@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "title": "Democrats sweep California's down-ballot races but one remains too close to call",
+      "link": "https://www.latimes.com/california/story/2026-11-04/democrats-sweep-californias-down-ballot-races-but-one-remains-too-close-to-call",
+      "published": "Wed, 4 Nov 2026 22:34:48 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "'Kornacki Cam' is the streaming hit of the midterm elections, boosting NBC",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-11-04/kornacki-cam-is-streaming-hit-of-midterm-elections-boosting-nbc",
+      "published": "Wed, 4 Nov 2026 21:47:45 GMT",
+      "sentiment": 0.4
+    },
+    {
+      "title": "How Marissa Roy plans to transform the L.A. city attorney's office",
+      "link": "https://www.latimes.com/california/story/2026-11-04/marissa-roy-la-city-attorneys-office-plan",
+      "published": "Wed, 4 Nov 2026 21:43:07 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "Paul Pelosi barred from driving for six months after Napa hit-and-run crash",
+      "link": "https://www.latimes.com/california/story/2026-11-04/paul-pelosi-barred-from-driving-for-six-months-after-napa-hit-and-run-crash",
+      "published": "Wed, 4 Nov 2026 21:11:10 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "How Robert Luna toppled Alex Villanueva to win two terms as L.A. County sheriff",
+      "link": "https://www.latimes.com/california/story/2026-11-04/robert-luna-alex-villanueva-la-county-sheriff-second-term",
+      "published": "Wed, 4 Nov 2026 21:07:54 GMT",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Multiple California ballot measures remain undecided as vote tally continues",
+      "link": "https://www.latimes.com/california/story/2026-11-04/multiple-california-ballot-measures-remain-undecided",
+      "published": "Wed, 4 Nov 2026 20:52:22 GMT",
+      "sentiment": 0.025
+    },
+    {
       "title": "'Lawyer up': Democrats seize Congress, plot ways to rein in Trump",
       "link": "https://www.latimes.com/politics/story/2026-11-04/lawyer-up-democrats-seize-congress-plot-ways-to-rein-in-trump",
       "published": "Wed, 4 Nov 2026 19:56:45 GMT",
@@ -43,10 +79,10 @@
       "sentiment": 0.30476190476190473
     },
     {
-      "title": "Inglewood, Rams owner face likely split election result over billboards and tax",
+      "title": "Inglewood, Rams owner declare victory amid split in early billboard, tax election results",
       "link": "https://www.latimes.com/sports/rams/story/2026-11-03/inglewood-rams-owner-face-split-election-result-over-billboards",
       "published": "Wed, 4 Nov 2026 06:36:06 GMT",
-      "sentiment": -0.0625
+      "sentiment": -0.012499999999999997
     },
     {
       "title": "Billionaire tax ballot measure trails; California voters reject voter ID",
@@ -271,16 +307,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
       "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "This L.A. city board is more than 120 years old. A ballot measure could quietly hasten its end",
@@ -301,16 +337,16 @@
       "sentiment": -0.43333333333333335
     },
     {
-      "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
-      "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08
-    },
-    {
       "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.018181818181818174
+    },
+    {
+      "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
+      "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.08
     },
     {
       "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
@@ -533,48 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": -0.7333333333333333
-    },
-    {
-      "title": "Your guide to the California Congressional District 34 race: Gomez vs. Gonzales-Torres",
-      "link": "https://www.latimes.com/california/story/2026-10-21/2026-california-election-congressional-district-34-gomez-gonzales-torres-voter-guide",
-      "published": "Thu, 22 Oct 2026 02:25:03 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "As midterms near, bipartisan furor grows over Trump targeting Ukraine",
-      "link": "https://www.latimes.com/politics/story/2026-10-21/as-midterms-near-bipartisan-furor-grows-over-trump-targeting-ukraine",
-      "published": "Wed, 21 Oct 2026 20:04:50 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "'The De Los Podcast': How Latino voters will affect the 2026 midterm elections",
-      "link": "https://www.latimes.com/delos/story/2026-10-21/de-los-podcast-latino-vote-gustavo-arellano-2026-midterm-elections",
-      "published": "Wed, 21 Oct 2026 18:09:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "A California immigrant and a Nevada group, joined by top Democrats, sue over federal election probes",
-      "link": "https://www.latimes.com/politics/story/2026-10-21/top-democrats-join-california-immigrant-nevada-group-to-sue-over-federal-election-probes",
-      "published": "Wed, 21 Oct 2026 17:18:39 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Supreme Court rejects Trump's order to end hormone treatments for transgender prisoners",
-      "link": "https://www.latimes.com/politics/story/2026-10-21/supreme-court-trump-hormone-treatments-for-transgender-prisoners",
-      "published": "Wed, 21 Oct 2026 15:52:24 GMT",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Examining Becerra's quarter of a century in Washington",
-      "link": "https://www.latimes.com/politics/story/2026-10-21/becerras-time-in-washington-steady-rise-with-bumpy-final-ascent",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Lopez: Disney built the monorail in a year. LAX's people mover, almost 8, hasn't left the station",
-      "link": "https://www.latimes.com/california/story/2026-10-21/lopez-column-lax-skylink-people-mover-delays",
-      "published": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.25
     }
   ]
 }
