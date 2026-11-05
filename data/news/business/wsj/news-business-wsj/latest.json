@@ -3,8 +3,14 @@
     {
       "title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
       "link": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 08:56:00 GMT",
+      "published": "Thu, 05 Nov 2026 11:50:00 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "What Culture Can Build",
+      "link": "https://www.wsj.com/articles/what-culture-can-build-b71fa667?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 20:49:00 GMT",
       "sentiment": 0.04666666666666666
-    },
-    {
-      "title": "The Skilled Trades Are Making More Room for Women",
-      "link": "https://www.wsj.com/lifestyle/careers/the-skilled-trades-are-making-more-room-for-women-22032424?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 15:59:00 GMT",
-      "sentiment": 0.4444444444444444
     },
     {
       "title": "Ethan Allen Shareholders Hand Board Control to Activist Investor Doug Bergeron",
@@ -67,10 +67,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Johnnie Walker Maker Diageo Says It is Making Progress in Tough U.S. Booze Market",
+      "title": "Cigna Group Lifts Outlook as Revenue Climbs",
+      "link": "https://www.wsj.com/health/healthcare/cigna-group-lifts-outlook-as-revenue-climbs-066dd1a7?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 11:34:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Johnnie Walker Maker Diageo Warns U.S. Turnaround Will Take Time",
       "link": "https://www.wsj.com/business/retail/johnnie-walker-maker-diageo-says-it-is-making-progress-in-tough-u-s-booze-market-821a6c21?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 07:58:00 GMT",
-      "sentiment": -0.1257936507936508
+      "published": "Thu, 05 Nov 2026 11:33:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Americold Swings to Profit as Cold-Storage Demand Steadies",
+      "link": "https://www.wsj.com/logistics-report/americold-swings-to-profit-as-cold-storage-demand-steadies-f747d2a5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 11:31:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Zillow Traffic Slides as High Mortgage Rates Freeze Housing Market",
@@ -85,16 +97,10 @@
       "sentiment": 0.05486111111111111
     },
     {
-      "title": "FICO Declines to Share Guidance Amid Price Structure Change",
-      "link": "https://www.wsj.com/business/earnings/fico-declines-to-share-guidance-amid-price-structure-change-27edfe82?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 21:52:00 GMT",
-      "sentiment": -0.03214285714285714
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-971ddf6d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 17:25:00 GMT",
-      "sentiment": 0.5
+      "title": "Six Flags Loss Narrows but Accident Seen Weighing on Results",
+      "link": "https://www.wsj.com/business/hospitality/six-flags-loss-narrows-but-accident-seen-weighing-on-results-85b939a4?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 11:46:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 08:58:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Rheinmetall Shares Plunge After Order Delays Force Arms Maker to Trim Guidance Again",
-      "link": "https://www.wsj.com/business/earnings/rheinmetall-shares-plunge-after-order-delays-force-arms-maker-to-trim-guidance-again-87734af7?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 08:34:00 GMT",
-      "sentiment": 0.07500000000000001
     },
     {
       "title": "Toyota Raises Earnings Forecast After Higher Operating Profit",
@@ -433,6 +433,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "The Skilled Trades Are Making More Room for Women",
+      "link": "https://www.wsj.com/lifestyle/careers/the-skilled-trades-are-making-more-room-for-women-22032424?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 15:59:00 GMT",
+      "sentiment": 0.4444444444444444
+    },
+    {
       "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
       "link": "https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 15:55:00 GMT",
@@ -454,12 +460,6 @@
       "title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case",
       "link": "https://www.wsj.com/business/3m-announces-7-4-billion-settlement-in-forever-chemicals-injuries-case-17dd1e41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 00:39:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Lockheed Martin to Pay $29.5 Million to Settle Federal Probe Over Diversity Efforts",
-      "link": "https://www.wsj.com/business/lockheed-martin-to-pay-29-5-million-to-settle-federal-probe-over-diversity-efforts-fbf1adf1?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 00:36:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -487,10 +487,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Shares in Elon Musk’s SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
-      "link": "https://www.wsj.com/business/shares-in-elon-musks-spacex-tesla-fall-premarket-after-democrats-sweep-midterms-a10325e6?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 10:35:00 GMT",
-      "sentiment": -0.125
+      "title": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut",
+      "link": "https://www.wsj.com/health/healthcare/inside-cvss-decision-to-break-up-a-healthcare-juggernaut-39925a2e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 01:30:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
