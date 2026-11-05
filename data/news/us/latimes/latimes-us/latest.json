@@ -1,16 +1,16 @@
 {
   "entries": [
     {
+      "title": "L.A. businesswoman fabricated workers, salaries in COVID fraud, netted millions, prosecutors say",
+      "link": "https://www.latimes.com/california/story/2026-11-05/la-businesswoman-indicted-in-alleged-18m-covid-relief-fraud-scheme",
+      "published": "Thu, 5 Nov 2026 12:00:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
       "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.11742424242424243
-    },
-    {
-      "title": "Why California's billionaire tax failed to get the support many had anticipated",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.049999999999999996
     },
     {
       "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
@@ -19,16 +19,22 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
-      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
       "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "Why California's billionaire tax failed to get the support many had anticipated",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
+      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Amid controversy, California greenlights the state's first large reservoir in decades",
@@ -277,6 +283,24 @@
       "sentiment": 0.16545454545454544
     },
     {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.016666666666666673
+    },
+    {
+      "title": "L.A.'s next mayor faces high expectations, little room for error",
+      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.006874999999999999
+    },
+    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -287,24 +311,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
-    },
-    {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "L.A.'s next mayor faces high expectations, little room for error",
-      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.006874999999999999
-    },
-    {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
@@ -463,6 +469,12 @@
       "sentiment": -0.10000000000000002
     },
     {
+      "title": "Your last-minute guide to L.A. City Council races: Districts 3 and 9",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-city-council-district-3-9-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Your last-minute guide to L.A. County Charter Amendment A",
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-charter-amendment-a-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
@@ -473,12 +485,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-state-schools-superintendent-community-college-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Your last-minute guide to L.A. City Council races: Districts 3 and 9",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-city-council-district-3-9-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
@@ -493,6 +499,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Your last-minute guide to all California propositions",
+      "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.10500000000000001
+    },
+    {
       "title": "Your last-minute guide to obscure but important statewide races in California",
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-lesser-known-races-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
@@ -505,40 +517,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to all California propositions",
-      "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.10500000000000001
-    },
-    {
-      "title": "Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department",
-      "link": "https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva",
+      "title": "Two competitive L.A. City Council seats are on the Nov. 3 ballot",
+      "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Proposed billionaire tax could impact California sports teams",
-      "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "A tribe returns, joyful, to 51 acres in the San Gabriel foothills",
-      "link": "https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.125
     },
     {
       "title": "Inside the local ballot measures L.A. will vote on in the Nov. 3 election",
       "link": "https://www.latimes.com/california/story/2026-10-31/inside-local-ballot-measures-la-will-vote-on-in-nov-3-election",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Two competitive L.A. City Council seats are on the Nov. 3 ballot",
-      "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Raman says the LAPD has grown more secretive under Chief Jim McDonnell. Has it?",
@@ -553,16 +541,28 @@
       "sentiment": 0.225
     },
     {
+      "title": "Proposed billionaire tax could impact California sports teams",
+      "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department",
+      "link": "https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A tribe returns, joyful, to 51 acres in the San Gabriel foothills",
+      "link": "https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "A pregnant woman killed, 6 injured in Bay Area Spirit Halloween shooting",
       "link": "https://www.latimes.com/story/2026-10-31/one-person-killed-six-injured-in-shooting-at-spirit-halloween-store",
       "published": "Sat, 31 Oct 2026 07:09:34 GMT",
       "sentiment": -0.09166666666666667
-    },
-    {
-      "title": "Justice Dept. sent subpoenas to L.A. election officials. What that means and what happens next",
-      "link": "https://www.latimes.com/california/story/2026-10-30/trump-doj-la-election-officials-subpoenas-explained",
-      "published": "Sat, 31 Oct 2026 03:08:44 GMT",
-      "sentiment": 0.019999999999999997
     }
   ]
 }

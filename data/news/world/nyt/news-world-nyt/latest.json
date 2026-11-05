@@ -13,6 +13,12 @@
       "sentiment": 0.04444444444444443
     },
     {
+      "title": "New Series of Bomb Threats Disrupts Flights in Europe",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+      "published": "Thu, 05 Nov 2026 12:37:56 +0000",
+      "sentiment": 0.3181818181818182
+    },
+    {
       "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
       "published": "Thu, 05 Nov 2026 05:01:06 +0000",
@@ -25,10 +31,10 @@
       "sentiment": 0.1090909090909091
     },
     {
-      "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
+      "title": "After Riots and Protests, French Workers Are Going on Strike",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-      "published": "Thu, 05 Nov 2026 10:06:44 +0000",
-      "sentiment": 0.17500000000000002
+      "published": "Thu, 05 Nov 2026 12:41:39 +0000",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
@@ -71,12 +77,6 @@
       "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
       "published": "Wed, 04 Nov 2026 22:04:04 +0000",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
-      "published": "Wed, 04 Nov 2026 13:18:58 +0000",
-      "sentiment": 0.025
     },
     {
       "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
@@ -131,6 +131,12 @@
       "link": "https://www.nytimes.com/2026/11/04/world/europe/chinese-restaurant-edinburgh-viral-social-media.html",
       "published": "Wed, 04 Nov 2026 15:15:05 +0000",
       "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+      "published": "Wed, 04 Nov 2026 13:18:58 +0000",
+      "sentiment": 0.025
     },
     {
       "title": "U.K. Supreme Court Hears Challenge to Ban on Palestine Action: What to Know",
@@ -317,12 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
       "published": "Mon, 02 Nov 2026 16:48:13 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-      "published": "Tue, 03 Nov 2026 16:32:56 +0000",
-      "sentiment": -0.125
     }
   ]
 }
