@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Sinks 5% as Investors Ditch Chip, Data-Center Stocks",
+      "title": "Stock Market Today: Nasdaq Sinks 4% as Investors Retreat From AI Trade After Election",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 09:25:53 GMT",
-      "sentiment": -0.1
+      "sentiment": 0.2
     },
     {
       "title": "Will AI Throttle the Retirement Money Machine?",
@@ -103,6 +103,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-to-eight-week-lows-as-markets-digest-midterm-results-7effce3e?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 16:37:00 GMT",
+      "sentiment": -0.03125
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d66d00d9?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 12:20:00 GMT",
@@ -125,12 +131,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-791ec72d?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 12:03:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 11:56:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "European Defense Stocks Under Pressure After Mixed Earnings, Midterm Results",
@@ -199,28 +199,28 @@
       "sentiment": 0.39166666666666666
     },
     {
+      "title": "Gold Futures Extend Post-Midterm Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 16:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Natural Gas Inventories Rise By 77 Billion Cubic Feet",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-slides-mirroring-oil-in-aftermath-of-democratic-sweep-70661a9a?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 16:33:00 GMT",
+      "sentiment": 0.09
+    },
+    {
       "title": "Oil Futures Recover Some Lost Ground",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 15:03:00 GMT",
       "sentiment": -0.12222222222222223
     },
     {
-      "title": "U.S. Natural Gas Futures Slip Ahead of Storage Data",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-slides-mirroring-oil-in-aftermath-of-democratic-sweep-70661a9a?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 14:08:00 GMT",
-      "sentiment": 0.008333333333333338
-    },
-    {
       "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
       "link": "https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 08:58:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Gold Climbs to Two-Week High on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 08:16:00 GMT",
-      "sentiment": 0.3066666666666667
     },
     {
       "title": "Basic Materials Roundup: Market Talk",

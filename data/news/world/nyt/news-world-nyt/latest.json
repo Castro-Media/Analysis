@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+      "link": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+      "published": "Thu, 05 Nov 2026 16:06:45 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+      "published": "Thu, 05 Nov 2026 16:34:55 +0000",
+      "sentiment": 0.225
+    },
+    {
+      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
+      "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+      "published": "Thu, 05 Nov 2026 16:42:05 +0000",
+      "sentiment": 0.275
+    },
+    {
       "title": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
       "published": "Thu, 05 Nov 2026 15:41:34 +0000",
@@ -13,16 +31,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "American Is Convicted of Murder in Case That Gripped Italy",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
+      "published": "Thu, 05 Nov 2026 16:33:59 +0000",
+      "sentiment": -0.025
+    },
+    {
       "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
       "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
-      "published": "Thu, 05 Nov 2026 15:12:01 +0000",
+      "published": "Thu, 05 Nov 2026 16:35:52 +0000",
       "sentiment": 0.04722222222222222
     },
     {
       "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-      "published": "Thu, 05 Nov 2026 14:56:55 +0000",
-      "sentiment": 0.11000000000000001
+      "published": "Thu, 05 Nov 2026 16:51:34 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
@@ -55,30 +79,6 @@
       "sentiment": 0.1090909090909091
     },
     {
-      "title": "After Riots and Protests, French Workers Are Going on Strike",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-      "published": "Thu, 05 Nov 2026 12:41:39 +0000",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
-      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-      "published": "Thu, 05 Nov 2026 13:02:20 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
-      "published": "Thu, 05 Nov 2026 06:56:25 +0000",
-      "sentiment": 0.1875
-    },
-    {
-      "title": "The New Zealand Election That Could ‘Flip the Table’",
-      "link": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
-      "published": "Thu, 05 Nov 2026 08:11:46 +0000",
-      "sentiment": 0.0872159090909091
-    },
-    {
       "title": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
       "link": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
       "published": "Thu, 05 Nov 2026 15:02:06 +0000",
@@ -91,16 +91,40 @@
       "sentiment": 0.025
     },
     {
-      "title": "Bob Dylan Meets With Pope Leo",
-      "link": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
-      "published": "Wed, 04 Nov 2026 23:14:39 +0000",
-      "sentiment": -0.125
+      "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+      "published": "Thu, 05 Nov 2026 16:21:17 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "After Riots and Protests, French Workers Are Going on Strike",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+      "published": "Thu, 05 Nov 2026 16:22:30 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The New Zealand Election That Could ‘Flip the Table’",
+      "link": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
+      "published": "Thu, 05 Nov 2026 08:11:46 +0000",
+      "sentiment": 0.0872159090909091
+    },
+    {
+      "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+      "published": "Thu, 05 Nov 2026 06:56:25 +0000",
+      "sentiment": 0.1875
     },
     {
       "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
       "link": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
       "published": "Thu, 05 Nov 2026 00:30:33 +0000",
       "sentiment": 0.06666666666666665
+    },
+    {
+      "title": "Bob Dylan Meets With Pope Leo",
+      "link": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+      "published": "Wed, 04 Nov 2026 23:14:39 +0000",
+      "sentiment": -0.125
     },
     {
       "title": "A Trump Reckoning",
@@ -293,30 +317,6 @@
       "link": "https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html",
       "published": "Tue, 03 Nov 2026 10:03:31 +0000",
       "sentiment": -0.068
-    },
-    {
-      "title": "Drones Emerge as the Top Killer of Civilians in Sudan’s War",
-      "link": "https://www.nytimes.com/2026/11/03/world/africa/sudan-drone-civilians-nyala.html",
-      "published": "Tue, 03 Nov 2026 10:03:19 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Australian Court Hears Challenge to Social Media Ban",
-      "link": "https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html",
-      "published": "Tue, 03 Nov 2026 19:18:57 +0000",
-      "sentiment": 0.10555555555555556
-    },
-    {
-      "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
-      "link": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
-      "published": "Mon, 02 Nov 2026 21:19:00 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "America Votes",
-      "link": "https://www.nytimes.com/2026/11/02/world/midterm-elections-questions-trump-fifa.html",
-      "published": "Tue, 03 Nov 2026 06:17:48 +0000",
-      "sentiment": -0.3125
     }
   ]
 }
