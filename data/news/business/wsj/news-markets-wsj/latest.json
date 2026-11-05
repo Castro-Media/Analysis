@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Slides as Investors Reassess Some Trades Post-Midterms",
+      "title": "Stock Market Today: Nasdaq Sinks 5% as Investors Ditch Chip, Data-Center Stocks",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 09:25:53 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.1
     },
     {
       "title": "Will AI Throttle the Retirement Money Machine?",
@@ -133,12 +133,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates",
-      "link": "https://www.wsj.com/finance/stocks/ai-selloff-extends-treasurys-gain-as-blue-wave-reverberates-2d60fa21?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 09:46:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "European Defense Stocks Under Pressure After Mixed Earnings, Midterm Results",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-7-led-by-auto-pharma-stocks-f42def12?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 09:24:00 GMT",
@@ -161,6 +155,12 @@
       "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 19:16:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-971ddf6d?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 17:25:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Opinion | The Virgin Islands in Crisis",
@@ -199,16 +199,16 @@
       "sentiment": 0.39166666666666666
     },
     {
+      "title": "Oil Futures Recover Some Lost Ground",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 15:03:00 GMT",
+      "sentiment": -0.12222222222222223
+    },
+    {
       "title": "U.S. Natural Gas Futures Slip Ahead of Storage Data",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-slides-mirroring-oil-in-aftermath-of-democratic-sweep-70661a9a?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 14:08:00 GMT",
       "sentiment": 0.008333333333333338
-    },
-    {
-      "title": "A Fifth of Global Refineries at Risk as Oil Demand Peaks in 2032, Wood Mackenzie Says",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 09:30:00 GMT",
-      "sentiment": -0.075
     },
     {
       "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",

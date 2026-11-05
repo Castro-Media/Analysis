@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
+      "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_worldnews",
+      "published": "Thu, 05 Nov 2026 15:15:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
       "link": "https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 10:49:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/the-billions-of-dollars-in-orders-complicating-an-end-to-u-s-aid-to-israel-7e0b5fba?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 01:00:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "What a Democratic Congress Means for Trump’s Foreign-Policy Agenda",
-      "link": "https://www.wsj.com/world/what-a-democratic-congress-means-for-trumps-foreign-policy-agenda-19b05b61?mod=rss_worldnews",
-      "published": "Wed, 04 Nov 2026 21:01:00 GMT",
-      "sentiment": -0.3125
     },
     {
       "title": "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
@@ -193,10 +193,10 @@
       "sentiment": 0.6
     },
     {
-      "title": "Flights Across Europe Diverted After Bomb Threats",
+      "title": "Bomb Threats Cause Diverted Flights, Emergency Landings Across Europe",
       "link": "https://www.wsj.com/business/airlines/flights-across-europe-diverted-after-bomb-threats-2e860a9c?mod=rss_worldnews",
-      "published": "Thu, 05 Nov 2026 12:47:00 GMT",
-      "sentiment": 0.25
+      "published": "Thu, 05 Nov 2026 15:53:00 GMT",
+      "sentiment": 0.2222222222222222
     },
     {
       "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "What a Democratic Congress Means for Trump’s Foreign-Policy Agenda",
+      "link": "https://www.wsj.com/world/what-a-democratic-congress-means-for-trumps-foreign-policy-agenda-19b05b61?mod=rss_worldnews",
+      "published": "Wed, 04 Nov 2026 21:01:00 GMT",
+      "sentiment": -0.3125
     },
     {
       "title": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
