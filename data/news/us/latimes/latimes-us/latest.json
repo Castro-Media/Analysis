@@ -1,10 +1,34 @@
 {
   "entries": [
     {
+      "title": "How Mayor-elect Raman will remake L.A. City Hall",
+      "link": "https://www.latimes.com/california/story/2026-11-05/how-mayor-raman-will-remake-la-city-hall",
+      "published": "Thu, 5 Nov 2026 19:40:37 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nithya Raman defeats Bass to become next L.A. mayor",
+      "link": "https://www.latimes.com/california/story/2026-11-05/nithya-raman-defeats-bass-to-become-next-la-mayor",
+      "published": "Thu, 5 Nov 2026 19:32:09 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Chabria: Newsom wants to empty death row. Most politicians wouldn't bother — or dare",
+      "link": "https://www.latimes.com/california/story/2026-11-05/newsom-wants-to-empty-death-row-most-politicians-wouldnt-bother-or-dare",
+      "published": "Thu, 5 Nov 2026 19:27:35 GMT",
+      "sentiment": 0.12
+    },
+    {
+      "title": "Newsom moves to commute all California death sentences to life in prison without parole",
+      "link": "https://www.latimes.com/california/story/2026-11-05/newsom-commute-california-death-sentences",
+      "published": "Thu, 5 Nov 2026 19:21:59 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Prominent L.A. gang interventionist Skipp Townsend arrested in alleged murder conspiracy",
       "link": "https://www.latimes.com/california/story/2026-11-05/la-gang-interventionist-skipp-townsend-arrested",
       "published": "Thu, 5 Nov 2026 18:06:12 GMT",
-      "sentiment": 0.09166666666666667
+      "sentiment": 0.2
     },
     {
       "title": "SoCal restaurant owner was killed in botched kidnapping. Family has justice 28 years later",
@@ -19,22 +43,10 @@
       "sentiment": 0.1
     },
     {
-      "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
-      "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
       "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
-      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
@@ -47,6 +59,18 @@
       "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.016666666666666663
+    },
+    {
+      "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
+      "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
+      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Amid controversy, California greenlights the state's first large reservoir in decades",
@@ -533,36 +557,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Inside the local ballot measures L.A. will vote on in the Nov. 3 election",
-      "link": "https://www.latimes.com/california/story/2026-10-31/inside-local-ballot-measures-la-will-vote-on-in-nov-3-election",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Raman says the LAPD has grown more secretive under Chief Jim McDonnell. Has it?",
-      "link": "https://www.latimes.com/california/story/2026-10-31/lapd-chief-jim-mcdonnell-public-records-crime-stats-secrecy",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "Arellano: This is the prayer Catholic bishops should have offered to Trump",
-      "link": "https://www.latimes.com/california/story/2026-10-31/prayer-trump-catholic-bishops",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.225
-    },
-    {
-      "title": "Proposed billionaire tax could impact California sports teams",
-      "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department",
-      "link": "https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
     }
   ]
 }
