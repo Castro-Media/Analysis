@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+      "published": "Thu, 05 Nov 2026 11:04:18 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
       "link": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
       "published": "Thu, 05 Nov 2026 10:23:51 +0000",
@@ -8,9 +14,15 @@
     },
     {
       "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
       "published": "Thu, 05 Nov 2026 05:01:06 +0000",
       "sentiment": 0.17222222222222222
+    },
+    {
+      "title": "Everyone’s Talking About the ‘Blue Tsunami.’ In Japan, It’s Complicated.",
+      "link": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
+      "published": "Thu, 05 Nov 2026 11:48:56 +0000",
+      "sentiment": 0.1090909090909091
     },
     {
       "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
@@ -21,7 +33,7 @@
     {
       "title": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
       "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
-      "published": "Thu, 05 Nov 2026 09:13:51 +0000",
+      "published": "Thu, 05 Nov 2026 10:56:11 +0000",
       "sentiment": 0.25
     },
     {
@@ -67,18 +79,6 @@
       "sentiment": 0.025
     },
     {
-      "title": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
-      "link": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-      "published": "Wed, 04 Nov 2026 10:23:53 +0000",
-      "sentiment": 0.11111111111111112
-    },
-    {
-      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "published": "Wed, 04 Nov 2026 16:26:33 +0000",
-      "sentiment": 0.5
-    },
-    {
       "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
       "published": "Thu, 05 Nov 2026 10:04:44 +0000",
@@ -113,6 +113,12 @@
       "link": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
       "published": "Wed, 04 Nov 2026 18:23:57 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
+      "link": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
+      "published": "Wed, 04 Nov 2026 10:23:53 +0000",
+      "sentiment": 0.11111111111111112
     },
     {
       "title": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
@@ -161,6 +167,12 @@
       "link": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
       "published": "Tue, 03 Nov 2026 23:03:45 +0000",
       "sentiment": -0.2
+    },
+    {
+      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
+      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
+      "published": "Wed, 04 Nov 2026 16:26:33 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
@@ -311,24 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
       "published": "Tue, 03 Nov 2026 16:32:56 +0000",
       "sentiment": -0.125
-    },
-    {
-      "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-      "link": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-      "published": "Mon, 02 Nov 2026 20:30:58 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-      "published": "Mon, 02 Nov 2026 19:37:04 +0000",
-      "sentiment": 0.325
-    },
-    {
-      "title": "Do Animals Grieve?",
-      "link": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
-      "published": "Mon, 02 Nov 2026 19:42:22 +0000",
-      "sentiment": -0.05833333333333333
     }
   ]
 }
