@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "How Illinois voted in the race for secretary of state",
+      "link": "https://www.chicagotribune.com/2026/11/04/how-illinois-voted-in-the-race-for-secretary-of-state/",
+      "published": "Wed, 04 Nov 2026 23:45:32 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Illinois voted in the race for comptroller",
+      "link": "https://www.chicagotribune.com/2026/11/04/how-illinois-voted-in-the-race-for-comptroller/",
+      "published": "Wed, 04 Nov 2026 23:15:20 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Illinois voted in the race for attorney general",
       "link": "https://www.chicagotribune.com/2026/11/04/how-illinois-voted-in-the-race-for-attorney-general/",
       "published": "Wed, 04 Nov 2026 22:45:44 +0000",
@@ -211,7 +223,7 @@
       "sentiment": 0.5
     },
     {
-      "title": "State Rep. Julie Olthoff trailing in re-election bid to Democrat Nicholas Neal",
+      "title": "Democrat Nicholas Neal holds slim lead on State Rep. Julie Olthoff",
       "link": "https://www.chicagotribune.com/2026/11/03/state-rep-julie-olthoff-trailing-in-re-election-bid-to-democrat-nicholas-neal/",
       "published": "Wed, 04 Nov 2026 05:29:17 +0000",
       "sentiment": 0.0
@@ -517,16 +529,16 @@
       "sentiment": 0.37777777777777777
     },
     {
-      "title": "Jessica Biggs declares victory in race for school board president, in major blow to CTU",
+      "title": "Jessica Biggs wins CPS board president race, intends to let moratorium on school closures expire",
       "link": "https://www.chicagotribune.com/2026/11/03/chicago-school-board-president-election-results/",
       "published": "Wed, 04 Nov 2026 01:00:58 +0000",
-      "sentiment": 0.0625
+      "sentiment": 0.3
     },
     {
-      "title": "US Senate race: Illinois voters choose Juliana Stratton as Dick Durbin’s successor",
+      "title": "With Juliana Stratton’s victory, Illinois set to become first state with two women of color in US Senate",
       "link": "https://www.chicagotribune.com/2026/11/03/illinois-election-us-senate-results/",
       "published": "Wed, 04 Nov 2026 01:00:35 +0000",
-      "sentiment": 0.0
+      "sentiment": 0.25
     },
     {
       "title": "Voters usher in new era with state Rep. La Shawn Ford for 7th Congressional District",
@@ -587,18 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/11/03/lake-county-election-day-turnout/",
       "published": "Tue, 03 Nov 2026 20:32:42 +0000",
       "sentiment": 0.3
-    },
-    {
-      "title": "DuPage and Will counties report high early-voting and Election Day numbers",
-      "link": "https://www.chicagotribune.com/2026/11/03/election-day-voting-will-dupage-county/",
-      "published": "Tue, 03 Nov 2026 20:08:36 +0000",
-      "sentiment": 0.16
-    },
-    {
-      "title": "Voter turnout high in Kane County for local and midterm races, clerk says",
-      "link": "https://www.chicagotribune.com/2026/11/03/voter-turnout-kane-county-election-voting/",
-      "published": "Tue, 03 Nov 2026 19:48:07 +0000",
-      "sentiment": 0.08
     }
   ]
 }

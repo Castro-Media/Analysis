@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Latin Grammy-winner Bobby Pulido wins Texas seat",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-11-04/bobby-pulido-congressional-district-15-latin-grammy",
+      "published": "Wed, 4 Nov 2026 23:11:02 GMT",
+      "sentiment": 0.275
+    },
+    {
+      "title": "How Latino voters helped secure blue victories",
+      "link": "https://www.latimes.com/politics/story/2026-11-04/how-latino-voters-helped-secure-blue-victories",
+      "published": "Wed, 4 Nov 2026 22:50:11 GMT",
+      "sentiment": 0.325
+    },
+    {
       "title": "Democrats sweep California's down-ballot races but one remains too close to call",
       "link": "https://www.latimes.com/california/story/2026-11-04/democrats-sweep-californias-down-ballot-races-but-one-remains-too-close-to-call",
       "published": "Wed, 4 Nov 2026 22:34:48 GMT",
@@ -205,16 +217,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "A campaign season of surprises peaks with Tuesday's midterms",
-      "link": "https://www.latimes.com/politics/story/2026-11-02/campaign-season-of-surprises-peaks-with-tuesdays-midterms",
-      "published": "Mon, 2 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "Didn't register to vote? Here's how you still can cast a ballot",
       "link": "https://www.latimes.com/california/story/2026-11-02/2026-california-general-election-same-day-registration-last-minute-voter-guide",
       "published": "Mon, 2 Nov 2026 11:00:00 GMT",
       "sentiment": 0.02500000000000001
+    },
+    {
+      "title": "A campaign season of surprises peaks with Tuesday's midterms",
+      "link": "https://www.latimes.com/politics/story/2026-11-02/campaign-season-of-surprises-peaks-with-tuesdays-midterms",
+      "published": "Mon, 2 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "From an LGBTQ+ rally to Trunk or Treat, Becerra and Hilton barnstorm California hoping to be next governor",
@@ -253,6 +265,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Election night TV coverage is going full nerd for the 2026 midterms",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0935897435897436
+    },
+    {
       "title": "Proposed billionaire tax could impact California sports teams",
       "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
@@ -263,12 +281,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333338
-    },
-    {
-      "title": "Election night TV coverage is going full nerd for the 2026 midterms",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0935897435897436
     },
     {
       "title": "Justice Dept. sent subpoenas to L.A. election officials. What that means and what happens next",
@@ -289,16 +301,16 @@
       "sentiment": 0.025
     },
     {
-      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
-      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
       "title": "Your last-minute guide to Proposition 45: CEQA and data centers",
       "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
       "sentiment": -0.11851851851851854
+    },
+    {
+      "title": "Your last-minute guide to Proposition 3, the other tax-the-rich measure",
+      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide",
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
@@ -307,16 +319,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
-      "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
+      "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "This L.A. city board is more than 120 years old. A ballot measure could quietly hasten its end",
@@ -337,16 +349,16 @@
       "sentiment": -0.43333333333333335
     },
     {
-      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
-      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.018181818181818174
-    },
-    {
       "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
       "link": "https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
       "sentiment": 0.08
+    },
+    {
+      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.018181818181818174
     },
     {
       "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
@@ -445,6 +457,12 @@
       "sentiment": 0.35714285714285715
     },
     {
+      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
+      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
+      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Chabria: California votes. Trump's Justice Department panics",
       "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
@@ -455,12 +473,6 @@
       "link": "https://www.latimes.com/politics/story/2026-10-26/trump-says-hes-trying-to-entice-russia-to-negotiate-it-doesnt-appear-to-be-working",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
-      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
@@ -529,28 +541,28 @@
       "sentiment": 0.25
     },
     {
-      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.075
-    },
-    {
       "title": "Commentary: Muslims have always had to prove our Americanness. Enter Abdul El-Sayed",
       "link": "https://www.latimes.com/politics/story/2026-10-23/muslims-americanness-abdul-el-sayed",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.5
     },
     {
-      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
-      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+      "title": "Trump ramps up fraud investigations of immigrants as election approaches",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/trump-ramps-up-fraud-investigations-of-immigrants-as-election-approaches",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.1
+      "sentiment": -0.075
     },
     {
       "title": "Many Latinos are done with Trump. The shift is especially striking in Texas",
       "link": "https://www.latimes.com/politics/story/2026-10-23/many-latinos-are-over-trump-shift-is-especially-striking-in-texas",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.75
+    },
+    {
+      "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+      "link": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Judge limits election-related immigration stops amid broader legal war ahead of midterms",
@@ -563,12 +575,6 @@
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-22/cnn-international-anchor-bianna-golodryga-is-leaving-network",
       "published": "Thu, 22 Oct 2026 17:38:24 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Arellano: In Trumpworld, dogs who commit voter fraud aren't as bad as immigrants",
-      "link": "https://www.latimes.com/california/story/2026-10-22/bill-essayli-dog-voter-fraud",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.7333333333333333
     }
   ]
 }
