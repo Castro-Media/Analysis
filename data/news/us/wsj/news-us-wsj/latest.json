@@ -1,16 +1,22 @@
 {
   "entries": [
     {
-      "title": "California Gov. Newsom to Commute Sentences for 548 People on Death Row",
-      "link": "https://www.wsj.com/us-news/california-gov-newsom-to-commute-sentences-for-548-people-on-death-row-f3b86cb4?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 20:40:00 GMT",
-      "sentiment": 0.0
+      "title": "Colombia Arrests Mexican Judge Tied to Drug Gang Led by Ex-Olympian",
+      "link": "https://www.wsj.com/world/americas/colombia-arrests-mexican-judge-tied-to-drug-gang-led-by-ex-olympian-ba98c5c1?mod=rss_usnews",
+      "published": "Thu, 05 Nov 2026 21:50:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Democratic Socialist Nithya Raman Wins Los Angeles Mayor’s Race",
       "link": "https://www.wsj.com/politics/policy/democratic-socialist-nithya-raman-wins-los-angeles-mayors-race-54583571?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 20:29:00 GMT",
-      "sentiment": 0.23750000000000002
+      "published": "Thu, 05 Nov 2026 21:45:00 GMT",
+      "sentiment": 0.04999999999999999
+    },
+    {
+      "title": "California Gov. Newsom to Commute Sentences for 548 People on Death Row",
+      "link": "https://www.wsj.com/us-news/california-gov-newsom-to-commute-sentences-for-548-people-on-death-row-f3b86cb4?mod=rss_usnews",
+      "published": "Thu, 05 Nov 2026 21:39:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/appeals-court-gives-mamdani-administration-green-light-on-pied-a-terre-rollout-153c242d?mod=rss_usnews",
       "published": "Wed, 04 Nov 2026 21:26:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Letitia James Steps Back From Probe Into Alleged Cornell Assault",
-      "link": "https://www.wsj.com/us-news/law/letitia-james-steps-back-from-probe-into-alleged-cornell-assault-3c8e591a?mod=rss_usnews",
-      "published": "Wed, 04 Nov 2026 16:47:00 GMT",
-      "sentiment": 0.017272727272727273
     },
     {
       "title": "These Associates Had a Golden Ticket to Big Law—Until Weil Gotshal Collapsed",
@@ -79,6 +79,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Letitia James Steps Back From Probe Into Alleged Cornell Assault",
+      "link": "https://www.wsj.com/us-news/law/letitia-james-steps-back-from-probe-into-alleged-cornell-assault-3c8e591a?mod=rss_usnews",
+      "published": "Wed, 04 Nov 2026 16:47:00 GMT",
+      "sentiment": 0.017272727272727273
+    },
+    {
       "title": "Supreme Court Shows Sympathy for Catholic Schools in Case on LGBTQ Protections",
       "link": "https://www.wsj.com/us-news/law/supreme-court-shows-sympathy-for-catholic-schools-in-case-on-lgbtq-protections-cfa6f0c1?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 19:42:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 16:32:00 GMT",
       "sentiment": 1.0
-    },
-    {
-      "title": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
-      "link": "https://www.wsj.com/us-news/law/people-are-using-ai-for-divorce-advice-and-its-driving-their-lawyers-crazy-9b03b123?mod=rss_usnews",
-      "published": "Tue, 03 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.13333333333333336
     },
     {
       "title": "Homeowners Fight Utilities Over Grid Upgrades in Their Backyards",
@@ -127,6 +127,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | Moderates Take Capitol Hill",
+      "link": "https://www.wsj.com/opinion/moderates-take-capitol-hill-4086f989?mod=rss_usnews",
+      "published": "Thu, 05 Nov 2026 21:13:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Opinion | Mike Pence: Begin the Conservative Revival",
       "link": "https://www.wsj.com/opinion/mike-pence-begin-the-conservative-revival-9047d35b?mod=rss_usnews",
       "published": "Thu, 05 Nov 2026 18:44:00 GMT",
@@ -157,12 +163,6 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Opinion | India’s Big Semiconductor Bet",
-      "link": "https://www.wsj.com/opinion/indias-big-semiconductor-bet-e0e60891?mod=rss_usnews",
-      "published": "Wed, 04 Nov 2026 23:10:00 GMT",
-      "sentiment": -0.09523809523809523
-    },
-    {
       "title": "Check the Poll Closing Times in Every County",
       "link": "https://www.wsj.com/politics/elections/check-the-poll-closing-times-in-every-county-d074ac03?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 22:31:00 GMT",
@@ -181,16 +181,16 @@
       "sentiment": 0.03125
     },
     {
+      "title": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
+      "link": "https://www.wsj.com/us-news/law/people-are-using-ai-for-divorce-advice-and-its-driving-their-lawyers-crazy-9b03b123?mod=rss_usnews",
+      "published": "Tue, 03 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.13333333333333336
+    },
+    {
       "title": "20-Year-Old Co-Pilot Among the Victims of a Learjet Crash on Sunday, Family Says",
       "link": "https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews",
       "published": "Mon, 02 Nov 2026 23:15:00 GMT",
       "sentiment": -0.06875
-    },
-    {
-      "title": "Judge Rejects Charges That Ex-FBI Officials Lied About Hunter Biden Probe",
-      "link": "https://www.wsj.com/us-news/law/judge-rejects-charges-that-ex-fbi-officials-lied-about-hunter-biden-probe-dcb5d510?mod=rss_usnews",
-      "published": "Mon, 02 Nov 2026 20:34:00 GMT",
-      "sentiment": 0.26666666666666666
     },
     {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
