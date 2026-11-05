@@ -1,28 +1,34 @@
 {
   "entries": [
     {
+      "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
+      "link": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
+      "published": "Thu, 05 Nov 2026 14:47:06 +0000",
+      "sentiment": 0.195
+    },
+    {
       "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
-      "published": "Thu, 05 Nov 2026 13:27:52 +0000",
+      "published": "Thu, 05 Nov 2026 13:27:53 +0000",
       "sentiment": 0.05714285714285715
     },
     {
       "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-      "published": "Thu, 05 Nov 2026 13:06:32 +0000",
+      "published": "Thu, 05 Nov 2026 13:54:18 +0000",
       "sentiment": -0.2
     },
     {
       "title": "Bank of England Raises Rates for First Time in Three Years",
       "link": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
-      "published": "Thu, 05 Nov 2026 12:48:53 +0000",
+      "published": "Thu, 05 Nov 2026 14:04:31 +0000",
       "sentiment": 0.15714285714285717
     },
     {
-      "title": "New Series of Bomb Threats Disrupts Flights in Europe",
+      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-      "published": "Thu, 05 Nov 2026 12:37:56 +0000",
-      "sentiment": 0.3181818181818182
+      "published": "Thu, 05 Nov 2026 13:56:33 +0000",
+      "sentiment": 0.11000000000000001
     },
     {
       "title": "After Riots and Protests, French Workers Are Going on Strike",
@@ -45,7 +51,7 @@
     {
       "title": "John Frieda, Hair-Care Mogul Who Soothed Women’s Curls, Has Died",
       "link": "https://www.nytimes.com/2026/11/04/style/john-frieda-dead.html",
-      "published": "Wed, 04 Nov 2026 21:39:14 +0000",
+      "published": "Thu, 05 Nov 2026 14:27:56 +0000",
       "sentiment": 0.0
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
       "published": "Mon, 02 Nov 2026 20:50:14 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
-      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-      "published": "Tue, 03 Nov 2026 08:45:20 +0000",
-      "sentiment": -0.1
     }
   ]
 }

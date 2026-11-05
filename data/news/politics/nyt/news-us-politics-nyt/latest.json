@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
+      "published": "Thu, 05 Nov 2026 14:18:33 +0000",
+      "sentiment": 0.15
+    },
+    {
       "title": "How Trump Is Reacting to the Midterm Results",
       "link": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
-      "published": "Thu, 05 Nov 2026 13:20:22 +0000",
+      "published": "Thu, 05 Nov 2026 14:06:13 +0000",
       "sentiment": -0.06060606060606061
     },
     {
@@ -13,10 +19,10 @@
       "sentiment": 0.15833333333333333
     },
     {
-      "title": "Triumphal Arch Set to Win Final Approval Despite Court Challenges",
+      "title": "Trump’s Triumphal Arch Set for Final Approval Despite Legal Challenges",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
-      "published": "Thu, 05 Nov 2026 10:04:47 +0000",
-      "sentiment": 0.32
+      "published": "Thu, 05 Nov 2026 10:04:48 +0000",
+      "sentiment": 0.2
     },
     {
       "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
@@ -27,7 +33,7 @@
     {
       "title": "Latino Voters Reshape Electoral Map Once Again",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/latino-voters-democrats.html",
-      "published": "Thu, 05 Nov 2026 10:01:39 +0000",
+      "published": "Thu, 05 Nov 2026 10:01:40 +0000",
       "sentiment": 0.0
     },
     {
@@ -45,13 +51,13 @@
     {
       "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
-      "published": "Thu, 05 Nov 2026 12:15:39 +0000",
+      "published": "Thu, 05 Nov 2026 14:44:23 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
-      "published": "Wed, 04 Nov 2026 23:44:50 +0000",
+      "published": "Wed, 04 Nov 2026 23:44:51 +0000",
       "sentiment": -0.15555555555555556
     },
     {
@@ -99,7 +105,7 @@
     {
       "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
-      "published": "Thu, 05 Nov 2026 09:27:04 +0000",
+      "published": "Thu, 05 Nov 2026 09:27:05 +0000",
       "sentiment": 0.275
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/04/arts/television/midterms-tv-broadcast-fox-news-ms-now.html",
       "published": "Wed, 04 Nov 2026 16:29:56 +0000",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "There’s No Modern Precedent for This Democratic Tsunami",
-      "link": "https://www.nytimes.com/2026/11/04/upshot/democrats-midterm-elections-trump-tsunami.html",
-      "published": "Wed, 04 Nov 2026 18:26:58 +0000",
-      "sentiment": -0.011666666666666681
     }
   ]
 }
