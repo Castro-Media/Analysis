@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Malaysia’s Central Bank Holds Rate Steady, Cites Resilient Growth",
+      "link": "https://www.wsj.com/economy/central-banking/malaysias-central-bank-holds-rate-steady-cites-resilient-growth-affcfd09?mod=rss_socialeconomyfeed",
+      "published": "Thu, 05 Nov 2026 08:28:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "German Factory Orders Rebounded in September",
+      "link": "https://www.wsj.com/economy/german-factory-orders-rebounded-in-september-ddf6878c?mod=rss_socialeconomyfeed",
+      "published": "Thu, 05 Nov 2026 08:06:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "Americans’ votes for anti-data center candidates and ballot measures could rein in AI’s expansion, slow economic growth and become a problem for companies on the edge of technological progress",
       "link": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?mod=rss_socialeconomyfeed",
       "published": "Thu, 05 Nov 2026 02:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/economy/central-banking/u-s-services-sector-activity-expands-again-in-october-6d04c6ed?mod=rss_socialeconomyfeed",
       "published": "Wed, 04 Nov 2026 15:23:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "U.S. Trade Deficit Contracted in September",
-      "link": "https://www.wsj.com/economy/trade/u-s-trade-deficit-contracted-in-september-e9eeff46?mod=rss_socialeconomyfeed",
-      "published": "Wed, 04 Nov 2026 14:12:00 GMT",
-      "sentiment": 0.04722222222222222
-    },
-    {
-      "title": "Private-Sector Hiring Remained Solid in October",
-      "link": "https://www.wsj.com/economy/jobs/private-sector-hiring-remained-solid-in-october-39ac72ae?mod=rss_socialeconomyfeed",
-      "published": "Wed, 04 Nov 2026 13:39:00 GMT",
-      "sentiment": 0.007272727272727269
     },
     {
       "title": "Eurozone Inflation Rises to 4%, Driven by Energy Costs",
@@ -157,6 +157,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "U.S. Trade Deficit Contracted in September",
+      "link": "https://www.wsj.com/economy/trade/u-s-trade-deficit-contracted-in-september-e9eeff46?mod=rss_socialeconomyfeed",
+      "published": "Wed, 04 Nov 2026 14:12:00 GMT",
+      "sentiment": 0.04722222222222222
+    },
+    {
       "title": "Capital Account: President Trump once called “tariff” the most beautiful word in the dictionary. He has somehow made it one of the most hated words in politics, writes @greg_ip",
       "link": "https://www.wsj.com/economy/trade/how-tariffs-became-the-most-hated-word-in-politics-eeed7932?mod=rss_socialeconomyfeed",
       "published": "Fri, 23 Oct 2026 09:30:00 GMT",
@@ -181,10 +187,10 @@
       "sentiment": 0.09375
     },
     {
-      "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
-      "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
-      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
-      "sentiment": 0.02407407407407408
+      "title": "Private-Sector Hiring Remained Solid in October",
+      "link": "https://www.wsj.com/economy/jobs/private-sector-hiring-remained-solid-in-october-39ac72ae?mod=rss_socialeconomyfeed",
+      "published": "Wed, 04 Nov 2026 13:39:00 GMT",
+      "sentiment": 0.007272727272727269
     },
     {
       "title": "U.S. Job Openings Rose in September",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f?mod=rss_socialeconomyfeed",
       "published": "Fri, 23 Oct 2026 14:10:00 GMT",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "U.S. Jobless Claims Return to Downward Trend",
-      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-return-to-downward-trend-9ba853fc?mod=rss_socialeconomyfeed",
-      "published": "Thu, 22 Oct 2026 13:11:00 GMT",
-      "sentiment": 0.0
     }
   ]
 }
