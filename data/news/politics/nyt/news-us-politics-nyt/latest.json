@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
+      "published": "Thu, 05 Nov 2026 23:47:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Hegseth Lashes Out at Critics Calling for His Firing",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
+      "published": "Thu, 05 Nov 2026 23:30:30 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
+      "published": "Thu, 05 Nov 2026 22:50:58 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Steve Kornacki and NBC Drew Crowds as Midterms Got a Ratings Bump",
+      "link": "https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html",
+      "published": "Thu, 05 Nov 2026 22:47:35 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
+      "published": "Thu, 05 Nov 2026 22:49:38 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Takes Fresh Aim at Alaska, Still Counting Its Senate Results",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/alaska-senate-peltola-sullivan-what-to-know.html",
+      "published": "Thu, 05 Nov 2026 22:21:53 +0000",
+      "sentiment": 0.21818181818181817
+    },
+    {
+      "title": "The Many Meanings of James Talarico’s Winning Cowboy Boots",
+      "link": "https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html",
+      "published": "Thu, 05 Nov 2026 22:08:28 +0000",
+      "sentiment": 0.375
+    },
+    {
       "title": "For Democrats, Midterm Wins Bring New Challenge",
       "link": "https://www.nytimes.com/video/us/politics/100000011261785/for-democrats-midterm-wins-bring-new-challenge.html",
       "published": "Thu, 05 Nov 2026 21:42:41 +0000",
@@ -33,13 +75,13 @@
     {
       "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
-      "published": "Thu, 05 Nov 2026 19:31:51 +0000",
+      "published": "Thu, 05 Nov 2026 22:21:55 +0000",
       "sentiment": -0.7
     },
     {
       "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
-      "published": "Thu, 05 Nov 2026 18:43:01 +0000",
+      "published": "Thu, 05 Nov 2026 22:31:32 +0000",
       "sentiment": 0.0625
     },
     {
@@ -75,7 +117,7 @@
     {
       "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-      "published": "Thu, 05 Nov 2026 20:20:35 +0000",
+      "published": "Thu, 05 Nov 2026 22:10:09 +0000",
       "sentiment": 0.15
     },
     {
@@ -117,7 +159,7 @@
     {
       "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
-      "published": "Thu, 05 Nov 2026 01:32:45 +0000",
+      "published": "Thu, 05 Nov 2026 21:53:57 +0000",
       "sentiment": 0.08766233766233766
     },
     {
@@ -125,30 +167,6 @@
       "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
       "published": "Thu, 05 Nov 2026 15:20:18 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
-      "published": "Thu, 05 Nov 2026 16:39:58 +0000",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
-      "published": "Thu, 05 Nov 2026 01:08:24 +0000",
-      "sentiment": -0.07878787878787878
-    },
-    {
-      "title": "‘It Is Never Enough’: Susan Collins Couldn’t Outrun Trump",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/susan-collins-defeat-donald-trump.html",
-      "published": "Thu, 05 Nov 2026 01:30:53 +0000",
-      "sentiment": -0.1597222222222222
-    },
-    {
-      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
-      "link": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-      "published": "Thu, 05 Nov 2026 20:34:25 +0000",
-      "sentiment": 0.4
     }
   ]
 }
