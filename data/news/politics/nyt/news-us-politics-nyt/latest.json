@@ -1,16 +1,40 @@
 {
   "entries": [
     {
+      "title": "JoAnna Mendoza Wins in Arizona, Giving Democrats a Key House Pickup",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/arizona-house-6-ciscomani-mendoza.html",
+      "published": "Thu, 05 Nov 2026 19:45:13 +0000",
+      "sentiment": 0.15333333333333332
+    },
+    {
+      "title": "Environmental Ballot Wins",
+      "link": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
+      "published": "Thu, 05 Nov 2026 19:40:21 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
+      "published": "Thu, 05 Nov 2026 19:38:04 +0000",
+      "sentiment": 0.2875
+    },
+    {
+      "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
+      "published": "Thu, 05 Nov 2026 19:31:51 +0000",
+      "sentiment": -0.7
+    },
+    {
       "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
       "published": "Thu, 05 Nov 2026 18:43:01 +0000",
       "sentiment": 0.0625
     },
     {
-      "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+      "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-      "published": "Thu, 05 Nov 2026 18:41:04 +0000",
-      "sentiment": -0.17500000000000002
+      "published": "Thu, 05 Nov 2026 19:32:54 +0000",
+      "sentiment": -0.0625
     },
     {
       "title": "How Democrats Won Across the South",
@@ -21,7 +45,7 @@
     {
       "title": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
-      "published": "Thu, 05 Nov 2026 16:57:31 +0000",
+      "published": "Thu, 05 Nov 2026 19:43:31 +0000",
       "sentiment": 0.6
     },
     {
@@ -124,18 +148,6 @@
       "title": "The Democratic Wave Swept State Houses Across the Country",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/state-legislatures-democrats-midterm-election.html",
       "published": "Wed, 04 Nov 2026 23:17:33 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
-      "link": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
-      "published": "Thu, 05 Nov 2026 00:31:06 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "With Democrats’ Sweep, Congress Is Set to Reassert Power to Check Trump",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
-      "published": "Wed, 04 Nov 2026 19:51:04 +0000",
       "sentiment": 0.0
     }
   ]

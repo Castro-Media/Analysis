@@ -1,16 +1,46 @@
 {
   "entries": [
     {
+      "title": "JoAnna Mendoza Wins in Arizona, Giving Democrats a Key House Pickup",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/arizona-house-6-ciscomani-mendoza.html",
+      "published": "Thu, 05 Nov 2026 19:45:13 +0000",
+      "sentiment": 0.15333333333333332
+    },
+    {
+      "title": "‘More Divided Than Ever’: For Jewish Voters, a Mix of Elation and Dread",
+      "link": "https://www.nytimes.com/2026/11/05/us/jewish-reaction-el-sayed-israel.html",
+      "published": "Thu, 05 Nov 2026 19:34:46 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+      "link": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+      "published": "Thu, 05 Nov 2026 19:45:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
+      "published": "Thu, 05 Nov 2026 19:38:04 +0000",
+      "sentiment": 0.2875
+    },
+    {
+      "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
+      "published": "Thu, 05 Nov 2026 19:31:51 +0000",
+      "sentiment": -0.7
+    },
+    {
       "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
       "published": "Thu, 05 Nov 2026 18:43:01 +0000",
       "sentiment": 0.0625
     },
     {
-      "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+      "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-      "published": "Thu, 05 Nov 2026 18:41:04 +0000",
-      "sentiment": -0.17500000000000002
+      "published": "Thu, 05 Nov 2026 19:32:54 +0000",
+      "sentiment": -0.0625
     },
     {
       "title": "How Democrats Won Across the South",
@@ -39,7 +69,7 @@
     {
       "title": "3 Are Injured in Shooting at Des Moines Post Office",
       "link": "https://www.nytimes.com/2026/11/05/us/des-moines-post-office-shooting-iowa.html",
-      "published": "Thu, 05 Nov 2026 18:31:43 +0000",
+      "published": "Thu, 05 Nov 2026 19:09:49 +0000",
       "sentiment": 0.0
     },
     {
@@ -51,7 +81,7 @@
     {
       "title": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
-      "published": "Thu, 05 Nov 2026 16:57:31 +0000",
+      "published": "Thu, 05 Nov 2026 19:43:31 +0000",
       "sentiment": 0.6
     },
     {
@@ -81,7 +111,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump/heres-the-latest",
-      "published": "Thu, 05 Nov 2026 18:27:03 +0000",
+      "published": "Thu, 05 Nov 2026 19:47:09 +0000",
       "sentiment": 0.5
     },
     {
@@ -233,30 +263,6 @@
       "link": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/a-day-after-a-stinging-midterm-defeat-trump-focuses-on-his-ballroom",
       "published": "Thu, 05 Nov 2026 00:33:16 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Democratic Wave Swept State Houses Across the Country",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/state-legislatures-democrats-midterm-election.html",
-      "published": "Wed, 04 Nov 2026 23:17:33 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Helicopter Crash Off Miami Kills One Person and Injures Two",
-      "link": "https://www.nytimes.com/2026/11/04/us/miami-helicopter-crash-biscayne.html",
-      "published": "Wed, 04 Nov 2026 21:10:01 +0000",
-      "sentiment": -0.05185185185185185
-    },
-    {
-      "title": "Mississippi’s Senate Race Is Close. The State Has No Vote Recount Law.",
-      "link": "https://www.nytimes.com/2026/11/04/us/mississippi-senate-election-recount-law.html",
-      "published": "Wed, 04 Nov 2026 23:54:31 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
-      "link": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
-      "published": "Wed, 04 Nov 2026 21:46:44 +0000",
-      "sentiment": 0.06818181818181818
     }
   ]
 }
