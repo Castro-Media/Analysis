@@ -97,6 +97,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
+      "link": "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 10:20:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Maersk Shares Tumble After Earnings, Guidance Disappoint",
       "link": "https://www.wsj.com/business/logistics/maersk-raises-guidance-again-on-higher-freight-rates-and-resilient-demand-12a571b0?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 09:41:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/rheinmetall-shares-plunge-after-order-delays-force-arms-maker-to-trim-guidance-again-87734af7?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 08:34:00 GMT",
       "sentiment": 0.07500000000000001
-    },
-    {
-      "title": "Sony Boosts Guidance as Profit Jumps on ‘Spider-Man’ Hit, Game Strength",
-      "link": "https://www.wsj.com/business/earnings/sony-boosts-guidance-as-profit-jumps-on-spider-man-hit-game-strength-4e9322ae?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 08:02:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "Toyota Raises Earnings Forecast After Higher Operating Profit",
@@ -193,16 +193,16 @@
       "sentiment": 0.4
     },
     {
+      "title": "Oil Prices Rise but Stay Below $100 as Traders Weigh Iran Diplomacy, Supply Outlook",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 10:38:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "BP Sells 5% Stake in Aker BP for $1 Billion as Balance Sheet Repair Continues",
       "link": "https://www.wsj.com/business/energy-oil/bp-sells-5-stake-in-aker-bp-for-1-billion-as-balance-sheet-repair-continues-ac5e1934?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 08:20:00 GMT",
       "sentiment": 0.03125
-    },
-    {
-      "title": "Oil Prices Stay Below $100 as Traders Weigh Iran Diplomacy, Supply Outlook",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 07:48:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -221,12 +221,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 16:11:00 GMT",
       "sentiment": -0.13999999999999999
-    },
-    {
-      "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
-      "link": "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 07:40:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
@@ -251,6 +245,12 @@
       "link": "https://www.wsj.com/business/airlines/jetblue-shares-in-tailspin-as-high-fuel-prices-threaten-turnaround-38f32c31?mod=pls_whats_news_us_business_f",
       "published": "Mon, 26 Oct 2026 21:27:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "The Saudi Airline That Launched Right in the Middle of a War",
+      "link": "https://www.wsj.com/world/middle-east/the-saudi-airline-that-launched-right-in-the-middle-of-a-war-18a5a7cb?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 25 Oct 2026 02:00:00 GMT",
+      "sentiment": 0.13705357142857144
     },
     {
       "title": "A CFO’s Superpower in a Midterm Election: Planning for Multiple Scenarios",
@@ -487,10 +487,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Lockheed Martin to Pay $29.5 Million to Settle Federal Probe Over Diversity Efforts",
-      "link": "https://www.wsj.com/business/lockheed-martin-to-pay-29-5-million-to-settle-federal-probe-over-diversity-efforts-fbf1adf1?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 00:36:00 GMT",
-      "sentiment": 0.0
+      "title": "Shares in Elon Musk’s SpaceX, Tesla Fall Premarket After Democrats Sweep Midterms",
+      "link": "https://www.wsj.com/business/shares-in-elon-musks-spacex-tesla-fall-premarket-after-democrats-sweep-midterms-a10325e6?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 10:35:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Best Small-Business Loans in November 2026",

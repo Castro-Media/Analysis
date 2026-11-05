@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: AI Stocks Under Pressure While Dow Futures Rise",
+      "title": "Stock Market Today: AI Stocks Under Pressure as Investors Reassess Positions",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 09:25:53 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "How the Data Center Backlash Could Play Into the Hands of Big Tech",
+      "link": "https://www.wsj.com/tech/ai/how-the-data-center-backlash-could-play-into-the-hands-of-big-tech-a37dfb29?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.05
     },
     {
       "title": "Stocks Surge, Oil Plummets on Democrat Victory",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/apple-shares-slip-meta-debt-costs-rise-a8eb0510?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 21:21:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Want to Try Alternative Investments? Here’s an Easy Way to Start",
-      "link": "https://www.wsj.com/finance/investing/alternative-investments-start-b21fc8ef?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 21:00:00 GMT",
-      "sentiment": 0.21666666666666667
     },
     {
       "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
@@ -103,15 +103,21 @@
       "sentiment": 0.125
     },
     {
-      "title": "AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates",
-      "link": "https://www.wsj.com/finance/stocks/ai-selloff-extends-treasurys-gain-as-blue-wave-reverberates-2d60fa21?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 09:46:00 GMT",
+      "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+      "link": "https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 10:49:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Treasury Yields Fall to Eight-Week Lows as Markets Digest Midterm Results",
+      "title": "Treasury, European Bond Yields Tumble as Markets Lifted By U.S. Democrats’ Victory",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-to-eight-week-lows-as-markets-digest-midterm-results-7effce3e?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 07:11:00 GMT",
+      "published": "Thu, 05 Nov 2026 10:15:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates",
+      "link": "https://www.wsj.com/finance/stocks/ai-selloff-extends-treasurys-gain-as-blue-wave-reverberates-2d60fa21?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 09:46:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -124,12 +130,6 @@
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-7f9a203c?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 22:04:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4d4bfa93?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 22:03:00 GMT",
       "sentiment": 0.25
     },
     {
@@ -217,16 +217,16 @@
       "sentiment": 0.3066666666666667
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-4d4bfa93?mod=rss_markets_main",
+      "published": "Wed, 04 Nov 2026 22:03:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "U.S. Natural Gas Futures Rise for Second Session",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-for-second-session-1bce85ae?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 21:50:00 GMT",
       "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Oil Futures Fall As Democrats Win U.S. Congress",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 20:59:00 GMT",
-      "sentiment": 0.4
     },
     {
       "title": "Sterling Gains Could Prove Limited Unless BOE Boosts Lofty Rate-Rise Bets",
@@ -289,6 +289,12 @@
       "sentiment": -0.45
     },
     {
+      "title": "Want to Try Alternative Investments? Here’s an Easy Way to Start",
+      "link": "https://www.wsj.com/finance/investing/alternative-investments-start-b21fc8ef?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 21:00:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
       "title": "Mark Walter in Talks to Sell Cadillac F1 Stake to Red Sox, Liverpool Owners",
       "link": "https://www.wsj.com/sports/cadillac-formula-one-mark-walter-john-henry-af86c109?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 19:33:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market",
-      "link": "https://www.wsj.com/finance/investing/hedge-fund-elliott-warns-of-fogo-fear-of-getting-obliterated-in-the-market-a2cc7027?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 23:54:00 GMT",
-      "sentiment": -0.075
     },
     {
       "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
