@@ -1,15 +1,33 @@
 {
   "entries": [
     {
+      "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
+      "published": "Thu, 05 Nov 2026 18:43:01 +0000",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+      "published": "Thu, 05 Nov 2026 18:41:04 +0000",
+      "sentiment": -0.17500000000000002
+    },
+    {
+      "title": "How Democrats Won Across the South",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
+      "published": "Thu, 05 Nov 2026 18:18:12 +0000",
+      "sentiment": 0.3
+    },
+    {
       "title": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
-      "published": "Thu, 05 Nov 2026 15:39:39 +0000",
+      "published": "Thu, 05 Nov 2026 16:57:31 +0000",
       "sentiment": 0.6
     },
     {
       "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
       "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-      "published": "Thu, 05 Nov 2026 15:34:41 +0000",
+      "published": "Thu, 05 Nov 2026 17:02:32 +0000",
       "sentiment": 0.325
     },
     {
@@ -21,7 +39,7 @@
     {
       "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-      "published": "Thu, 05 Nov 2026 16:09:28 +0000",
+      "published": "Thu, 05 Nov 2026 18:34:50 +0000",
       "sentiment": 0.15
     },
     {
@@ -119,12 +137,6 @@
       "link": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
       "published": "Wed, 04 Nov 2026 19:51:04 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
-      "published": "Thu, 05 Nov 2026 09:27:05 +0000",
-      "sentiment": 0.275
     }
   ]
 }
