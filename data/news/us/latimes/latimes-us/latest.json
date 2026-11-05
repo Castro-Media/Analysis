@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Man who allegedly put hidden cameras on his shoes to record women is arrested in Berkeley",
+      "link": "https://www.latimes.com/california/story/2026-11-05/man-who-allegedly-put-hidden-cameras-on-his-shoes-to-record-women-is-arrested-in-berkeley",
+      "published": "Thu, 5 Nov 2026 20:12:12 GMT",
+      "sentiment": -0.05416666666666667
+    },
+    {
+      "title": "Lopez: She's got political savvy, good timing, or both. And she's about to become Mayor Raman",
+      "link": "https://www.latimes.com/california/story/2026-11-05/lopez-column-shes-about-to-become-mayor-raman",
+      "published": "Thu, 5 Nov 2026 19:43:48 GMT",
+      "sentiment": 0.25999999999999995
+    },
+    {
       "title": "How Mayor-elect Raman will remake L.A. City Hall",
       "link": "https://www.latimes.com/california/story/2026-11-05/how-mayor-raman-will-remake-la-city-hall",
       "published": "Thu, 5 Nov 2026 19:40:37 GMT",
@@ -25,6 +37,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Harmeet Dhillon, California attorney who radically reshaped DOJ civil rights unit, resigns",
+      "link": "https://www.latimes.com/world-nation/story/2026-11-05/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division",
+      "published": "Thu, 5 Nov 2026 18:47:07 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "Prominent L.A. gang interventionist Skipp Townsend arrested in alleged murder conspiracy",
       "link": "https://www.latimes.com/california/story/2026-11-05/la-gang-interventionist-skipp-townsend-arrested",
       "published": "Thu, 5 Nov 2026 18:06:12 GMT",
@@ -43,22 +61,22 @@
       "sentiment": 0.1
     },
     {
-      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
-      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
       "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.11742424242424243
     },
     {
-      "title": "Why California's billionaire tax was a harder sell than expected",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
+      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666663
+      "sentiment": 0.1
+    },
+    {
+      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
+      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
@@ -67,10 +85,10 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
-      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
+      "title": "Why California's billionaire tax was a harder sell than expected",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
+      "sentiment": 0.016666666666666663
     },
     {
       "title": "Amid controversy, California greenlights the state's first large reservoir in decades",
@@ -319,10 +337,16 @@
       "sentiment": 0.16545454545454544
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "title": "Utilities lobby for shield from wildfire costs",
+      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
+      "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.11818181818181818
     },
     {
       "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
@@ -337,16 +361,10 @@
       "sentiment": -0.006874999999999999
     },
     {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
-    },
-    {
-      "title": "Utilities lobby for shield from wildfire costs",
-      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.12000000000000002
+      "sentiment": 0.15
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
@@ -523,40 +541,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Your last-minute guide to the L.A. city attorney's race: McKinney vs. Roy",
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-city-attorney-mckinney-roy-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to all California propositions",
-      "link": "https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide",
+      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.10500000000000001
-    },
-    {
-      "title": "Your last-minute guide to obscure but important statewide races in California",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-lesser-known-races-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.22500000000000003
+      "sentiment": 0.0
     },
     {
       "title": "Your last-minute guide to every L.A. city charter amendments, ballot measures",
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-charter-amendments-measures-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Two competitive L.A. City Council seats are on the Nov. 3 ballot",
-      "link": "https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.125
     }
   ]
 }

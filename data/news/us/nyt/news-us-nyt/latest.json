@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Across the South, Black Voters Help Propel Democratic Wins",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
+      "published": "Thu, 05 Nov 2026 20:33:25 +0000",
+      "sentiment": -0.12222222222222222
+    },
+    {
+      "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
+      "link": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html",
+      "published": "Thu, 05 Nov 2026 20:24:50 +0000",
+      "sentiment": 0.08727272727272725
+    },
+    {
       "title": "JoAnna Mendoza Wins in Arizona, Giving Democrats a Key House Pickup",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/arizona-house-6-ciscomani-mendoza.html",
       "published": "Thu, 05 Nov 2026 19:45:13 +0000",
@@ -15,13 +27,13 @@
     {
       "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
       "link": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
-      "published": "Thu, 05 Nov 2026 19:45:42 +0000",
-      "sentiment": 0.0
+      "published": "Thu, 05 Nov 2026 20:33:40 +0000",
+      "sentiment": -0.05
     },
     {
       "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
-      "published": "Thu, 05 Nov 2026 19:38:04 +0000",
+      "published": "Thu, 05 Nov 2026 20:20:34 +0000",
       "sentiment": 0.2875
     },
     {
@@ -81,7 +93,7 @@
     {
       "title": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
-      "published": "Thu, 05 Nov 2026 19:43:31 +0000",
+      "published": "Thu, 05 Nov 2026 20:23:53 +0000",
       "sentiment": 0.6
     },
     {
@@ -99,7 +111,7 @@
     {
       "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-      "published": "Thu, 05 Nov 2026 18:34:50 +0000",
+      "published": "Thu, 05 Nov 2026 20:20:35 +0000",
       "sentiment": 0.15
     },
     {
@@ -111,7 +123,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump/heres-the-latest",
-      "published": "Thu, 05 Nov 2026 19:47:09 +0000",
+      "published": "Thu, 05 Nov 2026 20:11:46 +0000",
       "sentiment": 0.5
     },
     {
@@ -257,12 +269,6 @@
       "link": "https://www.nytimes.com/2026/11/04/us/texas-democrats-governing.html",
       "published": "Wed, 04 Nov 2026 21:18:33 +0000",
       "sentiment": 0.225
-    },
-    {
-      "title": "A day after a stinging midterm defeat, Trump focuses on his ballroom.",
-      "link": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/a-day-after-a-stinging-midterm-defeat-trump-focuses-on-his-ballroom",
-      "published": "Thu, 05 Nov 2026 00:33:16 +0000",
-      "sentiment": 0.0
     }
   ]
 }
