@@ -19,6 +19,18 @@
       "sentiment": 0.3181818181818182
     },
     {
+      "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
+      "published": "Thu, 05 Nov 2026 13:27:52 +0000",
+      "sentiment": 0.05714285714285715
+    },
+    {
+      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+      "published": "Thu, 05 Nov 2026 13:06:32 +0000",
+      "sentiment": -0.2
+    },
+    {
       "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
       "published": "Thu, 05 Nov 2026 05:01:06 +0000",
@@ -37,10 +49,10 @@
       "sentiment": -0.06666666666666667
     },
     {
-      "title": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
-      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
-      "published": "Thu, 05 Nov 2026 10:56:11 +0000",
-      "sentiment": 0.25
+      "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+      "published": "Thu, 05 Nov 2026 13:02:20 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
@@ -67,34 +79,22 @@
       "sentiment": 0.25
     },
     {
-      "title": "Why Doctors in Thailand Fear KFC",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
-      "published": "Wed, 04 Nov 2026 10:01:48 +0000",
-      "sentiment": 0.1666666666666667
-    },
-    {
-      "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
-      "published": "Wed, 04 Nov 2026 22:04:04 +0000",
-      "sentiment": 0.13333333333333333
-    },
-    {
       "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
       "published": "Thu, 05 Nov 2026 10:04:44 +0000",
       "sentiment": 0.025
     },
     {
-      "title": "Bob Dylan Meets With Pope Leo",
-      "link": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
-      "published": "Wed, 04 Nov 2026 23:14:39 +0000",
-      "sentiment": -0.125
-    },
-    {
       "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
       "link": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html",
       "published": "Thu, 05 Nov 2026 00:30:33 +0000",
       "sentiment": 0.06666666666666665
+    },
+    {
+      "title": "Bob Dylan Meets With Pope Leo",
+      "link": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+      "published": "Wed, 04 Nov 2026 23:14:39 +0000",
+      "sentiment": -0.125
     },
     {
       "title": "A Trump Reckoning",
@@ -109,6 +109,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
+      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+      "published": "Wed, 04 Nov 2026 22:04:04 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
       "title": "Senji Kuroi Has Died. He Interpreted ‘the Salaried Soul.’",
       "link": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
       "published": "Wed, 04 Nov 2026 18:23:57 +0000",
@@ -119,6 +125,12 @@
       "link": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
       "published": "Wed, 04 Nov 2026 10:23:53 +0000",
       "sentiment": 0.11111111111111112
+    },
+    {
+      "title": "Why Doctors in Thailand Fear KFC",
+      "link": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
+      "published": "Wed, 04 Nov 2026 10:01:48 +0000",
+      "sentiment": 0.1666666666666667
     },
     {
       "title": "Under Patagonian Spires: Where Pumas, Sheep Herding and Fine Dining Collide",
@@ -316,12 +328,6 @@
       "title": "Russia Senses Opportunity in Polish Political Turmoil",
       "link": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
       "published": "Mon, 02 Nov 2026 19:05:52 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
-      "published": "Mon, 02 Nov 2026 16:48:13 +0000",
       "sentiment": 0.0
     }
   ]
