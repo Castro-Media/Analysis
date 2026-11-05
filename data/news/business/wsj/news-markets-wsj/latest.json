@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Sinks 4% as Investors Retreat From AI Trade After Election",
+      "title": "Stock Market Today: Nasdaq Plunges 5% as Investors Retreat From AI Trade After Election",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 09:25:53 GMT",
-      "sentiment": 0.2
+      "sentiment": 0.5
+    },
+    {
+      "title": "Goldman’s Exclusive Club of Partners Welcomes an Influx from Wealth Management",
+      "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 18:27:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Insurer Sues Autism-Therapy Provider Over $160 Million in Allegedly Misleading Claims",
+      "link": "https://www.wsj.com/health/healthcare/insurer-sues-autism-therapy-provider-over-160-million-in-allegedly-misleading-claims-704ab4e4?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 18:13:00 GMT",
+      "sentiment": 0.45
     },
     {
       "title": "Will AI Throttle the Retirement Money Machine?",
@@ -37,12 +49,6 @@
       "sentiment": 0.8
     },
     {
-      "title": "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
-      "link": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 21:23:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
       "link": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 10:30:00 GMT",
@@ -65,12 +71,6 @@
       "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
       "published": "Fri, 30 Oct 2026 09:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
-      "link": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 09:30:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "BOE Expected to Join Peers in Raising Key Rate",
@@ -103,34 +103,40 @@
       "sentiment": 0.125
     },
     {
-      "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-to-eight-week-lows-as-markets-digest-midterm-results-7effce3e?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 16:37:00 GMT",
-      "sentiment": -0.03125
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-791ec72d?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 17:41:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d66d00d9?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 12:20:00 GMT",
+      "published": "Thu, 05 Nov 2026 17:29:00 GMT",
       "sentiment": 0.5
     },
     {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 12:16:00 GMT",
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-30f0ffc4?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 17:28:00 GMT",
+      "sentiment": 0.20833333333333334
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 17:24:00 GMT",
       "sentiment": 0.5
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1d720229?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 12:11:00 GMT",
-      "sentiment": 0.5
+      "published": "Thu, 05 Nov 2026 17:24:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-791ec72d?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 12:03:00 GMT",
-      "sentiment": 0.2
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 17:26:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "European Defense Stocks Under Pressure After Mixed Earnings, Midterm Results",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 19:16:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-971ddf6d?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 17:25:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Opinion | The Virgin Islands in Crisis",
@@ -199,10 +199,10 @@
       "sentiment": 0.39166666666666666
     },
     {
-      "title": "Gold Futures Extend Post-Midterm Gains",
+      "title": "Comex Gold Settles 1.02% Higher at $4102.50",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 16:39:00 GMT",
-      "sentiment": 0.0
+      "published": "Thu, 05 Nov 2026 18:41:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "U.S. Natural Gas Inventories Rise By 77 Billion Cubic Feet",
@@ -247,16 +247,16 @@
       "sentiment": 0.6
     },
     {
+      "title": "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
+      "link": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887?mod=rss_markets_main",
+      "published": "Tue, 03 Nov 2026 21:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "WSJ Dollar Index Falls 0.08% to 97.00",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 22:35:00 GMT",
       "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Binance Heist: ‘Welcome to Our World,’ CISOs Say",
-      "link": "https://www.wsj.com/pro/cybersecurity/binance-heist-welcome-to-our-world-cisos-say-1b40a4e7?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 12:46:00 GMT",
-      "sentiment": 0.15000000000000002
     },
     {
       "title": "The Morning Risk Report: The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",

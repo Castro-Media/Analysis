@@ -1,10 +1,46 @@
 {
   "entries": [
     {
-      "title": "At Least 3 Are Injured in Shooting at Des Moines Post Office",
+      "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
+      "published": "Thu, 05 Nov 2026 18:43:01 +0000",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+      "published": "Thu, 05 Nov 2026 18:41:04 +0000",
+      "sentiment": -0.17500000000000002
+    },
+    {
+      "title": "How Democrats Won Across the South",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
+      "published": "Thu, 05 Nov 2026 18:18:12 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Shannon Taylor Unseats 10-Term Republican in Virginia House Race",
+      "link": "https://www.nytimes.com/2026/11/05/us/virginia-house-1-wittman-taylor.html",
+      "published": "Thu, 05 Nov 2026 17:22:38 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Virginia House Republican Who Had Seemed Vulnerable Fends Off Democrat",
+      "link": "https://www.nytimes.com/2026/11/05/us/virginia-house-5-mcguire-perriello.html",
+      "published": "Thu, 05 Nov 2026 17:08:23 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Sam Forstag, a Smoke Jumper, Flips a House Seat for Democrats in Montana",
+      "link": "https://www.nytimes.com/2026/11/05/us/forstag-flint-montana-first-house-district.html",
+      "published": "Thu, 05 Nov 2026 17:34:14 +0000",
+      "sentiment": 0.375
+    },
+    {
+      "title": "3 Are Injured in Shooting at Des Moines Post Office",
       "link": "https://www.nytimes.com/2026/11/05/us/des-moines-post-office-shooting-iowa.html",
-      "published": "Thu, 05 Nov 2026 16:36:02 +0000",
-      "sentiment": -0.15
+      "published": "Thu, 05 Nov 2026 18:31:43 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "What to Know About Sexual Abuse Settlements Paid by Catholic Dioceses in the U.S.",
@@ -15,7 +51,7 @@
     {
       "title": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
-      "published": "Thu, 05 Nov 2026 15:39:39 +0000",
+      "published": "Thu, 05 Nov 2026 16:57:31 +0000",
       "sentiment": 0.6
     },
     {
@@ -33,7 +69,7 @@
     {
       "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-      "published": "Thu, 05 Nov 2026 16:09:28 +0000",
+      "published": "Thu, 05 Nov 2026 18:34:50 +0000",
       "sentiment": 0.15
     },
     {
@@ -45,7 +81,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump/heres-the-latest",
-      "published": "Thu, 05 Nov 2026 16:10:49 +0000",
+      "published": "Thu, 05 Nov 2026 18:27:03 +0000",
       "sentiment": 0.5
     },
     {
@@ -69,8 +105,8 @@
     {
       "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
       "link": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-      "published": "Thu, 05 Nov 2026 13:35:58 +0000",
-      "sentiment": 0.13333333333333333
+      "published": "Thu, 05 Nov 2026 17:49:05 +0000",
+      "sentiment": 0.041666666666666664
     },
     {
       "title": "The Machine, and the Messaging, That Won Texas for Democrats",
@@ -159,7 +195,7 @@
     {
       "title": "Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
       "link": "https://www.nytimes.com/2026/11/04/us/muslim-americans-el-sayed.html",
-      "published": "Thu, 05 Nov 2026 09:15:35 +0000",
+      "published": "Thu, 05 Nov 2026 09:15:36 +0000",
       "sentiment": 0.41875
     },
     {
@@ -221,30 +257,6 @@
       "link": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
       "published": "Wed, 04 Nov 2026 21:46:44 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "How the Audacious Trump Redistricting Push Backfired for Republicans in the Midterms",
-      "link": "https://www.nytimes.com/2026/11/04/us/trump-republican-redistricting-backfire.html",
-      "published": "Wed, 04 Nov 2026 20:13:17 +0000",
-      "sentiment": 0.37878787878787873
-    },
-    {
-      "title": "With Democrats’ Sweep, Congress Is Set to Reassert Power to Check Trump",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
-      "published": "Wed, 04 Nov 2026 19:51:04 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Kemp Nixes Georgia Redistricting Ahead of Keisha Lance Bottoms Term",
-      "link": "https://www.nytimes.com/2026/11/04/us/kemp-georgia-redistricting-keisha-lance-bottoms.html",
-      "published": "Wed, 04 Nov 2026 18:27:58 +0000",
-      "sentiment": 0.24675324675324675
-    },
-    {
-      "title": "Randy Villegas, a progressive Democrat, ousts a G.O.P. incumbent in California.",
-      "link": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/california-house-22-villegas-valadao",
-      "published": "Thu, 05 Nov 2026 00:30:13 +0000",
-      "sentiment": 0.0
     }
   ]
 }
