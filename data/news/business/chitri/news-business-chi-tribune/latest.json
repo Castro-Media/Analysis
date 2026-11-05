@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+      "link": "https://www.chicagotribune.com/2026/11/05/ai-stocks-wall-street/",
+      "published": "Thu, 05 Nov 2026 21:13:53 +0000",
+      "sentiment": -0.875
+    },
+    {
+      "title": "Amazon adds Uber Eats to list of services for Amazon Prime members",
+      "link": "https://www.chicagotribune.com/2026/11/05/amazon-uber-eats-prime-members/",
+      "published": "Thu, 05 Nov 2026 20:55:34 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Orland Park working to fix AI-powered call system, embraces new platform",
       "link": "https://www.chicagotribune.com/2026/11/05/orland-park-fix-ai-call-system/",
       "published": "Thu, 05 Nov 2026 19:54:45 +0000",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3%",
-      "link": "https://www.chicagotribune.com/2026/11/05/ai-stocks-wall-street/",
-      "published": "Thu, 05 Nov 2026 19:10:53 +0000",
-      "sentiment": 0.5
     },
     {
       "title": "Lurie’s plan to build new children’s hospital in Downers Grove approved by state board",
@@ -73,10 +79,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Oak Parkers overwhelmingly vote yes in advisory referendum on Israel boycott",
+      "title": "Oak Parkers vote yes in advisory referendum on Israel boycott",
       "link": "https://www.chicagotribune.com/2026/11/04/oak-park-israel-referendum-results/",
       "published": "Wed, 04 Nov 2026 21:20:45 +0000",
-      "sentiment": 0.5
+      "sentiment": 0.0
     },
     {
       "title": "New Best Buy CEO takes over as retail shifts ‘faster than at any point in our history’",
@@ -593,12 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/10/25/lake-street-bridge-work-will-extend-closure-of-green-and-pink-lines-downtown-for-2-more-days-city-says/",
       "published": "Sun, 25 Oct 2026 23:45:51 +0000",
       "sentiment": 0.06666666666666665
-    },
-    {
-      "title": "Israel boycott referendum question creates divide in Oak Park community",
-      "link": "https://www.chicagotribune.com/2026/10/25/oak-park-israel-referendum/",
-      "published": "Sun, 25 Oct 2026 10:07:46 +0000",
-      "sentiment": 0.0
     }
   ]
 }

@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Salon, a Pioneer of Digital Journalism, Shuts Down",
+      "link": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
+      "published": "Thu, 05 Nov 2026 21:49:22 +0000",
+      "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
+      "published": "Thu, 05 Nov 2026 21:16:14 +0000",
+      "sentiment": -0.075
+    },
+    {
       "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
       "published": "Thu, 05 Nov 2026 19:39:19 +0000",
@@ -15,8 +27,8 @@
     {
       "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
       "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-      "published": "Thu, 05 Nov 2026 18:57:11 +0000",
-      "sentiment": -0.1622222222222222
+      "published": "Thu, 05 Nov 2026 21:37:21 +0000",
+      "sentiment": -0.38518518518518513
     },
     {
       "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
@@ -69,7 +81,7 @@
     {
       "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
       "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-      "published": "Thu, 05 Nov 2026 20:16:52 +0000",
+      "published": "Thu, 05 Nov 2026 20:55:34 +0000",
       "sentiment": 0.1
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
       "published": "Mon, 02 Nov 2026 12:39:42 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
-      "link": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
-      "published": "Mon, 02 Nov 2026 21:36:41 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
-      "link": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
-      "published": "Mon, 02 Nov 2026 09:52:23 +0000",
-      "sentiment": 0.075
     }
   ]
 }
