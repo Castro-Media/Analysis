@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
+      "title": "Bank of England Raises Rates for First Time in Three Years",
+      "link": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+      "published": "Thu, 05 Nov 2026 12:48:53 +0000",
+      "sentiment": 0.15714285714285717
+    },
+    {
+      "title": "New Series of Bomb Threats Disrupts Flights in Europe",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+      "published": "Thu, 05 Nov 2026 12:37:56 +0000",
+      "sentiment": 0.3181818181818182
+    },
+    {
+      "title": "After Riots and Protests, French Workers Are Going on Strike",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-      "published": "Thu, 05 Nov 2026 10:06:44 +0000",
-      "sentiment": 0.17500000000000002
+      "published": "Thu, 05 Nov 2026 12:41:39 +0000",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/02/movies/pasolini-murder-investigation-rome.html",
       "published": "Wed, 04 Nov 2026 16:15:07 +0000",
       "sentiment": 0.11818181818181818
-    },
-    {
-      "title": "Why Orban and Vucic Broke With Trump on Election Denial",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
-      "published": "Mon, 02 Nov 2026 16:48:13 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
-      "published": "Mon, 02 Nov 2026 19:37:04 +0000",
-      "sentiment": 0.325
     }
   ]
 }

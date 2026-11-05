@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Flights Across Europe Diverted After Bomb Threats",
+      "link": "https://www.wsj.com/business/airlines/flights-across-europe-diverted-after-bomb-threats-2e860a9c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:47:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
+      "link": "https://www.wsj.com/business/deals/wendys-rejects-trians-1-4-billion-takeover-offer-984b1892?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:44:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
       "link": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 11:50:00 GMT",
@@ -25,16 +37,10 @@
       "sentiment": 0.08333333333333334
     },
     {
-      "title": "News Corp Revenue Rises, With Growth Across Most Segments",
-      "link": "https://www.wsj.com/business/media/news-corp-nwsa-q1-earnings-report-2027-stock-4545e08f?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 23:07:00 GMT",
-      "sentiment": 0.16666666666666669
-    },
-    {
-      "title": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 20:49:00 GMT",
-      "sentiment": 0.04666666666666666
+      "title": "Wendy’s Rejects $1.4 Billion Buyout Offer from Nelson Peltz’s Trian",
+      "link": "https://www.wsj.com/business/hospitality/wendys-rejects-1-4-billion-buyout-offer-from-nelson-peltzs-trian-c97c7b0d?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:37:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Ethan Allen Shareholders Hand Board Control to Activist Investor Doug Bergeron",
@@ -61,10 +67,22 @@
       "sentiment": -0.1
     },
     {
-      "title": "Carl Icahn’s CVR Energy Strikes $4 Billion Deal for Two Marathon Refineries",
-      "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 14:33:00 GMT",
-      "sentiment": 0.0
+      "title": "Papa John’s Cuts Outlook Again as Quarterly Sales Sink",
+      "link": "https://www.wsj.com/business/retail/papa-johns-cuts-outlook-again-as-quarterly-sales-sink-789ef18c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:45:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:16:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Kimberly-Clark Quarterly Net Up, Reiterates 2026 Adjusted EPS View",
+      "link": "https://www.wsj.com/business/earnings/kimberly-clark-quarterly-net-up-reiterates-2026-adjusted-eps-view-59813a0a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 11:54:00 GMT",
+      "sentiment": 0.06999999999999999
     },
     {
       "title": "Cigna Group Lifts Outlook as Revenue Climbs",
@@ -79,22 +97,28 @@
       "sentiment": -0.2
     },
     {
-      "title": "Americold Swings to Profit as Cold-Storage Demand Steadies",
-      "link": "https://www.wsj.com/logistics-report/americold-swings-to-profit-as-cold-storage-demand-steadies-f747d2a5?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 11:31:00 GMT",
-      "sentiment": 0.0
+      "title": "Molson Coors Cuts Outlook, Expects Soft Beer Demand to Continue",
+      "link": "https://www.wsj.com/business/earnings/molson-coors-cuts-outlook-expects-soft-beer-demand-to-continue-5718eeae?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:35:00 GMT",
+      "sentiment": 0.10000000000000002
     },
     {
-      "title": "Zillow Traffic Slides as High Mortgage Rates Freeze Housing Market",
-      "link": "https://www.wsj.com/business/earnings/zillow-revenue-rises-as-rentals-help-offset-weak-market-for-home-sales-02fc9d5e?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 22:47:00 GMT",
-      "sentiment": 0.16
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d66d00d9?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:20:00 GMT",
+      "sentiment": 0.5
     },
     {
-      "title": "Cava Group Sales Slump on Cyclospora Outbreak, Profit Down on Higher Costs",
-      "link": "https://www.wsj.com/business/earnings/cava-group-raises-same-restaurant-sales-view-on-higher-revenue-d7956af6?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 22:17:00 GMT",
-      "sentiment": 0.05486111111111111
+      "title": "Bombardier Raises Free 2026 Cash Flow Outlook as Profit Slips",
+      "link": "https://www.wsj.com/business/earnings/bombardier-raises-free-2026-cash-flow-outlook-as-profit-slips-847b5393?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:12:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Sony Boosts Guidance as Profit Jumps on ‘Spider-Man’ Hit, Game Strength",
+      "link": "https://www.wsj.com/business/earnings/sony-boosts-guidance-as-profit-jumps-on-spider-man-hit-game-strength-4e9322ae?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 11:55:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Six Flags Loss Narrows but Accident Seen Weighing on Results",
@@ -103,34 +127,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
-      "link": "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 10:20:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Maersk Shares Tumble After Earnings, Guidance Disappoint",
-      "link": "https://www.wsj.com/business/logistics/maersk-raises-guidance-again-on-higher-freight-rates-and-resilient-demand-12a571b0?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 09:41:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Air France-KLM Shares Jump After Strong Profit Eclipses Rising Fuel Bill",
-      "link": "https://www.wsj.com/business/earnings/air-france-klm-forecasts-higher-fuel-bill-as-middle-east-tensions-take-toll-ad9c7303?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 09:02:00 GMT",
-      "sentiment": 0.2888888888888889
-    },
-    {
-      "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
-      "link": "https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 08:58:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Toyota Raises Earnings Forecast After Higher Operating Profit",
+      "title": "Toyota Lifts Earnings Forecast; Stock Posts Biggest Gain in 39 Years",
       "link": "https://www.wsj.com/business/autos/toyota-raises-earnings-forecast-after-higher-operating-profit-a7f0879b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 06:12:00 GMT",
-      "sentiment": 0.15
+      "published": "Thu, 05 Nov 2026 11:54:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Americans Cut Back on Boats and RVs—but Can’t Stop Buying Harley-Davidsons",
@@ -193,6 +193,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1d720229?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:11:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Oil Prices Rise but Stay Below $100 as Traders Weigh Iran Diplomacy, Supply Outlook",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 10:38:00 GMT",
@@ -217,10 +223,10 @@
       "sentiment": 0.06666666666666667
     },
     {
-      "title": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 16:11:00 GMT",
-      "sentiment": -0.13999999999999999
+      "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic",
+      "link": "https://www.wsj.com/business/earnings/emirates-airline-profit-falls-after-iran-war-disrupts-air-traffic-1fb8717a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 10:20:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
@@ -247,10 +253,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "The Saudi Airline That Launched Right in the Middle of a War",
-      "link": "https://www.wsj.com/world/middle-east/the-saudi-airline-that-launched-right-in-the-middle-of-a-war-18a5a7cb?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 25 Oct 2026 02:00:00 GMT",
-      "sentiment": 0.13705357142857144
+      "title": "Fast-Casual Chain Cava’s Plan to Build a Manager Pipeline",
+      "link": "https://www.wsj.com/cfo-journal/fast-casual-chain-cavas-plan-to-build-a-manager-pipeline-170ddf18?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:03:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "A CFO’s Superpower in a Midterm Election: Planning for Multiple Scenarios",
@@ -274,12 +280,6 @@
       "title": "CFOs, Businesses Grapple with Midterm Uncertainty; Apple Beats Expectations",
       "link": "https://www.wsj.com/cfo-journal/cfos-businesses-grapple-with-midterm-uncertainty-apple-beats-expectations-e1d80901?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 12:36:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Telling Changes to Board Composition",
-      "link": "https://www.wsj.com/business/the-telling-changes-to-board-composition-3e42ee92?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 11:03:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,6 +313,18 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Can an AI Agent Be Your Next CMO? At Some Small Startups, It Already Is.",
+      "link": "https://www.wsj.com/cmo-today/can-an-ai-agent-be-your-next-cmo-at-some-small-startups-it-already-is-daca36aa?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 12:00:00 GMT",
+      "sentiment": -0.18333333333333335
+    },
+    {
+      "title": "News Corp Revenue Rises, With Growth Across Most Segments",
+      "link": "https://www.wsj.com/business/media/news-corp-nwsa-q1-earnings-report-2027-stock-4545e08f?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 23:07:00 GMT",
+      "sentiment": 0.16666666666666669
+    },
+    {
       "title": "Starbucks Revives Its Holiday Album and Hand-Drawn Ads for Coffeehouse Comeback",
       "link": "https://www.wsj.com/cmo-today/starbucks-revives-its-holiday-album-and-hand-drawn-ads-for-coffeehouse-comeback-5cb25899?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 14:33:00 GMT",
@@ -331,16 +343,22 @@
       "sentiment": 0.5
     },
     {
-      "title": "AI Faces the Electorate in a Multi-Front Midterm Clash",
-      "link": "https://www.wsj.com/cmo-today/ai-faces-the-electorate-in-a-multi-front-midterm-clash-13019b01?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 14:40:00 GMT",
-      "sentiment": -0.06666666666666667
+      "title": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
+      "link": "https://www.wsj.com/logistics-report/americold-gains-as-demand-for-refrigerated-storage-stabilizes-354b78c5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 11:58:00 GMT",
+      "sentiment": 0.25
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-49ef235d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 22:21:00 GMT",
-      "sentiment": 0.5
+      "title": "Americold Swings to Profit as Cold-Storage Demand Steadies",
+      "link": "https://www.wsj.com/logistics-report/americold-swings-to-profit-as-cold-storage-demand-steadies-f747d2a5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 11:31:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Maersk Shares Tumble After Earnings, Guidance Disappoint",
+      "link": "https://www.wsj.com/business/logistics/maersk-raises-guidance-again-on-higher-freight-rates-and-resilient-demand-12a571b0?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 09:41:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "European Freezer Hacks Highlight Risks to Internet-Connected Cold Chain",
@@ -353,24 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/u-s-factory-activity-continues-to-expand-cb975381?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 11:51:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Home Building Slows on Soaring Costs for Materials and Labor",
-      "link": "https://www.wsj.com/logistics-report/home-building-slows-on-soaring-costs-for-materials-and-labor-ade9da2c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 11:55:00 GMT",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Canadian National Railway’s Profit Rises as Freight Demand Lifts Revenue",
-      "link": "https://www.wsj.com/business/earnings/canadian-national-railways-profit-rises-as-freight-demand-lifts-revenue-bcf3e893?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 12:51:00 GMT",
-      "sentiment": 0.3416666666666667
-    },
-    {
-      "title": "Logistics Operators Push Off Holiday Hiring",
-      "link": "https://www.wsj.com/logistics-report/logistics-operators-push-off-holiday-hiring-ca0733d5?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 11:09:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Deutsche Telekom Raises Outlook, Plans Dividend Increase",
@@ -433,6 +433,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 20:49:00 GMT",
+      "sentiment": 0.04666666666666666
+    },
+    {
       "title": "The Skilled Trades Are Making More Room for Women",
       "link": "https://www.wsj.com/lifestyle/careers/the-skilled-trades-are-making-more-room-for-women-22032424?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 15:59:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/retail/how-beer-companies-stole-happy-hour-from-liquor-brands-342e96c7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 10:30:00 GMT",
       "sentiment": 0.8
-    },
-    {
-      "title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case",
-      "link": "https://www.wsj.com/business/3m-announces-7-4-billion-settlement-in-forever-chemicals-injuries-case-17dd1e41?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 00:39:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
