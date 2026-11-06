@@ -97,6 +97,12 @@
       "sentiment": 0.09166666666666666
     },
     {
+      "title": "Hong Kong Exchange Operator’s Net Profit Slips as Trading Activity Cools",
+      "link": "https://www.wsj.com/business/earnings/hong-kong-exchange-operators-net-profit-slips-as-trading-activity-cools-3e3ee0b8?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 04:47:00 GMT",
+      "sentiment": 0.025
+    },
+    {
       "title": "Macquarie Beats Expectations With 50% Jump in First-Half Profit",
       "link": "https://www.wsj.com/business/earnings/macquarie-beats-expectations-with-50-jump-in-first-half-profit-b8de7b98?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 23:44:00 GMT",
@@ -118,12 +124,6 @@
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 22:13:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 22:08:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 22:08:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Deutsche Telekom Raises Outlook, Plans Dividend Increase",
       "link": "https://www.wsj.com/business/earnings/deutsche-telekom-raises-outlook-plans-dividend-increase-cbb6085e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 06:58:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/earnings/spacex-supplier-stmicroelectronics-forecasts-strong-sales-on-ai-satellite-boost-ead95dbd?mod=pls_whats_news_us_business_f",
       "published": "Thu, 29 Oct 2026 07:01:00 GMT",
       "sentiment": 0.10833333333333334
-    },
-    {
-      "title": "T-Mobile Profit, Revenue Rise on Postpaid Growth",
-      "link": "https://www.wsj.com/business/earnings/t-mobile-profit-revenue-rise-on-postpaid-growth-ac984a43?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 28 Oct 2026 20:11:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Zipline Reaches $21.5 Billion Valuation as Drone Delivery Gains Traction",
@@ -475,16 +475,16 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
-      "link": "https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 15:55:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
       "link": "https://www.wsj.com/business/deals/wendys-rejects-trians-1-4-billion-takeover-offer-984b1892?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 13:20:00 GMT",
       "sentiment": 0.3
+    },
+    {
+      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave",
+      "link": "https://www.wsj.com/politics/elections/elon-musk-midterms-texas-blue-wave-bff60456?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 15:55:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Siemens Healthineers to Rebrand as Healthineers as Diagnostics Carve-Out Begins",
