@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
+      "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 23:33:00 GMT",
+      "sentiment": 0.011111111111111118
+    },
+    {
+      "title": "His Job Is to Turn Walmart’s Customer Data Into Profit",
+      "link": "https://www.wsj.com/business/retail/seth-dallaire-walmart-ef8827b5?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 23:25:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Readers Remember Their Favorite Small Businesses",
       "link": "https://www.wsj.com/business/entrepreneurship/reader-stories-small-business-3679b083?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 20:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 12:31:00 GMT",
       "sentiment": -0.0638888888888889
-    },
-    {
-      "title": "Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal",
-      "link": "https://www.wsj.com/logistics-report/zipline-valuation-soars-as-drone-startup-raises-funds-expands-walmart-deal-48676792?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 11:51:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Morning Risk Report: Companies Face Cyber Pain as Hackers Press AI Advantage",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-companies-face-cyber-pain-as-hackers-press-ai-advantage-706c84b7?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 11:45:00 GMT",
-      "sentiment": -0.3833333333333333
     },
     {
       "title": "General Mills Considering Separation of Haagen-Dazs Business Outside North America",
@@ -99,7 +99,7 @@
     {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-d73630aa?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 17:28:00 GMT",
+      "published": "Fri, 06 Nov 2026 21:56:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -349,6 +349,12 @@
       "sentiment": 0.1431818181818182
     },
     {
+      "title": "Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal",
+      "link": "https://www.wsj.com/logistics-report/zipline-valuation-soars-as-drone-startup-raises-funds-expands-walmart-deal-48676792?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 11:51:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
       "link": "https://www.wsj.com/logistics-report/americold-gains-as-demand-for-refrigerated-storage-stabilizes-354b78c5?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 11:58:00 GMT",
@@ -367,16 +373,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "European Freezer Hacks Highlight Risks to Internet-Connected Cold Chain",
-      "link": "https://www.wsj.com/logistics-report/european-freezer-hacks-highlight-risks-to-internet-connected-cold-chain-dda5923d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 04 Nov 2026 11:55:00 GMT",
-      "sentiment": -0.32499999999999996
-    },
-    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 21:53:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "The Morning Risk Report: Companies Face Cyber Pain as Hackers Press AI Advantage",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-companies-face-cyber-pain-as-hackers-press-ai-advantage-706c84b7?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 11:45:00 GMT",
+      "sentiment": -0.3833333333333333
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=pls_whats_news_us_business_f",
       "published": "Tue, 03 Nov 2026 10:30:00 GMT",
       "sentiment": 0.24
-    },
-    {
-      "title": "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-435c0f7e?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 12:35:00 GMT",
-      "sentiment": -0.10416666666666667
     },
     {
       "title": "Zipline Reaches $21.5 Billion Valuation as Drone Delivery Gains Traction",
@@ -463,16 +463,16 @@
       "sentiment": 0.16666666666666669
     },
     {
-      "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales",
-      "link": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 12:31:00 GMT",
-      "sentiment": -0.0638888888888889
-    },
-    {
       "title": "Musk Called It Tesla’s ‘Best Product Ever.’ Now the Cybertruck Is Being Scrapped.",
       "link": "https://www.wsj.com/business/autos/musk-called-it-teslas-best-product-ever-now-the-cybertruck-is-being-scrapped-0d2249c2?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 15:56:00 GMT",
       "sentiment": 1.0
+    },
+    {
+      "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales",
+      "link": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 12:31:00 GMT",
+      "sentiment": -0.0638888888888889
     },
     {
       "title": "The JPMorgan Alums Whose Big Bet on AI Stocks Is Being Put to the Test",
