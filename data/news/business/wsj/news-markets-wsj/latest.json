@@ -1,10 +1,28 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Plunges 5.5%; Investors Retreat From AI Trade After Election",
+      "title": "Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5%; Investors Retreat From AI Trade After Election",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 09:25:53 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Hedge Funds Dump Positions and Cut Staff as Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/hedge-funds-dump-positions-and-cut-staff-as-selloff-deepens-7eb14493?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 02:10:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The JPMorgan Alums Whose Big Bet on AI Stocks Is Being Put to the Test",
+      "link": "https://www.wsj.com/finance/investing/the-jpmorgan-alums-whose-big-bet-on-ai-stocks-is-being-put-to-the-test-df105aa1?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "The Birkin Fund Cashing In on the Hermès Luxury-Resale Market",
+      "link": "https://www.wsj.com/finance/investing/the-birkin-fund-cashing-in-on-the-hermes-luxury-resale-market-d9fac395?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
@@ -22,24 +40,6 @@
       "title": "Why Investors Are Searching for Hope in Home Builders",
       "link": "https://www.wsj.com/finance/stocks/why-investors-are-searching-for-hope-in-home-builders-07a525bd?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 22:45:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
-      "link": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 21:41:00 GMT",
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "title": "AI Panic Grips Stocks",
-      "link": "https://www.wsj.com/finance/investing/ai-panic-grips-stocks-60a59518?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 21:17:00 GMT",
-      "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
-      "link": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 20:46:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -73,6 +73,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
+      "link": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 20:46:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Goldman’s Exclusive Club of Partners Welcomes Its Biggest Class Since 2010",
       "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 18:54:00 GMT",
@@ -95,12 +101,6 @@
       "link": "https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1?mod=rss_markets_main",
       "published": "Thu, 29 Oct 2026 14:43:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Societe Generale Posts Profit, Revenue Increase in Third Quarter",
-      "link": "https://www.wsj.com/business/earnings/societe-generale-posts-profit-revenue-increase-in-3q-3a3e34ee?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 06:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -133,6 +133,12 @@
       "sentiment": 0.2833333333333333
     },
     {
+      "title": "Nikkei Falls 5.9%, Dragged by Chip Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 00:55:00 GMT",
+      "sentiment": -0.008333333333333331
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 22:13:00 GMT",
@@ -145,22 +151,16 @@
       "sentiment": -0.26875
     },
     {
-      "title": "Will AI Throttle the Retirement Money Machine?",
-      "link": "https://www.wsj.com/finance/investing/will-ai-throttle-the-retirement-money-machine-81d5b52d?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 11:24:00 GMT",
-      "sentiment": 0.0
+      "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 21:41:00 GMT",
+      "sentiment": -0.3333333333333333
     },
     {
-      "title": "European Defense Stocks Under Pressure After Mixed Earnings, Midterm Results",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-7-led-by-auto-pharma-stocks-f42def12?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 09:24:00 GMT",
-      "sentiment": -0.02
-    },
-    {
-      "title": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue",
-      "link": "https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 21:55:00 GMT",
-      "sentiment": 0.7
+      "title": "AI Panic Grips Stocks",
+      "link": "https://www.wsj.com/finance/investing/ai-panic-grips-stocks-60a59518?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 21:17:00 GMT",
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "Opinion | Politics Shakes Up the Markets",
@@ -199,6 +199,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "Oil Holds Gains After Selloff",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-holds-gains-after-selloff-ad231914?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 01:35:00 GMT",
+      "sentiment": 0.12499999999999999
+    },
+    {
       "title": "Gold Continues to Rise Amid Better Risk Sentiment",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 00:25:00 GMT",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 19:17:00 GMT",
       "sentiment": 0.04166666666666667
-    },
-    {
-      "title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
-      "link": "https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 08:58:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Asian Currencies Mixed; Diminishing Risk Appetite Might Weigh",
@@ -259,6 +259,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Elizabeth Warren’s Power in New Senate Is a Wall Street Nightmare",
+      "link": "https://www.wsj.com/politics/policy/elizabeth-warrens-power-in-new-senate-is-a-wall-street-nightmare-dff8fb6e?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.012121212121212116
+    },
+    {
       "title": "The Morning Risk Report: The Little-Known Chinese Bank in the Middle of Iranian and Russian Money Flows",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-little-known-chinese-bank-in-the-middle-of-iranian-and-russian-money-flows-1ea5c3f6?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 12:38:00 GMT",
@@ -283,12 +289,6 @@
       "sentiment": -0.0875
     },
     {
-      "title": "The Cat-and-Mouse Game Between Premium Credit-Card Firms and Points Junkies",
-      "link": "https://www.wsj.com/finance/banking/the-cat-and-mouse-game-between-premium-credit-card-firms-and-points-junkies-8ce2e30a?mod=rss_markets_main",
-      "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-      "sentiment": -0.45
-    },
-    {
       "title": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
       "link": "https://www.wsj.com/finance/investing/home-vs-stock-market-investment-6783607f?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 20:00:00 GMT",
@@ -301,6 +301,12 @@
       "sentiment": 0.45
     },
     {
+      "title": "Will AI Throttle the Retirement Money Machine?",
+      "link": "https://www.wsj.com/finance/investing/will-ai-throttle-the-retirement-money-machine-81d5b52d?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 11:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Stocks Surge, Oil Plummets on Democrat Victory",
       "link": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 21:32:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/index-funds-are-better-when-theyre-lucky-and-smart-3f64f351?mod=rss_markets_main",
       "published": "Wed, 04 Nov 2026 11:22:00 GMT",
       "sentiment": 0.26190476190476186
-    },
-    {
-      "title": "Apple Shares Slip, Meta Debt Costs Rise",
-      "link": "https://www.wsj.com/finance/stocks/apple-shares-slip-meta-debt-costs-rise-a8eb0510?mod=rss_markets_main",
-      "published": "Tue, 03 Nov 2026 21:21:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",

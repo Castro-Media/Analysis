@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "This is where a SoCal railway is about to fall into the sea. What is being done to save it",
+      "link": "https://www.latimes.com/california/story/2026-11-05/massive-sand-replenishment-slated-for-san-clemente-coast",
+      "published": "Fri, 6 Nov 2026 01:11:22 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "A second coyote spotted on the wildlife crossing over the 101 Freeway. 'Word gets out in the animal world'",
       "link": "https://www.latimes.com/environment/story/2026-11-05/second-coyote-wildlife-crossing-101-freeway-wallis-annenberg",
       "published": "Fri, 6 Nov 2026 00:35:44 GMT",
@@ -103,10 +109,10 @@
       "sentiment": 0.1
     },
     {
-      "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
-      "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
+      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
+      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
+      "sentiment": 0.1
     },
     {
       "title": "Why California's billionaire tax was a harder sell than expected",
@@ -121,10 +127,10 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
-      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
+      "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
+      "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.1
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
@@ -379,24 +385,6 @@
       "sentiment": 0.16545454545454544
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
-    },
-    {
-      "title": "L.A.'s next mayor faces high expectations, little room for error",
-      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.006874999999999999
-    },
-    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -407,6 +395,24 @@
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "L.A.'s next mayor faces high expectations, little room for error",
+      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.006874999999999999
+    },
+    {
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.016666666666666673
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
@@ -557,12 +563,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-31/ex-garden-grove-police-sergeant-kidnapped-assaulted-coworker-prosecutor-says",
       "published": "Sat, 31 Oct 2026 15:02:35 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
-      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.10000000000000002
     }
   ]
 }
