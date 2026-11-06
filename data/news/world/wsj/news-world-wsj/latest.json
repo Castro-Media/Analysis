@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Gulf Airports Built to Connect the World Are Now in the Crosshairs",
+      "link": "https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews",
+      "published": "Fri, 06 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israel’s Most Important Alliance Is Confronting Its Biggest Test in Decades",
+      "link": "https://www.wsj.com/world/middle-east/israels-most-important-alliance-is-confronting-its-biggest-test-in-decades-a7c019ae?mod=rss_worldnews",
+      "published": "Fri, 06 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.2833333333333333
+    },
+    {
       "title": "A Drone Maimed a Ukrainian Army Private. Could a Drone Also Save Him?",
       "link": "https://www.wsj.com/world/europe/ukraine-war-drone-rescue-c2e59cd6?mod=rss_worldnews",
       "published": "Fri, 06 Nov 2026 02:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 19:22:00 GMT",
       "sentiment": -0.21666666666666667
-    },
-    {
-      "title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
-      "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_worldnews",
-      "published": "Thu, 05 Nov 2026 17:54:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
-      "link": "https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd?mod=rss_worldnews",
-      "published": "Thu, 05 Nov 2026 10:49:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Billions of Dollars in Orders Complicating an End to U.S. Aid to Israel",
@@ -127,6 +127,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
+      "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_worldnews",
+      "published": "Thu, 05 Nov 2026 17:54:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Bank of England Raises Rates for First Time Since Start of Iran War",
       "link": "https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 13:26:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_worldnews",
       "published": "Mon, 02 Nov 2026 07:28:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "BOE Survey Points to Faster Price Rises, But Slowing Wage Growth",
-      "link": "https://www.wsj.com/world/uk/boe-survey-points-to-faster-price-rises-but-slowing-wage-growth-665e450b?mod=rss_worldnews",
-      "published": "Fri, 30 Oct 2026 10:10:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Opinion | Joshua Wong’s Brave Example",
@@ -373,6 +373,12 @@
       "sentiment": 0.03727272727272728
     },
     {
+      "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight",
+      "link": "https://www.wsj.com/world/how-trumps-war-in-iran-and-missteps-flipped-washington-overnight-f77dd2bd?mod=rss_worldnews",
+      "published": "Thu, 05 Nov 2026 10:49:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "What a Democratic Congress Means for Trump’s Foreign-Policy Agenda",
       "link": "https://www.wsj.com/world/what-a-democratic-congress-means-for-trumps-foreign-policy-agenda-19b05b61?mod=rss_worldnews",
       "published": "Wed, 04 Nov 2026 21:01:00 GMT",
@@ -389,12 +395,6 @@
       "link": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784?mod=rss_worldnews",
       "published": "Wed, 04 Nov 2026 11:03:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Democrats and Republicans Battle for Control of Congress",
-      "link": "https://www.wsj.com/politics/policy/democrats-and-republicans-battle-for-control-of-congress-a79fda24?mod=rss_worldnews",
-      "published": "Tue, 03 Nov 2026 22:49:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
