@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Rubio Says Elections in Venezuela Would ‘Ideally’ Be Held Next Year",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html",
+      "published": "Fri, 06 Nov 2026 00:18:09 +0000",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Trump Moves to Make Oval Office a National Monument",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
+      "published": "Fri, 06 Nov 2026 00:14:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "These 5 Midterm Races Tell the Story of the Democrats’ Blue Wave",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html",
+      "published": "Fri, 06 Nov 2026 00:03:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Major U.S. Cities That Have Elected Democratic Socialist Mayors",
+      "link": "https://www.nytimes.com/2026/11/05/us/elections/democratic-socialist-mayors.html",
+      "published": "Fri, 06 Nov 2026 00:05:23 +0000",
+      "sentiment": 0.30833333333333335
+    },
+    {
       "title": "‘Let’s Go, Bahhston’: Logan Airport Chooses Its New Voice",
       "link": "https://www.nytimes.com/2026/11/05/us/voice-of-logan-airport-boston-winner.html",
       "published": "Thu, 05 Nov 2026 23:48:47 +0000",
@@ -43,9 +67,9 @@
       "sentiment": 0.21818181818181817
     },
     {
-      "title": "Voters in 3 States Limit Trans Athletes",
+      "title": "Voters in 4 States Limit Trans Athletes",
       "link": "https://www.nytimes.com/2026/11/05/us/transgender-athlete-bans-referendums.html",
-      "published": "Thu, 05 Nov 2026 23:16:20 +0000",
+      "published": "Thu, 05 Nov 2026 23:16:21 +0000",
       "sentiment": 0.0
     },
     {
@@ -63,19 +87,19 @@
     {
       "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
       "link": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
-      "published": "Thu, 05 Nov 2026 23:51:47 +0000",
+      "published": "Fri, 06 Nov 2026 00:18:59 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Across the South, Black Voters Help Propel Democratic Wins",
+      "title": "Black Southerners Voted at Unusually High Levels — and They Voted for Democrats",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html",
-      "published": "Thu, 05 Nov 2026 20:33:25 +0000",
-      "sentiment": -0.12222222222222222
+      "published": "Fri, 06 Nov 2026 00:22:02 +0000",
+      "sentiment": -0.14555555555555552
     },
     {
       "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
       "link": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html",
-      "published": "Thu, 05 Nov 2026 20:24:50 +0000",
+      "published": "Fri, 06 Nov 2026 00:07:16 +0000",
       "sentiment": 0.08727272727272725
     },
     {
@@ -93,7 +117,7 @@
     {
       "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
       "link": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
-      "published": "Thu, 05 Nov 2026 21:36:07 +0000",
+      "published": "Fri, 06 Nov 2026 00:44:34 +0000",
       "sentiment": 0.0
     },
     {
@@ -177,7 +201,7 @@
     {
       "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-      "published": "Thu, 05 Nov 2026 22:10:09 +0000",
+      "published": "Thu, 05 Nov 2026 22:10:10 +0000",
       "sentiment": 0.15
     },
     {
@@ -189,7 +213,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump/heres-the-latest",
-      "published": "Thu, 05 Nov 2026 22:20:53 +0000",
+      "published": "Fri, 06 Nov 2026 00:21:08 +0000",
       "sentiment": 0.5
     },
     {
@@ -213,7 +237,7 @@
     {
       "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
       "link": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-      "published": "Thu, 05 Nov 2026 17:49:05 +0000",
+      "published": "Thu, 05 Nov 2026 17:49:06 +0000",
       "sentiment": 0.041666666666666664
     },
     {
@@ -237,7 +261,7 @@
     {
       "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
       "link": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
-      "published": "Thu, 05 Nov 2026 21:53:57 +0000",
+      "published": "Thu, 05 Nov 2026 21:53:58 +0000",
       "sentiment": 0.08766233766233766
     },
     {
@@ -249,32 +273,8 @@
     {
       "title": "Immigration Tactics Motivated Voters, Near and Far From Southern Border",
       "link": "https://www.nytimes.com/2026/11/04/us/immigration-voters-midterms.html",
-      "published": "Thu, 05 Nov 2026 22:45:44 +0000",
+      "published": "Fri, 06 Nov 2026 00:04:58 +0000",
       "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Golden State Valkyries Reign Supreme in San Francisco, a City of Start-Ups",
-      "link": "https://www.nytimes.com/2026/11/04/us/golden-state-valkyries-san-francisco-parade.html",
-      "published": "Thu, 05 Nov 2026 02:09:24 +0000",
-      "sentiment": 0.0715909090909091
-    },
-    {
-      "title": "Hispanic Voter Trends",
-      "link": "https://www.nytimes.com/video/us/elections/100000011262277/hispanic-voter-trends.html",
-      "published": "Thu, 05 Nov 2026 11:43:27 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "These Republicans Bet Big on Trump. It Didn’t Pay Off.",
-      "link": "https://www.nytimes.com/2026/11/04/us/trump-allies-defeated-midterms.html",
-      "published": "Thu, 05 Nov 2026 14:44:53 +0000",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "How Kansas Democrats Laid the Groundwork for Adam Hamilton’s Senate Upset",
-      "link": "https://www.nytimes.com/2026/11/04/us/kansas-adam-hamilton-democrats.html",
-      "published": "Wed, 04 Nov 2026 23:54:08 +0000",
-      "sentiment": 0.0
     }
   ]
 }
