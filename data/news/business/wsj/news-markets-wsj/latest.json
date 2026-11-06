@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Global Stocks Swoon as Selloff Spreads",
+      "title": "Stock Market Today: AI Stocks Set to Stage Rebound After Brutal Week for Nasdaq",
       "link": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 07:48:13 GMT",
-      "sentiment": 0.15000000000000002
+      "sentiment": -0.4375
     },
     {
       "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
@@ -103,10 +103,28 @@
       "sentiment": 0.0
     },
     {
+      "title": "Nasdaq Futures Steady After Asian AI Rout as Investors Brace for Jobs Day",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 09:34:00 GMT",
+      "sentiment": -0.07222222222222223
+    },
+    {
+      "title": "Dollar Could Strengthen If Upcoming U.S. Jobs Data Are Solid",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 09:08:00 GMT",
+      "sentiment": 0.10555555555555556
+    },
+    {
       "title": "Asian Equities Tumble as AI Selloff Deepens",
       "link": "https://www.wsj.com/finance/stocks/asian-equities-tumble-as-ai-selloff-deepens-89319881?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 08:51:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "European Indexes All Lower as Equity Selloff Intensifies",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 08:38:00 GMT",
+      "sentiment": -0.03125
     },
     {
       "title": "U.S. Treasurys Little Changed, Markets Await Employment Data",
@@ -115,28 +133,10 @@
       "sentiment": -0.075
     },
     {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d66d00d9?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 22:15:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-791ec72d?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 22:10:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1d720229?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 22:10:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "European Indexes All Lower as Equity Selloff Intensifies",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 08:38:00 GMT",
-      "sentiment": -0.03125
+      "title": "Hong Kong Exchange Operator’s Profit Slips as Trading, Listing Activity Cools",
+      "link": "https://www.wsj.com/business/earnings/hong-kong-exchange-operators-net-profit-slips-as-trading-activity-cools-3e3ee0b8?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 09:47:00 GMT",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -199,16 +199,22 @@
       "sentiment": 0.4
     },
     {
+      "title": "Oil Set for Sharp Weekly Fall After U.S. Midterms",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-holds-gains-after-selloff-ad231914?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 08:58:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Gold Falls But Remains on Track for Weekly Gains Ahead of Payrolls Data",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 08:51:00 GMT",
       "sentiment": 0.11875
     },
     {
-      "title": "Oil Holds Gains After Selloff",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-holds-gains-after-selloff-ad231914?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 01:35:00 GMT",
-      "sentiment": 0.12499999999999999
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-791ec72d?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 22:10:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "U.S. Natural Gas Futures Slip as Storage Continues to Build",
@@ -221,18 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 20:55:00 GMT",
       "sentiment": -0.12222222222222223
-    },
-    {
-      "title": "Gold Settles Higher As Yields, U.S. Dollar Weaken",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 19:17:00 GMT",
-      "sentiment": 0.04166666666666667
-    },
-    {
-      "title": "Swiss Franc Strengthens to 5-Month High Vs Euro After Tech Selloff",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 08:17:00 GMT",
-      "sentiment": 0.16
     },
     {
       "title": "WSJ Dollar Index Rises 0.11% to 97.05",
@@ -257,6 +251,12 @@
       "link": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887?mod=rss_markets_main",
       "published": "Tue, 03 Nov 2026 21:23:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "WSJ Dollar Index Falls 0.08% to 97.00",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
+      "published": "Mon, 02 Nov 2026 22:35:00 GMT",
+      "sentiment": -0.15555555555555556
     },
     {
       "title": "Elizabeth Warren’s Power in New Senate Is a Wall Street Nightmare",
