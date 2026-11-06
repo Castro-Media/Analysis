@@ -1,20 +1,26 @@
 {
   "entries": [
     {
+      "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
+      "published": "Fri, 06 Nov 2026 10:22:23 +0000",
+      "sentiment": 0.4
+    },
+    {
       "title": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
       "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
-      "published": "Fri, 06 Nov 2026 09:39:57 +0000",
+      "published": "Fri, 06 Nov 2026 10:00:19 +0000",
       "sentiment": 0.016666666666666663
     },
     {
-      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-      "published": "Fri, 06 Nov 2026 05:01:11 +0000",
-      "sentiment": -0.3666666666666667
+      "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+      "published": "Fri, 06 Nov 2026 10:54:43 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
       "published": "Fri, 06 Nov 2026 05:01:25 +0000",
       "sentiment": 0.09375
     },
@@ -23,6 +29,24 @@
       "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
       "published": "Fri, 06 Nov 2026 05:01:17 +0000",
       "sentiment": 0.04166666666666667
+    },
+    {
+      "title": "Alberta’s Librarians Brace for a New Era of ‘Book Bans’",
+      "link": "https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html",
+      "published": "Fri, 06 Nov 2026 10:00:45 +0000",
+      "sentiment": 0.12878787878787878
+    },
+    {
+      "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
+      "published": "Fri, 06 Nov 2026 10:00:58 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+      "published": "Fri, 06 Nov 2026 05:01:11 +0000",
+      "sentiment": -0.3666666666666667
     },
     {
       "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
@@ -61,30 +85,6 @@
       "sentiment": -0.3
     },
     {
-      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
-      "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-      "published": "Thu, 05 Nov 2026 20:38:43 +0000",
-      "sentiment": 0.275
-    },
-    {
-      "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
-      "published": "Thu, 05 Nov 2026 21:07:31 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
-      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
-      "published": "Thu, 05 Nov 2026 11:04:18 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "American Is Convicted of Murder in Case That Gripped Italy",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
-      "published": "Thu, 05 Nov 2026 16:33:59 +0000",
-      "sentiment": -0.025
-    },
-    {
       "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
       "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
       "published": "Fri, 06 Nov 2026 05:49:51 +0000",
@@ -107,6 +107,24 @@
       "link": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
       "published": "Fri, 06 Nov 2026 06:00:53 +0000",
       "sentiment": -0.15
+    },
+    {
+      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
+      "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+      "published": "Thu, 05 Nov 2026 20:38:43 +0000",
+      "sentiment": 0.275
+    },
+    {
+      "title": "American Is Convicted of Murder in Case That Gripped Italy",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
+      "published": "Thu, 05 Nov 2026 16:33:59 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "published": "Thu, 05 Nov 2026 21:07:31 +0000",
+      "sentiment": 0.2
     },
     {
       "title": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
@@ -135,7 +153,7 @@
     {
       "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
       "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-      "published": "Fri, 06 Nov 2026 08:00:04 +0000",
+      "published": "Fri, 06 Nov 2026 11:46:30 +0000",
       "sentiment": 0.25
     },
     {
@@ -143,6 +161,12 @@
       "link": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
       "published": "Thu, 05 Nov 2026 14:31:58 +0000",
       "sentiment": 0.1090909090909091
+    },
+    {
+      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+      "published": "Thu, 05 Nov 2026 11:04:18 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
@@ -299,24 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html",
       "published": "Tue, 03 Nov 2026 23:03:45 +0000",
       "sentiment": -0.2
-    },
-    {
-      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "published": "Wed, 04 Nov 2026 16:26:33 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
-      "link": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
-      "published": "Tue, 03 Nov 2026 20:58:18 +0000",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "Democrats Win Big",
-      "link": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
-      "published": "Wed, 04 Nov 2026 05:45:07 +0000",
-      "sentiment": 0.26666666666666666
     }
   ]
 }

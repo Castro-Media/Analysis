@@ -1,22 +1,28 @@
 {
   "entries": [
     {
-      "title": "Tanzanian opposition leader found guilty of incitement",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 09:33:31 GMT",
-      "sentiment": -0.08333333333333333
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 11:54:08 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "Kenyan court sentencing doomsday cult leader who murdered 191 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 09:14:04 GMT",
-      "sentiment": -0.25
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 11:36:14 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Somalia's top court rejects president's term extension amid political crisis",
       "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 08:18:10 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "She lost her sight - now she is fighting to make history for Africa",
+      "link": "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 11:04:00 GMT",
+      "sentiment": 0.11964285714285716
     },
     {
       "title": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
@@ -73,12 +79,6 @@
       "sentiment": -0.1
     },
     {
-      "title": "Why has Caf abandoned plans to hold Afcon every four years?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 17:33:02 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Demands for post-poll justice as Tanzania accused of weaponising counterterrorism laws",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8mgl5756o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 00:25:48 GMT",
@@ -97,12 +97,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 19:19:10 GMT",
-      "sentiment": 0.3
-    },
-    {
       "title": "Owono left out of Eq Guinea squad after death of De Miguel",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 11:18:39 GMT",
@@ -115,9 +109,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:40:38 GMT",
+      "title": "Why has Caf abandoned plans to hold Afcon every four years?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 17:33:02 GMT",
       "sentiment": 0.0
     },
     {
@@ -127,28 +121,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "Afcon to return to two-year cycle after Caf U-turn",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 08:39:36 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Judoka determined to prove refugees belong at Dakar 2026",
       "link": "https://www.bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 28 Oct 2026 14:50:04 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Ireland captain Stirling out of Namibia series",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ck5ynl41gqq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 17:22:21 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ulster's Augustus enjoying South Africa homecoming",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3lylzg00zg1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 08:06:24 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Inside the Russia-Africa summit in Moscow",

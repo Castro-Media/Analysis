@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "YouTuber Accused of Child Sexual Abuse Is Arrested After Discussing Behavior in Film",
+      "link": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html",
+      "published": "Fri, 06 Nov 2026 10:04:08 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Fed Up With Politics and Struggle, Young Voters Rose Up",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html",
+      "published": "Fri, 06 Nov 2026 10:03:48 +0000",
+      "sentiment": 0.1933333333333333
+    },
+    {
+      "title": "A Democrat Will Govern Texas. Republicans Won’t Make It Easy.",
+      "link": "https://www.nytimes.com/2026/11/06/us/texas-governor-democrat-gina-hinojosa.html",
+      "published": "Fri, 06 Nov 2026 10:03:37 +0000",
+      "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "Man’s ‘Bucket List’ Voyage Ends With Rescue From Sailboat After Weeks Adrift",
+      "link": "https://www.nytimes.com/2026/11/06/us/86-year-old-sailor-dog-rescue-california.html",
+      "published": "Fri, 06 Nov 2026 10:02:50 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Texas Led the Conservative Overhaul of Education. What Now?",
+      "link": "https://www.nytimes.com/2026/11/06/us/texas-conservative-education-reform-hinojosa.html",
+      "published": "Fri, 06 Nov 2026 10:02:37 +0000",
+      "sentiment": -0.14583333333333334
+    },
+    {
+      "title": "How the College Board Is Fighting A.I. Cheating on the SAT Tests",
+      "link": "https://www.nytimes.com/2026/11/06/us/college-board-cheating-sat.html",
+      "published": "Fri, 06 Nov 2026 10:00:33 +0000",
+      "sentiment": -0.13181818181818183
+    },
+    {
+      "title": "Day Drinking With the President",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
+      "published": "Fri, 06 Nov 2026 10:00:06 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "1 Officer Is Killed and 3 Are Wounded in Shootout on Suburban Denver Bus",
       "link": "https://www.nytimes.com/2026/11/06/us/lakewood-police-shooting-colorado-bus-dead.html",
       "published": "Fri, 06 Nov 2026 07:03:02 +0000",
@@ -69,7 +111,7 @@
     {
       "title": "Harriet Hancock, a Force in South Carolina’s Gay Rights Movement, Has Died",
       "link": "https://www.nytimes.com/2026/11/05/us/harriet-hancock-dead.html",
-      "published": "Thu, 05 Nov 2026 22:54:44 +0000",
+      "published": "Thu, 05 Nov 2026 22:54:45 +0000",
       "sentiment": 0.30833333333333335
     },
     {
@@ -233,48 +275,6 @@
       "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump/heres-the-latest",
       "published": "Fri, 06 Nov 2026 00:21:08 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
-      "published": "Thu, 05 Nov 2026 10:04:56 +0000",
-      "sentiment": 0.15833333333333333
-    },
-    {
-      "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
-      "published": "Fri, 06 Nov 2026 06:14:10 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-      "published": "Thu, 05 Nov 2026 10:04:44 +0000",
-      "sentiment": 0.025
-    },
-    {
-      "title": "‘Florida Is the Last Main Anchor Standing’ for Republicans",
-      "link": "https://www.nytimes.com/2026/11/05/us/florida-republicans-midterms.html",
-      "published": "Thu, 05 Nov 2026 17:49:06 +0000",
-      "sentiment": 0.041666666666666664
-    },
-    {
-      "title": "The Machine, and the Messaging, That Won Texas for Democrats",
-      "link": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html",
-      "published": "Thu, 05 Nov 2026 16:18:16 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Latino Voters Reshape Electoral Map Once Again",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/latino-voters-democrats.html",
-      "published": "Thu, 05 Nov 2026 16:34:46 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Why Trump’s Planned Arch Is Controversial",
-      "link": "https://www.nytimes.com/video/us/politics/100000011226304/trump-triumphal-arch-dc.html",
-      "published": "Thu, 05 Nov 2026 11:58:12 +0000",
-      "sentiment": 0.55
     }
   ]
 }

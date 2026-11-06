@@ -4,7 +4,25 @@
       "title": "Stock Market Today: AI Stocks Set to Stage Rebound After Brutal Week for Nasdaq",
       "link": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 07:48:13 GMT",
-      "sentiment": -0.4375
+      "sentiment": -0.2916666666666667
+    },
+    {
+      "title": "Profits Are About as Good as They’ll Get",
+      "link": "https://www.wsj.com/finance/stocks/profits-are-about-as-good-as-theyll-get-72154bc8?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 11:44:00 GMT",
+      "sentiment": 0.7
+    },
+    {
+      "title": "What the Midterm Shake-Up Means for Markets and Investors",
+      "link": "https://www.wsj.com/finance/investing/what-the-midterm-shake-up-means-for-markets-and-investors-b1135215?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 10:42:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "The Argument for Buying Treasury Bonds Is Still Strong",
+      "link": "https://www.wsj.com/finance/investing/the-argument-for-buying-treasury-bonds-is-still-strong-be338920?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.19259259259259257
     },
     {
       "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
@@ -23,24 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/the-jpmorgan-alums-whose-big-bet-on-ai-stocks-is-being-put-to-the-test-df105aa1?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 02:00:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "The Birkin Fund Cashing In on the Hermès Luxury-Resale Market",
-      "link": "https://www.wsj.com/finance/investing/the-birkin-fund-cashing-in-on-the-hermes-luxury-resale-market-d9fac395?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
-      "link": "https://www.wsj.com/finance/investing/how-to-keep-these-wild-market-moves-from-hijacking-your-financial-future-71ecb216?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Why Investors Are Searching for Hope in Home Builders",
-      "link": "https://www.wsj.com/finance/stocks/why-investors-are-searching-for-hope-in-home-builders-07a525bd?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 22:45:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "How the Data Center Backlash Could Play Into the Hands of Big Tech",
@@ -73,12 +73,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Monte dei Paschi Profit Rises as Intesa Takeover Looms",
-      "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-profit-rises-as-intesa-takeover-looms-1551efed?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 07:59:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
       "link": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 20:46:00 GMT",
@@ -103,16 +97,34 @@
       "sentiment": 0.0
     },
     {
-      "title": "Nasdaq Futures Steady After Asian AI Rout as Investors Brace for Jobs Day",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 09:34:00 GMT",
-      "sentiment": -0.07222222222222223
+      "title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
+      "link": "https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1?mod=rss_markets_main",
+      "published": "Thu, 29 Oct 2026 14:43:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
-      "title": "Dollar Could Strengthen If Upcoming U.S. Jobs Data Are Solid",
+      "title": "Falling Global Risk Appetite Supports Dollar",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 09:08:00 GMT",
-      "sentiment": 0.10555555555555556
+      "published": "Fri, 06 Nov 2026 11:47:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Big Tech Facing Data Center Backlash",
+      "link": "https://www.wsj.com/finance/investing/big-tech-facing-data-center-backlash-67683275?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Treasury Yields Turn Higher, Eurozone Bond Yields Drop",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasurys-little-changed-markets-await-employment-data-88f3f2b6?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 11:23:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Healthcare Stocks Caught Up in Market Selloff",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 10:11:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Asian Equities Tumble as AI Selloff Deepens",
@@ -121,16 +133,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "European Indexes All Lower as Equity Selloff Intensifies",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 08:38:00 GMT",
-      "sentiment": -0.03125
+      "title": "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding",
+      "link": "https://www.wsj.com/finance/commodities-futures/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding-169e36e1?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 11:16:00 GMT",
+      "sentiment": -0.19999999999999998
     },
     {
-      "title": "U.S. Treasurys Little Changed, Markets Await Employment Data",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasurys-little-changed-markets-await-employment-data-88f3f2b6?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 07:26:00 GMT",
-      "sentiment": -0.075
+      "title": "Nasdaq Futures Rally After Asian AI Rout as Investors Brace for Jobs Day",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 10:06:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Hong Kong Exchange Operator’s Profit Slips as Trading, Listing Activity Cools",
@@ -139,28 +151,16 @@
       "sentiment": 0.03333333333333333
     },
     {
+      "title": "Why Investors Are Searching for Hope in Home Builders",
+      "link": "https://www.wsj.com/finance/stocks/why-investors-are-searching-for-hope-in-home-builders-07a525bd?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 22:45:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 22:13:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 22:08:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-30f0ffc4?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 21:55:00 GMT",
-      "sentiment": 0.2833333333333333
-    },
-    {
-      "title": "U.S. Stocks Slide as AI Rally Hits a Wall",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-rally-hits-a-wall-ec689f1e?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 21:51:00 GMT",
-      "sentiment": -0.26875
     },
     {
       "title": "Opinion | Politics Shakes Up the Markets",
@@ -199,6 +199,12 @@
       "sentiment": 0.4
     },
     {
+      "title": "Global Food Prices Ease on Cheaper Grains, Dairy and Meat, UN Says",
+      "link": "https://www.wsj.com/finance/commodities-futures/global-food-prices-ease-on-cheaper-grains-dairy-and-meat-un-says-9b76eefd?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 10:25:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "Oil Set for Sharp Weekly Fall After U.S. Midterms",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-holds-gains-after-selloff-ad231914?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 08:58:00 GMT",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-slides-mirroring-oil-in-aftermath-of-democratic-sweep-70661a9a?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 21:13:00 GMT",
       "sentiment": 0.03000000000000001
-    },
-    {
-      "title": "Oil Futures Recover Some Lost Ground",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 20:55:00 GMT",
-      "sentiment": -0.12222222222222223
     },
     {
       "title": "WSJ Dollar Index Rises 0.11% to 97.05",
@@ -289,6 +289,18 @@
       "sentiment": -0.0875
     },
     {
+      "title": "The Birkin Fund Cashing In on the Hermès Luxury-Resale Market",
+      "link": "https://www.wsj.com/finance/investing/the-birkin-fund-cashing-in-on-the-hermes-luxury-resale-market-d9fac395?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
+      "link": "https://www.wsj.com/finance/investing/how-to-keep-these-wild-market-moves-from-hijacking-your-financial-future-71ecb216?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
       "link": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 21:41:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/home-vs-stock-market-investment-6783607f?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 20:00:00 GMT",
       "sentiment": 0.1875
-    },
-    {
-      "title": "Insurer Sues Autism-Therapy Provider Over $160 Million in Allegedly Misleading Claims",
-      "link": "https://www.wsj.com/health/healthcare/insurer-sues-autism-therapy-provider-over-160-million-in-allegedly-misleading-claims-704ab4e4?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 18:13:00 GMT",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Will AI Throttle the Retirement Money Machine?",
-      "link": "https://www.wsj.com/finance/investing/will-ai-throttle-the-retirement-money-machine-81d5b52d?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 11:24:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
