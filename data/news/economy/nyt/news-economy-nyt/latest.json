@@ -2,8 +2,20 @@
   "entries": [
     {
       "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/economy-jobs-unemployment",
-      "published": "Fri, 06 Nov 2026 14:00:40 +0000",
+      "link": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
+      "published": "Fri, 06 Nov 2026 16:42:38 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+      "link": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+      "published": "Fri, 06 Nov 2026 16:02:33 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
+      "published": "Fri, 06 Nov 2026 16:43:09 +0000",
       "sentiment": 0.5
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
       "published": "Sun, 25 Oct 2026 03:18:02 +0000",
       "sentiment": -0.012499999999999983
-    },
-    {
-      "title": "Iran, Taunting Trump Over Gas Prices, Braces for Aftermath of Midterm Elections",
-      "link": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
-      "published": "Tue, 20 Oct 2026 09:01:54 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
-      "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
-      "published": "Sun, 18 Oct 2026 09:00:50 +0000",
-      "sentiment": -0.0022222222222221997
     }
   ]
 }

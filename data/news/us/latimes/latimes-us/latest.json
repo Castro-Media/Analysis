@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Meghan Markle's father arrested in California child pornography investigation",
+      "link": "https://www.latimes.com/world-nation/story/2026-11-06/thomas-meghan-markle-father-arrest",
+      "published": "Fri, 6 Nov 2026 15:17:26 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Ex-L.A. County deputy who smuggled heroin into a jail in Pringles cans sentenced to prison",
       "link": "https://www.latimes.com/california/story/2026-11-06/ex-l-a-county-deputy-who-smuggled-heroin-into-jail-in-pringles-cans-sentenced-to-prison",
       "published": "Fri, 6 Nov 2026 13:00:00 GMT",
@@ -19,7 +25,7 @@
       "sentiment": 0.25
     },
     {
-      "title": "This is where a SoCal railway is about to fall into the sea. What is being done to save it",
+      "title": "Can 700,000 cubic yards of sand save San Clemente's threatened railway from El Nino?",
       "link": "https://www.latimes.com/california/story/2026-11-05/massive-sand-replenishment-slated-for-san-clemente-coast",
       "published": "Fri, 6 Nov 2026 01:11:22 GMT",
       "sentiment": -0.16666666666666666
@@ -133,10 +139,10 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
-      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
+      "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
+      "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
+      "sentiment": 0.11742424242424243
     },
     {
       "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
@@ -145,10 +151,10 @@
       "sentiment": 0.1
     },
     {
-      "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
-      "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
+      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
+      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11742424242424243
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy",
@@ -403,22 +409,22 @@
       "sentiment": 0.16545454545454544
     },
     {
-      "title": "Utilities lobby for shield from wildfire costs",
-      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.12000000000000002
-    },
-    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": 0.11818181818181818
     },
     {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "title": "Utilities lobby for shield from wildfire costs",
+      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
+      "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
     },
     {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
@@ -427,10 +433,10 @@
       "sentiment": -0.006874999999999999
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
+      "sentiment": 0.016666666666666673
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
@@ -557,12 +563,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-31/dana-point-ritz-carlton-laguna-niguel-resort-sells-for-600-million",
       "published": "Sat, 31 Oct 2026 21:53:09 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Cascade of court rulings rebuffs Trump administration's election efforts",
-      "link": "https://www.latimes.com/politics/story/2026-10-31/cascade-of-court-rulings-rebuffs-trump-administrations-election-efforts",
-      "published": "Sat, 31 Oct 2026 18:10:01 GMT",
-      "sentiment": 0.0
     }
   ]
 }

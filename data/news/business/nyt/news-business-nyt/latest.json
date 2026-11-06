@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
+      "published": "Fri, 06 Nov 2026 16:42:38 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+      "link": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+      "published": "Fri, 06 Nov 2026 16:02:33 +0000",
+      "sentiment": -0.0625
+    },
+    {
       "title": "What Homeowners Should Know About Home Equity Contracts",
       "link": "https://www.nytimes.com/2026/11/06/your-money/home-equity-investment.html",
       "published": "Fri, 06 Nov 2026 14:00:06 +0000",
@@ -14,8 +26,8 @@
     },
     {
       "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/economy-jobs-unemployment",
-      "published": "Fri, 06 Nov 2026 14:00:40 +0000",
+      "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
+      "published": "Fri, 06 Nov 2026 16:43:09 +0000",
       "sentiment": 0.5
     },
     {
@@ -27,8 +39,8 @@
     {
       "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
       "link": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
-      "published": "Fri, 06 Nov 2026 13:17:14 +0000",
-      "sentiment": 0.025
+      "published": "Fri, 06 Nov 2026 15:07:20 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Swings in Farm Areas Helped Propel Democrats to Victory",
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
       "published": "Mon, 02 Nov 2026 23:10:21 +0000",
       "sentiment": 0.05
-    },
-    {
-      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
-      "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-      "published": "Tue, 03 Nov 2026 08:45:20 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "William Nordhaus Pioneered Putting a Price on Pollution",
-      "link": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-      "published": "Tue, 03 Nov 2026 00:27:42 +0000",
-      "sentiment": 1.0
     }
   ]
 }

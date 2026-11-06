@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Musk Called It Tesla’s ‘Best Product Ever.’ Now the Cybertruck Is Being Scrapped.",
+      "link": "https://www.wsj.com/business/autos/musk-called-it-teslas-best-product-ever-now-the-cybertruck-is-being-scrapped-0d2249c2?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 15:56:00 GMT",
+      "sentiment": 1.0
+    },
+    {
       "title": "Tesla’s Polarizing Cybertruck to Wind Down Production Amid Slow Sales",
       "link": "https://www.wsj.com/business/autos/tesla-winding-down-production-of-cybertruck-musk-says-89df7158?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 12:31:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/japan-urges-russia-to-return-control-of-japan-tobacco-assets-cfe0723e?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 06:47:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Dolly Parton’s Manager Drops Lawsuit Against Singer’s Nephew",
-      "link": "https://www.wsj.com/business/media/dolly-partons-manager-drops-lawsuit-against-singers-nephew-7c061a70?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 01:37:00 GMT",
-      "sentiment": -0.3
     },
     {
       "title": "General Mills Considering Separation of Haagen-Dazs Business Outside North America",
@@ -157,6 +157,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "Opinion | Methane Regulations and the Climate Debate",
+      "link": "https://www.wsj.com/opinion/methane-regulations-and-the-climate-debate-70e14c5a?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 16:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | More Hiring at Small Firms",
       "link": "https://www.wsj.com/opinion/more-hiring-at-small-firms-f19a0080?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 17:10:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/abigail-spanberger-dominion-nextera-energy-virginia-5f11925d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 02 Nov 2026 22:41:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Opinion | Why the Middle East Is Hard to Quit",
-      "link": "https://www.wsj.com/opinion/why-the-middle-east-is-hard-to-quit-35d62d55?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 22:22:00 GMT",
-      "sentiment": -0.09722222222222222
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -319,6 +319,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Dolly Parton’s Manager Drops Lawsuit Against Singer’s Nephew",
+      "link": "https://www.wsj.com/business/media/dolly-partons-manager-drops-lawsuit-against-singers-nephew-7c061a70?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 01:37:00 GMT",
+      "sentiment": -0.3
+    },
+    {
       "title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
       "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 17:54:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/earnings/nintendos-first-half-profit-rose-on-stronger-software-sales-new-mario-movie-917199b3?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 13:33:00 GMT",
       "sentiment": 0.22272727272727275
-    },
-    {
-      "title": "Can an AI Agent Be Your Next CMO? At Some Small Startups, It Already Is.",
-      "link": "https://www.wsj.com/cmo-today/can-an-ai-agent-be-your-next-cmo-at-some-small-startups-it-already-is-daca36aa?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 12:00:00 GMT",
-      "sentiment": -0.18333333333333335
     },
     {
       "title": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
@@ -469,16 +469,16 @@
       "sentiment": -0.0638888888888889
     },
     {
-      "title": "Goldman’s Exclusive Club of Partners Welcomes Its Biggest Class Since 2010",
-      "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 18:54:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "The JPMorgan Alums Whose Big Bet on AI Stocks Is Being Put to the Test",
       "link": "https://www.wsj.com/finance/investing/the-jpmorgan-alums-whose-big-bet-on-ai-stocks-is-being-put-to-the-test-df105aa1?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 02:00:00 GMT",
       "sentiment": 0.3
+    },
+    {
+      "title": "Goldman’s Exclusive Club of Partners Welcomes Its Biggest Class Since 2010",
+      "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 18:54:00 GMT",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
@@ -487,9 +487,9 @@
       "sentiment": 0.3
     },
     {
-      "title": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut",
-      "link": "https://www.wsj.com/health/healthcare/inside-cvss-decision-to-break-up-a-healthcare-juggernaut-39925a2e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 01:30:00 GMT",
+      "title": "The Elizabeth Holmes Movie Made This Jerky All the Rage. Can Its Maker Capitalize?",
+      "link": "https://www.wsj.com/business/retail/the-elizabeth-holmes-movie-made-this-jerky-all-the-rage-can-its-maker-capitalize-861cb615?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 04 Nov 2026 13:45:00 GMT",
       "sentiment": 0.0
     },
     {
