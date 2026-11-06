@@ -1,13 +1,43 @@
 {
   "entries": [
     {
+      "title": "No one wanted this Long Beach home until waves crashed into its living room",
+      "link": "https://www.latimes.com/california/story/2026-11-06/long-beach-home-damaged-waves-for-sale",
+      "published": "Fri, 6 Nov 2026 21:00:26 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Southwest flight from Orange County declares emergency, lands at LAX",
+      "link": "https://www.latimes.com/california/story/2026-11-06/southwest-flight-from-orange-county-declares-emergency-lands-at-lax",
+      "published": "Fri, 6 Nov 2026 20:55:55 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "Vincent Thomas Bridge closes for 16 months on Saturday. Here's what you need to know",
+      "link": "https://www.latimes.com/california/story/2026-11-06/vincent-thomas-bridge-closes-for-16-months-on-saturday-heres-what-you-need-to-know",
+      "published": "Fri, 6 Nov 2026 20:42:03 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Public transit issues expected to be high priority under Raman administration",
+      "link": "https://www.latimes.com/california/story/2026-11-06/could-ramans-win-be-turning-point-for-transit-in-los-angeles",
+      "published": "Fri, 6 Nov 2026 20:02:54 GMT",
+      "sentiment": 0.008571428571428579
+    },
+    {
+      "title": "Sheriff institutes new policy aimed at eliminating prohibited deputy cliques and gangs",
+      "link": "https://www.latimes.com/california/story/2026-11-06/sheriff-institutes-new-policy-aimed-at-eliminating-prohibited-deputy-cliques-gangs",
+      "published": "Fri, 6 Nov 2026 19:53:05 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "LAPD officer dies in training exercise in Huntington Beach, police say",
       "link": "https://www.latimes.com/california/story/2026-11-06/lapd-officer-dies-in-training-exercise-in-huntington-beach-police-say",
       "published": "Fri, 6 Nov 2026 19:11:15 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Meghan Markle's father arrested in California child pornography investigation",
+      "title": "Meghan Markle's estranged father arrested in California child pornography investigation",
       "link": "https://www.latimes.com/world-nation/story/2026-11-06/thomas-meghan-markle-father-arrest",
       "published": "Fri, 6 Nov 2026 15:17:26 GMT",
       "sentiment": -0.1
@@ -145,6 +175,12 @@
       "sentiment": 0.11742424242424243
     },
     {
+      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
+      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy",
       "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -161,12 +197,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
-      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "Amid controversy, California greenlights the state's first large reservoir in decades",
@@ -415,24 +445,6 @@
       "sentiment": 0.16545454545454544
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
-    },
-    {
-      "title": "L.A.'s next mayor faces high expectations, little room for error",
-      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.006874999999999999
-    },
-    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -443,6 +455,24 @@
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "L.A.'s next mayor faces high expectations, little room for error",
+      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.006874999999999999
+    },
+    {
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.016666666666666673
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
@@ -533,36 +563,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-01/from-lgbtq-rally-to-trunk-or-treat-governor-candidates-barnstorm-ca",
       "published": "Sun, 1 Nov 2026 19:35:14 GMT",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Woman killed by LAPD patrol car responding to Halloween party call",
-      "link": "https://www.latimes.com/california/story/2026-11-01/woman-killed-by-lapd-patrol-car-responding-to-halloween-party-call",
-      "published": "Sun, 1 Nov 2026 19:22:29 GMT",
-      "sentiment": -0.09523809523809523
-    },
-    {
-      "title": "L.A. to decide whether to stay the course with Mayor Bass or vote for change with Raman",
-      "link": "https://www.latimes.com/california/story/2026-11-01/bitter-la-mayors-race-ends-with-bass-raman-in-dead-heat",
-      "published": "Sun, 1 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Daylight saving time ends tonight. Here's when to set your clocks back",
-      "link": "https://www.latimes.com/california/story/2026-10-31/daylight-saving-time-ends-tonight-heres-when-to-set-your-clocks-back",
-      "published": "Sun, 1 Nov 2026 03:55:42 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "3 days trapped in a drain pipe — officers rescue man in Riverside",
-      "link": "https://www.latimes.com/environment/story/2026-10-31/3-days-trapped-in-drain-pipe-officers-rescue-man-in-riverside",
-      "published": "Sun, 1 Nov 2026 02:16:02 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Massive sewage main break prompts closure of all coastal waters off Long Beach",
-      "link": "https://www.latimes.com/california/story/2026-10-31/sewage-main-break-prompts-closure-of-all-coastal-waters-off-long-beach",
-      "published": "Sat, 31 Oct 2026 21:55:09 GMT",
-      "sentiment": 0.019047619047619042
     }
   ]
 }

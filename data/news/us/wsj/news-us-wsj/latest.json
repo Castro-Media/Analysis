@@ -1,15 +1,21 @@
 {
   "entries": [
     {
-      "title": "Saudi National Accused of Bugging OpenAI’s Office Pleads Not Guilty",
-      "link": "https://www.wsj.com/us-news/saudi-national-accused-of-bugging-openais-office-pleads-not-guilty-afb7069a?mod=rss_usnews",
-      "published": "Fri, 06 Nov 2026 19:54:00 GMT",
-      "sentiment": 0.25
+      "title": "Cornell Faculty Rebuke President Over Response to Sex-Assault Allegations",
+      "link": "https://www.wsj.com/us-news/education/cornell-michael-kotlikoff-no-confidence-vote-faculty-rape-allegations-b0a67d4e?mod=rss_usnews",
+      "published": "Fri, 06 Nov 2026 21:20:00 GMT",
+      "sentiment": 0.21428571428571427
     },
     {
       "title": "Meghan Markle’s Father Arrested on Charges Related to Child Sexual Abuse Materials",
       "link": "https://www.wsj.com/us-news/meghan-markles-father-arrested-on-charges-related-to-child-sexual-abuse-materials-90c2080f?mod=rss_usnews",
-      "published": "Fri, 06 Nov 2026 17:22:00 GMT",
+      "published": "Fri, 06 Nov 2026 20:53:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Saudi National Accused of Bugging OpenAI’s Office Pleads Not Guilty",
+      "link": "https://www.wsj.com/us-news/saudi-national-accused-of-bugging-openais-office-pleads-not-guilty-afb7069a?mod=rss_usnews",
+      "published": "Fri, 06 Nov 2026 19:54:00 GMT",
       "sentiment": 0.25
     },
     {
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/brooklyn-house-fire-kills-six-people-f475cbd9?mod=rss_usnews",
       "published": "Thu, 05 Nov 2026 22:25:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Colombia Arrests Mexican Judge Tied to Drug Gang Led by Ex-Olympian",
-      "link": "https://www.wsj.com/world/americas/colombia-arrests-mexican-judge-tied-to-drug-gang-led-by-ex-olympian-ba98c5c1?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 21:50:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "The Unlikely College Football Powerhouse Fueled by Texas Gas Money",
@@ -127,6 +127,24 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | The Antisemitic Philadelphia Bike Gang",
+      "link": "https://www.wsj.com/opinion/the-antisemitic-philadelphia-bike-gang-2d2189ed?mod=rss_usnews",
+      "published": "Fri, 06 Nov 2026 21:16:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Trump, the New Congress and the Solyndra Probe",
+      "link": "https://www.wsj.com/opinion/trump-the-new-congress-and-the-solyndra-probe-52a1cba2?mod=rss_usnews",
+      "published": "Fri, 06 Nov 2026 21:15:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Opinion | When It Comes to Weights and Measures, Trust but Verify",
+      "link": "https://www.wsj.com/opinion/when-it-comes-to-weights-and-measures-trust-but-verify-0c5da596?mod=rss_usnews",
+      "published": "Fri, 06 Nov 2026 21:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | The MAGA Coalition Disintegrates",
       "link": "https://www.wsj.com/opinion/the-maga-coalition-disintegrates-4179a2be?mod=rss_usnews",
       "published": "Fri, 06 Nov 2026 18:44:00 GMT",
@@ -145,22 +163,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Trump Is the Author of the Ruin",
-      "link": "https://www.wsj.com/opinion/trump-is-the-author-of-the-ruin-41827a6e?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 22:49:00 GMT",
-      "sentiment": 0.1666666666666667
-    },
-    {
-      "title": "Opinion | Some Ballot Surprises for Both Parties",
-      "link": "https://www.wsj.com/opinion/ballot-measures-2026-voter-id-taxes-abortion-transgender-sports-76b1678d?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 22:45:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Joshua Wong’s Brave Example",
-      "link": "https://www.wsj.com/opinion/joshua-wong-hong-kong-china-57d515d1?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 22:42:00 GMT",
-      "sentiment": 0.8
+      "title": "Colombia Arrests Mexican Judge Tied to Drug Gang Led by Ex-Olympian",
+      "link": "https://www.wsj.com/world/americas/colombia-arrests-mexican-judge-tied-to-drug-gang-led-by-ex-olympian-ba98c5c1?mod=rss_usnews",
+      "published": "Thu, 05 Nov 2026 21:50:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Democratic Socialist Nithya Raman Wins Los Angeles Mayor’s Race",
@@ -184,12 +190,6 @@
       "title": "Learjet Wreckage Found Miles Away From Crash Site, NTSB Says",
       "link": "https://www.wsj.com/us-news/learjet-wreckage-found-miles-away-from-crash-site-ntsb-says-c8af581d?mod=rss_usnews",
       "published": "Tue, 03 Nov 2026 21:52:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Supreme Court Shows Sympathy for Catholic Schools in Case on LGBTQ Protections",
-      "link": "https://www.wsj.com/us-news/law/supreme-court-shows-sympathy-for-catholic-schools-in-case-on-lgbtq-protections-cfa6f0c1?mod=rss_usnews",
-      "published": "Tue, 03 Nov 2026 19:42:00 GMT",
       "sentiment": 0.0
     },
     {
