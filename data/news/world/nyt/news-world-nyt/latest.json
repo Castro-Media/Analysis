@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+      "published": "Fri, 06 Nov 2026 05:01:11 +0000",
+      "sentiment": -0.3666666666666667
+    },
+    {
+      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
+      "published": "Fri, 06 Nov 2026 05:01:25 +0000",
+      "sentiment": 0.09375
+    },
+    {
+      "title": "Pope Leo’s Trip to Latin America: What to Know",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+      "published": "Fri, 06 Nov 2026 05:01:17 +0000",
+      "sentiment": 0.04166666666666667
+    },
+    {
+      "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
+      "published": "Fri, 06 Nov 2026 05:01:06 +0000",
+      "sentiment": 0.04999999999999999
+    },
+    {
+      "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
+      "published": "Fri, 06 Nov 2026 05:01:17 +0000",
+      "sentiment": 0.10714285714285714
+    },
+    {
       "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
       "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
       "published": "Thu, 05 Nov 2026 19:56:52 +0000",
@@ -55,60 +85,6 @@
       "sentiment": 0.04722222222222222
     },
     {
-      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-      "published": "Thu, 05 Nov 2026 20:38:38 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
-      "link": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
-      "published": "Thu, 05 Nov 2026 10:23:51 +0000",
-      "sentiment": 0.04444444444444443
-    },
-    {
-      "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
-      "published": "Thu, 05 Nov 2026 21:18:03 +0000",
-      "sentiment": 0.05714285714285715
-    },
-    {
-      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
-      "published": "Thu, 05 Nov 2026 21:34:35 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html",
-      "published": "Fri, 06 Nov 2026 05:01:24 +0000",
-      "sentiment": 0.09375
-    },
-    {
-      "title": "Pope Leo’s Trip to Latin America: What to Know",
-      "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
-      "published": "Fri, 06 Nov 2026 05:01:17 +0000",
-      "sentiment": 0.04166666666666667
-    },
-    {
-      "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
-      "published": "Fri, 06 Nov 2026 05:01:16 +0000",
-      "sentiment": 0.10714285714285714
-    },
-    {
-      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-      "published": "Fri, 06 Nov 2026 05:01:11 +0000",
-      "sentiment": -0.3666666666666667
-    },
-    {
-      "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
-      "published": "Fri, 06 Nov 2026 05:01:06 +0000",
-      "sentiment": 0.04999999999999999
-    },
-    {
       "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
       "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
       "published": "Fri, 06 Nov 2026 05:49:51 +0000",
@@ -129,7 +105,7 @@
     {
       "title": "The Dark Side of K-Pop",
       "link": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
-      "published": "Thu, 05 Nov 2026 20:35:13 +0000",
+      "published": "Fri, 06 Nov 2026 06:00:53 +0000",
       "sentiment": -0.15
     },
     {
@@ -137,6 +113,24 @@
       "link": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html",
       "published": "Thu, 05 Nov 2026 15:02:06 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
+      "published": "Thu, 05 Nov 2026 21:18:03 +0000",
+      "sentiment": 0.05714285714285715
+    },
+    {
+      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+      "published": "Thu, 05 Nov 2026 21:34:35 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+      "published": "Fri, 06 Nov 2026 08:00:04 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Everyone’s Talking About the ‘Blue Tsunami.’ In Japan, It’s Complicated.",
@@ -149,6 +143,12 @@
       "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
       "published": "Thu, 05 Nov 2026 10:04:44 +0000",
       "sentiment": 0.025
+    },
+    {
+      "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
+      "link": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
+      "published": "Thu, 05 Nov 2026 10:23:51 +0000",
+      "sentiment": 0.04444444444444443
     },
     {
       "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
@@ -317,12 +317,6 @@
       "link": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
       "published": "Tue, 03 Nov 2026 20:57:49 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html",
-      "published": "Tue, 03 Nov 2026 19:47:00 +0000",
-      "sentiment": 0.05000000000000001
     }
   ]
 }
