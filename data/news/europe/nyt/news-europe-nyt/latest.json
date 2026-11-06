@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "She Commands the Sunken Titanic, From 1,000 Miles Away",
+      "link": "https://www.nytimes.com/2026/11/06/arts/design/titanic-artifacts-federal-judge-maritime-law.html",
+      "published": "Fri, 06 Nov 2026 14:05:20 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+      "published": "Fri, 06 Nov 2026 13:11:33 +0000",
+      "sentiment": -0.41
+    },
+    {
       "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
       "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
       "published": "Fri, 06 Nov 2026 10:22:24 +0000",
@@ -21,7 +33,7 @@
     {
       "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
       "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-      "published": "Fri, 06 Nov 2026 05:01:25 +0000",
+      "published": "Fri, 06 Nov 2026 14:35:42 +0000",
       "sentiment": 0.09375
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
       "published": "Thu, 05 Nov 2026 16:53:44 +0000",
       "sentiment": 0.15714285714285717
-    },
-    {
-      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
-      "published": "Fri, 06 Nov 2026 11:46:30 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "After Barricades, Riots and Protests, French Workers Go on Strike",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-      "published": "Thu, 05 Nov 2026 19:03:51 +0000",
-      "sentiment": 0.0
     }
   ]
 }
