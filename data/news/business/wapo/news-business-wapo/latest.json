@@ -1,52 +1,106 @@
 {
   "entries": [
     {
-      "title": "Prices increased sharply in September in last inflation report ahead of elections",
-      "link": "https://www.washingtonpost.com/business/2026/10/14/prices-increased-september-last-inflation-report-ahead-elections/",
-      "published": "Wed, 14 Oct 2026 12:35:55 +0000",
-      "sentiment": 0.006249999999999999
-    },
-    {
-      "title": "This used to be a cornerstone of every job application. Not anymore.",
-      "link": "https://www.washingtonpost.com/business/2026/10/14/has-ai-made-cover-letter-obsolete/",
-      "published": "Wed, 14 Oct 2026 09:00:00 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Judge deals another blow to Trump’s White House media bans",
-      "link": "https://www.washingtonpost.com/business/2026/10/13/judge-deals-another-blow-trumps-white-house-media-bans/",
-      "published": "Wed, 14 Oct 2026 04:17:21 +0000",
+      "title": "Americans voted on the economy. Here’s what’s changed since Trump took office.",
+      "link": "https://www.washingtonpost.com/business/2026/11/06/how-economy-has-changed-since-trump-took-office/",
+      "published": "Fri, 06 Nov 2026 16:15:00 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Katie Zacharia calls herself a lawyer. Legal experts aren’t sure.",
-      "link": "https://www.washingtonpost.com/business/2026/10/13/katie-zacharia-calls-herself-lawyer-legal-experts-arent-sure/",
-      "published": "Tue, 13 Oct 2026 22:22:14 +0000",
-      "sentiment": 0.20909090909090908
+      "title": "Fox closes $22B deal to buy Roku, a transaction that will remake streaming",
+      "link": "https://www.washingtonpost.com/business/2026/11/06/fox-closes-22b-deal-buy-roku-transaction-that-will-remake-streaming/",
+      "published": "Fri, 06 Nov 2026 15:30:00 +0000",
+      "sentiment": 0.4
     },
     {
-      "title": "Treasury Department imposes $1.2 billion penalty against Bank of America",
-      "link": "https://www.washingtonpost.com/business/2026/10/13/bank-america-fined-12-billion-by-treasury-department/",
-      "published": "Tue, 13 Oct 2026 22:22:13 +0000",
-      "sentiment": -0.16666666666666669
+      "title": "Tech stocks rally as investors brace for more volatility",
+      "link": "https://www.washingtonpost.com/business/2026/11/06/asian-european-markets-slide-amid-fears-greater-ai-oversight/",
+      "published": "Fri, 06 Nov 2026 14:43:22 +0000",
+      "sentiment": 0.1875
     },
     {
-      "title": "Six Flags shuts roller coasters at six parks after death in Georgia",
-      "link": "https://www.washingtonpost.com/business/2026/10/13/six-flags-shuts-roller-coasters-six-parks-after-death-georgia/",
-      "published": "Tue, 13 Oct 2026 13:12:18 +0000",
-      "sentiment": -0.05
+      "title": "U.S. economy added 165,000 jobs in October, showing surprising strength",
+      "link": "https://www.washingtonpost.com/business/2026/11/06/us-economy-added-165000-job-october-strong-gain/",
+      "published": "Fri, 06 Nov 2026 14:29:13 +0000",
+      "sentiment": 0.41818181818181815
     },
     {
-      "title": "Can this family tackle $100,000 in student loan debt?",
-      "link": "https://www.washingtonpost.com/business/2026/10/13/here-how-handle-parent-plus-loans/",
-      "published": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "title": "Musk says Tesla will wind down Cybertruck production in Texas",
+      "link": "https://www.washingtonpost.com/business/2026/11/06/musk-says-tesla-will-wind-down-cybertruck-production-texas/",
+      "published": "Fri, 06 Nov 2026 13:25:00 +0000",
+      "sentiment": 0.04888888888888889
+    },
+    {
+      "title": "Everyone blames data centers for high electricity prices. But these are the real reasons.",
+      "link": "https://www.washingtonpost.com/climate-environment/2026/11/06/data-centers-may-not-be-raising-americans-electricity-bills-that-much/",
+      "published": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.12409090909090909
+    },
+    {
+      "title": "Open AI makes pledges on data center operation after midterm backlash",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/open-ai-makes-pledges-data-center-operation-after-midterm-backlash/",
+      "published": "Thu, 05 Nov 2026 22:50:00 +0000",
+      "sentiment": -0.05625
+    },
+    {
+      "title": "Salon, one of the earliest online news outlets, shuts down",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/salon-one-earliest-online-news-outlets-shuts-down/",
+      "published": "Thu, 05 Nov 2026 22:30:00 +0000",
+      "sentiment": 0.04722222222222222
+    },
+    {
+      "title": "Stocks tumble, erasing post-midterm gains as markets weigh future of AI build-out",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/us-stocks-slide-wiping-out-post-midterm-gains/",
+      "published": "Thu, 05 Nov 2026 21:32:15 +0000",
+      "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "U.S. taxpayers can shield an extra $500 from taxation next year",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/us-taxpayers-can-shield-an-extra-500-taxation-next-year/",
+      "published": "Thu, 05 Nov 2026 21:09:54 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Trump faces stiff bipartisan pushback to Russian diesel import deal",
-      "link": "https://www.washingtonpost.com/business/2026/10/12/administration-agreed-temporarily-roll-back-sanctions-russian-diesel-an-effort-bring-down-fuel-prices/",
-      "published": "Mon, 12 Oct 2026 22:02:45 +0000",
-      "sentiment": -0.04285714285714286
+      "title": "Oil prices hit two-month low following decisive midterm election results",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/oil-prices-hit-two-month-low-following-decisive-midterm-election-results/",
+      "published": "Thu, 05 Nov 2026 15:15:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The U.S. spent 50 years trying to escape oil shocks. They still upend elections.",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/us-spent-50-years-trying-escape-oil-shocks-they-still-upend-elections/",
+      "published": "Thu, 05 Nov 2026 10:00:00 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "If you’re aging alone, take these steps right now",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/six-steps-secure-your-care-when-aging-single/",
+      "published": "Thu, 05 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.14285714285714285
+    },
+    {
+      "title": "Trump’s favorite economic policy was among Tuesday’s biggest losers",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/real-cost-trump-tariffs/",
+      "published": "Thu, 05 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.12499999999999999
+    },
+    {
+      "title": "4 things to know if you’re returning to work after caregiving",
+      "link": "https://www.washingtonpost.com/business/2026/11/04/4-things-know-if-youre-returning-work-after-caregiving/",
+      "published": "Wed, 04 Nov 2026 23:00:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Stocks surged and oil prices fell as markets responded to the midterm rout",
+      "link": "https://www.washingtonpost.com/business/2026/11/04/stocks-surged-oil-prices-fell-markets-responded-midterm-rout/",
+      "published": "Wed, 04 Nov 2026 21:39:43 +0000",
+      "sentiment": 0.325
+    },
+    {
+      "title": "A MAGA media civil war erupts over who’s to blame for the GOP’s thrashing",
+      "link": "https://www.washingtonpost.com/business/2026/11/04/maga-media-civil-war-erupts-over-whos-blame-gops-thrashing/",
+      "published": "Wed, 04 Nov 2026 21:30:28 +0000",
+      "sentiment": 0.0
     }
   ]
 }
