@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "LAPD officer dies in training exercise in Huntington Beach, police say",
+      "link": "https://www.latimes.com/california/story/2026-11-06/lapd-officer-dies-in-training-exercise-in-huntington-beach-police-say",
+      "published": "Fri, 6 Nov 2026 19:11:15 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Meghan Markle's father arrested in California child pornography investigation",
       "link": "https://www.latimes.com/world-nation/story/2026-11-06/thomas-meghan-markle-father-arrest",
       "published": "Fri, 6 Nov 2026 15:17:26 GMT",
@@ -139,18 +145,6 @@
       "sentiment": 0.11742424242424243
     },
     {
-      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
-      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
-      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy",
       "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -159,6 +153,18 @@
     {
       "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
       "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
+      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
+      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": -0.16666666666666666
     },
@@ -409,6 +415,24 @@
       "sentiment": 0.16545454545454544
     },
     {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.016666666666666673
+    },
+    {
+      "title": "L.A.'s next mayor faces high expectations, little room for error",
+      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.006874999999999999
+    },
+    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -419,24 +443,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
-    },
-    {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "L.A.'s next mayor faces high expectations, little room for error",
-      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.006874999999999999
-    },
-    {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
@@ -557,12 +563,6 @@
       "link": "https://www.latimes.com/california/story/2026-10-31/sewage-main-break-prompts-closure-of-all-coastal-waters-off-long-beach",
       "published": "Sat, 31 Oct 2026 21:55:09 GMT",
       "sentiment": 0.019047619047619042
-    },
-    {
-      "title": "Dana Point landmark Ritz-Carlton, Laguna Niguel resort sells for $600 million",
-      "link": "https://www.latimes.com/california/story/2026-10-31/dana-point-ritz-carlton-laguna-niguel-resort-sells-for-600-million",
-      "published": "Sat, 31 Oct 2026 21:53:09 GMT",
-      "sentiment": 0.25
     }
   ]
 }
