@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Nov. 5, 2026: Nasdaq Plunges 5.5%; Investors Retreat From AI Trade After Election",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 09:25:53 GMT",
-      "sentiment": 0.5
+      "title": "Stock Market Today: Global Stocks Swoon as Selloff Spreads",
+      "link": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 07:48:13 GMT",
+      "sentiment": 0.15000000000000002
     },
     {
       "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
@@ -73,6 +73,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Monte dei Paschi Profit Rises as Intesa Takeover Looms",
+      "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-profit-rises-as-intesa-takeover-looms-1551efed?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 07:59:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis",
       "link": "https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 20:46:00 GMT",
@@ -97,10 +103,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
-      "link": "https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1?mod=rss_markets_main",
-      "published": "Thu, 29 Oct 2026 14:43:00 GMT",
-      "sentiment": 0.13636363636363635
+      "title": "Asian Equities Tumble as AI Selloff Deepens",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-tumble-as-ai-selloff-deepens-89319881?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 08:51:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Treasurys Little Changed, Markets Await Employment Data",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasurys-little-changed-markets-await-employment-data-88f3f2b6?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 07:26:00 GMT",
+      "sentiment": -0.075
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -121,6 +133,18 @@
       "sentiment": 0.5
     },
     {
+      "title": "European Indexes All Lower as Equity Selloff Intensifies",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 08:38:00 GMT",
+      "sentiment": -0.03125
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 22:13:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 22:08:00 GMT",
@@ -133,34 +157,10 @@
       "sentiment": 0.2833333333333333
     },
     {
-      "title": "U.S. Stock Market Will Likely Struggle to Regain October Peak",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 03:10:00 GMT",
-      "sentiment": 0.025
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-b120f508?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 22:13:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "U.S. Stocks Slide as AI Rally Hits a Wall",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-rally-hits-a-wall-ec689f1e?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 21:51:00 GMT",
       "sentiment": -0.26875
-    },
-    {
-      "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
-      "link": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 21:41:00 GMT",
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "title": "AI Panic Grips Stocks",
-      "link": "https://www.wsj.com/finance/investing/ai-panic-grips-stocks-60a59518?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 21:17:00 GMT",
-      "sentiment": 0.05000000000000002
     },
     {
       "title": "Opinion | Politics Shakes Up the Markets",
@@ -199,16 +199,16 @@
       "sentiment": 0.4
     },
     {
+      "title": "Gold Falls But Remains on Track for Weekly Gains Ahead of Payrolls Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 08:51:00 GMT",
+      "sentiment": 0.11875
+    },
+    {
       "title": "Oil Holds Gains After Selloff",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-holds-gains-after-selloff-ad231914?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 01:35:00 GMT",
       "sentiment": 0.12499999999999999
-    },
-    {
-      "title": "Gold Continues to Rise Amid Better Risk Sentiment",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 00:25:00 GMT",
-      "sentiment": 0.38571428571428573
     },
     {
       "title": "U.S. Natural Gas Futures Slip as Storage Continues to Build",
@@ -229,10 +229,10 @@
       "sentiment": 0.04166666666666667
     },
     {
-      "title": "Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows",
+      "title": "Swiss Franc Strengthens to 5-Month High Vs Euro After Tech Selloff",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 03:36:00 GMT",
-      "sentiment": -0.03819444444444445
+      "published": "Fri, 06 Nov 2026 08:17:00 GMT",
+      "sentiment": 0.16
     },
     {
       "title": "WSJ Dollar Index Rises 0.11% to 97.05",
@@ -289,6 +289,18 @@
       "sentiment": -0.0875
     },
     {
+      "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 21:41:00 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "AI Panic Grips Stocks",
+      "link": "https://www.wsj.com/finance/investing/ai-panic-grips-stocks-60a59518?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 21:17:00 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
       "title": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
       "link": "https://www.wsj.com/finance/investing/home-vs-stock-market-investment-6783607f?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 20:00:00 GMT",
@@ -307,18 +319,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Stocks Surge, Oil Plummets on Democrat Victory",
-      "link": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 21:32:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Index Funds Are Better When They’re Lucky and Smart",
-      "link": "https://www.wsj.com/finance/stocks/index-funds-are-better-when-theyre-lucky-and-smart-3f64f351?mod=rss_markets_main",
-      "published": "Wed, 04 Nov 2026 11:22:00 GMT",
-      "sentiment": 0.26190476190476186
-    },
-    {
       "title": "Trump Family-Linked Mining Venture Aims to Go Public in $2 Billion Deal",
       "link": "https://www.wsj.com/finance/trump-family-linked-mining-venture-aims-to-go-public-in-2-billion-deal-38d85946?mod=rss_markets_main",
       "published": "Mon, 02 Nov 2026 12:00:00 GMT",
@@ -331,16 +331,16 @@
       "sentiment": -0.075
     },
     {
-      "title": "How Your Finances Could Change if Democrats Repeat Their Win in 2028",
-      "link": "https://www.wsj.com/personal-finance/how-your-finances-could-change-if-democrats-repeat-their-win-in-2028-b7399634?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 14:14:00 GMT",
-      "sentiment": 0.4166666666666667
-    },
-    {
       "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
       "link": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 21:41:00 GMT",
       "sentiment": -0.3333333333333333
+    },
+    {
+      "title": "How Your Finances Could Change if Democrats Repeat Their Win in 2028",
+      "link": "https://www.wsj.com/personal-finance/how-your-finances-could-change-if-democrats-repeat-their-win-in-2028-b7399634?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 14:14:00 GMT",
+      "sentiment": 0.4166666666666667
     },
     {
       "title": "The Blue Wave Sets Off a Potential Regime Change in Markets",
