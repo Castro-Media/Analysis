@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Susie Wiles, Trump’s Chief of Staff, Accused of Blocking Health Policies to Attract Donations",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+      "published": "Fri, 06 Nov 2026 18:42:10 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+      "link": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+      "published": "Fri, 06 Nov 2026 17:38:29 +0000",
+      "sentiment": 0.2
+    },
+    {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest",
       "published": "Fri, 06 Nov 2026 16:42:38 +0000",
@@ -25,10 +37,10 @@
       "sentiment": -0.04999999999999999
     },
     {
-      "title": "Here’s the latest.",
+      "title": "Strong Hiring Reinforces a Sturdy Job Market",
       "link": "https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html",
-      "published": "Fri, 06 Nov 2026 16:43:09 +0000",
-      "sentiment": 0.5
+      "published": "Fri, 06 Nov 2026 17:05:27 +0000",
+      "sentiment": -0.08333333333333331
     },
     {
       "title": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
@@ -147,7 +159,7 @@
     {
       "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
       "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "published": "Thu, 05 Nov 2026 23:51:09 +0000",
+      "published": "Fri, 06 Nov 2026 17:09:35 +0000",
       "sentiment": -0.19999999999999998
     },
     {
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
       "published": "Tue, 03 Nov 2026 20:23:22 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "William Nordhaus Dies; Nobel Winner Influenced Climate Policy",
-      "link": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
-      "published": "Wed, 04 Nov 2026 15:04:11 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-      "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-      "published": "Mon, 02 Nov 2026 23:10:21 +0000",
-      "sentiment": 0.05
     }
   ]
 }
