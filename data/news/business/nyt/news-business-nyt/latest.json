@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
+      "link": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+      "published": "Thu, 05 Nov 2026 23:09:27 +0000",
+      "sentiment": 0.1431818181818182
+    },
+    {
+      "title": "Steve Kornacki and NBC Drew Crowds as Midterms Got a Ratings Bump",
+      "link": "https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html",
+      "published": "Thu, 05 Nov 2026 22:47:35 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
+      "link": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
+      "published": "Thu, 05 Nov 2026 22:16:51 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "Salon, a Pioneer of Digital Journalism, Shuts Down",
       "link": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
-      "published": "Thu, 05 Nov 2026 21:49:22 +0000",
+      "published": "Thu, 05 Nov 2026 23:29:23 +0000",
       "sentiment": -0.07777777777777778
     },
     {
@@ -27,7 +45,7 @@
     {
       "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
       "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
-      "published": "Thu, 05 Nov 2026 21:37:21 +0000",
+      "published": "Thu, 05 Nov 2026 22:51:38 +0000",
       "sentiment": -0.38518518518518513
     },
     {
@@ -69,20 +87,20 @@
     {
       "title": "In the Style of P.C. Vey: The Funniest Reader Cartoons We Received",
       "link": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
-      "published": "Thu, 05 Nov 2026 10:01:47 +0000",
+      "published": "Thu, 05 Nov 2026 22:21:47 +0000",
       "sentiment": 0.75
     },
     {
       "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
       "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "published": "Thu, 05 Nov 2026 16:51:48 +0000",
+      "published": "Thu, 05 Nov 2026 23:51:09 +0000",
       "sentiment": -0.19999999999999998
     },
     {
       "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
       "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-      "published": "Thu, 05 Nov 2026 20:55:34 +0000",
-      "sentiment": 0.1
+      "published": "Thu, 05 Nov 2026 23:18:21 +0000",
+      "sentiment": -0.049999999999999996
     },
     {
       "title": "White House Delays Hearing on Fed Governor",
@@ -281,24 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
       "published": "Mon, 02 Nov 2026 23:12:16 +0000",
       "sentiment": -0.22499999999999998
-    },
-    {
-      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-      "link": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "published": "Thu, 05 Nov 2026 17:19:41 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Seeking Fast Cars and Fat Wallets: A California Racetrack Looks to Grow",
-      "link": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
-      "published": "Wed, 04 Nov 2026 19:10:00 +0000",
-      "sentiment": 0.07977272727272727
-    },
-    {
-      "title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
-      "link": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
-      "published": "Mon, 02 Nov 2026 12:39:42 +0000",
-      "sentiment": 0.0
     }
   ]
 }

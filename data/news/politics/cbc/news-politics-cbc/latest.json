@@ -7,10 +7,10 @@
       "sentiment": 0.059272727272727276
     },
     {
-      "title": "Budget 2026: Ottawa bets on investment, major projects to boost Canada's economy",
+      "title": "Budget 2026: Opposition leaders express disappointment in Liberal government's plan for Canada's economy",
       "link": "https://www.cbc.ca/news/politics/livestory/canada-budget-2026-finance-minister-francois-philippe-champagne-prime-minister-mark-carney-live-updates-9.7403431?cmp=rss",
       "published": "Thu, 05 Nov 2026 14:59:37 EST",
-      "sentiment": 0.0625
+      "sentiment": -0.6
     },
     {
       "title": "7 takeaways from the Carney government's 2nd budget",
@@ -19,10 +19,16 @@
       "sentiment": 0.21212121212121213
     },
     {
-      "title": "From gas to groceries, how much is in the federal budget for your wallet?",
+      "title": "From groceries to tax credits, how much is in the federal budget for your wallet?",
       "link": "https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss",
       "published": "Thu, 05 Nov 2026 16:04:48 EST",
       "sentiment": 0.175
+    },
+    {
+      "title": "Carney's new budget aims to end homelessness in 10 years",
+      "link": "https://www.cbc.ca/news/politics/budget-homelessness-canada-decade-9.7411226?cmp=rss",
+      "published": "Thu, 05 Nov 2026 16:57:16 EST",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Carney government pledges $50B over 10 years for Indigenous programs, services",
@@ -113,12 +119,6 @@
       "link": "https://www.cbc.ca/news/politics/harper-carney-finance-minister-memoir-9.7408491?cmp=rss",
       "published": "Wed, 04 Nov 2026 08:18:56 EST",
       "sentiment": 0.11584415584415586
-    },
-    {
-      "title": "U.S. midterms: Democrats take control of Congress as voters hand Trump major loss",
-      "link": "https://www.cbc.ca/news/world/livestory/us-midterm-election-results-live-updates-2026-9.7403367?cmp=rss",
-      "published": "Tue, 03 Nov 2026 17:05:56 EST",
-      "sentiment": 0.0625
     }
   ]
 }

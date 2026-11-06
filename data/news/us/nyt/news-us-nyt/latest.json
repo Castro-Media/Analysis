@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "title": "‘Let’s Go, Bahhston’: Logan Airport Chooses Its New Voice",
+      "link": "https://www.nytimes.com/2026/11/05/us/voice-of-logan-airport-boston-winner.html",
+      "published": "Thu, 05 Nov 2026 23:48:47 +0000",
+      "sentiment": 0.005681818181818177
+    },
+    {
+      "title": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
+      "published": "Thu, 05 Nov 2026 23:47:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Hegseth Lashes Out at Critics Calling for His Firing",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
+      "published": "Thu, 05 Nov 2026 23:30:30 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
+      "published": "Thu, 05 Nov 2026 22:50:58 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Harriet Hancock, a Force in South Carolina’s Gay Rights Movement, Has Died",
+      "link": "https://www.nytimes.com/2026/11/05/us/harriet-hancock-dead.html",
+      "published": "Thu, 05 Nov 2026 22:54:44 +0000",
+      "sentiment": 0.30833333333333335
+    },
+    {
+      "title": "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
+      "published": "Thu, 05 Nov 2026 22:49:38 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Takes Fresh Aim at Alaska, Still Counting Its Senate Results",
+      "link": "https://www.nytimes.com/2026/11/05/us/politics/alaska-senate-peltola-sullivan-what-to-know.html",
+      "published": "Thu, 05 Nov 2026 22:21:53 +0000",
+      "sentiment": 0.21818181818181817
+    },
+    {
+      "title": "Voters in 3 States Limit Trans Athletes",
+      "link": "https://www.nytimes.com/2026/11/05/us/transgender-athlete-bans-referendums.html",
+      "published": "Thu, 05 Nov 2026 23:16:20 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "For Democrats, Midterm Wins Bring New Challenge",
       "link": "https://www.nytimes.com/video/us/politics/100000011261785/for-democrats-midterm-wins-bring-new-challenge.html",
       "published": "Thu, 05 Nov 2026 21:42:41 +0000",
@@ -9,13 +57,13 @@
     {
       "title": "In Alaska, Ranked-Choice Ballots Are Unlikely to Be Enough for Dan Sullivan",
       "link": "https://www.nytimes.com/2026/11/05/us/alaska-ranked-choice-data-sullivan-peltola.html",
-      "published": "Thu, 05 Nov 2026 21:37:37 +0000",
+      "published": "Thu, 05 Nov 2026 23:16:42 +0000",
       "sentiment": -0.15625
     },
     {
       "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
       "link": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
-      "published": "Thu, 05 Nov 2026 21:37:28 +0000",
+      "published": "Thu, 05 Nov 2026 23:51:47 +0000",
       "sentiment": 0.0
     },
     {
@@ -57,13 +105,13 @@
     {
       "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
-      "published": "Thu, 05 Nov 2026 19:31:51 +0000",
+      "published": "Thu, 05 Nov 2026 22:21:55 +0000",
       "sentiment": -0.7
     },
     {
       "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
-      "published": "Thu, 05 Nov 2026 18:43:01 +0000",
+      "published": "Thu, 05 Nov 2026 22:31:32 +0000",
       "sentiment": 0.0625
     },
     {
@@ -99,7 +147,7 @@
     {
       "title": "3 Are Injured in Shooting at Des Moines Post Office",
       "link": "https://www.nytimes.com/2026/11/05/us/des-moines-post-office-shooting-iowa.html",
-      "published": "Thu, 05 Nov 2026 20:54:43 +0000",
+      "published": "Thu, 05 Nov 2026 22:04:50 +0000",
       "sentiment": 0.0
     },
     {
@@ -129,7 +177,7 @@
     {
       "title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
-      "published": "Thu, 05 Nov 2026 20:20:35 +0000",
+      "published": "Thu, 05 Nov 2026 22:10:09 +0000",
       "sentiment": 0.15
     },
     {
@@ -141,7 +189,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump/heres-the-latest",
-      "published": "Thu, 05 Nov 2026 20:11:46 +0000",
+      "published": "Thu, 05 Nov 2026 22:20:53 +0000",
       "sentiment": 0.5
     },
     {
@@ -201,7 +249,7 @@
     {
       "title": "Immigration Tactics Motivated Voters, Near and Far From Southern Border",
       "link": "https://www.nytimes.com/2026/11/04/us/immigration-voters-midterms.html",
-      "published": "Thu, 05 Nov 2026 03:08:42 +0000",
+      "published": "Thu, 05 Nov 2026 22:45:44 +0000",
       "sentiment": 0.06666666666666667
     },
     {
@@ -227,48 +275,6 @@
       "link": "https://www.nytimes.com/2026/11/04/us/kansas-adam-hamilton-democrats.html",
       "published": "Wed, 04 Nov 2026 23:54:08 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
-      "published": "Thu, 05 Nov 2026 16:39:58 +0000",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Alaska and Mississippi Senate Races: What We Know About Vote Counts and Result Timing",
-      "link": "https://www.nytimes.com/2026/11/04/us/mississippi-alaska-senate-recount-provisional-ballots.html",
-      "published": "Wed, 04 Nov 2026 23:51:25 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
-      "published": "Thu, 05 Nov 2026 01:08:24 +0000",
-      "sentiment": -0.07878787878787878
-    },
-    {
-      "title": "G.O.P. Group Says Party Faces a ‘Crisis-Level’ Loss of Elected Women",
-      "link": "https://www.nytimes.com/2026/11/04/us/women-republicans-congress.html",
-      "published": "Wed, 04 Nov 2026 23:37:41 +0000",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
-      "link": "https://www.nytimes.com/2026/11/04/us/muslim-americans-el-sayed.html",
-      "published": "Thu, 05 Nov 2026 09:15:36 +0000",
-      "sentiment": 0.41875
-    },
-    {
-      "title": "Democrats eye inquiries into Trump actions on energy, public land.",
-      "link": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/congressional-investigations",
-      "published": "Wed, 04 Nov 2026 22:06:04 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "‘It Is Never Enough’: Susan Collins Couldn’t Outrun Trump",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/susan-collins-defeat-donald-trump.html",
-      "published": "Thu, 05 Nov 2026 01:30:53 +0000",
-      "sentiment": -0.1597222222222222
     }
   ]
 }
