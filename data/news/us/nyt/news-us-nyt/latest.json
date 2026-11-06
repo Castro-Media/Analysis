@@ -1,15 +1,27 @@
 {
   "entries": [
     {
+      "title": "Democratic Gains Could Advance an Alternative to the Electoral College",
+      "link": "https://www.nytimes.com/2026/11/05/us/elections/national-popular-vote-compact-midterm-elections-2028.html",
+      "published": "Fri, 06 Nov 2026 02:24:39 +0000",
+      "sentiment": 0.30727272727272725
+    },
+    {
+      "title": "In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized",
+      "link": "https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html",
+      "published": "Fri, 06 Nov 2026 01:03:27 +0000",
+      "sentiment": -0.1392857142857143
+    },
+    {
       "title": "Rubio Says Elections in Venezuela Would ‘Ideally’ Be Held Next Year",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html",
-      "published": "Fri, 06 Nov 2026 00:18:09 +0000",
+      "published": "Fri, 06 Nov 2026 02:42:55 +0000",
       "sentiment": 0.375
     },
     {
       "title": "Trump Moves to Make Oval Office a National Monument",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
-      "published": "Fri, 06 Nov 2026 00:14:20 +0000",
+      "published": "Fri, 06 Nov 2026 01:24:38 +0000",
       "sentiment": 0.0
     },
     {
@@ -81,13 +93,13 @@
     {
       "title": "In Alaska, Ranked-Choice Ballots Are Unlikely to Be Enough for Dan Sullivan",
       "link": "https://www.nytimes.com/2026/11/05/us/alaska-ranked-choice-data-sullivan-peltola.html",
-      "published": "Thu, 05 Nov 2026 23:16:42 +0000",
+      "published": "Fri, 06 Nov 2026 01:08:21 +0000",
       "sentiment": -0.15625
     },
     {
       "title": "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.",
       "link": "https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html",
-      "published": "Fri, 06 Nov 2026 00:18:59 +0000",
+      "published": "Fri, 06 Nov 2026 02:47:36 +0000",
       "sentiment": 0.0
     },
     {
@@ -99,7 +111,7 @@
     {
       "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
       "link": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html",
-      "published": "Fri, 06 Nov 2026 00:07:16 +0000",
+      "published": "Fri, 06 Nov 2026 02:51:22 +0000",
       "sentiment": 0.08727272727272725
     },
     {
@@ -123,7 +135,7 @@
     {
       "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
-      "published": "Thu, 05 Nov 2026 21:05:11 +0000",
+      "published": "Fri, 06 Nov 2026 01:36:29 +0000",
       "sentiment": 0.2875
     },
     {
@@ -141,7 +153,7 @@
     {
       "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
       "link": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-      "published": "Thu, 05 Nov 2026 21:42:17 +0000",
+      "published": "Fri, 06 Nov 2026 01:10:29 +0000",
       "sentiment": -0.0625
     },
     {
@@ -257,24 +269,6 @@
       "link": "https://www.nytimes.com/video/us/politics/100000011226304/trump-triumphal-arch-dc.html",
       "published": "Thu, 05 Nov 2026 11:58:12 +0000",
       "sentiment": 0.55
-    },
-    {
-      "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
-      "published": "Thu, 05 Nov 2026 21:53:58 +0000",
-      "sentiment": 0.08766233766233766
-    },
-    {
-      "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
-      "published": "Thu, 05 Nov 2026 15:20:18 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Immigration Tactics Motivated Voters, Near and Far From Southern Border",
-      "link": "https://www.nytimes.com/2026/11/04/us/immigration-voters-midterms.html",
-      "published": "Fri, 06 Nov 2026 00:04:58 +0000",
-      "sentiment": 0.06666666666666667
     }
   ]
 }
