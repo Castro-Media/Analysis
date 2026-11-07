@@ -1,22 +1,34 @@
 {
   "entries": [
     {
-      "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-      "published": "Fri, 06 Nov 2026 22:36:16 +0000",
-      "sentiment": 0.125
+      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+      "published": "Sat, 07 Nov 2026 05:01:07 +0000",
+      "sentiment": -0.175
     },
     {
       "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
       "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-      "published": "Sat, 07 Nov 2026 06:45:04 +0000",
-      "sentiment": 0.09805194805194806
+      "published": "Sat, 07 Nov 2026 09:44:35 +0000",
+      "sentiment": 0.0715909090909091
+    },
+    {
+      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+      "published": "Sat, 07 Nov 2026 01:29:30 +0000",
+      "sentiment": -0.025
     },
     {
       "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
       "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
       "published": "Fri, 06 Nov 2026 10:22:24 +0000",
       "sentiment": 0.4
+    },
+    {
+      "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "published": "Sat, 07 Nov 2026 08:02:08 +0000",
+      "sentiment": 0.125
     },
     {
       "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
@@ -73,34 +85,16 @@
       "sentiment": 0.12878787878787878
     },
     {
-      "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
-      "published": "Fri, 06 Nov 2026 18:23:32 +0000",
-      "sentiment": -0.125
-    },
-    {
-      "title": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-      "published": "Fri, 06 Nov 2026 12:28:55 +0000",
-      "sentiment": -0.3666666666666667
-    },
-    {
-      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-      "published": "Sat, 07 Nov 2026 05:01:07 +0000",
-      "sentiment": -0.175
+      "title": "Why Israel’s Ex-Army Chief’s Next Mission Could Be Mission Impossible",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "published": "Sat, 07 Nov 2026 09:47:05 +0000",
+      "sentiment": -0.14507575757575758
     },
     {
       "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
       "published": "Sat, 07 Nov 2026 05:01:04 +0000",
       "sentiment": 0.22499999999999998
-    },
-    {
-      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
-      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-      "published": "Sat, 07 Nov 2026 01:29:30 +0000",
-      "sentiment": -0.025
     },
     {
       "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
@@ -121,10 +115,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
+      "published": "Fri, 06 Nov 2026 18:23:32 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
       "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
       "published": "Fri, 06 Nov 2026 19:19:56 +0000",
       "sentiment": 0.10714285714285714
+    },
+    {
+      "title": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+      "published": "Fri, 06 Nov 2026 12:28:55 +0000",
+      "sentiment": -0.3666666666666667
     },
     {
       "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
@@ -311,12 +317,6 @@
       "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
       "published": "Wed, 04 Nov 2026 22:04:04 +0000",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Senji Kuroi Has Died. He Interpreted ‘the Salaried Soul.’",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html",
-      "published": "Wed, 04 Nov 2026 18:23:57 +0000",
-      "sentiment": 0.0
     }
   ]
 }
