@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Gunman Opens Fire in Krakow, Killing at Least 5, Polish Police Say",
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-      "published": "Sat, 07 Nov 2026 16:49:25 +0000",
-      "sentiment": -0.09999999999999999
+      "published": "Sat, 07 Nov 2026 19:21:41 +0000",
+      "sentiment": -0.13333333333333333
     },
     {
       "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
@@ -51,8 +51,8 @@
     {
       "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-      "published": "Sat, 07 Nov 2026 17:06:40 +0000",
-      "sentiment": 0.22499999999999998
+      "published": "Sat, 07 Nov 2026 19:21:43 +0000",
+      "sentiment": -0.08333333333333333
     },
     {
       "title": "Why Are There Protests in France?",
@@ -85,6 +85,12 @@
       "sentiment": 0.04166666666666667
     },
     {
+      "title": "Israeli Opposition Leader Tapped to Try to Form Government",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "published": "Sat, 07 Nov 2026 19:50:21 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
       "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
       "published": "Sat, 07 Nov 2026 11:00:07 +0000",
@@ -93,7 +99,7 @@
     {
       "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
       "link": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
-      "published": "Sat, 07 Nov 2026 18:52:27 +0000",
+      "published": "Sat, 07 Nov 2026 19:19:20 +0000",
       "sentiment": -1.3877787807814457e-17
     },
     {
@@ -317,12 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
       "published": "Thu, 05 Nov 2026 23:18:21 +0000",
       "sentiment": -0.049999999999999996
-    },
-    {
-      "title": "After Barricades, Riots and Protests, French Workers Go on Strike",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
-      "published": "Thu, 05 Nov 2026 19:03:51 +0000",
-      "sentiment": 0.0
     }
   ]
 }
