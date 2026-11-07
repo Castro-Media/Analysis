@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "With death sentence clemency, Newsom takes another big political risk",
+      "link": "https://www.latimes.com/california/story/2026-11-06/with-death-sentence-clemency-newsom-takes-another-big-political-risk",
+      "published": "Sat, 7 Nov 2026 03:29:48 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Barri Worth Girvan declares victory in race for West Valley seat on L.A. City Council",
+      "link": "https://www.latimes.com/california/story/2026-11-06/barri-worth-girvan-declares-victory-in-race-for-west-valley-seat-on-la-city-council",
+      "published": "Sat, 7 Nov 2026 03:07:30 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "2 skydivers killed while training for record-breaking maneuver in Lake Elsinore",
+      "link": "https://www.latimes.com/california/story/2026-11-06/2-skydivers-killed-following-air-emergency-in-lake-elsinore",
+      "published": "Sat, 7 Nov 2026 01:59:57 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "$11.4 million in Nvidia cargo reportedly stolen in Oakland heist",
+      "link": "https://www.latimes.com/california/story/2026-11-06/11-million-in-nvidia-cargo-reportedly-stolen-in-oakland-heist",
+      "published": "Sat, 7 Nov 2026 01:42:34 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Feds move to dismiss case over 20,000 California ballots after Supreme Court denied appeal",
       "link": "https://www.latimes.com/politics/story/2026-11-06/feds-move-to-dismiss-case-over-20-000-california-ballots-after-supreme-court-denied-appeal",
       "published": "Sat, 7 Nov 2026 01:18:46 GMT",
@@ -211,6 +235,12 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.075
+    },
+    {
       "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
       "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -221,12 +251,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.075
     },
     {
       "title": "Amid controversy, California greenlights the state's first large reservoir in decades",
@@ -545,24 +569,6 @@
       "link": "https://www.latimes.com/sports/story/2026-11-02/angels-eric-kay-files-another-appeal-supplying-tyler-skaggs-fentanyl",
       "published": "Mon, 2 Nov 2026 18:06:33 GMT",
       "sentiment": -0.03181818181818183
-    },
-    {
-      "title": "Newsom proposes $1-billion cap for film and TV tax incentive",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-11-02/governor-newsom-proposes-1-billion-cap-for-film-tv-tax-incentive",
-      "published": "Mon, 2 Nov 2026 17:16:22 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots",
-      "link": "https://www.latimes.com/politics/story/2026-11-02/trump-lawyers-ask-supreme-court-to-set-aside-20-000-california-ballots",
-      "published": "Mon, 2 Nov 2026 16:41:01 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "SoCal moves from Halloween storms to temperatures in the 80s",
-      "link": "https://www.latimes.com/california/story/2026-11-02/socal-moves-from-halloween-storms-to-temperatures-in-80s",
-      "published": "Mon, 2 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.25
     }
   ]
 }

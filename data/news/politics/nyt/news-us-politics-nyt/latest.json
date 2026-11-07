@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "U.S. Homeless Population Had Record Drop in 2025",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
+      "published": "Sat, 07 Nov 2026 03:09:53 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
+      "published": "Sat, 07 Nov 2026 03:08:57 +0000",
+      "sentiment": -0.13787878787878788
+    },
+    {
       "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
       "published": "Fri, 06 Nov 2026 23:53:13 +0000",
@@ -15,13 +27,13 @@
     {
       "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
-      "published": "Fri, 06 Nov 2026 22:13:11 +0000",
+      "published": "Sat, 07 Nov 2026 02:56:14 +0000",
       "sentiment": 0.21212121212121213
     },
     {
       "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
-      "published": "Sat, 07 Nov 2026 00:25:19 +0000",
+      "published": "Sat, 07 Nov 2026 02:18:42 +0000",
       "sentiment": 0.19999999999999998
     },
     {
@@ -75,7 +87,7 @@
     {
       "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
-      "published": "Fri, 06 Nov 2026 18:38:11 +0000",
+      "published": "Fri, 06 Nov 2026 18:38:12 +0000",
       "sentiment": -0.1
     },
     {
@@ -113,12 +125,6 @@
       "link": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
       "published": "Fri, 06 Nov 2026 14:07:34 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Rubio Says Elections in Venezuela Would ‘Ideally’ Be Held Next Year",
-      "link": "https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html",
-      "published": "Fri, 06 Nov 2026 02:42:55 +0000",
-      "sentiment": 0.375
     }
   ]
 }
