@@ -7,6 +7,12 @@
       "sentiment": 0.1462121212121212
     },
     {
+      "title": "Cornell faculty vote no confidence in university's leadership",
+      "link": "https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319?cmp=rss",
+      "published": "Fri, 06 Nov 2026 20:46:19 EST",
+      "sentiment": 0.25
+    },
+    {
       "title": "U.S. sanctions Canadian money-exchange businesses allegedly connected to Iranian regime, Ryan Wedding",
       "link": "https://www.cbc.ca/news/canada/us-government-sanctions-canadian-businesses-iran-transactions-9.7413168?cmp=rss",
       "published": "Fri, 06 Nov 2026 18:51:59 EST",
@@ -16,7 +22,7 @@
       "title": "Ousted Paraguayan president placed under house arrest",
       "link": "https://www.cbc.ca/news/world/paraguay-ousted-president-arrest-warrant-9.7413118?cmp=rss",
       "published": "Fri, 06 Nov 2026 19:17:06 EST",
-      "sentiment": 0.040746753246753246
+      "sentiment": -0.008617424242424242
     },
     {
       "title": "What we know about Europe's latest wave of bomb threats targeting flights — and now newsrooms",
@@ -113,12 +119,6 @@
       "link": "https://www.cbc.ca/news/business/ai-stocks-markets-9.7411079?cmp=rss",
       "published": "Thu, 05 Nov 2026 16:31:53 EST",
       "sentiment": -0.08828282828282828
-    },
-    {
-      "title": "Bomb threats affect at least 27 flights, leading to emergency landings at several European airports",
-      "link": "https://www.cbc.ca/news/world/europe-bomb-threats-czechia-poland-france-9.7410169?cmp=rss",
-      "published": "Thu, 05 Nov 2026 05:53:33 EST",
-      "sentiment": -0.05555555555555555
     }
   ]
 }
