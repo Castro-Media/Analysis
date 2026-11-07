@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+      "published": "Sat, 07 Nov 2026 20:35:29 +0000",
+      "sentiment": 0.008333333333333333
+    },
+    {
+      "title": "Alien Throne, a Unique Rock Formation in New Mexico, Collapses Amid Heavy Rains",
+      "link": "https://www.nytimes.com/2026/11/07/us/alien-throne-king-of-wings-new-mexico.html",
+      "published": "Sat, 07 Nov 2026 20:21:48 +0000",
+      "sentiment": 0.028503787878787875
+    },
+    {
+      "title": "Father Calls Daughter, the Co-Pilot Killed in Florida Crash, ‘a Hero’",
+      "link": "https://www.nytimes.com/2026/11/07/us/florida-jet-crash-father-pilot.html",
+      "published": "Sat, 07 Nov 2026 20:12:26 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "Judge Taps Lawyer to Investigate Trump Administration’s Conduct in Golf Course Case",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/washington-judge-special-master-trump-golf.html",
+      "published": "Sat, 07 Nov 2026 20:04:42 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Justice Department Intervenes in Planned Parenthood Lawsuit in Texas",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/doj-texas-fraud-lawsuit-planned-parenthood.html",
       "published": "Sat, 07 Nov 2026 17:54:25 +0000",
@@ -25,7 +49,7 @@
       "sentiment": 0.095
     },
     {
-      "title": "Schumer Is on Track to Remain Democratic Leader in Senate After Election Blowout, Aides Say",
+      "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
       "published": "Sat, 07 Nov 2026 16:22:29 +0000",
       "sentiment": 0.0
@@ -63,7 +87,7 @@
     {
       "title": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
-      "published": "Sat, 07 Nov 2026 13:11:20 +0000",
+      "published": "Sat, 07 Nov 2026 20:02:15 +0000",
       "sentiment": 0.009090909090909087
     },
     {
@@ -143,30 +167,6 @@
       "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
       "published": "Sat, 07 Nov 2026 02:18:43 +0000",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "California Still Has Nearly 5 Million Ballots to Count",
-      "link": "https://www.nytimes.com/2026/11/06/us/elections/california-elections-ballots-count.html",
-      "published": "Fri, 06 Nov 2026 20:46:38 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
-      "published": "Fri, 06 Nov 2026 21:05:43 +0000",
-      "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
-      "link": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
-      "published": "Sat, 07 Nov 2026 06:16:33 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ohio State Will Not Remove Wexner Name From Buildings Over Epstein Ties",
-      "link": "https://www.nytimes.com/2026/11/06/us/ohio-state-wexner-buildings-epstein.html",
-      "published": "Fri, 06 Nov 2026 19:58:49 +0000",
-      "sentiment": -0.3
     }
   ]
 }

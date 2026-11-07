@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+      "published": "Sat, 07 Nov 2026 20:35:29 +0000",
+      "sentiment": 0.008333333333333333
+    },
+    {
+      "title": "Judge Taps Lawyer to Investigate Trump Administration’s Conduct in Golf Course Case",
+      "link": "https://www.nytimes.com/2026/11/07/us/politics/washington-judge-special-master-trump-golf.html",
+      "published": "Sat, 07 Nov 2026 20:04:42 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Justice Department Intervenes in Planned Parenthood Lawsuit in Texas",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/doj-texas-fraud-lawsuit-planned-parenthood.html",
       "published": "Sat, 07 Nov 2026 17:54:25 +0000",
@@ -31,7 +43,7 @@
       "sentiment": 0.095
     },
     {
-      "title": "Schumer Is on Track to Remain Democratic Leader in Senate After Election Blowout, Aides Say",
+      "title": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html",
       "published": "Sat, 07 Nov 2026 16:22:29 +0000",
       "sentiment": 0.0
@@ -63,7 +75,7 @@
     {
       "title": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
       "link": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
-      "published": "Sat, 07 Nov 2026 13:11:20 +0000",
+      "published": "Sat, 07 Nov 2026 20:02:15 +0000",
       "sentiment": 0.009090909090909087
     },
     {
@@ -73,10 +85,10 @@
       "sentiment": -0.03333333333333333
     },
     {
-      "title": "With So Much New Blood in the Senate, the Average Age Is Falling. To 63.",
+      "title": "After the Midterms, the Average Age in the Senate Falls to 63",
       "link": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
-      "published": "Sat, 07 Nov 2026 09:58:34 +0000",
-      "sentiment": 0.019480519480519484
+      "published": "Sat, 07 Nov 2026 20:17:37 +0000",
+      "sentiment": 4.625929269271485e-18
     },
     {
       "title": "U.S. Homeless Population Had Record Drop in 2025",
@@ -113,12 +125,6 @@
       "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
       "published": "Sat, 07 Nov 2026 02:18:43 +0000",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
-      "published": "Fri, 06 Nov 2026 21:05:43 +0000",
-      "sentiment": -0.13333333333333333
     }
   ]
 }
