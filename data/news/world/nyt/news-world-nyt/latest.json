@@ -1,22 +1,34 @@
 {
   "entries": [
     {
-      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "published": "Sat, 07 Nov 2026 12:42:56 +0000",
-      "sentiment": 0.043181818181818175
-    },
-    {
       "title": "Gunman Opens Fire in Krakow, Killing at Least 5, Polish Police Say",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "published": "Sat, 07 Nov 2026 16:49:25 +0000",
       "sentiment": -0.09999999999999999
     },
     {
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "published": "Sat, 07 Nov 2026 16:39:31 +0000",
+      "sentiment": -0.02500000000000001
+    },
+    {
+      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "published": "Sat, 07 Nov 2026 12:42:56 +0000",
+      "sentiment": 0.043181818181818175
+    },
+    {
       "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
       "published": "Sat, 07 Nov 2026 09:57:14 +0000",
       "sentiment": -0.175
+    },
+    {
+      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+      "published": "Sat, 07 Nov 2026 17:26:52 +0000",
+      "sentiment": 0.18333333333333335
     },
     {
       "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
@@ -39,7 +51,7 @@
     {
       "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-      "published": "Sat, 07 Nov 2026 16:35:48 +0000",
+      "published": "Sat, 07 Nov 2026 17:06:40 +0000",
       "sentiment": 0.22499999999999998
     },
     {
@@ -57,7 +69,7 @@
     {
       "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
       "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-      "published": "Sat, 07 Nov 2026 01:29:30 +0000",
+      "published": "Sat, 07 Nov 2026 01:29:31 +0000",
       "sentiment": -0.025
     },
     {
@@ -67,28 +79,10 @@
       "sentiment": 0.4
     },
     {
-      "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-      "published": "Sat, 07 Nov 2026 08:02:08 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-      "published": "Fri, 06 Nov 2026 19:24:09 +0000",
-      "sentiment": 0.09375
-    },
-    {
       "title": "Pope Leo’s Trip to Latin America: What to Know",
       "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
       "published": "Fri, 06 Nov 2026 05:01:17 +0000",
       "sentiment": 0.04166666666666667
-    },
-    {
-      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
-      "published": "Sat, 07 Nov 2026 16:39:31 +0000",
-      "sentiment": -0.02500000000000001
     },
     {
       "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
@@ -107,6 +101,12 @@
       "link": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
       "published": "Fri, 06 Nov 2026 18:58:23 +0000",
       "sentiment": -0.075
+    },
+    {
+      "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "published": "Sat, 07 Nov 2026 08:02:08 +0000",
+      "sentiment": 0.125
     },
     {
       "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
@@ -167,6 +167,12 @@
       "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
       "published": "Fri, 06 Nov 2026 10:00:19 +0000",
       "sentiment": 0.016666666666666663
+    },
+    {
+      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+      "published": "Fri, 06 Nov 2026 19:24:09 +0000",
+      "sentiment": 0.09375
     },
     {
       "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
@@ -317,12 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
       "published": "Thu, 05 Nov 2026 19:03:51 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "The New Zealand Election That Could ‘Flip the Table’",
-      "link": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
-      "published": "Thu, 05 Nov 2026 08:11:46 +0000",
-      "sentiment": 0.0872159090909091
     }
   ]
 }
