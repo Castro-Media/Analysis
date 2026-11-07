@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "published": "Sat, 07 Nov 2026 19:50:21 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "published": "Sat, 07 Nov 2026 20:11:10 +0000",
+      "sentiment": 0.043181818181818175
+    },
+    {
       "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
       "published": "Sat, 07 Nov 2026 19:21:41 +0000",
@@ -13,10 +25,10 @@
       "sentiment": -0.02500000000000001
     },
     {
-      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "published": "Sat, 07 Nov 2026 12:42:56 +0000",
-      "sentiment": 0.043181818181818175
+      "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+      "published": "Sat, 07 Nov 2026 20:17:15 +0000",
+      "sentiment": -0.025
     },
     {
       "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
@@ -61,18 +73,6 @@
       "sentiment": 0.03809523809523809
     },
     {
-      "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-      "published": "Sat, 07 Nov 2026 13:13:40 +0000",
-      "sentiment": 0.01393939393939394
-    },
-    {
-      "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
-      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-      "published": "Sat, 07 Nov 2026 01:29:31 +0000",
-      "sentiment": -0.025
-    },
-    {
       "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
       "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
       "published": "Fri, 06 Nov 2026 10:22:24 +0000",
@@ -85,12 +85,6 @@
       "sentiment": 0.04166666666666667
     },
     {
-      "title": "Israeli Opposition Leader Tapped to Try to Form Government",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "published": "Sat, 07 Nov 2026 19:50:21 +0000",
-      "sentiment": -0.05
-    },
-    {
       "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
       "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
       "published": "Sat, 07 Nov 2026 11:00:07 +0000",
@@ -101,6 +95,12 @@
       "link": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
       "published": "Sat, 07 Nov 2026 19:19:20 +0000",
       "sentiment": -1.3877787807814457e-17
+    },
+    {
+      "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
+      "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+      "published": "Sat, 07 Nov 2026 13:13:40 +0000",
+      "sentiment": 0.01393939393939394
     },
     {
       "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
