@@ -13,6 +13,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "As Stephen Miller rises, California hopes it can blunt his force with Democratic gains",
+      "link": "https://www.latimes.com/california/story/2026-11-07/stephen-miller-chief-of-staff-immigration-california",
+      "published": "Sat, 7 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "With death sentence clemency, Newsom takes another big political risk",
       "link": "https://www.latimes.com/california/story/2026-11-06/with-death-sentence-clemency-newsom-takes-another-big-political-risk",
       "published": "Sat, 7 Nov 2026 03:29:48 GMT",
@@ -79,16 +85,16 @@
       "sentiment": 0.15
     },
     {
-      "title": "Commentary: Say his name: Abdul El-Sayed becomes the nation's first Muslim senator",
-      "link": "https://www.latimes.com/politics/story/2026-11-05/say-his-name-abdul-el-sayed-becomes-nations-first-muslim-senator",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.041666666666666664
-    },
-    {
       "title": "Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy",
       "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.075
+    },
+    {
+      "title": "Commentary: Say his name: Abdul El-Sayed becomes the nation's first Muslim senator",
+      "link": "https://www.latimes.com/politics/story/2026-11-05/say-his-name-abdul-el-sayed-becomes-nations-first-muslim-senator",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.041666666666666664
     },
     {
       "title": "State Sen. Scott Wiener to succeed Pelosi in San Francisco House seat, as Chan concedes",
@@ -259,12 +265,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
-    },
-    {
       "title": "Which races might predict a 'blue wave'? Here's what to watch",
       "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -277,16 +277,22 @@
       "sentiment": -0.12000000000000002
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
+      "sentiment": 0.11818181818181818
     },
     {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
+    },
+    {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
     },
     {
       "title": "California officials brace for unprecedented election interference by Trump administration",
@@ -427,16 +433,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
-      "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
+      "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "This L.A. city board is more than 120 years old. A ballot measure could quietly hasten its end",
@@ -457,10 +463,10 @@
       "sentiment": -0.43333333333333335
     },
     {
-      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.018181818181818174
+      "sentiment": 0.14166666666666666
     },
     {
       "title": "In final push, Trump rallies in red states, offering a rosy and off-script message",
@@ -469,10 +475,10 @@
       "sentiment": 0.08
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "title": "Support dwindles for wealth tax, voter ID ballot measures, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
+      "sentiment": 0.018181818181818174
     },
     {
       "title": "Judge denies feds' request to block 20,000 California ballots in blistering opinion",
@@ -565,16 +571,10 @@
       "sentiment": 0.35714285714285715
     },
     {
-      "title": "Chabria: California votes. Trump's Justice Department panics",
-      "link": "https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics",
+      "title": "Bass and Raman skirmish over treatment of small business. The Valley is a battleground",
+      "link": "https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say",
       "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "News Analysis: Trump says he's trying to entice Russia to negotiate. It doesn't appear to be working",
-      "link": "https://www.latimes.com/politics/story/2026-10-26/trump-says-hes-trying-to-entice-russia-to-negotiate-it-doesnt-appear-to-be-working",
-      "published": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.1
+      "sentiment": -0.2
     }
   ]
 }
