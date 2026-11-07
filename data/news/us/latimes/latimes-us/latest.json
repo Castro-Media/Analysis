@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Santa Anas and hotter fall temps sustain SoCal critical fire risks",
+      "link": "https://www.latimes.com/california/story/2026-11-07/socal-weather-forecast-santa-ana-winds-high-heat-rain-chances-ahead",
+      "published": "Sat, 7 Nov 2026 18:41:51 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
       "link": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
       "published": "Sat, 7 Nov 2026 13:00:00 GMT",
@@ -523,6 +529,24 @@
       "sentiment": 0.16545454545454544
     },
     {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.016666666666666673
+    },
+    {
+      "title": "L.A.'s next mayor faces high expectations, little room for error",
+      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.006874999999999999
+    },
+    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -535,24 +559,6 @@
       "sentiment": -0.12000000000000002
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "L.A.'s next mayor faces high expectations, little room for error",
-      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.006874999999999999
-    },
-    {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
-    },
-    {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
       "link": "https://www.latimes.com/california/story/2026-11-02/fatal-shooting-sent-panic-through-spirit-halloween-store-teen-under-arrest",
       "published": "Tue, 3 Nov 2026 06:44:40 GMT",
@@ -563,12 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-02/raman-ousts-staffer-over-reprehensible-remarks",
       "published": "Mon, 2 Nov 2026 23:36:17 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "California officials brace for unprecedented election interference by Trump administration",
-      "link": "https://www.latimes.com/politics/story/2026-11-02/california-officials-brace-for-unprecedented-election-interference-by-trump-administration",
-      "published": "Mon, 2 Nov 2026 23:06:40 GMT",
-      "sentiment": 0.3
     }
   ]
 }
