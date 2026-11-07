@@ -1,16 +1,16 @@
 {
   "entries": [
     {
-      "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
-      "link": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
-      "published": "Sat, 7 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.675
-    },
-    {
       "title": "Lopez: L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?",
       "link": "https://www.latimes.com/california/story/2026-11-07/can-raman-break-la-mayors-cycle-of-failure-on-homelessness",
       "published": "Sat, 7 Nov 2026 13:00:00 GMT",
       "sentiment": -0.17777777777777778
+    },
+    {
+      "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
+      "link": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
+      "published": "Sat, 7 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.675
     },
     {
       "title": "Arellano: Forget Ohio as a bellwether. Look to Latinos to understand how Americans vote",
@@ -259,12 +259,6 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.075
-    },
-    {
       "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
       "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -275,6 +269,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.16
     },
     {
       "title": "Amid controversy, California greenlights the state's first large reservoir in decades",
@@ -523,6 +523,24 @@
       "sentiment": 0.16545454545454544
     },
     {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.016666666666666673
+    },
+    {
+      "title": "L.A.'s next mayor faces high expectations, little room for error",
+      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.006874999999999999
+    },
+    {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -533,24 +551,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
-    },
-    {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "L.A.'s next mayor faces high expectations, little room for error",
-      "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.006874999999999999
-    },
-    {
-      "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
-      "link": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.016666666666666673
     },
     {
       "title": "Teen accused of killing pregnant woman in Spirit Halloween shooting may be tried as adult",
