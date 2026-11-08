@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Do You Know England’s Founding Father? It’s OK, England Doesn’t Either.",
+      "link": "https://www.wsj.com/world/uk/do-you-know-englands-founding-father-its-ok-england-doesnt-either-4930772b?mod=rss_worldnews",
+      "published": "Sun, 08 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.10416666666666666
+    },
+    {
+      "title": "Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh",
+      "link": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews",
+      "published": "Sun, 08 Nov 2026 10:07:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "The Growing Push to Protect Trophy Hunting in Africa",
       "link": "https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 03:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_worldnews",
       "published": "Sat, 07 Nov 2026 11:40:00 GMT",
       "sentiment": -0.12121212121212122
-    },
-    {
-      "title": "Someone Is Causing Chaos Across Europe. The Question Is: Who?",
-      "link": "https://www.wsj.com/world/europe/someone-is-causing-chaos-across-europe-the-question-is-who-ba3749a6?mod=rss_worldnews",
-      "published": "Sat, 07 Nov 2026 11:24:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
-      "link": "https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
-      "published": "Sat, 07 Nov 2026 04:00:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Someone Is Causing Chaos Across Europe. The Question Is: Who?",
+      "link": "https://www.wsj.com/world/europe/someone-is-causing-chaos-across-europe-the-question-is-who-ba3749a6?mod=rss_worldnews",
+      "published": "Sat, 07 Nov 2026 11:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Contest to Succeed ECB Head Lagarde Is Officially a Two-Horse Race",
       "link": "https://www.wsj.com/economy/central-banking/contest-to-succeed-ecb-head-lagarde-is-officially-a-two-horse-race-bac3d822?mod=rss_worldnews",
       "published": "Fri, 06 Nov 2026 17:04:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 08:58:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "France’s Riots Were Fueled by ‘Ultra Left’ Faction That Lives Off-the-Grid",
-      "link": "https://www.wsj.com/world/europe/frances-riots-were-fueled-by-an-ultra-left-faction-that-lives-off-the-grid-7176d17a?mod=rss_worldnews",
-      "published": "Thu, 05 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
@@ -253,6 +253,12 @@
       "sentiment": 0.2
     },
     {
+      "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+      "link": "https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
+      "published": "Sat, 07 Nov 2026 04:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Moscow Seizes Japan Tobacco’s Russia Factories",
       "link": "https://www.wsj.com/business/japan-urges-russia-to-return-control-of-japan-tobacco-assets-cfe0723e?mod=rss_worldnews",
       "published": "Fri, 06 Nov 2026 06:47:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews",
       "published": "Fri, 30 Oct 2026 00:00:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
-      "link": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce?mod=rss_worldnews",
-      "published": "Mon, 26 Oct 2026 03:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Trump’s Deportation Deal With Cameroon Will Equip Unit Accused of War Crimes",
@@ -377,12 +377,6 @@
       "link": "https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews",
       "published": "Fri, 06 Nov 2026 03:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat",
-      "link": "https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358?mod=rss_worldnews",
-      "published": "Thu, 05 Nov 2026 19:22:00 GMT",
-      "sentiment": -0.21666666666666667
     },
     {
       "title": "U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
