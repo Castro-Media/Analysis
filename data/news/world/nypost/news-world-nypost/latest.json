@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Bus flips over on Croatia highway leaving at least 2 dead, several injured",
+      "link": "https://nypost.com/2026/11/08/world-news/bus-flipped-on-highway-in-croatia-killing-2-and-injuring-33/",
+      "published": "Sun, 08 Nov 2026 10:11:30 -0500",
+      "sentiment": -0.08
+    },
+    {
       "title": "Hero Polish cop who took down Krakow mass shooter is fighting for his life after deadly terror attack",
       "link": "https://nypost.com/2026/11/08/world-news/hero-polish-cop-takes-down-crazed-krakow-mass-shooter-and-then-collapses/",
       "published": "Sun, 08 Nov 2026 09:32:22 -0500",
@@ -113,12 +119,6 @@
       "link": "https://nypost.com/2026/11/07/world-news/russia-pounds-power-facilities-around-kyiv-damages-major-bridge/",
       "published": "Sat, 07 Nov 2026 06:17:44 -0500",
       "sentiment": 0.03125
-    },
-    {
-      "title": "China confirms discussions underway on historic Xi-Trump-Putin meeting",
-      "link": "https://nypost.com/2026/11/07/world-news/china-confirms-discussions-underway-on-historic-xi-trump-putin-meeting/",
-      "published": "Sat, 07 Nov 2026 00:54:33 -0500",
-      "sentiment": 0.05
     }
   ]
 }
