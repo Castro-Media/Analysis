@@ -1,10 +1,28 @@
 {
   "entries": [
     {
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "published": "Sun, 08 Nov 2026 05:01:18 +0000",
+      "sentiment": 0.12187499999999998
+    },
+    {
+      "title": "South Africa’s Politics May Never Be the Same Again",
+      "link": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+      "published": "Sun, 08 Nov 2026 05:01:23 +0000",
+      "sentiment": -0.020833333333333332
+    },
+    {
       "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
       "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "published": "Sat, 07 Nov 2026 23:03:29 +0000",
+      "published": "Sun, 08 Nov 2026 09:41:55 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+      "published": "Sun, 08 Nov 2026 05:01:15 +0000",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
@@ -43,12 +61,6 @@
       "sentiment": 0.18333333333333335
     },
     {
-      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-      "published": "Sat, 07 Nov 2026 18:17:34 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
       "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
       "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
       "published": "Sat, 07 Nov 2026 22:05:57 +0000",
@@ -67,40 +79,10 @@
       "sentiment": -0.08333333333333333
     },
     {
-      "title": "Why Are There Protests in France?",
-      "link": "https://www.nytimes.com/article/france-student-protests-why.html",
-      "published": "Sat, 07 Nov 2026 10:13:41 +0000",
-      "sentiment": 0.03809523809523809
-    },
-    {
-      "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
-      "published": "Fri, 06 Nov 2026 10:22:24 +0000",
-      "sentiment": 0.4
-    },
-    {
       "title": "Pope Leo’s Trip to Latin America: What to Know",
       "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
       "published": "Fri, 06 Nov 2026 05:01:17 +0000",
       "sentiment": 0.04166666666666667
-    },
-    {
-      "title": "South Africa’s Politics May Never Be the Same Again",
-      "link": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-      "published": "Sun, 08 Nov 2026 05:01:23 +0000",
-      "sentiment": -0.020833333333333332
-    },
-    {
-      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "published": "Sun, 08 Nov 2026 05:01:18 +0000",
-      "sentiment": 0.12187499999999998
-    },
-    {
-      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-      "published": "Sun, 08 Nov 2026 05:01:15 +0000",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "The Small-Town Colossus Faces the End of the Road",
@@ -113,6 +95,12 @@
       "link": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html",
       "published": "Sat, 07 Nov 2026 11:00:07 +0000",
       "sentiment": 0.35714285714285715
+    },
+    {
+      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+      "published": "Sat, 07 Nov 2026 18:17:34 +0000",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
@@ -173,6 +161,12 @@
       "link": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
       "published": "Fri, 06 Nov 2026 16:21:25 +0000",
       "sentiment": -0.41
+    },
+    {
+      "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
+      "link": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
+      "published": "Fri, 06 Nov 2026 10:22:24 +0000",
+      "sentiment": 0.4
     },
     {
       "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
@@ -323,6 +317,12 @@
       "link": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
       "published": "Thu, 05 Nov 2026 14:31:59 +0000",
       "sentiment": 0.1090909090909091
+    },
+    {
+      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+      "published": "Thu, 05 Nov 2026 11:04:18 +0000",
+      "sentiment": 0.0
     }
   ]
 }
