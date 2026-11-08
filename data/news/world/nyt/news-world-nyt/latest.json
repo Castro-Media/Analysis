@@ -3,7 +3,7 @@
     {
       "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
       "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "published": "Sun, 08 Nov 2026 10:00:57 +0000",
+      "published": "Sun, 08 Nov 2026 18:26:49 +0000",
       "sentiment": 0.011111111111111112
     },
     {
@@ -22,6 +22,12 @@
       "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
       "published": "Sun, 08 Nov 2026 16:52:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "published": "Sun, 08 Nov 2026 17:31:14 +0000",
       "sentiment": 0.0
     },
     {
@@ -73,16 +79,16 @@
       "sentiment": -0.15833333333333335
     },
     {
-      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-      "published": "Sat, 07 Nov 2026 21:00:19 +0000",
-      "sentiment": -0.08333333333333333
-    },
-    {
       "title": "Pope Leo’s Trip to Latin America: What to Know",
       "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
       "published": "Fri, 06 Nov 2026 05:01:17 +0000",
       "sentiment": 0.04166666666666667
+    },
+    {
+      "title": "More Than 3,000 Tarantulas Found in Smugglers’ Socks at Peru Airport",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
+      "published": "Sun, 08 Nov 2026 18:33:15 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
@@ -145,6 +151,12 @@
       "sentiment": 0.043181818181818175
     },
     {
+      "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+      "published": "Sat, 07 Nov 2026 21:00:19 +0000",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
       "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
       "published": "Sat, 07 Nov 2026 13:13:40 +0000",
@@ -155,12 +167,6 @@
       "link": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
       "published": "Fri, 06 Nov 2026 18:58:23 +0000",
       "sentiment": -0.075
-    },
-    {
-      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-      "published": "Sun, 08 Nov 2026 17:31:14 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
