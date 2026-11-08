@@ -1,10 +1,16 @@
 {
   "entries": [
     {
+      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+      "published": "Sun, 08 Nov 2026 20:18:39 +0000",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-      "published": "Sun, 08 Nov 2026 18:37:04 +0000",
-      "sentiment": 0.019999999999999997
+      "published": "Sun, 08 Nov 2026 20:23:12 +0000",
+      "sentiment": -0.030000000000000006
     },
     {
       "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html",
       "published": "Sat, 07 Nov 2026 10:02:25 +0000",
       "sentiment": 0.7
-    },
-    {
-      "title": "Mysterious Request Scrambles Major Supreme Court Gun Case Against Cook County",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/supreme-court-guns-plaintiff.html",
-      "published": "Sat, 07 Nov 2026 10:02:14 +0000",
-      "sentiment": 0.190625
     }
   ]
 }
