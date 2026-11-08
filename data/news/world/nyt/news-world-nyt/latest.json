@@ -7,6 +7,12 @@
       "sentiment": 0.12187499999999998
     },
     {
+      "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+      "published": "Sun, 08 Nov 2026 10:00:57 +0000",
+      "sentiment": 0.011111111111111112
+    },
+    {
       "title": "South Africa’s Politics May Never Be the Same Again",
       "link": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
       "published": "Sun, 08 Nov 2026 05:01:23 +0000",
@@ -23,12 +29,6 @@
       "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
       "published": "Sun, 08 Nov 2026 05:01:15 +0000",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "published": "Sat, 07 Nov 2026 21:52:04 +0000",
-      "sentiment": 0.043181818181818175
     },
     {
       "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
@@ -85,6 +85,12 @@
       "sentiment": 0.04166666666666667
     },
     {
+      "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+      "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+      "published": "Sun, 08 Nov 2026 10:01:50 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Small-Town Colossus Faces the End of the Road",
       "link": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
       "published": "Sun, 08 Nov 2026 05:01:10 +0000",
@@ -107,6 +113,12 @@
       "link": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
       "published": "Sat, 07 Nov 2026 19:19:20 +0000",
       "sentiment": -1.3877787807814457e-17
+    },
+    {
+      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "published": "Sat, 07 Nov 2026 21:52:04 +0000",
+      "sentiment": 0.043181818181818175
     },
     {
       "title": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
@@ -317,12 +329,6 @@
       "link": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
       "published": "Thu, 05 Nov 2026 14:31:59 +0000",
       "sentiment": 0.1090909090909091
-    },
-    {
-      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
-      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
-      "published": "Thu, 05 Nov 2026 11:04:18 +0000",
-      "sentiment": 0.0
     }
   ]
 }
