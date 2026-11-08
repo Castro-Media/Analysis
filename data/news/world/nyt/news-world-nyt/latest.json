@@ -1,16 +1,28 @@
 {
   "entries": [
     {
-      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "published": "Sun, 08 Nov 2026 05:01:18 +0000",
-      "sentiment": 0.12187499999999998
-    },
-    {
       "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
       "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
       "published": "Sun, 08 Nov 2026 10:00:57 +0000",
       "sentiment": 0.011111111111111112
+    },
+    {
+      "title": "What to Know About the Mass Shooting in Krakow, Poland",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "published": "Sun, 08 Nov 2026 13:09:09 +0000",
+      "sentiment": -0.26666666666666666
+    },
+    {
+      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+      "published": "Sun, 08 Nov 2026 13:05:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+      "published": "Sun, 08 Nov 2026 12:33:40 +0000",
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "South Africa’s Politics May Never Be the Same Again",
@@ -19,22 +31,16 @@
       "sentiment": -0.020833333333333332
     },
     {
-      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-      "published": "Sun, 08 Nov 2026 12:33:39 +0000",
-      "sentiment": 0.05000000000000002
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "published": "Sun, 08 Nov 2026 05:01:18 +0000",
+      "sentiment": 0.12187499999999998
     },
     {
       "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
       "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-      "published": "Sun, 08 Nov 2026 05:01:15 +0000",
+      "published": "Sun, 08 Nov 2026 13:14:09 +0000",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
-      "published": "Sat, 07 Nov 2026 23:36:18 +0000",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
@@ -53,12 +59,6 @@
       "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
       "published": "Sun, 08 Nov 2026 05:55:55 +0000",
       "sentiment": -0.175
-    },
-    {
-      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-      "published": "Sun, 08 Nov 2026 09:41:55 +0000",
-      "sentiment": -0.05
     },
     {
       "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
@@ -85,18 +85,6 @@
       "sentiment": 0.04166666666666667
     },
     {
-      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "published": "Sun, 08 Nov 2026 12:16:41 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What to Know About the Mass Shooting in Krakow, Poland",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "published": "Sun, 08 Nov 2026 11:52:20 +0000",
-      "sentiment": -0.26666666666666666
-    },
-    {
       "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
       "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
       "published": "Sun, 08 Nov 2026 10:01:50 +0000",
@@ -109,10 +97,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+      "published": "Sun, 08 Nov 2026 09:41:55 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
       "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
       "published": "Sat, 07 Nov 2026 17:26:52 +0000",
       "sentiment": 0.18333333333333335
+    },
+    {
+      "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+      "published": "Sat, 07 Nov 2026 23:36:18 +0000",
+      "sentiment": -0.13333333333333333
     },
     {
       "title": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
