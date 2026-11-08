@@ -1,10 +1,28 @@
 {
   "entries": [
     {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 04:03:12 GMT",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 16:25:55 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 22:19:59 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:58:41 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
@@ -13,34 +31,16 @@
       "sentiment": -0.3499999999999999
     },
     {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 07:33:41 GMT",
-      "sentiment": 0.09962121212121211
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:59:15 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 16:18:21 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Trump says US 'won't be paying Israel' by end of year",
       "link": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 15:09:51 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Nov 2026 11:33:33 GMT",
-      "sentiment": -0.07142857142857142
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Iran killed her teenage daughter - now she is facing up to the regime",
@@ -121,10 +121,10 @@
       "sentiment": -0.11666666666666665
     },
     {
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 17:58:41 GMT",
-      "sentiment": 0.125
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 07:33:41 GMT",
+      "sentiment": 0.09962121212121211
     },
     {
       "title": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
