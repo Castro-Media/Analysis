@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Party That Defeated Apartheid Hits Electoral Setback in South Africa",
+      "link": "https://www.wsj.com/world/africa/party-that-defeated-apartheid-hits-electoral-setback-in-south-africa-709f0483?mod=rss_worldnews",
+      "published": "Sun, 08 Nov 2026 16:54:00 GMT",
+      "sentiment": -0.25
+    },
+    {
       "title": "Netanyahu Rival Gets First Run at Power, but Hurdles Lie in Wait",
       "link": "https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 15:58:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews",
       "published": "Sat, 07 Nov 2026 22:27:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "New Zealand’s Conservatives Narrowly Lead in Election",
-      "link": "https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_worldnews",
-      "published": "Sat, 07 Nov 2026 11:40:00 GMT",
-      "sentiment": -0.12121212121212122
     },
     {
       "title": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "New Zealand’s Conservatives Narrowly Lead in Election",
+      "link": "https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_worldnews",
+      "published": "Sat, 07 Nov 2026 11:40:00 GMT",
+      "sentiment": -0.12121212121212122
+    },
+    {
       "title": "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding",
       "link": "https://www.wsj.com/finance/commodities-futures/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding-169e36e1?mod=rss_worldnews",
       "published": "Fri, 06 Nov 2026 11:16:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/world/asia/north-korea-on-busiest-missile-testing-spree-in-years-rebuffs-trump-diplomacy-3f4e99f4?mod=rss_worldnews",
       "published": "Wed, 04 Nov 2026 08:16:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "Eager to Rebut Rogue-Nation Image, North Korea Denies Role in Binance Heist",
-      "link": "https://www.wsj.com/world/asia/eager-to-rebut-rogue-nation-image-north-korea-denies-role-in-binance-heist-a46659c6?mod=rss_worldnews",
-      "published": "Tue, 03 Nov 2026 18:15:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Pope Leo Visits a Latin America That’s Losing Its Religion",
@@ -157,6 +157,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | It Was the Economy, Not the War",
+      "link": "https://www.wsj.com/opinion/it-was-the-economy-not-the-war-a4029e99?mod=rss_worldnews",
+      "published": "Sun, 08 Nov 2026 17:23:00 GMT",
+      "sentiment": 0.42500000000000004
+    },
+    {
       "title": "Opinion | The Democratic Party Won’t Tolerate Pro-Israel Members",
       "link": "https://www.wsj.com/opinion/the-democratic-party-wont-tolerate-pro-israel-members-38e9a8a4?mod=rss_worldnews",
       "published": "Fri, 06 Nov 2026 16:00:00 GMT",
@@ -184,12 +190,6 @@
       "title": "Opinion | France Is Burning. Is America Next?",
       "link": "https://www.wsj.com/opinion/france-is-burning-is-america-next-3c87bc11?mod=rss_worldnews",
       "published": "Tue, 03 Nov 2026 22:51:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | The End of U.S. Aid to Israel?",
-      "link": "https://www.wsj.com/opinion/the-end-of-u-s-aid-to-israel-donald-trump-benjamin-netanyahu-9e5cabda?mod=rss_worldnews",
-      "published": "Tue, 03 Nov 2026 22:37:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -403,10 +403,10 @@
       "sentiment": 0.025000000000000022
     },
     {
-      "title": "The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That.",
-      "link": "https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews",
-      "published": "Mon, 02 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.2
+      "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+      "link": "https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
+      "published": "Sat, 07 Nov 2026 04:00:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "How to Refinance a Car Loan in 6 Steps",
