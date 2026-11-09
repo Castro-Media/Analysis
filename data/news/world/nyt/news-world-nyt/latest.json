@@ -1,22 +1,28 @@
 {
   "entries": [
     {
-      "title": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
+      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
       "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "published": "Sun, 08 Nov 2026 18:26:49 +0000",
+      "published": "Sun, 08 Nov 2026 23:36:32 +0000",
       "sentiment": 0.011111111111111112
+    },
+    {
+      "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+      "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+      "published": "Sun, 08 Nov 2026 23:11:30 +0000",
+      "sentiment": -0.225
     },
     {
       "title": "Trains Collide Near Cairo, Killing 4",
       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-      "published": "Sun, 08 Nov 2026 21:59:09 +0000",
+      "published": "Sun, 08 Nov 2026 23:03:01 +0000",
       "sentiment": 0.07499999999999998
     },
     {
-      "title": "What to Know About the Mass Shooting in Krakow, Poland",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "published": "Sun, 08 Nov 2026 13:09:09 +0000",
-      "sentiment": -0.26666666666666666
+      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
+      "published": "Sun, 08 Nov 2026 22:48:25 +0000",
+      "sentiment": 0.06666666666666667
     },
     {
       "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
@@ -35,6 +41,12 @@
       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
       "published": "Sun, 08 Nov 2026 21:48:21 +0000",
       "sentiment": 0.05000000000000002
+    },
+    {
+      "title": "What to Know About the Mass Shooting in Krakow, Poland",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "published": "Sun, 08 Nov 2026 13:09:09 +0000",
+      "sentiment": -0.26666666666666666
     },
     {
       "title": "South Africa’s Politics May Never Be the Same Again",
@@ -67,34 +79,10 @@
       "sentiment": -0.025
     },
     {
-      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-      "published": "Sun, 08 Nov 2026 05:55:55 +0000",
-      "sentiment": -0.175
-    },
-    {
       "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
       "link": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
       "published": "Sat, 07 Nov 2026 18:49:33 +0000",
       "sentiment": -0.15833333333333335
-    },
-    {
-      "title": "Pope Leo’s Trip to Latin America: What to Know",
-      "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
-      "published": "Fri, 06 Nov 2026 05:01:17 +0000",
-      "sentiment": 0.04166666666666667
-    },
-    {
-      "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
-      "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
-      "published": "Sun, 08 Nov 2026 22:48:34 +0000",
-      "sentiment": -0.225
-    },
-    {
-      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
-      "published": "Sun, 08 Nov 2026 22:48:25 +0000",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Why Winning Big Matters",
@@ -167,6 +155,12 @@
       "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
       "published": "Sat, 07 Nov 2026 21:52:04 +0000",
       "sentiment": 0.043181818181818175
+    },
+    {
+      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+      "published": "Sun, 08 Nov 2026 05:55:55 +0000",
+      "sentiment": -0.175
     },
     {
       "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
@@ -257,6 +251,12 @@
       "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
       "published": "Fri, 06 Nov 2026 19:24:09 +0000",
       "sentiment": 0.09375
+    },
+    {
+      "title": "Pope Leo’s Trip to Latin America: What to Know",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+      "published": "Fri, 06 Nov 2026 05:01:17 +0000",
+      "sentiment": 0.04166666666666667
     },
     {
       "title": "In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric",
