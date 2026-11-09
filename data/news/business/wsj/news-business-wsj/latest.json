@@ -37,10 +37,16 @@
       "sentiment": -0.07777777777777777
     },
     {
-      "title": "Credit Agricole Proposes Merger of Italian Business With Banco BPM",
+      "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
       "link": "https://www.wsj.com/business/deals/credit-agricole-proposes-merger-of-italian-business-with-banco-bpm-d77044a4?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 06:50:00 GMT",
+      "published": "Mon, 09 Nov 2026 07:31:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Intesa Gets Green Light From Italian Markets Regulator for Monte Dei Paschi Bid",
+      "link": "https://www.wsj.com/business/deals/intesa-gets-green-light-from-italian-markets-regulator-for-monte-dei-paschi-bid-054726f9?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 07:16:00 GMT",
+      "sentiment": 0.04
     },
     {
       "title": "Mitsui Chemicals to Acquire JSR With Development Bank of Japan for $8.8 Billion",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/business/general-mills-considering-separation-of-haagen-dazs-business-outside-north-america-7f110a77?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 17:38:00 GMT",
       "sentiment": 0.21203703703703702
-    },
-    {
-      "title": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
-      "link": "https://www.wsj.com/business/deals/wendys-rejects-trians-1-4-billion-takeover-offer-984b1892?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 13:20:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "His Job Is to Turn Walmart’s Customer Data Into Profit",
@@ -97,6 +97,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "MTN Group Posts Revenue Growth, Higher Profitability",
+      "link": "https://www.wsj.com/business/earnings/mtn-group-posts-revenue-growth-higher-profitability-7240166f?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 07:12:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Hannover Re Posts Higher Net Profit on Below-Budget Large Losses",
+      "link": "https://www.wsj.com/business/earnings/hannover-re-posts-higher-net-profit-on-below-budget-large-losses-85554602?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 07:06:00 GMT",
+      "sentiment": 0.15476190476190477
+    },
+    {
       "title": "UniCredit Raises Profit Guidance as Control of Commerzbank Nears",
       "link": "https://www.wsj.com/business/earnings/unicredit-raises-profit-guidance-as-control-of-commerzbank-nears-ce8ccdc8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 06:50:00 GMT",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-d73630aa?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 21:56:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Charter Continues to Lose Internet, Video Customers; Plans New Savings Program",
-      "link": "https://www.wsj.com/business/telecom/charter-continues-to-lose-internet-video-customers-plans-new-savings-program-3d36f9dc?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 13:50:00 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Under Armour Revenue Falls on Broad Segment Declines",
-      "link": "https://www.wsj.com/business/earnings/under-armour-revenue-falls-on-broad-segment-declines-381d839c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 12:49:00 GMT",
-      "sentiment": -0.031018518518518518
     },
     {
       "title": "America Has Become the Last Place to Make Money for the World’s Automakers",
@@ -193,6 +193,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Oil Prices Fall, Staying Below $100, as Trump Plays Down New Iran Strikes",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 07:27:00 GMT",
+      "sentiment": 0.0702020202020202
+    },
+    {
       "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
       "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 23:33:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/qantas-expects-2-63-billion-first-half-fuel-bill-amid-elevated-oil-prices-b4657da0?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 23:44:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-1d720229?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 22:10:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "They Can Barely Drive, but They’re Flying Planes: The Surprising Rise of Teen Pilots",
@@ -301,16 +301,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
+      "link": "https://www.wsj.com/business/deals/wendys-rejects-trians-1-4-billion-takeover-offer-984b1892?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 13:20:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Papa John’s Cuts Outlook Again as Quarterly Sales Sink",
       "link": "https://www.wsj.com/business/retail/papa-johns-cuts-outlook-again-as-quarterly-sales-sink-789ef18c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 12:45:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Bombardier Raises Free 2026 Cash Flow Outlook as Profit Slips",
-      "link": "https://www.wsj.com/business/earnings/bombardier-raises-free-2026-cash-flow-outlook-as-profit-slips-847b5393?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 12:12:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "News Quiz for Nov. 7, 2026",
@@ -379,6 +379,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Charter Continues to Lose Internet, Video Customers; Plans New Savings Program",
+      "link": "https://www.wsj.com/business/telecom/charter-continues-to-lose-internet-video-customers-plans-new-savings-program-3d36f9dc?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 13:50:00 GMT",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "The Morning Risk Report: Companies Face Cyber Pain as Hackers Press AI Advantage",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-companies-face-cyber-pain-as-hackers-press-ai-advantage-706c84b7?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 11:45:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/earnings/deutsche-telekom-raises-outlook-plans-dividend-increase-cbb6085e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 06:58:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
-      "link": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 03 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.24
     },
     {
       "title": "20-Somethings Are Ditching Entry-Level Jobs to Become Their Own Bosses",
@@ -463,16 +463,16 @@
       "sentiment": 0.15
     },
     {
-      "title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
-      "link": "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 07 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "How a Talent War Spelled Doom for the Traditional Law Firm",
       "link": "https://www.wsj.com/business/how-a-talent-war-spelled-doom-for-the-traditional-law-firm-1cf2c279?mod=pls_whats_news_us_business_f",
       "published": "Sun, 08 Nov 2026 01:00:00 GMT",
       "sentiment": -0.08888888888888889
+    },
+    {
+      "title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
+      "link": "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 07 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm",
