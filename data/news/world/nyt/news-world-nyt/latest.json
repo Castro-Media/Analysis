@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+      "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
+      "published": "Mon, 09 Nov 2026 10:48:05 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
       "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-      "published": "Mon, 09 Nov 2026 09:35:14 +0000",
+      "published": "Mon, 09 Nov 2026 09:59:53 +0000",
       "sentiment": 0.0
     },
     {
@@ -11,6 +17,12 @@
       "link": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
       "published": "Mon, 09 Nov 2026 05:01:06 +0000",
       "sentiment": 0.05
+    },
+    {
+      "title": "How a Bank Implosion in Paraguay Ensnared a President",
+      "link": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+      "published": "Mon, 09 Nov 2026 10:43:00 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
@@ -67,16 +79,16 @@
       "sentiment": -0.020833333333333332
     },
     {
-      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "published": "Mon, 09 Nov 2026 01:38:48 +0000",
-      "sentiment": 0.12187499999999998
+      "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+      "published": "Mon, 09 Nov 2026 10:02:55 +0000",
+      "sentiment": 0.1787878787878788
     },
     {
-      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-      "published": "Sun, 08 Nov 2026 13:14:09 +0000",
-      "sentiment": 0.13636363636363635
+      "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
+      "link": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
+      "published": "Mon, 09 Nov 2026 10:02:46 +0000",
+      "sentiment": 0.3125
     },
     {
       "title": "Why Winning Big Matters",
@@ -95,6 +107,18 @@
       "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
       "published": "Sun, 08 Nov 2026 10:01:50 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "published": "Mon, 09 Nov 2026 01:38:48 +0000",
+      "sentiment": 0.12187499999999998
+    },
+    {
+      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+      "published": "Sun, 08 Nov 2026 13:14:09 +0000",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "The Small-Town Colossus Faces the End of the Road",
@@ -311,24 +335,6 @@
       "link": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
       "published": "Fri, 06 Nov 2026 06:00:53 +0000",
       "sentiment": -0.15
-    },
-    {
-      "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
-      "published": "Thu, 05 Nov 2026 19:39:19 +0000",
-      "sentiment": -0.3
-    },
-    {
-      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
-      "published": "Thu, 05 Nov 2026 19:56:52 +0000",
-      "sentiment": -0.25
-    },
-    {
-      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
-      "link": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
-      "published": "Thu, 05 Nov 2026 20:38:43 +0000",
-      "sentiment": 0.275
     }
   ]
 }
