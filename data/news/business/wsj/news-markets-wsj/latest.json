@@ -4,7 +4,13 @@
       "title": "Stock Market Today: Nvidia Stock Slides After Chip Maker Opens Probe",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026?mod=rss_markets_main",
       "published": "Mon, 09 Nov 2026 09:04:21 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.25
+    },
+    {
+      "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
+      "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 19:30:00 GMT",
+      "sentiment": 0.0625
     },
     {
       "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
@@ -67,12 +73,6 @@
       "sentiment": 0.24
     },
     {
-      "title": "Netflix Needs You to Watch, Not Just Pay",
-      "link": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=rss_markets_main",
       "published": "Mon, 09 Nov 2026 17:23:00 GMT",
@@ -103,6 +103,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-lower-as-oil-prices-decline-71869e97?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 19:33:00 GMT",
+      "sentiment": 0.26666666666666666
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-2e0e19ff?mod=rss_markets_main",
       "published": "Mon, 09 Nov 2026 17:25:00 GMT",
@@ -127,15 +133,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "They Led an Energy Department Overhaul. Now They Plan to Build Data Centers.",
-      "link": "https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 12:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Stocks Jump Despite Nvidia Slide",
+      "title": "U.S. Stocks Leap Despite Nvidia Slide",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 17:41:00 GMT",
+      "published": "Mon, 09 Nov 2026 19:29:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -161,6 +161,12 @@
       "link": "https://www.wsj.com/finance/stocks/asian-equities-mostly-rebound-though-sentiment-remains-fragile-34b7cc83?mod=rss_markets_main",
       "published": "Mon, 09 Nov 2026 08:17:00 GMT",
       "sentiment": -0.0625
+    },
+    {
+      "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
+      "link": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 19:28:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Opinion | Trump, the New Congress and the Solyndra Probe",
@@ -193,10 +199,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Opinion | The Ethics Rules Behind Weil Gotshal’s ‘Partner Run’",
-      "link": "https://www.wsj.com/opinion/the-ethics-rules-behind-weil-gotshals-partner-run-75193b12?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 23:06:00 GMT",
-      "sentiment": -0.23055555555555554
+      "title": "Gold Futures Extend Gains as Oil Prices Retreat",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 19:12:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Oil Futures Extend Retreat As Trump Says Renewed Attacks Unlikely",
@@ -217,22 +223,16 @@
       "sentiment": 0.01727272727272727
     },
     {
-      "title": "Gold Rises Above $4,100 an Ounce, With Focus on U.S. Inflation Data",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 08:49:00 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-48777713?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 21:55:00 GMT",
       "sentiment": 0.3
     },
     {
-      "title": "Euro Could be Influenced by Risk Sentiment Amid Stock Market Volatility",
+      "title": "AI Backlash Weighs on Dollar",
       "link": "https://www.wsj.com/finance/currencies/new-zealand-dollar-climbs-as-traders-await-election-result-033c6116?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 13:23:00 GMT",
-      "sentiment": 0.06041666666666667
+      "published": "Mon, 09 Nov 2026 19:33:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",

@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+      "published": "Mon, 09 Nov 2026 19:29:39 +0000",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
       "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-      "published": "Mon, 09 Nov 2026 17:44:37 +0000",
+      "published": "Mon, 09 Nov 2026 18:53:07 +0000",
       "sentiment": 0.22142857142857142
     },
     {
@@ -45,7 +51,7 @@
     {
       "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
       "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "published": "Mon, 09 Nov 2026 14:05:21 +0000",
+      "published": "Mon, 09 Nov 2026 18:12:15 +0000",
       "sentiment": -0.25
     },
     {
@@ -73,12 +79,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-      "published": "Sun, 08 Nov 2026 21:48:22 +0000",
-      "sentiment": 0.05000000000000002
-    },
-    {
       "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
       "published": "Mon, 09 Nov 2026 13:48:04 +0000",
@@ -101,6 +101,12 @@
       "link": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
       "published": "Sun, 08 Nov 2026 18:33:16 +0000",
       "sentiment": 0.5
+    },
+    {
+      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+      "published": "Sun, 08 Nov 2026 21:48:22 +0000",
+      "sentiment": 0.05000000000000002
     },
     {
       "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
@@ -317,18 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
       "published": "Fri, 06 Nov 2026 09:12:27 +0000",
       "sentiment": 0.04999999999999999
-    },
-    {
-      "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-      "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
-      "published": "Fri, 06 Nov 2026 05:49:52 +0000",
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
-      "link": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
-      "published": "Thu, 05 Nov 2026 21:30:46 +0000",
-      "sentiment": 0.0
     }
   ]
 }
