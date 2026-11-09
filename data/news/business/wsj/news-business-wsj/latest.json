@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Russell Brand Sentenced to 10½ Years in Jail for Rape and Sexual Assault",
+      "link": "https://www.wsj.com/business/media/russell-brand-sentenced-to-10-years-in-jail-for-rape-and-sexual-assault-271db16f?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 14:45:00 GMT",
+      "sentiment": 0.08
+    },
+    {
       "title": "Jensen Huang Investigation Rocks Nvidia as Board Investigates",
       "link": "https://www.wsj.com/cfo-journal/jensen-huang-investigation-rocks-nvidia-as-board-investigates-a0581595?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 12:38:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/articles/nvidia-ceo-discloses-affair-board-launches-probe-over-chinese-spy-fears-c5d08af5?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 11:01:00 GMT",
       "sentiment": 0.3666666666666667
-    },
-    {
-      "title": "Four Things to Watch as Power Changes Hands in Congress",
-      "link": "https://www.wsj.com/articles/four-things-to-watch-as-power-changes-hands-in-congress-46a1864d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
@@ -253,10 +253,22 @@
       "sentiment": 0.08333333333333334
     },
     {
+      "title": "SiriusXM Chooses Board Member to Be CEO as Witz Steps Down",
+      "link": "https://www.wsj.com/business/c-suite/siriusxm-chooses-board-member-to-be-ceo-as-witz-steps-down-801a5087?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 14:17:00 GMT",
+      "sentiment": 0.04722222222222222
+    },
+    {
       "title": "Goodyear CEO Mark Stewart Steps Down",
       "link": "https://www.wsj.com/business/goodyear-ceo-mark-stewart-steps-down-9a85b5a8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 13:34:00 GMT",
       "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Four Things to Watch as Power Changes Hands in Congress",
+      "link": "https://www.wsj.com/articles/four-things-to-watch-as-power-changes-hands-in-congress-46a1864d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "AI’s Role in Finance Is Here to Stay—and Adoption Near Universal: BDO",
@@ -268,18 +280,6 @@
       "title": "‘What Everybody Is Concerned About Is Cyber’",
       "link": "https://www.wsj.com/business/what-everybody-is-concerned-about-is-cyber-4f6ecf4e?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 10:45:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Fast-Casual Chain Cava’s Plan to Build a Manager Pipeline",
-      "link": "https://www.wsj.com/cfo-journal/fast-casual-chain-cavas-plan-to-build-a-manager-pipeline-170ddf18?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 12:03:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What Culture Can Build",
-      "link": "https://www.wsj.com/articles/what-culture-can-build-b71fa667?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 10:55:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,6 +313,12 @@
       "sentiment": 0.2
     },
     {
+      "title": "Brands Are Finding Eager Ambassadors in Campus Wellness Groups",
+      "link": "https://www.wsj.com/cmo-today/brands-are-finding-eager-ambassadors-in-campus-wellness-groups-cf3faa85?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 14:09:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Amex Goes After a Sports-Mad Crowd With Fanatics Credit Card",
       "link": "https://www.wsj.com/personal-finance/amex-goes-after-a-sports-mad-crowd-with-fanatics-credit-card-588466a4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 12:45:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/dolly-partons-manager-drops-lawsuit-against-singers-nephew-7c061a70?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 01:37:00 GMT",
       "sentiment": -0.3
-    },
-    {
-      "title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
-      "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 17:54:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Alphabet’s Drone Unit to Invest Up to $125 Million in New Texas Facility",
@@ -439,7 +439,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff.",
+      "title": "Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are on Staff.",
       "link": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 03:38:00 GMT",
       "sentiment": 0.0
@@ -463,16 +463,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "How a Talent War Spelled Doom for the Traditional Law Firm",
-      "link": "https://www.wsj.com/business/how-a-talent-war-spelled-doom-for-the-traditional-law-firm-1cf2c279?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 08 Nov 2026 01:00:00 GMT",
-      "sentiment": -0.08888888888888889
-    },
-    {
       "title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
       "link": "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d?mod=pls_whats_news_us_business_f",
       "published": "Sat, 07 Nov 2026 03:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "How a Talent War Spelled Doom for the Traditional Law Firm",
+      "link": "https://www.wsj.com/business/how-a-talent-war-spelled-doom-for-the-traditional-law-firm-1cf2c279?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 08 Nov 2026 01:00:00 GMT",
+      "sentiment": -0.08888888888888889
     },
     {
       "title": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm",
@@ -481,16 +481,16 @@
       "sentiment": 0.05
     },
     {
+      "title": "They Led an Energy Department Overhaul. Now They Plan to Build Data Centers.",
+      "link": "https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 12:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Musk Called It Tesla’s ‘Best Product Ever.’ Now the Cybertruck Is Being Scrapped.",
       "link": "https://www.wsj.com/business/autos/musk-called-it-teslas-best-product-ever-now-the-cybertruck-is-being-scrapped-0d2249c2?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 15:56:00 GMT",
       "sentiment": 1.0
-    },
-    {
-      "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
-      "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 23:33:00 GMT",
-      "sentiment": 0.011111111111111118
     },
     {
       "title": "Best Small-Business Loans in November 2026",
