@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
+      "published": "Mon, 09 Nov 2026 10:03:55 +0000",
+      "sentiment": 0.11212121212121212
+    },
+    {
+      "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
+      "published": "Mon, 09 Nov 2026 10:03:55 +0000",
+      "sentiment": 0.020833333333333332
+    },
+    {
+      "title": "What Democrats Plan to Investigate After Election Victory",
+      "link": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
+      "published": "Mon, 09 Nov 2026 10:48:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
+      "published": "Mon, 09 Nov 2026 10:02:55 +0000",
+      "sentiment": 0.1787878787878788
+    },
+    {
+      "title": "Will Congress Finally Rein in the Presidency?",
+      "link": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
+      "published": "Mon, 09 Nov 2026 10:01:48 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Why Colorado Is at the Epicenter of So Many Supreme Court Clashes",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
+      "published": "Mon, 09 Nov 2026 10:01:38 +0000",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Midterms",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html",
       "published": "Mon, 09 Nov 2026 03:16:26 +0000",
@@ -27,7 +63,7 @@
     {
       "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
       "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-      "published": "Mon, 09 Nov 2026 00:33:59 +0000",
+      "published": "Mon, 09 Nov 2026 10:06:15 +0000",
       "sentiment": 0.06666666666666667
     },
     {
@@ -83,42 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
       "published": "Sun, 08 Nov 2026 00:20:00 +0000",
       "sentiment": 0.008333333333333333
-    },
-    {
-      "title": "Judge Taps Lawyer to Investigate Trump Administration’s Conduct in Golf Course Case",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/washington-judge-special-master-trump-golf.html",
-      "published": "Sat, 07 Nov 2026 20:04:43 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Justice Department Intervenes in Planned Parenthood Lawsuit in Texas",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/doj-texas-fraud-lawsuit-planned-parenthood.html",
-      "published": "Sat, 07 Nov 2026 17:54:25 +0000",
-      "sentiment": 0.16818181818181818
-    },
-    {
-      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
-      "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
-      "published": "Sun, 08 Nov 2026 14:33:49 +0000",
-      "sentiment": 0.18333333333333335
-    },
-    {
-      "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
-      "published": "Sat, 07 Nov 2026 18:29:56 +0000",
-      "sentiment": 0.1202020202020202
-    },
-    {
-      "title": "Why White Working-Class Voters Shifted Left in the Midterms",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html",
-      "published": "Sat, 07 Nov 2026 18:22:09 +0000",
-      "sentiment": -0.02
-    },
-    {
-      "title": "A Look Inside Jury Selection in U.S.S. Cole Bombing Case",
-      "link": "https://www.nytimes.com/2026/11/07/us/politics/uss-cole-trial-jury-selection.html",
-      "published": "Sat, 07 Nov 2026 16:40:27 +0000",
-      "sentiment": 0.095
     }
   ]
 }
