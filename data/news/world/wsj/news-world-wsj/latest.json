@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Trump Says Nvidia CEO Didn’t Know Alice Huang Was a Suspected Spy",
+      "link": "https://www.wsj.com/world/asia/trump-says-nvidia-ceo-didnt-know-alice-huang-was-a-suspected-spy-211d65d7?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 23:08:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
       "link": "https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 22:24:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/europe/the-new-political-era-less-party-loyalty-big-election-swings-4cfa0ba1?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 02:00:00 GMT",
       "sentiment": 0.16161616161616163
-    },
-    {
-      "title": "These Maps Show the Gangs and Guerrillas Ruling More Than 200 Million People",
-      "link": "https://www.wsj.com/world/africa/these-maps-show-the-gangs-and-guerrillas-ruling-more-than-200-million-people-40ad723f?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
@@ -97,16 +97,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Stellantis Clinches Deal to Sell Canadian Factory to Defense Firm",
-      "link": "https://www.wsj.com/business/autos/stellantis-clinches-deal-to-sell-canadian-factory-to-defense-firm-4f6508c5?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 22:30:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "Canada Taps Senior Bridgewater Executive to Run Sovereign Wealth Fund",
       "link": "https://www.wsj.com/world/americas/canada-taps-senior-bridgewater-executive-to-run-sovereign-wealth-fund-d1e3a284?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 17:13:00 GMT",
       "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "These Maps Show the Gangs and Guerrillas Ruling More Than 200 Million People",
+      "link": "https://www.wsj.com/world/africa/these-maps-show-the-gangs-and-guerrillas-ruling-more-than-200-million-people-40ad723f?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0625
     },
     {
       "title": "A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina",
@@ -157,6 +157,12 @@
       "sentiment": 0.0625
     },
     {
+      "title": "Opinion | Nvidia Gets a Chinese Honeypot Lesson",
+      "link": "https://www.wsj.com/opinion/nvidia-gets-a-chinese-honeypot-lesson-25b45560?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 22:56:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Opinion | Iran Attacks Europe’s Refrigerators",
       "link": "https://www.wsj.com/opinion/iran-attacks-europes-refrigerators-e3375b85?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 22:48:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/israel-can-achieve-a-unity-government-89bc778a?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 18:47:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Opinion | Why the Lights Go Dark in Cuba",
-      "link": "https://www.wsj.com/opinion/why-the-lights-go-dark-in-cuba-bee46dce?mod=rss_worldnews",
-      "published": "Sun, 08 Nov 2026 18:35:00 GMT",
-      "sentiment": -0.075
     },
     {
       "title": "Six Dead in Shooting at Market Square in Poland",
