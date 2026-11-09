@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "published": "Mon, 09 Nov 2026 17:44:37 +0000",
+      "sentiment": 0.22142857142857142
+    },
+    {
       "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
       "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
       "published": "Mon, 09 Nov 2026 12:04:29 +0000",
@@ -73,12 +79,6 @@
       "sentiment": 0.05000000000000002
     },
     {
-      "title": "South Africa’s Politics May Never Be the Same Again",
-      "link": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-      "published": "Sun, 08 Nov 2026 05:01:24 +0000",
-      "sentiment": -0.020833333333333332
-    },
-    {
       "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
       "published": "Mon, 09 Nov 2026 13:48:04 +0000",
@@ -107,6 +107,12 @@
       "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
       "published": "Sun, 08 Nov 2026 10:01:51 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "South Africa’s Politics May Never Be the Same Again",
+      "link": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+      "published": "Sun, 08 Nov 2026 05:01:24 +0000",
+      "sentiment": -0.020833333333333332
     },
     {
       "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
@@ -323,18 +329,6 @@
       "link": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
       "published": "Thu, 05 Nov 2026 21:30:46 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
-      "link": "https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html",
-      "published": "Thu, 05 Nov 2026 21:16:14 +0000",
-      "sentiment": -0.075
-    },
-    {
-      "title": "The Dark Side of K-Pop",
-      "link": "https://www.nytimes.com/2026/11/05/world/kpop-russell-brand-iran.html",
-      "published": "Fri, 06 Nov 2026 06:00:53 +0000",
-      "sentiment": -0.15
     }
   ]
 }
