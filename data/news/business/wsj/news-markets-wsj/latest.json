@@ -127,6 +127,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Nikkei Rises 1.7%, Led by Machinery, Financial Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-machinery-financial-stocks-45670eb5?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 00:29:00 GMT",
+      "sentiment": 0.12
+    },
+    {
       "title": "Berkshire Hathaway’s Quarterly Profit Falls After Investment Gains Shrink",
       "link": "https://www.wsj.com/business/earnings/berkshire-hathaway-brkb-q3-earnings-report-2026-stock-02843721?mod=rss_markets_main",
       "published": "Sat, 07 Nov 2026 15:14:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-48777713?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 21:55:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-f54a976f?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 21:53:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Opinion | Trump, the New Congress and the Solyndra Probe",
@@ -193,6 +193,12 @@
       "sentiment": -0.23055555555555554
     },
     {
+      "title": "Gold Edges Higher Amid Mixed Signals",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 00:25:00 GMT",
+      "sentiment": 0.09999999999999999
+    },
+    {
       "title": "Oil Futures Post Big Weekly Losses",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-holds-gains-after-selloff-ad231914?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 21:14:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/taiwan-activates-market-stabilization-measures-to-stem-ai-bleeding-169e36e1?mod=rss_markets_main",
       "published": "Fri, 06 Nov 2026 11:16:00 GMT",
       "sentiment": -0.19999999999999998
-    },
-    {
-      "title": "Global Food Prices Ease on Cheaper Grains, Dairy and Meat, UN Says",
-      "link": "https://www.wsj.com/finance/commodities-futures/global-food-prices-ease-on-cheaper-grains-dairy-and-meat-un-says-9b76eefd?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 10:25:00 GMT",
-      "sentiment": -0.041666666666666664
     },
     {
       "title": "China Forex Reserves Edged Up in October",
@@ -325,16 +325,16 @@
       "sentiment": -0.075
     },
     {
-      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
-      "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 04:36:00 GMT",
-      "sentiment": -0.140625
-    },
-    {
       "title": "How Your Finances Could Change if Democrats Repeat Their Win in 2028",
       "link": "https://www.wsj.com/personal-finance/how-your-finances-could-change-if-democrats-repeat-their-win-in-2028-b7399634?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 14:14:00 GMT",
       "sentiment": 0.4166666666666667
+    },
+    {
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+      "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main",
+      "published": "Fri, 06 Nov 2026 04:36:00 GMT",
+      "sentiment": -0.140625
     },
     {
       "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
