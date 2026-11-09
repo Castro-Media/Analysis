@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
+      "published": "Mon, 09 Nov 2026 19:34:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Two Arrested After Car Crashes Into Sign Near White House",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/white-house-car-crash.html",
+      "published": "Mon, 09 Nov 2026 19:30:50 +0000",
+      "sentiment": 0.025
+    },
+    {
+      "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+      "published": "Mon, 09 Nov 2026 18:37:12 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Independent Senate Candidates Ran in Deep-Red States and Lost Despite Democratic Support",
       "link": "https://www.nytimes.com/2026/11/09/us/elections/independent-senate-races-candidates-election-results.html",
       "published": "Mon, 09 Nov 2026 16:30:05 +0000",
@@ -9,7 +27,7 @@
     {
       "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
       "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "published": "Mon, 09 Nov 2026 16:47:08 +0000",
+      "published": "Mon, 09 Nov 2026 18:38:40 +0000",
       "sentiment": 0.45
     },
     {
@@ -25,16 +43,16 @@
       "sentiment": -0.39999999999999997
     },
     {
-      "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-      "published": "Mon, 09 Nov 2026 10:03:55 +0000",
-      "sentiment": 0.020833333333333332
-    },
-    {
       "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
       "published": "Mon, 09 Nov 2026 15:33:03 +0000",
       "sentiment": 0.11212121212121212
+    },
+    {
+      "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
+      "published": "Mon, 09 Nov 2026 19:29:55 +0000",
+      "sentiment": 0.020833333333333332
     },
     {
       "title": "What Democrats Plan to Investigate After Election Victory",
@@ -49,10 +67,10 @@
       "sentiment": 0.1787878787878788
     },
     {
-      "title": "Will Congress Finally Rein in the Presidency?",
+      "title": "Congress Has Reined In the Presidency Before. Here’s How to Do It.",
       "link": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
-      "published": "Mon, 09 Nov 2026 10:01:48 +0000",
-      "sentiment": 0.15
+      "published": "Mon, 09 Nov 2026 19:22:38 +0000",
+      "sentiment": 0.3
     },
     {
       "title": "Why Colorado Is at the Epicenter of So Many Supreme Court Clashes",
@@ -69,7 +87,7 @@
     {
       "title": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
-      "published": "Mon, 09 Nov 2026 02:14:35 +0000",
+      "published": "Mon, 09 Nov 2026 02:14:36 +0000",
       "sentiment": 0.2111111111111111
     },
     {
@@ -81,13 +99,13 @@
     {
       "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
-      "published": "Sun, 08 Nov 2026 23:49:54 +0000",
+      "published": "Mon, 09 Nov 2026 18:36:21 +0000",
       "sentiment": -0.2375
     },
     {
       "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
       "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-      "published": "Mon, 09 Nov 2026 13:31:00 +0000",
+      "published": "Mon, 09 Nov 2026 18:37:55 +0000",
       "sentiment": 0.06666666666666667
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
       "published": "Sun, 08 Nov 2026 19:22:53 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
-      "published": "Sun, 08 Nov 2026 22:59:32 +0000",
-      "sentiment": 0.03125
-    },
-    {
-      "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
-      "link": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
-      "published": "Sun, 08 Nov 2026 17:03:40 +0000",
-      "sentiment": 0.55
-    },
-    {
-      "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
-      "published": "Sun, 08 Nov 2026 16:25:45 +0000",
-      "sentiment": 0.19090909090909092
     }
   ]
 }

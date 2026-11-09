@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "Trump Veers Back Into Claims of Rigged Election",
-      "link": "https://www.nytimes.com/2026/11/09/us/trump-election-fraud-rigging-midterms.html",
-      "published": "Mon, 09 Nov 2026 16:33:17 +0000",
-      "sentiment": 0.1547619047619048
+      "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+      "published": "Mon, 09 Nov 2026 19:51:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
+      "published": "Mon, 09 Nov 2026 19:34:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Two Arrested After Car Crashes Into Sign Near White House",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/white-house-car-crash.html",
+      "published": "Mon, 09 Nov 2026 19:30:50 +0000",
+      "sentiment": 0.025
+    },
+    {
+      "title": "At 87, Senfronia Thompson is Poised to Become the First Woman to Lead the Texas House",
+      "link": "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html",
+      "published": "Mon, 09 Nov 2026 19:30:44 +0000",
+      "sentiment": 0.11111111111111112
+    },
+    {
+      "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+      "published": "Mon, 09 Nov 2026 18:37:12 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Independent Senate Candidates Ran in Deep-Red States and Lost Despite Democratic Support",
@@ -27,7 +51,7 @@
     {
       "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-      "published": "Mon, 09 Nov 2026 10:03:55 +0000",
+      "published": "Mon, 09 Nov 2026 19:29:55 +0000",
       "sentiment": 0.020833333333333332
     },
     {
@@ -51,7 +75,7 @@
     {
       "title": "Mississippi Officer Who Fatally Shot Toddler Had a History of Aggressive Policing",
       "link": "https://www.nytimes.com/2026/11/09/us/mississippi-officer-walmart-shooting-toddler-aggressive-policing.html",
-      "published": "Mon, 09 Nov 2026 10:02:15 +0000",
+      "published": "Mon, 09 Nov 2026 18:40:24 +0000",
       "sentiment": -0.015151515151515152
     },
     {
@@ -75,7 +99,7 @@
     {
       "title": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
-      "published": "Mon, 09 Nov 2026 02:14:35 +0000",
+      "published": "Mon, 09 Nov 2026 02:14:36 +0000",
       "sentiment": 0.2111111111111111
     },
     {
@@ -87,7 +111,7 @@
     {
       "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
       "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
-      "published": "Sun, 08 Nov 2026 23:49:54 +0000",
+      "published": "Mon, 09 Nov 2026 18:36:21 +0000",
       "sentiment": -0.2375
     },
     {
@@ -95,30 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/08/us/georgia-state-house-race-memory-card.html",
       "published": "Sun, 08 Nov 2026 19:12:49 +0000",
       "sentiment": -0.13571428571428573
-    },
-    {
-      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-      "published": "Mon, 09 Nov 2026 00:27:00 +0000",
-      "sentiment": -0.030000000000000006
-    },
-    {
-      "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
-      "published": "Sun, 08 Nov 2026 19:22:53 +0000",
-      "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Tesla Announces It Will Discontinue the Cybertruck, a Culture War on Wheels",
-      "link": "https://www.nytimes.com/2026/11/08/us/tesla-cybertruck-culture-war.html",
-      "published": "Mon, 09 Nov 2026 03:51:50 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
-      "published": "Sun, 08 Nov 2026 22:59:32 +0000",
-      "sentiment": 0.03125
     }
   ]
 }
