@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The New Political Era: Less Party Loyalty, Big Election Swings",
+      "link": "https://www.wsj.com/world/europe/the-new-political-era-less-party-loyalty-big-election-swings-4cfa0ba1?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.16161616161616163
+    },
+    {
+      "title": "These Maps Show the Gangs and Guerrillas Ruling More Than 200 Million People",
+      "link": "https://www.wsj.com/world/africa/these-maps-show-the-gangs-and-guerrillas-ruling-more-than-200-million-people-40ad723f?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina",
       "link": "https://www.wsj.com/world/americas/a-missionary-pope-faces-a-chain-saw-wielding-populist-in-argentina-b032a897?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 00:17:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 14:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Do You Know England’s Founding Father? It’s OK, England Doesn’t Either.",
-      "link": "https://www.wsj.com/world/uk/do-you-know-englands-founding-father-its-ok-england-doesnt-either-4930772b?mod=rss_worldnews",
-      "published": "Sun, 08 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.10416666666666666
-    },
-    {
-      "title": "The Growing Push to Protect Trophy Hunting in Africa",
-      "link": "https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews",
-      "published": "Sun, 08 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
@@ -69,7 +69,7 @@
     {
       "title": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair",
       "link": "https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e?mod=rss_worldnews",
-      "published": "Sun, 08 Nov 2026 23:07:00 GMT",
+      "published": "Mon, 09 Nov 2026 01:15:00 GMT",
       "sentiment": -0.3
     },
     {
@@ -127,6 +127,12 @@
       "sentiment": 0.1993055555555556
     },
     {
+      "title": "Do You Know England’s Founding Father? It’s OK, England Doesn’t Either.",
+      "link": "https://www.wsj.com/world/uk/do-you-know-englands-founding-father-its-ok-england-doesnt-either-4930772b?mod=rss_worldnews",
+      "published": "Sun, 08 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.10416666666666666
+    },
+    {
       "title": "Meghan Markle’s Father Arrested on Charges Related to Child Sexual Abuse Materials",
       "link": "https://www.wsj.com/us-news/meghan-markles-father-arrested-on-charges-related-to-child-sexual-abuse-materials-90c2080f?mod=rss_worldnews",
       "published": "Fri, 06 Nov 2026 21:58:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/world/uk/britain-set-to-apologize-for-role-in-trans-atlantic-slave-trade-a7afc8dc?mod=rss_worldnews",
       "published": "Tue, 03 Nov 2026 18:17:00 GMT",
       "sentiment": 0.0625
-    },
-    {
-      "title": "While Britain Preps for Doomsday, Its Leaders Hoard Mascara and Sauvignon Blanc",
-      "link": "https://www.wsj.com/world/europe/while-britain-preps-for-doomsday-its-leaders-hoard-mascara-and-sauvignon-blanc-4ccc173b?mod=rss_worldnews",
-      "published": "Mon, 02 Nov 2026 17:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | Israel Can Achieve a Unity Government",
@@ -283,6 +283,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "The Growing Push to Protect Trophy Hunting in Africa",
+      "link": "https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews",
+      "published": "Sun, 08 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump’s Deportation Deal With Cameroon Will Equip Unit Accused of War Crimes",
       "link": "https://www.wsj.com/world/africa/trumps-deportation-deal-with-cameroon-will-equip-unit-accused-of-war-crimes-a94d3faa?mod=rss_worldnews",
       "published": "Thu, 29 Oct 2026 20:56:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3?mod=rss_worldnews",
       "published": "Sun, 18 Oct 2026 01:00:00 GMT",
       "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Kenyan Club Rejects Bid to Allow Women Into Men’s Bar From ‘Out of Africa’",
-      "link": "https://www.wsj.com/world/africa/kenyan-club-rejects-bid-to-allow-women-into-mens-bar-from-out-of-africa-4aa5b795?mod=rss_worldnews",
-      "published": "Sun, 11 Oct 2026 15:00:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "As China Encroaches, Even New Zealand Is Getting Serious About Its Military",
@@ -371,12 +371,6 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
-    },
-    {
-      "title": "Gulf Airports Built to Connect the World Are Now in the Crosshairs",
-      "link": "https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews",
-      "published": "Fri, 06 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
