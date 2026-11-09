@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "In a Democratic Wave, Even the Long Shots Defied the Odds",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html",
+      "published": "Mon, 09 Nov 2026 22:11:58 +0000",
+      "sentiment": 0.5166666666666667
+    },
+    {
+      "title": "Scientists Sue to Block Trump Administration Changes at National Science Foundation",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/national-science-foundation-funding-lawsuit.html",
+      "published": "Mon, 09 Nov 2026 21:55:02 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-      "published": "Mon, 09 Nov 2026 20:12:14 +0000",
+      "published": "Mon, 09 Nov 2026 21:36:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+      "published": "Mon, 09 Nov 2026 22:35:05 +0000",
       "sentiment": 0.0
     },
     {
@@ -21,7 +39,7 @@
     {
       "title": "Two Arrested After Car Crashes Into Sign Near White House",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/white-house-car-crash.html",
-      "published": "Mon, 09 Nov 2026 19:30:50 +0000",
+      "published": "Mon, 09 Nov 2026 22:40:22 +0000",
       "sentiment": 0.025
     },
     {
@@ -45,7 +63,7 @@
     {
       "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
       "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-      "published": "Mon, 09 Nov 2026 17:02:37 +0000",
+      "published": "Mon, 09 Nov 2026 21:24:16 +0000",
       "sentiment": -0.1388888888888889
     },
     {
@@ -55,21 +73,21 @@
       "sentiment": -0.39999999999999997
     },
     {
-      "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
-      "published": "Mon, 09 Nov 2026 15:33:03 +0000",
-      "sentiment": 0.11212121212121212
-    },
-    {
       "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
       "published": "Mon, 09 Nov 2026 19:29:55 +0000",
       "sentiment": 0.020833333333333332
     },
     {
+      "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
+      "published": "Mon, 09 Nov 2026 15:33:03 +0000",
+      "sentiment": 0.11212121212121212
+    },
+    {
       "title": "What Democrats Plan to Investigate After Election Victory",
       "link": "https://www.nytimes.com/video/us/politics/100000011266496/democrats-plan-corruption-investigations-after-election-victory.html",
-      "published": "Mon, 09 Nov 2026 10:48:01 +0000",
+      "published": "Mon, 09 Nov 2026 22:44:37 +0000",
       "sentiment": 0.0
     },
     {
@@ -113,12 +131,6 @@
       "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
       "published": "Mon, 09 Nov 2026 18:36:21 +0000",
       "sentiment": -0.2375
-    },
-    {
-      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
-      "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-      "published": "Mon, 09 Nov 2026 18:37:55 +0000",
-      "sentiment": 0.06666666666666667
     }
   ]
 }
