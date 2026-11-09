@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+      "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+      "published": "Mon, 09 Nov 2026 20:50:12 +0000",
+      "sentiment": 0.06888888888888889
+    },
+    {
       "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
       "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
       "published": "Mon, 09 Nov 2026 19:29:39 +0000",
@@ -57,7 +63,7 @@
     {
       "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
       "link": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
-      "published": "Mon, 09 Nov 2026 05:45:34 +0000",
+      "published": "Mon, 09 Nov 2026 20:14:08 +0000",
       "sentiment": -0.225
     },
     {
@@ -73,10 +79,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
-      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-      "published": "Sun, 08 Nov 2026 17:31:14 +0000",
-      "sentiment": 0.0
+      "title": "The Nvidia Affair",
+      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+      "published": "Mon, 09 Nov 2026 20:52:03 +0000",
+      "sentiment": -0.05
     },
     {
       "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
@@ -229,9 +235,15 @@
       "sentiment": -0.075
     },
     {
+      "title": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+      "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+      "published": "Sun, 08 Nov 2026 17:31:14 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
       "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
-      "published": "Fri, 06 Nov 2026 17:17:40 +0000",
+      "published": "Mon, 09 Nov 2026 20:37:21 +0000",
       "sentiment": 0.17142857142857143
     },
     {
@@ -311,18 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html",
       "published": "Fri, 06 Nov 2026 19:19:56 +0000",
       "sentiment": 0.10714285714285714
-    },
-    {
-      "title": "A Trump-Putin-Xi Summit? That Might Be Awkward for One of Them.",
-      "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
-      "published": "Fri, 06 Nov 2026 12:28:55 +0000",
-      "sentiment": -0.3666666666666667
-    },
-    {
-      "title": "Who’s Hiding Secrets About Dag Hammarskjöld’s Death?",
-      "link": "https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html",
-      "published": "Fri, 06 Nov 2026 09:12:27 +0000",
-      "sentiment": 0.04999999999999999
     }
   ]
 }

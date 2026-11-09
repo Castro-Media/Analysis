@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
+      "link": "https://www.wsj.com/tech/jensen-huang-doesnt-believe-in-succession-planning-its-become-a-big-risk-for-nvidia-abd9ea9d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 19:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
       "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 19:30:00 GMT",
@@ -11,12 +17,6 @@
       "link": "https://www.wsj.com/business/media/skydance-shakes-up-dc-superhero-studio-leadership-0084fd76?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 18:56:00 GMT",
       "sentiment": -0.14027777777777778
-    },
-    {
-      "title": "Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
-      "link": "https://www.wsj.com/tech/jensen-huang-doesnt-believe-in-succession-planning-its-become-a-big-risk-for-nvidia-abd9ea9d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 17:53:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Federal Government Probes Waymo Over School-Bus Safety",
@@ -109,12 +109,6 @@
       "sentiment": 0.2
     },
     {
-      "title": "KKR Profit Rises on Fee-Related Earnings Growth",
-      "link": "https://www.wsj.com/business/earnings/kkr-profit-rises-on-fee-related-earnings-growth-4a62dcfb?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 12:49:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "UniCredit Signals It Is Ready to Bring Forward Merger With Commerzbank",
       "link": "https://www.wsj.com/business/earnings/unicredit-raises-profit-guidance-as-control-of-commerzbank-nears-ce8ccdc8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 12:23:00 GMT",
@@ -125,6 +119,12 @@
       "link": "https://www.wsj.com/business/earnings/barrick-quarterly-earnings-benefit-from-higher-prices-as-production-remains-on-track-for-annual-target-d7e6f1f3?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 11:27:00 GMT",
       "sentiment": 0.07083333333333333
+    },
+    {
+      "title": "MTN Group Posts Revenue Growth, Higher Profitability",
+      "link": "https://www.wsj.com/business/earnings/mtn-group-posts-revenue-growth-higher-profitability-7240166f?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 07:12:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Honda to Invest $3 Billion in New Ohio Plant to Boost Hybrid Vehicle Production",
@@ -205,12 +205,6 @@
       "sentiment": 0.3
     },
     {
-      "title": "Oil Slides More Than 3% as Trump Downplays Prospect of New Iran Strikes",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 12:30:00 GMT",
-      "sentiment": 0.01727272727272727
-    },
-    {
       "title": "They Led an Energy Department Overhaul. Now They Plan to Build Data Centers.",
       "link": "https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 12:00:00 GMT",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 23:33:00 GMT",
       "sentiment": 0.011111111111111118
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-0d462507?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 21:55:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
@@ -373,12 +373,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "MTN Group Posts Revenue Growth, Higher Profitability",
-      "link": "https://www.wsj.com/business/earnings/mtn-group-posts-revenue-growth-higher-profitability-7240166f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 07:12:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 21:53:00 GMT",
@@ -401,6 +395,12 @@
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-301747e9?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 22:08:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Deutsche Telekom Raises Outlook, Plans Dividend Increase",
+      "link": "https://www.wsj.com/business/earnings/deutsche-telekom-raises-outlook-plans-dividend-increase-cbb6085e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 05 Nov 2026 06:58:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "20-Somethings Are Ditching Entry-Level Jobs to Become Their Own Bosses",
