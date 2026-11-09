@@ -1,16 +1,28 @@
 {
   "entries": [
     {
-      "title": "Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
-      "link": "https://www.wsj.com/tech/jensen-huang-doesnt-believe-in-succession-planning-its-become-a-big-risk-for-nvidia-abd9ea9d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 19:59:00 GMT",
+      "title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama",
+      "link": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 22:36:00 GMT",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Nvidia Shares Slump on Spy Probe",
+      "link": "https://www.wsj.com/business/nvidia-shares-slump-on-spy-probe-1d59bde7?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 22:35:00 GMT",
       "sentiment": 0.0
     },
     {
       "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
       "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 19:30:00 GMT",
+      "published": "Mon, 09 Nov 2026 21:49:00 GMT",
       "sentiment": 0.0625
+    },
+    {
+      "title": "Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
+      "link": "https://www.wsj.com/tech/jensen-huang-doesnt-believe-in-succession-planning-its-become-a-big-risk-for-nvidia-abd9ea9d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 19:59:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Skydance Shakes Up DC Superhero Studio Leadership",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/autos/federal-government-probes-waymo-over-school-bus-safety-c2885716?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 17:23:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "The World’s Oil Safety Net Is Fraying. Now Comes the Rush to Remake It.",
-      "link": "https://www.wsj.com/business/energy-oil/the-worlds-oil-safety-net-is-fraying-now-comes-the-rush-to-remake-it-0fec1209?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 15:07:00 GMT",
-      "sentiment": 0.06227272727272728
-    },
-    {
-      "title": "Jensen Huang Investigation Rocks Nvidia as Board Investigates",
-      "link": "https://www.wsj.com/cfo-journal/jensen-huang-investigation-rocks-nvidia-as-board-investigates-a0581595?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 12:38:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
@@ -97,34 +97,40 @@
       "sentiment": 0.16666666666666666
     },
     {
+      "title": "JBS Reports Lower Profit, Citing Difficult Operating Environment",
+      "link": "https://www.wsj.com/business/earnings/jbs-reports-lower-profit-citing-difficult-operating-environment-fbc442fa?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 22:16:00 GMT",
+      "sentiment": -0.25
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-fb4ec7e6?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 17:31:00 GMT",
+      "published": "Mon, 09 Nov 2026 22:03:00 GMT",
       "sentiment": 0.3333333333333333
     },
     {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 17:23:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "UniCredit Signals It Is Ready to Bring Forward Merger With Commerzbank",
-      "link": "https://www.wsj.com/business/earnings/unicredit-raises-profit-guidance-as-control-of-commerzbank-nears-ce8ccdc8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 12:23:00 GMT",
-      "sentiment": 0.025
-    },
-    {
-      "title": "Barrick Quarterly Earnings Benefit from Higher Prices as Production Remains On Track for Annual Target",
-      "link": "https://www.wsj.com/business/earnings/barrick-quarterly-earnings-benefit-from-higher-prices-as-production-remains-on-track-for-annual-target-d7e6f1f3?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 11:27:00 GMT",
-      "sentiment": 0.07083333333333333
-    },
-    {
-      "title": "MTN Group Posts Revenue Growth, Higher Profitability",
-      "link": "https://www.wsj.com/business/earnings/mtn-group-posts-revenue-growth-higher-profitability-7240166f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 07:12:00 GMT",
+      "published": "Mon, 09 Nov 2026 22:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Hims & Hers Narrows Sales Outlook",
+      "link": "https://www.wsj.com/business/earnings/hims-hers-narrows-sales-outlook-2091854d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 21:55:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Trump Media & Technology Group Swings to Profit Ahead of TAE Technologies Merger",
+      "link": "https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 21:43:00 GMT",
+      "sentiment": 0.011111111111111112
+    },
+    {
+      "title": "Stellantis Clinches Deal to Sell Canadian Factory to Defense Firm",
+      "link": "https://www.wsj.com/business/autos/stellantis-clinches-deal-to-sell-canadian-factory-to-defense-firm-4f6508c5?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 22:30:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Honda to Invest $3 Billion in New Ohio Plant to Boost Hybrid Vehicle Production",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/america-has-become-the-last-place-to-make-money-for-the-worlds-automakers-3ee3ae7c?mod=pls_whats_news_us_business_f",
       "published": "Sat, 07 Nov 2026 02:00:00 GMT",
       "sentiment": 0.075
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-d73630aa?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 21:56:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Opinion | The Race to Remake the U.S. Auto Market",
@@ -195,7 +195,7 @@
     {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 17:23:00 GMT",
+      "published": "Mon, 09 Nov 2026 22:00:00 GMT",
       "sentiment": 0.25
     },
     {
@@ -203,6 +203,12 @@
       "link": "https://www.wsj.com/pro/business-resilience/hyperscalers-face-fresh-scrutiny-over-data-center-emissions-e18b668c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 16:06:00 GMT",
       "sentiment": 0.3
+    },
+    {
+      "title": "The World’s Oil Safety Net Is Fraying. Now Comes the Rush to Remake It.",
+      "link": "https://www.wsj.com/business/energy-oil/the-worlds-oil-safety-net-is-fraying-now-comes-the-rush-to-remake-it-0fec1209?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 15:07:00 GMT",
+      "sentiment": 0.06227272727272728
     },
     {
       "title": "They Led an Energy Department Overhaul. Now They Plan to Build Data Centers.",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 23:33:00 GMT",
       "sentiment": 0.011111111111111118
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-0d462507?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 21:55:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
@@ -265,6 +265,12 @@
       "sentiment": -0.15555555555555556
     },
     {
+      "title": "Jensen Huang Investigation Rocks Nvidia as Board Investigates",
+      "link": "https://www.wsj.com/cfo-journal/jensen-huang-investigation-rocks-nvidia-as-board-investigates-a0581595?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 12:38:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Four Things to Watch as Power Changes Hands in Congress",
       "link": "https://www.wsj.com/articles/four-things-to-watch-as-power-changes-hands-in-congress-46a1864d?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 10:55:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/ais-role-in-finance-is-here-to-stayand-adoption-near-universal-bdo-801d4137?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 11:45:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "‘What Everybody Is Concerned About Is Cyber’",
-      "link": "https://www.wsj.com/business/what-everybody-is-concerned-about-is-cyber-4f6ecf4e?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 10:45:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
@@ -313,6 +313,18 @@
       "sentiment": 0.2
     },
     {
+      "title": "How a Former Katz’s Waiter Created a Hit Podcast About Drug Addiction",
+      "link": "https://www.wsj.com/arts-culture/david-manheim-dopey-podcast-katzs-9b03cb1f?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 22:40:00 GMT",
+      "sentiment": -0.049999999999999996
+    },
+    {
+      "title": "Skydance Plans to Cut $6 Billion in Costs Following Warner Bros. Deal",
+      "link": "https://www.wsj.com/business/media/skydance-plans-to-cut-6-billion-in-costs-following-warner-bros-deal-86b3b6bf?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 21:14:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Russell Brand Sentenced to 10½ Years in Jail for Rape and Sexual Assault",
       "link": "https://www.wsj.com/world/uk/russell-brand-sentenced-to-10-years-in-jail-for-rape-and-sexual-assault-271db16f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 15:38:00 GMT",
@@ -328,18 +340,6 @@
       "title": "Amex Goes After a Sports-Mad Crowd With Fanatics Credit Card",
       "link": "https://www.wsj.com/personal-finance/amex-goes-after-a-sports-mad-crowd-with-fanatics-credit-card-588466a4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 12:45:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "News Quiz for Nov. 7, 2026",
-      "link": "https://www.wsj.com/business/media/news-quiz-for-nov-7-2026-b4589af9?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 07 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Polarizing Halo Product Runs Out of Road at Tesla",
-      "link": "https://www.wsj.com/cmo-today/a-polarizing-halo-product-runs-out-of-road-at-tesla-9172566a?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 14:16:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "MTN Group Posts Revenue Growth, Higher Profitability",
+      "link": "https://www.wsj.com/business/earnings/mtn-group-posts-revenue-growth-higher-profitability-7240166f?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 07:12:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 21:53:00 GMT",
@@ -397,12 +403,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "Deutsche Telekom Raises Outlook, Plans Dividend Increase",
-      "link": "https://www.wsj.com/business/earnings/deutsche-telekom-raises-outlook-plans-dividend-increase-cbb6085e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 06:58:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "20-Somethings Are Ditching Entry-Level Jobs to Become Their Own Bosses",
       "link": "https://www.wsj.com/lifestyle/careers/20-somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-168d1f48?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 01:00:00 GMT",
@@ -415,6 +415,12 @@
       "sentiment": 0.15
     },
     {
+      "title": "‘What Everybody Is Concerned About Is Cyber’",
+      "link": "https://www.wsj.com/business/what-everybody-is-concerned-about-is-cyber-4f6ecf4e?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 10:45:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Zipline Reaches $21.5 Billion Valuation as Drone Delivery Gains Traction",
       "link": "https://www.wsj.com/business/drone-startup-zipline-raises-1-5-billion-at-21-5-billion-valuation-1d166eec?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 14:48:00 GMT",
@@ -425,12 +431,6 @@
       "link": "https://www.wsj.com/business/retail/the-elizabeth-holmes-movie-made-this-jerky-all-the-rage-can-its-maker-capitalize-861cb615?mod=pls_whats_news_us_business_f",
       "published": "Wed, 04 Nov 2026 13:45:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Wild Rise of a Trump-Backed Drone Company",
-      "link": "https://www.wsj.com/business/the-wild-rise-of-a-trump-backed-drone-company-6722ac08?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 30 Oct 2026 14:36:00 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "The Morning Risk Report: Nvidia’s Board Probes Reports That CEO Was Spying Target",
@@ -481,16 +481,16 @@
       "sentiment": -0.08888888888888889
     },
     {
+      "title": "Skydance Shakes Up DC Superhero Studio Leadership",
+      "link": "https://www.wsj.com/business/media/skydance-shakes-up-dc-superhero-studio-leadership-0084fd76?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 18:56:00 GMT",
+      "sentiment": -0.14027777777777778
+    },
+    {
       "title": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm",
       "link": "https://www.wsj.com/business/toddler-snack-recall-tests-organic-food-maker-once-upon-a-farm-02de7364?mod=pls_whats_news_us_business_f",
       "published": "Sun, 08 Nov 2026 17:24:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "See What It Takes to Turn a High-School Athlete Into a Business",
-      "link": "https://www.wsj.com/sports/see-what-it-takes-to-turn-a-high-school-athlete-into-a-business-402c30a8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 17:10:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
