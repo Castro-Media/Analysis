@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Trump Veers Back Into Claims of Rigged Election",
+      "link": "https://www.nytimes.com/2026/11/09/us/trump-election-fraud-rigging-midterms.html",
+      "published": "Mon, 09 Nov 2026 16:33:17 +0000",
+      "sentiment": 0.1547619047619048
+    },
+    {
+      "title": "Independent Senate Candidates Ran in Deep-Red States and Lost Despite Democratic Support",
+      "link": "https://www.nytimes.com/2026/11/09/us/elections/independent-senate-races-candidates-election-results.html",
+      "published": "Mon, 09 Nov 2026 16:30:05 +0000",
+      "sentiment": -0.1
+    },
+    {
       "title": "Cruise Ship Worker Rescued in Pacific Ocean Off California Coast After Going Overboard",
       "link": "https://www.nytimes.com/2026/11/09/us/cruise-ship-worker-pianist-rescued-california-pacific.html",
       "published": "Mon, 09 Nov 2026 10:26:49 +0000",
@@ -9,7 +21,7 @@
     {
       "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
-      "published": "Mon, 09 Nov 2026 13:28:46 +0000",
+      "published": "Mon, 09 Nov 2026 15:33:03 +0000",
       "sentiment": 0.11212121212121212
     },
     {
@@ -39,7 +51,7 @@
     {
       "title": "Mississippi Officer Who Fatally Shot Toddler Had a History of Aggressive Policing",
       "link": "https://www.nytimes.com/2026/11/09/us/mississippi-officer-walmart-shooting-toddler-aggressive-policing.html",
-      "published": "Mon, 09 Nov 2026 10:02:14 +0000",
+      "published": "Mon, 09 Nov 2026 10:02:15 +0000",
       "sentiment": -0.015151515151515152
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
       "published": "Sun, 08 Nov 2026 22:59:32 +0000",
       "sentiment": 0.03125
-    },
-    {
-      "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
-      "link": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
-      "published": "Sun, 08 Nov 2026 17:03:40 +0000",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/08/us/election-democrats-trump-news/heres-the-latest",
-      "published": "Sun, 08 Nov 2026 18:57:28 +0000",
-      "sentiment": 0.5
     }
   ]
 }
