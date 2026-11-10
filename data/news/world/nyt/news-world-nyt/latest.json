@@ -1,21 +1,27 @@
 {
   "entries": [
     {
+      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+      "published": "Tue, 10 Nov 2026 13:43:10 +0000",
+      "sentiment": 0.4
+    },
+    {
       "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
       "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
       "published": "Tue, 10 Nov 2026 10:03:14 +0000",
       "sentiment": -0.12000000000000002
     },
     {
-      "title": "Saudi Arabia Sentences Mother to 100 Lashes for Birth Outside Marriage",
+      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
       "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-      "published": "Tue, 10 Nov 2026 12:10:04 +0000",
+      "published": "Tue, 10 Nov 2026 12:57:00 +0000",
       "sentiment": 0.08333333333333333
     },
     {
       "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
-      "published": "Tue, 10 Nov 2026 11:01:02 +0000",
+      "published": "Tue, 10 Nov 2026 12:58:17 +0000",
       "sentiment": -0.0625
     },
     {
@@ -33,7 +39,7 @@
     {
       "title": "Israel’s New Parliament Gathers With No Government in Sight",
       "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-      "published": "Tue, 10 Nov 2026 12:38:38 +0000",
+      "published": "Tue, 10 Nov 2026 12:38:39 +0000",
       "sentiment": 0.018181818181818174
     },
     {
@@ -79,12 +85,6 @@
       "sentiment": -0.041666666666666664
     },
     {
-      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
-      "published": "Tue, 10 Nov 2026 11:29:10 +0000",
-      "sentiment": 0.22142857142857142
-    },
-    {
       "title": "Who Is David Walliams, the UK Entertainer Accused of Sexual Misconduct?",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
       "published": "Tue, 10 Nov 2026 12:39:27 +0000",
@@ -107,6 +107,12 @@
       "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
       "published": "Tue, 10 Nov 2026 05:43:35 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "published": "Tue, 10 Nov 2026 11:29:10 +0000",
+      "sentiment": 0.22142857142857142
     },
     {
       "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
@@ -329,12 +335,6 @@
       "link": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
       "published": "Fri, 06 Nov 2026 17:36:38 +0000",
       "sentiment": -0.5
-    },
-    {
-      "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
-      "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-      "published": "Fri, 06 Nov 2026 21:59:44 +0000",
-      "sentiment": 0.0
     }
   ]
 }

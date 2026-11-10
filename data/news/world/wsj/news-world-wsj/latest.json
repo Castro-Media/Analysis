@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait",
+      "link": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-strikes-on-islands-as-they-fight-for-control-of-strait-895801e5?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 13:07:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "U.S. Overture to Russia on European Security Sparks Alarm",
+      "link": "https://www.wsj.com/world/europe/u-s-overture-to-russia-on-european-security-sparks-alarm-eb9b6acf?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 13:07:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator.",
       "link": "https://www.wsj.com/world/china/beijing-sees-a-weakened-trump-it-risks-getting-a-tougher-negotiator-632f0132?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 11:55:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/europe/polands-political-divisions-puncture-its-influence-on-world-stage-1b17e3f2?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 03:00:00 GMT",
       "sentiment": 0.065
-    },
-    {
-      "title": "Trump Says Nvidia CEO Didn’t Know Alice Huang Was a Suspected Spy",
-      "link": "https://www.wsj.com/world/asia/trump-says-nvidia-ceo-didnt-know-alice-huang-was-a-suspected-spy-211d65d7?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 23:08:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
-      "link": "https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 22:24:00 GMT",
-      "sentiment": -0.17500000000000002
     },
     {
       "title": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
@@ -127,6 +127,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Bank of England’s Lombardelli Signals Another Rate Rise Likely in Near Term",
+      "link": "https://www.wsj.com/economy/central-banking/bankof-englands-lombardelli-signals-another-rate-rise-likely-in-near-term-baac0950?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 13:46:00 GMT",
+      "sentiment": 0.028571428571428574
+    },
+    {
       "title": "Russell Brand Sentenced to 10½ Years in Jail for Rape and Sexual Assault",
       "link": "https://www.wsj.com/world/uk/russell-brand-sentenced-to-10-years-in-jail-for-rape-and-sexual-assault-271db16f?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 15:38:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 17:54:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Bank of England Raises Rates for First Time Since Start of Iran War",
-      "link": "https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96?mod=rss_worldnews",
-      "published": "Thu, 05 Nov 2026 13:26:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Opinion | Nvidia Gets a Chinese Honeypot Lesson",
@@ -193,6 +193,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
+      "link": "https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 22:24:00 GMT",
+      "sentiment": -0.17500000000000002
+    },
+    {
       "title": "The New Political Era: Less Party Loyalty, Big Election Swings",
       "link": "https://www.wsj.com/world/europe/the-new-political-era-less-party-loyalty-big-election-swings-4cfa0ba1?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 02:00:00 GMT",
@@ -217,10 +223,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue.",
-      "link": "https://www.wsj.com/world/europe/ukraine-war-drone-rescue-c2e59cd6?mod=rss_worldnews",
-      "published": "Fri, 06 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.1340909090909091
+      "title": "Trump Says Nvidia CEO Didn’t Know Alice Huang Was a Suspected Spy",
+      "link": "https://www.wsj.com/world/asia/trump-says-nvidia-ceo-didnt-know-alice-huang-was-a-suspected-spy-211d65d7?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 23:08:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/the-little-known-chinese-bank-in-the-middle-of-iranian-and-russian-money-flows-9e76173b?mod=rss_worldnews",
       "published": "Tue, 03 Nov 2026 15:55:00 GMT",
       "sentiment": -0.03111111111111111
-    },
-    {
-      "title": "China Stock Market’s Hidden Problem: Foreign Investors Get a Different Truth",
-      "link": "https://www.wsj.com/world/china/china-stock-markets-hidden-problem-foreign-investors-get-a-different-truth-a95ea686?mod=rss_worldnews",
-      "published": "Tue, 03 Nov 2026 11:55:00 GMT",
-      "sentiment": 0.05208333333333334
     },
     {
       "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
