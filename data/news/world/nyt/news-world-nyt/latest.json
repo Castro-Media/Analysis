@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Saudi Arabia Sentences Mother to 100 Lashes for Birth Outside Marriage",
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+      "published": "Tue, 10 Nov 2026 07:27:41 +0000",
+      "sentiment": 0.08333333333333333
+    },
+    {
       "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
       "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
       "published": "Mon, 09 Nov 2026 20:50:13 +0000",
@@ -73,12 +79,6 @@
       "sentiment": 0.07499999999999998
     },
     {
-      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "published": "Sun, 08 Nov 2026 16:52:42 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
       "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
       "published": "Tue, 10 Nov 2026 04:00:06 +0000",
@@ -113,6 +113,12 @@
       "link": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
       "published": "Sun, 08 Nov 2026 18:33:16 +0000",
       "sentiment": 0.5
+    },
+    {
+      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+      "published": "Sun, 08 Nov 2026 16:52:42 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
@@ -317,12 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
       "published": "Fri, 06 Nov 2026 19:24:09 +0000",
       "sentiment": 0.09375
-    },
-    {
-      "title": "Pope Leo’s Trip to Latin America: What to Know",
-      "link": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
-      "published": "Fri, 06 Nov 2026 05:01:17 +0000",
-      "sentiment": 0.04166666666666667
     }
   ]
 }
