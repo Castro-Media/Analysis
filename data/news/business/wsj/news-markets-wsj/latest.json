@@ -7,6 +7,12 @@
       "sentiment": 0.03333333333333333
     },
     {
+      "title": "Hot Inflation Revives Wall Street’s Rate Hike Fears",
+      "link": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 20:52:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
       "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 18:41:00 GMT",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/the-nvidia-affair-is-terrible-timing-for-corporate-america-aa3166c2?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 11:05:00 GMT",
       "sentiment": -0.5
-    },
-    {
-      "title": "Wall Street Pay Set to Climb After Volatile Markets and IPOs Fuel Bank Profits",
-      "link": "https://www.wsj.com/finance/wall-street-pay-set-to-climb-after-volatile-markets-and-ipos-fuel-bank-profits-94fd9137?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
@@ -73,6 +73,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Wall Street Pay Set to Climb After Volatile Markets and IPOs Fuel Bank Profits",
+      "link": "https://www.wsj.com/finance/wall-street-pay-set-to-climb-after-volatile-markets-and-ipos-fuel-bank-profits-94fd9137?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=rss_markets_main",
       "published": "Mon, 09 Nov 2026 22:00:00 GMT",
@@ -95,12 +101,6 @@
       "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=rss_markets_main",
       "published": "Thu, 05 Nov 2026 18:54:00 GMT",
       "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "BOE Expected to Join Peers in Raising Key Rate",
-      "link": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_markets_main",
-      "published": "Mon, 02 Nov 2026 07:28:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Stocks Fall as Inflation Comes in Hotter Than Expected",
@@ -199,34 +199,34 @@
       "sentiment": 0.0
     },
     {
-      "title": "Comex Gold Settles 2.05% Lower at $4020.70",
+      "title": "U.S. Natural Gas Extends Gains on Coming Cold Spell",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-gains-274c489d?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 20:53:00 GMT",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Oil Futures Settle Lower as Talks Remain in Focus",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-u-s-iran-conflict-risks-ease-32fa5d4f?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 20:52:00 GMT",
+      "sentiment": -0.07142857142857142
+    },
+    {
+      "title": "Gold Futures Fall as Yields, Dollar Rise on U.S. CPI Data",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-await-key-u-s-inflation-data-d4a0623a?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 18:43:00 GMT",
+      "published": "Tue, 10 Nov 2026 20:48:00 GMT",
       "sentiment": -0.10185185185185186
     },
     {
-      "title": "Oil Futures Extend Slide as Trump Indicates Restraint on Iran",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-u-s-iran-conflict-risks-ease-32fa5d4f?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 14:41:00 GMT",
-      "sentiment": -0.5
-    },
-    {
-      "title": "U.S. Natural Gas Futures Extend Gains",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-gains-274c489d?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 13:52:00 GMT",
-      "sentiment": 0.05000000000000002
+      "title": "Oil Prices Extend Decline After Trump Signals Restraint on Iran",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-extend-decline-after-trump-signals-restraint-on-iran-0441437f?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 20:43:00 GMT",
+      "sentiment": -0.025
     },
     {
       "title": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
       "link": "https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 09:12:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Singapore Central Bank Rolls Out Gold-Vaulting Services",
-      "link": "https://www.wsj.com/finance/singapore-central-bank-rolls-out-gold-vaulting-services-8a2d4f0d?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 08:02:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Dollar Strengthens as Sticky Inflation Fuels Fed Hike Bets",

@@ -1,9 +1,21 @@
 {
   "entries": [
     {
-      "title": "Alina Habba Loses $50 Million Contract That Enraged Trump",
+      "title": "From Climate Activism to the House of Representatives",
+      "link": "https://www.nytimes.com/2026/11/10/climate/william-lawrence-sunrise-congress.html",
+      "published": "Tue, 10 Nov 2026 20:18:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+      "published": "Tue, 10 Nov 2026 20:37:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Alina Habba Mildon Loses $50 Million Contract That Enraged Trump",
       "link": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
-      "published": "Tue, 10 Nov 2026 19:52:43 +0000",
+      "published": "Tue, 10 Nov 2026 20:51:05 +0000",
       "sentiment": -0.15
     },
     {
@@ -15,11 +27,11 @@
     {
       "title": "House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader",
       "link": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
-      "published": "Tue, 10 Nov 2026 19:47:07 +0000",
+      "published": "Tue, 10 Nov 2026 20:15:22 +0000",
       "sentiment": 0.15
     },
     {
-      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
       "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
       "published": "Tue, 10 Nov 2026 19:27:59 +0000",
       "sentiment": 0.0
@@ -155,18 +167,6 @@
       "link": "https://www.nytimes.com/2026/11/09/us/politics/national-science-foundation-funding-lawsuit.html",
       "published": "Tue, 10 Nov 2026 00:20:32 +0000",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-      "published": "Tue, 10 Nov 2026 01:34:10 +0000",
-      "sentiment": 0.29375
-    },
-    {
-      "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-      "published": "Tue, 10 Nov 2026 13:25:17 +0000",
-      "sentiment": 0.0
     }
   ]
 }
