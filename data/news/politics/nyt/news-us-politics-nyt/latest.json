@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+      "published": "Tue, 10 Nov 2026 00:51:53 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+      "published": "Tue, 10 Nov 2026 00:08:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+      "link": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+      "published": "Tue, 10 Nov 2026 00:23:36 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Democrats’ Fight With Trump Is Just Getting Started",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-impeachment-corruption.html",
       "published": "Mon, 09 Nov 2026 23:37:33 +0000",
@@ -15,19 +33,19 @@
     {
       "title": "Scientists Sue to Block Trump Administration Changes at National Science Foundation",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/national-science-foundation-funding-lawsuit.html",
-      "published": "Mon, 09 Nov 2026 23:21:54 +0000",
+      "published": "Tue, 10 Nov 2026 00:20:32 +0000",
       "sentiment": 0.03333333333333333
     },
     {
       "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-      "published": "Mon, 09 Nov 2026 21:36:00 +0000",
-      "sentiment": 0.0
+      "published": "Tue, 10 Nov 2026 01:34:09 +0000",
+      "sentiment": 0.29375
     },
     {
       "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-      "published": "Mon, 09 Nov 2026 22:35:05 +0000",
+      "published": "Mon, 09 Nov 2026 22:35:06 +0000",
       "sentiment": 0.0
     },
     {
@@ -125,12 +143,6 @@
       "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
       "published": "Mon, 09 Nov 2026 02:14:36 +0000",
       "sentiment": 0.2111111111111111
-    },
-    {
-      "title": "Trump Was ‘Only Kidding’ in Asking Dana White to Be His Press Secretary",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html",
-      "published": "Mon, 09 Nov 2026 00:43:21 +0000",
-      "sentiment": 0.01875
     }
   ]
 }
