@@ -1,9 +1,15 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Oil Prices Fall on Trump Iran Comments; Investors Await CPI Report",
+      "title": "Inflation Report Today: Oil Prices Fall on Trump Iran Comments; Investors Await CPI Report",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 10:01:59 GMT",
+      "sentiment": 0.07083333333333333
+    },
+    {
+      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 12:12:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 01:00:00 GMT",
       "sentiment": -0.2005681818181818
-    },
-    {
-      "title": "Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks",
-      "link": "https://www.wsj.com/finance/stocks/investors-brush-off-election-selloff-and-even-nvidias-spy-scandal-to-buy-stocks-8f6d406a?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 23:04:00 GMT",
-      "sentiment": 0.42857142857142855
     },
     {
       "title": "For Big Bank Stocks, Capitol Hill’s Bark Is Worse Than Its Bite",
@@ -103,6 +103,18 @@
       "sentiment": -0.125
     },
     {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-1f48b25a?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 12:51:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 12:43:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Capitol Hill’s Bark Is Worse Than Its Bite for Bank Stocks",
       "link": "https://www.wsj.com/finance/investing/capitol-hills-bark-is-worse-than-its-bite-for-bank-stocks-a6a6ce84?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 11:25:00 GMT",
@@ -121,16 +133,10 @@
       "sentiment": -0.04999999999999993
     },
     {
-      "title": "Singapore Central Bank Rolls Out Gold-Vaulting Services",
-      "link": "https://www.wsj.com/finance/singapore-central-bank-rolls-out-gold-vaulting-services-8a2d4f0d?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 08:02:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-2e0e19ff?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 22:06:00 GMT",
-      "sentiment": 0.5
+      "title": "Global Stocks Strengthen as Oil Dips Below $90 a Barrel",
+      "link": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 12:43:00 GMT",
+      "sentiment": -0.039999999999999994
     },
     {
       "title": "Stoxx 600 on Track for Record Close as Oil Drop Buoys Sentiment",
@@ -139,28 +145,22 @@
       "sentiment": 0.20500000000000002
     },
     {
-      "title": "Global Stocks Strengthen as Oil Dips Below $90 a Barrel",
-      "link": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 09:38:00 GMT",
-      "sentiment": 0.2125
-    },
-    {
       "title": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
       "link": "https://www.wsj.com/finance/stocks/asian-stocks-rise-oil-eases-on-hopes-for-iran-conflict-resolution-a68a60fa?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 07:12:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 22:00:00 GMT",
-      "sentiment": 0.25
+      "title": "Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks",
+      "link": "https://www.wsj.com/finance/stocks/investors-brush-off-election-selloff-and-even-nvidias-spy-scandal-to-buy-stocks-8f6d406a?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 23:04:00 GMT",
+      "sentiment": 0.42857142857142855
     },
     {
-      "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
-      "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 21:49:00 GMT",
-      "sentiment": 0.0625
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-2e0e19ff?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 22:06:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
@@ -217,16 +217,16 @@
       "sentiment": -0.14259259259259258
     },
     {
-      "title": "Oil Futures Extend Retreat on Middle East Peace Hopes",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-for-easing-mideast-tensions-28ffdb0c?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 21:38:00 GMT",
-      "sentiment": -0.18333333333333335
+      "title": "Singapore Central Bank Rolls Out Gold-Vaulting Services",
+      "link": "https://www.wsj.com/finance/singapore-central-bank-rolls-out-gold-vaulting-services-8a2d4f0d?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 08:02:00 GMT",
+      "sentiment": 0.25
     },
     {
-      "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 20:50:00 GMT",
-      "sentiment": -0.012727272727272731
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 22:00:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Yuan Rally Likely to Cool, Not Reverse",
@@ -289,6 +289,12 @@
       "sentiment": 0.03333333333333333
     },
     {
+      "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
+      "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 21:49:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "Nvidia Stock Slides After Chip Maker Opens Probe",
       "link": "https://www.wsj.com/finance/stocks/nvidia-stock-slides-after-chip-maker-opens-probe-b22a7a13?mod=rss_markets_main",
       "published": "Mon, 09 Nov 2026 21:21:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/after-tech-rout-stock-funds-hold-9-9-gain-2026-9d6d9773?mod=rss_markets_main",
       "published": "Sun, 08 Nov 2026 15:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Don’t Trust the Market’s Knee-Jerk Reaction to the Midterms",
-      "link": "https://www.wsj.com/finance/stocks/dont-trust-the-markets-knee-jerk-reaction-to-the-midterms-8702b17c?mod=rss_markets_main",
-      "published": "Sun, 08 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.18148148148148147
     },
     {
       "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
