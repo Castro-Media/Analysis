@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, November 9, 2026: Nvidia Stock Slides After Chip Maker Opens Probe",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 09:04:21 GMT",
-      "sentiment": 0.25
+      "title": "Stock Market Today: Oil Prices Fall on Trump Iran Comments; Investors Await CPI Report",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 10:01:59 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "CoreWeave Brings AI’s Financing Concern Into Focus",
+      "link": "https://www.wsj.com/finance/investing/coreweave-brings-ais-financing-concern-into-focus-20f3a19e?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Nvidia Affair Is Terrible Timing for Corporate America",
+      "link": "https://www.wsj.com/finance/investing/the-nvidia-affair-is-terrible-timing-for-corporate-america-aa3166c2?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 11:05:00 GMT",
+      "sentiment": -0.5
+    },
+    {
+      "title": "Wall Street Pay Set to Climb After Volatile Markets and IPOs Fuel Bank Profits",
+      "link": "https://www.wsj.com/finance/wall-street-pay-set-to-climb-after-volatile-markets-and-ipos-fuel-bank-profits-94fd9137?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
+      "link": "https://www.wsj.com/business/a-reined-in-jensen-huang-is-nvidias-best-option-e79cb305?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.375
     },
     {
       "title": "A New Generation of Traders Is Trapped in Asia’s Market Meltdown",
@@ -17,30 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/investors-brush-off-election-selloff-and-even-nvidias-spy-scandal-to-buy-stocks-8f6d406a?mod=rss_markets_main",
       "published": "Mon, 09 Nov 2026 23:04:00 GMT",
       "sentiment": 0.42857142857142855
-    },
-    {
-      "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
-      "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 21:49:00 GMT",
-      "sentiment": 0.0625
-    },
-    {
-      "title": "Nvidia Stock Slides After Chip Maker Opens Probe",
-      "link": "https://www.wsj.com/finance/stocks/nvidia-stock-slides-after-chip-maker-opens-probe-b22a7a13?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 21:21:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 21:12:00 GMT",
-      "sentiment": -0.6
-    },
-    {
-      "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
-      "link": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 11:13:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "For Big Bank Stocks, Capitol Hill’s Bark Is Worse Than Its Bite",
@@ -103,16 +103,22 @@
       "sentiment": -0.125
     },
     {
-      "title": "Eurozone Bond Yields Slide, Treasury Yields Seek Direction Ahead of CPI Data",
-      "link": "https://www.wsj.com/economy/central-banking/treasury-yields-edge-up-ahead-of-u-s-inflation-data-7a55db79?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 09:24:00 GMT",
-      "sentiment": -0.15625
+      "title": "Capitol Hill’s Bark Is Worse Than Its Bite for Bank Stocks",
+      "link": "https://www.wsj.com/finance/investing/capitol-hills-bark-is-worse-than-its-bite-for-bank-stocks-a6a6ce84?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
-      "title": "Better Risk Appetite Weighs on Dollar; Treasury Yields Seek Direction Ahead of CPI Data",
+      "title": "Sterling Falls as Drop in Oil Prices Curtails U.K. Rate-Rise Prospects",
       "link": "https://www.wsj.com/articles/dollar-weakens-ahead-of-u-s-inflation-data-c7cddfbe?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 08:50:00 GMT",
-      "sentiment": 0.3333333333333333
+      "published": "Tue, 10 Nov 2026 11:17:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Affair That Turned Into a National Security Nightmare",
+      "link": "https://www.wsj.com/articles/the-affair-that-turned-into-a-national-security-nightmare-e455221f?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 11:04:00 GMT",
+      "sentiment": -0.04999999999999993
     },
     {
       "title": "Singapore Central Bank Rolls Out Gold-Vaulting Services",
@@ -127,10 +133,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 22:00:00 GMT",
-      "sentiment": 0.25
+      "title": "Stoxx 600 on Track for Record Close as Oil Drop Buoys Sentiment",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 10:14:00 GMT",
+      "sentiment": 0.20500000000000002
     },
     {
       "title": "Global Stocks Strengthen as Oil Dips Below $90 a Barrel",
@@ -139,28 +145,22 @@
       "sentiment": 0.2125
     },
     {
-      "title": "European Energy Stocks Slide as Brent Extends Losses",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 09:33:00 GMT",
-      "sentiment": -0.02
-    },
-    {
       "title": "Asian Stocks Rise, Oil Eases on Hopes for Iran Conflict Resolution",
       "link": "https://www.wsj.com/finance/stocks/asian-stocks-rise-oil-eases-on-hopes-for-iran-conflict-resolution-a68a60fa?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 07:12:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Stocks Climb as Investors Regain Confidence",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-climb-as-investors-regain-confidence-56de5af0?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 21:26:00 GMT",
-      "sentiment": 0.025568181818181816
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 22:00:00 GMT",
+      "sentiment": 0.25
     },
     {
-      "title": "U.S. Stocks Leap Despite Nvidia Slide",
-      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 19:29:00 GMT",
-      "sentiment": 0.0
+      "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
+      "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 21:49:00 GMT",
+      "sentiment": 0.0625
     },
     {
       "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
@@ -289,6 +289,24 @@
       "sentiment": 0.03333333333333333
     },
     {
+      "title": "Nvidia Stock Slides After Chip Maker Opens Probe",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-stock-slides-after-chip-maker-opens-probe-b22a7a13?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 21:21:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 21:12:00 GMT",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
+      "link": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
+      "published": "Mon, 09 Nov 2026 11:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
       "link": "https://www.wsj.com/finance/investing/after-tech-rout-stock-funds-hold-9-9-gain-2026-9d6d9773?mod=rss_markets_main",
       "published": "Sun, 08 Nov 2026 15:00:00 GMT",
@@ -299,24 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/dont-trust-the-markets-knee-jerk-reaction-to-the-midterms-8702b17c?mod=rss_markets_main",
       "published": "Sun, 08 Nov 2026 10:30:00 GMT",
       "sentiment": 0.18148148148148147
-    },
-    {
-      "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
-      "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 23:33:00 GMT",
-      "sentiment": 0.011111111111111118
-    },
-    {
-      "title": "The Wild Week That Brought AI Investors to the Brink",
-      "link": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 23:29:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Tech Stocks Recover Some Losses",
-      "link": "https://www.wsj.com/finance/stocks/tech-stocks-recover-some-losses-f494cd13?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 21:24:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
