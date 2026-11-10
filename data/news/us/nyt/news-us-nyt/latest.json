@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Ohio State Suspends Fraternity After 2 Men Catch Fire at a Chapter Gathering",
+      "link": "https://www.nytimes.com/2026/11/09/us/ohio-state-fraternity-suspended.html",
+      "published": "Mon, 09 Nov 2026 23:38:21 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democrats’ Fight With Trump Is Just Getting Started",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-impeachment-corruption.html",
+      "published": "Mon, 09 Nov 2026 23:37:33 +0000",
+      "sentiment": -0.14583333333333334
+    },
+    {
       "title": "Judge Denies Request to Throw Out Lindsay Clancy’s Murder Charges",
       "link": "https://www.nytimes.com/2026/11/09/us/lindsay-clancy-trial-motions-denied.html",
       "published": "Mon, 09 Nov 2026 22:35:24 +0000",
@@ -15,7 +27,7 @@
     {
       "title": "Scientists Sue to Block Trump Administration Changes at National Science Foundation",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/national-science-foundation-funding-lawsuit.html",
-      "published": "Mon, 09 Nov 2026 21:55:02 +0000",
+      "published": "Mon, 09 Nov 2026 23:21:54 +0000",
       "sentiment": 0.03333333333333333
     },
     {
@@ -45,7 +57,7 @@
     {
       "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-      "published": "Mon, 09 Nov 2026 20:10:51 +0000",
+      "published": "Mon, 09 Nov 2026 23:48:34 +0000",
       "sentiment": 0.0
     },
     {
@@ -93,7 +105,7 @@
     {
       "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-      "published": "Mon, 09 Nov 2026 19:29:55 +0000",
+      "published": "Mon, 09 Nov 2026 23:46:18 +0000",
       "sentiment": 0.020833333333333332
     },
     {
@@ -149,12 +161,6 @@
       "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-joke-dana-white-press-secretary.html",
       "published": "Mon, 09 Nov 2026 00:43:21 +0000",
       "sentiment": 0.01875
-    },
-    {
-      "title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
-      "published": "Mon, 09 Nov 2026 18:36:21 +0000",
-      "sentiment": -0.2375
     }
   ]
 }

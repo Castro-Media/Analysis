@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Trump Says Nvidia CEO Didn’t Know Alice Huang Was a Suspected Spy",
+      "link": "https://www.wsj.com/world/asia/trump-says-nvidia-ceo-didnt-know-alice-huang-was-a-suspected-spy-211d65d7?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 23:08:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama",
       "link": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 22:36:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/media/skydance-shakes-up-dc-superhero-studio-leadership-0084fd76?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 18:56:00 GMT",
       "sentiment": -0.14027777777777778
-    },
-    {
-      "title": "Federal Government Probes Waymo Over School-Bus Safety",
-      "link": "https://www.wsj.com/business/autos/federal-government-probes-waymo-over-school-bus-safety-c2885716?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 17:23:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Crédit Agricole Proposes Merger of Italian Business With Banco BPM",
@@ -97,6 +97,12 @@
       "sentiment": 0.16666666666666666
     },
     {
+      "title": "Hims & Hers’ Climbing Costs Weigh on Outlook",
+      "link": "https://www.wsj.com/business/earnings/hims-hers-narrows-sales-outlook-2091854d?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 23:03:00 GMT",
+      "sentiment": 0.0875
+    },
+    {
       "title": "JBS Reports Lower Profit, Citing Difficult Operating Environment",
       "link": "https://www.wsj.com/business/earnings/jbs-reports-lower-profit-citing-difficult-operating-environment-fbc442fa?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 22:16:00 GMT",
@@ -115,12 +121,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Hims & Hers Narrows Sales Outlook",
-      "link": "https://www.wsj.com/business/earnings/hims-hers-narrows-sales-outlook-2091854d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 21:55:00 GMT",
-      "sentiment": -0.05
-    },
-    {
       "title": "Trump Media & Technology Group Swings to Profit Ahead of TAE Technologies Merger",
       "link": "https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 21:43:00 GMT",
@@ -129,8 +129,14 @@
     {
       "title": "Stellantis Clinches Deal to Sell Canadian Factory to Defense Firm",
       "link": "https://www.wsj.com/business/autos/stellantis-clinches-deal-to-sell-canadian-factory-to-defense-firm-4f6508c5?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 22:30:00 GMT",
+      "published": "Mon, 09 Nov 2026 23:11:00 GMT",
       "sentiment": -0.2
+    },
+    {
+      "title": "Federal Government Probes Waymo Over School-Bus Safety",
+      "link": "https://www.wsj.com/business/autos/federal-government-probes-waymo-over-school-bus-safety-c2885716?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 17:23:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Honda to Invest $3 Billion in New Ohio Plant to Boost Hybrid Vehicle Production",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 11:50:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "America Has Become the Last Place to Make Money for the World’s Automakers",
-      "link": "https://www.wsj.com/business/autos/america-has-become-the-last-place-to-make-money-for-the-worlds-automakers-3ee3ae7c?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 07 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.075
     },
     {
       "title": "Opinion | The Race to Remake the U.S. Auto Market",
@@ -469,6 +469,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Skydance Shakes Up DC Superhero Studio Leadership",
+      "link": "https://www.wsj.com/business/media/skydance-shakes-up-dc-superhero-studio-leadership-0084fd76?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 18:56:00 GMT",
+      "sentiment": -0.14027777777777778
+    },
+    {
       "title": "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
       "link": "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d?mod=pls_whats_news_us_business_f",
       "published": "Sat, 07 Nov 2026 03:00:00 GMT",
@@ -481,16 +487,10 @@
       "sentiment": -0.08888888888888889
     },
     {
-      "title": "Skydance Shakes Up DC Superhero Studio Leadership",
-      "link": "https://www.wsj.com/business/media/skydance-shakes-up-dc-superhero-studio-leadership-0084fd76?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 18:56:00 GMT",
-      "sentiment": -0.14027777777777778
-    },
-    {
-      "title": "Toddler-Snack Recall Tests Organic-Food Maker Once Upon a Farm",
-      "link": "https://www.wsj.com/business/toddler-snack-recall-tests-organic-food-maker-once-upon-a-farm-02de7364?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 08 Nov 2026 17:24:00 GMT",
-      "sentiment": 0.05
+      "title": "See What It Takes to Turn a High-School Athlete Into a Business",
+      "link": "https://www.wsj.com/sports/see-what-it-takes-to-turn-a-high-school-athlete-into-a-business-402c30a8?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 17:10:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
