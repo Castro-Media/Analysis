@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
+      "link": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
+      "published": "Tue, 10 Nov 2026 03:00:13 +0000",
+      "sentiment": 0.05833333333333334
+    },
+    {
+      "title": "Rep. Ken Calvert Wins House Battle Between Two California Republicans",
+      "link": "https://www.nytimes.com/2026/11/09/us/california-house-40-kim-calvert.html",
+      "published": "Tue, 10 Nov 2026 02:38:10 +0000",
+      "sentiment": 0.2
+    },
+    {
+      "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+      "link": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+      "published": "Tue, 10 Nov 2026 03:31:37 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-      "published": "Tue, 10 Nov 2026 00:08:43 +0000",
+      "published": "Tue, 10 Nov 2026 02:13:11 +0000",
       "sentiment": 0.0
     },
     {
@@ -51,7 +69,7 @@
     {
       "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
       "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-      "published": "Tue, 10 Nov 2026 01:34:09 +0000",
+      "published": "Tue, 10 Nov 2026 01:34:10 +0000",
       "sentiment": 0.29375
     },
     {
@@ -143,24 +161,6 @@
       "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-colorado.html",
       "published": "Mon, 09 Nov 2026 10:01:38 +0000",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "On ‘60 Minutes,’ Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Elections",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/trump-60-minutes-republicans-election-immigration.html",
-      "published": "Mon, 09 Nov 2026 03:16:26 +0000",
-      "sentiment": -0.06296296296296296
-    },
-    {
-      "title": "Boycott and Counterprotest Over Jewish Eateries Stir Tension in Philadelphia",
-      "link": "https://www.nytimes.com/2026/11/08/us/protest-bike-ride-jewish-restaurants-philadelphia.html",
-      "published": "Mon, 09 Nov 2026 14:28:48 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
-      "published": "Mon, 09 Nov 2026 02:14:36 +0000",
-      "sentiment": 0.2111111111111111
     }
   ]
 }
