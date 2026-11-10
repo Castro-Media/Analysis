@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+      "link": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 04:41:00 GMT",
+      "sentiment": -0.30833333333333335
+    },
+    {
+      "title": "China’s Trade Surplus Surged Past $1 Trillion in October",
+      "link": "https://www.wsj.com/world/china/chinas-trade-surplus-surged-past-1-trillion-in-october-967968c9?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 04:04:00 GMT",
+      "sentiment": -0.03666666666666667
+    },
+    {
       "title": "Poland’s Political Divisions Puncture Its Influence on World Stage",
       "link": "https://www.wsj.com/world/europe/polands-political-divisions-puncture-its-influence-on-world-stage-1b17e3f2?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 03:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/china/u-s-balks-at-chinas-demand-for-tightly-scripted-trump-xi-putin-summit-77001908?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 20:37:00 GMT",
       "sentiment": -0.0488095238095238
-    },
-    {
-      "title": "Russell Brand Sentenced to 10½ Years in Jail for Rape and Sexual Assault",
-      "link": "https://www.wsj.com/world/uk/russell-brand-sentenced-to-10-years-in-jail-for-rape-and-sexual-assault-271db16f?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 15:38:00 GMT",
-      "sentiment": 0.08
-    },
-    {
-      "title": "China’s Push for Influence in the South Pacific Is Running Into Resistance",
-      "link": "https://www.wsj.com/world/chinas-push-for-influence-in-the-south-pacific-is-running-into-resistance-2f51f7e5?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
@@ -67,6 +67,12 @@
       "sentiment": -0.075
     },
     {
+      "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare",
+      "link": "https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 04:15:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "A New Generation of Traders Is Trapped in Asia’s Market Meltdown",
       "link": "https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 01:00:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/tech/the-chinese-woman-at-the-center-of-a-spy-probe-after-an-affair-with-jensen-huang-7bb406d2?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 14:08:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair",
-      "link": "https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 11:02:00 GMT",
-      "sentiment": -0.3
     },
     {
       "title": "Canada Taps Senior Bridgewater Executive to Run Sovereign Wealth Fund",
@@ -127,6 +127,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "Russell Brand Sentenced to 10½ Years in Jail for Rape and Sexual Assault",
+      "link": "https://www.wsj.com/world/uk/russell-brand-sentenced-to-10-years-in-jail-for-rape-and-sexual-assault-271db16f?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 15:38:00 GMT",
+      "sentiment": 0.08
+    },
+    {
       "title": "Do You Know England’s Founding Father? It’s OK, England Doesn’t Either.",
       "link": "https://www.wsj.com/world/uk/do-you-know-englands-founding-father-its-ok-england-doesnt-either-4930772b?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 10:30:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 13:26:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Britain Set to Apologize for Role in Trans-Atlantic Slave Trade",
-      "link": "https://www.wsj.com/world/uk/britain-set-to-apologize-for-role-in-trans-atlantic-slave-trade-a7afc8dc?mod=rss_worldnews",
-      "published": "Tue, 03 Nov 2026 18:17:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Opinion | Nvidia Gets a Chinese Honeypot Lesson",
@@ -313,6 +313,12 @@
       "sentiment": 0.12424242424242422
     },
     {
+      "title": "China’s Push for Influence in the South Pacific Is Running Into Resistance",
+      "link": "https://www.wsj.com/world/chinas-push-for-influence-in-the-south-pacific-is-running-into-resistance-2f51f7e5?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "New Zealand’s Conservatives Narrowly Lead in Election",
       "link": "https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_worldnews",
       "published": "Sat, 07 Nov 2026 11:40:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/world/oceania/several-people-missing-after-landslide-buries-campground-in-new-zealand-43c937df?mod=rss_worldnews",
       "published": "Fri, 23 Jan 2026 03:37:00 GMT",
       "sentiment": -0.02727272727272728
-    },
-    {
-      "title": "Can a U.S.-Greenland Partnership Work? Just Look at These Pacific Islands",
-      "link": "https://www.wsj.com/world/can-a-u-s-greenland-partnership-work-just-look-at-these-pacific-islands-9ffcc1d0?mod=rss_worldnews",
-      "published": "Mon, 19 Jan 2026 10:30:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Young Protesters Are Putting India’s Modi on the Defensive",
