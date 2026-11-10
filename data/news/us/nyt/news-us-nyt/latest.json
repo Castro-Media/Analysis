@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Alina Habba Loses $50 Million Contract That Enraged Trump",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
+      "published": "Tue, 10 Nov 2026 19:52:43 +0000",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
+      "published": "Tue, 10 Nov 2026 19:33:48 +0000",
+      "sentiment": 0.08750000000000001
+    },
+    {
+      "title": "House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+      "published": "Tue, 10 Nov 2026 19:47:07 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+      "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+      "published": "Tue, 10 Nov 2026 19:27:59 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "What Trump Said in His Letter to Biden in 2021",
       "link": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
       "published": "Tue, 10 Nov 2026 17:00:05 +0000",
@@ -15,7 +39,7 @@
     {
       "title": "Ole Miss Investigates White Students Who Made Racist Gestures in Video",
       "link": "https://www.nytimes.com/2026/11/10/us/ole-miss-white-students-racist-gestures-video.html",
-      "published": "Tue, 10 Nov 2026 17:32:57 +0000",
+      "published": "Tue, 10 Nov 2026 19:05:44 +0000",
       "sentiment": -0.011111111111111108
     },
     {
@@ -75,14 +99,14 @@
     {
       "title": "Why Nearly 2,000 Dead Seabirds Have Washed Up on the California Coast",
       "link": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
-      "published": "Tue, 10 Nov 2026 17:03:52 +0000",
+      "published": "Tue, 10 Nov 2026 19:09:25 +0000",
       "sentiment": -0.05
     },
     {
       "title": "ICE Hides Detainee Locations From Lawyers and Family Under New Policy",
       "link": "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html",
-      "published": "Tue, 10 Nov 2026 10:03:25 +0000",
-      "sentiment": 0.026515151515151512
+      "published": "Tue, 10 Nov 2026 18:58:02 +0000",
+      "sentiment": 0.0909090909090909
     },
     {
       "title": "Zoo Elephants Have a Right to Liberty, Group Tells Hawaii’s Top Court",
@@ -191,30 +215,6 @@
       "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
       "published": "Tue, 10 Nov 2026 13:25:17 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-      "published": "Mon, 09 Nov 2026 23:48:34 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
-      "published": "Mon, 09 Nov 2026 19:34:11 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Two Arrested After Car Crashes Into Sign Near White House",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/white-house-car-crash.html",
-      "published": "Mon, 09 Nov 2026 22:40:22 +0000",
-      "sentiment": 0.025
-    },
-    {
-      "title": "At 87, Senfronia Thompson is Poised to Become the First Woman to Lead the Texas House",
-      "link": "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html",
-      "published": "Mon, 09 Nov 2026 22:36:20 +0000",
-      "sentiment": 0.11111111111111112
     }
   ]
 }
