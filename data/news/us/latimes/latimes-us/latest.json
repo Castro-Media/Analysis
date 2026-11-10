@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Rep. Calvert declared winner in contested Southern California congressional race",
+      "link": "https://www.latimes.com/california/story/2026-11-09/rep-calvert-declared-winner-in-contested-southern-california-congressional-race",
+      "published": "Tue, 10 Nov 2026 02:41:11 GMT",
+      "sentiment": 0.05909090909090909
+    },
+    {
+      "title": "Billionaire tax rejected on concern squeezing California's ultra-rich would harm the economy",
+      "link": "https://www.latimes.com/business/story/2026-11-09/billionaire-tax-prop-40-was-officially-rejected-in-california",
+      "published": "Tue, 10 Nov 2026 02:38:15 GMT",
+      "sentiment": 0.225
+    },
+    {
       "title": "Police launch probe after Santa Barbara half-marathon runners with 'unusual symptoms' seek medical care",
       "link": "https://www.latimes.com/california/story/2026-11-09/police-launch-probe-after-santa-barbara-half-marathon-runners-with-unusual-symptoms-seek-medical-care",
       "published": "Tue, 10 Nov 2026 00:19:38 GMT",
@@ -16,7 +28,7 @@
       "title": "'Largest jewelry heist in U.S. history' suspect agrees to plead guilty",
       "link": "https://www.latimes.com/california/story/2026-11-09/largest-jewelry-heist-in-us-history-suspect-plea-agreement",
       "published": "Mon, 9 Nov 2026 21:55:59 GMT",
-      "sentiment": -0.06666666666666667
+      "sentiment": -0.1
     },
     {
       "title": "Caltrans says 2 Inglewood video billboard structures are violating state law",
@@ -557,18 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-03/marissa-roy-john-mckinney-la-city-attorney-race-results",
       "published": "Wed, 4 Nov 2026 04:43:54 GMT",
       "sentiment": 0.05625
-    },
-    {
-      "title": "L.A. County Sheriff Robert Luna tops challenger Alex Villanueva",
-      "link": "https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a",
-      "published": "Wed, 4 Nov 2026 04:40:22 GMT",
-      "sentiment": -0.07142857142857142
-    },
-    {
-      "title": "L.A. voters favoring sales tax hike for fire department and other city ballot measures",
-      "link": "https://www.latimes.com/california/story/2026-11-03/measure-to-raise-la-sales-taxes-by-half-cent-was-leading-in-early-returns",
-      "published": "Wed, 4 Nov 2026 04:32:00 GMT",
-      "sentiment": -0.125
     }
   ]
 }
