@@ -1,15 +1,21 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Yields Jump, Stocks Open Lower as Inflation Remains Elevated",
+      "title": "Stock Market Today: Yields Jump as Inflation Comes in Hotter Than Expected",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 10:01:59 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "I’m Always Wrong About Gold. You Probably Are, Too.",
+      "link": "https://www.wsj.com/finance/investing/im-always-wrong-about-gold-you-probably-are-too-2c6ac551?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 15:55:00 GMT",
+      "sentiment": -0.40625
     },
     {
       "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
       "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 13:18:00 GMT",
+      "published": "Tue, 10 Nov 2026 15:40:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/business/a-reined-in-jensen-huang-is-nvidias-best-option-e79cb305?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 10:30:00 GMT",
       "sentiment": 0.375
-    },
-    {
-      "title": "A New Generation of Traders Is Trapped in Asia’s Market Meltdown",
-      "link": "https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 01:00:00 GMT",
-      "sentiment": -0.2005681818181818
     },
     {
       "title": "For Big Bank Stocks, Capitol Hill’s Bark Is Worse Than Its Bite",
@@ -103,6 +103,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "Stocks Move Lower as Inflation Remains Elevated",
+      "link": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 14:52:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5bf9d6ef?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 13:12:00 GMT",
@@ -127,18 +133,6 @@
       "sentiment": 0.2
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 12:43:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Global Stocks Strengthen as Oil Dips Below $90 a Barrel",
-      "link": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 12:43:00 GMT",
-      "sentiment": -0.039999999999999994
-    },
-    {
       "title": "Capitol Hill’s Bark Is Worse Than Its Bite for Bank Stocks",
       "link": "https://www.wsj.com/finance/investing/capitol-hills-bark-is-worse-than-its-bite-for-bank-stocks-a6a6ce84?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 11:25:00 GMT",
@@ -155,6 +149,12 @@
       "link": "https://www.wsj.com/finance/stocks/asian-stocks-rise-oil-eases-on-hopes-for-iran-conflict-resolution-a68a60fa?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 07:12:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "A New Generation of Traders Is Trapped in Asia’s Market Meltdown",
+      "link": "https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 01:00:00 GMT",
+      "sentiment": -0.2005681818181818
     },
     {
       "title": "Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks",
@@ -199,16 +199,16 @@
       "sentiment": 0.5
     },
     {
+      "title": "Gold Futures Decline After U.S. CPI Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-await-key-u-s-inflation-data-d4a0623a?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 15:46:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Futures Extend Slide as Trump Indicates Restraint on Iran",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-u-s-iran-conflict-risks-ease-32fa5d4f?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 14:41:00 GMT",
       "sentiment": -0.5
-    },
-    {
-      "title": "Gold Falls on Fed Governor Hawkish Remarks, Inflation Data",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-await-key-u-s-inflation-data-d4a0623a?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 14:05:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "U.S. Natural Gas Futures Extend Gains",
@@ -231,8 +231,8 @@
     {
       "title": "Dollar Strengthens as Sticky Inflation Fuels Fed Hike Bets",
       "link": "https://www.wsj.com/articles/dollar-weakens-ahead-of-u-s-inflation-data-c7cddfbe?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 14:38:00 GMT",
-      "sentiment": 0.25
+      "published": "Tue, 10 Nov 2026 15:50:00 GMT",
+      "sentiment": -0.375
     },
     {
       "title": "Yuan Rally Likely to Cool, Not Reverse",

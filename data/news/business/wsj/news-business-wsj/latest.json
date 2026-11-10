@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 15:40:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Toyota’s Scion Brand Returns With Japan’s Forbidden-Fruit Minitrucks",
+      "link": "https://www.wsj.com/business/autos/toyotas-scion-brand-returns-with-japans-forbidden-fruit-minitrucks-4e66ea8c?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 15:00:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Why Nvidia CEO Jensen Huang Is Unique",
       "link": "https://www.wsj.com/cio-journal/why-nvidia-ceo-jensen-huang-is-unique-586439c8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 14:28:00 GMT",
@@ -13,12 +25,6 @@
       "sentiment": -0.11944444444444446
     },
     {
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 13:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The Morning Risk Report: Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-jensen-huang-doesnt-believe-in-succession-planning-its-become-a-big-risk-for-nvidia-359880b4?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 12:23:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/articles/the-affair-that-turned-into-a-national-security-nightmare-e455221f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 11:04:00 GMT",
       "sentiment": -0.04999999999999993
-    },
-    {
-      "title": "How Target Planned for Brian Cornell’s Successor",
-      "link": "https://www.wsj.com/articles/how-target-planned-for-brian-cornells-successor-4da93380?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 10:59:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Banco BPM Says Board to Discuss Credit Agricole Merger Proposal",
@@ -67,10 +67,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "On Holding Logs Higher Profit, Sales",
+      "title": "On Holding’s Sales Mix Surprises, as Direct-to-Consumer Growth Underwhelms",
       "link": "https://www.wsj.com/business/retail/on-holding-logs-higher-profit-sales-ed2bb7be?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 11:51:00 GMT",
-      "sentiment": 0.125
+      "published": "Tue, 10 Nov 2026 15:07:00 GMT",
+      "sentiment": 0.04
     },
     {
       "title": "Vodafone Dials Up Guidance But Says German Unit Needs Improvement",
@@ -259,6 +259,12 @@
       "sentiment": 0.11666666666666665
     },
     {
+      "title": "How Target Planned for Brian Cornell’s Successor",
+      "link": "https://www.wsj.com/articles/how-target-planned-for-brian-cornells-successor-4da93380?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 10:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "SiriusXM Chooses Board Member to Be CEO as Witz Steps Down",
       "link": "https://www.wsj.com/business/c-suite/siriusxm-chooses-board-member-to-be-ceo-as-witz-steps-down-801a5087?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 14:17:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/jensen-huang-investigation-rocks-nvidia-as-board-investigates-a0581595?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 12:38:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Four Things to Watch as Power Changes Hands in Congress",
-      "link": "https://www.wsj.com/articles/four-things-to-watch-as-power-changes-hands-in-congress-46a1864d?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
@@ -469,16 +469,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 13:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Why High Beef Prices Are Here to Stay",
       "link": "https://www.wsj.com/business/high-beef-prices-here-to-stay-004f9119?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 02:00:00 GMT",
       "sentiment": 0.16
+    },
+    {
+      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 15:40:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "A Spy Scandal Lays Bare Nvidia’s Governance Vacuum",
@@ -487,10 +487,10 @@
       "sentiment": -0.11944444444444446
     },
     {
-      "title": "They Led an Energy Department Overhaul. Now They Plan to Build Data Centers.",
-      "link": "https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 12:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Skydance Shakes Up DC Superhero Studio Leadership",
+      "link": "https://www.wsj.com/business/media/skydance-shakes-up-dc-superhero-studio-leadership-0084fd76?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 09 Nov 2026 18:56:00 GMT",
+      "sentiment": -0.14027777777777778
     },
     {
       "title": "Best Small-Business Loans in November 2026",
