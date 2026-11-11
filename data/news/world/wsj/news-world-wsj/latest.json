@@ -1,9 +1,15 @@
 {
   "entries": [
     {
-      "title": "Senior U.S. Soldier Is Arrested in U.K. Over Allegations of Spying for Russia",
-      "link": "https://www.wsj.com/world/europe/member-us-army-arrested-spy-russia-cce59efb?mod=rss_worldnews",
-      "published": "Tue, 10 Nov 2026 21:52:00 GMT",
+      "title": "The Morning Risk Report: How Hackers Steal Millions in AI Computing Power",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-hackers-steal-millions-in-ai-computing-power-1359493b?mod=rss_worldnews",
+      "published": "Wed, 11 Nov 2026 12:28:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero",
+      "link": "https://www.wsj.com/world/asia/the-jensen-huang-scandal-is-testing-taiwans-devotion-to-its-hometown-hero-2a2914d9?mod=rss_worldnews",
+      "published": "Wed, 11 Nov 2026 11:57:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -11,6 +17,12 @@
       "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 22:29:00 GMT",
       "sentiment": 0.3
+    },
+    {
+      "title": "Senior U.S. Soldier Is Arrested in U.K. Over Allegations of Spying for Russia",
+      "link": "https://www.wsj.com/world/europe/member-us-army-arrested-spy-russia-cce59efb?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 21:52:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Overture to Russia on European Security Sparks Alarm",
@@ -29,12 +41,6 @@
       "link": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-strikes-on-islands-as-they-fight-for-control-of-strait-895801e5?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 13:07:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator.",
-      "link": "https://www.wsj.com/world/china/beijing-sees-a-weakened-trump-it-risks-getting-a-tougher-negotiator-632f0132?mod=rss_worldnews",
-      "published": "Tue, 10 Nov 2026 11:55:00 GMT",
-      "sentiment": 0.1875
     },
     {
       "title": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 15:58:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh",
-      "link": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews",
-      "published": "Sun, 08 Nov 2026 14:00:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "The Morning Risk Report: Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
@@ -193,16 +193,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "EU Takes Aim at Influencer Marketing, Deceptive Online Tactics With Revamped Rules",
+      "link": "https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5?mod=rss_worldnews",
+      "published": "Wed, 11 Nov 2026 12:09:00 GMT",
+      "sentiment": -0.15454545454545454
+    },
+    {
+      "title": "Spain Hit by General Strike as Cost of Living Takes Center Stage Ahead of Elections",
+      "link": "https://www.wsj.com/world/europe/spain-hit-by-general-strike-as-cost-of-living-takes-center-stage-ahead-of-elections-2c86baf7?mod=rss_worldnews",
+      "published": "Wed, 11 Nov 2026 11:37:00 GMT",
+      "sentiment": 0.14166666666666666
+    },
+    {
       "title": "European TTF Gas Rises as Storage Withdrawals Accelerate",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_worldnews",
       "published": "Wed, 11 Nov 2026 10:54:00 GMT",
       "sentiment": 0.025
-    },
-    {
-      "title": "EU Lays Out Plan to Tighten Online Consumer Protection Rules",
-      "link": "https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5?mod=rss_worldnews",
-      "published": "Wed, 11 Nov 2026 10:39:00 GMT",
-      "sentiment": -0.15454545454545454
     },
     {
       "title": "Poland’s Political Divisions Puncture Its Influence on World Stage",
@@ -217,10 +223,10 @@
       "sentiment": -0.17500000000000002
     },
     {
-      "title": "The New Political Era: Less Party Loyalty, Big Election Swings",
-      "link": "https://www.wsj.com/world/europe/the-new-political-era-less-party-loyalty-big-election-swings-4cfa0ba1?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.16161616161616163
+      "title": "Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator.",
+      "link": "https://www.wsj.com/world/china/beijing-sees-a-weakened-trump-it-risks-getting-a-tougher-negotiator-632f0132?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 11:55:00 GMT",
+      "sentiment": 0.1875
     },
     {
       "title": "China’s Trade Surplus Surged Past $1 Trillion in October",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/china/hong-kong-extends-jailed-activist-joshua-wongs-prison-term-by-10-years-6a9d9370?mod=rss_worldnews",
       "published": "Thu, 05 Nov 2026 03:54:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "‘Broken China’ Review: A Mirage of Growth",
-      "link": "https://www.wsj.com/world/china/broken-china-review-a-mirage-of-growth-67fe6d8e?mod=rss_worldnews",
-      "published": "Tue, 03 Nov 2026 20:51:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/asia/shifting-u-s-alliances-push-rivals-china-and-india-together-37c95b68?mod=rss_worldnews",
       "published": "Fri, 11 Sep 2026 16:41:00 GMT",
       "sentiment": 0.03727272727272728
+    },
+    {
+      "title": "The New Political Era: Less Party Loyalty, Big Election Swings",
+      "link": "https://www.wsj.com/world/europe/the-new-political-era-less-party-loyalty-big-election-swings-4cfa0ba1?mod=rss_worldnews",
+      "published": "Mon, 09 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.16161616161616163
     },
     {
       "title": "A Soldier Cut Off His Own Foot to Survive. Then Came a Daring Drone Rescue.",
