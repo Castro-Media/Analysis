@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Gov.-elect Xavier Becerra names transition team",
+      "link": "https://www.latimes.com/politics/story/2026-11-10/gov-elect-xavier-becerra-names-transition-team",
+      "published": "Tue, 10 Nov 2026 23:44:06 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Newsom travels to Turkey for climate conference, blasts Trump as a 'no-show'",
       "link": "https://www.latimes.com/california/story/2026-11-10/newsom-travels-to-turkey-for-climate-conference-blasts-trump-as-no-show",
       "published": "Tue, 10 Nov 2026 23:22:48 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Hegseth condemns impeachment effort against him, as House members push for vote",
+      "title": "House GOP blocks move to impeach Hegseth, handing embattled Defense secretary a win",
       "link": "https://www.latimes.com/world-nation/story/2026-11-10/hegseth-impeachment-reaction",
       "published": "Tue, 10 Nov 2026 13:33:04 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.2
     },
     {
       "title": "Shasta County measure that sought to eliminate most mail-in voting violates state law, judge rules",
@@ -367,12 +373,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
-    },
-    {
       "title": "Which races might predict a 'blue wave'? Here's what to watch",
       "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -385,16 +385,22 @@
       "sentiment": -0.12000000000000002
     },
     {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
+      "sentiment": 0.11818181818181818
     },
     {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
+    },
+    {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
     },
     {
       "title": "California officials brace for unprecedented election interference by Trump administration",
@@ -535,16 +541,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
-      "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
       "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
+      "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "This L.A. city board is more than 120 years old. A ballot measure could quietly hasten its end",
