@@ -1,16 +1,40 @@
 {
   "entries": [
     {
+      "title": "Rs 30 lakh insurance claim rejected over ‘alcohol consumption’; family wins payout with interest",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/insurer-rejected-rs-30-lakh-accidental-death-claim-citing-alcohol-consumption-consumer-commission-finds-medical-record-discrepancies-and-upholds-payout-with-9-interest-and-rs-75000-as-compensation/articleshow/135730109.cms",
+      "published": "2026-11-11T14:17:27+05:30",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Moody’s raises India’s FY27 growth forecast to 7% on strong economic momentum",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/moodys-raises-indias-fy27-growth-forecast-to-7-on-strong-economic-momentum/articleshow/135730431.cms",
+      "published": "2026-11-11T14:07:15+05:30",
+      "sentiment": 0.0361111111111111
+    },
+    {
+      "title": "Mother Dairy, Amul hike milk rates by upto Rs 6 per litre from tomorrow; check prices",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
+      "published": "2026-11-11T11:14:08+05:30",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "Anthropic's $1.4 tn IPO: Price band, listing, investors &amp; more; all you need to know",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/anthropics-1-4-trillion-ipo-price-band-listing-investors-more-all-you-need-to-know/articleshow/135726629.cms",
+      "published": "2026-11-11T12:19:25+05:30",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Indian Railways steps up cleanliness checks on trains with journey of over 40 hours",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/indian-railways-steps-up-cleanliness-checks-on-11-trains-with-journey-times-of-over-40-hours-staff-to-photograph-coaches-and-toilets-at-key-stops-vivek-express-jhelum-express-on-the-list/articleshow/135728303.cms",
+      "published": "2026-11-11T13:14:47+05:30",
+      "sentiment": 0.0
+    },
+    {
       "title": "India-UK trade deal faces early test as customs hold scotch imports over tariff row",
       "link": "https://timesofindia.indiatimes.com/business/india-business/india-uk-trade-deal-faces-early-test-as-customs-hold-scotch-imports-over-tariff-row/articleshow/135728578.cms",
       "published": "2026-11-11T12:47:55+05:30",
       "sentiment": 0.06166666666666667
-    },
-    {
-      "title": "Mother Dairy hikes rate by Rs 2-4 per litre from Thursday - check prices",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/mother-dairy-milk-gets-costlier-dairy-giant-hikes-rate-by-rs-2-4-per-litre-from-thursday-check-prices/articleshow/135727078.cms",
-      "published": "2026-11-11T11:14:08+05:30",
-      "sentiment": 0.0
     },
     {
       "title": "Rupee rises 7 paise to 93.70 against US dollar as foreign inflows support sentiment",
@@ -19,7 +43,7 @@
       "sentiment": -0.0625
     },
     {
-      "title": "Stock market today: Sensex jumps over 1,200 points, Nifty50 trades above 25,300",
+      "title": "Stock market today: Sensex jumps over 700 points, Nifty50 adds 1% to rise above 25,000",
       "link": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-11-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135724114.cms",
       "published": "2026-11-11T07:51:26+05:30",
       "sentiment": 0.0
@@ -95,30 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-jensen-huang-loses-7-4-billion-in-30-minutes-drops-2-spots-in-forbes-rich-list/articleshow/135698220.cms",
       "published": "2026-11-10T09:22:44+05:30",
       "sentiment": 0.1527777777777778
-    },
-    {
-      "title": "Stock market today: Are NSE, BSE open or closed on November 10 for Diwali-Balipratipada?",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-nse-bse-open-or-closed-on-november-10-for-diwali-balipratipada-check-details/articleshow/135697978.cms",
-      "published": "2026-11-10T09:05:04+05:30",
-      "sentiment": 0.005194805194805194
-    },
-    {
-      "title": "Oil prices edge lower as Trump signals pause in military action against Iran",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-edges-lower-as-donald-trump-signals-pause-in-military-action-against-iran/articleshow/135696941.cms",
-      "published": "2026-11-10T07:56:11+05:30",
-      "sentiment": -0.002272727272727275
-    },
-    {
-      "title": "Are banks open or closed on November 10 for Diwali (Bali Pratipada)? Check state-wise list",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-today-are-banks-open-or-closed-on-november-10-for-diwali-bali-pratipada-check-state-wise-list/articleshow/135696791.cms",
-      "published": "2026-11-10T07:49:42+05:30",
-      "sentiment": 0.0075000000000000015
-    },
-    {
-      "title": "Nvidia crisis: Will probe into Jensen Huang benefit Indian stock market?",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/will-probe-into-nvidias-jensen-huang-indirectly-benefit-indian-stock-markets/articleshow/135685330.cms",
-      "published": "2026-11-09T21:12:14+05:30",
-      "sentiment": 0.01574074074074074
     }
   ]
 }
