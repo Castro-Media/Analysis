@@ -1,7 +1,13 @@
 {
   "entries": [
     {
-      "title": "Jensen Huang’s Affair Puts His Wife, Lori Huang, In the Spotlight",
+      "title": "Silicon Valley Tech Allies Support Jensen Huang",
+      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+      "published": "Wed, 11 Nov 2026 15:35:00 +0000",
+      "sentiment": -0.11041666666666666
+    },
+    {
+      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
       "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
       "published": "Wed, 11 Nov 2026 14:46:43 +0000",
       "sentiment": 0.25
@@ -45,7 +51,7 @@
     {
       "title": "Entertainment 360 Acquires Brigade, a Management Firm Rich in Substackers",
       "link": "https://www.nytimes.com/2026/11/11/style/brigade-entertainment-360-acquisition-max-stein.html",
-      "published": "Wed, 11 Nov 2026 10:01:58 +0000",
+      "published": "Wed, 11 Nov 2026 10:01:59 +0000",
       "sentiment": -0.05500000000000001
     },
     {
@@ -281,12 +287,6 @@
       "link": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
       "published": "Sun, 08 Nov 2026 23:34:09 +0000",
       "sentiment": 0.35
-    },
-    {
-      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
-      "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-      "published": "Mon, 09 Nov 2026 00:27:00 +0000",
-      "sentiment": -0.030000000000000006
     }
   ]
 }

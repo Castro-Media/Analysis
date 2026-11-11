@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "title": "‘Cowboy’ chef serves up hope to ensure America’s heroes are never forgotten",
+      "link": "https://nypost.com/2026/11/11/us-news/cowboy-chef-serves-up-hope-to-ensure-americas-heroes-are-never-forgotten/",
+      "published": "Wed, 11 Nov 2026 10:46:03 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Former owner of P’Nut, pet squirrel decapitated by NY, is detained by ICE — but husband says arrest is mistake",
+      "link": "https://nypost.com/2026/11/11/us-news/former-owner-of-pnut-the-squirrel-detained-by-ice-but-husband-says-arrest-is-mistake/",
+      "published": "Wed, 11 Nov 2026 10:42:25 -0500",
+      "sentiment": -0.11000000000000001
+    },
+    {
+      "title": "Inside the remarkable, tragic life of Texas prosecutor accused of cheating with Eva Longoria’s NBA husband",
+      "link": "https://nypost.com/2026/11/11/us-news/inside-the-remarkable-tragic-life-of-texas-prosecutor-accused-of-cheating-with-eva-longorias-nba-husband/",
+      "published": "Wed, 11 Nov 2026 10:36:51 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump’s ex-lawyer Alina Habba loses whopping $50M contract after president blasted ‘outrageous’ deal",
+      "link": "https://nypost.com/2026/11/11/us-news/trumps-ex-lawyer-alina-habba-loses-whopping-50m-contract-after-president-blasted-outrageous-deal/",
+      "published": "Wed, 11 Nov 2026 10:28:03 -0500",
+      "sentiment": -0.3527272727272727
+    },
+    {
+      "title": "Driver accused of killing three women at North Hollywood metro station arrested for DUI",
+      "link": "https://nypost.com/2026/11/11/us-news/driver-accused-of-killing-three-women-at-north-hollywood-metro-station-arrested-for-dui/",
+      "published": "Wed, 11 Nov 2026 10:21:07 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "E. coli outbreak at California pumpkin farm claims first victim after three kids rushed to ICU",
+      "link": "https://nypost.com/2026/11/11/us-news/e-coli-outbreak-linked-to-california-pumpkin-farm-turns-deadly/",
+      "published": "Wed, 11 Nov 2026 10:12:18 -0500",
+      "sentiment": 0.0875
+    },
+    {
       "title": "Cops nab teen suspect in murder of Javits Frimpong, 15-year-old shot on walk to school",
       "link": "https://nypost.com/2026/11/11/us-news/cops-nab-teen-suspect-in-murder-of-javits-frimpong-15-year-old-shot-on-walk-to-school/",
       "published": "Wed, 11 Nov 2026 09:52:51 -0500",
@@ -13,7 +49,7 @@
       "sentiment": -0.15833333333333333
     },
     {
-      "title": "White House blasts Democrats planning probes of Trump admin: ‘Will not be extorted and will not be cowed’",
+      "title": "White House blasts Democrats planning Trump admin probes: ‘Will not be extorted and will not be cowed’",
       "link": "https://nypost.com/2026/11/11/us-news/white-house-blasts-democrats-planning-probes-of-trump-admin-will-not-be-extorted-and-will-not-be-cowed/",
       "published": "Wed, 11 Nov 2026 09:49:48 -0500",
       "sentiment": 0.0
@@ -83,42 +119,6 @@
       "link": "https://nypost.com/2026/11/11/us-news/idaho-isis-wannabe-alexander-scott-mercurio-jailed-for-18-years-over-plot-to-massacre-churchgoers/",
       "published": "Wed, 11 Nov 2026 06:48:38 -0500",
       "sentiment": 0.0
-    },
-    {
-      "title": "Alarming number of college students claim US deserved 9/11: poll",
-      "link": "https://nypost.com/2026/11/11/us-news/alarming-number-of-college-students-claim-us-deserved-9-11-poll/",
-      "published": "Wed, 11 Nov 2026 06:00:00 -0500",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Mom of black Ole Miss freshman speaks out as student Alaina Kunes leaves school after making monkey noise outside daughter’s door",
-      "link": "https://nypost.com/2026/11/11/us-news/mom-of-ole-miss-freshman-subject-to-racist-stunt-speaks-out-after-alaina-kunes-withdraws/",
-      "published": "Wed, 11 Nov 2026 05:52:58 -0500",
-      "sentiment": -0.07222222222222223
-    },
-    {
-      "title": "‘One-in-a-million’ bright yellow fish discovered in Great Lakes in stunning find",
-      "link": "https://nypost.com/2026/11/11/us-news/bright-yellow-burbot-fish-discovered-in-great-lakes-in-stunning-find/",
-      "published": "Wed, 11 Nov 2026 05:45:25 -0500",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Brian Kilmeade explains why Democrats will make a deal with Trump — and what under-the-radar Republicans could run in 2028",
-      "link": "https://nypost.com/2026/11/11/us-news/brian-kilmeade-explains-why-democrats-will-make-a-deal-with-trump-and-what-under-the-radar-republicans-could-run-in-2028/",
-      "published": "Wed, 11 Nov 2026 05:30:00 -0500",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Bernie Sanders won’t support Schumer for Senate Democratic leader, saying it’s time for change",
-      "link": "https://nypost.com/2026/11/11/us-news/bernie-sanders-wont-support-schumer-for-senate-democratic-leader-saying-its-time-for-change/",
-      "published": "Wed, 11 Nov 2026 04:47:59 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "MSC Seascape cruise passenger with abusive past kills wife over argument — as child is found in their cabin: feds",
-      "link": "https://nypost.com/2026/11/11/us-news/texas-cruise-passenger-jason-watford-with-abusive-past-kills-wife-susan-over-argument-as-child-is-found-in-their-cabin-feds/",
-      "published": "Wed, 11 Nov 2026 03:47:57 -0500",
-      "sentiment": -0.16666666666666666
     }
   ]
 }
