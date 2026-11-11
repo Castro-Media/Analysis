@@ -1,15 +1,21 @@
 {
   "entries": [
     {
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+      "published": "Wed, 11 Nov 2026 18:02:52 +0000",
+      "sentiment": 0.15000000000000002
+    },
+    {
       "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-      "published": "Wed, 11 Nov 2026 16:47:14 +0000",
+      "published": "Wed, 11 Nov 2026 17:40:41 +0000",
       "sentiment": -0.1
     },
     {
       "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "published": "Wed, 11 Nov 2026 15:54:21 +0000",
+      "published": "Wed, 11 Nov 2026 15:54:22 +0000",
       "sentiment": 0.05000000000000001
     },
     {
@@ -17,6 +23,12 @@
       "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
       "published": "Wed, 11 Nov 2026 14:57:07 +0000",
       "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "Kenya Starts Countdown to End of Ebola Outbreak",
+      "link": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
+      "published": "Wed, 11 Nov 2026 17:50:39 +0000",
+      "sentiment": 0.0625
     },
     {
       "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
@@ -73,21 +85,9 @@
       "sentiment": 0.25
     },
     {
-      "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
-      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
-      "published": "Tue, 10 Nov 2026 16:43:59 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Gaza Floods Kill 4",
-      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
-      "published": "Tue, 10 Nov 2026 19:24:50 +0000",
-      "sentiment": -0.3
-    },
-    {
       "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
-      "published": "Wed, 11 Nov 2026 16:25:52 +0000",
+      "published": "Wed, 11 Nov 2026 16:56:23 +0000",
       "sentiment": 0.0
     },
     {
@@ -121,15 +121,27 @@
       "sentiment": 0.08750000000000001
     },
     {
+      "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/syria-weighs-sending-troops-to-aid-saudi-war-with-houthis.html",
+      "published": "Tue, 10 Nov 2026 16:43:59 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Jemima Goldsmith, Russell Brand’s Ex-Partner, Accuses Him of Abuse",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/jemima-goldsmith-russell-brand-assault.html",
       "published": "Tue, 10 Nov 2026 16:27:52 +0000",
       "sentiment": 0.1875
     },
     {
+      "title": "Gaza Floods Kill 4",
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+      "published": "Tue, 10 Nov 2026 19:24:50 +0000",
+      "sentiment": -0.3
+    },
+    {
       "title": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
-      "published": "Tue, 10 Nov 2026 23:21:31 +0000",
+      "published": "Tue, 10 Nov 2026 23:21:32 +0000",
       "sentiment": 0.06666666666666667
     },
     {
@@ -316,24 +328,6 @@
       "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
       "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
       "published": "Sun, 08 Nov 2026 16:52:42 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
-      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
-      "published": "Tue, 10 Nov 2026 18:59:21 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-      "published": "Sun, 08 Nov 2026 21:48:22 +0000",
-      "sentiment": 0.05000000000000002
-    },
-    {
-      "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-      "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-      "published": "Sun, 08 Nov 2026 10:01:51 +0000",
       "sentiment": 0.0
     }
   ]
