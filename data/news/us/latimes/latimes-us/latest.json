@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "D.A. won't file charges against 18-year-old arrested in Moss Landing shooting",
+      "link": "https://www.latimes.com/california/story/2026-11-11/d-a-wont-file-charges-against-18-year-old-arrested-in-moss-landing-shooting",
+      "published": "Wed, 11 Nov 2026 22:22:22 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Illegal gambling operation in residential neighborhood raided in Westminster, at least 10 arrested",
+      "link": "https://www.latimes.com/california/story/2026-11-11/illegal-gambling-operation-in-residential-neighborhood-raided-in-westminster-at-least-10-arrested",
+      "published": "Wed, 11 Nov 2026 22:08:53 GMT",
+      "sentiment": -0.4
+    },
+    {
       "title": "LAPD opens investigation into officer's death during dive training at backyard pool",
       "link": "https://www.latimes.com/california/story/2026-11-11/lapd-investigation-dive-training-exercise-death-private-pool",
       "published": "Wed, 11 Nov 2026 18:30:15 GMT",
@@ -19,12 +31,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Peptide parties, including one on a WWII ship, celebrate new fed policy",
-      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Black teachers say students call them the N-word. LAUSD vows to teach them not to",
       "link": "https://www.latimes.com/california/story/2026-11-11/black-teachers-n-word-lausd",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
@@ -35,6 +41,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Inside the world of San Francisco 'peptide parties' — including one aboard a World War II ship",
+      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Nithya Raman's election sets up an intense showdown with the LAPD",
@@ -181,10 +193,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
-      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
+      "title": "Beyoncé means business. At USC, MBA students will study her empire",
+      "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.35
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
@@ -193,10 +205,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "Beyoncé means business. At USC, MBA students will study her empire",
-      "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
+      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
+      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.13636363636363635
+      "sentiment": 0.35
     },
     {
       "title": "Voters approve Prop. 38 medical research bond measure",
@@ -265,16 +277,16 @@
       "sentiment": -0.05599999999999998
     },
     {
-      "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
-      "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
-      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Backlash against Trump, ICE raids, high food prices fuels changing political tide in California heartland",
       "link": "https://www.latimes.com/california/story/2026-11-09/valaldao-villegas-san-joaquin-valley-trump",
       "published": "Mon, 9 Nov 2026 11:00:00 GMT",
       "sentiment": 0.015000000000000006
+    },
+    {
+      "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
+      "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
+      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "More than a dozen runners fall ill at Santa Barbara half-marathon",
@@ -533,24 +545,6 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-11-05/harold-greene-dead-los-angeles-news-anchor-was-82",
       "published": "Thu, 5 Nov 2026 20:57:53 GMT",
       "sentiment": 0.35
-    },
-    {
-      "title": "Culver City teen voting measure trailing in early returns",
-      "link": "https://www.latimes.com/california/story/2026-11-05/culver-city-teen-voting-measure-trailing-in-early-returns",
-      "published": "Thu, 5 Nov 2026 20:51:50 GMT",
-      "sentiment": 0.12857142857142856
-    },
-    {
-      "title": "Man who allegedly put hidden cameras on his shoes to record women is arrested in Berkeley",
-      "link": "https://www.latimes.com/california/story/2026-11-05/man-who-allegedly-put-hidden-cameras-on-his-shoes-to-record-women-is-arrested-in-berkeley",
-      "published": "Thu, 5 Nov 2026 20:12:12 GMT",
-      "sentiment": -0.05416666666666667
-    },
-    {
-      "title": "Lopez: She's got political savvy, good timing, or both. And she's about to become Mayor Raman",
-      "link": "https://www.latimes.com/california/story/2026-11-05/lopez-column-shes-about-to-become-mayor-raman",
-      "published": "Thu, 5 Nov 2026 19:43:48 GMT",
-      "sentiment": 0.25999999999999995
     }
   ]
 }
