@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
+      "published": "Wed, 11 Nov 2026 16:25:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
+      "published": "Wed, 11 Nov 2026 16:15:13 +0000",
+      "sentiment": 0.05000000000000001
+    },
+    {
+      "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+      "published": "Wed, 11 Nov 2026 16:12:07 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
       "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
       "published": "Wed, 11 Nov 2026 15:27:51 +0000",
@@ -13,15 +31,15 @@
       "sentiment": 0.325
     },
     {
-      "title": "Trump to Visit Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
+      "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
       "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
-      "published": "Wed, 11 Nov 2026 10:03:55 +0000",
+      "published": "Wed, 11 Nov 2026 16:12:52 +0000",
       "sentiment": 0.2
     },
     {
       "title": "The Moderates Who Chose Democrats. For Now.",
       "link": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
-      "published": "Wed, 11 Nov 2026 14:27:40 +0000",
+      "published": "Wed, 11 Nov 2026 16:04:44 +0000",
       "sentiment": 0.090625
     },
     {
@@ -33,7 +51,7 @@
     {
       "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
       "link": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "published": "Wed, 11 Nov 2026 10:01:41 +0000",
+      "published": "Wed, 11 Nov 2026 16:23:31 +0000",
       "sentiment": 0.06818181818181818
     },
     {
@@ -143,18 +161,6 @@
       "link": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
       "published": "Wed, 11 Nov 2026 02:40:43 +0000",
       "sentiment": 0.2143939393939394
-    },
-    {
-      "title": "Corey Lewandowski, Trump Ally, Is a Top Target for Democrats After the Election",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/democrats-corey-lewandowski-investigations.html",
-      "published": "Tue, 10 Nov 2026 16:50:33 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Fired by Hegseth, New Member of Congress Supports His Ouster",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/nancy-lacore-hegseth-impeachment.html",
-      "published": "Tue, 10 Nov 2026 16:14:59 +0000",
-      "sentiment": 0.04545454545454545
     }
   ]
 }

@@ -1,13 +1,19 @@
 {
   "entries": [
     {
+      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+      "published": "Wed, 11 Nov 2026 16:47:14 +0000",
+      "sentiment": -0.1
+    },
+    {
       "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "published": "Wed, 11 Nov 2026 15:49:55 +0000",
+      "published": "Wed, 11 Nov 2026 15:54:21 +0000",
       "sentiment": 0.05000000000000001
     },
     {
-      "title": "Behind the Trump-Xi Bonhomie, a Fierce Spy War Rages",
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
       "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
       "published": "Wed, 11 Nov 2026 14:57:07 +0000",
       "sentiment": -0.13333333333333333
@@ -63,7 +69,7 @@
     {
       "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
       "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
-      "published": "Wed, 11 Nov 2026 14:41:21 +0000",
+      "published": "Wed, 11 Nov 2026 14:41:22 +0000",
       "sentiment": 0.25
     },
     {
@@ -79,10 +85,16 @@
       "sentiment": -0.3
     },
     {
-      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
-      "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
-      "published": "Tue, 10 Nov 2026 14:15:54 +0000",
-      "sentiment": -0.12000000000000002
+      "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
+      "published": "Wed, 11 Nov 2026 16:25:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+      "published": "Wed, 11 Nov 2026 16:12:07 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
@@ -173,6 +185,12 @@
       "link": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
       "published": "Tue, 10 Nov 2026 10:32:25 +0000",
       "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
+      "published": "Tue, 10 Nov 2026 14:15:54 +0000",
+      "sentiment": -0.12000000000000002
     },
     {
       "title": "In Argentina, Pope Leo Walks in the Giant Shadow of Francis",
@@ -317,24 +335,6 @@
       "link": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
       "published": "Sun, 08 Nov 2026 10:01:51 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
-      "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
-      "published": "Sun, 08 Nov 2026 23:36:32 +0000",
-      "sentiment": 0.011111111111111112
-    },
-    {
-      "title": "South Africa’s Politics May Never Be the Same Again",
-      "link": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
-      "published": "Sun, 08 Nov 2026 05:01:24 +0000",
-      "sentiment": -0.020833333333333332
-    },
-    {
-      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
-      "published": "Mon, 09 Nov 2026 01:38:48 +0000",
-      "sentiment": 0.12187499999999998
     }
   ]
 }
