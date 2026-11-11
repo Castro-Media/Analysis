@@ -1,22 +1,28 @@
 {
   "entries": [
     {
+      "title": "Law Firm Wachtell Lipton to Lead Nvidia Internal Investigation",
+      "link": "https://www.wsj.com/tech/law-firm-wachtell-lipton-to-lead-nvidia-internal-investigation-d37731c7?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 23:05:00 GMT",
+      "sentiment": -0.07772727272727273
+    },
+    {
+      "title": "OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion",
+      "link": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 23:02:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "CoreWeave Meets Wall Street Expectations, Shares Rise",
       "link": "https://www.wsj.com/business/earnings/coreweave-crwv-3q-2026-earnings-report-stock-9c109753?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 21:44:00 GMT",
+      "published": "Tue, 10 Nov 2026 22:14:00 GMT",
       "sentiment": 0.0
     },
     {
       "title": "Ticket Resale Grew With Sold-Out Stadiums. Now It’s Marking Up Poetry Slams.",
       "link": "https://www.wsj.com/business/media/ticket-resale-grew-with-sold-out-stadiums-now-its-marking-up-poetry-slams-0cc9fcb5?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 20:01:00 GMT",
+      "published": "Tue, 10 Nov 2026 22:12:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Law Firm Wachtell Lipton to Lead Nvidia Internal Investigation",
-      "link": "https://www.wsj.com/tech/law-firm-wachtell-lipton-to-lead-nvidia-internal-investigation-d37731c7?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 19:50:00 GMT",
-      "sentiment": -0.07772727272727273
     },
     {
       "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/energy-oil/global-co-emissions-to-fall-as-iran-war-cuts-fossil-fuel-use-04bfc01b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 18:29:00 GMT",
       "sentiment": -0.010101010101010102
-    },
-    {
-      "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
-      "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 17:54:00 GMT",
-      "sentiment": 0.19999999999999998
     },
     {
       "title": "Smart-Ring Maker Oura to Buy AI-Native Primary-Care Company for $625 Million",
@@ -67,10 +67,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "StubHub Swings to Profit, Sees Higher Gross Merchandise Sales",
+      "title": "Stubhub Swings to Profit, Names New Finance Chief",
       "link": "https://www.wsj.com/business/retail/stubhub-swings-to-profit-sees-higher-gross-merchandise-sales-05fe7ec4?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 21:47:00 GMT",
-      "sentiment": 0.020833333333333336
+      "published": "Tue, 10 Nov 2026 22:42:00 GMT",
+      "sentiment": 0.07727272727272727
     },
     {
       "title": "On Holding’s Sales Mix Surprises, as Direct-to-Consumer Growth Underwhelms",
@@ -97,9 +97,15 @@
       "sentiment": 0.19074074074074074
     },
     {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5bf9d6ef?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 21:57:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 17:25:00 GMT",
+      "published": "Tue, 10 Nov 2026 21:56:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/volkswagen-backer-porsche-se-urges-faster-cost-cuts-as-losses-mount-152e5422?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 08:50:00 GMT",
       "sentiment": 0.0625
-    },
-    {
-      "title": "Chip Maker Infineon Lifts AI Sales Goal on Strong Data-Center Demand",
-      "link": "https://www.wsj.com/business/earnings/chip-maker-infineon-lifts-ai-sales-goal-signaling-confidence-in-demand-80ba33f3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 08:38:00 GMT",
-      "sentiment": 0.4733333333333333
     },
     {
       "title": "Canada PM Carney Calls Stellantis Factory Sale ‘Unacceptable’",
@@ -193,16 +193,16 @@
       "sentiment": 0.25
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-a3b73811?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 22:09:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Oil Prices Extend Decline After Trump Signals Restraint on Iran",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-extend-decline-after-trump-signals-restraint-on-iran-0441437f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 20:43:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-a3b73811?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 17:27:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Honda Plans $3 Billion Ohio Plant to Build Hybrids",
@@ -403,6 +403,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
+      "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 17:54:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "U.S. Small Business Confidence Held Steady in October",
       "link": "https://www.wsj.com/business/entrepreneurship/u-s-small-business-confidence-held-steady-in-october-4bee3c61?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 11:23:00 GMT",
@@ -425,12 +431,6 @@
       "link": "https://www.wsj.com/business/entrepreneurship/reader-stories-small-business-3679b083?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 20:00:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "‘What Everybody Is Concerned About Is Cyber’",
-      "link": "https://www.wsj.com/business/what-everybody-is-concerned-about-is-cyber-4f6ecf4e?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 10:45:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Can Hotels, Libraries and Apartment Towers Absorb America’s Timber Glut?",

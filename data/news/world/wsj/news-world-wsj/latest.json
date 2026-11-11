@@ -1,7 +1,13 @@
 {
   "entries": [
     {
-      "title": "Senior U.S. Officer Is Arrested in U.K. Over Allegations of Spying for Russia",
+      "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
+      "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 22:29:00 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Senior U.S. Soldier Is Arrested in U.K. Over Allegations of Spying for Russia",
       "link": "https://www.wsj.com/world/europe/member-us-army-arrested-spy-russia-cce59efb?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 21:52:00 GMT",
       "sentiment": 0.1
@@ -31,16 +37,16 @@
       "sentiment": 0.1875
     },
     {
-      "title": "U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
-      "link": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews",
-      "published": "Tue, 10 Nov 2026 04:41:00 GMT",
-      "sentiment": -0.30833333333333335
-    },
-    {
       "title": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
       "link": "https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 09:12:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+      "link": "https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 04:41:00 GMT",
+      "sentiment": -0.30833333333333335
     },
     {
       "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 14:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
-      "link": "https://www.wsj.com/world/middle-east/trumps-clashing-advisers-press-him-to-make-iran-war-decision-758c1e55?mod=rss_worldnews",
-      "published": "Sat, 07 Nov 2026 00:00:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "The Morning Risk Report: Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
@@ -157,6 +157,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Opinion | Iran Doesn’t Think the War Is Over",
+      "link": "https://www.wsj.com/opinion/u-k-mildenhall-air-base-u-s-iran-threat-9140d544?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 22:33:00 GMT",
+      "sentiment": -0.4
+    },
+    {
       "title": "Opinion | If You Think War Is Unpopular, Wait Till You See Defeat",
       "link": "https://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-defeat-04608ab0?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 21:33:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/iran-attacks-europes-refrigerators-e3375b85?mod=rss_worldnews",
       "published": "Mon, 09 Nov 2026 22:48:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | The War and the Fog of Trump",
-      "link": "https://www.wsj.com/opinion/the-war-and-the-fog-of-trump-ab270d04?mod=rss_worldnews",
-      "published": "Mon, 09 Nov 2026 22:11:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "Poland’s Political Divisions Puncture Its Influence on World Stage",
