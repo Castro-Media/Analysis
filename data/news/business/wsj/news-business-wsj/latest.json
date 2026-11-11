@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom",
+      "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-ai-bubble-93097556?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "An American Furniture Maker Tried to Bring Jobs Back Home. It Didn’t Work.",
       "link": "https://www.wsj.com/business/furniture-maker-us-tariffs-jobs-vietnam-345d77fe?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 02:00:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/tech/law-firm-wachtell-lipton-to-lead-nvidia-internal-investigation-d37731c7?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 23:05:00 GMT",
       "sentiment": -0.07772727272727273
-    },
-    {
-      "title": "CoreWeave Meets Wall Street Expectations, Shares Rise",
-      "link": "https://www.wsj.com/business/earnings/coreweave-crwv-3q-2026-earnings-report-stock-9c109753?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 22:14:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Smart-Ring Maker Oura to Buy AI-Native Primary-Care Company for $625 Million",
@@ -97,6 +97,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
+      "link": "https://www.wsj.com/business/earnings/softbank-group-posts-quarterly-loss-on-special-losses-linked-to-u-s-data-center-projects-23b37a41?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 03:42:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "CoreWeave Meets Wall Street Expectations, Shares Rise",
+      "link": "https://www.wsj.com/business/earnings/coreweave-crwv-3q-2026-earnings-report-stock-9c109753?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 22:14:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5bf9d6ef?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 21:57:00 GMT",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/honda-raises-guidance-after-first-half-profit-growth-8da73339?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 12:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
-      "link": "https://www.wsj.com/business/earnings/softbank-group-posts-quarterly-loss-on-special-losses-linked-to-u-s-data-center-projects-23b37a41?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 11:53:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Volkswagen Backer Porsche SE Urges Faster Cost Cuts as Losses Mount",
-      "link": "https://www.wsj.com/business/earnings/volkswagen-backer-porsche-se-urges-faster-cost-cuts-as-losses-mount-152e5422?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 08:50:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Canada PM Carney Calls Stellantis Factory Sale ‘Unacceptable’",

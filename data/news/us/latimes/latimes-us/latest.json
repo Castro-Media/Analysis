@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Wildlife crossings aren't enough to curb roadkill hot spots, researchers say",
+      "link": "https://www.latimes.com/california/story/2026-11-10/wildlife-crossings-arent-enough-to-curb-roadkill-hot-spots-researchers-say",
+      "published": "Wed, 11 Nov 2026 03:29:13 GMT",
+      "sentiment": 0.08333333333333333
+    },
+    {
+      "title": "Three dead in crash near North Hollywood Metro station",
+      "link": "https://www.latimes.com/california/story/2026-11-10/three-dead-in-crash-near-north-hollywood-metro-station",
+      "published": "Wed, 11 Nov 2026 03:10:41 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
       "title": "'Princess pig.' Well-groomed, chubby porker found wandering SoCal streets",
       "link": "https://www.latimes.com/california/story/2026-11-10/la-me-pig-on-the-loose-pomona",
       "published": "Wed, 11 Nov 2026 02:03:38 GMT",
@@ -13,7 +25,7 @@
       "sentiment": 0.525
     },
     {
-      "title": "State wildlife officials said they killed a problem coyote in Atwater Village. Then it reappeared—with a limp",
+      "title": "State wildlife officials said they killed a problem coyote in Atwater Village. Then it reappeared — with a limp",
       "link": "https://www.latimes.com/california/story/2026-11-10/wildlife-officials-said-they-killed-coyote-in-atwater-village-then-it-reappeared",
       "published": "Wed, 11 Nov 2026 01:36:28 GMT",
       "sentiment": -0.24000000000000005
@@ -67,7 +79,7 @@
       "sentiment": 0.16
     },
     {
-      "title": "Fighting City Hall will get a lot more expensive under plan backed by L.A. Council",
+      "title": "Fighting City Hall will get a lot more expensive under plan backed by L.A. council",
       "link": "https://www.latimes.com/california/story/2026-11-10/fighting-city-hall-will-get-lot-more-expensive-under-plan-backed-by-la-council",
       "published": "Tue, 10 Nov 2026 22:40:01 GMT",
       "sentiment": 0.3
@@ -115,6 +127,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
+      "link": "https://www.latimes.com/politics/story/2026-11-10/asian-americans-won-all-three-of-l-a-s-citywide-elected-offices-this-year",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
       "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
@@ -125,12 +143,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
-      "link": "https://www.latimes.com/politics/story/2026-11-10/asian-americans-won-all-three-of-l-a-s-citywide-elected-offices-this-year",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Voters approve Prop. 38 medical research bond measure",
@@ -535,22 +547,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
-      "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11742424242424243
-    },
-    {
-      "title": "Her late daughter's wedding gown disappeared. 17 years later, a bride-to-be found it",
-      "link": "https://www.latimes.com/california/story/2026-11-05/after-17-years-late-daughters-wedding-dress-returned-to-california-mom",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
       "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
+      "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.16666666666666666
     }
   ]
 }
