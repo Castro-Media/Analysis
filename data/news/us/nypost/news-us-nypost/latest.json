@@ -1,7 +1,67 @@
 {
   "entries": [
     {
-      "title": "Boy, 13, shot twice, wounded by gunman wearing all black while heading to NYC store",
+      "title": "California mom taken off life support after huge freeway crash killed husband, son left orphaned",
+      "link": "https://nypost.com/2026/11/11/us-news/vacaville-boy-orphaned-after-parents-die-in-i-80-pileup/",
+      "published": "Wed, 11 Nov 2026 16:00:59 -0500",
+      "sentiment": -0.1375
+    },
+    {
+      "title": "Lake Tahoe guide company implicated in deadly avalanche shuts down",
+      "link": "https://nypost.com/2026/11/11/us-news/blackbird-mountain-guides-shuts-down-after-deadly-avalanche/",
+      "published": "Wed, 11 Nov 2026 15:58:04 -0500",
+      "sentiment": -0.18222222222222223
+    },
+    {
+      "title": "Wild video shows crazed animal rights activist smack NYC horse carriage driver in face with skateboard",
+      "link": "https://nypost.com/2026/11/11/us-news/wild-video-shows-crazed-animal-rights-activist-smack-nyc-horse-carriage-driver-in-face-with-skateboard/",
+      "published": "Wed, 11 Nov 2026 15:44:33 -0500",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "House Dem set to wield power over ICE budget rejects DSA calls to abolish immigration enforcement agency",
+      "link": "https://nypost.com/2026/11/11/us-news/democrat-rep-henry-cuellar-rejects-incoming-dsa-calls-for-abolishing-ice/",
+      "published": "Wed, 11 Nov 2026 15:35:19 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Kushner and Witkoff to meet Putin after ‘one of the toughest’ rounds of talks with Russians",
+      "link": "https://nypost.com/2026/11/11/us-news/jared-kushner-and-steve-witkoff-to-meet-putin-after-one-of-the-toughest-rounds-of-talks-with-russians/",
+      "published": "Wed, 11 Nov 2026 15:23:03 -0500",
+      "sentiment": 0.17857142857142858
+    },
+    {
+      "title": "Heartbroken mom of slain NYC teen Javits Frimpong breaks silence: ‘I need justice for my child’",
+      "link": "https://nypost.com/2026/11/11/us-news/heartbroken-mom-of-slain-teen-javits-frimpong-breaks-silence-i-need-justice-for-my-child/",
+      "published": "Wed, 11 Nov 2026 15:19:37 -0500",
+      "sentiment": 0.11481481481481481
+    },
+    {
+      "title": "Dramatic moment Central Park rape suspect is busted while working at Miami Burger King: ‘On your face now!’",
+      "link": "https://nypost.com/2026/11/11/us-news/moment-central-park-rape-suspect-is-busted-while-working-at-miami-burger-king/",
+      "published": "Wed, 11 Nov 2026 15:14:03 -0500",
+      "sentiment": -0.08666666666666667
+    },
+    {
+      "title": "Alaska dad killed by Hollywood scion Jack Sabàto was visiting sick partner in hospital when he was hit",
+      "link": "https://nypost.com/2026/11/11/us-news/alaska-dad-killed-by-hollywood-scion-jack-sabato-was-visiting-sick-partner-in-hospital-when-he-was-killed/",
+      "published": "Wed, 11 Nov 2026 15:09:28 -0500",
+      "sentiment": -0.25238095238095243
+    },
+    {
+      "title": "LA City Council could meet just one day a week under voter-approved charter overhaul",
+      "link": "https://nypost.com/2026/11/11/us-news/la-city-council-could-meet-just-one-day-a-week-under-voter-approved-charter-overhaul/",
+      "published": "Wed, 11 Nov 2026 15:07:33 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Heart-pounding bodycam footage shows California cop rescue driver from fireball wreck",
+      "link": "https://nypost.com/2026/11/11/us-news/bodycam-shows-davis-officer-save-driver-from-fiery-crash/",
+      "published": "Wed, 11 Nov 2026 14:58:34 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "NYC boy, 13, shot twice and wounded by gunman wearing all black while heading to store",
       "link": "https://nypost.com/2026/11/11/us-news/boy-13-shot-twice-wounded-by-gunman-wearing-all-black-while-heading-to-nyc-store/",
       "published": "Wed, 11 Nov 2026 14:53:23 -0500",
       "sentiment": 0.005555555555555559
@@ -16,7 +76,7 @@
       "title": "NYC marathon runner who high-fived Ariana Grande in viral video is faker who stole French exec’s race number",
       "link": "https://nypost.com/2026/11/11/us-news/wannabe-influencer-sneaks-into-nyc-marathon-by-stealing-french-banking-execs-bib/",
       "published": "Wed, 11 Nov 2026 14:49:58 -0500",
-      "sentiment": 0.05
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "Thousands line NYC streets to pay tribute to brave veterans during annual parade",
@@ -59,66 +119,6 @@
       "link": "https://nypost.com/2026/11/11/us-news/fall-out-boy-performs-surprise-pop-up-show-in-los-angeles-mall/",
       "published": "Wed, 11 Nov 2026 13:54:18 -0500",
       "sentiment": 1.0
-    },
-    {
-      "title": "Apple worker, 38, accused of killing girl, 2, in 100 mph horror crash outside tech giant’s HQ",
-      "link": "https://nypost.com/2026/11/11/us-news/apple-worker-charged-in-100-mph-fatal-crash-near-cupertino-hqs/",
-      "published": "Wed, 11 Nov 2026 13:42:31 -0500",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Tech titan who backed Trump brutally skewered after elections U-turn: ‘Pandering POS’",
-      "link": "https://nypost.com/2026/11/11/tech/palantir-ceo-alex-karp-makes-u-turn-on-donald-trump/",
-      "published": "Wed, 11 Nov 2026 13:35:54 -0500",
-      "sentiment": -0.225
-    },
-    {
-      "title": "No membership, no problem: NYC’s newest hot spot is rewriting the rules of exclusivity",
-      "link": "https://nypost.com/2026/11/11/lifestyle/inside-lady-delilah-nycs-new-exclusive-supper-club-from-la-nightlife-kings/",
-      "published": "Wed, 11 Nov 2026 13:15:37 -0500",
-      "sentiment": 0.3954545454545455
-    },
-    {
-      "title": "Sen.-elect Abdul El-Sayed dangles ‘Trumpcare’ pitch to get president on board with ‘Medicare for All’",
-      "link": "https://nypost.com/2026/11/11/us-news/sen-elect-abdul-el-sayed-dangles-trumpcare-pitch-to-get-president-on-board-with-medicare-for-all/",
-      "published": "Wed, 11 Nov 2026 13:15:03 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Top female lifeguard goes to war with California city after being banned from applying to be chief",
-      "link": "https://nypost.com/2026/11/11/us-news/san-diego-lifeguard-captain-sues-city-over-hiring-practices/",
-      "published": "Wed, 11 Nov 2026 13:06:20 -0500",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Evil dad who decapitated 3 young children finally set to be executed",
-      "link": "https://nypost.com/2026/11/11/us-news/evil-dad-who-decapitated-3-young-children-finally-set-to-executed/",
-      "published": "Wed, 11 Nov 2026 12:59:53 -0500",
-      "sentiment": -0.3083333333333333
-    },
-    {
-      "title": "Veterans Day ceremony at Ground Zero celebrates ‘American resolve’: ‘People are stronger’",
-      "link": "https://nypost.com/2026/11/11/us-news/veterans-day-begins-with-a-solemn-ceremony-at-ground-zero/",
-      "published": "Wed, 11 Nov 2026 12:53:11 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Donald Trump Jr. defends convicted rapist Russell Brand, says disgraced comic victim of ‘two-tier’ justice system",
-      "link": "https://nypost.com/2026/11/11/us-news/donald-trump-jr-defends-convicted-rapist-russell-brand-says-disgraced-comic-victim-of-two-tier-justice-system/",
-      "published": "Wed, 11 Nov 2026 12:48:29 -0500",
-      "sentiment": 0.05833333333333333
-    },
-    {
-      "title": "Devastated dad of slain NYC jogger Katie Suarez rips schools’ failure to probe suspect’s bizarre behavior",
-      "link": "https://nypost.com/2026/11/11/us-news/devastated-dad-of-slain-nyc-jogger-katie-suarez-rips-schools-failure-to-probe-suspects-bizarre-behavior/",
-      "published": "Wed, 11 Nov 2026 12:33:27 -0500",
-      "sentiment": -0.0722222222222222
-    },
-    {
-      "title": "LA’s most expensive private schools, including one where teens manage an investment portfolio",
-      "link": "https://nypost.com/2026/11/11/us-news/l-a-s-most-expensive-private-schools-in-2026-ranked-by-tuition/",
-      "published": "Wed, 11 Nov 2026 12:14:30 -0500",
-      "sentiment": 0.0
     }
   ]
 }

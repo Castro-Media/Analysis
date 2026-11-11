@@ -7,22 +7,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "Spaniards shut down country over high housing prices",
-      "link": "https://www.cbc.ca/player/play/9.7418079?cmp=rss",
-      "published": "Wed, 11 Nov 2026 12:17:19 EST",
-      "sentiment": 0.09361111111111112
-    },
-    {
-      "title": "Joining lawsuit, Kennedy family members say Trump's arch would be 'denigration' of JFK, RFK plots at Arlington",
-      "link": "https://www.cbc.ca/news/world/us-trump-arch-kennedys-objection-9.7417679?cmp=rss",
-      "published": "Wed, 11 Nov 2026 06:32:33 EST",
-      "sentiment": 0.0
-    },
-    {
       "title": "Missing baby rescued after being buried alive in a dog crate in South Carolina",
       "link": "https://www.cbc.ca/news/world/baby-found-buried-alive-south-carolina-9.7418243?cmp=rss",
       "published": "Wed, 11 Nov 2026 14:28:26 EST",
       "sentiment": -0.0375
+    },
+    {
+      "title": "Stacy Keach, stage actor and Mike Hammer star, dead at 85",
+      "link": "https://www.cbc.ca/news/entertainment/stacy-keach-obituary-actor-mike-hammer-9.7417622?cmp=rss",
+      "published": "Tue, 10 Nov 2026 22:28:56 EST",
+      "sentiment": 0.2833333333333334
     },
     {
       "title": "3 dead, driver arrested after vehicle plows into pedestrians in Los Angeles",
@@ -31,10 +25,16 @@
       "sentiment": -0.08
     },
     {
-      "title": "Stacy Keach, stage actor and Mike Hammer star, dead at 85",
-      "link": "https://www.cbc.ca/news/entertainment/stacy-keach-obituary-actor-mike-hammer-9.7417622?cmp=rss",
-      "published": "Tue, 10 Nov 2026 22:28:56 EST",
-      "sentiment": 0.2833333333333334
+      "title": "Joining lawsuit, Kennedy family members say Trump's arch would be 'denigration' of JFK, RFK plots at Arlington",
+      "link": "https://www.cbc.ca/news/world/us-trump-arch-kennedys-objection-9.7417679?cmp=rss",
+      "published": "Wed, 11 Nov 2026 06:32:33 EST",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Spaniards shut down country over high housing prices",
+      "link": "https://www.cbc.ca/player/play/9.7418079?cmp=rss",
+      "published": "Wed, 11 Nov 2026 12:17:19 EST",
+      "sentiment": 0.09361111111111112
     },
     {
       "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
