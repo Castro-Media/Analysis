@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "'Princess pig.' Well-groomed, chubby porker found wandering SoCal streets",
+      "link": "https://www.latimes.com/california/story/2026-11-10/la-me-pig-on-the-loose-pomona",
+      "published": "Wed, 11 Nov 2026 02:03:38 GMT",
+      "sentiment": 0.39999999999999997
+    },
+    {
+      "title": "Sacramento Rep. Doris Matsui wins reelection, defeating progressive challenger",
+      "link": "https://www.latimes.com/california/story/2026-11-10/sacramento-rep-doris-matsui-wins-reelection-defeating-progressive-challenger",
+      "published": "Wed, 11 Nov 2026 02:02:04 GMT",
+      "sentiment": 0.525
+    },
+    {
+      "title": "State wildlife officials said they killed a problem coyote in Atwater Village. Then it reappeared—with a limp",
+      "link": "https://www.latimes.com/california/story/2026-11-10/wildlife-officials-said-they-killed-coyote-in-atwater-village-then-it-reappeared",
+      "published": "Wed, 11 Nov 2026 01:36:28 GMT",
+      "sentiment": -0.24000000000000005
+    },
+    {
+      "title": "Two planes nearly collide at LAX after Air France flight veers into another aircraft's path, FAA says",
+      "link": "https://www.latimes.com/california/story/2026-11-10/two-planes-nearly-collide-at-lax-faa-says",
+      "published": "Wed, 11 Nov 2026 01:29:34 GMT",
+      "sentiment": 0.04
+    },
+    {
+      "title": "L.A. County restraining order system to undergo sweeping reforms",
+      "link": "https://www.latimes.com/california/story/2026-11-10/la-county-restraining-order-system-reforms",
+      "published": "Wed, 11 Nov 2026 01:02:55 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Meghan Markle's father Thomas Markle Sr. cut off his ankle monitor following child porn arrest",
       "link": "https://www.latimes.com/entertainment-arts/story/2026-11-10/thomas-markle-sr-cut-off-ankle-monitor-child-porn-arrest",
       "published": "Wed, 11 Nov 2026 00:29:45 GMT",
@@ -19,7 +49,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "LA County supervisors approve sweeping motion to expose scope and influence of sheriff's deputy gangs",
+      "title": "L.A. County supervisors approve sweeping motion to expose scope and influence of sheriff's deputy gangs",
       "link": "https://www.latimes.com/california/story/2026-11-10/la-county-supervisors-approve-motion-to-expose-scope-influence-of-sheriffs-deputy-gangs",
       "published": "Tue, 10 Nov 2026 23:33:31 GMT",
       "sentiment": -0.13333333333333333
@@ -52,7 +82,7 @@
       "title": "L.A. judge who compared state oversight board to 'Russian mafia' removed from office",
       "link": "https://www.latimes.com/california/story/2026-11-10/la-judge-robert-draper-removed-from-office",
       "published": "Tue, 10 Nov 2026 21:15:25 GMT",
-      "sentiment": 0.15
+      "sentiment": 0.2333333333333333
     },
     {
       "title": "Bob Boone, longtime Angels catcher and part of a three-generation family of All-Stars, dies at 78",
@@ -73,22 +103,16 @@
       "sentiment": 0.025
     },
     {
-      "title": "San Diego school officials push back after Haitian boy, 8, is taken during ICE check-in",
-      "link": "https://www.latimes.com/california/story/2026-11-10/san-diego-school-officials-push-back-after-haitian-boy-8-is-taken-during-ice-check-in",
-      "published": "Tue, 10 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Shasta County measure that sought to eliminate most mail-in voting violates state law, judge rules",
       "link": "https://www.latimes.com/california/story/2026-11-10/shasta-county-mail-in-voting-measure-violates-state-law-judge-rules",
       "published": "Tue, 10 Nov 2026 13:00:00 GMT",
       "sentiment": 0.5
     },
     {
-      "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
-      "link": "https://www.latimes.com/politics/story/2026-11-10/asian-americans-won-all-three-of-l-a-s-citywide-elected-offices-this-year",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.125
+      "title": "San Diego school officials push back after Haitian boy, 8, is taken during ICE check-in",
+      "link": "https://www.latimes.com/california/story/2026-11-10/san-diego-school-officials-push-back-after-haitian-boy-8-is-taken-during-ice-check-in",
+      "published": "Tue, 10 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
@@ -101,6 +125,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
+      "link": "https://www.latimes.com/politics/story/2026-11-10/asian-americans-won-all-three-of-l-a-s-citywide-elected-offices-this-year",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Voters approve Prop. 38 medical research bond measure",
@@ -505,24 +535,6 @@
       "sentiment": 0.1
     },
     {
-      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
-      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over",
-      "link": "https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.16
-    },
-    {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
       "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -535,22 +547,10 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Amid controversy, California greenlights the state's first large reservoir in decades",
-      "link": "https://www.latimes.com/environment/story/2026-11-04/sites-reservoir-decision",
-      "published": "Thu, 5 Nov 2026 02:43:33 GMT",
-      "sentiment": 0.19419642857142858
-    },
-    {
-      "title": "State Sen. Scott Wiener to succeed Pelosi in San Francisco House seat, as Chan concedes",
-      "link": "https://www.latimes.com/california/story/2026-11-04/state-sen-scott-wiener-to-succeed-pelosi-in-san-francisco-house-seat-as-chan-concedes",
-      "published": "Thu, 5 Nov 2026 02:33:51 GMT",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Becerra prepares to take helm as governor with few political debts. But there's questions about his agenda",
-      "link": "https://www.latimes.com/california/story/2026-11-04/becerra-prepares-to-take-helm-as-governor-with-few-political-debts-but-theres-questions-about-his-agenda",
-      "published": "Thu, 5 Nov 2026 00:45:47 GMT",
-      "sentiment": -0.13333333333333333
+      "title": "Fireballs and a supermoon: SoCal stargazers should brace for a busy month of astronomical events",
+      "link": "https://www.latimes.com/california/story/2026-11-05/fireballs-supermoon-busy-month-of-astronomical-events",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.1
     }
   ]
 }
