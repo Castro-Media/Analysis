@@ -1,16 +1,34 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: CoreWeave Shares Jump, Re-Energizing the AI Trade",
+      "title": "Stock Market Today: Nvidia Stocks Slides as Board Considers Ousting CEO",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 08:21:53 GMT",
-      "sentiment": 0.5
+      "sentiment": 0.0
+    },
+    {
+      "title": "Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
+      "link": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 21:58:00 GMT",
+      "sentiment": -0.004761904761904753
+    },
+    {
+      "title": "CoreWeave Jumps, Boosting the AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/coreweave-jumps-boosting-the-ai-trade-e5c1569b?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 21:17:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now",
       "link": "https://www.wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 17:45:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Asset Manager’s Insurers Dogged by Fraud at 777 Partners",
+      "link": "https://www.wsj.com/pro/bankruptcy/asset-managers-insurers-dogged-by-fraud-at-777-partners-9e3245cf?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 14:00:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "Hospital Stocks Are Feeling Blue, in a Good Way",
@@ -23,24 +41,6 @@
       "link": "https://www.wsj.com/finance/asian-bond-yields-rise-on-growing-expectations-for-fed-rate-hike-a2491a28?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 06:37:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
-      "link": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "sentiment": -0.06272727272727273
-    },
-    {
-      "title": "SEC Enforcement Penalties Fall to 18-Year Low",
-      "link": "https://www.wsj.com/finance/regulation/sec-enforcement-penalties-fall-to-18-year-low-2aa5d9d3?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 22:51:00 GMT",
-      "sentiment": -0.025
-    },
-    {
-      "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
-      "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 22:29:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
@@ -73,6 +73,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "SEC Enforcement Penalties Fall to 18-Year Low",
+      "link": "https://www.wsj.com/finance/regulation/sec-enforcement-penalties-fall-to-18-year-low-2aa5d9d3?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 22:51:00 GMT",
+      "sentiment": -0.025
+    },
+    {
       "title": "Wall Street Pay Set to Climb After Volatile Markets and IPOs Fuel Bank Profits",
       "link": "https://www.wsj.com/finance/wall-street-pay-set-to-climb-after-volatile-markets-and-ipos-fuel-bank-profits-94fd9137?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
@@ -97,28 +103,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Goldman’s Exclusive Club of Partners Welcomes Its Biggest Class Since 2010",
-      "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 18:54:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-ab29df4c?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 17:31:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-4e16c46c?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 17:24:00 GMT",
+      "published": "Wed, 11 Nov 2026 21:59:00 GMT",
       "sentiment": 0.5
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d1ea7fbd?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 17:23:00 GMT",
-      "sentiment": 0.5
+      "published": "Wed, 11 Nov 2026 21:55:00 GMT",
+      "sentiment": 0.37878787878787873
     },
     {
       "title": "NYSE Affiliate to Launch 24/7 Tokenized Stock Trading This Month",
@@ -133,6 +127,24 @@
       "sentiment": 0.16666666666666666
     },
     {
+      "title": "Asia’s Market Meltdown Traps Some Traders",
+      "link": "https://www.wsj.com/finance/investing/asias-market-meltdown-traps-some-traders-bb89db4a?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 11:34:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "The Global Economy Looks Vulnerable to an AI Bust",
+      "link": "https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 22:15:00 GMT",
+      "sentiment": -0.13333333333333336
+    },
+    {
+      "title": "U.S. Stocks Gain After CoreWeave Update Eases Some AI Concerns",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-coreweave-update-eases-some-ai-worries-f8bfbaa7?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 22:07:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Nasdaq Jumps After CoreWeave Re-Energizes AI Trade",
       "link": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 19:36:00 GMT",
@@ -145,22 +157,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "The Global Economy Looks Vulnerable to an AI Bust",
-      "link": "https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 15:59:00 GMT",
-      "sentiment": -0.13333333333333336
-    },
-    {
       "title": "European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism",
       "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-bank-pharma-stocks-2c6e1b38?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 09:25:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Dangote Cement Shelves Secondary London Listing",
-      "link": "https://www.wsj.com/business/dangote-cement-shelves-secondary-london-listing-b50c3fa5?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 07:35:00 GMT",
-      "sentiment": -0.19999999999999998
     },
     {
       "title": "Opinion | Building Wealth Requires More Than Charity",
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Halt Slide Awaiting Clarity on Middle East Talks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 21:27:00 GMT",
+      "sentiment": -0.008333333333333323
+    },
+    {
       "title": "U.S. Natural Gas Futures Settle Lower After Gains",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 21:04:00 GMT",
@@ -223,16 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Crude Futures Pick Up After Heavy Selling",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 14:28:00 GMT",
-      "sentiment": -0.3
-    },
-    {
-      "title": "Dollar’s Strength Could Persist on U.S. Rate-Rise Prospects",
+      "title": "WSJ Dollar Index Rises 0.44% to 97.97",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-soften-after-u-s-cpi-data-boosts-dollar-26f03632?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 12:35:00 GMT",
-      "sentiment": 0.132
+      "published": "Wed, 11 Nov 2026 22:29:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "WSJ Dollar Index Rises 0.49% to 97.54",
@@ -289,6 +289,18 @@
       "sentiment": 0.03333333333333333
     },
     {
+      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
+      "link": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "sentiment": -0.06272727272727273
+    },
+    {
+      "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
+      "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 22:29:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Hot Inflation Revives Wall Street’s Rate Hike Fears",
       "link": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 21:30:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/yields-jump-as-inflation-comes-in-hotter-than-expected-77358c3f?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 21:17:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 18:41:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
-      "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 17:54:00 GMT",
-      "sentiment": 0.19999999999999998
     },
     {
       "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
