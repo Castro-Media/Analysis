@@ -61,7 +61,7 @@
       "sentiment": 0.05909090909090909
     },
     {
-      "title": "Billionaire tax rejected on concern squeezing California's ultra-rich would harm the economy",
+      "title": "Billionaire tax rejected on concern punishing the ultra-rich would hurt California's economy",
       "link": "https://www.latimes.com/business/story/2026-11-09/billionaire-tax-prop-40-was-officially-rejected-in-california",
       "published": "Tue, 10 Nov 2026 02:38:15 GMT",
       "sentiment": 0.225
@@ -385,6 +385,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.11818181818181818
+    },
+    {
       "title": "Which races might predict a 'blue wave'? Here's what to watch",
       "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -397,22 +403,16 @@
       "sentiment": -0.12000000000000002
     },
     {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
+      "sentiment": 0.15
     },
     {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
-    },
-    {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
     },
     {
       "title": "California officials brace for unprecedented election interference by Trump administration",
@@ -553,16 +553,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
-      "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
-      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Election denialism is on the ballot in Arizona. These volunteers are pushing back",
       "link": "https://www.latimes.com/politics/story/2026-10-30/election-denialism-is-on-ballot-in-arizona-some-are-pushing-back",
       "published": "Fri, 30 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows",
+      "link": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
+      "published": "Fri, 30 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "This L.A. city board is more than 120 years old. A ballot measure could quietly hasten its end",
