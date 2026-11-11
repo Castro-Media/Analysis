@@ -15,8 +15,14 @@
     {
       "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "published": "Wed, 11 Nov 2026 15:54:22 +0000",
+      "published": "Wed, 11 Nov 2026 20:13:13 +0000",
       "sentiment": 0.05000000000000001
+    },
+    {
+      "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+      "published": "Wed, 11 Nov 2026 20:40:19 +0000",
+      "sentiment": -0.0625
     },
     {
       "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
@@ -79,10 +85,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
-      "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
-      "published": "Wed, 11 Nov 2026 14:41:22 +0000",
-      "sentiment": 0.25
+      "title": "A.I. and Market Whiplash",
+      "link": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+      "published": "Wed, 11 Nov 2026 20:48:08 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
@@ -119,6 +125,12 @@
       "link": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
       "published": "Tue, 10 Nov 2026 19:33:48 +0000",
       "sentiment": 0.08750000000000001
+    },
+    {
+      "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
+      "link": "https://www.nytimes.com/2026/11/10/world/asia/sonia-gandhi-india.html",
+      "published": "Wed, 11 Nov 2026 14:41:22 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
@@ -317,18 +329,6 @@
       "link": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
       "published": "Sun, 08 Nov 2026 18:33:16 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Trains Collide Near Cairo, Killing 4",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
-      "published": "Sun, 08 Nov 2026 23:03:01 +0000",
-      "sentiment": 0.07499999999999998
-    },
-    {
-      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
-      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
-      "published": "Sun, 08 Nov 2026 16:52:42 +0000",
-      "sentiment": 0.0
     }
   ]
 }

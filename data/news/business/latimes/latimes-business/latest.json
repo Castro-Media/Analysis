@@ -103,6 +103,12 @@
       "sentiment": 0.04545454545454545
     },
     {
+      "title": "Tesla will phase out Cybertruck production next year, Musk says",
+      "link": "https://www.latimes.com/business/story/2026-11-06/tesla-will-phase-out-cybertruck-production-next-year-musk-says",
+      "published": "Fri, 6 Nov 2026 21:32:54 GMT",
+      "sentiment": -0.05185185185185185
+    },
+    {
       "title": "No one wanted this Long Beach home until waves crashed into its living room",
       "link": "https://www.latimes.com/california/story/2026-11-06/long-beach-home-damaged-waves-for-sale",
       "published": "Fri, 6 Nov 2026 21:00:26 GMT",
@@ -115,10 +121,46 @@
       "sentiment": 0.25
     },
     {
+      "title": "Clifton's quietly reopens with plans to become an immersive, Meow Wolf-inspired megaspace",
+      "link": "https://www.latimes.com/travel/story/2026-11-06/cliftons-downtown-los-angeles-reopening-sanctuary",
+      "published": "Fri, 6 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Social media companies sue California over new law restricting use for children",
+      "link": "https://www.latimes.com/california/story/2026-11-05/meta-social-media-companies-sue-california-over-new-restrictions",
+      "published": "Thu, 5 Nov 2026 21:03:44 GMT",
+      "sentiment": 0.01117424242424242
+    },
+    {
       "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
       "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.16
+    },
+    {
+      "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
+      "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.11742424242424243
+    },
+    {
+      "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
+      "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "What the Democratic landslide means for GOP booster Elon Musk and his businesses",
+      "link": "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
+      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.029356060606060594
     },
     {
       "title": "SoCal Outback Steakhouse franchisee files for bankruptcy, citing California's labor costs",
@@ -217,10 +259,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
-      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08901515151515152
+      "sentiment": 0.14166666666666666
     },
     {
       "title": "As Californian ports push truckers to go green, the struggling industry asks for more subsidies",
@@ -229,10 +271,10 @@
       "sentiment": 0.08333333333333333
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
+      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
+      "sentiment": 0.08901515151515152
     },
     {
       "title": "Disney's theme parks division lays off at least 100 employees",
@@ -319,16 +361,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Vallarta Supermarkets opens a new store",
-      "link": "https://www.latimes.com/business/story/2026-10-23/vallarta-supermarkets-opens-new-store",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0037878787878787845
-    },
-    {
       "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
       "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Vallarta Supermarkets opens a new store",
+      "link": "https://www.latimes.com/business/story/2026-10-23/vallarta-supermarkets-opens-new-store",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0037878787878787845
     },
     {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
@@ -469,12 +511,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Westfield Topanga is trying to reinvent mall food after a food-hall flop",
-      "link": "https://www.latimes.com/business/story/2026-10-15/inside-westfield-topangas-struggle-to-reinvent-mall-food",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Sonoma winery to close tasting room as people drink less",
       "link": "https://www.latimes.com/business/story/2026-10-15/sonoma-winery-to-close-tasting-room-as-people-drink-less",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -487,6 +523,12 @@
       "sentiment": 0.021428571428571425
     },
     {
+      "title": "Westfield Topanga is trying to reinvent mall food after a food-hall flop",
+      "link": "https://www.latimes.com/business/story/2026-10-15/inside-westfield-topangas-struggle-to-reinvent-mall-food",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Disney strikes $20-million deal for Character.ai's assets as AI startup files for bankruptcy",
       "link": "https://www.latimes.com/business/story/2026-10-13/disney-strikes-20-million-deal-for-character-ais-assets-as-ai-startup-files-for-bankruptcy",
       "published": "Tue, 13 Oct 2026 21:34:51 GMT",
@@ -497,48 +539,6 @@
       "link": "https://www.latimes.com/business/story/2026-10-13/world-cup-was-bad-for-some-businesses-in-los-angeles",
       "published": "Tue, 13 Oct 2026 20:57:10 GMT",
       "sentiment": -0.3499999999999999
-    },
-    {
-      "title": "Vietnamese electric ride hailing service launches in L.A. with its own cars and drivers",
-      "link": "https://www.latimes.com/business/story/2026-10-13/vietnamese-electric-ride-hailing-service-launches-in-la-with-its-own-cars-drivers",
-      "published": "Tue, 13 Oct 2026 20:31:59 GMT",
-      "sentiment": 0.21666666666666665
-    },
-    {
-      "title": "Six Flags Magic Mountain shuts down second coaster amid safety concerns, rider death in Georgia",
-      "link": "https://www.latimes.com/california/story/2026-10-13/six-flags-magic-mountain-coaster-shutdown",
-      "published": "Tue, 13 Oct 2026 14:33:31 GMT",
-      "sentiment": -0.018518518518518517
-    },
-    {
-      "title": "Paramount takes over Netflix's Bay Theater in Pacific Palisades, plans reopening",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-13/paramount-bay-theater-pacific-palisades-reopen-netflix-caruso",
-      "published": "Tue, 13 Oct 2026 13:00:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Hiltzik: Of course the government should regulate AI, but not the way the AI industry prefers",
-      "link": "https://www.latimes.com/business/story/2026-10-13/of-course-government-should-regulate-ai-but-not-the-way-the-ai-industry-prefers",
-      "published": "Tue, 13 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Warner Bros. could face loss of at least $150 million on 'Digger' after tepid box office",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-12/warner-bros-could-face-loss-of-at-least-150-million-on-digger-after-tepid-box-office",
-      "published": "Mon, 12 Oct 2026 22:48:42 GMT",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Ports of Los Angeles and Long Beach set records for busiest month ever",
-      "link": "https://www.latimes.com/business/story/2026-10-12/port-of-los-angeles-sets-record-for-busiest-month-ever",
-      "published": "Mon, 12 Oct 2026 21:21:11 GMT",
-      "sentiment": 0.06339285714285714
-    },
-    {
-      "title": "Netflix plans substantial layoffs, sources say",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-09/netflix-plans-substantial-layoffs-sources-say",
-      "published": "Fri, 9 Oct 2026 20:37:56 GMT",
-      "sentiment": 0.375
     }
   ]
 }
