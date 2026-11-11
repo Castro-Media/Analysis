@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+      "published": "Wed, 11 Nov 2026 14:45:10 +0000",
+      "sentiment": 0.1787878787878788
+    },
+    {
+      "title": "Missing Baby Is Rescued After Being Buried Alive in Dog Crate",
+      "link": "https://www.nytimes.com/2026/11/11/us/baby-buried-alive-south-carolina.html",
+      "published": "Wed, 11 Nov 2026 14:39:08 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "Michael McCloskey Has Died. He Helped Make the Sierra Club a Political Force.",
       "link": "https://www.nytimes.com/2026/11/11/us/michael-mccloskey-dead.html",
       "published": "Wed, 11 Nov 2026 12:13:43 +0000",
@@ -19,10 +31,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "Democrats Pulled in Moderates. Can They Hold On to Them?",
+      "title": "The Moderates Who Chose Democrats. For Now.",
       "link": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
-      "published": "Wed, 11 Nov 2026 13:52:05 +0000",
-      "sentiment": 0.12083333333333333
+      "published": "Wed, 11 Nov 2026 14:27:40 +0000",
+      "sentiment": 0.090625
     },
     {
       "title": "Honor and Anguish: A Veterans Day When the Losses Are New",
@@ -57,8 +69,8 @@
     {
       "title": "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
       "link": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
-      "published": "Wed, 11 Nov 2026 07:26:18 +0000",
-      "sentiment": -0.08
+      "published": "Wed, 11 Nov 2026 14:22:16 +0000",
+      "sentiment": 5.551115123125783e-18
     },
     {
       "title": "Bernie Sanders Opposes Schumer as Majority Leader",
@@ -81,7 +93,7 @@
     {
       "title": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
       "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
-      "published": "Wed, 11 Nov 2026 06:20:03 +0000",
+      "published": "Wed, 11 Nov 2026 14:30:06 +0000",
       "sentiment": 0.225
     },
     {
@@ -197,12 +209,6 @@
       "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
       "published": "Tue, 10 Nov 2026 15:09:50 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-      "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
-      "published": "Tue, 10 Nov 2026 15:30:06 +0000",
-      "sentiment": 0.4
     }
   ]
 }
