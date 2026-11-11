@@ -1,9 +1,21 @@
 {
   "entries": [
     {
-      "title": "The Fed Has to Raise Rates. How Fast To Go Has Officials Divided.",
+      "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
+      "link": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
+      "published": "Wed, 11 Nov 2026 13:40:36 +0000",
+      "sentiment": 0.07500000000000001
+    },
+    {
+      "title": "How GLP-1 Drugs and a Revamp Revived Ro’s Business",
+      "link": "https://www.nytimes.com/2026/11/11/business/dealbook/ro-revenue-glp1.html",
+      "published": "Wed, 11 Nov 2026 13:39:46 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
       "link": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
-      "published": "Wed, 11 Nov 2026 12:01:05 +0000",
+      "published": "Wed, 11 Nov 2026 13:40:22 +0000",
       "sentiment": 0.2
     },
     {
@@ -45,7 +57,7 @@
     {
       "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
       "link": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
-      "published": "Wed, 11 Nov 2026 02:10:37 +0000",
+      "published": "Wed, 11 Nov 2026 13:48:52 +0000",
       "sentiment": -0.04090909090909091
     },
     {
@@ -275,18 +287,6 @@
       "link": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
       "published": "Sun, 08 Nov 2026 15:39:13 +0000",
       "sentiment": 0.2555555555555556
-    },
-    {
-      "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
-      "link": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
-      "published": "Sun, 08 Nov 2026 17:03:40 +0000",
-      "sentiment": 0.55
-    },
-    {
-      "title": "Can My Company Force Me to Reveal My Personal Email Address?",
-      "link": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-      "published": "Mon, 09 Nov 2026 13:10:54 +0000",
-      "sentiment": 0.0
     }
   ]
 }
