@@ -1,16 +1,34 @@
 {
   "entries": [
     {
+      "title": "U.S. Army officer arrested in U.K. on suspicion of trying to steal secrets for Russia",
+      "link": "https://www.washingtonpost.com/world/2026/11/10/us-army-officer-arrested-uk-suspicion-trying-steal-secrets-russia/",
+      "published": "Wed, 11 Nov 2026 10:33:27 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "‘In Flanders Fields’: How a patriotic poem became an anti-war anthem",
+      "link": "https://www.washingtonpost.com/nation/2026/11/11/flanders-fields-how-patriotic-poem-became-an-anti-war-anthem/",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘It felt like an existential vote this time’: Why Palestinian Israeli turnout surged",
+      "link": "https://www.washingtonpost.com/world/2026/11/11/surge-voter-turnout-by-palestinian-israelis-boosts-long-sidelined-minority/",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Pope Leo returns to Peru, his adopted homeland",
+      "link": "https://www.washingtonpost.com/world/2026/11/11/pope-leo-returns-peru-his-adopted-homeland/",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.0625
+    },
+    {
       "title": "Israel’s newly elected parliament is already moving against Netanyahu",
       "link": "https://www.washingtonpost.com/world/2026/11/10/israels-newly-elected-parliament-is-already-moving-against-netanyahu/",
       "published": "Tue, 10 Nov 2026 23:36:13 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "U.S. Army officer arrested in U.K. on suspicion of trying to steal secrets for Russia",
-      "link": "https://www.washingtonpost.com/world/2026/11/10/us-army-officer-arrested-uk-suspicion-trying-steal-secrets-russia/",
-      "published": "Tue, 10 Nov 2026 21:17:33 +0000",
-      "sentiment": 0.05
     },
     {
       "title": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
@@ -89,12 +107,6 @@
       "link": "https://www.washingtonpost.com/world/2026/11/09/pope-leo-delivers-veiled-rebuke-austerity-measures-argentina/",
       "published": "Mon, 09 Nov 2026 11:27:20 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "The East German officials who accidentally brought down the Berlin Wall",
-      "link": "https://www.washingtonpost.com/nation/2026/11/09/two-east-german-officials-who-accidentally-brought-down-berlin-wall/",
-      "published": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "sentiment": -0.2518518518518518
     }
   ]
 }
