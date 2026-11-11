@@ -1,16 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Poised to Jump After CoreWeave Earnings",
+      "title": "Stock Market Today: Nasdaq Jumps After CoreWeave Earnings",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 08:21:53 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Daily Briefing: Telecom Distress Worsens as Debt and Competition Bite",
-      "link": "https://www.wsj.com/pro/bankruptcy/daily-briefing-telecom-distress-worsens-as-debt-and-competition-bite-180c5ff2?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 11:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Hospital Stocks Are Feeling Blue, in a Good Way",
@@ -41,6 +35,12 @@
       "link": "https://www.wsj.com/finance/regulation/sec-enforcement-penalties-fall-to-18-year-low-2aa5d9d3?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 22:51:00 GMT",
       "sentiment": -0.025
+    },
+    {
+      "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
+      "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 22:29:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
@@ -199,28 +199,28 @@
       "sentiment": 0.0
     },
     {
+      "title": "Crude Futures Pick Up After Heavy Selling",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 14:28:00 GMT",
+      "sentiment": -0.3
+    },
+    {
+      "title": "U.S. Natural Gas Futures Continue to Climb",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 14:15:00 GMT",
+      "sentiment": 0.24000000000000002
+    },
+    {
       "title": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
       "link": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 13:36:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "European TTF Gas Rises as Storage Withdrawals Accelerate",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 10:54:00 GMT",
-      "sentiment": 0.025
-    },
-    {
       "title": "Gold’s Outlook Remains Compelling in Long Term k",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-likely-technical-rebound-f73bdc8f?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 10:00:00 GMT",
       "sentiment": 0.07291666666666667
-    },
-    {
-      "title": "Oil Rebounds After Two-Day Drop on U.S.-Iran Conflict Uncertainty",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 09:07:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -289,12 +289,6 @@
       "sentiment": 0.03333333333333333
     },
     {
-      "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
-      "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 22:29:00 GMT",
-      "sentiment": 0.3
-    },
-    {
       "title": "Hot Inflation Revives Wall Street’s Rate Hike Fears",
       "link": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 21:30:00 GMT",
@@ -317,6 +311,12 @@
       "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 18:41:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
+      "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 17:54:00 GMT",
+      "sentiment": 0.19999999999999998
     },
     {
       "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
@@ -351,7 +351,7 @@
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+      "published": "Wed, 11 Nov 2026 14:13:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
