@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "title": "For peptide enthusiasts, a new HHS policy means party time",
-      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "What Nithya Raman's election means for the future of the LAPD",
-      "link": "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0028409090909090884
-    },
-    {
       "title": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
       "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
@@ -25,10 +13,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Nithya Raman's election sets up an intense showdown with the LAPD",
+      "link": "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.05284090909090909
+    },
+    {
       "title": "Black teachers say students call them the N-word. LAUSD vows to teach them not to",
       "link": "https://www.latimes.com/california/story/2026-11-11/black-teachers-n-word-lausd",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": -0.08257575757575758
+    },
+    {
+      "title": "Peptide parties, including one on a WWII ship, celebrate new fed policy",
+      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "'Only in L.A.' columnist Steve Harvey, chronicler of the amazing, amusing and absurd, dies at 80",
@@ -49,10 +49,10 @@
       "sentiment": 0.08333333333333333
     },
     {
-      "title": "Three dead, others injured in crash near North Hollywood Metro station",
+      "title": "Driver in deadly North Hollywood Metro station crash held on $6-million bail",
       "link": "https://www.latimes.com/california/story/2026-11-10/three-dead-in-crash-near-north-hollywood-metro-station",
       "published": "Wed, 11 Nov 2026 03:10:41 GMT",
-      "sentiment": -0.10000000000000002
+      "sentiment": -0.2
     },
     {
       "title": "'Princess pig.' Well-groomed, chubby porker found wandering SoCal streets",
@@ -169,10 +169,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
-      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
+      "title": "Beyoncé means business. At USC, MBA students will study her empire",
+      "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.35
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
@@ -181,10 +181,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "Beyoncé means business. At USC, MBA students will study her empire",
-      "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
+      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
+      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.13636363636363635
+      "sentiment": 0.35
     },
     {
       "title": "Voters approve Prop. 38 medical research bond measure",
@@ -253,16 +253,16 @@
       "sentiment": -0.05599999999999998
     },
     {
-      "title": "Backlash against Trump, ICE raids, high food prices fuels changing political tide in California heartland",
-      "link": "https://www.latimes.com/california/story/2026-11-09/valaldao-villegas-san-joaquin-valley-trump",
-      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.015000000000000006
-    },
-    {
       "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
       "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
       "published": "Mon, 9 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Backlash against Trump, ICE raids, high food prices fuels changing political tide in California heartland",
+      "link": "https://www.latimes.com/california/story/2026-11-09/valaldao-villegas-san-joaquin-valley-trump",
+      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.015000000000000006
     },
     {
       "title": "More than a dozen runners fall ill at Santa Barbara half-marathon",
@@ -295,6 +295,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
+      "link": "https://www.latimes.com/politics/story/2026-11-08/chad-bianco-confiscated-ballots-riverside-county-pay-out-of-pocket",
+      "published": "Sun, 8 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.3171428571428571
+    },
+    {
       "title": "Inside Nithya Raman's improbable campaign for L.A. mayor",
       "link": "https://www.latimes.com/california/story/2026-11-08/inside-nithya-ramans-improbable-campaign-for-la-mayor",
       "published": "Sun, 8 Nov 2026 11:00:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-08/bass-said-she-worked-well-with-others-but-key-allies-became-her-political-enemies",
       "published": "Sun, 8 Nov 2026 11:00:00 GMT",
       "sentiment": 0.13666666666666666
-    },
-    {
-      "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
-      "link": "https://www.latimes.com/politics/story/2026-11-08/chad-bianco-confiscated-ballots-riverside-county-pay-out-of-pocket",
-      "published": "Sun, 8 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3171428571428571
     },
     {
       "title": "Newsom appoints former aide convicted in domestic violence case to state commission",
@@ -337,16 +337,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "Lopez: L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?",
-      "link": "https://www.latimes.com/california/story/2026-11-07/can-raman-break-la-mayors-cycle-of-failure-on-homelessness",
-      "published": "Sat, 7 Nov 2026 13:00:00 GMT",
-      "sentiment": -0.17777777777777778
-    },
-    {
       "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
       "link": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
       "published": "Sat, 7 Nov 2026 13:00:00 GMT",
       "sentiment": 0.675
+    },
+    {
+      "title": "Lopez: L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?",
+      "link": "https://www.latimes.com/california/story/2026-11-07/can-raman-break-la-mayors-cycle-of-failure-on-homelessness",
+      "published": "Sat, 7 Nov 2026 13:00:00 GMT",
+      "sentiment": -0.17777777777777778
     },
     {
       "title": "Arellano: Forget Ohio as a bellwether. Look to Latinos to understand how Americans vote",

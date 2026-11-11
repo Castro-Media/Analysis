@@ -1,16 +1,28 @@
 {
   "entries": [
     {
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "published": "Wed, 11 Nov 2026 15:49:55 +0000",
+      "sentiment": 0.05000000000000001
+    },
+    {
+      "title": "Behind the Trump-Xi Bonhomie, a Fierce Spy War Rages",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+      "published": "Wed, 11 Nov 2026 14:57:07 +0000",
+      "sentiment": -0.13333333333333333
+    },
+    {
       "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
       "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
       "published": "Wed, 11 Nov 2026 05:00:21 +0000",
       "sentiment": 0.25
     },
     {
-      "title": "Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance",
+      "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
       "link": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
-      "published": "Wed, 11 Nov 2026 10:04:09 +0000",
-      "sentiment": 0.29375
+      "published": "Wed, 11 Nov 2026 15:10:05 +0000",
+      "sentiment": 0.33571428571428574
     },
     {
       "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
@@ -71,18 +83,6 @@
       "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
       "published": "Tue, 10 Nov 2026 14:15:54 +0000",
       "sentiment": -0.12000000000000002
-    },
-    {
-      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
-      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-      "published": "Tue, 10 Nov 2026 12:57:00 +0000",
-      "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
-      "published": "Tue, 10 Nov 2026 12:58:18 +0000",
-      "sentiment": -0.0625
     },
     {
       "title": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
@@ -157,6 +157,12 @@
       "sentiment": -0.13181818181818183
     },
     {
+      "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
+      "published": "Tue, 10 Nov 2026 12:58:18 +0000",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
       "published": "Tue, 10 Nov 2026 12:51:02 +0000",
@@ -185,6 +191,12 @@
       "link": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
       "published": "Tue, 10 Nov 2026 10:01:09 +0000",
       "sentiment": 0.17714285714285713
+    },
+    {
+      "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
+      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+      "published": "Tue, 10 Nov 2026 12:57:00 +0000",
+      "sentiment": 0.08333333333333333
     },
     {
       "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
@@ -323,18 +335,6 @@
       "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
       "published": "Mon, 09 Nov 2026 01:38:48 +0000",
       "sentiment": 0.12187499999999998
-    },
-    {
-      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
-      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
-      "published": "Sun, 08 Nov 2026 13:14:10 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-      "link": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-      "published": "Sun, 08 Nov 2026 05:01:11 +0000",
-      "sentiment": 0.0
     }
   ]
 }
