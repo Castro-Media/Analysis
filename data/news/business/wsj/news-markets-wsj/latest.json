@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Poised to Rise After CoreWeave Earnings",
+      "title": "Stock Market Today: Tech Stocks Poised to Jump After CoreWeave Earnings",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 08:21:53 GMT",
-      "sentiment": -0.1
+      "sentiment": 0.2
+    },
+    {
+      "title": "Hospital Stocks Are Feeling Blue, in a Good Way",
+      "link": "https://www.wsj.com/finance/stocks/hospital-stocks-are-feeling-blue-in-a-good-way-f4d73ed2?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 11:18:00 GMT",
+      "sentiment": 0.2333333333333333
     },
     {
       "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 22:29:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "Hot Inflation Revives Wall Street’s Rate Hike Fears",
-      "link": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 21:30:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
@@ -103,34 +103,34 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d1ea7fbd?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 12:49:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Nasdaq-Backed Payward Launches Tokenized Versions of European Stocks",
+      "link": "https://www.wsj.com/finance/stocks/payward-to-launch-tokenized-versions-of-u-k-european-stocks-ae35dc78?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 11:57:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Asia’s Market Meltdown Traps Some Traders",
+      "link": "https://www.wsj.com/finance/investing/asias-market-meltdown-traps-some-traders-bb89db4a?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 11:34:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "About Your Next Board Meeting",
+      "link": "https://www.wsj.com/articles/about-your-next-board-meeting-55f0ff0a?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "KKR, Germany’s RWE Invest $16 Billion in U.K. Wind-Power Projects",
       "link": "https://www.wsj.com/business/deals/rwe-kkr-join-forces-on-16-billion-of-u-k-wind-power-projects-4b489bce?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 08:44:00 GMT",
       "sentiment": -0.4
-    },
-    {
-      "title": "Payward to Launch Tokenized Versions of U.K., European Stocks",
-      "link": "https://www.wsj.com/finance/stocks/payward-to-launch-tokenized-versions-of-u-k-european-stocks-ae35dc78?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 08:15:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "U.S. Treasurys Pause on Market Holiday After Inflation-Fueled Selloff",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasurys-pause-on-market-holiday-after-inflation-fueled-selloff-7ff76731?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 07:58:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-a3b73811?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 22:09:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-eeb0108f?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 22:06:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism",
@@ -217,22 +217,22 @@
       "sentiment": 0.25
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-eeb0108f?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 22:06:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "U.S. Natural Gas Extends Gains on Coming Cold Spell",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-gains-274c489d?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 20:53:00 GMT",
       "sentiment": -0.15
     },
     {
-      "title": "Oil Futures Settle Lower as Talks Remain in Focus",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-u-s-iran-conflict-risks-ease-32fa5d4f?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 20:52:00 GMT",
-      "sentiment": -0.07142857142857142
-    },
-    {
-      "title": "Dollar Rises to Four-Week High, Further Gains Subject to Stronger Pricing of 50Bp Fed Hike",
+      "title": "Dollar’s Strength Could Persist on U.S. Rate-Rise Prospects",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-soften-after-u-s-cpi-data-boosts-dollar-26f03632?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 09:55:00 GMT",
-      "sentiment": 0.10761904761904761
+      "published": "Wed, 11 Nov 2026 12:35:00 GMT",
+      "sentiment": 0.132
     },
     {
       "title": "WSJ Dollar Index Rises 0.49% to 97.54",
@@ -289,6 +289,12 @@
       "sentiment": 0.03333333333333333
     },
     {
+      "title": "Hot Inflation Revives Wall Street’s Rate Hike Fears",
+      "link": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main",
+      "published": "Tue, 10 Nov 2026 21:30:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Google Agrees to Privacy in Spirit Airlines Data Sale",
       "link": "https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 21:22:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 17:54:00 GMT",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "I’m Always Wrong About Gold. You Probably Are, Too.",
-      "link": "https://www.wsj.com/finance/investing/im-always-wrong-about-gold-you-probably-are-too-2c6ac551?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 15:55:00 GMT",
-      "sentiment": -0.40625
     },
     {
       "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
