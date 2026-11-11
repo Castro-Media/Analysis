@@ -1,22 +1,22 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Jumps After CoreWeave Earnings",
+      "title": "Stock Market Today: CoreWeave Shares Jump 25%, Re-Energizing the AI Trade",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 08:21:53 GMT",
-      "sentiment": 0.2
+      "sentiment": 0.5
+    },
+    {
+      "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now",
+      "link": "https://www.wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 17:45:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Hospital Stocks Are Feeling Blue, in a Good Way",
       "link": "https://www.wsj.com/finance/stocks/hospital-stocks-are-feeling-blue-in-a-good-way-f4d73ed2?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 11:18:00 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now",
-      "link": "https://www.wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
@@ -103,10 +103,28 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-ab29df4c?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 17:31:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-4e16c46c?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 17:24:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d1ea7fbd?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 12:49:00 GMT",
+      "published": "Wed, 11 Nov 2026 17:23:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "NYSE Affiliate to Launch 24/7 Tokenized Stock Trading This Month",
+      "link": "https://www.wsj.com/finance/investing/nyse-affiliate-to-launch-24-7-tokenized-stock-trading-this-month-b3f0843a?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 17:03:00 GMT",
+      "sentiment": 0.3333333333333333
     },
     {
       "title": "Nasdaq-Backed Payward Launches Tokenized Versions of European Stocks",
@@ -115,28 +133,16 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Asia’s Market Meltdown Traps Some Traders",
-      "link": "https://www.wsj.com/finance/investing/asias-market-meltdown-traps-some-traders-bb89db4a?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 11:34:00 GMT",
-      "sentiment": 0.75
-    },
-    {
-      "title": "About Your Next Board Meeting",
-      "link": "https://www.wsj.com/articles/about-your-next-board-meeting-55f0ff0a?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "KKR, Germany’s RWE Invest $16 Billion in U.K. Wind-Power Projects",
-      "link": "https://www.wsj.com/business/deals/rwe-kkr-join-forces-on-16-billion-of-u-k-wind-power-projects-4b489bce?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 08:44:00 GMT",
-      "sentiment": -0.4
+      "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "link": "https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 18:47:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Nasdaq Jumps After CoreWeave Earnings",
       "link": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 15:06:00 GMT",
-      "sentiment": 0.0
+      "published": "Wed, 11 Nov 2026 17:14:00 GMT",
+      "sentiment": 0.6
     },
     {
       "title": "European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?mod=rss_markets_main",
       "published": "Tue, 10 Nov 2026 21:56:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "U.S. Stocks Slip on Inflation, AI Worries",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slip-on-inflation-ai-worries-feb790bc?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 21:54:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Opinion | Building Wealth Requires More Than Charity",
