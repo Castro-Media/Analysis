@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Court rejects Virginia couple's claim over highway expansion near their home",
+      "link": "https://timesofindia.indiatimes.com/world/us/virginia-paid-29700-for-a-temporary-1458-square-foot-easement-behind-a-couples-home-their-expert-claimed-a-highway-expansion-caused-almost-500000-in-losses-but-an-appeals-court-rejected-that-claim/articleshow/135761881.cms",
+      "published": "2026-11-12T15:52:00+05:30",
+      "sentiment": 0.05
+    },
+    {
+      "title": "15-year-old Canadian hockey player reaches $50,000 cancer treatment fundraising goal",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-15-year-old-canadian-hockey-player-facing-treatment-for-a-rare-cancer-has-received-community-support-with-a-50000-fundraising-target-reached-as-his-family-seeks-specialist-care-in-the-us/articleshow/135763838.cms",
+      "published": "2026-11-12T15:50:00+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Meet 'Popeye': Pablo Escobar's hitman who claimed involvement in 3,000 killings before becoming a YouTuber",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-jhon-jairo-popeye-velsquez-pablo-escobars-hitman-who-helped-coordinate-3000-killings-before-becoming-a-famous-colombian-youtuber-recounting-his-days-in-the-medelln-cartel/articleshow/135763123.cms",
+      "published": "2026-11-12T14:56:22+05:30",
+      "sentiment": -0.15666666666666668
+    },
+    {
+      "title": "Indian-origin trucker Ranjit Singh found guilty of smuggling 40kg cocaine worth $4.8m into Canada",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-trucker-ranjit-singh-found-guilty-of-smuggling-40kg-cocaine-worth-4-8m-into-canada/articleshow/135763922.cms",
+      "published": "2026-11-12T15:21:09+05:30",
+      "sentiment": -0.06666666666666667
+    },
+    {
       "title": "Capital Murder Conviction: Yella Beezy gets life without parole; associate also sentenced",
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/yella-beezy-found-guilty-of-hiring-gunman-to-kill-rapper-mo3/articleshow/135763669.cms",
       "published": "2026-11-12T15:18:34+05:30",
@@ -17,12 +41,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/us-closes-a-4-kilometre-road-twice-a-year-as-thousands-of-snakes-including-venomous-rattlesnakes-and-cottonmouths-migrate-between-a-swamp-and-limestone-cliffs-with-changing-temperatures/articleshow/135762101.cms",
       "published": "2026-11-12T14:40:00+05:30",
       "sentiment": 0.0
-    },
-    {
-      "title": "Meet 'Popeye': Pablo Escobar's hitman who claimed involvement in 3,000 killings before becoming a YouTuber",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-jhon-jairo-popeye-velsquez-pablo-escobars-hitman-who-helped-coordinate-3000-killings-before-becoming-a-famous-colombian-youtuber-recounting-his-days-in-the-medelln-cartel/articleshow/135763123.cms",
-      "published": "2026-11-12T14:56:22+05:30",
-      "sentiment": -0.15666666666666668
     },
     {
       "title": "Bathroom leak floods Frontier flight, forces emergency landing in Chicago",
@@ -85,6 +103,12 @@
       "sentiment": 0.058779761904761904
     },
     {
+      "title": "Shannen Doherty's estate gets half equity in $1.5M Texas home settlement",
+      "link": "https://timesofindia.indiatimes.com/world/us/shannen-dohertys-ex-husband-agreed-to-give-her-estate-half-the-equity-in-their-1-5-million-texas-home-the-settlement-also-involved-an-aeroplane-photographs-and-furniture/articleshow/135758880.cms",
+      "published": "2026-11-12T15:50:00+05:30",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "Vermont House Election: Menon wins seat with backing from both parties; focuses on rural issues",
       "link": "https://timesofindia.indiatimes.com/world/us/india-born-praneet-menon-wins-vermont-state-house-seat-in-us-election/articleshow/135755456.cms",
       "published": "2026-11-12T12:10:50+05:30",
@@ -95,30 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/south-asia/10-killed-as-passenger-vehicle-plunges-500-metres-down-slope-in-nepal/articleshow/135758559.cms",
       "published": "2026-11-12T12:07:39+05:30",
       "sentiment": -0.11851851851851852
-    },
-    {
-      "title": "Rejected by his mother, bullied by older monkeys and raised with a stuffed toy, Punch is now showing a softer side",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/rejected-by-his-mother-bullied-by-older-monkeys-and-raised-with-a-stuffed-toy-punch-is-now-showing-a-softer-side-of-care-towards-a-younger-macaque/articleshow/135755869.cms",
-      "published": "2026-11-12T12:00:00+05:30",
-      "sentiment": 0.09523809523809523
-    },
-    {
-      "title": "Ariana Grande's former Wicked-era London penthouse listed for £16.95 million",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/ariana-grandes-former-london-penthouse-is-on-sale-for-16-95-million-singer-stayed-in-the-luxury-residence-while-filming-wicked/articleshow/135748841.cms",
-      "published": "2026-11-12T12:01:23+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Court orders Canadian homebuyer to forfeit $70,000 deposit and pay $35,000",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/canadian-homebuyer-loses-her-entire-70000-deposit-after-backing-out-of-a-1-388-million-vaughan-property-deal-over-mortgage-trouble-court-also-orders-her-to-pay-sellers-35000/articleshow/135756979.cms",
-      "published": "2026-11-12T11:11:51+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The doctor who operated on himself: How Soviet surgeon Leonid Rogozov removed his own appendix in Antarctica",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1961-soviet-doctor-leonid-rogozov-27-was-the-only-physician-at-a-remote-antarctic-station-when-his-appendix-became-inflamed-with-no-way-out-he-removed-his-own-appendix-in-a-surgery-lasting-nearly-two-hours/articleshow/135754519.cms",
-      "published": "2026-11-12T11:00:00+05:30",
-      "sentiment": 0.2244047619047619
     }
   ]
 }
