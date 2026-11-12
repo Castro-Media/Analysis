@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
+      "published": "Thu, 12 Nov 2026 06:52:25 +0000",
+      "sentiment": 0.35
+    },
+    {
+      "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+      "published": "Thu, 12 Nov 2026 05:01:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Indonesia’s Vice President, Gibran, Resigns",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+      "published": "Thu, 12 Nov 2026 07:04:02 +0000",
+      "sentiment": -0.07777777777777778
+    },
+    {
       "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
       "published": "Wed, 11 Nov 2026 18:02:52 +0000",
@@ -57,7 +75,7 @@
     {
       "title": "This Defense Makes Drones (and GPS) Think They’re in Peru",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
-      "published": "Wed, 11 Nov 2026 21:20:06 +0000",
+      "published": "Thu, 12 Nov 2026 08:25:07 +0000",
       "sentiment": 0.0
     },
     {
@@ -67,45 +85,9 @@
       "sentiment": 0.20555555555555557
     },
     {
-      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-      "published": "Thu, 12 Nov 2026 03:07:34 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
-      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
-      "published": "Tue, 10 Nov 2026 16:23:18 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
-      "published": "Tue, 10 Nov 2026 20:53:41 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Indonesia’s Vice President, Gibran, Resigns",
-      "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
-      "published": "Thu, 12 Nov 2026 07:04:01 +0000",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-      "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
-      "published": "Thu, 12 Nov 2026 06:52:24 +0000",
-      "sentiment": 0.35
-    },
-    {
-      "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
-      "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
-      "published": "Thu, 12 Nov 2026 05:01:11 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-      "published": "Thu, 12 Nov 2026 06:20:57 +0000",
+      "published": "Thu, 12 Nov 2026 08:23:37 +0000",
       "sentiment": -0.25
     },
     {
@@ -157,10 +139,22 @@
       "sentiment": 0.07500000000000001
     },
     {
+      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+      "published": "Thu, 12 Nov 2026 03:07:34 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "Rubio Says ‘Major Combat Operations’ in Iran War Are No Longer Needed",
       "link": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
       "published": "Tue, 10 Nov 2026 19:33:48 +0000",
       "sentiment": 0.08750000000000001
+    },
+    {
+      "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
+      "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+      "published": "Tue, 10 Nov 2026 20:53:41 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "In Interview, Sonia Gandhi Recalls Love and Loss in India",
@@ -203,6 +197,12 @@
       "link": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
       "published": "Tue, 10 Nov 2026 14:22:53 +0000",
       "sentiment": -0.10277777777777777
+    },
+    {
+      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+      "published": "Tue, 10 Nov 2026 16:23:18 +0000",
+      "sentiment": 0.4
     },
     {
       "title": "Who Is David Walliams, the UK Entertainer Accused of Sexual Misconduct?",
