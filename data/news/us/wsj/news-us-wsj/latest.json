@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Eight People Dead and 18 Injured in Brooklyn Building Collapse",
+      "link": "https://www.wsj.com/us-news/eight-people-killed-and-17-injured-in-brooklyn-building-collapse-811b5e8d?mod=rss_usnews",
+      "published": "Thu, 12 Nov 2026 22:48:00 GMT",
+      "sentiment": -0.08787878787878789
+    },
+    {
+      "title": "Nvidia Starts Search for Next CEO",
+      "link": "https://www.wsj.com/business/nvidia-starts-search-for-next-ceo-4fe0a873?mod=rss_usnews",
+      "published": "Thu, 12 Nov 2026 22:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
       "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_usnews",
       "published": "Thu, 12 Nov 2026 21:40:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Eight People Dead and 18 Injured in Brooklyn Building Collapse",
-      "link": "https://www.wsj.com/us-news/eight-people-killed-and-17-injured-in-brooklyn-building-collapse-811b5e8d?mod=rss_usnews",
-      "published": "Thu, 12 Nov 2026 19:57:00 GMT",
-      "sentiment": -0.08787878787878789
     },
     {
       "title": "One Person Is Killed and Four Are Injured in D.C. Shooting",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/furniture-maker-us-tariffs-jobs-vietnam-345d77fe?mod=rss_usnews",
       "published": "Wed, 11 Nov 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
-      "link": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_usnews",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "sentiment": -0.06272727272727273
     },
     {
       "title": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -127,6 +127,24 @@
       "sentiment": -0.05
     },
     {
+      "title": "Opinion | An EV Mandate for Disneyland",
+      "link": "https://www.wsj.com/opinion/california-autopia-electric-vehicles-disney-9ce69eb0?mod=rss_usnews",
+      "published": "Thu, 12 Nov 2026 22:52:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Jensen Huang Is a White House Scandal",
+      "link": "https://www.wsj.com/opinion/jensen-huang-is-a-white-house-scandal-9c2136a1?mod=rss_usnews",
+      "published": "Thu, 12 Nov 2026 22:43:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Jim Jordan’s MIGA Moment",
+      "link": "https://www.wsj.com/opinion/jim-jordans-miga-moment-3d29107f?mod=rss_usnews",
+      "published": "Thu, 12 Nov 2026 22:11:00 GMT",
+      "sentiment": 0.21103896103896103
+    },
+    {
       "title": "Opinion | Cyberattacks Are Coming for Us All",
       "link": "https://www.wsj.com/opinion/cyberattacks-are-coming-for-us-all-b19b46d4?mod=rss_usnews",
       "published": "Thu, 12 Nov 2026 20:56:00 GMT",
@@ -145,22 +163,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | A GOP House of Ideas, or Hacks",
-      "link": "https://www.wsj.com/opinion/jim-jordan-house-gop-leader-republicans-congress-ea5226bf?mod=rss_usnews",
-      "published": "Wed, 11 Nov 2026 22:46:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Opinion | Iran’s Assassins Are on the Loose",
-      "link": "https://www.wsj.com/opinion/iran-assassins-irgc-scott-bessent-john-bolton-1df4ef62?mod=rss_usnews",
-      "published": "Wed, 11 Nov 2026 22:42:00 GMT",
-      "sentiment": 0.21153846153846154
-    },
-    {
-      "title": "Opinion | Making Up for Lost Time on Judges",
-      "link": "https://www.wsj.com/opinion/judicial-nominations-donald-trump-congress-federal-judges-2bd600b6?mod=rss_usnews",
-      "published": "Wed, 11 Nov 2026 22:39:00 GMT",
-      "sentiment": 0.25
+      "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
+      "link": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_usnews",
+      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "sentiment": -0.06272727272727273
     },
     {
       "title": "Court Orders NYC to Give Names of Shelter Residents to ICE",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/us-news/law/how-a-former-democrat-became-trumps-bulldog-at-the-justice-department-75bd2f37?mod=rss_usnews",
       "published": "Sun, 08 Nov 2026 17:00:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Meghan Markle’s Father Arrested on Charges Related to Child Sexual Abuse Materials",
-      "link": "https://www.wsj.com/us-news/meghan-markles-father-arrested-on-charges-related-to-child-sexual-abuse-materials-90c2080f?mod=rss_usnews",
-      "published": "Fri, 06 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "The Parents Suing Schools Because Their Kids Got Bad Grades",
