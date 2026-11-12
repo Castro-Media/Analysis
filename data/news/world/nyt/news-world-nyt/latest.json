@@ -15,7 +15,7 @@
     {
       "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
       "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
-      "published": "Thu, 12 Nov 2026 09:45:46 +0000",
+      "published": "Thu, 12 Nov 2026 09:45:47 +0000",
       "sentiment": 0.05
     },
     {
@@ -23,6 +23,12 @@
       "link": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
       "published": "Thu, 12 Nov 2026 09:31:34 +0000",
       "sentiment": -0.0625
+    },
+    {
+      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+      "published": "Thu, 12 Nov 2026 10:59:13 +0000",
+      "sentiment": -0.025
     },
     {
       "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
@@ -79,12 +85,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
-      "link": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
-      "published": "Wed, 11 Nov 2026 15:10:05 +0000",
-      "sentiment": 0.33571428571428574
-    },
-    {
       "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
       "published": "Thu, 12 Nov 2026 10:08:56 +0000",
@@ -119,6 +119,12 @@
       "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
       "published": "Wed, 11 Nov 2026 21:14:47 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
+      "link": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+      "published": "Wed, 11 Nov 2026 15:10:05 +0000",
+      "sentiment": 0.33571428571428574
     },
     {
       "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
@@ -335,12 +341,6 @@
       "link": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
       "published": "Wed, 11 Nov 2026 12:21:43 +0000",
       "sentiment": 0.3125
-    },
-    {
-      "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
-      "link": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
-      "published": "Mon, 09 Nov 2026 21:26:15 +0000",
-      "sentiment": 0.3
     }
   ]
 }
