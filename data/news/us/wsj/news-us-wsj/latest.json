@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Multiple People Shot in Washington, D.C.",
+      "link": "https://www.wsj.com/us-news/multiple-people-shot-in-washington-d-c-08db1e98?mod=rss_usnews",
+      "published": "Thu, 12 Nov 2026 14:54:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Eight People Killed and 17 Injured in Brooklyn Building Collapse",
       "link": "https://www.wsj.com/us-news/eight-people-killed-and-17-injured-in-brooklyn-building-collapse-811b5e8d?mod=rss_usnews",
-      "published": "Thu, 12 Nov 2026 13:37:00 GMT",
+      "published": "Thu, 12 Nov 2026 14:39:00 GMT",
       "sentiment": 0.14545454545454545
     },
     {
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/education/the-parents-suing-schools-because-their-kids-got-bad-grades-c6c12415?mod=rss_usnews",
       "published": "Tue, 10 Nov 2026 00:00:00 GMT",
       "sentiment": -0.6999999999999998
-    },
-    {
-      "title": "Supreme Court Lets Trump Administration Build Border Wall in Big Bend",
-      "link": "https://www.wsj.com/us-news/law/trump-border-wall-big-bend-scotus-2ae1419e?mod=rss_usnews",
-      "published": "Mon, 09 Nov 2026 21:52:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus",
@@ -85,16 +85,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Supreme Court Lets Trump Administration Build Border Wall in Big Bend",
+      "link": "https://www.wsj.com/us-news/law/trump-border-wall-big-bend-scotus-2ae1419e?mod=rss_usnews",
+      "published": "Mon, 09 Nov 2026 21:52:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Court Orders NYC to Give Names of Shelter Residents to ICE",
       "link": "https://www.wsj.com/us-news/law/court-orders-nyc-to-give-names-of-shelter-residents-to-ice-da9f9dfc?mod=rss_usnews",
       "published": "Mon, 09 Nov 2026 18:50:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "How a Former Democrat Became Trump’s Bulldog at the Justice Department",
-      "link": "https://www.wsj.com/us-news/law/how-a-former-democrat-became-trumps-bulldog-at-the-justice-department-75bd2f37?mod=rss_usnews",
-      "published": "Sun, 08 Nov 2026 17:00:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
@@ -175,6 +175,12 @@
       "sentiment": 0.08
     },
     {
+      "title": "How a Former Democrat Became Trump’s Bulldog at the Justice Department",
+      "link": "https://www.wsj.com/us-news/law/how-a-former-democrat-became-trumps-bulldog-at-the-justice-department-75bd2f37?mod=rss_usnews",
+      "published": "Sun, 08 Nov 2026 17:00:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Meghan Markle’s Father Arrested on Charges Related to Child Sexual Abuse Materials",
       "link": "https://www.wsj.com/us-news/meghan-markles-father-arrested-on-charges-related-to-child-sexual-abuse-materials-90c2080f?mod=rss_usnews",
       "published": "Fri, 06 Nov 2026 21:58:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/us-news/saudi-national-accused-of-bugging-openais-office-pleads-not-guilty-afb7069a?mod=rss_usnews",
       "published": "Fri, 06 Nov 2026 19:54:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Federal Judge Temporarily Blocks Construction of Trump’s 250-Foot Arch",
-      "link": "https://www.wsj.com/us-news/law/federal-judge-temporarily-blocks-construction-of-trumps-250-foot-arch-fb1dd257?mod=rss_usnews",
-      "published": "Fri, 06 Nov 2026 05:59:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -211,15 +211,15 @@
       "sentiment": 0.1875
     },
     {
-      "title": "Colleges Struggle to Stop ‘Melt’: Students Who Commit, Then Don’t Show Up",
-      "link": "https://www.wsj.com/us-news/education/colleges-struggle-to-stop-melt-students-who-commit-then-dont-show-up-e80d4263?mod=rss_usnews",
-      "published": "Fri, 06 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "‘The Ass-Kicking We Needed’: A Loss in GOP Heartland Exposes a Party in Pieces",
       "link": "https://www.wsj.com/politics/elections/republican-election-south-carolina-andrews-948169ec?mod=rss_usnews",
       "published": "Thu, 12 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Colleges Struggle to Stop ‘Melt’: Students Who Commit, Then Don’t Show Up",
+      "link": "https://www.wsj.com/us-news/education/colleges-struggle-to-stop-melt-students-who-commit-then-dont-show-up-e80d4263?mod=rss_usnews",
+      "published": "Fri, 06 Nov 2026 10:30:00 GMT",
       "sentiment": 0.0
     },
     {
