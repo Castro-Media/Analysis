@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Beijing Is Trying to Build a Chinese Rival for Insuring World Shipping",
+      "link": "https://www.wsj.com/business/logistics/beijing-is-trying-to-build-a-chinese-rival-for-insuring-world-shipping-eaf8ccdb?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 17:43:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
+      "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 17:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Jensen Huang Has Been Ousted as Nvidia CEO",
       "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 16:09:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 14:37:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Nvidia Board Must Craft Epic Job Description for New CEO",
-      "link": "https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 14:37:00 GMT",
-      "sentiment": 0.24545454545454545
-    },
-    {
-      "title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible.",
-      "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-departs-bef1b4bb?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 14:36:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Metro Bank Hangs Up ‘For Sale’ Sign",
@@ -97,6 +97,18 @@
       "sentiment": 0.04545454545454545
     },
     {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1f3d97b8?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 17:26:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ad1995c1?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 17:25:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Spain’s ACS Expects Data-Center Build-Out to Boost Revenue, Profit Through 2030",
       "link": "https://www.wsj.com/business/spains-acs-expects-data-center-build-out-to-boost-revenue-profit-through-2030-dbb8a3a5?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 13:47:00 GMT",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/chinas-smic-doubles-profit-posts-record-revenue-on-ai-spillover-effects-0606debc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 11:31:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Hapag-Lloyd Vows to Keep Managing Costs Despite Boost From Freight Rates",
-      "link": "https://www.wsj.com/business/logistics/hapag-lloyd-vows-to-keep-managing-costs-despite-boost-from-freight-rates-1b584ac5?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 09:28:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "BAE Systems Lifts Cash Flow Guidance Again as Defense Spending Fuels Orders",
-      "link": "https://www.wsj.com/business/earnings/bae-systems-lifts-cash-flow-guidance-again-as-defense-spending-fuels-orders-50b290e3?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 08:12:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Seven Lessons From WSJ Readers About Switching to an EV",
@@ -355,6 +355,12 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Hapag-Lloyd Vows to Keep Managing Costs Despite Boost From Freight Rates",
+      "link": "https://www.wsj.com/business/logistics/hapag-lloyd-vows-to-keep-managing-costs-despite-boost-from-freight-rates-1b584ac5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 09:28:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Russian-Diesel Plan Founders as U.S.-Bound Tankers Change Course",
       "link": "https://www.wsj.com/logistics-report/russian-diesel-plan-founders-as-u-s-bound-tankers-change-course-4d4dc8b9?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 11:55:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/business/logistics/hapag-lloyd-raises-guidance-again-on-strong-freight-rates-d74c8067?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 10:10:00 GMT",
       "sentiment": 0.3583333333333333
-    },
-    {
-      "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
-      "link": "https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 09:34:00 GMT",
-      "sentiment": 0.082
     },
     {
       "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
@@ -433,10 +433,16 @@
       "sentiment": 0.15
     },
     {
-      "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
-      "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 14:32:00 GMT",
-      "sentiment": 0.0
+      "title": "Nvidia Board Must Craft Epic Job Description for New CEO",
+      "link": "https://www.wsj.com/cio-journal/nvidia-board-must-craft-epic-job-description-for-new-ceo-cfdafeeb?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 14:37:00 GMT",
+      "sentiment": 0.24545454545454545
+    },
+    {
+      "title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible.",
+      "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-departs-bef1b4bb?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 14:36:00 GMT",
+      "sentiment": 0.0625
     },
     {
       "title": "The Morning Risk Report: Nvidia is Preparing to Oust CEO Jensen Huang",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/articles/party-fractures-and-voter-anger-topple-republicans-in-a-conservative-bastion-d8b0bac1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 10:53:00 GMT",
       "sentiment": -0.20555555555555552
-    },
-    {
-      "title": "Top Democrats Target Trump Administration’s Nvidia-China Records",
-      "link": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
@@ -487,10 +487,10 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "Why High Beef Prices Are Here to Stay",
-      "link": "https://www.wsj.com/business/high-beef-prices-here-to-stay-004f9119?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.16
+      "title": "Companies Dole Out Mega Paydays and Luxury Trips to Compete for AI Talent",
+      "link": "https://www.wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.10714285714285714
     },
     {
       "title": "Best Small-Business Loans in November 2026",
