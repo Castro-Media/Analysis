@@ -1,12 +1,6 @@
 {
   "entries": [
     {
-      "title": "How China created a spy network in California. 'They will try anything'",
-      "link": "https://www.latimes.com/california/story/2026-11-12/how-china-created-spy-network-in-california-they-will-try-anything",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
-    },
-    {
       "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
       "link": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
@@ -73,14 +67,8 @@
       "sentiment": -0.08257575757575758
     },
     {
-      "title": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
-      "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
-      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
+      "title": "Inside the world of San Francisco 'peptide parties' — including one aboard a World War II ship",
+      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
@@ -91,10 +79,16 @@
       "sentiment": 0.05284090909090909
     },
     {
-      "title": "Inside the world of San Francisco 'peptide parties' — including one aboard a World War II ship",
-      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
+      "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
+      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
+      "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "'Only in L.A.' columnist Steve Harvey, chronicler of the amazing, amusing and absurd, dies at 80",
@@ -223,22 +217,22 @@
       "sentiment": 0.025
     },
     {
-      "title": "Shasta County measure that sought to eliminate most mail-in voting violates state law, judge rules",
-      "link": "https://www.latimes.com/california/story/2026-11-10/shasta-county-mail-in-voting-measure-violates-state-law-judge-rules",
-      "published": "Tue, 10 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "San Diego school officials push back after Haitian boy, 8, is taken during ICE check-in",
       "link": "https://www.latimes.com/california/story/2026-11-10/san-diego-school-officials-push-back-after-haitian-boy-8-is-taken-during-ice-check-in",
       "published": "Tue, 10 Nov 2026 13:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
-      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
+      "title": "Shasta County measure that sought to eliminate most mail-in voting violates state law, judge rules",
+      "link": "https://www.latimes.com/california/story/2026-11-10/shasta-county-mail-in-voting-measure-violates-state-law-judge-rules",
+      "published": "Tue, 10 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Beyoncé means business. At USC, MBA students will study her empire",
+      "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.35
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
@@ -247,10 +241,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "Beyoncé means business. At USC, MBA students will study her empire",
-      "link": "https://www.latimes.com/california/story/2026-11-10/usc-beyonce-mba-course-entertainment-business",
+      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
+      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.13636363636363635
+      "sentiment": 0.35
     },
     {
       "title": "Voters approve Prop. 38 medical research bond measure",
@@ -361,6 +355,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
+      "link": "https://www.latimes.com/politics/story/2026-11-08/chad-bianco-confiscated-ballots-riverside-county-pay-out-of-pocket",
+      "published": "Sun, 8 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.3171428571428571
+    },
+    {
       "title": "Inside Nithya Raman's improbable campaign for L.A. mayor",
       "link": "https://www.latimes.com/california/story/2026-11-08/inside-nithya-ramans-improbable-campaign-for-la-mayor",
       "published": "Sun, 8 Nov 2026 11:00:00 GMT",
@@ -371,12 +371,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-08/bass-said-she-worked-well-with-others-but-key-allies-became-her-political-enemies",
       "published": "Sun, 8 Nov 2026 11:00:00 GMT",
       "sentiment": 0.13666666666666666
-    },
-    {
-      "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
-      "link": "https://www.latimes.com/politics/story/2026-11-08/chad-bianco-confiscated-ballots-riverside-county-pay-out-of-pocket",
-      "published": "Sun, 8 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3171428571428571
     },
     {
       "title": "Newsom appoints former aide convicted in domestic violence case to state commission",
@@ -403,16 +397,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "Lopez: L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?",
-      "link": "https://www.latimes.com/california/story/2026-11-07/can-raman-break-la-mayors-cycle-of-failure-on-homelessness",
-      "published": "Sat, 7 Nov 2026 13:00:00 GMT",
-      "sentiment": -0.17777777777777778
-    },
-    {
       "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
       "link": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
       "published": "Sat, 7 Nov 2026 13:00:00 GMT",
       "sentiment": 0.675
+    },
+    {
+      "title": "Lopez: L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?",
+      "link": "https://www.latimes.com/california/story/2026-11-07/can-raman-break-la-mayors-cycle-of-failure-on-homelessness",
+      "published": "Sat, 7 Nov 2026 13:00:00 GMT",
+      "sentiment": -0.17777777777777778
     },
     {
       "title": "Arellano: Forget Ohio as a bellwether. Look to Latinos to understand how Americans vote",
