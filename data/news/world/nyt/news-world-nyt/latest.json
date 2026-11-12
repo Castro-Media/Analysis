@@ -7,10 +7,22 @@
       "sentiment": 0.35
     },
     {
+      "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+      "published": "Thu, 12 Nov 2026 09:45:46 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
       "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
       "published": "Thu, 12 Nov 2026 05:01:11 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "In China’s Spy Operations, Romance Can Be a Long Game",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
+      "published": "Thu, 12 Nov 2026 09:31:33 +0000",
+      "sentiment": -0.0625
     },
     {
       "title": "Indonesia’s Vice President, Gibran, Resigns",
@@ -73,18 +85,6 @@
       "sentiment": 0.09999999999999999
     },
     {
-      "title": "This Defense Makes Drones (and GPS) Think They’re in Peru",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
-      "published": "Thu, 12 Nov 2026 08:25:07 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
-      "published": "Wed, 11 Nov 2026 10:03:50 +0000",
-      "sentiment": 0.20555555555555557
-    },
-    {
       "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
       "published": "Thu, 12 Nov 2026 08:23:37 +0000",
@@ -118,6 +118,18 @@
       "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
       "published": "Wed, 11 Nov 2026 21:14:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
+      "published": "Wed, 11 Nov 2026 10:03:50 +0000",
+      "sentiment": 0.20555555555555557
+    },
+    {
+      "title": "This Defense Makes Drones (and GPS) Think They’re in Peru",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
+      "published": "Thu, 12 Nov 2026 08:25:07 +0000",
       "sentiment": 0.0
     },
     {
@@ -329,12 +341,6 @@
       "link": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
       "published": "Mon, 09 Nov 2026 21:54:46 +0000",
       "sentiment": -0.125
-    },
-    {
-      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
-      "published": "Tue, 10 Nov 2026 03:39:35 +0000",
-      "sentiment": 0.0
     }
   ]
 }
