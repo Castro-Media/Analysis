@@ -7,6 +7,12 @@
       "sentiment": 0.1590909090909091
     },
     {
+      "title": "Another Winner From the Midterms: Crusaders Against Insurance Companies",
+      "link": "https://www.wsj.com/finance/another-winner-from-the-midterms-crusaders-against-insurance-companies-36adf244?mod=rss_markets_main",
+      "published": "Thu, 12 Nov 2026 18:52:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
       "link": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 17:43:00 GMT",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 01:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
-      "link": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 21:58:00 GMT",
-      "sentiment": -0.004761904761904753
     },
     {
       "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now",
@@ -157,10 +157,10 @@
       "sentiment": 0.3
     },
     {
-      "title": "CoreWeave Jumps, Boosting the AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/coreweave-jumps-boosting-the-ai-trade-e5c1569b?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 21:17:00 GMT",
-      "sentiment": 0.0
+      "title": "Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
+      "link": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 21:58:00 GMT",
+      "sentiment": -0.004761904761904753
     },
     {
       "title": "Opinion | Building Wealth Requires More Than Charity",
@@ -199,16 +199,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Comex Gold Settles 2.85% Lower at $3878.40",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-dims-amid-rising-fed-rate-hike-expectations-22fab6f0?mod=rss_markets_main",
+      "published": "Thu, 12 Nov 2026 18:50:00 GMT",
+      "sentiment": -0.18703703703703703
+    },
+    {
+      "title": "U.S. Crude-Oil Stockpiles Post Unexpected Weekly Build",
+      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-weekly-build-9058e7ae?mod=rss_markets_main",
+      "published": "Thu, 12 Nov 2026 17:58:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-382816ab?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 17:26:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Gold Futures Extend Losses as Dollar, Yields Rise",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-dims-amid-rising-fed-rate-hike-expectations-22fab6f0?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 17:10:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Oil Picks Up As Trump Post Dampens Hopes for U.S.-Iran Deal",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-as-cold-spell-nears-b99c70a2?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 14:21:00 GMT",
       "sentiment": -0.2333333333333333
-    },
-    {
-      "title": "Endeavour Mining Shares Tumble as Stoppages Affect Full-Year Output",
-      "link": "https://www.wsj.com/business/endeavour-mining-shares-tumble-as-stoppages-affect-full-year-output-fe0a6cd4?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 09:09:00 GMT",
-      "sentiment": -0.041666666666666664
     },
     {
       "title": "Fed Rate-Rise Expectations Should Keep Dollar Supported",
@@ -289,6 +289,12 @@
       "sentiment": 0.13333333333333333
     },
     {
+      "title": "CoreWeave Jumps, Boosting the AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/coreweave-jumps-boosting-the-ai-trade-e5c1569b?mod=rss_markets_main",
+      "published": "Wed, 11 Nov 2026 21:17:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Asset Manager’s Insurers Dogged by Fraud at 777 Partners",
       "link": "https://www.wsj.com/pro/bankruptcy/asset-managers-insurers-dogged-by-fraud-at-777-partners-9e3245cf?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 14:00:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_markets_main",
       "published": "Wed, 11 Nov 2026 00:00:00 GMT",
       "sentiment": -0.06272727272727273
-    },
-    {
-      "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
-      "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
-      "published": "Tue, 10 Nov 2026 22:29:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",

@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
+      "link": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
+      "published": "Thu, 12 Nov 2026 18:05:44 +0000",
+      "sentiment": -0.10909090909090909
+    },
+    {
       "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
       "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-      "published": "Thu, 12 Nov 2026 17:11:08 +0000",
+      "published": "Thu, 12 Nov 2026 18:15:39 +0000",
       "sentiment": -0.05222222222222222
     },
     {
@@ -27,13 +33,13 @@
     {
       "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
       "link": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-      "published": "Thu, 12 Nov 2026 15:51:40 +0000",
+      "published": "Thu, 12 Nov 2026 18:04:05 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
       "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
-      "published": "Thu, 12 Nov 2026 14:35:18 +0000",
+      "published": "Thu, 12 Nov 2026 18:37:51 +0000",
       "sentiment": 0.0
     },
     {
@@ -57,8 +63,8 @@
     {
       "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
       "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "published": "Thu, 12 Nov 2026 16:33:15 +0000",
-      "sentiment": -0.1037037037037037
+      "published": "Thu, 12 Nov 2026 18:09:11 +0000",
+      "sentiment": 0.0925925925925926
     },
     {
       "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
@@ -293,12 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
       "published": "Tue, 10 Nov 2026 06:29:54 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "‘We Used to Be a Wealthy City’: Auto Woes Slam German Towns",
-      "link": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
-      "published": "Tue, 10 Nov 2026 05:00:10 +0000",
-      "sentiment": 0.3333333333333333
     }
   ]
 }
