@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
+      "link": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html",
+      "published": "Thu, 12 Nov 2026 10:19:10 +0000",
+      "sentiment": 0.22083333333333335
+    },
+    {
+      "title": "Why New England’s Republican Governors Withstood the Blue Wave",
+      "link": "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html",
+      "published": "Thu, 12 Nov 2026 10:02:42 +0000",
+      "sentiment": 0.10227272727272727
+    },
+    {
+      "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+      "published": "Thu, 12 Nov 2026 10:02:29 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "How the Legacy of Torture Has Vexed the Quest for 9/11 Justice",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/torture-9-11.html",
+      "published": "Thu, 12 Nov 2026 10:00:45 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "San Antonio Fights Plan to Turn Warehouse Into ICE Detention Center",
+      "link": "https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html",
+      "published": "Thu, 12 Nov 2026 10:00:24 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "A viral ad and a Trump rally visit helped Colom compete in Mississippi.",
       "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/a-viral-ad-and-a-trump-rally-visit-helped-colom-compete-in-mississippi",
       "published": "Thu, 12 Nov 2026 01:45:05 +0000",
@@ -57,7 +87,7 @@
     {
       "title": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
       "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
-      "published": "Thu, 12 Nov 2026 03:42:00 +0000",
+      "published": "Thu, 12 Nov 2026 10:31:20 +0000",
       "sentiment": 0.020833333333333336
     },
     {
@@ -167,54 +197,6 @@
       "link": "https://www.nytimes.com/2026/11/11/us/michael-mccloskey-dead.html",
       "published": "Wed, 11 Nov 2026 12:13:43 +0000",
       "sentiment": 0.09999999999999999
-    },
-    {
-      "title": "A New Democratic-Tied Dark-Money Group Draws Scrutiny Over Midterm Spending",
-      "link": "https://www.nytimes.com/2026/11/11/us/democratic-dark-money-super-pac-complaint.html",
-      "published": "Wed, 11 Nov 2026 19:35:28 +0000",
-      "sentiment": 0.08977272727272727
-    },
-    {
-      "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
-      "published": "Wed, 11 Nov 2026 17:13:54 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "The Moderates Who Chose Democrats. For Now.",
-      "link": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
-      "published": "Wed, 11 Nov 2026 16:04:44 +0000",
-      "sentiment": 0.090625
-    },
-    {
-      "title": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss",
-      "link": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
-      "published": "Wed, 11 Nov 2026 19:35:11 +0000",
-      "sentiment": -0.16333333333333333
-    },
-    {
-      "title": "Blue Texas? Battleground Kansas? Both Parties Wonder if the Map Has Shifted.",
-      "link": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
-      "published": "Thu, 12 Nov 2026 00:53:41 +0000",
-      "sentiment": 0.101010101010101
-    },
-    {
-      "title": "Somali Bodyguard Was Indicted in a Bid to Incriminate Ilhan Omar",
-      "link": "https://www.nytimes.com/2026/11/11/us/ilhan-omar-ex-bodyguard-indicted-abdullahi-mohamed.html",
-      "published": "Wed, 11 Nov 2026 15:56:58 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Melania Trump’s Initiative for Women Appears at Odds With D.E.I. Crackdown",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/melania-trump-imperia-women-dei-programs.html",
-      "published": "Wed, 11 Nov 2026 10:02:22 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
-      "link": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
-      "published": "Thu, 12 Nov 2026 01:09:48 +0000",
-      "sentiment": 0.1875
     }
   ]
 }
