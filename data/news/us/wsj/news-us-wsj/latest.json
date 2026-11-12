@@ -67,6 +67,12 @@
       "sentiment": 0.075
     },
     {
+      "title": "Judge, Economist Richard Posner Dies at 87",
+      "link": "https://www.wsj.com/arts-culture/books/judge-economist-richard-posner-dies-at-87-26d35652?mod=rss_usnews",
+      "published": "Thu, 12 Nov 2026 02:14:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "SEC Enforcement Penalties Fall to 18-Year Low",
       "link": "https://www.wsj.com/finance/regulation/sec-enforcement-penalties-fall-to-18-year-low-2aa5d9d3?mod=rss_usnews",
       "published": "Tue, 10 Nov 2026 22:51:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/politics/policy/elon-musk-texas-midterm-elections-b993e58d?mod=rss_usnews",
       "published": "Sat, 07 Nov 2026 03:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Federal Judge Temporarily Blocks Construction of Trump’s 250-Foot Arch",
-      "link": "https://www.wsj.com/us-news/law/federal-judge-temporarily-blocks-construction-of-trumps-250-foot-arch-fb1dd257?mod=rss_usnews",
-      "published": "Fri, 06 Nov 2026 05:59:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
@@ -187,10 +187,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Brooklyn House Fire Kills Six People",
-      "link": "https://www.wsj.com/us-news/brooklyn-house-fire-kills-six-people-f475cbd9?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 22:25:00 GMT",
-      "sentiment": 0.0
+      "title": "Federal Judge Temporarily Blocks Construction of Trump’s 250-Foot Arch",
+      "link": "https://www.wsj.com/us-news/law/federal-judge-temporarily-blocks-construction-of-trumps-250-foot-arch-fb1dd257?mod=rss_usnews",
+      "published": "Fri, 06 Nov 2026 05:59:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -205,16 +205,16 @@
       "sentiment": 0.1875
     },
     {
-      "title": "Is Flying Private Less Safe? Here’s How the Rules Differ From Commercial Airlines",
-      "link": "https://www.wsj.com/business/airlines/is-flying-private-less-safe-heres-how-the-rules-differ-from-commercial-airlines-593a8e74?mod=rss_usnews",
-      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
-      "sentiment": 0.08333333333333334
-    },
-    {
       "title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
       "link": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_usnews",
       "published": "Wed, 11 Nov 2026 00:00:00 GMT",
       "sentiment": -0.06272727272727273
+    },
+    {
+      "title": "Is Flying Private Less Safe? Here’s How the Rules Differ From Commercial Airlines",
+      "link": "https://www.wsj.com/business/airlines/is-flying-private-less-safe-heres-how-the-rules-differ-from-commercial-airlines-593a8e74?mod=rss_usnews",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "sentiment": 0.08333333333333334
     },
     {
       "title": "Colleges Struggle to Stop ‘Melt’: Students Who Commit, Then Don’t Show Up",

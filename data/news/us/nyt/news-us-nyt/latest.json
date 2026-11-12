@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "A viral ad and a Trump rally visit helped Colom compete in Mississippi.",
+      "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/a-viral-ad-and-a-trump-rally-visit-helped-colom-compete-in-mississippi",
+      "published": "Thu, 12 Nov 2026 01:45:05 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mississippi Democrats built a coalition to elect a Black senator for the first time since Reconstruction.",
+      "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction",
+      "published": "Thu, 12 Nov 2026 01:30:04 +0000",
+      "sentiment": 0.29444444444444445
+    },
+    {
+      "title": "Colom’s win fuels Democratic hopes for next year’s race for governor.",
+      "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-2027-governor-campaign",
+      "published": "Thu, 12 Nov 2026 01:20:05 +0000",
+      "sentiment": 0.26666666666666666
+    },
+    {
+      "title": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+      "link": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
+      "published": "Thu, 12 Nov 2026 01:25:58 +0000",
+      "sentiment": 0.008333333333333338
+    },
+    {
+      "title": "The Man at the Center of Scott Colom’s Protein Ad",
+      "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-senate-protein-ad.html",
+      "published": "Thu, 12 Nov 2026 01:00:04 +0000",
+      "sentiment": -0.05000000000000001
+    },
+    {
       "title": "Hyde-Smith Blocked Colom’s Path to the Bench. Now He’s Replacing Her.",
       "link": "https://www.nytimes.com/2026/11/11/us/elections/hyde-smith-blocked-coloms-path-to-the-bench-now-hes-replacing-her.html",
       "published": "Thu, 12 Nov 2026 00:40:04 +0000",
@@ -51,14 +81,14 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/heres-the-latest",
-      "published": "Thu, 12 Nov 2026 00:06:47 +0000",
+      "published": "Thu, 12 Nov 2026 01:56:50 +0000",
       "sentiment": 0.5
     },
     {
       "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
       "link": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-      "published": "Thu, 12 Nov 2026 00:50:24 +0000",
-      "sentiment": 0.1277777777777778
+      "published": "Thu, 12 Nov 2026 01:26:18 +0000",
+      "sentiment": 0.11145833333333335
     },
     {
       "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
@@ -104,8 +134,8 @@
     },
     {
       "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
-      "link": "https://www.nytimes.com/2026/11/11/us/trump-federal-judges-senate-republicans.html",
-      "published": "Wed, 11 Nov 2026 20:52:30 +0000",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
+      "published": "Thu, 12 Nov 2026 01:28:00 +0000",
       "sentiment": 0.25
     },
     {
@@ -165,7 +195,7 @@
     {
       "title": "Blue Texas? Battleground Kansas? Both Parties Wonder if the Map Has Shifted.",
       "link": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
-      "published": "Thu, 12 Nov 2026 00:53:40 +0000",
+      "published": "Thu, 12 Nov 2026 00:53:41 +0000",
       "sentiment": 0.101010101010101
     },
     {
@@ -183,7 +213,7 @@
     {
       "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
       "link": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
-      "published": "Wed, 11 Nov 2026 15:24:19 +0000",
+      "published": "Thu, 12 Nov 2026 01:09:48 +0000",
       "sentiment": 0.1875
     },
     {
@@ -191,12 +221,6 @@
       "link": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
       "published": "Wed, 11 Nov 2026 16:04:39 +0000",
       "sentiment": 0.07500000000000001
-    },
-    {
-      "title": "Bernie Sanders Opposes Schumer as Majority Leader",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
-      "published": "Wed, 11 Nov 2026 02:01:55 +0000",
-      "sentiment": -0.03181818181818183
     }
   ]
 }
