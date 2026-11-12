@@ -1,10 +1,28 @@
 {
   "entries": [
     {
+      "title": "The Morning Risk Report: Nvidia is Preparing to Oust CEO Jensen Huang",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-nvidia-is-preparing-to-oust-ceo-jensen-huang-324bfbd1?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 12:29:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Nvidia Is Preparing to Oust CEO Jensen Huang",
       "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 11:53:00 GMT",
+      "published": "Thu, 12 Nov 2026 12:24:00 GMT",
       "sentiment": -0.05
+    },
+    {
+      "title": "Kraft Heinz Has a Comeback Plan: Cheesy Ramen and High-Protein Jell-O",
+      "link": "https://www.wsj.com/business/retail/kraft-heinz-has-a-comeback-plan-cheesy-ramen-and-high-protein-jell-o-6fbfc2f8?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 12:17:00 GMT",
+      "sentiment": -0.12121212121212122
+    },
+    {
+      "title": "Praise Was Heaped on Jensen Huang. That Might Be Part of the Problem.",
+      "link": "https://www.wsj.com/articles/praise-was-heaped-on-jensen-huang-that-might-be-part-of-the-problem-4cfa876c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 12:03:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Party Fractures and Voter Anger Topple Republicans in a Conservative Bastion",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/business/autos/electric-vehicles-pros-cons-438709ac?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 10:30:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
-      "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 04:03:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Top Democrats Target Trump Administration’s Nvidia-China Records",
-      "link": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Huang’s Coziness With Trump Wasn’t Enough to Save Him From Spying Scandal",
-      "link": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Metro Bank Hangs Up ‘For Sale’ Sign",
@@ -253,6 +253,12 @@
       "sentiment": 0.049999999999999996
     },
     {
+      "title": "Strategic Hiring: New Questions to Ask",
+      "link": "https://www.wsj.com/cfo-journal/strategic-hiring-new-questions-to-ask-28964268?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 12:12:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "BHP Names Australian Projects Boss as Next CFO",
       "link": "https://www.wsj.com/business/c-suite/bhp-names-australian-projects-boss-as-next-cfo-30532955?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 01:03:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/why-the-credit-default-swap-marketred-hot-in-the-ai-tradeis-vital-for-cfos-9a8aac4a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 11:59:00 GMT",
       "sentiment": 0.11666666666666665
-    },
-    {
-      "title": "How Target Planned for Brian Cornell’s Successor",
-      "link": "https://www.wsj.com/articles/how-target-planned-for-brian-cornells-successor-4da93380?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 10:59:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
@@ -343,6 +343,12 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "title": "Black Sea Shipping Attacks Kill Seafarers, Disrupt Trade",
+      "link": "https://www.wsj.com/logistics-report/black-sea-shipping-attacks-kill-seafarers-disrupt-trade-8a9ce993?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 11:55:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "Russian-Diesel Plan Founders as U.S.-Bound Tankers Change Course",
       "link": "https://www.wsj.com/logistics-report/russian-diesel-plan-founders-as-u-s-bound-tankers-change-course-4d4dc8b9?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 11:55:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/honda-plans-3-billion-ohio-plant-to-build-hybrids-dc5ec13a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 11:55:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Alphabet’s Wing to Build New Texas Factory for Delivery Drones",
-      "link": "https://www.wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 11:50:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
@@ -433,6 +433,24 @@
       "sentiment": 0.15
     },
     {
+      "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
+      "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 04:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Top Democrats Target Trump Administration’s Nvidia-China Records",
+      "link": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Huang’s Coziness With Trump Wasn’t Enough to Save Him From Spying Scandal",
+      "link": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
       "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 01:00:00 GMT",
@@ -443,24 +461,6 @@
       "link": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 22:49:00 GMT",
       "sentiment": 0.375
-    },
-    {
-      "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
-      "link": "https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 18:47:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "One More Rate Hike Is Looking Like the Beginning, Not the End",
-      "link": "https://www.wsj.com/articles/one-more-rate-hike-is-looking-like-the-beginning-not-the-end-7c18c678?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 10:57:00 GMT",
-      "sentiment": 0.12878787878787878
-    },
-    {
-      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom",
-      "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-ai-bubble-93097556?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "An American Furniture Maker Tried to Bring Jobs Back Home. It Didn’t Work.",
