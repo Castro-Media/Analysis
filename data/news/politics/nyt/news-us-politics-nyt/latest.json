@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Kalshi Severs Its Relationship With Donald Trump Jr.",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-donald-trump-jr.html",
+      "published": "Thu, 12 Nov 2026 21:46:28 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Black Turnout Rose in Georgia, Powered by Younger Voters",
+      "link": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html",
+      "published": "Thu, 12 Nov 2026 20:30:11 +0000",
+      "sentiment": 0.0880952380952381
+    },
+    {
+      "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
+      "published": "Thu, 12 Nov 2026 21:31:33 +0000",
+      "sentiment": 0.16
+    },
+    {
+      "title": "Why 2026 Midterm Polls Underestimated Democratic Support",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
+      "published": "Thu, 12 Nov 2026 20:29:06 +0000",
+      "sentiment": 0.1
+    },
+    {
       "title": "House Passes Competing Veterans Bills in a Fight Over Funding",
       "link": "https://www.nytimes.com/2026/11/12/us/politics/house-veterans-benefits-bill-funding.html",
       "published": "Thu, 12 Nov 2026 19:12:20 +0000",
@@ -21,7 +45,7 @@
     {
       "title": "Will the Supreme Court Thwart Congressional Investigations?",
       "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
-      "published": "Thu, 12 Nov 2026 18:27:08 +0000",
+      "published": "Thu, 12 Nov 2026 20:27:03 +0000",
       "sentiment": 0.0
     },
     {
@@ -33,7 +57,7 @@
     {
       "title": "The Concession Call to an Election Winner Is No Longer a Given",
       "link": "https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html",
-      "published": "Thu, 12 Nov 2026 15:00:11 +0000",
+      "published": "Thu, 12 Nov 2026 21:39:56 +0000",
       "sentiment": 0.0
     },
     {
@@ -95,30 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-digital-spending-midterm-election.html",
       "published": "Thu, 12 Nov 2026 00:30:45 +0000",
       "sentiment": -0.025
-    },
-    {
-      "title": "Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html",
-      "published": "Wed, 11 Nov 2026 19:50:05 +0000",
-      "sentiment": -0.225
-    },
-    {
-      "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
-      "published": "Thu, 12 Nov 2026 01:28:00 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Raman and the D.S.A.: Wariness, Skepticism and Hope",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/raman-los-angeles-democratic-socialist.html",
-      "published": "Wed, 11 Nov 2026 18:04:46 +0000",
-      "sentiment": 0.024999999999999994
-    },
-    {
-      "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
-      "published": "Wed, 11 Nov 2026 19:34:11 +0000",
-      "sentiment": 0.0
     }
   ]
 }
