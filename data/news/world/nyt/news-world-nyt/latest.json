@@ -85,9 +85,21 @@
       "sentiment": 0.0625
     },
     {
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "published": "Thu, 12 Nov 2026 22:40:11 +0000",
+      "sentiment": 0.11666666666666667
+    },
+    {
+      "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
+      "link": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
+      "published": "Thu, 12 Nov 2026 22:00:29 +0000",
+      "sentiment": -0.1125
+    },
+    {
       "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
       "link": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
-      "published": "Thu, 12 Nov 2026 21:46:28 +0000",
+      "published": "Thu, 12 Nov 2026 22:16:40 +0000",
       "sentiment": -0.3
     },
     {
@@ -297,7 +309,7 @@
     {
       "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
       "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
-      "published": "Tue, 10 Nov 2026 14:15:54 +0000",
+      "published": "Thu, 12 Nov 2026 22:04:47 +0000",
       "sentiment": -0.12000000000000002
     },
     {
@@ -329,24 +341,6 @@
       "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
       "published": "Tue, 10 Nov 2026 09:00:49 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Nvidia Affair",
-      "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-      "published": "Tue, 10 Nov 2026 05:43:35 +0000",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "link": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
-      "published": "Wed, 11 Nov 2026 13:41:53 +0000",
-      "sentiment": 0.06888888888888889
-    },
-    {
-      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
-      "published": "Tue, 10 Nov 2026 10:08:25 +0000",
-      "sentiment": -0.041666666666666664
     }
   ]
 }
