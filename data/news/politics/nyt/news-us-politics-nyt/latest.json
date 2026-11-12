@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "How The Times Covered Mississippi’s Senate Race, Which Unexpectedly Became a Nail-Biter",
+      "link": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html",
+      "published": "Wed, 11 Nov 2026 23:23:59 +0000",
+      "sentiment": -0.027777777777777776
+    },
+    {
+      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+      "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+      "published": "Wed, 11 Nov 2026 23:30:47 +0000",
+      "sentiment": -0.1625
+    },
+    {
       "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
       "link": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
-      "published": "Wed, 11 Nov 2026 22:33:36 +0000",
+      "published": "Wed, 11 Nov 2026 23:48:52 +0000",
       "sentiment": -0.1
     },
     {
@@ -113,18 +125,6 @@
       "link": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
       "published": "Wed, 11 Nov 2026 00:31:56 +0000",
       "sentiment": -0.04999999999999999
-    },
-    {
-      "title": "Representative María Elvira Salazar Wins Re-Election in Florida",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
-      "published": "Tue, 10 Nov 2026 23:24:36 +0000",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Republicans Turn Back Effort to Impeach Hegseth",
-      "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
-      "published": "Wed, 11 Nov 2026 03:08:02 +0000",
-      "sentiment": 0.0
     }
   ]
 }
