@@ -13,16 +13,22 @@
       "sentiment": 0.13749999999999998
     },
     {
+      "title": "Route 66 is 100 this week. Are its small-town businesses celebrating?",
+      "link": "https://www.latimes.com/travel/story/2026-11-11/route-66-centennial-small-businesses-towns-2026",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Ditch the dinner table for the great outdoors? The case for Campsgiving",
       "link": "https://www.latimes.com/travel/story/2026-11-11/campsgiving-thanksgiving-trend-camping",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.46666666666666673
     },
     {
-      "title": "Route 66 is 100 this week. Are its small-town businesses celebrating?",
-      "link": "https://www.latimes.com/travel/story/2026-11-11/route-66-centennial-small-businesses-towns-2026",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Hiltzik: The Democrats' first 'affordability' remedy should be raising the federal minimum wage",
+      "link": "https://www.latimes.com/business/story/2026-11-10/the-democrats-first-affordability-remedy-should-be-raising-the-federal-minimum-wage",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "He built a chipmaking giant. Now Jensen Huang faces his biggest test",
@@ -41,12 +47,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-10/another-california-winery-is-struggling-being-sued-by-lenders",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Hiltzik: The Democrats' first 'affordability' remedy should be raising the federal minimum wage",
-      "link": "https://www.latimes.com/business/story/2026-11-10/the-democrats-first-affordability-remedy-should-be-raising-the-federal-minimum-wage",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Billionaire tax rejected on concern punishing the ultra-rich would hurt California's economy",
@@ -145,6 +145,12 @@
       "sentiment": 0.11742424242424243
     },
     {
+      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
+      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.029356060606060594
+    },
+    {
       "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
       "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -155,12 +161,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
-      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.029356060606060594
     },
     {
       "title": "SoCal Outback Steakhouse franchisee files for bankruptcy, citing California's labor costs",
@@ -181,16 +181,16 @@
       "sentiment": 0.11875
     },
     {
-      "title": "Utilities lobby for shield from wildfire costs",
-      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.12000000000000002
-    },
-    {
       "title": "Hiltzik: Can AI bots become conscious? Why Microsoft's AI boss says that's the wrong question",
       "link": "https://www.latimes.com/business/story/2026-11-03/ai-bots-conscious-microsoft-ai-boss-anthropic-suleyman-intelligence",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Utilities lobby for shield from wildfire costs",
+      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.12000000000000002
     },
     {
       "title": "Newsom proposes $1-billion cap for film and TV tax incentive",
@@ -259,10 +259,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
+      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
+      "sentiment": 0.08901515151515152
     },
     {
       "title": "As Californian ports push truckers to go green, the struggling industry asks for more subsidies",
@@ -271,10 +271,10 @@
       "sentiment": 0.08333333333333333
     },
     {
-      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
-      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08901515151515152
+      "sentiment": 0.14166666666666666
     },
     {
       "title": "Disney's theme parks division lays off at least 100 employees",
@@ -361,16 +361,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
-      "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Vallarta Supermarkets opens a new store",
       "link": "https://www.latimes.com/business/story/2026-10-23/vallarta-supermarkets-opens-new-store",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0037878787878787845
+    },
+    {
+      "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
+      "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
@@ -511,6 +511,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Westfield Topanga is trying to reinvent mall food after a food-hall flop",
+      "link": "https://www.latimes.com/business/story/2026-10-15/inside-westfield-topangas-struggle-to-reinvent-mall-food",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "Sonoma winery to close tasting room as people drink less",
       "link": "https://www.latimes.com/business/story/2026-10-15/sonoma-winery-to-close-tasting-room-as-people-drink-less",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
@@ -521,12 +527,6 @@
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-15/ex-hfpa-member-withdraws-lawsuit-against-golden-globes-group",
       "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": 0.021428571428571425
-    },
-    {
-      "title": "Westfield Topanga is trying to reinvent mall food after a food-hall flop",
-      "link": "https://www.latimes.com/business/story/2026-10-15/inside-westfield-topangas-struggle-to-reinvent-mall-food",
-      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Disney strikes $20-million deal for Character.ai's assets as AI startup files for bankruptcy",
