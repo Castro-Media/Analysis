@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+      "link": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+      "published": "Thu, 12 Nov 2026 19:45:26 +0000",
+      "sentiment": -0.0875
+    },
+    {
+      "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+      "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+      "published": "Thu, 12 Nov 2026 18:51:05 +0000",
+      "sentiment": 0.08333333333333333
+    },
+    {
       "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
       "link": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
       "published": "Thu, 12 Nov 2026 18:05:44 +0000",
@@ -9,7 +21,7 @@
     {
       "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
       "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-      "published": "Thu, 12 Nov 2026 18:15:39 +0000",
+      "published": "Thu, 12 Nov 2026 19:42:30 +0000",
       "sentiment": -0.05222222222222222
     },
     {
@@ -25,10 +37,10 @@
       "sentiment": 0.1288888888888889
     },
     {
-      "title": "Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy",
+      "title": "The Face of the A.I. Boom Powering the U.S. Economy Is Gone",
       "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-      "published": "Thu, 12 Nov 2026 15:12:43 +0000",
-      "sentiment": 0.1
+      "published": "Thu, 12 Nov 2026 19:50:28 +0000",
+      "sentiment": 0.19166666666666665
     },
     {
       "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
@@ -39,7 +51,7 @@
     {
       "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
       "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
-      "published": "Thu, 12 Nov 2026 18:37:51 +0000",
+      "published": "Thu, 12 Nov 2026 18:54:11 +0000",
       "sentiment": 0.0
     },
     {
@@ -51,7 +63,7 @@
     {
       "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
       "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-      "published": "Thu, 12 Nov 2026 17:33:19 +0000",
+      "published": "Thu, 12 Nov 2026 19:19:40 +0000",
       "sentiment": 0.0
     },
     {
@@ -159,13 +171,13 @@
     {
       "title": "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago",
       "link": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
-      "published": "Wed, 11 Nov 2026 10:03:57 +0000",
+      "published": "Thu, 12 Nov 2026 19:29:52 +0000",
       "sentiment": 0.0
     },
     {
       "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
       "link": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
-      "published": "Thu, 12 Nov 2026 13:36:51 +0000",
+      "published": "Thu, 12 Nov 2026 19:02:29 +0000",
       "sentiment": 0.15
     },
     {
@@ -286,18 +298,6 @@
       "title": "Advent Calendars Go Beyond Chocolate, From Pickles to Protein Powder",
       "link": "https://www.nytimes.com/2026/11/10/dining/advent-calendars-food-drinks-snacks.html",
       "published": "Tue, 10 Nov 2026 10:03:05 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
-      "link": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
-      "published": "Tue, 10 Nov 2026 10:01:09 +0000",
-      "sentiment": 0.17714285714285713
-    },
-    {
-      "title": "Justice Dept. Accuses Lyft of Disability Discrimination in Lawsuit",
-      "link": "https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html",
-      "published": "Tue, 10 Nov 2026 06:29:54 +0000",
       "sentiment": 0.0
     }
   ]
