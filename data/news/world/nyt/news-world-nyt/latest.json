@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+      "published": "Thu, 12 Nov 2026 16:54:22 +0000",
+      "sentiment": -0.14583333333333334
+    },
+    {
       "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
       "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
       "published": "Thu, 12 Nov 2026 10:00:57 +0000",
@@ -79,15 +85,9 @@
       "sentiment": 0.0625
     },
     {
-      "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
-      "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
-      "published": "Thu, 12 Nov 2026 14:37:42 +0000",
-      "sentiment": 0.25
-    },
-    {
       "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-      "published": "Thu, 12 Nov 2026 15:16:38 +0000",
+      "published": "Thu, 12 Nov 2026 17:38:27 +0000",
       "sentiment": -0.13333333333333333
     },
     {
@@ -143,6 +143,12 @@
       "link": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
       "published": "Wed, 11 Nov 2026 09:31:18 +0000",
       "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
+      "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
+      "published": "Thu, 12 Nov 2026 14:37:42 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
@@ -329,18 +335,6 @@
       "link": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
       "published": "Tue, 10 Nov 2026 11:29:10 +0000",
       "sentiment": 0.22142857142857142
-    },
-    {
-      "title": "Bipartisan Support for Israel Erodes as Both Sides Push for New Limits",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/us-israel-midterm-elections.html",
-      "published": "Mon, 09 Nov 2026 13:48:04 +0000",
-      "sentiment": 0.1787878787878788
-    },
-    {
-      "title": "Lloyd Geering, Pastor Who Disputed Christ’s Resurrection, Dies at 108",
-      "link": "https://www.nytimes.com/2026/11/09/obituaries/lloyd-geering-dead.html",
-      "published": "Wed, 11 Nov 2026 12:21:43 +0000",
-      "sentiment": 0.3125
     }
   ]
 }
