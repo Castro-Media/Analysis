@@ -1,33 +1,63 @@
 {
   "entries": [
     {
+      "title": "Jensen Huang Was the Mascot for the A.I. Boom Powering the U.S. Economy",
+      "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+      "published": "Thu, 12 Nov 2026 14:46:24 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+      "published": "Thu, 12 Nov 2026 14:40:44 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+      "published": "Thu, 12 Nov 2026 14:35:18 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
+      "published": "Thu, 12 Nov 2026 14:41:48 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "published": "Thu, 12 Nov 2026 14:28:03 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
       "link": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
       "published": "Thu, 12 Nov 2026 13:14:39 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Nvidia Shares Plummet as Board Considers Jensen Huang’s Future as CEO",
+      "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
       "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "published": "Thu, 12 Nov 2026 13:07:38 +0000",
-      "sentiment": -0.03888888888888889
+      "published": "Thu, 12 Nov 2026 14:51:28 +0000",
+      "sentiment": -0.1037037037037037
     },
     {
       "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
       "link": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
-      "published": "Thu, 12 Nov 2026 10:03:40 +0000",
+      "published": "Thu, 12 Nov 2026 14:42:23 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won’t Cover a Hotel.",
       "link": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
-      "published": "Thu, 12 Nov 2026 10:02:35 +0000",
+      "published": "Thu, 12 Nov 2026 14:31:56 +0000",
       "sentiment": -0.24444444444444446
     },
     {
       "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
       "link": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
-      "published": "Thu, 12 Nov 2026 10:02:29 +0000",
+      "published": "Thu, 12 Nov 2026 14:23:52 +0000",
       "sentiment": 0.09999999999999999
     },
     {
@@ -123,7 +153,7 @@
     {
       "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
       "link": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "published": "Wed, 11 Nov 2026 16:23:31 +0000",
+      "published": "Thu, 12 Nov 2026 14:42:05 +0000",
       "sentiment": 0.06818181818181818
     },
     {
@@ -269,30 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
       "published": "Wed, 11 Nov 2026 02:17:11 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Boeing Will Cut 5% of Commercial Plane Employees",
-      "link": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
-      "published": "Mon, 09 Nov 2026 20:00:31 +0000",
-      "sentiment": 0.024999999999999988
-    },
-    {
-      "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
-      "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
-      "published": "Wed, 11 Nov 2026 20:16:30 +0000",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-      "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "published": "Mon, 09 Nov 2026 23:27:05 +0000",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Oil Prices Have Tumbled in November. Here’s Why.",
-      "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-      "published": "Tue, 10 Nov 2026 15:59:29 +0000",
-      "sentiment": 0.011111111111111113
     }
   ]
 }

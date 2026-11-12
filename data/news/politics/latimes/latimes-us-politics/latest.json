@@ -67,16 +67,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
-      "link": "https://www.latimes.com/politics/story/2026-11-10/asian-americans-won-all-three-of-l-a-s-citywide-elected-offices-this-year",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
       "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.35
+    },
+    {
+      "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
+      "link": "https://www.latimes.com/politics/story/2026-11-10/asian-americans-won-all-three-of-l-a-s-citywide-elected-offices-this-year",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Voters approve Prop. 38 medical research bond measure",
@@ -121,16 +121,16 @@
       "sentiment": -0.054545454545454564
     },
     {
-      "title": "Backlash against Trump, ICE raids, high food prices fuels changing political tide in California heartland",
-      "link": "https://www.latimes.com/california/story/2026-11-09/valaldao-villegas-san-joaquin-valley-trump",
-      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.015000000000000006
-    },
-    {
       "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
       "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
       "published": "Mon, 9 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Backlash against Trump, ICE raids, high food prices fuels changing political tide in California heartland",
+      "link": "https://www.latimes.com/california/story/2026-11-09/valaldao-villegas-san-joaquin-valley-trump",
+      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.015000000000000006
     },
     {
       "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
@@ -415,16 +415,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Which races might predict a 'blue wave'? Here's what to watch",
-      "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
+      "title": "Utilities lobby for shield from wildfire costs",
+      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11666666666666665
-    },
-    {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
+      "sentiment": -0.12000000000000002
     },
     {
       "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
@@ -433,16 +427,22 @@
       "sentiment": 0.15
     },
     {
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.11818181818181818
+    },
+    {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
     },
     {
-      "title": "Utilities lobby for shield from wildfire costs",
-      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
+      "title": "Which races might predict a 'blue wave'? Here's what to watch",
+      "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.12000000000000002
+      "sentiment": 0.11666666666666665
     },
     {
       "title": "California officials brace for unprecedented election interference by Trump administration",
@@ -517,28 +517,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
-      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
       "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
       "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
       "published": "Sat, 31 Oct 2026 12:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Election night TV coverage is going full nerd for the 2026 midterms",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.0935897435897436
+      "title": "Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up",
+      "link": "https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "A historically paralyzed Congress faces its voters",
       "link": "https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333338
+    },
+    {
+      "title": "Election night TV coverage is going full nerd for the 2026 midterms",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.0935897435897436
     },
     {
       "title": "Proposed billionaire tax could impact California sports teams",
@@ -559,10 +559,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Your last-minute guide to Propositions 40, 41, 42: The billionaire battle",
-      "link": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide",
+      "title": "Democrats are the wild card in House race between two SoCal Republicans",
+      "link": "https://www.latimes.com/california/story/2026-10-30/democrats-are-wild-card-in-house-race-between-two-socal-republicans",
       "published": "Fri, 30 Oct 2026 12:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.025
     }
   ]
 }
