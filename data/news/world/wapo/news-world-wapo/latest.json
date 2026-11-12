@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter",
+      "link": "https://www.washingtonpost.com/world/2026/11/12/palestinians-fear-floods-other-storm-risks-tent-cities-gazas-displaced/",
+      "published": "Thu, 12 Nov 2026 21:46:36 +0000",
+      "sentiment": -0.275
+    },
+    {
+      "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+      "link": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/",
+      "published": "Thu, 12 Nov 2026 21:24:36 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Four grizzly bears killed Canadian mother and daughter, authorities say",
       "link": "https://www.washingtonpost.com/world/2026/11/12/four-grizzly-bears-killed-canadian-mother-daughter-authorities-say/",
       "published": "Thu, 12 Nov 2026 18:35:00 +0000",
@@ -17,12 +29,6 @@
       "link": "https://www.washingtonpost.com/world/2026/11/12/trump-reverts-an-old-theme-warns-immigrant-caravans/",
       "published": "Thu, 12 Nov 2026 15:00:00 +0000",
       "sentiment": 0.1
-    },
-    {
-      "title": "As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter",
-      "link": "https://www.washingtonpost.com/world/2026/11/12/palestinians-fear-floods-other-storm-risks-tent-cities-gazas-displaced/",
-      "published": "Thu, 12 Nov 2026 13:39:16 +0000",
-      "sentiment": -0.275
     },
     {
       "title": "As Venezuelans protest blackouts, U.S.-backed leader declares early Christmas",
@@ -61,7 +67,7 @@
       "sentiment": 0.05
     },
     {
-      "title": "‘In Flanders Fields’: How a patriotic poem became an anti-war anthem",
+      "title": "‘In Flanders Fields’: How a WWI call to arms became an anti-war anthem",
       "link": "https://www.washingtonpost.com/nation/2026/11/11/flanders-fields-how-patriotic-poem-became-an-anti-war-anthem/",
       "published": "Wed, 11 Nov 2026 10:00:00 +0000",
       "sentiment": 0.1
@@ -77,12 +83,6 @@
       "link": "https://www.washingtonpost.com/world/2026/11/10/israels-newly-elected-parliament-is-already-moving-against-netanyahu/",
       "published": "Tue, 10 Nov 2026 23:36:13 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
-      "link": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/",
-      "published": "Tue, 10 Nov 2026 20:43:26 +0000",
-      "sentiment": -0.02
     }
   ]
 }

@@ -1,10 +1,64 @@
 {
   "entries": [
     {
+      "title": "What happened at Ole Miss? Viral video shows students making monkey noises and gestures outside Black students' apartment. Donors raise money for accused Lauren Mayfield",
+      "link": "https://timesofindia.indiatimes.com/world/us/what-happened-at-ole-miss-viral-video-shows-students-making-monkey-noises-and-gestures-outside-black-students-apartment-donors-raise-money-for-accused-lauren-mayfield/articleshow/135782091.cms",
+      "published": "2026-11-13T02:03:51+05:30",
+      "sentiment": -0.05416666666666667
+    },
+    {
+      "title": "Who was Matt Lambert? DC gym shooter was a wealthy doctor who was fighting with the management of his $1.1M penthouse over black mold",
+      "link": "https://timesofindia.indiatimes.com/world/us/who-was-matt-lambert-dc-gym-shooter-was-a-wealthy-doctor-who-was-fighting-with-the-management-of-his-1-1m-penthouse-over-black-mold/articleshow/135781823.cms",
+      "published": "2026-11-13T01:24:36+05:30",
+      "sentiment": 0.11111111111111112
+    },
+    {
+      "title": "New York court rejects man's $120,000 lawsuit against former fiancée over breakup",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-man-sued-his-former-fiance-for-120000-and-the-return-of-his-5300-engagement-ring-after-their-eight-year-relationship-ended-a-new-york-court-rejected-his-claims/articleshow/135764685.cms",
+      "published": "2026-11-13T02:00:00+05:30",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "Sudden death of 27-year-old daughter of British actress Lisa Maxwell in New York. Columbia University issues statement",
       "link": "https://timesofindia.indiatimes.com/world/us/sudden-death-of-27-year-old-daughter-of-british-actress-lisa-maxwell-in-new-york-columbia-university-issues-statement/articleshow/135781533.cms",
       "published": "2026-11-13T01:07:50+05:30",
       "sentiment": 0.03409090909090909
+    },
+    {
+      "title": "Indiana man loses pedal-pub injury lawsuit after appeals court upholds signed waiver",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-indiana-man-joined-a-two-hour-pedal-pub-tour-drank-beer-and-fell-while-climbing-off-the-48-inch-high-seat-five-years-later-an-appeals-court-says-the-waiver-he-signed-prevents-his-negligence-claim/articleshow/135739532.cms",
+      "published": "2026-11-13T03:00:00+05:30",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Researchers turn discarded wind turbine blades into graphene-rich material for newer ones",
+      "link": "https://timesofindia.indiatimes.com/science/nature/electricity-turns-old-wind-turbine-blades-into-valuable-graphene-for-stronger-future-turbines/articleshow/135716227.cms",
+      "published": "2026-11-13T02:55:00+05:30",
+      "sentiment": 0.24375
+    },
+    {
+      "title": "Woman's 32-day Airbnb stay turned into months-long legal battle in Washington",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-woman-booked-a-washington-airbnb-for-32-days-after-a-fire-displaced-her-but-stayed-for-months-the-homeowner-offered-2500-and-two-months-of-free-rent-before-a-judge-ruled-in-her-favour/articleshow/135758706.cms",
+      "published": "2026-11-13T02:50:00+05:30",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Texas man loses bid to keep gifted house as court awards wife $411,000 home and $175,000",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-texas-man-said-his-father-gifted-him-a-rental-house-during-marriage-and-argued-the-family-used-car-dealership-was-worth-150000-a-court-upheld-giving-his-wife-a-411000-house-and-175000-divorce-payment/articleshow/135731390.cms",
+      "published": "2026-11-13T01:55:00+05:30",
+      "sentiment": 0.2222222222222222
+    },
+    {
+      "title": "Scientists discovered a new orange-spotted fish which may already be on the brink of extinction",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/newly-discovered-orange-spot-fish-in-brazils-amazon-faces-extinction-threat-from-mining-and-pollution/articleshow/135715977.cms",
+      "published": "2026-11-13T01:50:00+05:30",
+      "sentiment": 0.21753246753246755
+    },
+    {
+      "title": "Fake funeral fundraiser showed $16,000, but Atlanta family got nothing",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-fake-fundraising-website-showed-16000-collected-for-a-13-year-old-atlanta-boys-funeral-his-family-said-it-never-received-the-money-and-a-funeral-director-stepped-in-to-cover-the-costs/articleshow/135767349.cms",
+      "published": "2026-11-13T02:00:00+05:30",
+      "sentiment": -0.25
     },
     {
       "title": "Texas appeals court overturns order barring granddaughter from family trust property",
@@ -65,60 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/drones-to-the-rescue-how-a-florida-sanctuary-fed-stranded-chimpanzees-during-devastating-floods/articleshow/135711258.cms",
       "published": "2026-11-12T23:01:11+05:30",
       "sentiment": 0.20714285714285713
-    },
-    {
-      "title": "Stephen Miller makes his first big decision, internal memo reveals something Susie Wiles would have never approved: Report",
-      "link": "https://timesofindia.indiatimes.com/world/us/stephen-miller-makes-his-first-big-decision-internal-memo-reveals-something-susie-wiles-would-have-never-approved-report/articleshow/135778249.cms",
-      "published": "2026-11-12T22:50:19+05:30",
-      "sentiment": 0.0625
-    },
-    {
-      "title": "RFK Jr faces probe over 'anti-vaccine' activism during 2019 Samoa visit",
-      "link": "https://timesofindia.indiatimes.com/world/us/did-rfk-jr-lie-to-congress-about-samoa-trip-trumps-health-secretary-faces-probe-over-emboldening-anti-vaccine-activists/articleshow/135776697.cms",
-      "published": "2026-11-12T22:31:39+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tennessee county to pay $1 million to veteran Tasered by deputy in 2022",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2022-a-tennessee-deputy-hunting-a-34-year-old-suspect-stopped-a-64-year-old-disabled-veteran-with-long-purple-hair-and-tased-him-fracturing-his-skull-four-years-on-the-county-has-agreed-to-pay-him-1-million/articleshow/135758792.cms",
-      "published": "2026-11-12T22:15:34+05:30",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Mark Wahlberg's charity marks 25 years, distributing nearly $20m to help disadvantaged children",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2001-mark-wahlberg-and-his-brother-founded-a-charity-for-disadvantaged-children-25-years-later-it-has-raised-and-distributed-nearly-20-million-building-community-spaces-and-sending-thousands-to-summer-camp/articleshow/135733362.cms",
-      "published": "2026-11-12T22:15:40+05:30",
-      "sentiment": 0.0642857142857143
-    },
-    {
-      "title": "'Not a single caravan has reached north': Mexican President Sheinbaum pushes back on Trump's tariff threat",
-      "link": "https://timesofindia.indiatimes.com/world/us/not-a-single-caravan-has-reached-north-mexican-president-sheinbaum-pushes-back-on-trumps-tariff-threat/articleshow/135776825.cms",
-      "published": "2026-11-12T21:57:17+05:30",
-      "sentiment": 0.008928571428571428
-    },
-    {
-      "title": "Mississippi homeowner's $1,385-page insurance claim rejected after 2023 fire caused $440K in damage",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-mississippi-womans-home-caught-fire-in-2023-and-her-insurer-estimated-440092-in-structural-damage-after-she-sought-full-coverage-and-filed-1385-pages-of-evidence-a-federal-appeals-court-rejected-her-claims/articleshow/135747295.cms",
-      "published": "2026-11-12T21:24:46+05:30",
-      "sentiment": -0.07777777777777777
-    },
-    {
-      "title": "Texas businessman loses home ownership battle despite presenting evidence of a $287K bank transfer",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-texas-businessman-said-he-bought-a-home-in-2015-with-a-partners-help-while-abroad-but-she-died-and-her-children-inherited-it-an-appeals-court-rejected-his-ownership-challenge-despite-a-287000-bank-transfer/articleshow/135747755.cms",
-      "published": "2026-11-12T21:23:32+05:30",
-      "sentiment": 0.059693877551020416
-    },
-    {
-      "title": "Russian imperial family's 197-carat sapphire sells for $4.9 million, beating estimate",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-197-80-carat-sapphire-once-worn-by-russias-last-imperial-familys-dowager-empress-at-a-1903-royal-ball-has-sold-for-4-9-million-in-geneva-far-above-its-presale-estimate-of-up-to-2-million/articleshow/135774885.cms",
-      "published": "2026-11-12T21:23:18+05:30",
-      "sentiment": 0.3138888888888889
-    },
-    {
-      "title": "Senator Tom Cotton urges Trump admin to ban Chinese chipmaker CXMT from US market over security concerns",
-      "link": "https://timesofindia.indiatimes.com/world/us/senator-tom-cotton-urges-trump-admin-to-ban-chinese-chipmaker-cxmt-from-us-market-over-security-concerns/articleshow/135775506.cms",
-      "published": "2026-11-12T21:22:34+05:30",
-      "sentiment": 0.0
     }
   ]
 }
