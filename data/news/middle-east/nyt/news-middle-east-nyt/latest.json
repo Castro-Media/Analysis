@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+      "published": "Thu, 12 Nov 2026 10:59:13 +0000",
+      "sentiment": -0.025
+    },
+    {
       "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
       "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
-      "published": "Thu, 12 Nov 2026 09:45:46 +0000",
+      "published": "Thu, 12 Nov 2026 09:45:47 +0000",
       "sentiment": 0.05
     },
     {
@@ -143,12 +149,6 @@
       "link": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
       "published": "Thu, 05 Nov 2026 18:27:59 +0000",
       "sentiment": 0.225
-    },
-    {
-      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
-      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
-      "published": "Thu, 05 Nov 2026 11:04:18 +0000",
-      "sentiment": 0.0
     }
   ]
 }
