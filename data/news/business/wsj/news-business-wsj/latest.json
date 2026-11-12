@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Top Democrats Target Trump Administration’s Nvidia-China Records",
+      "link": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Huang’s Coziness With Trump Wasn’t Enough to Save Him From Spying Scandal",
+      "link": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+      "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nvidia Is Preparing to Oust CEO Jensen Huang",
       "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 00:17:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 18:47:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now",
-      "link": "https://www.wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 17:45:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "One More Rate Hike Is Looking Like the Beginning, Not the End",
-      "link": "https://www.wsj.com/articles/one-more-rate-hike-is-looking-like-the-beginning-not-the-end-7c18c678?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 10:57:00 GMT",
-      "sentiment": 0.12878787878787878
-    },
-    {
-      "title": "About Your Next Board Meeting",
-      "link": "https://www.wsj.com/articles/about-your-next-board-meeting-55f0ff0a?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Western Union Scraps $500 Million International Money Express Takeover",
@@ -205,6 +205,12 @@
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "CoreWeave Finds a Workaround to Capital Constraints—for Now",
+      "link": "https://www.wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 17:45:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
       "link": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 15:23:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/opecs-oil-production-nears-prewar-levels-on-saudi-rebound-70ffcc13?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 14:43:00 GMT",
       "sentiment": -0.24166666666666667
-    },
-    {
-      "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
-      "link": "https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 09:34:00 GMT",
-      "sentiment": 0.082
     },
     {
       "title": "United Airlines Is Banning AI Bots From Booking Flights",
@@ -253,10 +253,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "BHP Names Australian Projects Boss as Next CFO",
+      "link": "https://www.wsj.com/business/c-suite/bhp-names-australian-projects-boss-as-next-cfo-30532955?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 01:03:00 GMT",
+      "sentiment": 0.028409090909090908
+    },
+    {
       "title": "Leadership Lessons From EY’s Former CEO",
       "link": "https://www.wsj.com/cfo-journal/leadership-lessons-from-eys-former-ceo-9f73fb10?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 12:12:00 GMT",
       "sentiment": 0.15
+    },
+    {
+      "title": "About Your Next Board Meeting",
+      "link": "https://www.wsj.com/articles/about-your-next-board-meeting-55f0ff0a?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Why the Credit Default Swap Market—Red Hot in the AI Trade—Is Vital for CFOs",
@@ -269,18 +281,6 @@
       "link": "https://www.wsj.com/articles/how-target-planned-for-brian-cornells-successor-4da93380?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 10:59:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "SiriusXM Chooses Board Member to Be CEO as Witz Steps Down",
-      "link": "https://www.wsj.com/business/c-suite/siriusxm-chooses-board-member-to-be-ceo-as-witz-steps-down-801a5087?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 14:17:00 GMT",
-      "sentiment": 0.04722222222222222
-    },
-    {
-      "title": "Goodyear CEO Mark Stewart Steps Down",
-      "link": "https://www.wsj.com/business/goodyear-ceo-mark-stewart-steps-down-9a85b5a8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 13:34:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
@@ -349,6 +349,12 @@
       "sentiment": 0.16
     },
     {
+      "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
+      "link": "https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 09:34:00 GMT",
+      "sentiment": 0.082
+    },
+    {
       "title": "Honda Plans $3 Billion Ohio Plant to Build Hybrids",
       "link": "https://www.wsj.com/logistics-report/honda-plans-3-billion-ohio-plant-to-build-hybrids-dc5ec13a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 11:55:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/business/alphabets-drone-unit-to-invest-up-to-125-million-in-new-texas-facility-d9725c3b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 06 Nov 2026 19:56:00 GMT",
       "sentiment": 0.1431818181818182
-    },
-    {
-      "title": "Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal",
-      "link": "https://www.wsj.com/logistics-report/zipline-valuation-soars-as-drone-startup-raises-funds-expands-walmart-deal-48676792?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 11:51:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
@@ -433,6 +433,12 @@
       "sentiment": 0.15
     },
     {
+      "title": "One More Rate Hike Is Looking Like the Beginning, Not the End",
+      "link": "https://www.wsj.com/articles/one-more-rate-hike-is-looking-like-the-beginning-not-the-end-7c18c678?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 10:57:00 GMT",
+      "sentiment": 0.12878787878787878
+    },
+    {
       "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom",
       "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-ai-bubble-93097556?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 03:00:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": -0.07772727272727273
     },
     {
-      "title": "CoreWeave Meets Wall Street Expectations, Shares Rise",
-      "link": "https://www.wsj.com/business/earnings/coreweave-crwv-3q-2026-earnings-report-stock-9c109753?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 22:14:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "An American Furniture Maker Tried to Bring Jobs Back Home. It Didn’t Work.",
       "link": "https://www.wsj.com/business/furniture-maker-us-tariffs-jobs-vietnam-345d77fe?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 02:00:00 GMT",
@@ -481,16 +481,16 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "Why High Beef Prices Are Here to Stay",
-      "link": "https://www.wsj.com/business/high-beef-prices-here-to-stay-004f9119?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.16
-    },
-    {
       "title": "United Airlines Is Banning AI Bots From Booking Flights",
       "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 22:43:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Why High Beef Prices Are Here to Stay",
+      "link": "https://www.wsj.com/business/high-beef-prices-here-to-stay-004f9119?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 10 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.16
     },
     {
       "title": "Best Small-Business Loans in November 2026",
