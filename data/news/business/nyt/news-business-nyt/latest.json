@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Microsoft’s Global Outage and Fixes: What We Know",
+      "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "published": "Fri, 13 Nov 2026 17:52:16 +0000",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
       "link": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
       "published": "Fri, 13 Nov 2026 17:05:47 +0000",
       "sentiment": -0.033333333333333326
     },
     {
-      "title": "Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize.",
+      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
       "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-      "published": "Fri, 13 Nov 2026 17:38:43 +0000",
-      "sentiment": 0.95
+      "published": "Fri, 13 Nov 2026 17:38:44 +0000",
+      "sentiment": 0.31666666666666665
     },
     {
       "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
@@ -51,7 +57,7 @@
     {
       "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
       "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
-      "published": "Fri, 13 Nov 2026 16:34:51 +0000",
+      "published": "Fri, 13 Nov 2026 18:24:18 +0000",
       "sentiment": 0.0625
     },
     {
@@ -87,7 +93,7 @@
     {
       "title": "Microsoft Says Outage Disrupting Outlook Is Improving",
       "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-      "published": "Fri, 13 Nov 2026 15:30:08 +0000",
+      "published": "Fri, 13 Nov 2026 18:05:44 +0000",
       "sentiment": 0.0
     },
     {
@@ -287,12 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html",
       "published": "Wed, 11 Nov 2026 14:45:05 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "How a Suspected Chinese Spy Gained Access to Nvidia Chips",
-      "link": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
-      "published": "Wed, 11 Nov 2026 13:48:52 +0000",
-      "sentiment": -0.04090909090909091
     }
   ]
 }
