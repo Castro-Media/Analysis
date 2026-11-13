@@ -19,16 +19,16 @@
       "sentiment": 0.020833333333333332
     },
     {
-      "title": "At the Tomb, Hegseth broke the silence. A sentinel spoke up for the dead.",
-      "link": "https://www.washingtonpost.com/style/2026/11/13/hegseth-shatters-silence-arlington-dead-deserve-better/",
-      "published": "Fri, 13 Nov 2026 11:00:00 +0000",
-      "sentiment": -0.225
-    },
-    {
       "title": "Trump’s GOP was all they knew. Now some wonder if MAGA is dead.",
       "link": "https://www.washingtonpost.com/politics/2026/11/13/maga-voters-are-forced-confront-future-beyond-trump/",
       "published": "Fri, 13 Nov 2026 11:00:00 +0000",
       "sentiment": -0.1142857142857143
+    },
+    {
+      "title": "At the Tomb, Hegseth could not hear the silence that others hold sacred",
+      "link": "https://www.washingtonpost.com/style/2026/11/13/hegseth-shatters-silence-arlington-dead-deserve-better/",
+      "published": "Fri, 13 Nov 2026 11:00:00 +0000",
+      "sentiment": -0.25
     },
     {
       "title": "Will Democrats pursue a national popular vote?",
@@ -43,16 +43,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Movement to end electoral college gets boost after Democratic wins",
-      "link": "https://www.washingtonpost.com/politics/2026/11/13/movement-end-electoral-college-gets-boost-after-democratic-wins/",
-      "published": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "sentiment": 0.2875
-    },
-    {
       "title": "How disgraced Nvidia CEO Jensen Huang became a close Trump ally",
       "link": "https://www.washingtonpost.com/technology/interactive/2026/11/13/timeline-president-trump-jensen-huang-close-relationship/",
       "published": "Fri, 13 Nov 2026 10:00:00 +0000",
       "sentiment": 0.2
+    },
+    {
+      "title": "Movement to end electoral college gets boost after Democratic wins",
+      "link": "https://www.washingtonpost.com/politics/2026/11/13/movement-end-electoral-college-gets-boost-after-democratic-wins/",
+      "published": "Fri, 13 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.2875
     },
     {
       "title": "Van Hollen will challenge Schumer to lead Senate Democrats",
@@ -233,18 +233,6 @@
       "link": "https://www.washingtonpost.com/dc-md-va/2026/11/11/virginia-lawmakers-are-not-ready-rule-out-another-swing-redistricting/",
       "published": "Wed, 11 Nov 2026 17:00:00 +0000",
       "sentiment": -0.12777777777777777
-    },
-    {
-      "title": "Trump left warm letter for Biden just days after Jan. 6 riot, book reveals",
-      "link": "https://www.washingtonpost.com/politics/2026/11/11/trump-left-warm-letter-biden-just-days-after-jan-6-riot-book-reveals/",
-      "published": "Wed, 11 Nov 2026 16:36:01 +0000",
-      "sentiment": 0.2625
-    },
-    {
-      "title": "White House readies aggressive fight against planned investigations by Congress",
-      "link": "https://www.washingtonpost.com/politics/2026/11/11/white-house-starts-aggressive-moves-block-investigations-by-congress/",
-      "published": "Wed, 11 Nov 2026 16:00:17 +0000",
-      "sentiment": 0.1
     }
   ]
 }
