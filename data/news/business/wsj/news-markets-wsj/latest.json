@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nvidia Shares Recoup Some Losses as Investors Eye Fallout",
+      "title": "Stock Market Today: Nvidia Shares Slide Again as Investors Eye Fallout From Huang's Removal",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 09:55:33 GMT",
-      "sentiment": 0.078125
+      "sentiment": 0.020833333333333332
+    },
+    {
+      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+      "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+      "published": "Fri, 13 Nov 2026 15:18:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
@@ -34,12 +40,6 @@
       "title": "Jensen Huang’s Exit Will Test AI’s Stocks, and Great-Man Theory",
       "link": "https://www.wsj.com/finance/stocks/jensen-huangs-exit-will-test-ais-stocks-and-great-man-theory-3c4cd404?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 21:41:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
-      "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 21:40:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -133,10 +133,10 @@
       "sentiment": 0.4666666666666666
     },
     {
-      "title": "Stock Futures Higher as Cool PPI Print Buoys Sentiment",
+      "title": "U.S. Stocks Fall as Nvidia Shares Drop Again",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 14:26:00 GMT",
-      "sentiment": 0.325
+      "published": "Fri, 13 Nov 2026 15:17:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "European Stock Indexes Turn Positive as Oil Drops",
@@ -199,9 +199,15 @@
       "sentiment": 0.0
     },
     {
-      "title": "Oil Slips Again as Traders Weigh Diplomacy Hopes",
+      "title": "U.S. Natural Gas Futures Return Some Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-return-some-gains-1b28586d?mod=rss_markets_main",
+      "published": "Fri, 13 Nov 2026 14:59:00 GMT",
+      "sentiment": 0.0375
+    },
+    {
+      "title": "Oil Futures Extend Gains in Early U.S. Trading",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-slips-again-as-traders-weigh-diplomacy-hopes-808f1641?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 01:28:00 GMT",
+      "published": "Fri, 13 Nov 2026 14:56:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-382816ab?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 21:55:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "U.S. Natural Gas Futures Extend Gains",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-as-cold-spell-nears-b99c70a2?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 21:54:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Dollar Supported by Hawkish Fed Expectations",
