@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nvidia Shares Slide Again as Investors Eye Fallout From Huang's Removal",
+      "title": "Stock Market Today: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 09:55:33 GMT",
       "sentiment": 0.020833333333333332
+    },
+    {
+      "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main",
+      "published": "Fri, 13 Nov 2026 21:19:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
@@ -37,12 +43,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
-      "link": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
       "link": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 17:43:00 GMT",
@@ -73,6 +73,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+      "link": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main",
+      "published": "Fri, 13 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Metro Bank Hangs Up ‘For Sale’ Sign",
       "link": "https://www.wsj.com/business/deals/metro-bank-hangs-up-for-sale-sign-6a1e3da4?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 08:25:00 GMT",
@@ -97,12 +103,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Norway’s Oil Fund Reaches $224.5 Million Settlement With KPMG Over SVB Collapse",
-      "link": "https://www.wsj.com/finance/banking/norway-oil-fund-reaches-224-5-million-settlement-with-kpmg-over-silicon-valley-bank-collapse-e0cc9045?mod=rss_markets_main",
-      "published": "Fri, 06 Nov 2026 15:05:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-82432d04?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 17:27:00 GMT",
@@ -121,21 +121,27 @@
       "sentiment": 0.0
     },
     {
+      "title": "Nvidia’s Meteoric Rise, in One Chart",
+      "link": "https://www.wsj.com/tech/nvidias-meteoric-rise-in-one-chart-2f47d54e?mod=rss_markets_main",
+      "published": "Thu, 12 Nov 2026 20:14:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Brookfield Earnings Buoyed by Fund Raising, Wealth Solutions Growth",
       "link": "https://www.wsj.com/finance/investing/brookfield-earnings-buoyed-by-fund-raising-wealth-solutions-growth-05a27297?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 12:57:00 GMT",
       "sentiment": 0.07777777777777778
     },
     {
-      "title": "Praise Was Heaped on Jensen Huang. That Might Be Part of the Problem.",
-      "link": "https://www.wsj.com/articles/praise-was-heaped-on-jensen-huang-that-might-be-part-of-the-problem-4cfa876c?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 12:03:00 GMT",
-      "sentiment": 0.0
+      "title": "U.S. Stocks Mixed on Nvidia Fallout Fears",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-nvidia-fallout-fears-f9946e8d?mod=rss_markets_main",
+      "published": "Fri, 13 Nov 2026 21:33:00 GMT",
+      "sentiment": -0.05185185185185185
     },
     {
-      "title": "U.S. Stocks Fall as Nvidia Shares Slide Again",
+      "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 17:31:00 GMT",
+      "published": "Fri, 13 Nov 2026 20:02:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 02:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Stocks Down as Huang Ouster Sends Shockwaves Through Tech",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-huang-ouster-sends-shockwaves-through-tech-5b0aa02a?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 22:12:00 GMT",
-      "sentiment": -0.05185185185185185
     },
     {
       "title": "Opinion | Congressional Insider Trading Isn’t as Common as You Think",
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Natural Gas Futures Relinquish Some Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-return-some-gains-1b28586d?mod=rss_markets_main",
+      "published": "Fri, 13 Nov 2026 20:38:00 GMT",
+      "sentiment": -0.11333333333333333
+    },
+    {
       "title": "Gold, Silver Futures Post Weekly Losses",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 19:29:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b3b3c77e?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 17:26:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "U.S. Natural Gas Storage Shows Above-Average Weekly Build",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-return-some-gains-1b28586d?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 17:03:00 GMT",
-      "sentiment": 0.15
     },
     {
       "title": "Oil Futures Extend Gains in Early U.S. Trading",

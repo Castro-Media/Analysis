@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Flights grounded across U.S. due to outage affecting air traffic control, FAA says",
+      "link": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
+      "published": "Fri, 13 Nov 2026 16:37:14 EST",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Rescue underway in New Orleans after tanker hits river cruise boat",
+      "link": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss",
+      "published": "Fri, 13 Nov 2026 16:06:41 EST",
+      "sentiment": 0.07727272727272727
+    },
+    {
       "title": "What the Jensen Huang scandal means for Trump and his administration",
       "link": "https://www.cbc.ca/news/world/jensen-huang-nvidia-trump-congress-investigations-9.7419755?cmp=rss",
       "published": "Fri, 13 Nov 2026 04:00:00 EST",
@@ -11,6 +23,12 @@
       "link": "https://www.cbc.ca/news/world/microsoft-outage-friday-activity-9.7420313?cmp=rss",
       "published": "Fri, 13 Nov 2026 05:55:43 EST",
       "sentiment": 0.12187500000000001
+    },
+    {
+      "title": "U.S. Treasury Secretary frustrated by Commerce Department's inaction on Nvidia chips",
+      "link": "https://www.cbc.ca/news/world/bessent-lutnick-nvidia-chips-exports-9.7421237?cmp=rss",
+      "published": "Fri, 13 Nov 2026 16:17:33 EST",
+      "sentiment": -0.2722222222222222
     },
     {
       "title": "Russell Brand accused by 6 women of sexual misconduct, assault following rape conviction",
@@ -101,24 +119,6 @@
       "link": "https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss",
       "published": "Wed, 11 Nov 2026 20:14:10 EST",
       "sentiment": -0.0375
-    },
-    {
-      "title": "Canada says Russian hockey players with visas will still be barred from world junior championship",
-      "link": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
-      "published": "Wed, 11 Nov 2026 18:09:18 EST",
-      "sentiment": 0.08666666666666667
-    },
-    {
-      "title": "Mississippi's Scott Colom secures Senate seat in another midterm win for Democrats",
-      "link": "https://www.cbc.ca/news/world/scott-colom-mississippi-senate-democrats-9.7418482?cmp=rss",
-      "published": "Wed, 11 Nov 2026 18:14:39 EST",
-      "sentiment": 0.29965986394557825
-    },
-    {
-      "title": "Millions of workers strike across Spain as citizens protest soaring housing costs",
-      "link": "https://www.cbc.ca/news/world/spain-strike-protest-march-housing-costs-9.7418346?cmp=rss",
-      "published": "Wed, 11 Nov 2026 16:20:40 EST",
-      "sentiment": 0.022420634920634924
     }
   ]
 }
