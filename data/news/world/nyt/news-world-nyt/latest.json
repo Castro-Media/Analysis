@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
+      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+      "published": "Fri, 13 Nov 2026 18:26:47 +0000",
+      "sentiment": -0.125
+    },
+    {
       "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
       "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
       "published": "Fri, 13 Nov 2026 16:02:36 +0000",
@@ -19,10 +25,10 @@
       "sentiment": -0.10361952861952863
     },
     {
-      "title": "Europe Haggles Over Who Will Represent It in Talks With Russia",
+      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
       "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-      "published": "Fri, 13 Nov 2026 12:33:19 +0000",
-      "sentiment": 0.6
+      "published": "Fri, 13 Nov 2026 18:52:07 +0000",
+      "sentiment": 0.2
     },
     {
       "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
@@ -75,14 +81,20 @@
     {
       "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
       "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
-      "published": "Fri, 13 Nov 2026 06:47:56 +0000",
+      "published": "Fri, 13 Nov 2026 06:47:57 +0000",
       "sentiment": 0.35
     },
     {
-      "title": "Indonesia’s Vice President, Gibran, Resigns",
-      "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
-      "published": "Thu, 12 Nov 2026 23:40:14 +0000",
-      "sentiment": -0.07777777777777778
+      "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+      "link": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+      "published": "Fri, 13 Nov 2026 17:59:45 +0000",
+      "sentiment": -0.030000000000000006
+    },
+    {
+      "title": "Microsoft’s Global Outage and Fixes: What We Know",
+      "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "published": "Fri, 13 Nov 2026 17:52:16 +0000",
+      "sentiment": -0.041666666666666664
     },
     {
       "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
@@ -137,6 +149,12 @@
       "link": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
       "published": "Fri, 13 Nov 2026 03:58:11 +0000",
       "sentiment": -0.0625
+    },
+    {
+      "title": "Indonesia’s Vice President, Gibran, Resigns",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+      "published": "Thu, 12 Nov 2026 23:40:14 +0000",
+      "sentiment": -0.07777777777777778
     },
     {
       "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
@@ -311,24 +329,6 @@
       "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
       "published": "Tue, 10 Nov 2026 15:30:06 +0000",
       "sentiment": 0.4
-    },
-    {
-      "title": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
-      "link": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
-      "published": "Tue, 10 Nov 2026 14:22:53 +0000",
-      "sentiment": -0.10277777777777777
-    },
-    {
-      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
-      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
-      "published": "Tue, 10 Nov 2026 16:23:18 +0000",
-      "sentiment": 0.4
-    },
-    {
-      "title": "Who Is David Walliams, the UK Entertainer Accused of Sexual Misconduct?",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/who-is-david-walliams-sexual-misconduct-allegations-uk.html",
-      "published": "Tue, 10 Nov 2026 12:39:28 +0000",
-      "sentiment": 0.22812500000000002
     }
   ]
 }
