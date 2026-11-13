@@ -61,16 +61,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Another California winery is struggling, being sued by lenders amid a slump in wine demand",
+      "link": "https://www.latimes.com/business/story/2026-11-10/another-california-winery-is-struggling-being-sued-by-lenders",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Hiltzik: The Democrats' first 'affordability' remedy should be raising the federal minimum wage",
       "link": "https://www.latimes.com/business/story/2026-11-10/the-democrats-first-affordability-remedy-should-be-raising-the-federal-minimum-wage",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "He built a chipmaking giant. Now Jensen Huang faces his biggest test",
-      "link": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.020833333333333332
     },
     {
       "title": "California judge says she was fired after objecting to settlements with insurers seeking rate hikes",
@@ -79,10 +79,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Another California winery is struggling, being sued by lenders amid a slump in wine demand",
-      "link": "https://www.latimes.com/business/story/2026-11-10/another-california-winery-is-struggling-being-sued-by-lenders",
+      "title": "He built a chipmaking giant. Now Jensen Huang faces his biggest test",
+      "link": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.020833333333333332
     },
     {
       "title": "Billionaire tax rejected on concern punishing the ultra-rich would hurt California's economy",
@@ -151,22 +151,28 @@
       "sentiment": -0.03333333333333333
     },
     {
-      "title": "Clifton's quietly reopens with plans to become an immersive, Meow Wolf-inspired megaspace",
-      "link": "https://www.latimes.com/travel/story/2026-11-06/cliftons-downtown-los-angeles-reopening-sanctuary",
-      "published": "Fri, 6 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.21212121212121213
-    },
-    {
       "title": "Hiltzik: CVS unwinds its big mergers, ending a dream of healthcare dominance",
       "link": "https://www.latimes.com/business/story/2026-11-06/cvs-healthcare-dominance-wrecked-unwinds-big-mergers",
       "published": "Fri, 6 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
     },
     {
+      "title": "Clifton's quietly reopens with plans to become an immersive, Meow Wolf-inspired megaspace",
+      "link": "https://www.latimes.com/travel/story/2026-11-06/cliftons-downtown-los-angeles-reopening-sanctuary",
+      "published": "Fri, 6 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
       "title": "Social media companies sue California over new law restricting use for children",
       "link": "https://www.latimes.com/california/story/2026-11-05/meta-social-media-companies-sue-california-over-new-restrictions",
       "published": "Thu, 5 Nov 2026 21:03:44 GMT",
       "sentiment": 0.01117424242424242
+    },
+    {
+      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.16
     },
     {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
@@ -181,22 +187,16 @@
       "sentiment": 0.029356060606060594
     },
     {
-      "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
-      "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "What the Democratic landslide means for GOP booster Elon Musk and his businesses",
       "link": "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.2
     },
     {
-      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
+      "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.16
+      "sentiment": 0.0
     },
     {
       "title": "SoCal Outback Steakhouse franchisee files for bankruptcy, citing California's labor costs",
@@ -337,6 +337,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "West Hollywood's tallest tower could rise on a former concrete plant site",
+      "link": "https://www.latimes.com/business/story/2026-10-27/former-concrete-plant-site-could-become-west-hollywoods-tallest-tower",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.04999999999999999
+    },
+    {
       "title": "Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess",
       "link": "https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
@@ -347,12 +353,6 @@
       "link": "https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "West Hollywood's tallest tower could rise on a former concrete plant site",
-      "link": "https://www.latimes.com/business/story/2026-10-27/former-concrete-plant-site-could-become-west-hollywoods-tallest-tower",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.04999999999999999
     },
     {
       "title": "Skydance offers voluntary buyouts to some employees",
@@ -433,6 +433,12 @@
       "sentiment": 0.375
     },
     {
+      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
+      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.10000000000000002
+    },
+    {
       "title": "Legendary Hollywood recording studio is up for sale",
       "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
@@ -443,12 +449,6 @@
       "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
-      "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.10000000000000002
     },
     {
       "title": "Meta hit with $25-billion penalty for misleading Facebook users about data privacy",
@@ -511,16 +511,16 @@
       "sentiment": -0.19999999999999998
     },
     {
-      "title": "Elon Musk just showed off a flying car. Here's what to know about the Tesla Roadster",
-      "link": "https://www.latimes.com/business/story/2026-10-17/elon-musk-just-showed-off-flying-car-heres-what-to-know-about-tesla-roadster",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
       "title": "Sky-high LADWP bills light up social media",
       "link": "https://www.latimes.com/environment/story/2026-10-17/sky-high-ladwp-bills-light-up-social-media",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": -0.3738095238095238
+    },
+    {
+      "title": "Elon Musk just showed off a flying car. Here's what to know about the Tesla Roadster",
+      "link": "https://www.latimes.com/business/story/2026-10-17/elon-musk-just-showed-off-flying-car-heres-what-to-know-about-tesla-roadster",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "As Hollywood fights AI, a new filmmaking hub takes shape in Culver City",
@@ -529,14 +529,14 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution",
-      "link": "https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution",
+      "title": "Hiltzik: The billionaires' campaign against the California billionaire tax rests on conjecture and fear-mongering",
+      "link": "https://www.latimes.com/business/story/2026-10-16/the-billionaires-campaign-against-california-billionaire-tax-relies-on-conjecture-and-fear-mongering",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Hiltzik: The billionaires' campaign against the California billionaire tax rests on conjecture and fear-mongering",
-      "link": "https://www.latimes.com/business/story/2026-10-16/the-billionaires-campaign-against-california-billionaire-tax-relies-on-conjecture-and-fear-mongering",
+      "title": "Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution",
+      "link": "https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
@@ -544,6 +544,12 @@
       "title": "Mortgage lenders probed over how they handled L.A. wildfire insurance payouts",
       "link": "https://www.latimes.com/business/story/2026-10-15/mortgage-lenders-probed-over-handling-of-la-wildfire-insurance-payouts",
       "published": "Thu, 15 Oct 2026 21:35:41 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Sonoma winery to close tasting room as people drink less",
+      "link": "https://www.latimes.com/business/story/2026-10-15/sonoma-winery-to-close-tasting-room-as-people-drink-less",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     }
   ]

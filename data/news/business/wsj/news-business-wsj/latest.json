@@ -97,6 +97,12 @@
       "sentiment": 0.0922222222222222
     },
     {
+      "title": "Germany’s Merck Raises Guidance Again on Growth Across Units",
+      "link": "https://www.wsj.com/business/earnings/germanys-merck-raises-guidance-again-on-growth-across-units-3f6cfb03?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 06:54:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Generali Signals Confidence in Beating Targets After Earnings Rise",
       "link": "https://www.wsj.com/business/earnings/generali-signals-confidence-in-beating-targets-after-earnings-rise-4f5f3495?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 06:29:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/applied-materials-sales-profit-climb-on-semiconductor-demand-1954e62c?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 21:23:00 GMT",
       "sentiment": -0.3
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1f3d97b8?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 17:26:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Seven Lessons From WSJ Readers About Switching to an EV",
@@ -193,6 +193,12 @@
       "sentiment": 0.30000000000000004
     },
     {
+      "title": "Oil Prices Rise as Middle East Supply Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-risks-persist-2066e758?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 07:37:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 21:01:00 GMT",
@@ -211,15 +217,9 @@
       "sentiment": 0.15
     },
     {
-      "title": "The Audacious Plan to Electrify the Global Economy—Again",
-      "link": "https://www.wsj.com/business/energy-oil/the-audacious-plan-to-electrify-the-global-economyagain-156d2b2e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 14:25:00 GMT",
-      "sentiment": 0.20555555555555552
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-4e16c46c?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 22:01:00 GMT",
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-1f3d97b8?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 12 Nov 2026 17:26:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -469,15 +469,15 @@
       "sentiment": 0.2
     },
     {
-      "title": "An American Furniture Maker Tried to Bring Jobs Back Home. It Didn’t Work.",
-      "link": "https://www.wsj.com/business/furniture-maker-us-tariffs-jobs-vietnam-345d77fe?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain",
       "link": "https://www.wsj.com/tech/jensen-huang-nvidia-silicon-valley-ce74b63f?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "An American Furniture Maker Tried to Bring Jobs Back Home. It Didn’t Work.",
+      "link": "https://www.wsj.com/business/furniture-maker-us-tariffs-jobs-vietnam-345d77fe?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 02:00:00 GMT",
       "sentiment": 0.0
     },
     {
