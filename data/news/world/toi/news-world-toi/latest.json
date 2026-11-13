@@ -1,6 +1,78 @@
 {
   "entries": [
     {
+      "title": "British children's author investigated over grooming, assault allegations involving minors",
+      "link": "https://timesofindia.indiatimes.com/world/uk/british-childrens-author-david-walliams-investigated-over-grooming-assault-allegations-involving-minors/articleshow/135812274.cms",
+      "published": "2026-11-13T23:09:14+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Appeals court revives lawsuit by Arizona woman barred from sleeping in her car due to OCD",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-arizona-woman-sleeps-in-her-car-when-her-disability-keeps-her-out-of-her-apartment-but-sedona-bans-sleeping-in-vehicles-even-on-private-land-a-november-12-federal-ruling-revived-her-disability-lawsuit/articleshow/135810737.cms",
+      "published": "2026-11-13T22:55:35+05:30",
+      "sentiment": -0.06458333333333333
+    },
+    {
+      "title": "Georgia warehouses once planned for ICE detention centers now listed for sale after local opposition",
+      "link": "https://timesofindia.indiatimes.com/world/us/georgia-towns-opposed-plans-to-turn-two-huge-warehouses-into-ice-detention-centers-including-one-designed-for-up-to-10000-people-the-federal-government-has-now-listed-both-properties-for-sale/articleshow/135809976.cms",
+      "published": "2026-11-13T22:20:33+05:30",
+      "sentiment": 0.035185185185185194
+    },
+    {
+      "title": "Florida brothers, 17 and 15, rescue mother, son and 3 dogs from floodwaters",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-lucas-marshall-17-and-jonah-marshall-15-of-palm-bay-florida-who-used-a-paddleboard-and-kayak-after-911-could-not-reach-their-flooded-neighbours-rescuing-a-mother-her-11-year-old-son-and-3-dogs/articleshow/135810967.cms",
+      "published": "2026-11-13T22:54:54+05:30",
+      "sentiment": 0.18333333333333335
+    },
+    {
+      "title": "The Block judges list two €1 homes for €195,000, pics inside",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/two-australian-reality-tv-judges-bought-two-abandoned-sicilian-houses-for-1-each-they-discovered-that-part-of-a-centuries-old-building-was-structurally-unsafe-and-transformed-the-properties-into-a-four-level-home-now-listed-for-195000/articleshow/135810488.cms",
+      "published": "2026-11-13T22:54:41+05:30",
+      "sentiment": 0.20833333333333331
+    },
+    {
+      "title": "Medical helicopter carrying 3 crew members crashes in Oklahoma; one injured",
+      "link": "https://timesofindia.indiatimes.com/world/us/medical-helicopter-carrying-3-crew-members-crashes-in-oklahoma-one-injured/articleshow/135810977.cms",
+      "published": "2026-11-13T22:45:33+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Watch: CCTV captures chilling moment Brooklyn apartment building collapses, killing 8",
+      "link": "https://timesofindia.indiatimes.com/world/us/watch-cctv-captures-chilling-moment-brooklyn-apartment-building-collapses-killing-8/articleshow/135810824.cms",
+      "published": "2026-11-13T22:38:19+05:30",
+      "sentiment": -0.25
+    },
+    {
+      "title": "92-year-old Florida woman retires after stranger raises $120,000 for her",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-92-year-old-florida-woman-was-still-working-at-a-clothing-store-because-she-could-not-afford-to-retire-a-strangers-fundraiser-raised-120000-and-neighbours-helped-repair-her-home/articleshow/135798915.cms",
+      "published": "2026-11-13T22:41:14+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "NASA has opened a $1 million Moon Base Student Challenge for US high school and college teams",
+      "link": "https://timesofindia.indiatimes.com/science/space/nasa-has-opened-a-1-million-moon-base-student-challenge-for-us-high-school-and-college-teams-to-solve-problems-like-power-habitats-and-astronaut-safety-on-the-moon-and-registration-runs-until-25-january/articleshow/135757358.cms",
+      "published": "2026-11-13T22:39:23+05:30",
+      "sentiment": -0.04363636363636365
+    },
+    {
+      "title": "Road construction in Kerala threatened thousands of rare orchids growing on trees",
+      "link": "https://timesofindia.indiatimes.com/science/nature/road-construction-in-kerala-threatened-thousands-of-rare-orchids-growing-on-trees-so-researchers-moved-27324-plants-to-new-sites-two-years-later-more-than-19500-had-survived-and-some-were-flowering/articleshow/135758599.cms",
+      "published": "2026-11-13T22:39:18+05:30",
+      "sentiment": 0.36509740259740253
+    },
+    {
+      "title": "Tiger's urine andscat reveals more than presence;researchers distinguished tigers from leopards",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/a-tigers-urine-and-scat-may-reveal-more-than-its-presence-researchers-distinguished-tigers-from-leopards-with-79-and-75-accuracy-suggesting-a-non-invasive-tool-for-monitoring-big-cats/articleshow/135758022.cms",
+      "published": "2026-11-13T22:39:11+05:30",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Underwater archaeologists exploring Lake Superior documented an 1880s flooded silver mine",
+      "link": "https://timesofindia.indiatimes.com/science/archaeology/underwater-archaeologists-exploring-lake-superior-documented-an-1880s-flooded-silver-mine-and-found-two-rail-cars-lost-in-a-2008-derailment-a-remote-submersible-reached-nearly-40-metres-below-the-surface/articleshow/135757866.cms",
+      "published": "2026-11-13T22:39:02+05:30",
+      "sentiment": 0.14545454545454542
+    },
+    {
       "title": "Trump admin asks US agencies to ditch foreign-language materials",
       "link": "https://timesofindia.indiatimes.com/world/us/operate-solely-in-english-trump-admin-asks-us-agencies-to-ditch-foreign-language-materials-over-27-million-could-be-affected/articleshow/135810054.cms",
       "published": "2026-11-13T22:06:32+05:30",
@@ -47,78 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/us/in-2022-kansas-backed-a-160-million-lagoon-resort-and-sold-35-3-million-in-bonds-four-years-later-with-no-buildings-on-the-site-the-state-is-suing-to-block-further-public-spending/articleshow/135807373.cms",
       "published": "2026-11-13T21:54:03+05:30",
       "sentiment": 0.11392045454545455
-    },
-    {
-      "title": "Paul McCartney's Scottish farm inspired Mull of Kintyre after Beatlemania",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/paul-mccartney-bought-a-remote-183-acre-scottish-farm-in-1966-to-escape-beatlemania-he-later-expanded-the-land-and-found-inspiration-for-mull-of-kintyre/articleshow/135681329.cms",
-      "published": "2026-11-10T03:55:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Mossad chief holds Iran war talks in Washington as Trump resists Netanyahu - Report",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/mossad-chief-holds-iran-war-talks-in-washington-as-trump-resists-netanyahu-report/articleshow/135808700.cms",
-      "published": "2026-11-13T21:09:20+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ex-aide to Ukraine's former PM Azarov hurt in Moscow car bombing; probe underway",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/moscow-car-bombing-former-aide-to-ukraines-ex-pm-azarov-injured-russia-opens-murder-probe/articleshow/135809356.cms",
-      "published": "2026-11-13T21:51:04+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A Dallas woman turns a $5.99 Goodwill find into $17,500",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-dallas-woman-paid-5-99-for-a-1930-gustave-baumann-woodcut-during-a-routine-goodwill-visit-the-signed-and-numbered-print-of-the-grand-canyon-fetched-17500-at-auction/articleshow/135807166.cms",
-      "published": "2026-11-13T20:20:50+05:30",
-      "sentiment": 0.23119047619047617
-    },
-    {
-      "title": "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly delivering drugs to a Sydney resident",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/youve-been-a-victim-woman-uber-driver-breaks-down-in-tears-after-unknowingly-delivering-drugs-to-a-sydney-resident/articleshow/135807628.cms",
-      "published": "2026-11-13T20:35:33+05:30",
-      "sentiment": -0.07685185185185185
-    },
-    {
-      "title": "Former Fox host Maria Bartiromo sells $6.5M Manhattan townhouse for $7M",
-      "link": "https://timesofindia.indiatimes.com/world/us/maria-bartiromo-and-her-husband-bought-a-five-level-new-york-townhouse-for-6-5-million-in-2007-nearly-19-years-later-the-former-fox-news-host-has-sold-it-for-7-million-after-leaving-the-network/articleshow/135806786.cms",
-      "published": "2026-11-13T20:04:54+05:30",
-      "sentiment": 0.11428571428571428
-    },
-    {
-      "title": "Suicide car bombing at security checkpoint in Pakistan kills 5, injures 13",
-      "link": "https://timesofindia.indiatimes.com/world/pakistan/suicide-car-bombing-at-security-checkpoint-in-pakistan-kills-5-injures-13/articleshow/135806931.cms",
-      "published": "2026-11-13T20:04:38+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "28-year-old techie with Rs 35 LPA salary denied US visa for vacation, asks if this one question decides the interview results",
-      "link": "https://timesofindia.indiatimes.com/world/us/28-year-old-techie-with-35-lpa-salary-denied-us-visa-for-vacation-asks-if-this-one-question-decides-the-interview-results/articleshow/135806234.cms",
-      "published": "2026-11-13T19:45:55+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Inheritance Dispute Ruling: judge voids Douglass will; elder son may get $1bn estate",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2019-an-82-year-old-spokane-real-estate-tycoon-with-dementia-rewrote-his-will-to-leave-his-eldest-son-just-1000-now-a-judge-has-thrown-it-out-and-that-son-could-inherit-most-of-a-600-million-estate/articleshow/135754967.cms",
-      "published": "2026-11-13T19:58:00+05:30",
-      "sentiment": 0.08571428571428573
-    },
-    {
-      "title": "72-year-old's restaurant was struggling; then a stranger's video changed everything",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-72-year-old-arizona-restaurant-owner-faced-financial-trouble-after-16-years-in-business-then-a-strangers-video-hit-a-million-views-customers-lined-up-and-a-fundraiser-passed-19000/articleshow/135803109.cms",
-      "published": "2026-11-13T19:55:00+05:30",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Ex-Hamas bodyguard found guilty of knife attack in UK; faces extradition to Germany",
-      "link": "https://timesofindia.indiatimes.com/world/uk/ex-hamas-bodyguard-found-guilty-of-knife-attack-in-uk-faces-extradition-to-germany/articleshow/135807503.cms",
-      "published": "2026-11-13T20:24:34+05:30",
-      "sentiment": -0.25
-    },
-    {
-      "title": "You’ve Got Mail home asks $3.95 million",
-      "link": "https://timesofindia.indiatimes.com/real-estate/news/the-1894-new-york-townhouse-used-as-the-exterior-of-meg-ryans-home-in-the-1998-film-youve-got-mail-is-listed-for-3-95-million-the-five-storey-upper-west-side-home-has-eight-bedrooms/articleshow/135805373.cms",
-      "published": "2026-11-13T19:26:54+05:30",
-      "sentiment": 0.32261904761904764
     }
   ]
 }

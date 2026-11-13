@@ -1,16 +1,28 @@
 {
   "entries": [
     {
-      "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
-      "link": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
-      "published": "Fri, 13 Nov 2026 16:25:12 +0000",
-      "sentiment": 0.0
+      "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
+      "link": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
+      "published": "Fri, 13 Nov 2026 17:05:47 +0000",
+      "sentiment": -0.033333333333333326
     },
     {
-      "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
+      "title": "Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize.",
+      "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+      "published": "Fri, 13 Nov 2026 17:38:43 +0000",
+      "sentiment": 0.95
+    },
+    {
+      "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
+      "link": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
+      "published": "Fri, 13 Nov 2026 17:05:12 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
       "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
       "published": "Fri, 13 Nov 2026 16:36:28 +0000",
-      "sentiment": 0.09999999999999999
+      "sentiment": 0.15
     },
     {
       "title": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
@@ -45,7 +57,7 @@
     {
       "title": "Democrats Eye Strict New Limits on White House Budget Powers",
       "link": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
-      "published": "Fri, 13 Nov 2026 10:03:55 +0000",
+      "published": "Fri, 13 Nov 2026 17:09:55 +0000",
       "sentiment": 0.04545454545454545
     },
     {
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html",
       "published": "Wed, 11 Nov 2026 13:48:52 +0000",
       "sentiment": -0.04090909090909091
-    },
-    {
-      "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
-      "link": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
-      "published": "Tue, 10 Nov 2026 22:58:31 +0000",
-      "sentiment": 0.78
-    },
-    {
-      "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
-      "link": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
-      "published": "Tue, 10 Nov 2026 22:03:38 +0000",
-      "sentiment": 0.022727272727272724
     }
   ]
 }
