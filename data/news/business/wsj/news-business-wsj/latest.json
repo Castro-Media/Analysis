@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Nvidia Needs Three CEOs in One",
+      "link": "https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 15:07:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Bessent Says Treasury Supported Blacklisting Megaspeed but Commerce Didn’t Act",
       "link": "https://www.wsj.com/politics/policy/bessent-says-treasury-supported-blacklisting-megaspeed-but-commerce-didnt-act-1f83148c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 14:51:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/kei-trucks-new-york-943d3ad3?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 10:30:00 GMT",
       "sentiment": -0.09090909090909091
-    },
-    {
-      "title": "They Were the Indispensable CEOs—Until They Weren’t",
-      "link": "https://www.wsj.com/business/they-were-the-indispensable-ceosuntil-they-werent-1bb8a52c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.1375
     },
     {
       "title": "Metro Bank Hangs Up ‘For Sale’ Sign",
@@ -127,6 +127,12 @@
       "sentiment": 0.16
     },
     {
+      "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
+      "link": "https://www.wsj.com/business/autos/stellantis-offers-to-repay-c-24-million-to-canada-but-government-says-automaker-breaching-commitments-15d5e00c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 15:53:00 GMT",
+      "sentiment": 0.01666666666666668
+    },
+    {
       "title": "Seven Lessons From WSJ Readers About Switching to an EV",
       "link": "https://www.wsj.com/business/autos/electric-vehicles-pros-cons-438709ac?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 10:30:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/toyotas-scion-brand-returns-with-japans-forbidden-fruit-minitrucks-4e66ea8c?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 15:00:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Stellantis Clinches Deal to Sell Canadian Factory to Defense Firm",
-      "link": "https://www.wsj.com/business/autos/stellantis-clinches-deal-to-sell-canadian-factory-to-defense-firm-4f6508c5?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 09 Nov 2026 23:11:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "Opinion | The Fallout From the Fall of Jensen Huang",
@@ -403,12 +403,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "Nvidia-Backed Nscale Says It Needs Additional Financing Ahead of Planned IPO",
-      "link": "https://www.wsj.com/tech/nvidia-backed-nscale-says-it-needs-additional-financing-ahead-of-planned-ipo-58f4f8c1?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 13:13:00 GMT",
-      "sentiment": 0.1375
-    },
-    {
       "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
       "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 17:54:00 GMT",
@@ -433,6 +427,18 @@
       "sentiment": 0.3
     },
     {
+      "title": "Readers Remember Their Favorite Small Businesses",
+      "link": "https://www.wsj.com/business/entrepreneurship/reader-stories-small-business-3679b083?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 06 Nov 2026 20:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "They Were the Indispensable CEOs—Until They Weren’t",
+      "link": "https://www.wsj.com/business/they-were-the-indispensable-ceosuntil-they-werent-1bb8a52c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.1375
+    },
+    {
       "title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
       "link": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 02:00:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-departs-bef1b4bb?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 17:57:00 GMT",
       "sentiment": 0.0625
-    },
-    {
-      "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
-      "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 17:42:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain",
