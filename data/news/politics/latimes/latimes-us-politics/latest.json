@@ -13,16 +13,16 @@
       "sentiment": -0.0625
     },
     {
-      "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
-      "link": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.03333333333333333
-    },
-    {
       "title": "Commentary: Christmas came early thanks to the Dems' midterm sweeps. The tree is going up",
       "link": "https://www.latimes.com/politics/story/2026-11-12/christmas-came-early-with-dem-midterm-wins-time-to-put-up-tree",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "sentiment": 0.1125
+    },
+    {
+      "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
+      "link": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "After historic losses, California GOP faces a fight over its future",
@@ -133,16 +133,16 @@
       "sentiment": -0.054545454545454564
     },
     {
-      "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
-      "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
-      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Backlash against Trump, ICE raids, high food prices fuels changing political tide in California heartland",
       "link": "https://www.latimes.com/california/story/2026-11-09/valaldao-villegas-san-joaquin-valley-trump",
       "published": "Mon, 9 Nov 2026 11:00:00 GMT",
       "sentiment": 0.015000000000000006
+    },
+    {
+      "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
+      "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
+      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
@@ -163,16 +163,16 @@
       "sentiment": -0.17777777777777778
     },
     {
-      "title": "As Stephen Miller rises, California hopes it can blunt his force with Democratic gains",
-      "link": "https://www.latimes.com/california/story/2026-11-07/stephen-miller-chief-of-staff-immigration-california",
-      "published": "Sat, 7 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.0625
-    },
-    {
       "title": "Trump, weighing new Iran strikes, faces a divided party and a ticking clock",
       "link": "https://www.latimes.com/politics/story/2026-11-07/trump-weighing-new-iran-strikes-faces-divided-party-ticking-clock",
       "published": "Sat, 7 Nov 2026 11:00:00 GMT",
       "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "As Stephen Miller rises, California hopes it can blunt his force with Democratic gains",
+      "link": "https://www.latimes.com/california/story/2026-11-07/stephen-miller-chief-of-staff-immigration-california",
+      "published": "Sat, 7 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.0625
     },
     {
       "title": "With death sentence clemency, Newsom takes another big political risk",
@@ -247,16 +247,16 @@
       "sentiment": 0.15
     },
     {
-      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.16
-    },
-    {
       "title": "Commentary: Say his name: Abdul El-Sayed becomes the nation's first Muslim senator",
       "link": "https://www.latimes.com/politics/story/2026-11-05/say-his-name-abdul-el-sayed-becomes-nations-first-muslim-senator",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.041666666666666664
+    },
+    {
+      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.16
     },
     {
       "title": "State Sen. Scott Wiener to succeed Pelosi in San Francisco House seat, as Chan concedes",
@@ -433,6 +433,12 @@
       "sentiment": 0.11666666666666665
     },
     {
+      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.11818181818181818
+    },
+    {
       "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
       "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
@@ -443,12 +449,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
-    },
-    {
-      "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11818181818181818
     },
     {
       "title": "Utilities lobby for shield from wildfire costs",
@@ -511,27 +511,21 @@
       "sentiment": 0.3333333333333333
     },
     {
-      "title": "A potential Democratic wave looms over Trump. Where does MAGA go after the midterms?",
-      "link": "https://www.latimes.com/politics/story/2026-11-01/potential-democratic-wave-looms-over-trump-where-does-maga-go-after-midterms",
-      "published": "Sun, 1 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Barabak: This desert duel is a key test of Trump's effect on the midterm election",
       "link": "https://www.latimes.com/politics/story/2026-11-01/midterm-election-trump-voters-arizona-congressional-battleground-tucson-ciscomani-mendoza",
       "published": "Sun, 1 Nov 2026 11:00:00 GMT",
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Cascade of court rulings rebuffs Trump administration's election efforts",
-      "link": "https://www.latimes.com/politics/story/2026-10-31/cascade-of-court-rulings-rebuffs-trump-administrations-election-efforts",
-      "published": "Sat, 31 Oct 2026 18:10:01 GMT",
+      "title": "A potential Democratic wave looms over Trump. Where does MAGA go after the midterms?",
+      "link": "https://www.latimes.com/politics/story/2026-11-01/potential-democratic-wave-looms-over-trump-where-does-maga-go-after-midterms",
+      "published": "Sun, 1 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
-      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
-      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "title": "Cascade of court rulings rebuffs Trump administration's election efforts",
+      "link": "https://www.latimes.com/politics/story/2026-10-31/cascade-of-court-rulings-rebuffs-trump-administrations-election-efforts",
+      "published": "Sat, 31 Oct 2026 18:10:01 GMT",
       "sentiment": 0.0
     },
     {
@@ -541,10 +535,10 @@
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "Proposed billionaire tax could impact California sports teams",
-      "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
-      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.5
+      "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
+      "link": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
+      "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Election night TV coverage is going full nerd for the 2026 midterms",
@@ -557,6 +551,12 @@
       "link": "https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters",
       "published": "Sat, 31 Oct 2026 10:00:00 GMT",
       "sentiment": 0.008333333333333338
+    },
+    {
+      "title": "Proposed billionaire tax could impact California sports teams",
+      "link": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
+      "published": "Sat, 31 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Justice Dept. sent subpoenas to L.A. election officials. What that means and what happens next",

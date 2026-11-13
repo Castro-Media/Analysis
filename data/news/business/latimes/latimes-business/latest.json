@@ -19,16 +19,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "Hiltzik: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
-      "link": "https://www.latimes.com/business/story/2026-11-12/the-meltdown-in-tech-and-science-jobs-has-happened-before-will-happen-again",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
       "link": "https://www.latimes.com/business/story/2026-11-12/cancer-institute-backed-by-larry-ellison-plans-major-layoffs-in-los-angeles",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "sentiment": 0.04971590909090909
+    },
+    {
+      "title": "Hiltzik: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
+      "link": "https://www.latimes.com/business/story/2026-11-12/the-meltdown-in-tech-and-science-jobs-has-happened-before-will-happen-again",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Look dine-in theater chain to reopen former iPic theater in Pasadena",
@@ -169,12 +169,6 @@
       "sentiment": 0.11742424242424243
     },
     {
-      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
-      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.029356060606060594
-    },
-    {
       "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
       "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -185,6 +179,12 @@
       "link": "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
+      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.029356060606060594
     },
     {
       "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
@@ -211,16 +211,16 @@
       "sentiment": 0.11875
     },
     {
-      "title": "Hiltzik: Can AI bots become conscious? Why Microsoft's AI boss says that's the wrong question",
-      "link": "https://www.latimes.com/business/story/2026-11-03/ai-bots-conscious-microsoft-ai-boss-anthropic-suleyman-intelligence",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
       "title": "Utilities lobby for shield from wildfire costs",
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Hiltzik: Can AI bots become conscious? Why Microsoft's AI boss says that's the wrong question",
+      "link": "https://www.latimes.com/business/story/2026-11-03/ai-bots-conscious-microsoft-ai-boss-anthropic-suleyman-intelligence",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "Newsom proposes $1-billion cap for film and TV tax incentive",
@@ -289,10 +289,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
-      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08901515151515152
+      "sentiment": 0.14166666666666666
     },
     {
       "title": "As Californian ports push truckers to go green, the struggling industry asks for more subsidies",
@@ -301,10 +301,10 @@
       "sentiment": 0.08333333333333333
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
+      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
+      "sentiment": 0.08901515151515152
     },
     {
       "title": "Disney's theme parks division lays off at least 100 employees",
@@ -391,16 +391,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Vallarta Supermarkets opens a new store",
-      "link": "https://www.latimes.com/business/story/2026-10-23/vallarta-supermarkets-opens-new-store",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0037878787878787845
-    },
-    {
       "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
       "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Vallarta Supermarkets opens a new store",
+      "link": "https://www.latimes.com/business/story/2026-10-23/vallarta-supermarkets-opens-new-store",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0037878787878787845
     },
     {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
@@ -427,12 +427,6 @@
       "sentiment": 0.375
     },
     {
-      "title": "Legendary Hollywood recording studio is up for sale",
-      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 1.0
-    },
-    {
       "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
       "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
@@ -443,6 +437,12 @@
       "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Legendary Hollywood recording studio is up for sale",
+      "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 1.0
     },
     {
       "title": "Meta hit with $25-billion penalty for misleading Facebook users about data privacy",
@@ -523,14 +523,14 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution",
-      "link": "https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution",
+      "title": "Hiltzik: The billionaires' campaign against the California billionaire tax rests on conjecture and fear-mongering",
+      "link": "https://www.latimes.com/business/story/2026-10-16/the-billionaires-campaign-against-california-billionaire-tax-relies-on-conjecture-and-fear-mongering",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Hiltzik: The billionaires' campaign against the California billionaire tax rests on conjecture and fear-mongering",
-      "link": "https://www.latimes.com/business/story/2026-10-16/the-billionaires-campaign-against-california-billionaire-tax-relies-on-conjecture-and-fear-mongering",
+      "title": "Vincent Thomas Bridge to close for 16 months, raising fears of traffic and pollution",
+      "link": "https://www.latimes.com/business/story/2026-10-16/vincent-thomas-bridge-to-close-for-16-months-raising-fears-of-traffic-pollution",
       "published": "Fri, 16 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     },
@@ -538,6 +538,12 @@
       "title": "Mortgage lenders probed over how they handled L.A. wildfire insurance payouts",
       "link": "https://www.latimes.com/business/story/2026-10-15/mortgage-lenders-probed-over-handling-of-la-wildfire-insurance-payouts",
       "published": "Thu, 15 Oct 2026 21:35:41 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Sonoma winery to close tasting room as people drink less",
+      "link": "https://www.latimes.com/business/story/2026-10-15/sonoma-winery-to-close-tasting-room-as-people-drink-less",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
     }
   ]
