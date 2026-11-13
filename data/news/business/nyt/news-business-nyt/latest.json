@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "A Scorecard for Huang’s Exit From Nvidia",
+      "link": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
+      "published": "Fri, 13 Nov 2026 13:19:40 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Jensen Huang’s Fall Costs Asia an A.I. Ambassador to the U.S.",
+      "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
+      "published": "Fri, 13 Nov 2026 13:18:40 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Looking Past Nvidia Turmoil, Stocks Log Best Week in Months",
       "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
       "published": "Fri, 13 Nov 2026 11:12:17 +0000",
@@ -37,10 +49,10 @@
       "sentiment": 0.11666666666666667
     },
     {
-      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+      "title": "Microsoft Races to Fix Outage Disrupting Outlook for a Second Day",
       "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
-      "published": "Fri, 13 Nov 2026 11:38:07 +0000",
-      "sentiment": 0.125
+      "published": "Fri, 13 Nov 2026 12:56:32 +0000",
+      "sentiment": -0.041666666666666664
     },
     {
       "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
       "published": "Tue, 10 Nov 2026 17:25:51 +0000",
       "sentiment": 0.19545454545454546
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest",
-      "published": "Tue, 10 Nov 2026 16:14:17 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
-      "link": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
-      "published": "Tue, 10 Nov 2026 15:10:43 +0000",
-      "sentiment": -0.15833333333333333
     }
   ]
 }
