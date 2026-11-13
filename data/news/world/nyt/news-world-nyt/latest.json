@@ -1,10 +1,40 @@
 {
   "entries": [
     {
+      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
+      "published": "Fri, 13 Nov 2026 10:02:05 +0000",
+      "sentiment": 0.005681818181818177
+    },
+    {
       "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
       "link": "https://www.nytimes.com/2026/11/13/world/middleeast/the-us-israel-relationship-is-broken-heres-how-eisenkot-could-fix-it.html",
       "published": "Fri, 13 Nov 2026 09:45:37 +0000",
       "sentiment": -0.061904761904761914
+    },
+    {
+      "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html",
+      "published": "Fri, 13 Nov 2026 10:01:42 +0000",
+      "sentiment": -0.10361952861952863
+    },
+    {
+      "title": "Europe Haggles Over Who Will Represent It in Talks With Russia",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+      "published": "Fri, 13 Nov 2026 10:21:16 +0000",
+      "sentiment": 0.6
+    },
+    {
+      "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+      "link": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
+      "published": "Fri, 13 Nov 2026 10:02:17 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "MEXICO CITY",
+      "link": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
+      "published": "Fri, 13 Nov 2026 10:00:19 +0000",
+      "sentiment": -0.04090909090909092
     },
     {
       "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
@@ -55,34 +85,10 @@
       "sentiment": -0.07777777777777778
     },
     {
-      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-      "published": "Wed, 11 Nov 2026 18:02:52 +0000",
-      "sentiment": 0.15000000000000002
-    },
-    {
-      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
-      "published": "Wed, 11 Nov 2026 17:40:41 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "published": "Thu, 12 Nov 2026 07:30:40 +0000",
-      "sentiment": 0.05000000000000001
-    },
-    {
-      "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
-      "published": "Wed, 11 Nov 2026 21:14:46 +0000",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
-      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-      "published": "Thu, 12 Nov 2026 03:22:36 +0000",
-      "sentiment": -0.13333333333333333
+      "title": "Why Aid Isn’t Reaching Ebola’s Epicenter",
+      "link": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
+      "published": "Fri, 13 Nov 2026 10:02:19 +0000",
+      "sentiment": 0.050216450216450215
     },
     {
       "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
@@ -157,10 +163,28 @@
       "sentiment": 0.0
     },
     {
+      "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+      "published": "Wed, 11 Nov 2026 21:14:46 +0000",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Kenya Starts Countdown to End of Ebola Outbreak",
       "link": "https://www.nytimes.com/2026/11/11/world/africa/kenya-ebola-countdown.html",
       "published": "Wed, 11 Nov 2026 17:50:40 +0000",
       "sentiment": 0.0625
+    },
+    {
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+      "published": "Wed, 11 Nov 2026 18:02:52 +0000",
+      "sentiment": 0.15000000000000002
+    },
+    {
+      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+      "published": "Wed, 11 Nov 2026 17:40:41 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
@@ -173,6 +197,18 @@
       "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
       "published": "Wed, 11 Nov 2026 21:14:47 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "published": "Thu, 12 Nov 2026 07:30:40 +0000",
+      "sentiment": 0.05000000000000001
+    },
+    {
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+      "published": "Thu, 12 Nov 2026 03:22:36 +0000",
+      "sentiment": -0.13333333333333333
     },
     {
       "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
@@ -299,42 +335,6 @@
       "link": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html",
       "published": "Tue, 10 Nov 2026 18:02:20 +0000",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
-      "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
-      "published": "Wed, 11 Nov 2026 03:33:32 +0000",
-      "sentiment": 0.19318181818181818
-    },
-    {
-      "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
-      "link": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
-      "published": "Tue, 10 Nov 2026 11:01:07 +0000",
-      "sentiment": -0.13181818181818183
-    },
-    {
-      "title": "U.S. Forces in Europe Face Uncertainty as Pentagon Reviews Troop Levels",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/us-troops-germany-pentagon-review-army.html",
-      "published": "Tue, 10 Nov 2026 12:58:18 +0000",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
-      "published": "Tue, 10 Nov 2026 12:51:02 +0000",
-      "sentiment": -0.08187499999999999
-    },
-    {
-      "title": "As Fresh Air Becomes a Luxury, Many Indonesians Turn on Their Leader",
-      "link": "https://www.nytimes.com/2026/11/10/world/asia/indonesia-wildfire-protests-prabowo.html",
-      "published": "Tue, 10 Nov 2026 10:32:25 +0000",
-      "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
-      "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
-      "published": "Thu, 12 Nov 2026 22:04:47 +0000",
-      "sentiment": -0.12000000000000002
     }
   ]
 }
