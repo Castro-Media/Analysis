@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+      "published": "Fri, 13 Nov 2026 23:10:21 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+      "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+      "published": "Fri, 13 Nov 2026 22:46:15 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
       "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
       "published": "Fri, 13 Nov 2026 21:28:58 +0000",
@@ -15,7 +27,7 @@
     {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
       "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-      "published": "Fri, 13 Nov 2026 19:04:31 +0000",
+      "published": "Fri, 13 Nov 2026 22:30:39 +0000",
       "sentiment": -0.041666666666666664
     },
     {
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
       "published": "Thu, 12 Nov 2026 19:29:52 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
-      "link": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
-      "published": "Thu, 12 Nov 2026 19:02:30 +0000",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Entertainment 360 Acquires Brigade, a Management Firm Rich in Substackers",
-      "link": "https://www.nytimes.com/2026/11/11/style/brigade-entertainment-360-acquisition-max-stein.html",
-      "published": "Wed, 11 Nov 2026 10:01:59 +0000",
-      "sentiment": -0.05500000000000001
     }
   ]
 }

@@ -1,10 +1,70 @@
 {
   "entries": [
     {
-      "title": "Search and Rescue Underway in New Orleans After Cargo Ship Crashes Into Riverboat",
+      "title": "Mullin Says Nationwide Ground Stop Is a Telecommunication Outage",
+      "link": "https://www.nytimes.com/2026/11/13/us/markwayne-mullin-faa-ground-stop.html",
+      "published": "Fri, 13 Nov 2026 23:48:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+      "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
+      "published": "Fri, 13 Nov 2026 23:42:43 +0000",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Airports Fill Up With Stuck Families and Stranded Travelers",
+      "link": "https://www.nytimes.com/2026/11/13/us/airports-stranded-travelers.html",
+      "published": "Fri, 13 Nov 2026 23:14:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Officials Press Congress to Renew Spying Law in Lame-Duck Session",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
+      "published": "Fri, 13 Nov 2026 23:10:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+      "published": "Fri, 13 Nov 2026 23:10:21 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "5 Takeaways from Joe Biden’s Memoir: The Debate, Dropping Out and Advice From Romney",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html",
+      "published": "Fri, 13 Nov 2026 23:01:10 +0000",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Democrats Vie for Support in Race for Top Senate Job",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html",
+      "published": "Fri, 13 Nov 2026 22:53:50 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Last Ground Stop, in 2023, Came After a Pilot Warning System Went Down",
+      "link": "https://www.nytimes.com/2026/11/13/us/2023-ground-stop-faa-pilot-warning-system.html",
+      "published": "Fri, 13 Nov 2026 23:21:07 +0000",
+      "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "No Criminal Charges for Driver of Truck That Plowed Into Crowd in Kansas",
+      "link": "https://www.nytimes.com/2026/11/13/us/wichita-kansas-soccer-field-crash-charges.html",
+      "published": "Fri, 13 Nov 2026 22:35:12 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
+      "link": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
+      "published": "Fri, 13 Nov 2026 23:18:08 +0000",
+      "sentiment": 0.3433333333333333
+    },
+    {
+      "title": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
       "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
-      "published": "Fri, 13 Nov 2026 21:48:48 +0000",
-      "sentiment": 0.13636363636363635
+      "published": "Fri, 13 Nov 2026 23:14:42 +0000",
+      "sentiment": 0.11818181818181818
     },
     {
       "title": "Supreme Court Set to Hear Trump’s Ban on Asylum Claims at Border",
@@ -15,25 +75,25 @@
     {
       "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
       "link": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
-      "published": "Fri, 13 Nov 2026 20:06:16 +0000",
+      "published": "Fri, 13 Nov 2026 22:24:47 +0000",
       "sentiment": -0.19444444444444445
     },
     {
       "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
       "link": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
-      "published": "Fri, 13 Nov 2026 21:26:20 +0000",
+      "published": "Fri, 13 Nov 2026 22:18:02 +0000",
       "sentiment": 0.13333333333333333
     },
     {
       "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
       "link": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html",
-      "published": "Fri, 13 Nov 2026 20:21:44 +0000",
+      "published": "Fri, 13 Nov 2026 22:32:22 +0000",
       "sentiment": 0.037500000000000006
     },
     {
       "title": "Richard Glossip, Ex-Oklahoma Death Row Prisoner, Pleads to Lesser Charge",
       "link": "https://www.nytimes.com/2026/11/13/us/richard-glossip-guilty-plea-oklahoma.html",
-      "published": "Fri, 13 Nov 2026 19:43:09 +0000",
+      "published": "Fri, 13 Nov 2026 22:04:26 +0000",
       "sentiment": -0.25
     },
     {
@@ -63,7 +123,7 @@
     {
       "title": "Even Scott Colom’s Backers Were Skeptical. Here’s How He Won in Mississippi.",
       "link": "https://www.nytimes.com/2026/11/13/us/politics/scott-colom-mississippi-democrat-defied-odds.html",
-      "published": "Fri, 13 Nov 2026 15:01:10 +0000",
+      "published": "Fri, 13 Nov 2026 15:01:11 +0000",
       "sentiment": 1.3877787807814457e-17
     },
     {
@@ -101,30 +161,6 @@
       "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
       "published": "Fri, 13 Nov 2026 03:27:02 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "What Does 2026 Mean for the Map in 2028?",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/midterm-elections-2028-presidential-map.html",
-      "published": "Thu, 12 Nov 2026 23:14:35 +0000",
-      "sentiment": -0.07528409090909091
-    },
-    {
-      "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
-      "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
-      "published": "Fri, 13 Nov 2026 01:11:13 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
-      "link": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
-      "published": "Thu, 12 Nov 2026 23:16:10 +0000",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
-      "published": "Fri, 13 Nov 2026 02:23:48 +0000",
-      "sentiment": 0.5
     }
   ]
 }

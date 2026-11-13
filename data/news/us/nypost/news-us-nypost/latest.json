@@ -1,6 +1,90 @@
 {
   "entries": [
     {
+      "title": "LA gangster ‘Fat Boy’ helped Olympic snowboarder turned drug kingpin run billion-dollar trafficking ring: feds",
+      "link": "https://nypost.com/2026/11/13/us-news/fugitive-charged-with-leaking-intel-to-ex-olympians-drug-cartel/",
+      "published": "Fri, 13 Nov 2026 18:42:41 -0500",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Mamdani to announce ‘rebrand’ of NYPD protest response unit after lefty attacks: sources",
+      "link": "https://nypost.com/2026/11/13/us-news/mamdani-to-announce-rebrand-of-controversial-nypd-protest-response-unit-after-lefty-attacks/",
+      "published": "Fri, 13 Nov 2026 18:25:22 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "NY education boss demands state fork over massive funding increase to replace Regents: ‘We can’t be starved’",
+      "link": "https://nypost.com/2026/11/13/us-news/ny-education-boss-demands-state-fork-over-massive-funding-increase-to-replace-regents/",
+      "published": "Fri, 13 Nov 2026 18:24:44 -0500",
+      "sentiment": 0.1692727272727273
+    },
+    {
+      "title": "Mamdani crows about NYC meeting class size compliance — but there’s a catch",
+      "link": "https://nypost.com/2026/11/13/us-news/mamdani-crows-about-nyc-meeting-class-size-compliance-but-theres-a-catch/",
+      "published": "Fri, 13 Nov 2026 18:21:57 -0500",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "It’s a Nice Day for a Billy Idol Day as rebel yell rocker takes over LA City Hall",
+      "link": "https://nypost.com/2026/11/13/us-news/its-a-nice-day-for-a-billy-idol-day-as-rebel-yell-rocker-takes-over-la-city-hall/",
+      "published": "Fri, 13 Nov 2026 18:19:48 -0500",
+      "sentiment": 0.36818181818181817
+    },
+    {
+      "title": "Airport security makes terrifying discovery in luggage at California airport: ‘Not something you see every day’",
+      "link": "https://nypost.com/2026/11/13/us-news/tsa-find-live-snakes-rattlesnake-at-california-airport/",
+      "published": "Fri, 13 Nov 2026 18:00:52 -0500",
+      "sentiment": -0.19999999999999998
+    },
+    {
+      "title": "Congress’ top doc resigns amid probe into toxic work environment, claims he made staff cut lawmakers’ toenails",
+      "link": "https://nypost.com/2026/11/13/us-news/congress-top-doc-resigns-amid-probe-into-toxic-work-environment-claims-he-made-staff-cut-lawmakers-toenails/",
+      "published": "Fri, 13 Nov 2026 17:55:58 -0500",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "FAA launched new AI ‘SMART’ tool to all air route traffic control centers just days before nationwide ground stop",
+      "link": "https://nypost.com/2026/11/13/us-news/faa-launched-new-ai-smart-tool-to-all-air-route-traffic-control-centers-just-days-before-nationwide-ground-stop/",
+      "published": "Fri, 13 Nov 2026 17:44:32 -0500",
+      "sentiment": 0.19675324675324674
+    },
+    {
+      "title": "LA couple slapped with automatic $293 parking ticket — but their dashcam tells a very different story",
+      "link": "https://nypost.com/2026/11/13/us-news/la-couple-fights-293-bus-lane-ticket-with-dashcam-video/",
+      "published": "Fri, 13 Nov 2026 17:31:18 -0500",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Dozens of passengers rushed to hospital after tanker lost control and collided with cruise ship: mayor",
+      "link": "https://nypost.com/2026/11/13/us-news/dozens-of-passengers-rushed-to-hospital-after-tanker-lost-control-and-collided-with-cruise-ship-mayor/",
+      "published": "Fri, 13 Nov 2026 17:29:58 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Road rage shooter’s disfigured face revealed in mugshot — as cops reveal violent details",
+      "link": "https://nypost.com/2026/11/13/us-news/orange-county-road-rage-shooters-disfigured-face-revealed-in-mugshot/",
+      "published": "Fri, 13 Nov 2026 17:29:38 -0500",
+      "sentiment": -0.3
+    },
+    {
+      "title": "Flight map shows crowded runway at SFO after FAA issues nationwide ground stop",
+      "link": "https://nypost.com/2026/11/13/us-news/flight-map-shows-crowded-runway-at-sfo-after-faa-issues-nationwide-ground-stop/",
+      "published": "Fri, 13 Nov 2026 17:19:03 -0500",
+      "sentiment": 0.25
+    },
+    {
+      "title": "NYC Marathon’s viral ‘bad judgement’ mom DQed from race records for smoking weed on course",
+      "link": "https://nypost.com/2026/11/13/us-news/texas-mom-disqualified-from-nyc-marathon-for-smoking-weed-on-course/",
+      "published": "Fri, 13 Nov 2026 17:06:09 -0500",
+      "sentiment": -0.19999999999999993
+    },
+    {
+      "title": "Traffic chaos chokes LAX runways as FAA issues nationwide ground stop over ‘extraordinary circumstances’",
+      "link": "https://nypost.com/2026/11/13/us-news/travel-chaos-at-lax-after-faa-issues-nationwide-ground-stop/",
+      "published": "Fri, 13 Nov 2026 16:59:50 -0500",
+      "sentiment": 0.17083333333333334
+    },
+    {
       "title": "1 in 5 NYC transit riders say they can’t afford fares as MTA plans another hike",
       "link": "https://nypost.com/2026/11/13/us-news/1-in-5-nyc-transit-riders-say-they-cant-afford-fares-as-mta-plans-another-hike/",
       "published": "Fri, 13 Nov 2026 16:48:53 -0500",
@@ -19,100 +103,16 @@
       "sentiment": 0.1090909090909091
     },
     {
-      "title": "Dad, little girl killed in Brooklyn building collapse often stayed inside for fear of ICE: family",
+      "title": "Brooklyn building collapse kills three members of same family: ‘We have no words’",
       "link": "https://nypost.com/2026/11/13/us-news/dad-little-girl-killed-in-brooklyn-building-collapse-often-stayed-inside-for-fear-of-ice-family/",
       "published": "Fri, 13 Nov 2026 16:26:05 -0500",
-      "sentiment": -0.12916666666666668
+      "sentiment": -0.04107142857142857
     },
     {
       "title": "All planes halted across US as FAA issues nationwide ground stop over ‘extraordinary circumstances’",
       "link": "https://nypost.com/2026/11/13/us-news/planes-halted-across-us-as-faa-issues-nationwide-ground-stop-over-extraordinary-circumstances/",
       "published": "Fri, 13 Nov 2026 16:21:55 -0500",
       "sentiment": 0.011111111111111108
-    },
-    {
-      "title": "Illinois quietly releases killer illegal migrant — who had deportation order when he mowed down Marine vet — from prison early",
-      "link": "https://nypost.com/2026/11/13/us-news/illinois-quietly-releases-killer-illegal-migrant-from-prison-early/",
-      "published": "Fri, 13 Nov 2026 16:10:45 -0500",
-      "sentiment": 0.03240740740740741
-    },
-    {
-      "title": "Mamdani quietly funnels extra $6.2M in taxpayer dollars to office slammed as ‘propaganda arm’",
-      "link": "https://nypost.com/2026/11/13/us-news/mamdani-quietly-redirects-millions-of-dollars-to-his-propaganda-arm/",
-      "published": "Fri, 13 Nov 2026 16:07:23 -0500",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Trump will have historic meeting with Xi, Putin in China to talk nuclear arms control",
-      "link": "https://nypost.com/2026/11/13/us-news/trump-will-have-historic-meeting-with-xi-putin-in-china/",
-      "published": "Fri, 13 Nov 2026 16:06:14 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Fake California women’s festival used ‘AI slop’ ads to trick vendors into paying $185",
-      "link": "https://nypost.com/2026/11/13/us-news/wine-country-womens-festival-turns-out-to-be-an-ai-slop-scam/",
-      "published": "Fri, 13 Nov 2026 15:59:47 -0500",
-      "sentiment": -0.5
-    },
-    {
-      "title": "Ex-CIA director John Brennan’s son busted after FBI exposes dozens of alleged child porn images",
-      "link": "https://nypost.com/2026/11/13/us-news/ex-cia-director-john-brennans-son-busted-after-fbi-exposes-dozens-of-alleged-child-porn-images/",
-      "published": "Fri, 13 Nov 2026 15:55:55 -0500",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Gamers granted vacation days to play GTA 6: ‘Five-day business trip in Vice City’",
-      "link": "https://nypost.com/2026/11/13/us-news/gamers-granted-mandatory-vacation-to-play-gta6-five-day-business-trip-in-vice-city/",
-      "published": "Fri, 13 Nov 2026 15:55:18 -0500",
-      "sentiment": -0.07500000000000001
-    },
-    {
-      "title": "Inside the Zabar family’s little-known $30M NYC real estate empire",
-      "link": "https://nypost.com/2026/11/13/real-estate/inside-the-zabar-familys-nearly-30m-nyc-property-empire/",
-      "published": "Fri, 13 Nov 2026 15:53:15 -0500",
-      "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "Barnard College student slashed by stranger outside NYC dorm bulding",
-      "link": "https://nypost.com/2026/11/13/us-news/barnard-college-student-slashed-by-stranger-outside-nyc-dorm-bulding/",
-      "published": "Fri, 13 Nov 2026 15:40:46 -0500",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Tanker hits docked cruise ship with more than 125 passengers; rescues underway",
-      "link": "https://nypost.com/2026/11/13/us-news/tanker-hits-docked-cruise-ship-with-more-than-125-passengers-rescues-underway/",
-      "published": "Fri, 13 Nov 2026 15:23:05 -0500",
-      "sentiment": 0.12727272727272726
-    },
-    {
-      "title": "Lauren Boebert loses re-election bid in solid red Colorado district",
-      "link": "https://nypost.com/2026/11/13/us-news/lauren-boebert-loses-re-election-bid-in-solid-red-colorado-district/",
-      "published": "Fri, 13 Nov 2026 15:18:45 -0500",
-      "sentiment": 0.05
-    },
-    {
-      "title": "NYPD sergeant, dad of two ‘who took pride in everything he did’ killed in fiery LI crash",
-      "link": "https://nypost.com/2026/11/13/us-news/nypd-sergeant-dad-of-two-who-took-pride-in-everything-he-did-killed-in-fiery-li-crash/",
-      "published": "Fri, 13 Nov 2026 15:12:17 -0500",
-      "sentiment": 0.011904761904761899
-    },
-    {
-      "title": "NYC woman set to give birth next week lost hubby in Brooklyn building collapse: ‘He was so excited’",
-      "link": "https://nypost.com/2026/11/13/us-news/nyc-woman-set-to-give-birth-next-week-lost-hubby-in-brooklyn-building-collapse/",
-      "published": "Fri, 13 Nov 2026 15:08:43 -0500",
-      "sentiment": 0.25
-    },
-    {
-      "title": "NYC approved construction plans near site of deadly Brooklyn building collapse despite major red flags: records, sources",
-      "link": "https://nypost.com/2026/11/13/us-news/nyc-okd-construction-near-collapse-despite-red-flags-records-sources/",
-      "published": "Fri, 13 Nov 2026 15:01:22 -0500",
-      "sentiment": -0.03392857142857143
-    },
-    {
-      "title": "Mamdani announces he personally brokered deal with Trump to delay SNAP cuts for bodegas",
-      "link": "https://nypost.com/2026/11/13/us-news/mamdani-announces-he-personally-brokered-deal-with-trump-to-delay-snap-cuts-for-bodegas/",
-      "published": "Fri, 13 Nov 2026 14:44:49 -0500",
-      "sentiment": 0.1787878787878788
     }
   ]
 }
