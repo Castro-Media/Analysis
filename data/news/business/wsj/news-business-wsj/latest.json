@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
+      "link": "https://www.wsj.com/tech/in-jensen-huangs-ouster-tech-billionaires-see-a-mistakeand-a-lesson-2bea613c?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.3625
+    },
+    {
+      "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
+      "link": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 10:01:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
       "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 03:15:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 01:19:00 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
-      "link": "https://www.wsj.com/business/wingstop-aws-digital-ordering-8e4567d1?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.29166666666666663
-    },
-    {
-      "title": "Everyone’s a Winner in the ‘Call Her Daddy’ Podcast Feud",
-      "link": "https://www.wsj.com/business/media/sofia-franklyn-daddy-issues-book-alex-cooper-dave-portnoy-a2ede141?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
@@ -223,9 +223,9 @@
       "sentiment": 0.15
     },
     {
-      "title": "FAA Lifts Nationwide Groundstop That Upended Flights",
+      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop",
       "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 07:33:00 GMT",
+      "published": "Sat, 14 Nov 2026 10:22:00 GMT",
       "sentiment": -0.1
     },
     {
@@ -283,6 +283,12 @@
       "sentiment": 0.028409090909090908
     },
     {
+      "title": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
+      "link": "https://www.wsj.com/business/wingstop-aws-digital-ordering-8e4567d1?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.29166666666666663
+    },
+    {
       "title": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
       "link": "https://www.wsj.com/business/earnings/lyfts-bookings-rise-on-strength-in-partnerships-new-products-d8953f77?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 21:12:00 GMT",
@@ -307,10 +313,10 @@
       "sentiment": 0.3
     },
     {
-      "title": "Papa John’s Cuts Outlook Again as Quarterly Sales Sink",
-      "link": "https://www.wsj.com/business/retail/papa-johns-cuts-outlook-again-as-quarterly-sales-sink-789ef18c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 12:45:00 GMT",
-      "sentiment": 0.2
+      "title": "Everyone’s a Winner in the ‘Call Her Daddy’ Podcast Feud",
+      "link": "https://www.wsj.com/business/media/sofia-franklyn-daddy-issues-book-alex-cooper-dave-portnoy-a2ede141?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Victor Miller Wrote ‘Friday the 13th.’ He Thought the Sequels Got It All Wrong.",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/cmo-today/when-ad-algorithms-dont-play-along-with-your-new-marketing-strategy-b6123822?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 14:53:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "In ‘Ebenezer,’ Johnny Depp Seeks Redemption in the Guise of Scrooge",
-      "link": "https://www.wsj.com/arts-culture/film/johnny-depp-ebenezer-pirates-comeback-a4e5cb5a?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.1708333333333333
     },
     {
       "title": "A Tanker Lost Control and Hit a River Cruise Ship in New Orleans",
@@ -373,10 +373,10 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
-      "link": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 00:04:00 GMT",
-      "sentiment": 0.05
+      "title": "Microsoft Service Restored After Widespread Outage, Company Says",
+      "link": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 09:56:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
@@ -481,16 +481,16 @@
       "sentiment": -0.053418803418803416
     },
     {
-      "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
-      "link": "https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 18:47:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
       "link": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 02:00:00 GMT",
       "sentiment": -0.13333333333333333
+    },
+    {
+      "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "link": "https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 18:47:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "Best Small-Business Loans in November 2026",

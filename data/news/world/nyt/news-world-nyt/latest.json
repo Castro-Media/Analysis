@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+      "published": "Sat, 14 Nov 2026 05:01:06 +0000",
+      "sentiment": 0.1028409090909091
+    },
+    {
+      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
+      "published": "Fri, 13 Nov 2026 20:10:37 +0000",
+      "sentiment": 0.1787878787878788
+    },
+    {
+      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+      "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+      "published": "Sat, 14 Nov 2026 10:10:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+      "published": "Sat, 14 Nov 2026 05:01:06 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
       "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
       "published": "Fri, 13 Nov 2026 21:50:12 +0000",
@@ -55,45 +79,9 @@
       "sentiment": -0.13333333333333333
     },
     {
-      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-      "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-      "published": "Thu, 12 Nov 2026 10:00:57 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
       "link": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
       "published": "Thu, 12 Nov 2026 05:01:11 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
-      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
-      "published": "Thu, 12 Nov 2026 09:45:47 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-      "published": "Thu, 12 Nov 2026 14:43:08 +0000",
-      "sentiment": -0.025
-    },
-    {
-      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-      "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
-      "published": "Fri, 13 Nov 2026 06:47:57 +0000",
-      "sentiment": 0.35
-    },
-    {
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "published": "Sat, 14 Nov 2026 05:01:06 +0000",
-      "sentiment": 0.1028409090909091
-    },
-    {
-      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
-      "published": "Sat, 14 Nov 2026 05:01:06 +0000",
       "sentiment": 0.0
     },
     {
@@ -119,12 +107,6 @@
       "link": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
       "published": "Fri, 13 Nov 2026 21:01:28 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-      "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
-      "published": "Fri, 13 Nov 2026 20:10:37 +0000",
-      "sentiment": 0.1787878787878788
     },
     {
       "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
@@ -187,6 +169,24 @@
       "sentiment": -0.015909090909090914
     },
     {
+      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+      "published": "Thu, 12 Nov 2026 14:43:08 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+      "published": "Thu, 12 Nov 2026 10:00:57 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
+      "published": "Thu, 12 Nov 2026 09:45:47 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "In China’s Spy Operations, Romance Can Be a Long Game",
       "link": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
       "published": "Fri, 13 Nov 2026 03:58:11 +0000",
@@ -197,6 +197,12 @@
       "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
       "published": "Thu, 12 Nov 2026 23:40:14 +0000",
       "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
+      "published": "Fri, 13 Nov 2026 06:47:57 +0000",
+      "sentiment": 0.35
     },
     {
       "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
