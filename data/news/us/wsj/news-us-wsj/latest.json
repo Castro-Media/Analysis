@@ -1,7 +1,13 @@
 {
   "entries": [
     {
-      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop",
+      "title": "Christian Schools, Big Universities Try to Fight Race-Discrimination Rule",
+      "link": "https://www.wsj.com/us-news/education/christian-schools-big-universities-try-to-fight-race-discrimination-rule-57e554e2?mod=rss_usnews",
+      "published": "Sat, 14 Nov 2026 20:00:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
       "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews",
       "published": "Sat, 14 Nov 2026 13:10:00 GMT",
       "sentiment": -0.1
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/politics/rear-admiral-resigns-as-congresss-top-doctor-amid-probe-55aba49d?mod=rss_usnews",
       "published": "Fri, 13 Nov 2026 17:28:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "See What the ‘Super El Niño’ Means for This Year’s Ski Season",
-      "link": "https://www.wsj.com/us-news/climate-environment/see-what-the-super-el-nino-means-for-this-years-ski-season-f233a1d6?mod=rss_usnews",
-      "published": "Fri, 13 Nov 2026 16:06:00 GMT",
-      "sentiment": 0.04444444444444443
     },
     {
       "title": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -97,6 +97,12 @@
       "sentiment": -0.025
     },
     {
+      "title": "See What the ‘Super El Niño’ Means for This Year’s Ski Season",
+      "link": "https://www.wsj.com/us-news/climate-environment/see-what-the-super-el-nino-means-for-this-years-ski-season-f233a1d6?mod=rss_usnews",
+      "published": "Fri, 13 Nov 2026 16:06:00 GMT",
+      "sentiment": 0.04444444444444443
+    },
+    {
       "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
       "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=rss_usnews",
       "published": "Fri, 06 Nov 2026 23:33:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/real-estate/luxury-homes/zone-zero-fire-buffer-california-3f5631f6?mod=rss_usnews",
       "published": "Wed, 21 Oct 2026 11:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Four Dead After Isaias Crashes Into Gulf Coast",
-      "link": "https://www.wsj.com/us-news/climate-environment/hurricane-isaias-makes-landfall-in-florida-ac0b1964?mod=rss_usnews",
-      "published": "Sat, 10 Oct 2026 23:02:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "Opinion | Of Course Jensen Huang Had to Go",
@@ -193,7 +193,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop",
+      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
       "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews",
       "published": "Sat, 14 Nov 2026 13:10:00 GMT",
       "sentiment": -0.1
