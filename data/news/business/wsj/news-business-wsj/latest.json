@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "SpaceX Launches Starship on Ambitious Bid to Catch Spacecraft",
+      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 23:44:00 GMT",
+      "sentiment": 0.175
+    },
+    {
+      "title": "FAA Halts Departing Flights Nationwide",
+      "link": "https://www.wsj.com/business/airlines/faa-halts-departing-flights-nationwide-d2c54958?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
       "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 19:18:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/articles/jensen-huang-called-her-a-deer-in-the-headlights-now-she-runs-nvidia-d7f063dd?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 11:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Leadership Message in the Nvidia Saga",
-      "link": "https://www.wsj.com/business/the-leadership-message-in-the-nvidia-saga-407cd688?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 10:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "A New York Construction Worker Fell for a Tiny Car—and Started a Rebellion",
-      "link": "https://www.wsj.com/business/autos/kei-trucks-new-york-943d3ad3?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 10:30:00 GMT",
-      "sentiment": -0.09090909090909091
     },
     {
       "title": "Metro Bank Hangs Up ‘For Sale’ Sign",
@@ -133,6 +133,12 @@
       "sentiment": 0.01666666666666668
     },
     {
+      "title": "A New York Construction Worker Fell for a Tiny Car—and Started a Rebellion",
+      "link": "https://www.wsj.com/business/autos/kei-trucks-new-york-943d3ad3?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.09090909090909091
+    },
+    {
       "title": "Seven Lessons From WSJ Readers About Switching to an EV",
       "link": "https://www.wsj.com/business/autos/electric-vehicles-pros-cons-438709ac?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 10:30:00 GMT",
@@ -151,10 +157,10 @@
       "sentiment": 0.1666666666666667
     },
     {
-      "title": "Toyota’s Scion Brand Returns With Japan’s Forbidden-Fruit Minitrucks",
-      "link": "https://www.wsj.com/business/autos/toyotas-scion-brand-returns-with-japans-forbidden-fruit-minitrucks-4e66ea8c?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 10 Nov 2026 15:00:00 GMT",
-      "sentiment": 0.1
+      "title": "Opinion | Of Course Jensen Huang Had to Go",
+      "link": "https://www.wsj.com/opinion/jensen-huang-nvidia-megaspeed-alice-huang-china-89b2ec4c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 22:53:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Opinion | Jensen Huang and the World’s Information Chaos",
@@ -184,12 +190,6 @@
       "title": "Opinion | An EV Mandate for Disneyland",
       "link": "https://www.wsj.com/opinion/california-autopia-electric-vehicles-disney-9ce69eb0?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 22:52:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Don’t You Dare Listen to Your Employees",
-      "link": "https://www.wsj.com/opinion/dont-you-dare-listen-to-your-employees-a0a3a259?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 22:10:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -223,10 +223,10 @@
       "sentiment": 0.15
     },
     {
-      "title": "FAA Issues Groundstop for Flights Across U.S.",
+      "title": "More Than 10,000 Flights Delayed or Canceled in FAA’s Nationwide Groundstop",
       "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 21:36:00 GMT",
-      "sentiment": 0.0
+      "published": "Fri, 13 Nov 2026 23:40:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Jensen Huang’s Resignation Quiets the AI Boom’s Best PR Asset",
@@ -259,6 +259,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The Leadership Message in the Nvidia Saga",
+      "link": "https://www.wsj.com/business/the-leadership-message-in-the-nvidia-saga-407cd688?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 10:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nebius Lowers Outlook, Addresses Worries Over Financing AI Buildout",
       "link": "https://www.wsj.com/business/earnings/nebius-lowers-outlook-addresses-worries-over-financing-ai-buildout-699ca1dc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 13:38:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/business/c-suite/bhp-names-australian-projects-boss-as-next-cfo-30532955?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 01:03:00 GMT",
       "sentiment": 0.028409090909090908
-    },
-    {
-      "title": "Leadership Lessons From EY’s Former CEO",
-      "link": "https://www.wsj.com/cfo-journal/leadership-lessons-from-eys-former-ceo-9f73fb10?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 12:12:00 GMT",
-      "sentiment": 0.15
     },
     {
       "title": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
@@ -343,10 +343,10 @@
       "sentiment": 0.1708333333333333
     },
     {
-      "title": "Tanker Hits Cruise Ship With Over 100 People on Board in New Orleans",
+      "title": "A Tanker Lost Control and Hit a River Cruise Ship in New Orleans",
       "link": "https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 21:40:00 GMT",
-      "sentiment": 0.11818181818181817
+      "published": "Fri, 13 Nov 2026 23:44:00 GMT",
+      "sentiment": 0.3181818181818182
     },
     {
       "title": "China Looks to Shake Up Centuries-Old Business of Insuring Ships",
@@ -475,6 +475,12 @@
       "sentiment": 0.1375
     },
     {
+      "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
+      "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 19:18:00 GMT",
+      "sentiment": -0.053418803418803416
+    },
+    {
       "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
       "link": "https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 18:47:00 GMT",
@@ -487,21 +493,15 @@
       "sentiment": -0.12121212121212122
     },
     {
-      "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
-      "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 19:18:00 GMT",
-      "sentiment": -0.053418803418803416
-    },
-    {
       "title": "Best Small-Business Loans in November 2026",
       "link": "https://www.wsj.com/buyside/personal-finance/business-loans/best-small-business-loans?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 13:26:00 GMT",
+      "published": "Fri, 13 Nov 2026 22:14:00 GMT",
       "sentiment": 1.0
     },
     {
       "title": "Best Business Debt Consolidation Loans in November 2026",
       "link": "https://www.wsj.com/buyside/personal-finance/business-loans/business-debt-consolidation-loans?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 02 Nov 2026 11:26:00 GMT",
+      "published": "Fri, 13 Nov 2026 22:14:00 GMT",
       "sentiment": 0.5
     },
     {
