@@ -13,6 +13,12 @@
       "sentiment": 0.1787878787878788
     },
     {
+      "title": "Ukraine’s Starshield Access Is Being Restricted Again, Zelensky Says",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+      "published": "Sat, 14 Nov 2026 12:24:35 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
       "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
       "published": "Sat, 14 Nov 2026 10:10:01 +0000",
@@ -71,12 +77,6 @@
       "link": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
       "published": "Fri, 13 Nov 2026 14:47:23 +0000",
       "sentiment": 0.19821428571428573
-    },
-    {
-      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-      "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-      "published": "Fri, 13 Nov 2026 07:58:38 +0000",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
@@ -173,6 +173,12 @@
       "link": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
       "published": "Thu, 12 Nov 2026 20:15:04 +0000",
       "sentiment": -0.015909090909090914
+    },
+    {
+      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+      "published": "Fri, 13 Nov 2026 07:58:38 +0000",
+      "sentiment": -0.13333333333333333
     },
     {
       "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
@@ -329,12 +335,6 @@
       "link": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
       "published": "Wed, 11 Nov 2026 05:27:26 +0000",
       "sentiment": 0.07500000000000001
-    },
-    {
-      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-      "published": "Thu, 12 Nov 2026 03:07:34 +0000",
-      "sentiment": -0.05
     }
   ]
 }
