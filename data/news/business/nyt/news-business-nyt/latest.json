@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
+      "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
+      "published": "Sat, 14 Nov 2026 13:17:58 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "5 Big Questions as C.E.O.s Meet in China",
+      "link": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html",
+      "published": "Sat, 14 Nov 2026 13:00:06 +0000",
+      "sentiment": -0.009375000000000001
+    },
+    {
       "title": "This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say",
       "link": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
       "published": "Sat, 14 Nov 2026 10:02:26 +0000",
@@ -15,7 +27,7 @@
     {
       "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
       "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "published": "Sat, 14 Nov 2026 05:01:06 +0000",
+      "published": "Sat, 14 Nov 2026 05:01:07 +0000",
       "sentiment": 0.1028409090909091
     },
     {
@@ -45,8 +57,8 @@
     {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
       "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-      "published": "Fri, 13 Nov 2026 22:30:40 +0000",
-      "sentiment": -0.041666666666666664
+      "published": "Sat, 14 Nov 2026 13:15:55 +0000",
+      "sentiment": -0.0625
     },
     {
       "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
@@ -275,18 +287,6 @@
       "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
       "published": "Wed, 11 Nov 2026 17:29:52 +0000",
       "sentiment": -0.11041666666666666
-    },
-    {
-      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-      "published": "Wed, 11 Nov 2026 14:46:43 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
-      "link": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
-      "published": "Wed, 11 Nov 2026 13:40:36 +0000",
-      "sentiment": 0.07500000000000001
     }
   ]
 }
