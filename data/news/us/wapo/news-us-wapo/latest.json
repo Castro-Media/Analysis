@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "What are your rights when your flight is canceled?",
+      "link": "https://www.washingtonpost.com/nation/2026/11/14/ground-stop-cancels-flights-nationwide-what-rights-do-fliers-have/",
+      "published": "Sat, 14 Nov 2026 17:00:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Work to replace old wiring led to ground stop, transportation secretary says",
+      "link": "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/",
+      "published": "Sat, 14 Nov 2026 16:56:09 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’",
       "link": "https://www.washingtonpost.com/nation/2026/11/15/sean-duffys-news-briefing-ground-stop-disrupted-by-tech-difficulties/",
       "published": "Sat, 14 Nov 2026 16:33:27 +0000",
       "sentiment": 0.3
-    },
-    {
-      "title": "Travel chaos, flight cancellations continue following nationwide ground stop",
-      "link": "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/",
-      "published": "Sat, 14 Nov 2026 14:13:24 +0000",
-      "sentiment": -0.05000000000000002
     },
     {
       "title": "White evangelicals voted less, and less for the GOP, new analysis says",
@@ -131,12 +137,6 @@
       "link": "https://www.washingtonpost.com/nation/2026/11/12/san-francisco-approves-first-gay-bathhouse-since-aids-epidemic/",
       "published": "Thu, 12 Nov 2026 18:00:00 +0000",
       "sentiment": 0.39583333333333337
-    },
-    {
-      "title": "Home sales in worst slump since the aftermath of the Great Recession",
-      "link": "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/",
-      "published": "Thu, 12 Nov 2026 17:47:38 +0000",
-      "sentiment": -0.12222222222222219
     }
   ]
 }
