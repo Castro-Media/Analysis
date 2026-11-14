@@ -1,13 +1,19 @@
 {
   "entries": [
     {
+      "title": "Federal Aviation Administration says airplane departures can resume following rare nationwide ground stop",
+      "link": "https://www.chicagotribune.com/2026/11/13/flights-halted-at-airports-nationwide-due-to-air-traffic-control-communications-problems/",
+      "published": "Sat, 14 Nov 2026 01:27:17 +0000",
+      "sentiment": 0.15
+    },
+    {
       "title": "Effort to revive public encrypted police dispatch feed gains steam in Oak Park",
       "link": "https://www.chicagotribune.com/2026/11/13/oak-park-police-dispatch-public-feed/",
       "published": "Fri, 13 Nov 2026 21:41:02 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "Hundreds of Chicago flights delayed or canceled due to air traffic control communications problems. ‘Chaos’ at the gates.",
+      "title": "Hundreds of Chicago flights delayed or canceled due to nationwide air traffic control communications problems. ‘Chaos’ at the gates.",
       "link": "https://www.chicagotribune.com/2026/11/13/faa-halts-flights-ground-stop-nationwide/",
       "published": "Fri, 13 Nov 2026 21:25:39 +0000",
       "sentiment": -0.125
@@ -593,12 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/11/03/data-center-growth-nuclear-power-indiana/",
       "published": "Tue, 03 Nov 2026 16:18:36 +0000",
       "sentiment": -0.1
-    },
-    {
-      "title": "Chicago-based Brick is the latest bet against screen addiction",
-      "link": "https://www.chicagotribune.com/2026/11/03/brick-screen-addition/",
-      "published": "Tue, 03 Nov 2026 16:00:43 +0000",
-      "sentiment": 0.5
     }
   ]
 }
