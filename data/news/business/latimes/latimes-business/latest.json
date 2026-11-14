@@ -31,16 +31,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
-      "link": "https://www.latimes.com/business/story/2026-11-12/cancer-institute-backed-by-larry-ellison-plans-major-layoffs-in-los-angeles",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.04971590909090909
-    },
-    {
       "title": "Hiltzik: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
       "link": "https://www.latimes.com/business/story/2026-11-12/the-meltdown-in-tech-and-science-jobs-has-happened-before-will-happen-again",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
+      "link": "https://www.latimes.com/business/story/2026-11-12/cancer-institute-backed-by-larry-ellison-plans-major-layoffs-in-los-angeles",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.04971590909090909
     },
     {
       "title": "Look dine-in theater chain to reopen former iPic theater in Pasadena",
@@ -67,16 +67,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Another California winery is struggling, being sued by lenders amid a slump in wine demand",
+      "link": "https://www.latimes.com/business/story/2026-11-10/another-california-winery-is-struggling-being-sued-by-lenders",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Hiltzik: The Democrats' first 'affordability' remedy should be raising the federal minimum wage",
       "link": "https://www.latimes.com/business/story/2026-11-10/the-democrats-first-affordability-remedy-should-be-raising-the-federal-minimum-wage",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "He built a chipmaking giant. Now Jensen Huang faces his biggest test",
-      "link": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.020833333333333332
     },
     {
       "title": "California judge says she was fired after objecting to settlements with insurers seeking rate hikes",
@@ -85,10 +85,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Another California winery is struggling, being sued by lenders amid a slump in wine demand",
-      "link": "https://www.latimes.com/business/story/2026-11-10/another-california-winery-is-struggling-being-sued-by-lenders",
+      "title": "He built a chipmaking giant. Now Jensen Huang faces his biggest test",
+      "link": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.020833333333333332
     },
     {
       "title": "Billionaire tax rejected on concern punishing the ultra-rich would hurt California's economy",
@@ -157,16 +157,16 @@
       "sentiment": -0.03333333333333333
     },
     {
-      "title": "Clifton's quietly reopens with plans to become an immersive, Meow Wolf-inspired megaspace",
-      "link": "https://www.latimes.com/travel/story/2026-11-06/cliftons-downtown-los-angeles-reopening-sanctuary",
-      "published": "Fri, 6 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.21212121212121213
-    },
-    {
       "title": "Hiltzik: CVS unwinds its big mergers, ending a dream of healthcare dominance",
       "link": "https://www.latimes.com/business/story/2026-11-06/cvs-healthcare-dominance-wrecked-unwinds-big-mergers",
       "published": "Fri, 6 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Clifton's quietly reopens with plans to become an immersive, Meow Wolf-inspired megaspace",
+      "link": "https://www.latimes.com/travel/story/2026-11-06/cliftons-downtown-los-angeles-reopening-sanctuary",
+      "published": "Fri, 6 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.21212121212121213
     },
     {
       "title": "Social media companies sue California over new law restricting use for children",
@@ -175,22 +175,16 @@
       "sentiment": 0.01117424242424242
     },
     {
+      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.16
+    },
+    {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
       "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.11742424242424243
-    },
-    {
-      "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
-      "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What the Democratic landslide means for GOP booster Elon Musk and his businesses",
-      "link": "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
@@ -199,10 +193,16 @@
       "sentiment": 0.029356060606060594
     },
     {
-      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "title": "What the Democratic landslide means for GOP booster Elon Musk and his businesses",
+      "link": "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.16
+      "sentiment": 0.2
+    },
+    {
+      "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
+      "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "SoCal Outback Steakhouse franchisee files for bankruptcy, citing California's labor costs",
@@ -223,16 +223,16 @@
       "sentiment": 0.11875
     },
     {
-      "title": "Utilities lobby for shield from wildfire costs",
-      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.12000000000000002
-    },
-    {
       "title": "Hiltzik: Can AI bots become conscious? Why Microsoft's AI boss says that's the wrong question",
       "link": "https://www.latimes.com/business/story/2026-11-03/ai-bots-conscious-microsoft-ai-boss-anthropic-suleyman-intelligence",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Utilities lobby for shield from wildfire costs",
+      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.12000000000000002
     },
     {
       "title": "Newsom proposes $1-billion cap for film and TV tax incentive",
@@ -301,10 +301,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
+      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
+      "sentiment": 0.08901515151515152
     },
     {
       "title": "As Californian ports push truckers to go green, the struggling industry asks for more subsidies",
@@ -313,10 +313,10 @@
       "sentiment": 0.08333333333333333
     },
     {
-      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
-      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08901515151515152
+      "sentiment": 0.14166666666666666
     },
     {
       "title": "Disney's theme parks division lays off at least 100 employees",
@@ -343,6 +343,12 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "West Hollywood's tallest tower could rise on a former concrete plant site",
+      "link": "https://www.latimes.com/business/story/2026-10-27/former-concrete-plant-site-could-become-west-hollywoods-tallest-tower",
+      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+      "sentiment": -0.04999999999999999
+    },
+    {
       "title": "Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess",
       "link": "https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
@@ -353,12 +359,6 @@
       "link": "https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know",
       "published": "Tue, 27 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "West Hollywood's tallest tower could rise on a former concrete plant site",
-      "link": "https://www.latimes.com/business/story/2026-10-27/former-concrete-plant-site-could-become-west-hollywoods-tallest-tower",
-      "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-      "sentiment": -0.04999999999999999
     },
     {
       "title": "Skydance offers voluntary buyouts to some employees",
@@ -403,16 +403,16 @@
       "sentiment": 0.13333333333333333
     },
     {
-      "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
-      "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
-      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
       "title": "Vallarta Supermarkets opens a new store",
       "link": "https://www.latimes.com/business/story/2026-10-23/vallarta-supermarkets-opens-new-store",
       "published": "Fri, 23 Oct 2026 10:00:00 GMT",
       "sentiment": 0.0037878787878787845
+    },
+    {
+      "title": "Hiltzik: A judge just gave us 25 billion reasons why Meta's privacy promises about its Muse AI bot shouldn't be trusted",
+      "link": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
+      "published": "Fri, 23 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
@@ -439,12 +439,6 @@
       "sentiment": 0.375
     },
     {
-      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
-      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
-      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Behind Elon Musk's plans for a mega-merger of SpaceX and Tesla",
       "link": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
@@ -455,6 +449,12 @@
       "link": "https://www.latimes.com/business/story/2026-10-22/legendary-hollywood-recording-studio-is-up-for-sale",
       "published": "Thu, 22 Oct 2026 10:00:00 GMT",
       "sentiment": 1.0
+    },
+    {
+      "title": "Hiltzik: The Arizona-Nevada-California water war is heating up, and all three states will end up parched",
+      "link": "https://www.latimes.com/business/story/2026-10-22/the-arizona-nevada-california-water-war-is-heating-up-and-all-three-states-will-end-up-parched",
+      "published": "Thu, 22 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Meta hit with $25-billion penalty for misleading Facebook users about data privacy",
@@ -517,16 +517,16 @@
       "sentiment": -0.19999999999999998
     },
     {
-      "title": "Elon Musk just showed off a flying car. Here's what to know about the Tesla Roadster",
-      "link": "https://www.latimes.com/business/story/2026-10-17/elon-musk-just-showed-off-flying-car-heres-what-to-know-about-tesla-roadster",
-      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
       "title": "Sky-high LADWP bills light up social media",
       "link": "https://www.latimes.com/environment/story/2026-10-17/sky-high-ladwp-bills-light-up-social-media",
       "published": "Sat, 17 Oct 2026 10:00:00 GMT",
       "sentiment": -0.3738095238095238
+    },
+    {
+      "title": "Elon Musk just showed off a flying car. Here's what to know about the Tesla Roadster",
+      "link": "https://www.latimes.com/business/story/2026-10-17/elon-musk-just-showed-off-flying-car-heres-what-to-know-about-tesla-roadster",
+      "published": "Sat, 17 Oct 2026 10:00:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "As Hollywood fights AI, a new filmmaking hub takes shape in Culver City",
