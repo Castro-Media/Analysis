@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
+      "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 03:15:00 GMT",
+      "sentiment": 0.2681818181818182
+    },
+    {
+      "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
+      "link": "https://www.wsj.com/politics/policy/nvidia-jensen-huang-trump-relationship-529a6cd7?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 02:07:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Powerful Trump Allies Aided a Chinese Vape Operation",
       "link": "https://www.wsj.com/politics/policy/china-vapes-trump-administration-c03af406?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 02:00:00 GMT",
@@ -22,18 +34,6 @@
       "title": "Everyone’s a Winner in the ‘Call Her Daddy’ Podcast Feud",
       "link": "https://www.wsj.com/business/media/sofia-franklyn-daddy-issues-book-alex-cooper-dave-portnoy-a2ede141?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
-      "link": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 00:04:00 GMT",
-      "sentiment": 0.05
-    },
-    {
-      "title": "FAA Halts Departing Flights Nationwide",
-      "link": "https://www.wsj.com/business/airlines/faa-halts-departing-flights-nationwide-d2c54958?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 22:24:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -223,10 +223,16 @@
       "sentiment": 0.15
     },
     {
-      "title": "FAA Lifts Nationwide Groundstop that Upended More Than 14,500 Flights",
+      "title": "FAA Lifts Nationwide Groundstop That Upended Flights",
       "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 02:01:00 GMT",
-      "sentiment": 0.2
+      "published": "Sat, 14 Nov 2026 02:51:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "FAA Halts Departing Flights Nationwide",
+      "link": "https://www.wsj.com/business/airlines/faa-halts-departing-flights-nationwide-d2c54958?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Jensen Huang’s Resignation Quiets the AI Boom’s Best PR Asset",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/middle-east/jd-vance-emerges-as-lead-iran-negotiator-cba55bcb?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 22:20:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Embraer Mulls New Aircraft Lines as Core Jet Business Booms",
-      "link": "https://www.wsj.com/business/embraer-mulls-new-aircraft-lines-as-core-jet-business-booms-e64582f5?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 22:11:00 GMT",
-      "sentiment": 0.19318181818181818
     },
     {
       "title": "Nvidia Succession Shows Key Part of CFOs’ Jobs: Serving as On-Call CEOs in a Pinch",
@@ -373,6 +373,12 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
+      "link": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 00:04:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
       "link": "https://www.wsj.com/business/earnings/softbank-group-posts-quarterly-loss-on-special-losses-linked-to-u-s-data-center-projects-23b37a41?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 03:42:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/earnings/mtn-group-posts-revenue-growth-higher-profitability-7240166f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 07:12:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 21:53:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",

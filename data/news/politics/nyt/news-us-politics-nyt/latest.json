@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment",
+      "link": "https://www.nytimes.com/2026/11/13/us/politics/house-democrats-poindexter-investigation.html",
+      "published": "Sat, 14 Nov 2026 02:15:50 +0000",
+      "sentiment": 0.25
+    },
+    {
       "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
       "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
-      "published": "Sat, 14 Nov 2026 01:56:54 +0000",
+      "published": "Sat, 14 Nov 2026 02:24:24 +0000",
       "sentiment": 0.05
     },
     {
@@ -21,7 +27,7 @@
     {
       "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
       "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
-      "published": "Fri, 13 Nov 2026 23:10:21 +0000",
+      "published": "Sat, 14 Nov 2026 02:22:25 +0000",
       "sentiment": -0.2
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
       "published": "Fri, 13 Nov 2026 03:27:02 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "What Does 2026 Mean for the Map in 2028?",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/midterm-elections-2028-presidential-map.html",
-      "published": "Thu, 12 Nov 2026 23:14:35 +0000",
-      "sentiment": -0.07528409090909091
     }
   ]
 }
