@@ -127,16 +127,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
-      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.35
-    },
-    {
       "title": "In a first, L.A.'s three citywide elected offices will all be held by Asian Americans",
       "link": "https://www.latimes.com/politics/story/2026-11-10/asian-americans-won-all-three-of-l-a-s-citywide-elected-offices-this-year",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Chabria: Inside the prison cell where Newsom made his death row decision",
+      "link": "https://www.latimes.com/california/story/2026-11-10/inside-prison-cell-where-newsom-made-his-death-row-decision-chabria",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.35
     },
     {
       "title": "Voters approve Prop. 38 medical research bond measure",
@@ -181,16 +181,16 @@
       "sentiment": -0.054545454545454564
     },
     {
-      "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
-      "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
-      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Backlash against Trump, ICE raids, high food prices fuels changing political tide in California heartland",
       "link": "https://www.latimes.com/california/story/2026-11-09/valaldao-villegas-san-joaquin-valley-trump",
       "published": "Mon, 9 Nov 2026 11:00:00 GMT",
       "sentiment": 0.015000000000000006
+    },
+    {
+      "title": "Empowered congressional Democrats gear up for battles over immigration and ICE oversight",
+      "link": "https://www.latimes.com/politics/story/2026-11-09/democrats-set-sights-on-trumps-immigration-crackdown",
+      "published": "Mon, 9 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
@@ -475,16 +475,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Utilities lobby for shield from wildfire costs",
-      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
+      "title": "Which races might predict a 'blue wave'? Here's what to watch",
+      "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.12000000000000002
-    },
-    {
-      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
-      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.15
+      "sentiment": 0.11666666666666665
     },
     {
       "title": "Majority of California voters fear federal government may try to stop vote count, poll finds",
@@ -493,16 +487,22 @@
       "sentiment": 0.11818181818181818
     },
     {
+      "title": "Becerra wins but faces a gauntlet of problems as California's next governor",
+      "link": "https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.15
+    },
+    {
       "title": "L.A.'s next mayor faces high expectations, little room for error",
       "link": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.006874999999999999
     },
     {
-      "title": "Which races might predict a 'blue wave'? Here's what to watch",
-      "link": "https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races",
+      "title": "Utilities lobby for shield from wildfire costs",
+      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.11666666666666665
+      "sentiment": -0.12000000000000002
     },
     {
       "title": "California officials brace for unprecedented election interference by Trump administration",
