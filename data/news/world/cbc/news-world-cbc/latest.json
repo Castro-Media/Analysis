@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "U.S. flights no longer grounded as FAA lifts order that caused thousands of delays and cancellations",
+      "title": "U.S. flights cleared to take off again after ground stop order caused thousands of delays and cancellations",
       "link": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
       "published": "Fri, 13 Nov 2026 17:18:32 EST",
-      "sentiment": 0.0
+      "sentiment": -0.05714285714285715
     },
     {
       "title": "'Miracle on the Mississippi': All aboard river cruise boat survive crash with tanker in New Orleans",
@@ -17,6 +17,12 @@
       "link": "https://www.cbc.ca/news/health/regional-insecurity-ebola-9.7421378?cmp=rss",
       "published": "Fri, 13 Nov 2026 17:52:23 EST",
       "sentiment": -0.007142857142857133
+    },
+    {
+      "title": "Spanish goalkeeper barred 12 games for collision leading to death of Tenerife striker",
+      "link": "https://www.cbc.ca/sports/soccer/jesus-owono-suspension-12-games-fatal-collision-jesus-de-miguel-9.7421591?cmp=rss",
+      "published": "Fri, 13 Nov 2026 17:42:42 EST",
+      "sentiment": 0.014285714285714289
     },
     {
       "title": "What the Jensen Huang scandal means for Trump and his administration",
@@ -113,12 +119,6 @@
       "link": "https://www.cbc.ca/news/world/missing-teen-found-australia-9.7418731?cmp=rss",
       "published": "Thu, 12 Nov 2026 04:54:54 EST",
       "sentiment": 0.03961038961038961
-    },
-    {
-      "title": "Indonesia's vice-president resigns after academic credentials questioned",
-      "link": "https://www.cbc.ca/news/world/indonesia-vice-president-resigns-9.7418723?cmp=rss",
-      "published": "Thu, 12 Nov 2026 04:57:39 EST",
-      "sentiment": 0.0
     }
   ]
 }
