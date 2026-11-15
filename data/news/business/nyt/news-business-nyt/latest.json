@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+      "link": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+      "published": "Sun, 15 Nov 2026 20:33:07 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Megaspeed Says Alice Huang Left Company in August 2025",
       "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-      "published": "Sun, 15 Nov 2026 17:58:26 +0000",
+      "published": "Sun, 15 Nov 2026 20:11:11 +0000",
       "sentiment": 0.0
     },
     {
@@ -33,7 +39,7 @@
     {
       "title": "Behind the All-American Ralph Lauren Brand Is a French C.E.O.",
       "link": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
-      "published": "Sun, 15 Nov 2026 10:00:51 +0000",
+      "published": "Sun, 15 Nov 2026 20:31:10 +0000",
       "sentiment": 0.22000000000000003
     },
     {
@@ -75,7 +81,7 @@
     {
       "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
       "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
-      "published": "Sun, 15 Nov 2026 03:49:51 +0000",
+      "published": "Sun, 15 Nov 2026 03:49:52 +0000",
       "sentiment": -0.1
     },
     {
@@ -87,7 +93,7 @@
     {
       "title": "This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say",
       "link": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
-      "published": "Sat, 14 Nov 2026 15:58:21 +0000",
+      "published": "Sat, 14 Nov 2026 15:58:22 +0000",
       "sentiment": 0.10625
     },
     {
@@ -281,12 +287,6 @@
       "link": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
       "published": "Thu, 12 Nov 2026 22:16:10 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-      "published": "Thu, 12 Nov 2026 19:19:40 +0000",
-      "sentiment": 0.0
     }
   ]
 }
