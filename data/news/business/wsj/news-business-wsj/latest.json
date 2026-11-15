@@ -1,22 +1,28 @@
 {
   "entries": [
     {
-      "title": "SpaceX Catches Starship After Early Setback",
-      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 22:58:00 GMT",
-      "sentiment": 0.2833333333333333
-    },
-    {
       "title": "The Tangle of Wires at the Heart of a Nationwide Air-Travel Meltdown",
       "link": "https://www.wsj.com/business/airlines/the-tangle-of-wires-at-the-heart-of-a-nationwide-air-travel-meltdown-0356872e?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 22:13:00 GMT",
+      "published": "Sun, 15 Nov 2026 00:49:00 GMT",
       "sentiment": 0.0
     },
     {
       "title": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire",
       "link": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 19:24:00 GMT",
+      "published": "Sun, 15 Nov 2026 00:18:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "How Executives Keep Their Private Lives Out of the Public Eye",
+      "link": "https://www.wsj.com/lifestyle/careers/ceo-dating-matchmakers-1765af5f?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "SpaceX Catches Starship After Early Setback",
+      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 22:58:00 GMT",
+      "sentiment": 0.2833333333333333
     },
     {
       "title": "The Man Who Tells Corporate America How to Sell Stuff to Baby Boomers",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/why-tesla-is-pulling-the-plug-on-cybertruck-b6c2f97b?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 15:03:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers",
-      "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 15:02:00 GMT",
-      "sentiment": 0.2681818181818182
     },
     {
       "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
@@ -127,6 +127,12 @@
       "sentiment": 0.16
     },
     {
+      "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers",
+      "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 15:02:00 GMT",
+      "sentiment": 0.2681818181818182
+    },
+    {
       "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
       "link": "https://www.wsj.com/business/autos/stellantis-offers-to-repay-c-24-million-to-canada-but-government-says-automaker-breaching-commitments-15d5e00c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 15:53:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/nissan-posts-quarterly-loss-cuts-sales-view-on-china-slump-d5cbb640?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 11:09:00 GMT",
       "sentiment": -0.06785714285714287
-    },
-    {
-      "title": "Canada PM Carney Calls Stellantis Factory Sale ‘Unacceptable’",
-      "link": "https://www.wsj.com/business/autos/canada-pm-carney-calls-stellantis-factory-sale-unacceptable-f18e0afc?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 00:04:00 GMT",
-      "sentiment": 0.1666666666666667
     },
     {
       "title": "Opinion | Of Course Jensen Huang Had to Go",
@@ -481,16 +481,16 @@
       "sentiment": 0.2833333333333333
     },
     {
+      "title": "The Man Who Tells Corporate America How to Sell Stuff to Baby Boomers",
+      "link": "https://www.wsj.com/business/the-man-who-tells-corporate-america-how-to-sell-stuff-to-baby-boomers-6c4b043e?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 17:00:00 GMT",
+      "sentiment": 0.016666666666666666
+    },
+    {
       "title": "Why Tesla Is Pulling the Plug on Cybertruck",
       "link": "https://www.wsj.com/business/autos/why-tesla-is-pulling-the-plug-on-cybertruck-b6c2f97b?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 15:03:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
-      "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 19:18:00 GMT",
-      "sentiment": -0.053418803418803416
     },
     {
       "title": "Best Small-Business Loans in November 2026",
