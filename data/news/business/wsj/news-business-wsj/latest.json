@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Groundstop Ripples Into Third Day of Scrapped Flights",
+      "link": "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 10:38:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.325
+    },
+    {
       "title": "Hear How the FAA’s Ground Stop Unfolded",
       "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:53:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/airlines/the-tangle-of-wires-at-the-heart-of-a-nationwide-air-travel-meltdown-0356872e?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 00:49:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire",
-      "link": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 00:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Executives Keep Their Private Lives Out of the Public Eye",
-      "link": "https://www.wsj.com/lifestyle/careers/ceo-dating-matchmakers-1765af5f?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
@@ -223,6 +223,12 @@
       "sentiment": 0.10000000000000002
     },
     {
+      "title": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire",
+      "link": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 00:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "SpaceX Catches Starship After Early Setback",
       "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 22:58:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/cmo-today/jensen-huangs-resignation-quiets-the-ai-booms-best-pr-asset-090544e4?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 14:23:00 GMT",
       "sentiment": 0.7
-    },
-    {
-      "title": "United Airlines Is Banning AI Bots From Booking Flights",
-      "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 22:43:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nvidia Succession Shows Key Part of CFOs’ Jobs: Serving as On-Call CEOs in a Pinch",
@@ -343,6 +343,12 @@
       "sentiment": 0.21212121212121213
     },
     {
+      "title": "The Backyard Battle Over Amazon Delivery Drones ‘Stealing the Sky’",
+      "link": "https://www.wsj.com/lifestyle/amazon-delivery-drones-4807e976?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "A Tanker Lost Control and Hit a River Cruise Ship in New Orleans",
       "link": "https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 23:44:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/us-news/its-deplorable-the-five-weeks-of-misery-that-pushed-n-j-commuters-to-the-edge-32e52e10?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 16:39:00 GMT",
       "sentiment": 0.009090909090909094
-    },
-    {
-      "title": "Black Sea Shipping Attacks Kill Seafarers, Disrupt Trade",
-      "link": "https://www.wsj.com/logistics-report/black-sea-shipping-attacks-kill-seafarers-disrupt-trade-8a9ce993?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 11:55:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
@@ -433,6 +433,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "How Executives Keep Their Private Lives Out of the Public Eye",
+      "link": "https://www.wsj.com/lifestyle/careers/ceo-dating-matchmakers-1765af5f?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 00:00:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "The Man Who Tells Corporate America How to Sell Stuff to Baby Boomers",
       "link": "https://www.wsj.com/business/the-man-who-tells-corporate-america-how-to-sell-stuff-to-baby-boomers-6c4b043e?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 17:00:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 15:07:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Morning Risk Report: Huang’s Departure From Nvidia Unlikely to Mollify Congress, Plaintiffs’ Lawyers",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-huangs-departure-from-nvidia-unlikely-to-mollify-congress-plaintiffs-lawyers-baf11ad1?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 12:54:00 GMT",
-      "sentiment": -0.08333333333333334
     },
     {
       "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers",
