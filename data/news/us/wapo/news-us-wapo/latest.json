@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "FAA was warned for years about repair risks leading to nationwide ground stop",
+      "link": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/",
+      "published": "Sun, 15 Nov 2026 01:37:42 +0000",
+      "sentiment": 0.07878787878787878
+    },
+    {
       "title": "Florida city cancels St. Patrick’s Day event, citing DeSantis’s anti-DEI law",
       "link": "https://www.washingtonpost.com/nation/2026/11/14/florida-city-cancels-st-patricks-day-event-citing-desantiss-anti-dei-law/",
       "published": "Sat, 14 Nov 2026 21:19:47 +0000",
@@ -67,16 +73,16 @@
       "sentiment": 0.31111111111111106
     },
     {
-      "title": "A spy plane tied to covert attacks leads back to Florida’s largest senior community",
-      "link": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/",
-      "published": "Sat, 14 Nov 2026 10:00:00 +0000",
-      "sentiment": 0.1875
-    },
-    {
       "title": "Texas’s Democratic gov.-elect vows to trade GOP culture wars for moderation",
       "link": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/",
       "published": "Sat, 14 Nov 2026 10:00:00 +0000",
       "sentiment": -0.26875
+    },
+    {
+      "title": "A spy plane tied to covert attacks leads back to Florida’s largest senior community",
+      "link": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/",
+      "published": "Sat, 14 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.1875
     },
     {
       "title": "Surging measles cases are forcing doctors to treat conditions they’ve never seen",
@@ -149,12 +155,6 @@
       "link": "https://www.washingtonpost.com/business/2026/11/13/more-top-fed-officials-say-ai-is-fueling-inflation-kevin-warsh-is-an-outlier/",
       "published": "Fri, 13 Nov 2026 10:00:00 +0000",
       "sentiment": -0.12395833333333334
-    },
-    {
-      "title": "Eight dead and at least 18 injured after Brooklyn building collapse",
-      "link": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/",
-      "published": "Fri, 13 Nov 2026 02:18:12 +0000",
-      "sentiment": -0.1125
     }
   ]
 }
