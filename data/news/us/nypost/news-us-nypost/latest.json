@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "FAA router in middle-of-nowhere Arkansas identified as cause of nationwide flight chaos",
+      "link": "https://nypost.com/2026/11/15/us-news/faa-router-in-middle-of-nowhere-arkansas-identified-as-cause-of-nationwide-flight-chaos/",
+      "published": "Sun, 15 Nov 2026 08:37:59 -0500",
+      "sentiment": 0.021645021645021644
+    },
+    {
       "title": "Vagrant sets up City Hall encampment along Mamdani’s daily route, exploiting weak city rules",
       "link": "https://nypost.com/2026/11/15/us-news/mamdanis-new-neighbor-a-tenacious-tramp-making-city-hall-sidewalk-his-home/",
       "published": "Sun, 15 Nov 2026 05:34:22 -0500",
@@ -49,10 +55,10 @@
       "sentiment": 0.03142857142857143
     },
     {
-      "title": "NYPD fatally shoots kidnapping suspect after chaotic NYC highway chase: sources",
+      "title": "Man accused of kidnapping screaming girl shot dead by NYPD after car chase on busy highway",
       "link": "https://nypost.com/2026/11/14/us-news/nypd-fatally-shoots-man-during-incident-on-nyc-highway-sources/",
       "published": "Sat, 14 Nov 2026 20:57:36 -0500",
-      "sentiment": 0.0
+      "sentiment": -0.05
     },
     {
       "title": "YouTube pranksters lure California scammer to fake funeral — exposing role in $27M fraud ring",
@@ -113,12 +119,6 @@
       "link": "https://nypost.com/2026/11/14/us-news/rare-sea-turtle-hatchlings-make-history-on-southern-california-coast/",
       "published": "Sat, 14 Nov 2026 18:12:39 -0500",
       "sentiment": 0.45
-    },
-    {
-      "title": "Raunchy posts from upstart Dem who took down California GOP leader resurface after surprise election win",
-      "link": "https://nypost.com/2026/11/14/us-news/past-tweets-resurface-for-california-dem-who-ousted-gop-leader/",
-      "published": "Sat, 14 Nov 2026 18:05:36 -0500",
-      "sentiment": 0.1288888888888889
     }
   ]
 }
