@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Iran Attacks Bahrain as Conflict Escalates",
+      "link": "https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews",
+      "published": "Sun, 15 Nov 2026 04:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "China Poached This Top Harvard Professor. Now He Wants Others to Join Him.",
       "link": "https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews",
       "published": "Sun, 15 Nov 2026 03:00:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/europe/greece-debt-today-aaffcb16?mod=rss_worldnews",
       "published": "Sat, 14 Nov 2026 03:00:00 GMT",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
-      "link": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews",
-      "published": "Sat, 14 Nov 2026 02:00:00 GMT",
-      "sentiment": -0.13333333333333333
     },
     {
       "title": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
@@ -223,6 +223,12 @@
       "sentiment": -0.18888888888888888
     },
     {
+      "title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
+      "link": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews",
+      "published": "Sat, 14 Nov 2026 02:00:00 GMT",
+      "sentiment": -0.13333333333333333
+    },
+    {
       "title": "Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week",
       "link": "https://www.wsj.com/world/china/trump-to-hold-talks-with-chinas-xi-and-russias-putin-next-week-29a58e91?mod=rss_worldnews",
       "published": "Sat, 14 Nov 2026 01:34:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 04:15:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "China’s Trade Surplus Surged Past $1 Trillion in October",
-      "link": "https://www.wsj.com/world/china/chinas-trade-surplus-surged-past-1-trillion-in-october-967968c9?mod=rss_worldnews",
-      "published": "Tue, 10 Nov 2026 04:04:00 GMT",
-      "sentiment": -0.03666666666666667
     },
     {
       "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
@@ -379,28 +379,28 @@
       "sentiment": 0.1787878787878788
     },
     {
-      "title": "Senior U.S. Soldier Is Arrested in U.K. Over Allegations of Spying for Russia",
-      "link": "https://www.wsj.com/world/europe/member-us-army-arrested-spy-russia-cce59efb?mod=rss_worldnews",
-      "published": "Tue, 10 Nov 2026 21:52:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version",
       "link": "https://www.wsj.com/world/asia/kim-jong-un-remakes-north-koreas-flag-ditching-soviet-era-version-c65efcfe?mod=rss_worldnews",
       "published": "Fri, 13 Nov 2026 09:43:00 GMT",
       "sentiment": 0.36818181818181817
     },
     {
-      "title": "Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh",
-      "link": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews",
-      "published": "Sun, 08 Nov 2026 14:00:00 GMT",
-      "sentiment": 0.5
+      "title": "Senior U.S. Soldier Is Arrested in U.K. Over Allegations of Spying for Russia",
+      "link": "https://www.wsj.com/world/europe/member-us-army-arrested-spy-russia-cce59efb?mod=rss_worldnews",
+      "published": "Tue, 10 Nov 2026 21:52:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.",
       "link": "https://www.wsj.com/world/russia/putin-had-four-plans-to-defeat-ukraine-he-only-has-two-left-7875e5a6?mod=rss_worldnews",
       "published": "Fri, 13 Nov 2026 03:00:00 GMT",
       "sentiment": 0.02
+    },
+    {
+      "title": "U.S. Collected $12 Billion in Venezuelan Oil Sales, Returning Nearly All of It",
+      "link": "https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70?mod=rss_worldnews",
+      "published": "Thu, 12 Nov 2026 20:14:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "How to Refinance a Car Loan in 6 Steps",
