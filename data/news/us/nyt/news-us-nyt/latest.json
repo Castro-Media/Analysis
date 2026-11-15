@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "What to Know About Continued Flight Disruptions",
+      "link": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
+      "published": "Sun, 15 Nov 2026 02:52:23 +0000",
+      "sentiment": 0.075
+    },
+    {
       "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
       "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
       "published": "Sun, 15 Nov 2026 02:42:57 +0000",
@@ -15,7 +21,7 @@
     {
       "title": "After Her Baby Was Buried Alive, a South Carolina Mother Wonders Why",
       "link": "https://www.nytimes.com/2026/11/14/us/south-carolina-boy-buried-alive.html",
-      "published": "Sun, 15 Nov 2026 00:42:59 +0000",
+      "published": "Sun, 15 Nov 2026 02:59:46 +0000",
       "sentiment": 0.06071428571428572
     },
     {
@@ -55,6 +61,12 @@
       "sentiment": -0.10833333333333334
     },
     {
+      "title": "Key Witness in Comey Case Attests to Justice Dept.’s Aggressive Tactics",
+      "link": "https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html",
+      "published": "Sat, 14 Nov 2026 21:40:33 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
       "title": "Here’s Why It Could Take Days for Flights to Return to Normal",
       "link": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
       "published": "Sat, 14 Nov 2026 20:48:54 +0000",
@@ -87,7 +99,7 @@
     {
       "title": "‘Democrat’ in Alaska’s House Race Is Doing Time in a New York Prison",
       "link": "https://www.nytimes.com/2026/11/14/us/elections/alaska-house-race-felon-eric-hafner.html",
-      "published": "Sat, 14 Nov 2026 20:10:01 +0000",
+      "published": "Sat, 14 Nov 2026 20:10:02 +0000",
       "sentiment": -0.15454545454545454
     },
     {
@@ -131,24 +143,6 @@
       "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html",
       "published": "Sat, 14 Nov 2026 04:03:04 +0000",
       "sentiment": 0.05333333333333334
-    },
-    {
-      "title": "Pilots and Controllers Kept Communicating During Outage",
-      "link": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-outage-plane-landings.html",
-      "published": "Sat, 14 Nov 2026 03:33:11 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ground Stop Scrambles Travel Plans for Sports Teams Across the Country",
-      "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-sports-nba-football.html",
-      "published": "Sat, 14 Nov 2026 03:47:03 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Hear How Air Traffic Controllers Grappled With the Ground Stoppage Chaos",
-      "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-air-traffic-control-pilots.html",
-      "published": "Sat, 14 Nov 2026 05:02:06 +0000",
-      "sentiment": 0.0
     }
   ]
 }
