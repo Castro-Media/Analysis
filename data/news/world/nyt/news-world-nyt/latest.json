@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
+      "published": "Sun, 15 Nov 2026 05:01:19 +0000",
+      "sentiment": -0.45
+    },
+    {
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "published": "Sun, 15 Nov 2026 05:01:10 +0000",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Is Italy the Model for Europe’s Future?",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
+      "published": "Sun, 15 Nov 2026 05:01:24 +0000",
+      "sentiment": 0.13095238095238096
+    },
+    {
       "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
       "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "published": "Sat, 14 Nov 2026 18:39:59 +0000",
@@ -65,42 +83,6 @@
       "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
       "published": "Fri, 13 Nov 2026 22:47:13 +0000",
       "sentiment": 0.2
-    },
-    {
-      "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
-      "link": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
-      "published": "Fri, 13 Nov 2026 10:02:17 +0000",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Border Crossings Have Plummeted. Stephen Miller Isn’t Satisfied.",
-      "link": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
-      "published": "Fri, 13 Nov 2026 10:00:19 +0000",
-      "sentiment": 0.06727272727272726
-    },
-    {
-      "title": "One of France’s Most Popular Athletes Is Running for President",
-      "link": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
-      "published": "Fri, 13 Nov 2026 14:47:23 +0000",
-      "sentiment": 0.19821428571428573
-    },
-    {
-      "title": "Is Italy the Model for Europe’s Future?",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
-      "published": "Sun, 15 Nov 2026 05:01:24 +0000",
-      "sentiment": 0.13095238095238096
-    },
-    {
-      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/in-europe-an-emboldened-iran-contributes-to-a-sense-of-anxiety.html",
-      "published": "Sun, 15 Nov 2026 05:01:19 +0000",
-      "sentiment": -0.45
-    },
-    {
-      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
-      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-      "published": "Sun, 15 Nov 2026 05:01:10 +0000",
-      "sentiment": 0.6
     },
     {
       "title": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
@@ -185,6 +167,24 @@
       "link": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html",
       "published": "Sat, 14 Nov 2026 15:43:16 +0000",
       "sentiment": 0.050216450216450215
+    },
+    {
+      "title": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+      "link": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
+      "published": "Fri, 13 Nov 2026 10:02:17 +0000",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Border Crossings Have Plummeted. Stephen Miller Isn’t Satisfied.",
+      "link": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
+      "published": "Fri, 13 Nov 2026 10:00:19 +0000",
+      "sentiment": 0.06727272727272726
+    },
+    {
+      "title": "One of France’s Most Popular Athletes Is Running for President",
+      "link": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
+      "published": "Fri, 13 Nov 2026 14:47:23 +0000",
+      "sentiment": 0.19821428571428573
     },
     {
       "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
