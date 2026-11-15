@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "SpaceX Catches Starship After Early Setback",
+      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 22:58:00 GMT",
+      "sentiment": 0.2833333333333333
+    },
+    {
       "title": "The Tangle of Wires at the Heart of a Nationwide Air-Travel Meltdown",
       "link": "https://www.wsj.com/business/airlines/the-tangle-of-wires-at-the-heart-of-a-nationwide-air-travel-meltdown-0356872e?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 22:13:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 15:02:00 GMT",
       "sentiment": 0.2681818181818182
-    },
-    {
-      "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
-      "link": "https://www.wsj.com/tech/in-jensen-huangs-ouster-tech-billionaires-see-a-mistakeand-a-lesson-2bea613c?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 10:30:00 GMT",
-      "sentiment": -0.3625
     },
     {
       "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
@@ -229,12 +229,6 @@
       "sentiment": -0.1
     },
     {
-      "title": "SpaceX’s Latest Starship Mission Hits Early Setback",
-      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 01:19:00 GMT",
-      "sentiment": 0.2333333333333333
-    },
-    {
       "title": "FAA Halts Departing Flights Nationwide",
       "link": "https://www.wsj.com/business/airlines/faa-halts-departing-flights-nationwide-d2c54958?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 22:24:00 GMT",
@@ -250,6 +244,12 @@
       "title": "United Airlines Is Banning AI Bots From Booking Flights",
       "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 22:43:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "JD Vance Emerges as Lead Iran Negotiator",
+      "link": "https://www.wsj.com/world/middle-east/jd-vance-emerges-as-lead-iran-negotiator-cba55bcb?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 11 Nov 2026 22:20:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -403,6 +403,12 @@
       "sentiment": 0.14444444444444446
     },
     {
+      "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
+      "link": "https://www.wsj.com/tech/in-jensen-huangs-ouster-tech-billionaires-see-a-mistakeand-a-lesson-2bea613c?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.3625
+    },
+    {
       "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
       "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=pls_whats_news_us_business_f",
       "published": "Tue, 10 Nov 2026 17:54:00 GMT",
@@ -425,12 +431,6 @@
       "link": "https://www.wsj.com/lifestyle/careers/20-somethings-are-ditching-entry-level-jobs-to-become-their-own-bosses-168d1f48?mod=pls_whats_news_us_business_f",
       "published": "Mon, 09 Nov 2026 01:00:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "Readers Remember Their Favorite Small Businesses",
-      "link": "https://www.wsj.com/business/entrepreneurship/reader-stories-small-business-3679b083?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 06 Nov 2026 20:00:00 GMT",
-      "sentiment": 0.15
     },
     {
       "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance",
@@ -475,22 +475,22 @@
       "sentiment": -0.13333333333333333
     },
     {
+      "title": "SpaceX Catches Starship After Early Setback",
+      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 22:58:00 GMT",
+      "sentiment": 0.2833333333333333
+    },
+    {
+      "title": "Why Tesla Is Pulling the Plug on Cybertruck",
+      "link": "https://www.wsj.com/business/autos/why-tesla-is-pulling-the-plug-on-cybertruck-b6c2f97b?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 15:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
       "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 19:18:00 GMT",
       "sentiment": -0.053418803418803416
-    },
-    {
-      "title": "SpaceX’s Latest Starship Mission Hits Early Setback",
-      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 01:19:00 GMT",
-      "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
-      "link": "https://www.wsj.com/business/autos/stellantis-offers-to-repay-c-24-million-to-canada-but-government-says-automaker-breaching-commitments-15d5e00c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 15:53:00 GMT",
-      "sentiment": 0.01666666666666668
     },
     {
       "title": "Best Small-Business Loans in November 2026",
