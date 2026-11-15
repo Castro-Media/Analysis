@@ -7,22 +7,28 @@
       "sentiment": -0.19375
     },
     {
-      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-      "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-      "published": "Sun, 15 Nov 2026 05:01:20 +0000",
-      "sentiment": -0.45
-    },
-    {
       "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
       "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
       "published": "Sun, 15 Nov 2026 05:01:10 +0000",
       "sentiment": 0.6
     },
     {
+      "title": "Iran Attacks Bahrain for the Second Time in Days",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+      "published": "Sun, 15 Nov 2026 12:07:04 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Is Italy the Model for Europe’s Future?",
       "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
       "published": "Sun, 15 Nov 2026 05:01:24 +0000",
       "sentiment": 0.13095238095238096
+    },
+    {
+      "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
+      "published": "Sun, 15 Nov 2026 05:01:20 +0000",
+      "sentiment": -0.45
     },
     {
       "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
@@ -71,12 +77,6 @@
       "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
       "published": "Fri, 13 Nov 2026 16:02:36 +0000",
       "sentiment": 0.005681818181818177
-    },
-    {
-      "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
-      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
-      "published": "Fri, 13 Nov 2026 09:45:38 +0000",
-      "sentiment": -0.061904761904761914
     },
     {
       "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
@@ -185,6 +185,12 @@
       "link": "https://www.nytimes.com/2026/11/13/world/americas/stephen-miller-mexico-immigration.html",
       "published": "Fri, 13 Nov 2026 10:00:19 +0000",
       "sentiment": 0.06727272727272726
+    },
+    {
+      "title": "The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It.",
+      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/israel-trump-eisenkot.html",
+      "published": "Fri, 13 Nov 2026 09:45:38 +0000",
+      "sentiment": -0.061904761904761914
     },
     {
       "title": "One of France’s Most Popular Athletes Is Running for President",
@@ -334,12 +340,6 @@
       "title": "Protesters Throw Projectiles at Biden During Dublin Trip",
       "link": "https://www.nytimes.com/2026/11/11/world/europe/joe-biden-dublin-ireland-protesters-attack.html",
       "published": "Wed, 11 Nov 2026 19:34:11 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
-      "published": "Wed, 11 Nov 2026 21:14:47 +0000",
       "sentiment": 0.0
     }
   ]
