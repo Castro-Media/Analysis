@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
+      "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 22:35:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Watch What U.S. Aircraft Carriers Bring to the Iran War",
       "link": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51?mod=rss_worldnews",
       "published": "Mon, 16 Nov 2026 19:13:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews",
       "published": "Sun, 15 Nov 2026 08:03:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "China Poached This Top Harvard Professor. Now He Wants Others to Join Him.",
-      "link": "https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews",
-      "published": "Sun, 15 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.175
     },
     {
       "title": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions",
@@ -157,6 +157,30 @@
       "sentiment": 0.08
     },
     {
+      "title": "Opinion | President Trump’s Choice in Iran",
+      "link": "https://www.wsj.com/opinion/donald-trump-iran-war-jd-vance-marco-rubio-ae8618de?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 22:52:00 GMT",
+      "sentiment": 0.35
+    },
+    {
+      "title": "Opinion | From Russia, With Sabotage",
+      "link": "https://www.wsj.com/opinion/russia-sabotage-estonia-threod-vladimir-putin-nato-9991a51d?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 22:47:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Pat Buchanan Was a Foretaste",
+      "link": "https://www.wsj.com/opinion/pat-buchanan-was-a-foretaste-d7509c3d?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 22:39:00 GMT",
+      "sentiment": 0.3107142857142857
+    },
+    {
+      "title": "Opinion | Why the Ukraine War Is Working for Putin",
+      "link": "https://www.wsj.com/opinion/why-the-ukraine-war-is-working-for-putin-2e4c949d?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 22:38:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Against China, America’s Current Tumult Has Advantages",
       "link": "https://www.wsj.com/opinion/against-china-americas-current-tumult-has-advantages-cdf2769b?mod=rss_worldnews",
       "published": "Mon, 16 Nov 2026 17:19:00 GMT",
@@ -167,30 +191,6 @@
       "link": "https://www.wsj.com/opinion/donald-trump-diesel-deal-vladimir-putin-russia-7c282795?mod=rss_worldnews",
       "published": "Sun, 15 Nov 2026 21:11:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Nvidia Shows The Limits Of Corporate Boards",
-      "link": "https://www.wsj.com/opinion/nvidia-shows-the-limits-of-corporate-boards-761741a6?mod=rss_worldnews",
-      "published": "Sun, 15 Nov 2026 19:40:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Opinion | Trump Won’t Open a Bridge Biden Closed",
-      "link": "https://www.wsj.com/opinion/trump-wont-open-a-bridge-biden-closed-8b0296c7?mod=rss_worldnews",
-      "published": "Sun, 15 Nov 2026 19:37:00 GMT",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Opinion | Tech Isn’t the FAA’s Biggest Problem",
-      "link": "https://www.wsj.com/opinion/tech-isnt-the-faas-biggest-problem-f94ed5b1?mod=rss_worldnews",
-      "published": "Sun, 15 Nov 2026 17:18:00 GMT",
-      "sentiment": 0.35
-    },
-    {
-      "title": "Opinion | Donald Trump and Jensen Huang Have the Same Tragic Flaw",
-      "link": "https://www.wsj.com/opinion/donald-trump-and-jensen-huang-have-the-same-tragic-flaw-5578e58b?mod=rss_worldnews",
-      "published": "Sun, 15 Nov 2026 17:00:00 GMT",
-      "sentiment": 0.012499999999999997
     },
     {
       "title": "UniCredit’s Commerzbank Bid Gets EU, U.S. Approval",
@@ -223,6 +223,12 @@
       "sentiment": -0.03333333333333333
     },
     {
+      "title": "China Poached This Top Harvard Professor. Now He Wants Others to Join Him.",
+      "link": "https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews",
+      "published": "Sun, 15 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.175
+    },
+    {
       "title": "The Massive Chinese Spy Operation Targeting Western Tech and AI",
       "link": "https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86?mod=rss_worldnews",
       "published": "Sat, 14 Nov 2026 12:06:00 GMT",
@@ -244,12 +250,6 @@
       "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
       "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=rss_worldnews",
       "published": "Thu, 12 Nov 2026 17:42:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Huang’s Coziness With Trump Wasn’t Enough to Save Him From Spying Scandal",
-      "link": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?mod=rss_worldnews",
-      "published": "Thu, 12 Nov 2026 14:37:00 GMT",
       "sentiment": 0.0
     },
     {
