@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "United Halts Flights as It Addresses ‘Widespread System Outage’",
+      "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
+      "link": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
+      "published": "Mon, 16 Nov 2026 23:39:24 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
       "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
-      "published": "Mon, 16 Nov 2026 22:39:22 +0000",
-      "sentiment": 0.05
+      "published": "Mon, 16 Nov 2026 23:49:11 +0000",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "Bessent Takes Hawkish Turn in White House Debate on China",
@@ -287,12 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
       "published": "Fri, 13 Nov 2026 16:36:28 +0000",
       "sentiment": 0.15
-    },
-    {
-      "title": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
-      "link": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
-      "published": "Fri, 13 Nov 2026 15:45:40 +0000",
-      "sentiment": -0.016666666666666663
     }
   ]
 }
