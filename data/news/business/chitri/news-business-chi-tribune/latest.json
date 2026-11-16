@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Customers at major US banks report difficulty with some online services",
+      "title": "Workers strike at 3 Chicago hotels",
+      "link": "https://www.chicagotribune.com/2026/11/16/hotel-workers-strike-2/",
+      "published": "Mon, 16 Nov 2026 21:54:01 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Scrutiny of FAA intensifies after communications meltdown leads to nationwide grounding",
+      "link": "https://www.chicagotribune.com/2026/11/16/faa-communications-nationwide-grounding/",
+      "published": "Mon, 16 Nov 2026 21:26:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A technical issue at JPMorgan Chase triggers online banking delays across major US banks",
       "link": "https://www.chicagotribune.com/2026/11/16/us-banks-difficulty-accounts-online/",
       "published": "Mon, 16 Nov 2026 18:57:47 +0000",
-      "sentiment": 0.0625
+      "sentiment": 0.03125
     },
     {
       "title": "Waukegan casino revenue increases as construction picks up; permanent resort to open in 2 years",
@@ -25,7 +37,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Campaign to reinstate Nvidia CEO Jensen Huang gains momentum with support from tech leaders",
+      "title": "President Trump backs campaign to reinstate Nvidia CEO despite allegations he had an affair with a Chinese spy",
       "link": "https://www.chicagotribune.com/2026/11/16/nvidia-ceo-jensen-huang-reinstatement-campaign/",
       "published": "Mon, 16 Nov 2026 17:02:28 +0000",
       "sentiment": 0.0
@@ -587,18 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/11/06/ibm-quantum-hyde-park-labs/",
       "published": "Fri, 06 Nov 2026 20:00:57 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies at 89",
-      "link": "https://www.chicagotribune.com/2026/11/06/jay-rockefeller-dies-89/",
-      "published": "Fri, 06 Nov 2026 15:44:28 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Tesla Cybertruck production to wind down as allure escapes most potential buyers",
-      "link": "https://www.chicagotribune.com/2026/11/06/tesla-cybertruck-production-ends/",
-      "published": "Fri, 06 Nov 2026 15:12:50 +0000",
-      "sentiment": 0.11481481481481481
     }
   ]
 }
