@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Bessent Takes Hawkish Turn in White House Debate on China",
+      "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+      "published": "Mon, 16 Nov 2026 21:25:31 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Trump Nominates Budget Deputy for Nonpartisan Federal Watchdog Role",
+      "link": "https://www.nytimes.com/2026/11/16/business/trump-gao-watchdog-nominee-eric-ueland.html",
+      "published": "Mon, 16 Nov 2026 21:23:35 +0000",
+      "sentiment": 0.08333333333333333
+    },
+    {
       "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
       "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
-      "published": "Mon, 16 Nov 2026 19:24:44 +0000",
+      "published": "Mon, 16 Nov 2026 21:08:30 +0000",
       "sentiment": 0.16818181818181818
     },
     {
@@ -15,7 +27,7 @@
     {
       "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
       "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
-      "published": "Mon, 16 Nov 2026 17:45:28 +0000",
+      "published": "Mon, 16 Nov 2026 17:45:29 +0000",
       "sentiment": 0.13125
     },
     {
@@ -141,8 +153,8 @@
     {
       "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
       "link": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
-      "published": "Sun, 15 Nov 2026 10:01:42 +0000",
-      "sentiment": 0.20727272727272728
+      "published": "Mon, 16 Nov 2026 21:26:47 +0000",
+      "sentiment": 0.1465909090909091
     },
     {
       "title": "Behind the All-American Ralph Lauren Brand Is a French C.E.O.",
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
       "published": "Sat, 14 Nov 2026 00:27:28 +0000",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "A Scorecard for Huang’s Exit From Nvidia",
-      "link": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
-      "published": "Fri, 13 Nov 2026 13:19:40 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Jensen Huang’s Fall Costs Asia an A.I. Ambassador to the U.S.",
-      "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
-      "published": "Fri, 13 Nov 2026 15:29:56 +0000",
-      "sentiment": 0.0
     }
   ]
 }

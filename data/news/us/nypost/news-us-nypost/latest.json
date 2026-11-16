@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "MTA worker has part of ear bitten off during dispute with crazed straphanger",
+      "link": "https://nypost.com/2026/11/16/us-news/mta-worker-has-part-of-ear-bitten-off-during-dispute-with-crazed-straphanger/",
+      "published": "Mon, 16 Nov 2026 16:40:04 -0500",
+      "sentiment": -0.35000000000000003
+    },
+    {
+      "title": "First photos of Belt Parkway maniac revealed as ex recalls her cries for help: ‘Let me go!’",
+      "link": "https://nypost.com/2026/11/16/us-news/first-photos-of-belt-parkway-maniac-revealed-as-ex-recalls-her-cries-for-help-let-me-go/",
+      "published": "Mon, 16 Nov 2026 16:35:42 -0500",
+      "sentiment": 0.546875
+    },
+    {
+      "title": "Amtrak stops all train service around Washington DC after person struck on the tracks",
+      "link": "https://nypost.com/2026/11/16/us-news/amtrak-stops-all-train-service-around-washington-dc-after-person-struck-on-the-tracks/",
+      "published": "Mon, 16 Nov 2026 16:28:16 -0500",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Teen attempts to light American flag on fire, shreds it with teeth during LA ICE protest",
+      "link": "https://nypost.com/2026/11/16/us-news/la-student-burns-us-flag-waves-mexican-flag-at-ice-rally/",
+      "published": "Mon, 16 Nov 2026 16:23:53 -0500",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Wild moment dual waterspouts burst up in California — as ultra rare tornado warning issued",
+      "link": "https://nypost.com/2026/11/16/us-news/san-francisco-waterspout-spotted-near-candlestick-park/",
+      "published": "Mon, 16 Nov 2026 16:18:00 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Forensic expert stunningly claims Jeffrey Epstein didn’t kill himself after reviewing autopsy",
+      "link": "https://nypost.com/2026/11/16/us-news/forensic-expert-stunningly-claims-jeffrey-epstein-didnt-kill-himself-after-reviewing-autopsy/",
+      "published": "Mon, 16 Nov 2026 16:15:32 -0500",
+      "sentiment": 0.25
+    },
+    {
+      "title": "JD Vance promises Iran won’t turn into ‘forever war’ — and Trump will end it by 2028",
+      "link": "https://nypost.com/2026/11/16/us-news/jd-vance-promises-iran-wont-turn-into-forever-war-and-trump-will-end-it-by-2028/",
+      "published": "Mon, 16 Nov 2026 16:06:54 -0500",
+      "sentiment": 0.0
+    },
+    {
       "title": "NYC subway shooter who mistakenly wounded bystander in freak twist learns his fate",
       "link": "https://nypost.com/2026/11/16/us-news/nyc-subway-shooter-who-mistakenly-wounded-bystander-in-freak-twist-learns-his-fate/",
       "published": "Mon, 16 Nov 2026 15:50:00 -0500",
@@ -77,48 +119,6 @@
       "link": "https://nypost.com/2026/11/16/health/the-disease-of-kings-is-making-a-painful-comeback/",
       "published": "Mon, 16 Nov 2026 13:09:51 -0500",
       "sentiment": -0.7
-    },
-    {
-      "title": "Holdout Lindsay Clancy juror’s surprising new career plan after mistrial ‘changed his life’",
-      "link": "https://nypost.com/2026/11/16/us-news/holdout-lindsay-clancy-jurors-surprising-new-career-plan-after-mistrial-changed-his-life/",
-      "published": "Mon, 16 Nov 2026 13:07:04 -0500",
-      "sentiment": 0.1340909090909091
-    },
-    {
-      "title": "2 NYC peace officers shot by suicidal man in high-rise as NYPD SWAT descends on scene",
-      "link": "https://nypost.com/2026/11/16/us-news/2-public-safety-officers-among-3-shot-during-wellness-check-at-nyc-apartment/",
-      "published": "Mon, 16 Nov 2026 13:01:11 -0500",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "NYC finally reclaims crown at annual BagelFest: ‘We stuck to our guns and it paid off’",
-      "link": "https://nypost.com/2026/11/16/lifestyle/nyc-finally-reclaims-the-national-crown-at-annual-bagelfest/",
-      "published": "Mon, 16 Nov 2026 12:51:40 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "‘So much emotions’ after NY high school football team had undefeated season ripped away by off-field ruling",
-      "link": "https://nypost.com/2026/11/16/sports/so-much-emotions-after-ny-high-school-football-team-had-undefeated-season-ripped-away-by-off-field-ruling/",
-      "published": "Mon, 16 Nov 2026 12:17:52 -0500",
-      "sentiment": 0.20400000000000001
-    },
-    {
-      "title": "California college rocked by tech heist as school offers troubling connection to arrested suspect",
-      "link": "https://nypost.com/2026/11/16/us-news/uc-riverside-theft-homeless-man-with-ties-to-university-charged-over-800k-tech-heist/",
-      "published": "Mon, 16 Nov 2026 12:05:44 -0500",
-      "sentiment": 0.1
-    },
-    {
-      "title": "New NIAID director will pivot agency away from ‘mad science experiments’ of Anthony Fauci: Jay Bhattacharya",
-      "link": "https://nypost.com/2026/11/16/us-news/nihs-bhattacharya-announces-new-niaid-director-will-pivot-agency-away-from-mad-science-experiments-of-anthony-fauci/",
-      "published": "Mon, 16 Nov 2026 12:03:00 -0500",
-      "sentiment": -0.1396103896103896
-    },
-    {
-      "title": "California offshore oil giant nosedives in value after Chevron refinery’s killer move",
-      "link": "https://nypost.com/2026/11/16/us-news/california-offshore-oil-giants-stock-nosedives-after-refinery-shutdown/",
-      "published": "Mon, 16 Nov 2026 11:52:36 -0500",
-      "sentiment": 0.0
     }
   ]
 }
