@@ -103,10 +103,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Major U.S. Stock Indexes Slide as Nvidia Fallout Continues to Ripple Through Markets",
+      "title": "Treasury Yields Slip to Start Busy Week",
+      "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 20:47:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "U.S. Stocks Fall as Nvidia Drama Continues",
       "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 17:55:00 GMT",
-      "sentiment": 0.0625
+      "published": "Mon, 16 Nov 2026 20:25:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-decline-but-fed-rate-hike-prospects-in-focus-1257629b?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 20:16:00 GMT",
+      "sentiment": 0.08333333333333333
     },
     {
       "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/pro/private-equity/former-buyout-execs-launch-secondaries-firm-to-target-hidden-gem-assets-in-asia-546861fd?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 16:25:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Treasury Yields Slip Ahead of Fedspeak",
-      "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 15:32:00 GMT",
-      "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "Bitcoin, Ether Slump Further",
-      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 12:57:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
@@ -163,6 +163,12 @@
       "sentiment": -0.05185185185185185
     },
     {
+      "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
+      "link": "https://www.wsj.com/opinion/can-nvidia-thrive-without-jensen-huang-5b0001d5?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 20:29:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Opinion | Rational Investing and Stock-Market Bubbles",
       "link": "https://www.wsj.com/opinion/rational-investing-and-stock-market-bubbles-f75ed12c?mod=rss_markets_main",
       "published": "Sun, 15 Nov 2026 17:55:00 GMT",
@@ -193,9 +199,9 @@
       "sentiment": 0.35
     },
     {
-      "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
-      "link": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832?mod=rss_markets_main",
-      "published": "Mon, 09 Nov 2026 19:28:00 GMT",
+      "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 20:30:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -217,12 +223,6 @@
       "sentiment": 0.045
     },
     {
-      "title": "Oil Prices Reverse Initial Gains as Supply Concerns Weigh",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 12:56:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The Next Wave of Food Inflation Is Coming",
       "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_markets_main",
       "published": "Sat, 14 Nov 2026 01:00:00 GMT",
@@ -233,6 +233,12 @@
       "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 14:57:00 GMT",
       "sentiment": 0.00416666666666667
+    },
+    {
+      "title": "Bitcoin, Ether Slump Further",
+      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 12:57:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 15:18:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto",
-      "link": "https://www.wsj.com/finance/currencies/bitcoin-holds-below-70-000-as-risk-off-mood-pressures-crypto-d61d684d?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 11:34:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Another Winner From the Midterms: Crusaders Against Insurance Companies",
