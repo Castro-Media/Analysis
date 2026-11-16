@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Nasdaq Slides at Open as Nvidia Drama Continues to Play Out",
+      "title": "Stock Market Today: Nasdaq Slides as Nvidia Drama Continues",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 10:00:37 GMT",
-      "sentiment": 0.036111111111111115
+      "sentiment": 0.048148148148148155
     },
     {
       "title": "When Nvidia Stumbled, Equal-Weight Funds Delivered",
@@ -103,10 +103,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gold Futures Kept Down by Strong U.S. Dollar",
+      "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
+      "link": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 17:10:00 GMT",
+      "sentiment": 0.10714285714285714
+    },
+    {
+      "title": "Silver Hit By Concerns About Yields, Industrial Demand",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 15:51:00 GMT",
-      "sentiment": 0.17592592592592593
+      "published": "Mon, 16 Nov 2026 16:47:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Former Buyout Execs Launch Secondaries Firm to Target Hidden-Gem Assets in Asia",
+      "link": "https://www.wsj.com/pro/private-equity/former-buyout-execs-launch-secondaries-firm-to-target-hidden-gem-assets-in-asia-546861fd?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 16:25:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Treasury Yields Slip Ahead of Fedspeak",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 15:12:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Bitcoin, Ether Slump Further",
-      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 12:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Banks Race to Keep Up as AI Bots Use Credit Cards",
-      "link": "https://www.wsj.com/finance/investing/banks-race-to-keep-up-as-ai-bots-use-credit-cards-7cc04907?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 11:25:00 GMT",
-      "sentiment": 0.75
     },
     {
       "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
@@ -199,16 +199,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil, Gas Extend Losses Despite Mideast Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 16:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Natural Gas Futures Start Week Lower",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 15:02:00 GMT",
       "sentiment": 0.045
-    },
-    {
-      "title": "Oil Futures Start Week Lower on Outlook for Global Surplus",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 14:32:00 GMT",
-      "sentiment": -0.16499999999999998
     },
     {
       "title": "Oil Prices Reverse Initial Gains as Supply Concerns Weigh",
@@ -235,6 +235,12 @@
       "sentiment": 0.00416666666666667
     },
     {
+      "title": "Bitcoin, Ether Slump Further",
+      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 12:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 00:46:00 GMT",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 15:18:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto",
-      "link": "https://www.wsj.com/finance/currencies/bitcoin-holds-below-70-000-as-risk-off-mood-pressures-crypto-d61d684d?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 11:34:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Another Winner From the Midterms: Crusaders Against Insurance Companies",
