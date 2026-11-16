@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "They Defeated a Strongman. But Can They Run a Country?",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+      "published": "Mon, 16 Nov 2026 05:01:15 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Searching for the Last Stoats of Waiheke Island",
+      "link": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+      "published": "Mon, 16 Nov 2026 05:01:22 +0000",
+      "sentiment": 0.09659090909090909
+    },
+    {
+      "title": "A Year On, Mark Carney of Canada Returns to China a Political Star",
+      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+      "published": "Mon, 16 Nov 2026 08:31:01 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
       "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
       "published": "Sun, 15 Nov 2026 18:47:49 +0000",
@@ -67,42 +85,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
-      "published": "Sat, 14 Nov 2026 05:01:07 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
-      "published": "Fri, 13 Nov 2026 21:50:12 +0000",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
-      "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
-      "published": "Fri, 13 Nov 2026 16:02:36 +0000",
-      "sentiment": 0.005681818181818177
-    },
-    {
-      "title": "A Year On, Canada’s Mark Carney Returns to China a Political Star",
-      "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
-      "published": "Mon, 16 Nov 2026 05:01:22 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Searching for the Last Stoats of Waiheke Island",
-      "link": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
-      "published": "Mon, 16 Nov 2026 05:01:22 +0000",
-      "sentiment": 0.09659090909090909
-    },
-    {
-      "title": "They Defeated a Strongman. But Can They Run a Country?",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
-      "published": "Mon, 16 Nov 2026 05:01:15 +0000",
-      "sentiment": 0.25
-    },
-    {
       "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
       "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
       "published": "Mon, 16 Nov 2026 02:11:17 +0000",
@@ -163,6 +145,12 @@
       "sentiment": -0.3
     },
     {
+      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+      "published": "Sat, 14 Nov 2026 05:01:07 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
       "link": "https://www.nytimes.com/2026/11/13/world/europe/pope-leo-xiv-peru-chiclayo.html",
       "published": "Fri, 13 Nov 2026 22:21:04 +0000",
@@ -185,6 +173,12 @@
       "link": "https://www.nytimes.com/2026/11/13/world/africa/miss-universe-us-visas.html",
       "published": "Fri, 13 Nov 2026 21:01:28 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
+      "link": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html",
+      "published": "Fri, 13 Nov 2026 21:50:12 +0000",
+      "sentiment": -0.125
     },
     {
       "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
@@ -215,6 +209,12 @@
       "link": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html",
       "published": "Fri, 13 Nov 2026 10:02:17 +0000",
       "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "link": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html",
+      "published": "Fri, 13 Nov 2026 16:02:36 +0000",
+      "sentiment": 0.005681818181818177
     },
     {
       "title": "Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be.",
