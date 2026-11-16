@@ -3,7 +3,7 @@
     {
       "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
       "link": "https://www.nytimes.com/2026/11/16/world/europe/iran-dams-missile-sites-environmentalists.html",
-      "published": "Mon, 16 Nov 2026 10:10:58 +0000",
+      "published": "Mon, 16 Nov 2026 15:39:09 +0000",
       "sentiment": 0.0625
     },
     {
@@ -13,10 +13,22 @@
       "sentiment": 0.1
     },
     {
+      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+      "published": "Mon, 16 Nov 2026 15:48:31 +0000",
+      "sentiment": -0.041666666666666664
+    },
+    {
       "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
       "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-      "published": "Mon, 16 Nov 2026 12:54:55 +0000",
+      "published": "Mon, 16 Nov 2026 15:25:21 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+      "link": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+      "published": "Mon, 16 Nov 2026 14:47:46 +0000",
+      "sentiment": 0.2
     },
     {
       "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
@@ -25,9 +37,9 @@
       "sentiment": -0.012499999999999997
     },
     {
-      "title": "What to Know About Trump’s Trip to Asia",
+      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
       "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-      "published": "Mon, 16 Nov 2026 11:26:58 +0000",
+      "published": "Mon, 16 Nov 2026 11:26:59 +0000",
       "sentiment": 0.0
     },
     {
@@ -45,7 +57,7 @@
     {
       "title": "Searching for the Last Stoats of Waiheke Island",
       "link": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
-      "published": "Mon, 16 Nov 2026 05:01:22 +0000",
+      "published": "Mon, 16 Nov 2026 14:49:58 +0000",
       "sentiment": 0.09659090909090909
     },
     {
@@ -55,28 +67,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "International Students Are Turning Away From U.S. Universities",
+      "link": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
+      "published": "Mon, 16 Nov 2026 14:10:11 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
       "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
       "published": "Sun, 15 Nov 2026 18:47:49 +0000",
       "sentiment": -0.1875
     },
     {
-      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
-      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-      "published": "Sun, 15 Nov 2026 17:07:07 +0000",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
-      "published": "Sun, 15 Nov 2026 21:33:59 +0000",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Iran Attacks Bahrain for the Second Time in Days",
-      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
-      "published": "Sun, 15 Nov 2026 15:55:09 +0000",
-      "sentiment": 0.0
+      "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
+      "link": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+      "published": "Mon, 16 Nov 2026 14:56:41 +0000",
+      "sentiment": -0.175
     },
     {
       "title": "American Global Health Aid Isn’t Dead. It’s Changing.",
@@ -87,8 +93,14 @@
     {
       "title": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
       "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-      "published": "Mon, 16 Nov 2026 02:11:17 +0000",
+      "published": "Mon, 16 Nov 2026 02:11:18 +0000",
       "sentiment": -0.03472222222222222
+    },
+    {
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "published": "Sun, 15 Nov 2026 21:33:59 +0000",
+      "sentiment": -0.08333333333333333
     },
     {
       "title": "Too Many Chips in One Basket?",
@@ -103,6 +115,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Iran Attacks Bahrain for the Second Time in Days",
+      "link": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+      "published": "Sun, 15 Nov 2026 15:55:09 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Is Italy the Model for Europe’s Future?",
       "link": "https://www.nytimes.com/2026/11/15/world/europe/italy-italianization-europe-horowitz.html",
       "published": "Sun, 15 Nov 2026 05:01:24 +0000",
@@ -113,6 +131,12 @@
       "link": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
       "published": "Sun, 15 Nov 2026 05:01:20 +0000",
       "sentiment": -0.45
+    },
+    {
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "published": "Sun, 15 Nov 2026 17:07:07 +0000",
+      "sentiment": 0.6
     },
     {
       "title": "A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.",
@@ -323,24 +347,6 @@
       "link": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
       "published": "Thu, 12 Nov 2026 20:15:04 +0000",
       "sentiment": -0.015909090909090914
-    },
-    {
-      "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
-      "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
-      "published": "Fri, 13 Nov 2026 07:58:38 +0000",
-      "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-      "published": "Thu, 12 Nov 2026 14:43:08 +0000",
-      "sentiment": -0.025
-    },
-    {
-      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
-      "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
-      "published": "Thu, 12 Nov 2026 10:00:57 +0000",
-      "sentiment": 0.0
     }
   ]
 }
