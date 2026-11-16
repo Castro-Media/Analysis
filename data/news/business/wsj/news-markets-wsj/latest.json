@@ -103,6 +103,18 @@
       "sentiment": 0.25
     },
     {
+      "title": "Gold Ticks Up But Prices Stay Weak",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 03:33:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "Path for Asian Bonds, Currencies More Bullish in 2027, Goldman Sachs Says",
+      "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 03:20:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered",
       "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 02:21:00 GMT",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-82432d04?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 21:57:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
-      "link": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 14:00:00 GMT",
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "title": "Kraft Heinz Plans to Bring New Life to Old Brands",
-      "link": "https://www.wsj.com/finance/investing/kraft-heinz-plans-to-bring-new-life-to-old-brands-8aa9f069?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 11:27:00 GMT",
-      "sentiment": 0.4340909090909091
     },
     {
       "title": "Asian Equities Fall as U.S. Chip-Maker Share Selloff Spills Over",
@@ -229,6 +229,12 @@
       "sentiment": -0.11333333333333333
     },
     {
+      "title": "Singapore Dollar Consolidates, But May Be Weighed by Risk-Off Sentiment",
+      "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 03:34:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 00:46:00 GMT",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/bitcoin-holds-below-70-000-as-risk-off-mood-pressures-crypto-d61d684d?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 11:34:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
-      "link": "https://www.wsj.com/finance/currencies/japans-finance-minister-warns-against-rapid-yen-moves-cb65cc67?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 06:21:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Another Winner From the Midterms: Crusaders Against Insurance Companies",
@@ -289,6 +289,12 @@
       "sentiment": 0.36818181818181817
     },
     {
+      "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
+      "link": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe?mod=rss_markets_main",
+      "published": "Fri, 13 Nov 2026 14:00:00 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
       "title": "Jensen Huang’s Exit Will Test AI’s Stocks, and Great-Man Theory",
       "link": "https://www.wsj.com/finance/stocks/jensen-huangs-exit-will-test-ais-stocks-and-great-man-theory-3c4cd404?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 21:41:00 GMT",
@@ -313,12 +319,6 @@
       "sentiment": -0.85
     },
     {
-      "title": "Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
-      "link": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 21:58:00 GMT",
-      "sentiment": -0.004761904761904753
-    },
-    {
       "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
       "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 01:00:00 GMT",
@@ -337,16 +337,16 @@
       "sentiment": 0.1321212121212121
     },
     {
-      "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
-      "link": "https://www.wsj.com/personal-finance/taxes/the-2027-tax-brackets-are-here-see-where-you-land-c20ada58?mod=rss_markets_main",
-      "published": "Thu, 05 Nov 2026 21:04:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
       "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
       "published": "Sun, 15 Nov 2026 10:30:00 GMT",
       "sentiment": -0.325
+    },
+    {
+      "title": "The 2027 Tax Brackets Are Here. See Where You Land.",
+      "link": "https://www.wsj.com/personal-finance/taxes/the-2027-tax-brackets-are-here-see-where-you-land-c20ada58?mod=rss_markets_main",
+      "published": "Thu, 05 Nov 2026 21:04:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
