@@ -1,10 +1,28 @@
 {
   "entries": [
     {
-      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "title": "Yemeni forces retreat to defend port city from Houthis",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 07:23:23 GMT",
+      "published": "Mon, 16 Nov 2026 11:09:38 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 12:20:49 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 12:54:44 GMT",
+      "sentiment": -0.2333333333333333
+    },
+    {
+      "title": "Man sentenced over 'horrific' attempted murder of three children",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 12:27:15 GMT",
+      "sentiment": -1.0
     },
     {
       "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
@@ -13,10 +31,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 01:47:57 GMT",
-      "sentiment": 0.2
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 10:57:48 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
@@ -31,6 +49,12 @@
       "sentiment": -0.025
     },
     {
+      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+      "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 12:42:14 GMT",
+      "sentiment": -0.30000000000000004
+    },
+    {
       "title": "Clothing factories shut in Bangladesh as workers strike over pay",
       "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 01:05:44 GMT",
@@ -43,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Klopp says Infantino worse than Blatter",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 11:27:08 GMT",
+      "sentiment": -0.4
+    },
+    {
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 19:32:39 GMT",
@@ -53,36 +83,6 @@
       "link": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 23:18:38 GMT",
       "sentiment": 0.31
-    },
-    {
-      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 09:21:31 GMT",
-      "sentiment": 0.8
-    },
-    {
-      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 05:06:59 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Canada bars Russia from Junior World Championships",
-      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:01:16 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 13:37:45 GMT",
-      "sentiment": 0.23611111111111113
-    },
-    {
-      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:57:27 GMT",
-      "sentiment": -0.09015151515151515
     },
     {
       "title": "Watch: New York teen reunites with cat missing after building collapse",
@@ -115,7 +115,7 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
+      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
       "link": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 00:11:12 GMT",
       "sentiment": -0.125
