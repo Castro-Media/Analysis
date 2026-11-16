@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
+      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 20:32:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
       "link": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 17:10:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/articles/how-mastercards-ceo-stays-in-front-of-change-f54f2ce8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 11:01:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Inside the Frenetic Month That Shook Wall Street’s AI Trade",
-      "link": "https://www.wsj.com/articles/inside-the-frenetic-month-that-shook-wall-streets-ai-trade-bd0712f3?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 10:36:00 GMT",
-      "sentiment": 0.14285714285714285
     },
     {
       "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
@@ -157,6 +157,12 @@
       "sentiment": 0.01666666666666668
     },
     {
+      "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
+      "link": "https://www.wsj.com/opinion/can-nvidia-thrive-without-jensen-huang-5b0001d5?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 20:29:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Opinion | The FAA Is a Classic Government Failure",
       "link": "https://www.wsj.com/opinion/just-another-frantic-friday-at-the-faa-f36a9df4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 02:05:00 GMT",
@@ -187,10 +193,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Jensen Huang and the World’s Information Chaos",
-      "link": "https://www.wsj.com/opinion/jensen-huang-and-the-worlds-information-chaos-f73f5d7e?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 20:15:00 GMT",
-      "sentiment": 0.45
+      "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 20:30:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -208,12 +214,6 @@
       "title": "The Long-Running Climate Reporting Saga That Is Giving Companies Whiplash",
       "link": "https://www.wsj.com/pro/business-resilience/the-long-running-climate-reporting-saga-that-is-giving-companies-whiplash-43eb2b4f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 15:52:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Oil Prices Reverse Initial Gains as Supply Concerns Weigh",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 12:56:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -433,6 +433,12 @@
       "sentiment": -0.07777777777777778
     },
     {
+      "title": "Inside the Frenetic Month That Shook Wall Street’s AI Trade",
+      "link": "https://www.wsj.com/articles/inside-the-frenetic-month-that-shook-wall-streets-ai-trade-bd0712f3?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 10:36:00 GMT",
+      "sentiment": 0.14285714285714285
+    },
+    {
       "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
       "link": "https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 18:44:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.06666666666666667
     },
     {
-      "title": "SpaceX Catches Starship After Early Setback",
-      "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 22:58:00 GMT",
-      "sentiment": 0.2833333333333333
-    },
-    {
       "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
       "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:13:00 GMT",
@@ -481,16 +481,16 @@
       "sentiment": 0.2681818181818182
     },
     {
-      "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
-      "link": "https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 18:44:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Hear How the FAA’s Ground Stop Unfolded",
       "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:53:00 GMT",
       "sentiment": -0.125
+    },
+    {
+      "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
+      "link": "https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 18:44:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
