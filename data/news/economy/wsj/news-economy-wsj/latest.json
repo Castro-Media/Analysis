@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Canada Inflation Holds Steady at 3.1% in October",
+      "link": "https://www.wsj.com/economy/central-banking/canada-inflation-holds-steady-at-3-1-in-october-d47350f2?mod=rss_socialeconomyfeed",
+      "published": "Mon, 16 Nov 2026 14:05:00 GMT",
+      "sentiment": 0.11979166666666666
+    },
+    {
+      "title": "New York Manufacturing Activity Moderates from October Surge",
+      "link": "https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-moderates-from-october-surge-4d9db965?mod=rss_socialeconomyfeed",
+      "published": "Mon, 16 Nov 2026 13:55:00 GMT",
+      "sentiment": 0.21818181818181817
+    },
+    {
       "title": "Eurozone Industrial Production Picked Up in September",
       "link": "https://www.wsj.com/economy/eurozone-industrial-production-picked-up-in-september-40e4d56a?mod=rss_socialeconomyfeed",
       "published": "Mon, 16 Nov 2026 10:43:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/economy/japan-economy-contracts-for-first-time-in-four-quarters-468f74f5?mod=rss_socialeconomyfeed",
       "published": "Mon, 16 Nov 2026 02:54:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "High mortgage rates have crushed homeowners’ budgets. Some lucky Americans haven’t felt any of it. Meet the one in five mortgage holders who are America’s three percenters.",
-      "link": "https://www.wsj.com/economy/housing/theyre-lucky-enough-to-have-a-3-mortgageand-feel-like-they-can-never-move-76c8d15a?mod=rss_socialeconomyfeed",
-      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.1311111111111111
-    },
-    {
-      "title": "Shoppers’ complaints about food prices could soon grow louder, as surging energy costs and supply-chain delays are elevating costs for producers: “The worst is yet to come”",
-      "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_socialeconomyfeed",
-      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
-      "sentiment": -1.0
     },
     {
       "title": "A Quarter of Key Goods Vulnerable to Supply Disruptions, Study Finds",
@@ -67,6 +67,12 @@
       "sentiment": 0.14727272727272728
     },
     {
+      "title": "High mortgage rates have crushed homeowners’ budgets. Some lucky Americans haven’t felt any of it. Meet the one in five mortgage holders who are America’s three percenters.",
+      "link": "https://www.wsj.com/economy/housing/theyre-lucky-enough-to-have-a-3-mortgageand-feel-like-they-can-never-move-76c8d15a?mod=rss_socialeconomyfeed",
+      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.1311111111111111
+    },
+    {
       "title": "Home sales declined in October to their lowest level since 2010, a new trough for a housing market that has been hovering near rock bottom for more than four years",
       "link": "https://www.wsj.com/economy/housing/home-sales-in-october-plummet-to-16-year-low-16adebc0?mod=rss_socialeconomyfeed",
       "published": "Thu, 12 Nov 2026 17:08:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/economy/housing/u-s-housing-starts-dropped-again-in-september-808c2f3d?mod=rss_socialeconomyfeed",
       "published": "Tue, 20 Oct 2026 12:48:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "U.S. Home-Builder Sentiment Sinks to 14-Year Low",
-      "link": "https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-sinks-to-14-year-low-120d5cb6?mod=rss_socialeconomyfeed",
-      "published": "Mon, 19 Oct 2026 14:10:00 GMT",
-      "sentiment": -0.00876623376623377
     },
     {
       "title": "Of all the ways Chairman Kevin Warsh wants to remake the Fed, the least flashy may be the most lasting: He is cutting the number of interest-rate decisions the central bank makes each year",
@@ -127,6 +127,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "Shoppers’ complaints about food prices could soon grow louder, as surging energy costs and supply-chain delays are elevating costs for producers: “The worst is yet to come”",
+      "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_socialeconomyfeed",
+      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
+      "sentiment": -1.0
+    },
+    {
       "title": "U.S. Consumer Mood Improved but Remained Gloomy This Month",
       "link": "https://www.wsj.com/economy/consumers/u-s-consumer-mood-improved-but-remained-gloomy-this-month-568256a3?mod=rss_socialeconomyfeed",
       "published": "Fri, 06 Nov 2026 15:32:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/economy/consumers/consumer-sentiment-declined-slightly-in-october-bae24944?mod=rss_socialeconomyfeed",
       "published": "Fri, 23 Oct 2026 14:17:00 GMT",
       "sentiment": -0.07407407407407406
-    },
-    {
-      "title": "U.K. Consumer Confidence Suffers Biggest Drop Since Pandemic",
-      "link": "https://www.wsj.com/economy/consumers/u-k-consumer-confidence-suffers-biggest-drop-since-pandemic-e113231a?mod=rss_socialeconomyfeed",
-      "published": "Fri, 23 Oct 2026 09:29:00 GMT",
-      "sentiment": -0.6
     },
     {
       "title": "Eurozone Goods-Trade Deficit Widens on Higher Energy Prices",
