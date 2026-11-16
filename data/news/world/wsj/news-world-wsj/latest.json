@@ -67,6 +67,12 @@
       "sentiment": -0.2333333333333333
     },
     {
+      "title": "Trump Says He Might Meet With North Korea’s Kim During Asia Trip",
+      "link": "https://www.wsj.com/politics/trump-says-he-might-meet-with-north-koreas-kim-during-asia-trip-1634f7f0?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 15:24:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home",
       "link": "https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852?mod=rss_worldnews",
       "published": "Mon, 16 Nov 2026 06:59:00 GMT",
@@ -91,10 +97,10 @@
       "sentiment": 0.36818181818181817
     },
     {
-      "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
-      "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=rss_worldnews",
-      "published": "Thu, 12 Nov 2026 17:42:00 GMT",
-      "sentiment": 0.0
+      "title": "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
+      "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-gov-macklem-to-leave-in-june-kicking-off-search-for-new-leader-cbce9e69?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 15:38:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70?mod=rss_worldnews",
       "published": "Thu, 12 Nov 2026 20:14:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "The ‘Peruvian Pope’ Returns Home to Elation",
-      "link": "https://www.wsj.com/world/americas/the-peruvian-pope-returns-home-to-elation-83890915?mod=rss_worldnews",
-      "published": "Thu, 12 Nov 2026 02:30:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
@@ -193,10 +193,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "UniCredit’s Commerzbank Bid Gets EU Approval",
+      "title": "UniCredit’s Commerzbank Bid Gets EU, U.S. Approval",
       "link": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6?mod=rss_worldnews",
-      "published": "Mon, 16 Nov 2026 10:57:00 GMT",
-      "sentiment": 0.0
+      "published": "Mon, 16 Nov 2026 15:13:00 GMT",
+      "sentiment": -0.05555555555555555
     },
     {
       "title": "Eurozone Industrial Production Picked Up in September",
@@ -235,6 +235,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
+      "link": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=rss_worldnews",
+      "published": "Thu, 12 Nov 2026 17:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Huang’s Coziness With Trump Wasn’t Enough to Save Him From Spying Scandal",
       "link": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?mod=rss_worldnews",
       "published": "Thu, 12 Nov 2026 14:37:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/china/beijing-sees-a-weakened-trump-it-risks-getting-a-tougher-negotiator-632f0132?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 11:55:00 GMT",
       "sentiment": 0.1875
-    },
-    {
-      "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare",
-      "link": "https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304?mod=rss_worldnews",
-      "published": "Tue, 10 Nov 2026 04:15:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
@@ -391,16 +391,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.",
-      "link": "https://www.wsj.com/world/russia/putin-had-four-plans-to-defeat-ukraine-he-only-has-two-left-7875e5a6?mod=rss_worldnews",
-      "published": "Fri, 13 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.02
-    },
-    {
       "title": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80",
       "link": "https://www.wsj.com/world/americas/miguel-angel-felix-gallardo-architect-of-mexicos-modern-drug-trade-has-died-at-80-4f50a23a?mod=rss_worldnews",
       "published": "Sun, 15 Nov 2026 22:13:00 GMT",
       "sentiment": 0.1
+    },
+    {
+      "title": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.",
+      "link": "https://www.wsj.com/world/russia/putin-had-four-plans-to-defeat-ukraine-he-only-has-two-left-7875e5a6?mod=rss_worldnews",
+      "published": "Fri, 13 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.02
     },
     {
       "title": "How to Refinance a Car Loan in 6 Steps",

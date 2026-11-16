@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Robert Pattinson Named as the Next James Bond",
+      "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
+      "published": "Mon, 16 Nov 2026 15:19:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
+      "link": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
+      "published": "Mon, 16 Nov 2026 14:56:41 +0000",
+      "sentiment": -0.175
+    },
+    {
       "title": "Is Jensen Huang Plotting a Comeback?",
       "link": "https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html",
       "published": "Mon, 16 Nov 2026 12:45:52 +0000",
@@ -45,7 +57,7 @@
     {
       "title": "A Bull Market, Fueled by Pikachu, Charizard and Nostalgia",
       "link": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
-      "published": "Mon, 16 Nov 2026 10:00:56 +0000",
+      "published": "Mon, 16 Nov 2026 15:54:54 +0000",
       "sentiment": 0.0
     },
     {
@@ -69,7 +81,7 @@
     {
       "title": "A Flurry of Thanksgiving Travel Deals for Vacation Shoppers",
       "link": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
-      "published": "Mon, 16 Nov 2026 10:00:21 +0000",
+      "published": "Mon, 16 Nov 2026 14:48:07 +0000",
       "sentiment": 0.0
     },
     {
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
       "published": "Fri, 13 Nov 2026 01:10:20 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
-      "published": "Fri, 13 Nov 2026 14:02:13 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
-      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-      "published": "Fri, 13 Nov 2026 21:04:57 +0000",
-      "sentiment": 0.11666666666666667
     }
   ]
 }
