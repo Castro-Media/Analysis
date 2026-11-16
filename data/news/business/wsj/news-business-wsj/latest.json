@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "The Campaign to Bring Back Jensen Huang as Nvidia CEO",
+      "link": "https://www.wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 02:34:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "Ground Stop’s Fallout Ripples Into Third Day of Canceled Flights",
       "link": "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 22:57:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/in-a-large-used-car-market-carmax-and-carvana-clash-over-how-americans-buy-9c94147f?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 17:00:00 GMT",
       "sentiment": 0.11688311688311688
-    },
-    {
-      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
-      "sentiment": -0.325
     },
     {
       "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.325
+    },
+    {
       "title": "The Next Wave of Food Inflation Is Coming",
       "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 01:00:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/earnings/once-upon-a-farm-slashes-outlook-following-tractor-wheels-recall-f13bb8b2?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 21:44:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Cerebras Lifts Outlook as Cloud Revenue Surges in Third Quarter",
-      "link": "https://www.wsj.com/business/earnings/cerebras-lifts-outlook-as-cloud-revenue-surges-in-third-quarter-87d7cba2?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 21:18:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Aviva Sees Outlook on Track After Insurance Premiums, Wealth Inflows Rise",
@@ -157,10 +157,10 @@
       "sentiment": 0.3
     },
     {
-      "title": "Opinion | Just Another Frantic Friday at the FAA",
+      "title": "Opinion | The FAA Is a Classic Government Failure",
       "link": "https://www.wsj.com/opinion/just-another-frantic-friday-at-the-faa-f36a9df4?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 21:19:00 GMT",
-      "sentiment": 0.0
+      "published": "Mon, 16 Nov 2026 02:05:00 GMT",
+      "sentiment": -0.075
     },
     {
       "title": "Opinion | How’s That Russian Diesel Deal Going?",
@@ -193,6 +193,12 @@
       "sentiment": 0.45
     },
     {
+      "title": "Asian Equities Fall as U.S. Chip-Maker Share Selloff Spills Over",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-fall-as-u-s-chip-maker-share-selloff-spills-over-f6edc8d5?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 02:05:00 GMT",
+      "sentiment": -0.2333333333333333
+    },
+    {
       "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 00:07:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/global-oil-market-set-to-return-to-surplus-as-gulf-exports-recover-iea-says-d535096c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 09:40:00 GMT",
       "sentiment": 0.024999999999999998
-    },
-    {
-      "title": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 21:01:00 GMT",
-      "sentiment": 0.0375
     },
     {
       "title": "Hear How the FAA’s Ground Stop Unfolded",
