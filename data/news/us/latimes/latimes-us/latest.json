@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Walnut High School locked down after reports of gun and bomb. 'Swatting' suspected",
+      "link": "https://www.latimes.com/california/story/2026-11-16/walnut-high-school-locked-down-after-reports-of-gun-bomb-swatting-suspected",
+      "published": "Mon, 16 Nov 2026 22:00:45 GMT",
+      "sentiment": 0.0022222222222222227
+    },
+    {
       "title": "Motorcyclist speeding at 136 mph is pulled over by CHP",
       "link": "https://www.latimes.com/california/story/2026-11-16/motorcyclist-speeding-at-136-mph-is-pulled-over-by-chp",
       "published": "Mon, 16 Nov 2026 21:26:58 GMT",
@@ -16,7 +22,7 @@
       "title": "California sues OpenAI, alleges it endangered the public by building AI without safeguards",
       "link": "https://www.latimes.com/california/story/2026-11-16/california-sues-openai-alleging-it-endangered-public-by-developing-ai-without-safeguards",
       "published": "Mon, 16 Nov 2026 18:42:49 GMT",
-      "sentiment": -0.03333333333333333
+      "sentiment": -0.13333333333333333
     },
     {
       "title": "Newsom visits Ukraine, says its people shouldn't have to wonder if they stand alone",
@@ -563,18 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-10/veres-harris-winston-win-terms-on-la-community-college-board",
       "published": "Tue, 10 Nov 2026 18:59:36 GMT",
       "sentiment": 0.8
-    },
-    {
-      "title": "Fire at massive L.A. County business triggers air quality alert",
-      "link": "https://www.latimes.com/california/story/2026-11-10/fire-at-massive-la-county-business-flares-up-again",
-      "published": "Tue, 10 Nov 2026 14:39:41 GMT",
-      "sentiment": 0.025
-    },
-    {
-      "title": "Shasta County measure that sought to eliminate most mail-in voting violates state law, judge rules",
-      "link": "https://www.latimes.com/california/story/2026-11-10/shasta-county-mail-in-voting-measure-violates-state-law-judge-rules",
-      "published": "Tue, 10 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.5
     }
   ]
 }

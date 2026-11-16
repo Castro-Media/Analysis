@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "United Airlines Says Tech Troubles Are Impacting Flights",
+      "link": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 22:50:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
+      "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 22:35:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
       "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 20:32:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-ground-stop-puts-focus-on-key-defense-contractor-2cbe6ae4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 12:56:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
-      "link": "https://www.wsj.com/cfo-journal/nvidia-earnings-anthropic-ipo-ahead-in-new-test-for-ai-economy-7dced222?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 12:33:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "How Mastercard’s CEO Stays in Front of Change",
-      "link": "https://www.wsj.com/articles/how-mastercards-ceo-stays-in-front-of-change-f54f2ce8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 11:01:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
@@ -193,6 +193,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-02dc2fa2?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 21:55:00 GMT",
+      "sentiment": 0.3666666666666667
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-4080b9af?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 21:54:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Oil Futures Retreat on Expected Global Surplus",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 21:50:00 GMT",
@@ -205,22 +217,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-02dc2fa2?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 17:24:00 GMT",
-      "sentiment": 0.10000000000000002
-    },
-    {
       "title": "The Long-Running Climate Reporting Saga That Is Giving Companies Whiplash",
       "link": "https://www.wsj.com/pro/business-resilience/the-long-running-climate-reporting-saga-that-is-giving-companies-whiplash-43eb2b4f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 15:52:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Big Tech Needs to Spread Its Bets on Data Centers",
-      "link": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 10:30:00 GMT",
-      "sentiment": -0.09999999999999999
     },
     {
       "title": "The Defense Contractor at the Center of the Ground Stop",
@@ -253,6 +253,18 @@
       "sentiment": -0.03571428571428571
     },
     {
+      "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
+      "link": "https://www.wsj.com/cfo-journal/nvidia-earnings-anthropic-ipo-ahead-in-new-test-for-ai-economy-7dced222?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 12:33:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "How Mastercard’s CEO Stays in Front of Change",
+      "link": "https://www.wsj.com/articles/how-mastercards-ceo-stays-in-front-of-change-f54f2ce8?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 11:01:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nvidia Succession Shows Key Part of CFOs’ Jobs: Serving as On-Call CEOs in a Pinch",
       "link": "https://www.wsj.com/cfo-journal/nvidia-succession-shows-key-part-of-cfos-jobs-serving-as-on-call-ceos-in-a-pinch-dfb15c3b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 12:25:00 GMT",
@@ -269,18 +281,6 @@
       "link": "https://www.wsj.com/business/earnings/nebius-lowers-outlook-addresses-worries-over-financing-ai-buildout-699ca1dc?mod=pls_whats_news_us_business_f",
       "published": "Thu, 12 Nov 2026 13:38:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Strategic Hiring: New Questions to Ask",
-      "link": "https://www.wsj.com/cfo-journal/strategic-hiring-new-questions-to-ask-28964268?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 12:12:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "BHP Names Australian Projects Boss as Next CFO",
-      "link": "https://www.wsj.com/business/c-suite/bhp-names-australian-projects-boss-as-next-cfo-30532955?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 12 Nov 2026 01:03:00 GMT",
-      "sentiment": 0.028409090909090908
     },
     {
       "title": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
@@ -487,9 +487,9 @@
       "sentiment": -0.125
     },
     {
-      "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
-      "link": "https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 18:44:00 GMT",
+      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
+      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 20:32:00 GMT",
       "sentiment": 0.0
     },
     {
