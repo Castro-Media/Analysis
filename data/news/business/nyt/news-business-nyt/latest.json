@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+      "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+      "published": "Mon, 16 Nov 2026 18:39:13 +0000",
+      "sentiment": 0.16818181818181818
+    },
+    {
+      "title": "Willie Geist Is Leaving ‘Morning Joe’ After Nearly 20 Years",
+      "link": "https://www.nytimes.com/2026/11/16/business/media/willie-geist-morning-joe-today.html",
+      "published": "Mon, 16 Nov 2026 18:41:33 +0000",
+      "sentiment": 0.1
+    },
+    {
       "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
       "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
       "published": "Mon, 16 Nov 2026 17:45:28 +0000",
@@ -115,16 +127,16 @@
       "sentiment": -0.08333333333333333
     },
     {
-      "title": "A Human Reads the Anthropic I.P.O. Filing",
-      "link": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-      "published": "Sun, 15 Nov 2026 10:01:56 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
       "link": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
       "published": "Sun, 15 Nov 2026 10:01:57 +0000",
       "sentiment": -0.7
+    },
+    {
+      "title": "A Human Reads the Anthropic I.P.O. Filing",
+      "link": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+      "published": "Sun, 15 Nov 2026 10:01:56 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
@@ -281,18 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
       "published": "Fri, 13 Nov 2026 15:29:56 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
-      "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
-      "published": "Sat, 14 Nov 2026 00:40:29 +0000",
-      "sentiment": 0.0625
-    },
-    {
-      "title": "Democrats Eye Strict New Limits on White House Budget Powers",
-      "link": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
-      "published": "Fri, 13 Nov 2026 17:09:56 +0000",
-      "sentiment": 0.04545454545454545
     }
   ]
 }
