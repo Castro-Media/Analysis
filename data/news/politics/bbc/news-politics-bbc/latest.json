@@ -3,7 +3,7 @@
     {
       "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
       "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 08:15:07 GMT",
+      "published": "Mon, 16 Nov 2026 10:34:10 GMT",
       "sentiment": 0.5
     },
     {
@@ -25,10 +25,10 @@
       "sentiment": -0.25
     },
     {
-      "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
       "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 22:30:03 GMT",
-      "sentiment": 0.0
+      "published": "Mon, 16 Nov 2026 10:51:45 GMT",
+      "sentiment": -0.175
     },
     {
       "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
@@ -41,6 +41,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Nov 2026 13:06:15 GMT",
       "sentiment": 0.017142857142857147
+    },
+    {
+      "title": "New campaign against EU membership launches ahead of UK-EU summit",
+      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 21:39:46 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
@@ -61,40 +67,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "Can Burnham avoid another Labour welfare rebellion?",
-      "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 18:21:38 GMT",
-      "sentiment": -0.23333333333333328
-    },
-    {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 22:51:18 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "Smart glasses banned from Welsh Parliament after ruling they could be used for speeches",
       "link": "https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 07:33:10 GMT",
       "sentiment": 0.21428571428571427
     },
     {
-      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Nov 2026 13:48:37 GMT",
-      "sentiment": 0.0035714285714285787
-    },
-    {
       "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
       "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 01:17:58 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Burnham's push for closer EU ties causes ripples in his party and others",
-      "link": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 00:30:48 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Piddington to bring legal challenge over asylum base plans",
@@ -157,16 +139,52 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Burnham signals backing for more ethnicity options on next census",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx160v9zrno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 18:03:38 GMT",
+      "sentiment": 0.04761904761904762
+    },
+    {
+      "title": "Former minister calls for phone tech to block live-streamed child sex abuse",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8g0x14geo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 17:56:49 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Governments 'asleep at the wheel' over social care, says head of review",
+      "link": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 09:08:48 GMT",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Can Burnham avoid another Labour welfare rebellion?",
+      "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 18:21:38 GMT",
+      "sentiment": -0.23333333333333328
+    },
+    {
       "title": "Young, Welsh and into politics - but with different views on independence",
       "link": "https://www.bbc.co.uk/news/articles/ckvgdd9p7171o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 06:25:49 GMT",
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "Burnham's push for closer EU ties causes ripples in his party and others",
+      "link": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 00:30:48 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The school where white working-class pupils defy the odds",
       "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 00:53:49 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 21:42:20 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "How a civil servant got away with juggling five jobs for so long",
@@ -259,22 +277,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 23:27:05 GMT",
-      "sentiment": 0.225
+      "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
+      "link": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 06:01:33 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
-      "link": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 12:54:43 GMT",
-      "sentiment": 0.2
+      "title": "Sunday with Laura Kuenssberg",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034dl4?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Nov 2026 10:00:01 GMT",
+      "sentiment": 0.0
     },
     {
-      "title": "What is happening to UK prices?",
-      "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 08:35:47 GMT",
-      "sentiment": 0.425
+      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 13:48:37 GMT",
+      "sentiment": 0.0035714285714285787
+    },
+    {
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 22:51:18 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",

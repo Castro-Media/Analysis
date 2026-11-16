@@ -1,6 +1,66 @@
 {
   "entries": [
     {
+      "title": "As Phillips Scales Back, the ‘Big Two’ Auction Houses Seem to Stand Alone",
+      "link": "https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html",
+      "published": "Mon, 16 Nov 2026 10:03:44 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Doubts Loom Over a van Gogh as Auctions Aim for a $2.8 Billion Week",
+      "link": "https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html",
+      "published": "Mon, 16 Nov 2026 10:02:29 +0000",
+      "sentiment": 0.28125
+    },
+    {
+      "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
+      "link": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
+      "published": "Mon, 16 Nov 2026 10:02:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Classic Car Show From Paris Aims to Turn Heads in Manhattan",
+      "link": "https://www.nytimes.com/2026/11/16/business/retromobile-classic-car-show-nyc.html",
+      "published": "Mon, 16 Nov 2026 10:02:01 +0000",
+      "sentiment": 0.13888888888888887
+    },
+    {
+      "title": "Apple Was Late to Video Podcasts. Now It’s Trying to Catch Up.",
+      "link": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
+      "published": "Mon, 16 Nov 2026 10:01:52 +0000",
+      "sentiment": 0.2035714285714286
+    },
+    {
+      "title": "A Bull Market, Fueled by Pikachu, Charizard and Nostalgia",
+      "link": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
+      "published": "Mon, 16 Nov 2026 10:00:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Billions in Insurance Money Is Being Bet on AI Debt, and Analyst Are Nervous",
+      "link": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+      "published": "Mon, 16 Nov 2026 10:00:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump’s Plan for A.I. Supremacy Fuels Resistance in the Philippines",
+      "link": "https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html",
+      "published": "Mon, 16 Nov 2026 10:00:46 +0000",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Wall Street Moved Into Insurance. Can State Regulators Keep Up?",
+      "link": "https://www.nytimes.com/2026/11/16/business/insurance-regulators-wall-street.html",
+      "published": "Mon, 16 Nov 2026 10:00:31 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Flurry of Thanksgiving Travel Deals for Vacation Shoppers",
+      "link": "https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html",
+      "published": "Mon, 16 Nov 2026 10:00:21 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
       "link": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
       "published": "Sun, 15 Nov 2026 20:33:07 +0000",
@@ -227,66 +287,6 @@
       "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
       "published": "Fri, 13 Nov 2026 18:05:44 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
-      "link": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
-      "published": "Thu, 12 Nov 2026 19:45:26 +0000",
-      "sentiment": -0.0875
-    },
-    {
-      "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-      "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-      "published": "Thu, 12 Nov 2026 18:51:05 +0000",
-      "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
-      "link": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-      "published": "Thu, 12 Nov 2026 18:05:44 +0000",
-      "sentiment": -0.10909090909090909
-    },
-    {
-      "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
-      "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-      "published": "Fri, 13 Nov 2026 14:28:29 +0000",
-      "sentiment": -0.05222222222222222
-    },
-    {
-      "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
-      "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
-      "published": "Thu, 12 Nov 2026 17:26:06 +0000",
-      "sentiment": 0.6
-    },
-    {
-      "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
-      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
-      "published": "Fri, 13 Nov 2026 01:56:22 +0000",
-      "sentiment": 0.1288888888888889
-    },
-    {
-      "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-      "link": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
-      "published": "Thu, 12 Nov 2026 21:05:50 +0000",
-      "sentiment": 0.19166666666666665
-    },
-    {
-      "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
-      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-      "published": "Thu, 12 Nov 2026 18:04:05 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
-      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
-      "published": "Thu, 12 Nov 2026 18:54:12 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
-      "published": "Thu, 12 Nov 2026 22:16:10 +0000",
-      "sentiment": 0.5
     }
   ]
 }
