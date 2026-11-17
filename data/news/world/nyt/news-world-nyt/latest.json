@@ -79,9 +79,27 @@
       "sentiment": 0.0
     },
     {
+      "title": "They’re Young, Frustrated and Want France to Change. They Disagree on How.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
+      "published": "Tue, 17 Nov 2026 05:01:06 +0000",
+      "sentiment": -0.025
+    },
+    {
+      "title": "Trump Will Miss Most of the ASEAN Summit",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "published": "Tue, 17 Nov 2026 05:00:14 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+      "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
+      "published": "Tue, 17 Nov 2026 05:00:07 +0000",
+      "sentiment": -0.03013888888888889
+    },
+    {
       "title": "The Death of ‘Keep 1.5 Alive’",
       "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
-      "published": "Mon, 16 Nov 2026 20:46:12 +0000",
+      "published": "Tue, 17 Nov 2026 05:20:43 +0000",
       "sentiment": -0.0034090909090909102
     },
     {
@@ -329,18 +347,6 @@
       "link": "https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html",
       "published": "Fri, 13 Nov 2026 16:54:40 +0000",
       "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
-      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-      "published": "Fri, 13 Nov 2026 21:04:57 +0000",
-      "sentiment": 0.11666666666666667
-    },
-    {
-      "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
-      "link": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
-      "published": "Thu, 12 Nov 2026 22:00:29 +0000",
-      "sentiment": -0.1125
     }
   ]
 }
