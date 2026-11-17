@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Chase Bank says operations are back to normal after ‘bug’ disrupts transactions",
+      "link": "https://www.washingtonpost.com/nation/2026/11/16/chase-bank-reports-technical-issue-affecting-users/",
+      "published": "Tue, 17 Nov 2026 01:56:06 +0000",
+      "sentiment": 0.0375
+    },
+    {
       "title": "United Airlines hit by tech issues days after nationwide ground stop",
       "link": "https://www.washingtonpost.com/transportation/2026/11/16/united-airlines-hit-by-tech-issues-days-after-nationwide-ground-stop/",
       "published": "Mon, 16 Nov 2026 23:24:09 +0000",
@@ -10,12 +16,6 @@
       "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data.",
       "link": "https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-risk-measles-pregnancy-journal-released-data/",
       "published": "Mon, 16 Nov 2026 23:12:34 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Chase Bank reports technical issue affecting users",
-      "link": "https://www.washingtonpost.com/nation/2026/11/16/chase-bank-reports-technical-issue-affecting-users/",
-      "published": "Mon, 16 Nov 2026 21:26:21 +0000",
       "sentiment": 0.0
     },
     {
@@ -143,12 +143,6 @@
       "link": "https://www.washingtonpost.com/religion/2026/11/15/how-16th-century-spanish-missionaries-became-georgia-martyrs/",
       "published": "Sun, 15 Nov 2026 10:00:00 +0000",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "FAA was warned for years about repair risks leading to nationwide ground stop",
-      "link": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/",
-      "published": "Sun, 15 Nov 2026 01:37:42 +0000",
-      "sentiment": 0.07878787878787878
     }
   ]
 }
