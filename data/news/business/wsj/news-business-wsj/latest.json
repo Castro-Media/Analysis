@@ -67,6 +67,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Dassault Systemes Expects New Growth Cycle for Revenue, Earnings on AI Adoption",
+      "link": "https://www.wsj.com/business/earnings/dassault-systemes-expects-new-growth-cycle-for-revenue-earnings-on-ai-adoption-c6690947?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 06:38:00 GMT",
+      "sentiment": -0.10909090909090909
+    },
+    {
       "title": "These 11 Toys Make Perfect Gifts and Have Stood the Test of Time",
       "link": "https://www.wsj.com/lifestyle/kid-toy-gifts-heritage-73d9ab02?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 19:02:00 GMT",
@@ -91,10 +97,10 @@
       "sentiment": -0.325
     },
     {
-      "title": "The Next Wave of Food Inflation Is Coming",
-      "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Imperial Brands Revenue Falls as Tobacco Volumes Slide",
+      "link": "https://www.wsj.com/business/earnings/imperial-brands-revenue-falls-as-tobacco-volumes-slide-984788dd?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 07:49:00 GMT",
+      "sentiment": 0.175
     },
     {
       "title": "Intel Sued by Investors After 29% Stock Plunge",
@@ -118,12 +124,6 @@
       "title": "Aviva Sees Outlook on Track After Insurance Premiums, Wealth Inflows Rise",
       "link": "https://www.wsj.com/business/earnings/aviva-sees-outlook-on-track-after-insurance-premiums-wealth-inflows-rise-478ef632?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 09:51:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Germany’s Merck Raises Guidance Again on Growth Across Units",
-      "link": "https://www.wsj.com/business/earnings/germanys-merck-raises-guidance-again-on-growth-across-units-3f6cfb03?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 06:54:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -193,12 +193,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Asia Stocks Fall as U.S. Commerce Department Cracks Down on Chip Shipments",
-      "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 05:11:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
       "title": "Oil Falls as Improving Supply Prospects Offset Mideast Tensions",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 00:23:00 GMT",
@@ -223,6 +217,18 @@
       "sentiment": -0.02
     },
     {
+      "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 20:30:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
+      "link": "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 07:08:00 GMT",
+      "sentiment": -0.09722222222222221
+    },
+    {
       "title": "The Defense Contractor at the Center of the Ground Stop",
       "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 03:15:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:53:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 02:13:00 GMT",
-      "sentiment": -0.03571428571428571
     },
     {
       "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
@@ -361,16 +361,22 @@
       "sentiment": -0.2
     },
     {
+      "title": "The Next Wave of Food Inflation Is Coming",
+      "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 14 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "A Tanker Lost Control and Hit a River Cruise Ship in New Orleans",
       "link": "https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 23:44:00 GMT",
       "sentiment": 0.3181818181818182
     },
     {
-      "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
-      "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 19:18:00 GMT",
-      "sentiment": -0.053418803418803416
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 02:13:00 GMT",
+      "sentiment": -0.03571428571428571
     },
     {
       "title": "The Tangle of Wires at the Heart of a Nationwide Air-Travel Meltdown",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/deals/western-union-scraps-500-million-international-money-express-takeover-0cf7ae09?mod=pls_whats_news_us_business_f",
       "published": "Wed, 11 Nov 2026 12:03:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters",
-      "link": "https://www.wsj.com/business/earnings/softbank-group-posts-quarterly-loss-on-special-losses-linked-to-u-s-data-center-projects-23b37a41?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 03:42:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "EQT Ventures Invests $10 Million in Enterprise AI Company Edra",
@@ -487,10 +487,10 @@
       "sentiment": 0.2681818181818182
     },
     {
-      "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
-      "link": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 17:10:00 GMT",
-      "sentiment": 0.10714285714285714
+      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
+      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "Best Small-Business Loans in November 2026",
