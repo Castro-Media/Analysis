@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "California’s international student numbers crash to decade-low",
+      "link": "https://nypost.com/2026/11/16/us-news/california-loses-top-spot-for-international-students-to-new-york/",
+      "published": "Mon, 16 Nov 2026 21:30:00 -0500",
+      "sentiment": 0.05833333333333333
+    },
+    {
+      "title": "Missing DoorDash driver’s wife slams rumors that she’s ‘in on’ her husband’s disappearance",
+      "link": "https://nypost.com/2026/11/16/us-news/missing-doordash-drivers-wife-slams-rumors-that-shes-in-on-her-husbands-disappearance/",
+      "published": "Mon, 16 Nov 2026 21:14:53 -0500",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Three dead after plane plunges into remote area of Grand Canyon National Park",
+      "link": "https://nypost.com/2026/11/16/us-news/three-dead-after-plane-crashes-in-grand-canyon-national-park/",
+      "published": "Mon, 16 Nov 2026 20:53:30 -0500",
+      "sentiment": 0.06666666666666665
+    },
+    {
+      "title": "Explosion rocks SoCal landfill sending workers scrambling and smoke billowing into the air",
+      "link": "https://nypost.com/2026/11/16/us-news/drilling-incident-sparks-explosion-at-chiquita-canyon-landfill/",
+      "published": "Mon, 16 Nov 2026 20:31:48 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Uber driver charged with molesting 14-year-old passenger in San Jose",
+      "link": "https://nypost.com/2026/11/16/us-news/san-jose-uber-driver-charged-with-molesting-14-year-old-passenger/",
+      "published": "Mon, 16 Nov 2026 20:30:00 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Joe Biden blames son Hunter’s legal woes for disastrous 2024 debate performance vs. Trump",
+      "link": "https://nypost.com/2026/11/16/us-news/joe-biden-blames-son-hunters-legal-woes-for-disastrous-2024-debate-performance-vs-trump/",
+      "published": "Mon, 16 Nov 2026 20:06:58 -0500",
+      "sentiment": -0.31666666666666665
+    },
+    {
+      "title": "California woman born without arms or legs loses driving independence after specialized van’s joystick breaks",
+      "link": "https://nypost.com/2026/11/16/us-news/malfunctioning-adaptive-joystick-sidelines-california-driver/",
+      "published": "Mon, 16 Nov 2026 20:00:00 -0500",
+      "sentiment": -0.3
+    },
+    {
       "title": "Harrowing bodycam footage shows moments before off-duty deputy shot armed mom of three dead outside Florida bar",
       "link": "https://nypost.com/2026/11/16/us-news/harrowing-bodycam-footage-shows-moments-before-off-duty-deputy-shot-armed-mom-of-three-dead-outside-florida-bar/",
       "published": "Mon, 16 Nov 2026 19:46:49 -0500",
@@ -77,48 +119,6 @@
       "link": "https://nypost.com/2026/11/16/us-news/lunatic-mom-25-allegedly-beat-her-newborn-to-death-less-than-an-hour-after-giving-birth/",
       "published": "Mon, 16 Nov 2026 17:41:39 -0500",
       "sentiment": -0.44166666666666665
-    },
-    {
-      "title": "Paris Hilton makes DC return to fight against deepfake porn with AOC, demanding ‘justice’ for survivors",
-      "link": "https://nypost.com/2026/11/16/us-news/paris-hilton-makes-dc-return-to-fight-against-deepfake-porn-with-aoc-demanding-justice-for-survivors/",
-      "published": "Mon, 16 Nov 2026 17:37:08 -0500",
-      "sentiment": -0.2916666666666667
-    },
-    {
-      "title": "United Airlines suffers ‘widespread system outage’ — just days after all US flights were grounded due to faulty router",
-      "link": "https://nypost.com/2026/11/16/us-news/united-airlines-suffers-widespread-system-outage-just-days-after-all-us-flights-were-grounded-due-to-faulty-router/",
-      "published": "Mon, 16 Nov 2026 17:20:35 -0500",
-      "sentiment": -0.1575
-    },
-    {
-      "title": "DJ’s $100K ‘impossible to duplicate’ record collection destroyed in Brooklyn building collapse",
-      "link": "https://nypost.com/2026/11/16/us-news/djs-100k-impossible-to-duplicate-record-collection-destroyed-in-brooklyn-building-collapse/",
-      "published": "Mon, 16 Nov 2026 17:08:17 -0500",
-      "sentiment": 0.04444444444444445
-    },
-    {
-      "title": "CUNY under fire after student gov leaders suddenly scrap ‘cultural night’ involving Jewish group",
-      "link": "https://nypost.com/2026/11/16/us-news/cuny-under-fire-after-student-gov-leaders-suddenly-scrap-cultural-night-involving-jewish-group/",
-      "published": "Mon, 16 Nov 2026 17:07:19 -0500",
-      "sentiment": 0.012500000000000002
-    },
-    {
-      "title": "Oldest remaining Pearl Harbor vet Freeman Johnson — who survived the attack below deck — dead at 106",
-      "link": "https://nypost.com/2026/11/16/us-news/oldest-remaining-pearl-harbor-vet-freeman-johnson-who-survived-the-attack-below-deck-dead-at-106/",
-      "published": "Mon, 16 Nov 2026 17:02:11 -0500",
-      "sentiment": -0.2
-    },
-    {
-      "title": "MTA worker has part of ear bitten off during dispute with crazed straphanger",
-      "link": "https://nypost.com/2026/11/16/us-news/mta-worker-has-part-of-ear-bitten-off-during-dispute-with-crazed-straphanger/",
-      "published": "Mon, 16 Nov 2026 16:40:04 -0500",
-      "sentiment": -0.35000000000000003
-    },
-    {
-      "title": "First photos of Belt Parkway maniac shot dead by cops revealed as ex recalls her cries for help: ‘Let me go!’",
-      "link": "https://nypost.com/2026/11/16/us-news/first-photos-of-belt-parkway-maniac-revealed-as-ex-recalls-her-cries-for-help-let-me-go/",
-      "published": "Mon, 16 Nov 2026 16:35:42 -0500",
-      "sentiment": 0.2604166666666667
     }
   ]
 }

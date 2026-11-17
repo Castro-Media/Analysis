@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
+      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
+      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 02:11:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Mounting Toll of the Nationwide Ground Stop: 20,000 Flights and Counting",
+      "link": "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0375
+    },
+    {
       "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia",
       "link": "https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 00:43:00 GMT",
@@ -19,9 +37,9 @@
       "sentiment": -0.1
     },
     {
-      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 20:32:00 GMT",
+      "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
+      "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -29,18 +47,6 @@
       "link": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 17:10:00 GMT",
       "sentiment": 0.10714285714285714
-    },
-    {
-      "title": "The Campaign to Bring Back Jensen Huang as Nvidia CEO",
-      "link": "https://www.wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 14:44:00 GMT",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
-      "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Eli Lilly to Buy Calytrix Bio for Up to $1.5 Billion",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 12:40:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
-      "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 19:18:00 GMT",
-      "sentiment": -0.053418803418803416
     },
     {
       "title": "These 11 Toys Make Perfect Gifts and Have Stood the Test of Time",
@@ -367,10 +367,10 @@
       "sentiment": 0.3181818181818182
     },
     {
-      "title": "China Looks to Shake Up Centuries-Old Business of Insuring Ships",
-      "link": "https://www.wsj.com/logistics-report/china-looks-to-shake-up-centuries-old-business-of-insuring-ships-982e11b9?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 12:06:00 GMT",
-      "sentiment": 0.0
+      "title": "Railroad CEO’s Loose Lips Threaten to Torpedo His $72 Billion Megadeal",
+      "link": "https://www.wsj.com/business/deals/railroad-ceos-loose-lips-threaten-to-torpedo-his-72-billion-megadeal-30162207?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 13 Nov 2026 19:18:00 GMT",
+      "sentiment": -0.053418803418803416
     },
     {
       "title": "The Tangle of Wires at the Heart of a Nationwide Air-Travel Meltdown",
@@ -433,6 +433,12 @@
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "The Campaign to Bring Back Jensen Huang as Nvidia CEO",
+      "link": "https://www.wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 14:44:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "The Morning Risk Report: Ground Stop Puts Focus on Key Defense Contractor",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-ground-stop-puts-focus-on-key-defense-contractor-2cbe6ae4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 12:56:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.04545454545454545
     },
     {
-      "title": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire",
-      "link": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 00:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
       "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:13:00 GMT",
@@ -477,7 +477,7 @@
     {
       "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
       "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 20:32:00 GMT",
+      "published": "Tue, 17 Nov 2026 02:11:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -487,10 +487,10 @@
       "sentiment": 0.2681818181818182
     },
     {
-      "title": "Hear How the FAA’s Ground Stop Unfolded",
-      "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 02:53:00 GMT",
-      "sentiment": -0.125
+      "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
+      "link": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 17:10:00 GMT",
+      "sentiment": 0.10714285714285714
     },
     {
       "title": "Best Small-Business Loans in November 2026",
