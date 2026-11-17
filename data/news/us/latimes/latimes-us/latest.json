@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Haitian boy taken into ICE custody during check-in reunited with family, advocates say",
+      "link": "https://www.latimes.com/california/story/2026-11-17/haitian-boy-taken-into-ice-custody-during-check-in-reunited-with-family-advocates-say",
+      "published": "Tue, 17 Nov 2026 14:00:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "'He let the killer in.' LAPD detectives try to identify the killer who left cash and valuables behind",
       "link": "https://www.latimes.com/california/story/2026-11-17/he-let-killer-in-lapd-detectives-try-to-identify-killer-who-left-cash-valuables-behind",
       "published": "Tue, 17 Nov 2026 12:39:21 GMT",
@@ -115,7 +121,7 @@
       "sentiment": 0.3
     },
     {
-      "title": "California sues OpenAI, alleges it endangered the public by building AI without safeguards",
+      "title": "California sues OpenAI, says it put public at risk by developing AI without safeguards",
       "link": "https://www.latimes.com/california/story/2026-11-16/california-sues-openai-alleging-it-endangered-public-by-developing-ai-without-safeguards",
       "published": "Mon, 16 Nov 2026 18:42:49 GMT",
       "sentiment": -0.13333333333333333
@@ -145,12 +151,6 @@
       "sentiment": 0.08
     },
     {
-      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
-      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2633333333333333
-    },
-    {
       "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
       "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
@@ -161,6 +161,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
+      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.2633333333333333
     },
     {
       "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
@@ -289,14 +295,14 @@
       "sentiment": 0.0
     },
     {
-      "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
-      "link": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
+      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
+      "link": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "link": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
+      "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
+      "link": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
@@ -373,16 +379,16 @@
       "sentiment": -0.09166666666666666
     },
     {
+      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
+      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
+      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
       "link": "https://www.latimes.com/california/story/2026-11-13/fierce-debate-over-how-bad-californias-el-nino-winter-will-be",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0866666666666667
-    },
-    {
-      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
-      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Arellano: Mexican ambassador says 'it's business as usual' after the midterms and Miller's promotion",
@@ -391,10 +397,10 @@
       "sentiment": 0.2625
     },
     {
-      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
-      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
+      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3
+      "sentiment": 0.0
     },
     {
       "title": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",
@@ -457,10 +463,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
-      "link": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges",
+      "title": "Who will fill Raman's council seat? Community groups brace for a fight",
+      "link": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.03333333333333333
+      "sentiment": 0.26904761904761904
     },
     {
       "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
@@ -469,10 +475,10 @@
       "sentiment": -0.03888888888888889
     },
     {
-      "title": "Who will fill Raman's council seat? Community groups brace for a fight",
-      "link": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
+      "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
+      "link": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.26904761904761904
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "After historic losses, California GOP faces a fight over its future",
@@ -523,20 +529,14 @@
       "sentiment": -0.08257575757575758
     },
     {
-      "title": "Inside the world of San Francisco 'peptide parties' — including one aboard a World War II ship",
-      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Nithya Raman's election sets up an intense showdown with the LAPD",
       "link": "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.05284090909090909
     },
     {
-      "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
-      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
+      "title": "Inside the world of San Francisco 'peptide parties' — including one aboard a World War II ship",
+      "link": "https://www.latimes.com/science/story/2026-11-11/for-peptide-enthusiasts-new-hhs-policy-means-party-time",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
@@ -545,6 +545,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
+      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "'Only in L.A.' columnist Steve Harvey, chronicler of the amazing, amusing and absurd, dies at 80",
@@ -563,12 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-10/wildlife-crossings-arent-enough-to-curb-roadkill-hot-spots-researchers-say",
       "published": "Wed, 11 Nov 2026 03:29:13 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Women killed in North Hollywood Metro station crash revered as pillars of the community",
-      "link": "https://www.latimes.com/california/story/2026-11-10/three-dead-in-crash-near-north-hollywood-metro-station",
-      "published": "Wed, 11 Nov 2026 03:10:41 GMT",
-      "sentiment": -0.2
     }
   ]
 }
