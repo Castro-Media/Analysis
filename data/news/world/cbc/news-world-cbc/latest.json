@@ -7,6 +7,18 @@
       "sentiment": 0.0846153846153846
     },
     {
+      "title": "United Airlines says issue affecting departing flights has been resolved",
+      "link": "https://www.cbc.ca/news/world/united-airlines-widespread-system-outage-9.7424259?cmp=rss",
+      "published": "Mon, 16 Nov 2026 17:59:23 EST",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The U.K. is granting pardons to women for past abortion convictions",
+      "link": "https://www.cbc.ca/radio/asithappens/uk-abortion-pardons-9.7424193?cmp=rss",
+      "published": "Mon, 16 Nov 2026 18:20:41 EST",
+      "sentiment": 0.07222222222222222
+    },
+    {
       "title": "U.S. Supreme Court set to hear 3 major Trump agenda immigration cases",
       "link": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295?cmp=rss",
       "published": "Mon, 16 Nov 2026 14:39:34 EST",
@@ -17,6 +29,12 @@
       "link": "https://www.cbc.ca/news/world/ukraine-russia-drone-attacks-9.7423256?cmp=rss",
       "published": "Mon, 16 Nov 2026 08:10:23 EST",
       "sentiment": 0.15
+    },
+    {
+      "title": "Data centres in the U.S. put out more carbon emissions in a year than Denmark, says Harvard study",
+      "link": "https://www.cbc.ca/news/climate/data-centres-carbon-emissions-cop31-study-9.7424144?cmp=rss",
+      "published": "Mon, 16 Nov 2026 18:35:00 EST",
+      "sentiment": 0.20624999999999996
     },
     {
       "title": "Silicon Valley leaders call for reinstatement of Nvidia CEO with 'Stand With Jensen' petition",
@@ -101,24 +119,6 @@
       "link": "https://www.cbc.ca/news/world/tanker-cruise-ship-steering-problem-issue-mississippi-river-new-orleans-9.7423018?cmp=rss",
       "published": "Sun, 15 Nov 2026 18:10:20 EST",
       "sentiment": 0.2287878787878788
-    },
-    {
-      "title": "Canada presented itself as a global leader in methane reductions at COP31. But is Alberta holding it back?",
-      "link": "https://www.cbc.ca/news/climate/canada-alberta-methane-emissions-cop31-9.7419482?cmp=rss",
-      "published": "Mon, 16 Nov 2026 04:00:00 EST",
-      "sentiment": 0.02857142857142858
-    },
-    {
-      "title": "Satellite limitations imposed by Musk's SpaceX pose danger for Ukraine, Zelenskyy says",
-      "link": "https://www.cbc.ca/news/world/ukraine-russia-energy-winter-zelenskyy-musk-spacex-starshield-9.7422871?cmp=rss",
-      "published": "Sun, 15 Nov 2026 13:49:18 EST",
-      "sentiment": 0.35714285714285715
-    },
-    {
-      "title": "Carney sets out to deepen ties with China. Has the threat landscape changed?",
-      "link": "https://www.cbc.ca/news/politics/carney-china-deepen-ties-risk-9.7422895?cmp=rss",
-      "published": "Sun, 15 Nov 2026 16:05:09 EST",
-      "sentiment": 0.3333333333333333
     }
   ]
 }
