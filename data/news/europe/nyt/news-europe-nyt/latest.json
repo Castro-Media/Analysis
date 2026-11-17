@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "published": "Tue, 17 Nov 2026 09:55:26 +0000",
+      "sentiment": -0.06666666666666668
+    },
+    {
       "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
       "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
       "published": "Tue, 17 Nov 2026 06:00:12 +0000",
@@ -91,16 +97,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
-      "published": "Sat, 14 Nov 2026 05:01:07 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
       "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
       "published": "Sat, 14 Nov 2026 18:40:00 +0000",
       "sentiment": 0.1028409090909091
+    },
+    {
+      "title": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
+      "link": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html",
+      "published": "Sat, 14 Nov 2026 05:01:07 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html",
       "published": "Sat, 14 Nov 2026 19:23:20 +0000",
       "sentiment": 0.1787878787878788
-    },
-    {
-      "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-      "link": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
-      "published": "Fri, 13 Nov 2026 22:18:02 +0000",
-      "sentiment": 0.13333333333333333
     }
   ]
 }
