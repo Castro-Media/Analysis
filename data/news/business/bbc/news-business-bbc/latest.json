@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
+      "title": "Where has the most jobs for 18-24 year-olds? Use our look-up to find out",
       "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 09:15:38 GMT",
       "sentiment": 0.32727272727272727
+    },
+    {
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 11:17:32 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "OpenAI sued by California over Hugging Face attack",
@@ -151,12 +157,6 @@
       "sentiment": 0.325
     },
     {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 22:51:18 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
       "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 12:22:30 GMT",
@@ -301,6 +301,12 @@
       "sentiment": 0.2222222222222222
     },
     {
+      "title": "Immigration arrests after organised crime blitz",
+      "link": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 10:49:58 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Business Daily",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 21:30:00 GMT",
@@ -323,12 +329,6 @@
       "link": "https://www.bbc.co.uk/sounds/play/m003498k?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "Are board games making a comeback this Christmas?",
-      "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 18:00:40 GMT",
-      "sentiment": 0.0
     }
   ]
 }

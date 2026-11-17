@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
+      "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.4454545454545455
+    },
+    {
+      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
+      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03174603174603175
+    },
+    {
+      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
+      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
       "link": "https://www.latimes.com/california/story/2026-11-16/bill-essayli-la-first-assistant-serving-unlawfully-us-attorney-judge-ruling",
       "published": "Tue, 17 Nov 2026 03:45:17 GMT",
@@ -115,12 +139,6 @@
       "sentiment": 0.08
     },
     {
-      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
-      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2633333333333333
-    },
-    {
       "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
       "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
@@ -131,6 +149,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
+      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.2633333333333333
     },
     {
       "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
@@ -343,10 +367,10 @@
       "sentiment": -0.09166666666666666
     },
     {
-      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
+      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
+      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.3
     },
     {
       "title": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
@@ -361,10 +385,10 @@
       "sentiment": 0.2625
     },
     {
-      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
-      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
+      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3
+      "sentiment": 0.0
     },
     {
       "title": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",
@@ -427,16 +451,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
-      "link": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03888888888888889
-    },
-    {
       "title": "Who will fill Raman's council seat? Community groups brace for a fight",
       "link": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "sentiment": 0.26904761904761904
+    },
+    {
+      "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
+      "link": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03888888888888889
     },
     {
       "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
@@ -505,16 +529,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
-      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
       "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
+      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "'Only in L.A.' columnist Steve Harvey, chronicler of the amazing, amusing and absurd, dies at 80",
@@ -545,36 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-10/la-me-pig-on-the-loose-pomona",
       "published": "Wed, 11 Nov 2026 02:03:38 GMT",
       "sentiment": 0.39999999999999997
-    },
-    {
-      "title": "Sacramento Rep. Doris Matsui wins reelection, defeating progressive challenger",
-      "link": "https://www.latimes.com/california/story/2026-11-10/sacramento-rep-doris-matsui-wins-reelection-defeating-progressive-challenger",
-      "published": "Wed, 11 Nov 2026 02:02:04 GMT",
-      "sentiment": 0.525
-    },
-    {
-      "title": "State wildlife officials said they killed a problem coyote in Atwater Village. Then it reappeared — with a limp",
-      "link": "https://www.latimes.com/california/story/2026-11-10/wildlife-officials-said-they-killed-coyote-in-atwater-village-then-it-reappeared",
-      "published": "Wed, 11 Nov 2026 01:36:28 GMT",
-      "sentiment": -0.24000000000000005
-    },
-    {
-      "title": "Two planes nearly collide at LAX after Air France flight veers into another aircraft's path, FAA says",
-      "link": "https://www.latimes.com/california/story/2026-11-10/two-planes-nearly-collide-at-lax-faa-says",
-      "published": "Wed, 11 Nov 2026 01:29:34 GMT",
-      "sentiment": 0.04
-    },
-    {
-      "title": "L.A. County restraining order system to undergo sweeping reforms",
-      "link": "https://www.latimes.com/california/story/2026-11-10/la-county-restraining-order-system-reforms",
-      "published": "Wed, 11 Nov 2026 01:02:55 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Meghan Markle's father Thomas Markle Sr. cut off his ankle monitor following child porn arrest",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-11-10/thomas-markle-sr-cut-off-ankle-monitor-child-porn-arrest",
-      "published": "Wed, 11 Nov 2026 00:29:45 GMT",
-      "sentiment": -0.05000000000000001
     }
   ]
 }
