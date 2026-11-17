@@ -7,16 +7,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "'He let the killer in.' LAPD detectives try to identify the killer who left cash and valuables behind",
+      "title": "'He let the killer in': Unsolved slaying of L.A. talent agent haunts detectives",
       "link": "https://www.latimes.com/california/story/2026-11-17/he-let-killer-in-lapd-detectives-try-to-identify-killer-who-left-cash-valuables-behind",
       "published": "Tue, 17 Nov 2026 12:39:21 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
-      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03174603174603175
     },
     {
       "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
@@ -25,16 +19,22 @@
       "sentiment": -0.2
     },
     {
-      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
-      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
       "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
       "sentiment": 0.4454545454545455
+    },
+    {
+      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
+      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03174603174603175
+    },
+    {
+      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
@@ -55,7 +55,7 @@
       "sentiment": 0.02428571428571429
     },
     {
-      "title": "Dark smoke at the Chiquita Canyon Landfill in Santa Clarita Valley prompts evacuations",
+      "title": "Dark smoke at the Chiquita Canyon Landfill was 'escape of gas,' not explosion, fire officials say",
       "link": "https://www.latimes.com/california/story/2026-11-16/dark-smoke-at-chiquita-canyon-landfill-in-santa-clarita-valley-prompts-evacuations",
       "published": "Tue, 17 Nov 2026 02:28:42 GMT",
       "sentiment": -0.1
@@ -151,6 +151,12 @@
       "sentiment": 0.08
     },
     {
+      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
+      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.2633333333333333
+    },
+    {
       "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
       "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
@@ -161,12 +167,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
-      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2633333333333333
     },
     {
       "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
@@ -379,10 +379,10 @@
       "sentiment": -0.09166666666666666
     },
     {
-      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
-      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
+      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3
+      "sentiment": 0.0
     },
     {
       "title": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
@@ -397,10 +397,10 @@
       "sentiment": 0.2625
     },
     {
-      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
+      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
+      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.3
     },
     {
       "title": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",
@@ -463,16 +463,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Who will fill Raman's council seat? Community groups brace for a fight",
-      "link": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.26904761904761904
-    },
-    {
       "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
       "link": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "sentiment": -0.03888888888888889
+    },
+    {
+      "title": "Who will fill Raman's council seat? Community groups brace for a fight",
+      "link": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.26904761904761904
     },
     {
       "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
@@ -541,16 +541,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
-      "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
       "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Just 156 votes separate the two candidates in L.A.'s 9th District council race",
+      "link": "https://www.latimes.com/california/story/2026-11-11/just-156-votes-separate-two-candidates-in-l-a-s-9th-district-council-race",
+      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "'Only in L.A.' columnist Steve Harvey, chronicler of the amazing, amusing and absurd, dies at 80",
