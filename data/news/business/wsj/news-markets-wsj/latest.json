@@ -103,6 +103,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Eurozone Bond Yields Edge Lower; EU Commission’s Autumn Forecast Awaited",
+      "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 07:56:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
       "title": "Dollar Rally Pauses Ahead of Data, Fed Speeches",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 07:47:00 GMT",
@@ -113,12 +119,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 00:47:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
-      "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 00:41:00 GMT",
-      "sentiment": 0.175
     },
     {
       "title": "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
@@ -133,15 +133,15 @@
       "sentiment": 0.1
     },
     {
-      "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
-      "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 06:49:00 GMT",
+      "title": "European Stock Indexes Lower Amid Market-Wide Falls",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 08:39:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Japanese Equities Market’s Performance Likely to Broaden, Goldman Sachs Says",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 02:26:00 GMT",
+      "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
+      "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 06:49:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,6 +199,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "Oil Prices Continue to Fall as Global Supply Surplus Weighs",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 08:09:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Falls as Improving Supply Prospects Offset Mideast Tensions",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 00:23:00 GMT",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 20:30:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Gold Futures Settle at New 52-Week Low",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 19:30:00 GMT",
-      "sentiment": 0.21212121212121213
     },
     {
       "title": "WSJ Dollar Index Rises 0.12% to 98.46",
@@ -331,16 +331,16 @@
       "sentiment": 0.19545454545454546
     },
     {
-      "title": "Here Are the New Contribution Limits for 401(k)s and IRAs in 2027",
-      "link": "https://www.wsj.com/personal-finance/retirement/here-are-the-new-contribution-limits-for-401-k-s-and-iras-in-2027-40fe1db2?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 18:01:00 GMT",
-      "sentiment": 0.1321212121212121
-    },
-    {
       "title": "The Investors Set to Win Big in Anthropic’s IPO",
       "link": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 10:30:00 GMT",
       "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "Here Are the New Contribution Limits for 401(k)s and IRAs in 2027",
+      "link": "https://www.wsj.com/personal-finance/retirement/here-are-the-new-contribution-limits-for-401-k-s-and-iras-in-2027-40fe1db2?mod=rss_markets_main",
+      "published": "Thu, 12 Nov 2026 18:01:00 GMT",
+      "sentiment": 0.1321212121212121
     },
     {
       "title": "The End of the No-Brainer AI Trade",
