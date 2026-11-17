@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "title": "Stock Market News: Global Stocks Downbeat Ahead of Nvidia Earnings",
+      "title": "Stock Market News: Tech Futures Seesaw Ahead of Nvidia Earnings",
       "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 10:11:07 GMT",
       "sentiment": 0.0
@@ -73,10 +73,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Deutsche Bank Shares Drop After Wide-Ranging Whistleblower Leaks",
+      "title": "Deutsche Bank Shares Drop After Leaks Put Spotlight on Troubled Past",
       "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 09:22:00 GMT",
-      "sentiment": 0.0
+      "published": "Tue, 17 Nov 2026 12:52:00 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
@@ -103,6 +103,12 @@
       "sentiment": -0.025
     },
     {
+      "title": "U.S. 10-Year Treasury Yield Expected to Fall to 4.9% by End-2027, BofA Survey Says",
+      "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 12:14:00 GMT",
+      "sentiment": -0.0875
+    },
+    {
       "title": "Volatility Has Fundamentally Rewired the AI Trade",
       "link": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 11:25:00 GMT",
@@ -115,22 +121,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Eurozone Bond Yields Edge Lower; EU Commission’s Autumn Forecast Awaited",
-      "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 07:56:00 GMT",
-      "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "Dollar Rally Pauses Ahead of Data, Fed Speeches",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 07:47:00 GMT",
-      "sentiment": 0.0675
-    },
-    {
       "title": "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
       "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 21:05:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "Treasury Yields Slip to Start Busy Week",
+      "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 20:47:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Nasdaq Futures Slip as Investors Look to Nvidia Earnings",
@@ -229,6 +229,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Euro Expected to Stage Modest Recovery in BofA Survey",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 12:16:00 GMT",
+      "sentiment": -0.00625
+    },
+    {
       "title": "WSJ Dollar Index Rises 0.12% to 98.46",
       "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 22:54:00 GMT",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
       "published": "Fri, 13 Nov 2026 15:18:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto",
-      "link": "https://www.wsj.com/finance/currencies/bitcoin-holds-below-70-000-as-risk-off-mood-pressures-crypto-d61d684d?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 11:34:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Another Winner From the Midterms: Crusaders Against Insurance Companies",
