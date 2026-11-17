@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Nvidia Earnings Live: Wall Street Awaits First Report Since Jensen Huang’s Exit",
+      "title": "Nvidia Earnings Live: Chip Giant’s Revenue Comes in Strong, Sending Stock Higher",
       "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 10:11:07 GMT",
-      "sentiment": 0.09587542087542088
+      "sentiment": 0.08476430976430976
+    },
+    {
+      "title": "Slower Retail Sales Drag on Market",
+      "link": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 21:49:00 GMT",
+      "sentiment": -0.26666666666666666
     },
     {
       "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
@@ -67,12 +73,6 @@
       "sentiment": 0.19545454545454546
     },
     {
-      "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
-      "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "JPMorgan Chase Names Bregje de Best to Succeed Jeremy Barnum as CFO",
       "link": "https://www.wsj.com/finance/banking/jpmorgan-chase-names-bregje-de-best-to-succeed-jeremy-barnum-as-cfo-ea77f240?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 16:34:00 GMT",
@@ -103,6 +103,12 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 21:53:00 GMT",
+      "sentiment": 0.10000000000000002
+    },
+    {
       "title": "Gold Futures Inch Higher As U.S. Yields, Dollar Slip",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 19:07:00 GMT",
@@ -115,12 +121,6 @@
       "sentiment": -0.06666666666666665
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 17:27:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Volatility Has Fundamentally Rewired the AI Trade",
       "link": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 11:25:00 GMT",
@@ -131,6 +131,18 @@
       "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 22:51:00 GMT",
       "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "U.S. Stocks Fall as AI Doubts Fester",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-ai-doubts-fester-a0979bdb?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 21:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Stocks Dip Ahead of Nvidia Earnings",
@@ -149,18 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 06:49:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
-      "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 22:35:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 22:06:00 GMT",
-      "sentiment": 0.018750000000000003
     },
     {
       "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",

@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
+      "published": "Tue, 17 Nov 2026 21:53:10 +0000",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "Waymo Pulls Its Driverless Taxis From All U.S. Highways Temporarily",
+      "link": "https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html",
+      "published": "Tue, 17 Nov 2026 21:52:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
+      "link": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
+      "published": "Tue, 17 Nov 2026 21:11:19 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+      "published": "Tue, 17 Nov 2026 21:34:43 +0000",
+      "sentiment": 0.21562499999999998
+    },
+    {
       "title": "Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
       "published": "Tue, 17 Nov 2026 20:31:11 +0000",
@@ -55,10 +79,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "After an Artist Nearly Died, Strangers Helped Him Learn How to Draw Again",
+      "title": "His Body Was Crushed in a Car Accident. His Artistry Brought Him Back.",
       "link": "https://www.nytimes.com/2026/11/17/us/san-francisco-artist-paul-madonna-show.html",
-      "published": "Tue, 17 Nov 2026 19:56:37 +0000",
-      "sentiment": 0.2333333333333333
+      "published": "Tue, 17 Nov 2026 21:31:26 +0000",
+      "sentiment": 0.12
     },
     {
       "title": "As Trump Goes to China, A.I. Tensions Surge Amid Spying and Safety Fears",
@@ -93,7 +117,7 @@
     {
       "title": "Family Seeks Hate Crime Charge in Near-Fatal Attack on Somali Uber Driver",
       "link": "https://www.nytimes.com/2026/11/16/us/somali-uber-driver-assault-minnesota.html",
-      "published": "Tue, 17 Nov 2026 00:12:35 +0000",
+      "published": "Tue, 17 Nov 2026 21:07:45 +0000",
       "sentiment": -0.11250000000000002
     },
     {
@@ -107,18 +131,6 @@
       "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
       "published": "Mon, 16 Nov 2026 23:44:56 +0000",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Bessent Takes Hawkish Turn in White House Debate on China",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
-      "published": "Mon, 16 Nov 2026 22:46:09 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
-      "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
-      "published": "Tue, 17 Nov 2026 02:02:58 +0000",
-      "sentiment": -0.0875
     }
   ]
 }
