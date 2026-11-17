@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Nvidia Beats Estimates in First Earnings Report After Jensen Huang’s Ouster",
+      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 21:48:00 GMT",
+      "sentiment": 0.1625
+    },
+    {
+      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
       "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 19:43:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 16:11:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "The Morning Risk Report: Commerce Department Moves to Crack Down on Chip Exports",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-commerce-department-moves-to-crack-down-on-chip-exports-39a2826f?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 12:44:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Nvidia’s Finance Chief Kress to Lead First Earnings Call Following Huang’s Ouster",
-      "link": "https://www.wsj.com/cfo-journal/nvidias-finance-chief-kress-to-lead-first-earnings-call-following-huangs-ouster-1d801102?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 12:15:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
@@ -157,6 +157,12 @@
       "sentiment": 0.2681818181818182
     },
     {
+      "title": "Opinion | The Great AI Chip Heist Is Here",
+      "link": "https://www.wsj.com/opinion/the-great-ai-chip-heist-is-here-df70c466?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 21:31:00 GMT",
+      "sentiment": 0.21111111111111114
+    },
+    {
       "title": "Opinion | Houston, We Have an Ongoing FAA Problem",
       "link": "https://www.wsj.com/opinion/houston-we-have-an-ongoing-faa-problem-2bafc9ee?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 18:57:00 GMT",
@@ -187,10 +193,10 @@
       "sentiment": -0.05
     },
     {
-      "title": "Opinion | Trump Won’t Open a Bridge Biden Closed",
-      "link": "https://www.wsj.com/opinion/trump-wont-open-a-bridge-biden-closed-8b0296c7?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 19:37:00 GMT",
-      "sentiment": -0.03333333333333333
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 21:53:00 GMT",
+      "sentiment": 0.10000000000000002
     },
     {
       "title": "Oil Futures Post Modest Gains",
@@ -203,12 +209,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 20:44:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 17:27:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power",
@@ -259,6 +259,12 @@
       "sentiment": 0.6666666666666666
     },
     {
+      "title": "Nvidia’s Finance Chief Kress to Lead First Earnings Call Following Huang’s Ouster",
+      "link": "https://www.wsj.com/cfo-journal/nvidias-finance-chief-kress-to-lead-first-earnings-call-following-huangs-ouster-1d801102?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 12:15:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
       "link": "https://www.wsj.com/cfo-journal/nvidia-earnings-anthropic-ipo-ahead-in-new-test-for-ai-economy-7dced222?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 12:33:00 GMT",
@@ -274,12 +280,6 @@
       "title": "Nvidia Succession Shows Key Part of CFOs’ Jobs: Serving as On-Call CEOs in a Pinch",
       "link": "https://www.wsj.com/cfo-journal/nvidia-succession-shows-key-part-of-cfos-jobs-serving-as-on-call-ceos-in-a-pinch-dfb15c3b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 13 Nov 2026 12:25:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Leadership Message in the Nvidia Saga",
-      "link": "https://www.wsj.com/business/the-leadership-message-in-the-nvidia-saga-407cd688?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 10:57:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -433,6 +433,12 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "The Morning Risk Report: Commerce Department Moves to Crack Down on Chip Exports",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-commerce-department-moves-to-crack-down-on-chip-exports-39a2826f?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 12:44:00 GMT",
+      "sentiment": -0.15555555555555556
+    },
+    {
       "title": "Alice Huang’s Husband and the Data-Center Network Backed by China",
       "link": "https://www.wsj.com/articles/alice-huangs-husband-and-the-data-center-network-backed-by-china-20716aa4?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 10:57:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia",
-      "link": "https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 00:43:00 GMT",
-      "sentiment": -0.5
-    },
-    {
       "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
       "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 02:38:00 GMT",
@@ -475,16 +475,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "The Defense Contractor at the Center of the Ground Stop",
       "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 03:15:00 GMT",
       "sentiment": -0.1125
-    },
-    {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 02:13:00 GMT",
-      "sentiment": -0.03571428571428571
     },
     {
       "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
