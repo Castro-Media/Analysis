@@ -1,16 +1,22 @@
 {
   "entries": [
     {
-      "title": "Mamdani Disbands Controversial NYPD Protest Unit",
-      "link": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb?mod=rss_usnews",
-      "published": "Mon, 16 Nov 2026 18:07:00 GMT",
-      "sentiment": 0.55
+      "title": "Fed’s Lisa Cook Rebuffs White House Hearing, Citing Biased Panel",
+      "link": "https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_usnews",
+      "published": "Tue, 17 Nov 2026 14:40:00 GMT",
+      "sentiment": -0.15
     },
     {
       "title": "Watch What U.S. Aircraft Carriers Bring to the Iran War",
       "link": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51?mod=rss_usnews",
       "published": "Mon, 16 Nov 2026 19:13:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Mamdani Disbands Controversial NYPD Protest Unit",
+      "link": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb?mod=rss_usnews",
+      "published": "Mon, 16 Nov 2026 18:07:00 GMT",
+      "sentiment": 0.55
     },
     {
       "title": "Lindsay Clancy Faces Retrial in Deaths of Her Three Children",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/education/christian-schools-big-universities-try-to-fight-race-discrimination-rule-57e554e2?mod=rss_usnews",
       "published": "Sat, 14 Nov 2026 20:00:00 GMT",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
-      "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews",
-      "published": "Sat, 14 Nov 2026 13:10:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "The Parents Suing Schools Because Their Kids Got Bad Grades",
@@ -163,6 +163,12 @@
       "sentiment": 0.13636363636363635
     },
     {
+      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
+      "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews",
+      "published": "Sat, 14 Nov 2026 13:10:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "News Quiz for Nov. 14, 2026",
       "link": "https://www.wsj.com/articles/news-quiz-for-nov-14-2026-07dcac58?mod=rss_usnews",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/politics/rear-admiral-resigns-as-congresss-top-doctor-amid-probe-55aba49d?mod=rss_usnews",
       "published": "Fri, 13 Nov 2026 17:28:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "One Person Is Killed and Four Are Injured in D.C. Shooting",
-      "link": "https://www.wsj.com/us-news/multiple-people-shot-in-washington-d-c-08db1e98?mod=rss_usnews",
-      "published": "Thu, 12 Nov 2026 22:56:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
