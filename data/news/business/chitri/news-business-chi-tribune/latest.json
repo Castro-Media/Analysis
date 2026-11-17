@@ -1,7 +1,19 @@
 {
   "entries": [
     {
-      "title": "United Airlines says it resolved a technology issue that affected departing flights",
+      "title": "Illinois regulators propose delaying closure of 11 gas- and oil-fired power plants",
+      "link": "https://www.chicagotribune.com/2026/11/16/electric-grid-data-centers-illinois/",
+      "published": "Tue, 17 Nov 2026 00:30:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "What to know about the online banking delays affecting major US banks",
+      "link": "https://www.chicagotribune.com/2026/11/16/online-banking-delays-what-to-know/",
+      "published": "Tue, 17 Nov 2026 00:19:34 +0000",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "1.5-hour-long system outage forces United Airlines to delay departing flights",
       "link": "https://www.chicagotribune.com/2026/11/16/united-airlines-widespread-system-outage/",
       "published": "Mon, 16 Nov 2026 22:17:25 +0000",
       "sentiment": 0.0
@@ -587,18 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/11/06/ai-stock-selloff/",
       "published": "Sat, 07 Nov 2026 03:13:30 +0000",
       "sentiment": -0.875
-    },
-    {
-      "title": "Teamsters, parking association reach tentative deal to end parking strike",
-      "link": "https://www.chicagotribune.com/2026/11/06/parking-strike-deal/",
-      "published": "Sat, 07 Nov 2026 00:43:42 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Aviation union calls for end to lockout at BP Whiting",
-      "link": "https://www.chicagotribune.com/2026/11/06/aviation-union-calls-for-end-to-lockout-at-bp-whiting/",
-      "published": "Fri, 06 Nov 2026 21:57:25 +0000",
-      "sentiment": 0.0
     }
   ]
 }
