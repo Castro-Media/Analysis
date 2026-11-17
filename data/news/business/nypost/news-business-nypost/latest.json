@@ -1,7 +1,43 @@
 {
   "entries": [
     {
-      "title": "Dow plummets 800 points as Nasdaq slides ahead of Nvidia earnings, Anthropic IPO",
+      "title": "California brewery known for community spirit to close after 14-year run",
+      "link": "https://nypost.com/2026/11/17/business/sacramentos-new-helvetia-brewing-co-to-close-after-14-year-run/",
+      "published": "Tue, 17 Nov 2026 13:45:15 -0500",
+      "sentiment": 0.27878787878787875
+    },
+    {
+      "title": "Russian AI bots pull off first fully automated cyber attack — and Google caught them",
+      "link": "https://nypost.com/2026/11/17/business/russian-ai-bots-pull-off-first-fully-automated-cyber-attack-and-google-caught-them/",
+      "published": "Tue, 17 Nov 2026 13:28:02 -0500",
+      "sentiment": 0.125
+    },
+    {
+      "title": "Apple services down, as Apple Pay, App Store and Apple Support experience outages",
+      "link": "https://nypost.com/2026/11/17/business/apple-services-down-as-apple-pay-app-store-and-apple-support-experience-outages/",
+      "published": "Tue, 17 Nov 2026 13:05:17 -0500",
+      "sentiment": -0.15555555555555556
+    },
+    {
+      "title": "Ford worker fired over $1.95 cookie sues automaker, Aramark — claiming AI falsely flagged him as thief",
+      "link": "https://nypost.com/2026/11/17/business/ford-worker-fired-over-cookie-sues-and-claims-ai-falsely-flagged-him-as-thief/",
+      "published": "Tue, 17 Nov 2026 12:49:45 -0500",
+      "sentiment": 0.04999999999999996
+    },
+    {
+      "title": "More layoffs loom over Disney despite surging profits as CEO Josh D’Amaro readies major spending push: ‘Not easy’",
+      "link": "https://nypost.com/2026/11/17/business/more-layoffs-loom-over-disney-despite-surging-profits-not-easy/",
+      "published": "Tue, 17 Nov 2026 12:40:26 -0500",
+      "sentiment": 0.13645833333333335
+    },
+    {
+      "title": "Home Depot names new CEO after Ted Decker’s medical leave of absence",
+      "link": "https://nypost.com/2026/11/17/business/home-depot-names-new-ceo-after-ted-deckers-medical-leave/",
+      "published": "Tue, 17 Nov 2026 12:23:14 -0500",
+      "sentiment": 0.04128787878787878
+    },
+    {
+      "title": "Dow plummets 700 points as Nasdaq slides ahead of Nvidia earnings, Anthropic IPO",
       "link": "https://nypost.com/2026/11/17/business/dow-plummets-800-points-nasdaq-slides-ahead-of-nvidia-earnings-anthropic-ipo/",
       "published": "Tue, 17 Nov 2026 11:49:41 -0500",
       "sentiment": -0.125
@@ -67,7 +103,7 @@
       "sentiment": 0.75
     },
     {
-      "title": "Cyberattack hits 178 major websites including CNN and Zoom in bid to steal crypto, infect iPhones: report",
+      "title": "Cyber attack hits 178 major websites including CNN and Zoom in bid to steal crypto, infect iPhones: report",
       "link": "https://nypost.com/2026/11/17/business/cyberattack-hits-178-major-websites-including-cnn-and-zoom-in-bid-to-steal-crypto-infect-iphones-report/",
       "published": "Tue, 17 Nov 2026 09:30:08 -0500",
       "sentiment": 0.1875
@@ -77,48 +113,6 @@
       "link": "https://nypost.com/2026/11/17/business/how-jensen-huangs-downfall-slammed-nvidias-stock-and-why-the-next-chapter-could-be-even-worse/",
       "published": "Tue, 17 Nov 2026 07:00:00 -0500",
       "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Pizza Hut co-founder Dan Carney dead at 95: ‘A visionary leader’",
-      "link": "https://nypost.com/2026/11/17/business/pizza-hut-co-founder-dan-carney-dies-at-95-a-visionary-leader/",
-      "published": "Tue, 17 Nov 2026 03:11:11 -0500",
-      "sentiment": -0.2
-    },
-    {
-      "title": "US dollar hits 19-month peak on Fed hike bets",
-      "link": "https://nypost.com/2026/11/17/business/us-dollar-hits-19-month-peak-on-fed-hike-bets-aussie-dips/",
-      "published": "Tue, 17 Nov 2026 01:34:24 -0500",
-      "sentiment": 0.20500000000000002
-    },
-    {
-      "title": "Why Chase, Microsoft and United are facing crippling outages — and it’s likely to get worse",
-      "link": "https://nypost.com/2026/11/16/business/why-chase-microsoft-and-united-are-facing-crippling-outages-and-why-itll-get-worse/",
-      "published": "Mon, 16 Nov 2026 18:56:14 -0500",
-      "sentiment": -0.07777777777777779
-    },
-    {
-      "title": "Warren Buffett’s Berkshire Hathaway cuts stakes in Bank of America, Capital One",
-      "link": "https://nypost.com/2026/11/16/business/berkshire-hathaway-cuts-stakes-in-bank-of-american-capital-one/",
-      "published": "Mon, 16 Nov 2026 17:12:40 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "LA sheriff cuts ties with charity run by top NY tax dodger Daniel Gordon — after Post exposes his criminal past",
-      "link": "https://nypost.com/2026/11/16/business/la-sheriff-cuts-ties-with-charity-run-by-top-ny-tax-cheat-daniel-gordon-after-post-exposed-his-criminal-past/",
-      "published": "Mon, 16 Nov 2026 16:41:07 -0500",
-      "sentiment": 0.08490675990675993
-    },
-    {
-      "title": "JPMorgan Chase says in-house software issue impacted service — and possibly other banks",
-      "link": "https://nypost.com/2026/11/16/business/jpmorgan-chase-says-in-house-software-issue-impacted-service-and-possibly-other-banks/",
-      "published": "Mon, 16 Nov 2026 16:21:03 -0500",
-      "sentiment": -0.125
-    },
-    {
-      "title": "OpenAI CEO Sam Altman empathizes with Nvidia’s Jensen Huang: ‘Heroes have flaws’",
-      "link": "https://nypost.com/2026/11/16/business/openai-ceo-sam-altman-empathizes-with-nvidias-jensen-huang-heroes-have-flaws/",
-      "published": "Mon, 16 Nov 2026 15:11:37 -0500",
-      "sentiment": 0.3
     }
   ]
 }

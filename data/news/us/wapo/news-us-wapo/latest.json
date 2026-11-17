@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "AAA forecasts slight drop in Thanksgiving travel, in part due to higher costs",
+      "link": "https://www.washingtonpost.com/nation/2026/11/17/aaa-forecasts-slight-drop-thanksgiving-travelers/",
+      "published": "Tue, 17 Nov 2026 17:45:00 +0000",
+      "sentiment": -0.05208333333333332
+    },
+    {
       "title": "What GM’s switch to Nasdaq reveals about the siren call of index funds",
       "link": "https://www.washingtonpost.com/business/2026/11/17/gm-stock-switch-reveals-latest-strategy-get-thee-into-an-index/",
       "published": "Tue, 17 Nov 2026 16:51:19 +0000",
@@ -13,10 +19,10 @@
       "sentiment": 0.27999999999999997
     },
     {
-      "title": "Measles outbreaks caused the U.S. to lose a major public health achievement",
+      "title": "Four ways the U.S. measles status could affect you",
       "link": "https://www.washingtonpost.com/health/2026/11/17/measles-outbreaks-caused-us-lose-major-public-health-achievement/",
       "published": "Tue, 17 Nov 2026 16:33:17 +0000",
-      "sentiment": 0.1875
+      "sentiment": 0.5
     },
     {
       "title": "FEMA will test its Emergency Alert System today. Here’s what to expect.",
@@ -37,16 +43,16 @@
       "sentiment": 0.075
     },
     {
-      "title": "Duffy wants $50 billion to avert another ground stop. Experts say money isn’t the issue.",
-      "link": "https://www.washingtonpost.com/transportation/2026/11/17/duffy-wants-50-billion-avert-another-ground-stop-experts-say-money-isnt-issue/",
-      "published": "Tue, 17 Nov 2026 10:00:00 +0000",
-      "sentiment": 0.1
-    },
-    {
       "title": "ICE is detaining green-card holders over decades-old, minor violations",
       "link": "https://www.washingtonpost.com/immigration/2026/11/17/they-had-green-cards-years-then-they-were-detained-by-ice/",
       "published": "Tue, 17 Nov 2026 10:00:00 +0000",
       "sentiment": -0.075
+    },
+    {
+      "title": "Duffy wants $50 billion to avert another ground stop. Experts say money isn’t the issue.",
+      "link": "https://www.washingtonpost.com/transportation/2026/11/17/duffy-wants-50-billion-avert-another-ground-stop-experts-say-money-isnt-issue/",
+      "published": "Tue, 17 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "‘One of the most beautiful snakes in North America’ is making a comeback",
@@ -133,6 +139,12 @@
       "sentiment": 0.15
     },
     {
+      "title": "A failed execution, a shrinking death row and a historic moment for capital punishment",
+      "link": "https://www.washingtonpost.com/nation/2026/11/16/what-christa-pike-emptying-californias-death-row-could-mean-us/",
+      "published": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "sentiment": -0.2708333333333333
+    },
+    {
       "title": "Colonial Williamsburg unveils $600 million upgrade for its 100th birthday",
       "link": "https://www.washingtonpost.com/nation/2026/11/16/colonial-williamsburg-unveils-600-million-upgrade-foundations-100th-birthday/",
       "published": "Mon, 16 Nov 2026 10:00:00 +0000",
@@ -145,28 +157,10 @@
       "sentiment": 0.25999999999999995
     },
     {
-      "title": "A failed execution, a shrinking death row and a historic moment for capital punishment",
-      "link": "https://www.washingtonpost.com/nation/2026/11/16/what-christa-pike-emptying-californias-death-row-could-mean-us/",
-      "published": "Mon, 16 Nov 2026 10:00:00 +0000",
-      "sentiment": -0.2708333333333333
-    },
-    {
       "title": "Memorial opens to victims of 2015 mass shooting at Charleston church",
       "link": "https://www.washingtonpost.com/nation/2026/11/15/memorial-opens-victims-2015-mass-shooting-charleston-church/",
       "published": "Sun, 15 Nov 2026 21:00:00 +0000",
       "sentiment": -0.05
-    },
-    {
-      "title": "Duffy blames Congress, prior administrations for air travel halt, chaos",
-      "link": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
-      "published": "Sun, 15 Nov 2026 18:36:12 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Costco recalls whipped cream over potential cleaning chemical contamination",
-      "link": "https://www.washingtonpost.com/nation/2026/11/15/costco-recalls-whipped-cream-over-potential-contamination/",
-      "published": "Sun, 15 Nov 2026 18:30:00 +0000",
-      "sentiment": 0.0
     }
   ]
 }
