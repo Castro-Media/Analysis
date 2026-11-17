@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Disney Targets $3 Billion in Cost Savings by 2029",
+      "link": "https://www.wsj.com/business/media/disney-targets-3-billion-in-cost-savings-by-2029-fde927ee?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 11:35:00 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power",
+      "link": "https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 11:30:00 GMT",
+      "sentiment": 0.3666666666666667
+    },
+    {
+      "title": "Lush’s CEO Says He Learned His Leadership Values in Grade School",
+      "link": "https://www.wsj.com/articles/lushs-ceo-says-he-learned-his-leadership-values-in-grade-school-fe52f89a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 11:10:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Alice Huang’s Husband and the Data-Center Network Backed by China",
+      "link": "https://www.wsj.com/articles/alice-huangs-husband-and-the-data-center-network-backed-by-china-20716aa4?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 10:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Nvidia’s Board Made Billions While Overseeing the Company",
       "link": "https://www.wsj.com/business/how-nvidias-board-made-billions-while-overseeing-the-company-0473818c?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 03:14:00 GMT",
@@ -11,30 +35,6 @@
       "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 02:38:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 02:11:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Mounting Toll of the Nationwide Ground Stop: 20,000 Flights and Counting",
-      "link": "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0375
-    },
-    {
-      "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia",
-      "link": "https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 00:43:00 GMT",
-      "sentiment": -0.5
-    },
-    {
-      "title": "United Airlines Says It Resolved Tech Problem That Delayed Departures",
-      "link": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 23:13:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
@@ -67,6 +67,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Home Depot CEO Steps Down After Medical Leave of Absence",
+      "link": "https://www.wsj.com/business/retail/home-depot-elevates-finance-chief-richard-mcphail-to-ceo-1364922a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 11:17:00 GMT",
+      "sentiment": -0.04201388888888889
+    },
+    {
       "title": "Dassault Systemes Expects New Growth Cycle for Revenue, Earnings on AI Adoption",
       "link": "https://www.wsj.com/business/earnings/dassault-systemes-expects-new-growth-cycle-for-revenue-earnings-on-ai-adoption-c6690947?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 06:38:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/earnings/legal-general-shares-fall-after-pension-buyouts-miss-views-c0f6b591?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 10:14:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
-      "sentiment": -0.325
     },
     {
       "title": "Imperial Brands to Cut Up to 4,600 Roles as Tobacco Sales Slide",
@@ -229,6 +229,18 @@
       "sentiment": -0.09722222222222221
     },
     {
+      "title": "The Mounting Toll of the Nationwide Ground Stop: 20,000 Flights and Counting",
+      "link": "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0375
+    },
+    {
+      "title": "United Airlines Says It Resolved Tech Problem That Delayed Departures",
+      "link": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 23:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Defense Contractor at the Center of the Ground Stop",
       "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 03:15:00 GMT",
@@ -239,18 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 22:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Sean Duffy Made the Call to Shut Down Flights. Now He’s Making His Case.",
-      "link": "https://www.wsj.com/business/airlines/sean-duffy-made-the-call-to-shut-down-flights-now-hes-making-his-case-1210b9c2?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 22:33:00 GMT",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "Hear How the FAA’s Ground Stop Unfolded",
-      "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 02:53:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
@@ -313,6 +313,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Why People Are Paying $4.99 for a Version of ‘The Odyssey’ Shot in West Virginia",
+      "link": "https://www.wsj.com/arts-culture/film/odyssey-mockbuster-asylum-christopher-nolan-matt-damon-cc89bc18?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Verizon Trades Network Claims for Pop-Culture Buzz",
       "link": "https://www.wsj.com/cmo-today/verizon-trades-network-claims-for-pop-culture-buzz-78295970?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 14:18:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/sofia-franklyn-daddy-issues-book-alex-cooper-dave-portnoy-a2ede141?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 01:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Victor Miller Wrote ‘Friday the 13th.’ He Thought the Sequels Got It All Wrong.",
-      "link": "https://www.wsj.com/arts-culture/film/victor-miller-dead-friday-13th-94e919ab?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 20:51:00 GMT",
-      "sentiment": -0.25
     },
     {
       "title": "Warehouse Giant GXO Pivots to Data Centers and Defense to Boost Margins",
@@ -373,6 +373,12 @@
       "sentiment": 0.3181818181818182
     },
     {
+      "title": "Hear How the FAA’s Ground Stop Unfolded",
+      "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 02:53:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
       "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:13:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 09:56:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Western Union Scraps $500 Million International Money Express Takeover",
-      "link": "https://www.wsj.com/business/deals/western-union-scraps-500-million-international-money-express-takeover-0cf7ae09?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 11 Nov 2026 12:03:00 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "EQT Ventures Invests $10 Million in Enterprise AI Company Edra",
@@ -433,6 +433,18 @@
       "sentiment": 0.19999999999999998
     },
     {
+      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
+      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 02:11:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia",
+      "link": "https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 00:43:00 GMT",
+      "sentiment": -0.5
+    },
+    {
       "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
       "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 22:35:00 GMT",
@@ -449,18 +461,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-ground-stop-puts-focus-on-key-defense-contractor-2cbe6ae4?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 12:56:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Inside the Frenetic Month That Shook Wall Street’s AI Trade",
-      "link": "https://www.wsj.com/articles/inside-the-frenetic-month-that-shook-wall-streets-ai-trade-bd0712f3?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 10:36:00 GMT",
-      "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
-      "link": "https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 18:44:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Defense Contractor at the Center of the Ground Stop",
@@ -487,10 +487,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers",
-      "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 15:02:00 GMT",
-      "sentiment": 0.2681818181818182
+      "title": "United Airlines Says It Resolved Tech Problem That Delayed Departures",
+      "link": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 23:13:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",

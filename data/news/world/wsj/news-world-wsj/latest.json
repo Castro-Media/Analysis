@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "EU Expects Continued Resilience as AI Boosts Exports",
+      "link": "https://www.wsj.com/world/europe/eu-expects-continued-resilience-as-ai-boosts-exports-a74adac6?mod=rss_worldnews",
+      "published": "Tue, 17 Nov 2026 11:30:00 GMT",
+      "sentiment": 0.05333333333333334
+    },
+    {
       "title": "Ukrainian Strike Severs Part of Russia’s Crimean Bridge",
       "link": "https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 09:47:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 02:22:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
-      "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews",
-      "published": "Mon, 16 Nov 2026 22:35:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Oil Falls as Improving Supply Prospects Offset Mideast Tensions",
@@ -85,16 +85,16 @@
       "sentiment": -0.5
     },
     {
+      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
+      "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 22:35:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Trump Says He Might Meet With North Korea’s Kim During Asia Trip",
       "link": "https://www.wsj.com/politics/trump-says-he-might-meet-with-north-koreas-kim-during-asia-trip-1634f7f0?mod=rss_worldnews",
       "published": "Mon, 16 Nov 2026 17:24:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home",
-      "link": "https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852?mod=rss_worldnews",
-      "published": "Mon, 16 Nov 2026 06:59:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader",
@@ -229,6 +229,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home",
+      "link": "https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852?mod=rss_worldnews",
+      "published": "Mon, 16 Nov 2026 06:59:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "China Poached This Top Harvard Professor. Now He Wants Others to Join Him.",
       "link": "https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews",
       "published": "Sun, 15 Nov 2026 03:00:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews",
       "published": "Sat, 14 Nov 2026 02:00:00 GMT",
       "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week",
-      "link": "https://www.wsj.com/world/china/trump-to-hold-talks-with-chinas-xi-and-russias-putin-next-week-29a58e91?mod=rss_worldnews",
-      "published": "Sat, 14 Nov 2026 01:34:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Trump’s Plan to Import Russian Diesel Stalls on the High Seas",
@@ -391,16 +391,16 @@
       "sentiment": 0.36818181818181817
     },
     {
-      "title": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80",
-      "link": "https://www.wsj.com/world/americas/miguel-angel-felix-gallardo-architect-of-mexicos-modern-drug-trade-has-died-at-80-4f50a23a?mod=rss_worldnews",
-      "published": "Sun, 15 Nov 2026 22:13:00 GMT",
-      "sentiment": 0.1
-    },
-    {
       "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
       "link": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 02:22:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80",
+      "link": "https://www.wsj.com/world/americas/miguel-angel-felix-gallardo-architect-of-mexicos-modern-drug-trade-has-died-at-80-4f50a23a?mod=rss_worldnews",
+      "published": "Sun, 15 Nov 2026 22:13:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.",

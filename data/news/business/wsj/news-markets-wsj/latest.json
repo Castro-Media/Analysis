@@ -1,10 +1,28 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, November 16, 2026: Nasdaq Slides 2.5% as Nvidia Drama Continues",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 10:00:37 GMT",
-      "sentiment": 0.048148148148148155
+      "title": "Stock Market News: Global Stocks Downbeat Ahead of Nvidia Earnings",
+      "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 10:11:07 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "It’s Hard to Protect Your Nest Egg from Nvidia",
+      "link": "https://www.wsj.com/finance/stocks/its-hard-to-protect-your-nest-egg-from-nvidia-2e7419b7?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 11:17:00 GMT",
+      "sentiment": -0.2916666666666667
+    },
+    {
+      "title": "Dodgers Owner Mark Walter’s Insurer Misses Target to Reduce Affiliated Assets",
+      "link": "https://www.wsj.com/finance/dodgers-owner-mark-walters-insurer-misses-target-to-reduce-affiliated-assets-249e32c5?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 10:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
+      "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.0625
     },
     {
       "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
@@ -23,24 +41,6 @@
       "link": "https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 19:33:00 GMT",
       "sentiment": 0.018750000000000003
-    },
-    {
-      "title": "Optimum Skips Bond Interest Payments Amid Restructuring Talks",
-      "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 17:37:00 GMT",
-      "sentiment": 0.7
-    },
-    {
-      "title": "When Nvidia Stumbled, Equal-Weight Funds Delivered",
-      "link": "https://www.wsj.com/finance/stocks/when-nvidia-stumbled-equal-weight-funds-delivered-96451c8f?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 11:20:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Investors Set to Win Big in Anthropic’s IPO",
-      "link": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.43333333333333335
     },
     {
       "title": "Big Tech Needs to Spread Its Bets on Data Centers",
@@ -103,6 +103,12 @@
       "sentiment": -0.025
     },
     {
+      "title": "Volatility Has Fundamentally Rewired the AI Trade",
+      "link": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.75
+    },
+    {
       "title": "Gold Remains Pressured by Fed Rate-Hike Bets",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 09:10:00 GMT",
@@ -125,12 +131,6 @@
       "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 21:05:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Treasury Yields Slip to Start Busy Week",
-      "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 20:47:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Nasdaq Futures Slip as Investors Look to Nvidia Earnings",
@@ -289,6 +289,24 @@
       "sentiment": 0.36818181818181817
     },
     {
+      "title": "Optimum Skips Bond Interest Payments Amid Restructuring Talks",
+      "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 17:37:00 GMT",
+      "sentiment": 0.7
+    },
+    {
+      "title": "When Nvidia Stumbled, Equal-Weight Funds Delivered",
+      "link": "https://www.wsj.com/finance/stocks/when-nvidia-stumbled-equal-weight-funds-delivered-96451c8f?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 11:20:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Investors Set to Win Big in Anthropic’s IPO",
+      "link": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.43333333333333335
+    },
+    {
       "title": "The End of the No-Brainer AI Trade",
       "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 02:00:00 GMT",
@@ -299,24 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
       "published": "Sun, 15 Nov 2026 10:30:00 GMT",
       "sentiment": -0.0986111111111111
-    },
-    {
-      "title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
-      "link": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main",
-      "published": "Sun, 15 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 21:19:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
-      "link": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe?mod=rss_markets_main",
-      "published": "Fri, 13 Nov 2026 14:00:00 GMT",
-      "sentiment": -0.3333333333333333
     },
     {
       "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
