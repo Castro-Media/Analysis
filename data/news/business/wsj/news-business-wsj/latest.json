@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
+      "link": "https://www.wsj.com/world/nvidias-strong-results-do-little-to-settle-questions-about-its-future-d1ba999d?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 10:50:00 GMT",
+      "sentiment": 0.08194444444444444
+    },
+    {
+      "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+      "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.28484848484848485
+    },
+    {
       "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
       "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 02:54:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/finance/stocks/how-everyday-investors-are-playing-the-nvidia-drama-2cb23012?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 01:12:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
-      "link": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 00:06:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The SEC Is Investigating Nvidia",
-      "link": "https://www.wsj.com/business/the-sec-is-investigating-nvidia-c59a9845?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 22:43:00 GMT",
-      "sentiment": 0.04444444444444445
     },
     {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
@@ -193,9 +193,21 @@
       "sentiment": -0.075
     },
     {
-      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "title": "U.S. Energy Chief Urges Western Europe to Pivot to Power Expansion",
+      "link": "https://www.wsj.com/world/europe/u-s-energy-chief-urges-western-europe-to-pivot-to-power-expansion-e75d8bfe?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 10:34:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Oil Prices Pressured by Surplus Expectations, Bearish U.S. Inventory Data Report",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 00:55:00 GMT",
+      "published": "Wed, 18 Nov 2026 09:07:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 08:55:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -211,16 +223,10 @@
       "sentiment": -0.0875
     },
     {
-      "title": "Oil Futures Rise as Middle East Shipping Risks Persist",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 20:44:00 GMT",
+      "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
+      "link": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 00:06:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power",
-      "link": "https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 11:30:00 GMT",
-      "sentiment": 0.3666666666666667
     },
     {
       "title": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 03:15:00 GMT",
       "sentiment": -0.1125
-    },
-    {
-      "title": "Ground Stop’s Fallout Ripples Into Third Day of Canceled Flights",
-      "link": "https://www.wsj.com/business/airlines/groundstop-ripples-into-third-day-of-scrapped-flights-003cba99?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 22:57:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "JPMorgan Chase Names Bregje de Best to Succeed Jeremy Barnum as CFO",
@@ -433,6 +433,12 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "The SEC Is Investigating Nvidia",
+      "link": "https://www.wsj.com/business/the-sec-is-investigating-nvidia-c59a9845?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 22:43:00 GMT",
+      "sentiment": 0.04444444444444445
+    },
+    {
       "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
       "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 20:56:00 GMT",
@@ -451,16 +457,10 @@
       "sentiment": -0.15555555555555556
     },
     {
-      "title": "Alice Huang’s Husband and the Data-Center Network Backed by China",
-      "link": "https://www.wsj.com/articles/alice-huangs-husband-and-the-data-center-network-backed-by-china-20716aa4?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 10:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Nvidia’s Board Made Billions While Overseeing the Company",
-      "link": "https://www.wsj.com/business/how-nvidias-board-made-billions-while-overseeing-the-company-0473818c?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 03:14:00 GMT",
-      "sentiment": -0.05
+      "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power",
+      "link": "https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 11:30:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
@@ -475,16 +475,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
-      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
       "link": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 18:41:00 GMT",
       "sentiment": 0.012500000000000004
+    },
+    {
+      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
+      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",

@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Nov. 17, 2026: Nvidia Lifts Guidance, Sending Stock Higher",
-      "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 10:11:07 GMT",
-      "sentiment": -0.015277777777777779
+      "title": "Stock Market Today: Tech Stocks to Rise After Nvidia Earnings Soothe AI Jitters",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 09:52:59 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+      "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.28484848484848485
     },
     {
       "title": "How Everyday Investors Are Playing the Nvidia Drama",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/investors-press-for-answers-from-nvidia-where-everything-has-changed-9fa681ce?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 16:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "It’s Hard to Protect Your Nest Egg from Nvidia",
-      "link": "https://www.wsj.com/finance/stocks/its-hard-to-protect-your-nest-egg-from-nvidia-2e7419b7?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 11:17:00 GMT",
-      "sentiment": -0.2916666666666667
     },
     {
       "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
@@ -109,12 +109,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Gold Treads Water as Fed, Dollar Keep Weighing",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-treads-water-as-fed-dollar-keep-weighing-3f6439e8?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 23:59:00 GMT",
-      "sentiment": 0.08928571428571429
-    },
-    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 21:53:00 GMT",
@@ -133,10 +127,22 @@
       "sentiment": -0.06666666666666665
     },
     {
-      "title": "European Indexes Mixed as Tech Gains on Nvidia Results",
+      "title": "Volatility Has Fundamentally Rewired the AI Trade",
+      "link": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.75
+    },
+    {
+      "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears",
+      "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 09:37:00 GMT",
+      "sentiment": 0.30000000000000004
+    },
+    {
+      "title": "European Chip Stocks Rise After Strong Nvidia Results",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 08:35:00 GMT",
-      "sentiment": 0.016666666666666666
+      "published": "Wed, 18 Nov 2026 09:31:00 GMT",
+      "sentiment": 0.22333333333333333
     },
     {
       "title": "Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 20:56:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Stocks Dip Ahead of Nvidia Earnings",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 19:27:00 GMT",
-      "sentiment": -0.14444444444444446
     },
     {
       "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
@@ -199,9 +199,21 @@
       "sentiment": 0.35
     },
     {
-      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "title": "Gold Down 2.5% on Firmer Dollar, Rate-Hike Bets",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-treads-water-as-fed-dollar-keep-weighing-3f6439e8?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 09:09:00 GMT",
+      "sentiment": 0.11481481481481481
+    },
+    {
+      "title": "Oil Prices Pressured by Surplus Expectations, Bearish U.S. Inventory Data Report",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 00:55:00 GMT",
+      "published": "Wed, 18 Nov 2026 09:07:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 08:55:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -217,22 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Natural Gas Futures Settle Higher",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-retreat-985bb896?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 20:43:00 GMT",
-      "sentiment": 0.15999999999999998
-    },
-    {
-      "title": "U.S. Natural Gas Futures Settle Lower",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 21:51:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Sterling Falls After U.K. Inflation Data",
+      "title": "Dollar Firms on Fed Policy Prospects, but Minutes Carries Downside Risks",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 07:47:00 GMT",
-      "sentiment": 0.0
+      "published": "Wed, 18 Nov 2026 09:49:00 GMT",
+      "sentiment": 0.215
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 98.42",
@@ -289,6 +289,12 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "title": "It’s Hard to Protect Your Nest Egg from Nvidia",
+      "link": "https://www.wsj.com/finance/stocks/its-hard-to-protect-your-nest-egg-from-nvidia-2e7419b7?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 11:17:00 GMT",
+      "sentiment": -0.2916666666666667
+    },
+    {
       "title": "Dodgers Owner Mark Walter’s Insurer Misses Target to Reduce Affiliated Assets",
       "link": "https://www.wsj.com/finance/dodgers-owner-mark-walters-insurer-misses-target-to-reduce-affiliated-assets-249e32c5?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 10:57:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 17:37:00 GMT",
       "sentiment": 0.7
-    },
-    {
-      "title": "When Nvidia Stumbled, Equal-Weight Funds Delivered",
-      "link": "https://www.wsj.com/finance/stocks/when-nvidia-stumbled-equal-weight-funds-delivered-96451c8f?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 11:20:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
