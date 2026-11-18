@@ -1,9 +1,15 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks to Rise After Nvidia Earnings Soothe AI Jitters",
+      "title": "Stock Market Today: Tech Stocks Set to Rise After Nvidia Earnings Soothe AI Jitters",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 09:52:59 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Walmart’s Winning Combo: Thrifty Shoppers and Wary AI Investors",
+      "link": "https://www.wsj.com/finance/stocks/walmarts-winning-combo-thrifty-shoppers-and-wary-ai-investors-183184e3?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 11:13:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 17:02:00 GMT",
       "sentiment": 0.43333333333333335
-    },
-    {
-      "title": "Investors Press for Answers From Nvidia, Where ‘Everything Has Changed’",
-      "link": "https://www.wsj.com/finance/stocks/investors-press-for-answers-from-nvidia-where-everything-has-changed-9fa681ce?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 16:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Why Big Investors Are Burning Lenders on Apartment Loans",
@@ -103,6 +103,12 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "Big Investors Are Cutting Their Losses on Troubled Properties",
+      "link": "https://www.wsj.com/economy/central-banking/big-investors-are-cutting-their-losses-on-troubled-properties-a82b644d?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 11:30:00 GMT",
+      "sentiment": 0.07999999999999999
+    },
+    {
       "title": "Gilt Yields Fall After U.K. Services Inflation Undershoots BOE Forecast",
       "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 08:38:00 GMT",
@@ -127,10 +133,10 @@
       "sentiment": -0.06666666666666665
     },
     {
-      "title": "Volatility Has Fundamentally Rewired the AI Trade",
-      "link": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 11:25:00 GMT",
-      "sentiment": 0.75
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-18fd75f1?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 11:34:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-ai-doubts-fester-a0979bdb?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 22:07:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
@@ -229,10 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Dollar Firms on Fed Policy Prospects, but Minutes Carries Downside Risks",
+      "title": "Contained U.K. Inflationary Pressures Could Support Growth, Sterling",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 09:49:00 GMT",
-      "sentiment": 0.215
+      "published": "Wed, 18 Nov 2026 11:29:00 GMT",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 98.42",
@@ -259,6 +259,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Kalshi Halts Bets That Are Based on Trump’s Remarks",
       "link": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 18:02:00 GMT",
@@ -283,10 +289,10 @@
       "sentiment": 0.2
     },
     {
-      "title": "NYSE Affiliate to Launch 24/7 Tokenized Stock Trading This Month",
-      "link": "https://www.wsj.com/finance/investing/nyse-affiliate-to-launch-24-7-tokenized-stock-trading-this-month-b3f0843a?mod=rss_markets_main",
-      "published": "Wed, 11 Nov 2026 17:03:00 GMT",
-      "sentiment": 0.3333333333333333
+      "title": "Investors Press for Answers From Nvidia, Where ‘Everything Has Changed’",
+      "link": "https://www.wsj.com/finance/stocks/investors-press-for-answers-from-nvidia-where-everything-has-changed-9fa681ce?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 16:00:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "It’s Hard to Protect Your Nest Egg from Nvidia",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/ai-stocks-resume-their-slide-1094403c?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 21:38:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Optimum Skips Bond Interest Payments Amid Restructuring Talks",
-      "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 17:37:00 GMT",
-      "sentiment": 0.7
     },
     {
       "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
