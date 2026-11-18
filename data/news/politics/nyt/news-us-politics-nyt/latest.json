@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+      "link": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+      "published": "Wed, 18 Nov 2026 02:09:10 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-      "published": "Wed, 18 Nov 2026 00:17:51 +0000",
+      "published": "Wed, 18 Nov 2026 01:36:41 +0000",
       "sentiment": 0.05
     },
     {
@@ -81,7 +87,7 @@
     {
       "title": "Measles Is Officially Back in the United States. What Now?",
       "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-      "published": "Tue, 17 Nov 2026 18:12:14 +0000",
+      "published": "Tue, 17 Nov 2026 18:12:15 +0000",
       "sentiment": 0.0
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
       "published": "Tue, 17 Nov 2026 03:48:50 +0000",
       "sentiment": 0.12000000000000002
-    },
-    {
-      "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
-      "link": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
-      "published": "Mon, 16 Nov 2026 23:39:25 +0000",
-      "sentiment": 0.3
     }
   ]
 }

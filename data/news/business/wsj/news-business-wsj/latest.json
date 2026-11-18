@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Nvidia’s Interim CEO Has a Tough Challenge: Keep the Growth, Leave the Baggage",
+      "link": "https://www.wsj.com/tech/ai/nvidias-interim-ceo-has-a-tough-challenge-keep-the-growth-leave-the-baggage-6ff55c85?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:04:00 GMT",
+      "sentiment": -0.21296296296296294
+    },
+    {
+      "title": "Mary Barra Transformed GM. Her Successor May Have to Do It Again.",
+      "link": "https://www.wsj.com/business/autos/mary-barra-transformed-gm-her-successor-may-have-to-do-it-again-aca050e9?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "How Everyday Investors Are Playing the Nvidia Drama",
+      "link": "https://www.wsj.com/finance/stocks/how-everyday-investors-are-playing-the-nvidia-drama-2cb23012?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 01:12:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
       "link": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 00:06:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/business/the-sec-is-investigating-nvidia-c59a9845?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 22:43:00 GMT",
       "sentiment": 0.04444444444444445
-    },
-    {
-      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
-      "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 19:43:00 GMT",
-      "sentiment": 0.35000000000000003
-    },
-    {
-      "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
-      "link": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 18:41:00 GMT",
-      "sentiment": 0.012500000000000004
     },
     {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
@@ -97,6 +97,12 @@
       "sentiment": -0.04201388888888889
     },
     {
+      "title": "Asian Equities Mixed as Investors Parse Nvidia’s Results, Guidance",
+      "link": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 01:51:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-926920d3?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 22:01:00 GMT",
@@ -121,10 +127,10 @@
       "sentiment": -0.10909090909090909
     },
     {
-      "title": "Tyson Foods Guides for Improving Beef Trends This Year",
-      "link": "https://www.wsj.com/business/earnings/tyson-foods-guides-for-sales-decline-as-beef-business-remains-under-pressure-9cb8ba01?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "sentiment": 0.0
+      "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
+      "link": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 18:41:00 GMT",
+      "sentiment": 0.012500000000000004
     },
     {
       "title": "Tesla Will Invest $3.31 Billion to Expand German Factory for Cybercab Production",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/why-tesla-is-pulling-the-plug-on-cybertruck-b6c2f97b?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 15:03:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers",
-      "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 15:02:00 GMT",
-      "sentiment": 0.2681818181818182
     },
     {
       "title": "Opinion | Another Cautionary Tale for MamdaniMarts",
@@ -313,6 +313,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
+      "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 19:43:00 GMT",
+      "sentiment": 0.35000000000000003
+    },
+    {
       "title": "Martha Stewart Warns Kalshi Users About Insider Trading",
       "link": "https://www.wsj.com/cmo-today/martha-stewart-warns-kalshi-users-about-insider-trading-1aedd51b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 14:23:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/arts-culture/film/odyssey-mockbuster-asylum-christopher-nolan-matt-damon-cc89bc18?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 10:30:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Verizon Trades Network Claims for Pop-Culture Buzz",
-      "link": "https://www.wsj.com/cmo-today/verizon-trades-network-claims-for-pop-culture-buzz-78295970?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 14:18:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Electric Tugboats Are Coming to the Port of Los Angeles. It’s Not Just About Emissions.",
@@ -433,6 +433,12 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
       "link": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 16:11:00 GMT",
@@ -457,22 +463,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
-      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
-      "sentiment": 0.05
+      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 23:30:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
       "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 20:56:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
-      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 23:30:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
