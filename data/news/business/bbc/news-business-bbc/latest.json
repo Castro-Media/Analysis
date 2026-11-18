@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 07:40:54 GMT",
+      "sentiment": 0.009615384615384609
+    },
+    {
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 01:18:18 GMT",
@@ -19,18 +25,6 @@
       "sentiment": 0.20284090909090907
     },
     {
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 05:33:13 GMT",
-      "sentiment": 0.275
-    },
-    {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 23:02:12 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
       "title": "Europe plans to catch the next computer chip wave",
       "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 00:00:24 GMT",
@@ -43,22 +37,28 @@
       "sentiment": 0.0
     },
     {
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:24:21 GMT",
-      "sentiment": 0.0
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 05:33:13 GMT",
+      "sentiment": 0.275
     },
     {
       "title": "Speed camera fault may have allowed drivers to escape fines",
       "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 20:04:54 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 03:07:22 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 23:02:12 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "Where are the most jobs for 18-24 year-olds?",
@@ -175,6 +175,12 @@
       "sentiment": 0.65
     },
     {
+      "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 07:40:54 GMT",
+      "sentiment": 0.009615384615384609
+    },
+    {
       "title": "States to debate social security contributions cut",
       "link": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 06:17:58 GMT",
@@ -191,12 +197,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 06:03:39 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "'Break-in and rising costs could kill my business'",
-      "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 05:57:19 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "My hometown shows that high streets have to change or die",
