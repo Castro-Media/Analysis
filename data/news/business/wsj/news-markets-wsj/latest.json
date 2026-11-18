@@ -103,6 +103,18 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "Alstom Shares Drop After Train Maker Floats Possible Equity Raise",
+      "link": "https://www.wsj.com/business/alstom-shares-drop-after-train-maker-floats-possible-equity-raise-5800e588?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 13:17:00 GMT",
+      "sentiment": 0.09375
+    },
+    {
+      "title": "Textron Selling Industrial Segment to Kingswood Capital for $1.2 Billion",
+      "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 13:11:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d3a02b97?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 12:09:00 GMT",
@@ -121,28 +133,16 @@
       "sentiment": 0.07999999999999999
     },
     {
-      "title": "Gilt Yields Fall After U.K. Services Inflation Undershoots BOE Forecast",
-      "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 08:38:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 21:53:00 GMT",
-      "sentiment": 0.10000000000000002
+      "title": "Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic",
+      "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 13:22:00 GMT",
+      "sentiment": 0.30000000000000004
     },
     {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-18fd75f1?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 11:34:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Stock Futures Rally as Nvidia Earnings Calm AI Trade Fears",
-      "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 09:37:00 GMT",
-      "sentiment": 0.30000000000000004
     },
     {
       "title": "European Chip Stocks Rise After Strong Nvidia Results",
@@ -199,6 +199,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 13:45:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-db96511d?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 11:53:00 GMT",
@@ -217,22 +223,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 08:55:00 GMT",
-      "sentiment": 0.0
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 21:53:00 GMT",
+      "sentiment": 0.10000000000000002
     },
     {
-      "title": "Oil Futures Post Modest Gains",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 20:50:00 GMT",
-      "sentiment": -0.0875
-    },
-    {
-      "title": "Swiss Franc, Japanese Yen Could Rise if Major Central Bank Peers Cut Rates in 2027",
+      "title": "Dollar Could Fall in 2027 if Fed Cuts Rates",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 12:46:00 GMT",
-      "sentiment": -0.07678571428571428
+      "published": "Wed, 18 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 98.42",
@@ -343,10 +343,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
-      "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Here Are the New Contribution Limits for 401(k)s and IRAs in 2027",
+      "link": "https://www.wsj.com/personal-finance/retirement/here-are-the-new-contribution-limits-for-401-k-s-and-iras-in-2027-40fe1db2?mod=rss_markets_main",
+      "published": "Thu, 12 Nov 2026 18:01:00 GMT",
+      "sentiment": 0.1321212121212121
     },
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
