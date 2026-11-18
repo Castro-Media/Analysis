@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Textron Selling Industrial Segment to Kingswood Capital for $1.2 Billion",
+      "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 13:11:00 GMT",
+      "sentiment": -0.05
+    },
+    {
+      "title": "The Morning Risk Report: SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-3d719200?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 12:56:00 GMT",
+      "sentiment": -0.12777777777777777
+    },
+    {
       "title": "The Art and Science of Sports Sponsorships",
       "link": "https://www.wsj.com/cio-journal/the-art-and-science-of-sports-sponsorships-370156d3?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 10:55:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 02:54:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Nvidia’s Interim CEO Has a Tough Challenge: Keep the Growth, Leave the Baggage",
-      "link": "https://www.wsj.com/tech/ai/nvidias-interim-ceo-has-a-tough-challenge-keep-the-growth-leave-the-baggage-6ff55c85?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 02:04:00 GMT",
-      "sentiment": -0.21296296296296294
-    },
-    {
-      "title": "Mary Barra Transformed GM. Her Successor May Have to Do It Again.",
-      "link": "https://www.wsj.com/business/autos/mary-barra-transformed-gm-her-successor-may-have-to-do-it-again-aca050e9?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
@@ -67,6 +67,12 @@
       "sentiment": -0.05555555555555555
     },
     {
+      "title": "TJX Raises Full-Year Outlook, Expects Sales Trends to Accelerate Through Holiday Season",
+      "link": "https://www.wsj.com/business/retail/tjx-raises-full-year-outlook-expects-sales-trends-to-accelerate-through-holiday-season-e0542322?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 13:14:00 GMT",
+      "sentiment": 0.21666666666666667
+    },
+    {
       "title": "Lowe’s Lifts Outlook Following Higher Sales",
       "link": "https://www.wsj.com/business/retail/lowes-lifts-outlook-following-higher-sales-a18c6141?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 11:44:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-60155668?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 21:58:00 GMT",
       "sentiment": 0.35000000000000003
-    },
-    {
-      "title": "Nike Expects Performance Athleticwear to Drive Long-Term Growth",
-      "link": "https://www.wsj.com/business/retail/nike-expects-performance-athleticwear-to-drive-long-term-growth-fdf517a5?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 15:16:00 GMT",
-      "sentiment": -0.04
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -121,16 +121,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-926920d3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 22:01:00 GMT",
-      "sentiment": 0.5
+      "title": "Nvidia’s Interim CEO Has a Tough Challenge: Keep the Growth, Leave the Baggage",
+      "link": "https://www.wsj.com/tech/ai/nvidias-interim-ceo-has-a-tough-challenge-keep-the-growth-leave-the-baggage-6ff55c85?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:04:00 GMT",
+      "sentiment": -0.21296296296296294
     },
     {
       "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
       "link": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 07:24:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "Mary Barra Transformed GM. Her Successor May Have to Do It Again.",
+      "link": "https://www.wsj.com/business/autos/mary-barra-transformed-gm-her-successor-may-have-to-do-it-again-aca050e9?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/earnings/xpengs-net-loss-widens-amid-subdued-chinese-auto-market-54055ccc?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 11:53:00 GMT",
       "sentiment": 0.10833333333333334
-    },
-    {
-      "title": "In a Large Used-Car Market, CarMax and Carvana Clash Over How Americans Buy",
-      "link": "https://www.wsj.com/business/autos/in-a-large-used-car-market-carmax-and-carvana-clash-over-how-americans-buy-9c94147f?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 17:00:00 GMT",
-      "sentiment": 0.11688311688311688
     },
     {
       "title": "Opinion | Another Cautionary Tale for MamdaniMarts",
@@ -193,6 +193,12 @@
       "sentiment": -0.075
     },
     {
+      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 13:45:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8dccf69b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 11:48:00 GMT",
@@ -208,12 +214,6 @@
       "title": "Oil Prices Pressured by Surplus Expectations, Bearish U.S. Inventory Data Report",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 09:07:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 08:55:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,6 +313,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Why Marketers Shouldn’t Treat Every Frown From Legal Like a Stop Sign",
+      "link": "https://www.wsj.com/cmo-today/why-marketers-shouldnt-treat-every-frown-from-legal-like-a-stop-sign-9db81b5c?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 13:40:00 GMT",
+      "sentiment": 0.2787878787878788
+    },
+    {
       "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
       "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 19:43:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/disney-targets-3-billion-in-cost-savings-by-2029-fde927ee?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 11:35:00 GMT",
       "sentiment": 0.21212121212121213
-    },
-    {
-      "title": "Why People Are Paying $4.99 for a Version of ‘The Odyssey’ Shot in West Virginia",
-      "link": "https://www.wsj.com/arts-culture/film/odyssey-mockbuster-asylum-christopher-nolan-matt-damon-cc89bc18?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Electric Tugboats Get L.A. Audition",
@@ -487,10 +487,10 @@
       "sentiment": 0.012500000000000004
     },
     {
-      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
-      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
-      "sentiment": 0.05
+      "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
+      "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 19:43:00 GMT",
+      "sentiment": 0.35000000000000003
     },
     {
       "title": "Best Small-Business Loans in November 2026",
