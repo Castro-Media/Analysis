@@ -1,16 +1,46 @@
 {
   "entries": [
     {
-      "title": "Hakeem Jeffries nominated to be US Speaker of the House",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 16:10:44 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+      "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 08:33:32 GMT",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 15:38:02 GMT",
+      "published": "Wed, 18 Nov 2026 16:37:49 GMT",
       "sentiment": 0.04166666666666667
+    },
+    {
+      "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 16:05:26 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Rubio says US not 'under systemic attack' after series of tech outages",
       "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 04:57:06 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 13:55:14 GMT",
+      "sentiment": 0.04375000000000001
+    },
+    {
+      "title": "Canada weighs Chinese investment as US tariffs threaten its auto industry",
+      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 14:35:18 GMT",
+      "sentiment": -0.08333333333333333
     },
     {
       "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
@@ -25,40 +55,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-      "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 08:33:32 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Canada weighs Chinese investment as US tariffs threaten its auto industry",
-      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 14:35:18 GMT",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 13:55:14 GMT",
-      "sentiment": 0.04375000000000001
-    },
-    {
       "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
       "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 10:23:57 GMT",
       "sentiment": 0.8
-    },
-    {
-      "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
-      "link": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 16:38:50 GMT",
-      "sentiment": 0.23541666666666666
-    },
-    {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 21:04:00 GMT",
-      "sentiment": 0.016666666666666673
     },
     {
       "title": "Linares in ICE detention and facing deportation",
@@ -67,10 +67,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 06:04:21 GMT",
-      "sentiment": -0.06666666666666665
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 21:04:00 GMT",
+      "sentiment": 0.016666666666666673
     },
     {
       "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
@@ -83,6 +83,12 @@
       "link": "https://www.bbc.co.uk/news/videos/cm782w62v8qdo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 00:18:51 GMT",
       "sentiment": -0.0507936507936508
+    },
+    {
+      "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+      "link": "https://www.bbc.co.uk/news/videos/c6gqx1qkdy9do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 16:38:50 GMT",
+      "sentiment": 0.23541666666666666
     },
     {
       "title": "Will President Trump meet Kim Jong Un?",
@@ -107,6 +113,12 @@
       "link": "https://www.bbc.co.uk/news/videos/crz6ql0dp9qno?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 16 Nov 2026 16:40:08 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 06:04:21 GMT",
+      "sentiment": -0.06666666666666665
     },
     {
       "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",

@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "What I Learned From Talking to Job Seekers in All 50 States",
+      "link": "https://www.wsj.com/lifestyle/careers/what-i-learned-from-talking-to-job-seekers-in-all-50-states-3c848143?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 16:12:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Textron Selling Industrial Segment to Kingswood Capital for $1.2 Billion",
       "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 13:11:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 10:30:00 GMT",
       "sentiment": 0.28484848484848485
-    },
-    {
-      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
-      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 02:54:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
@@ -121,10 +121,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Nvidia’s Interim CEO Has a Tough Challenge: Keep the Growth, Leave the Baggage",
-      "link": "https://www.wsj.com/tech/ai/nvidias-interim-ceo-has-a-tough-challenge-keep-the-growth-leave-the-baggage-6ff55c85?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 02:04:00 GMT",
-      "sentiment": -0.21296296296296294
+      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:54:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
@@ -343,6 +343,12 @@
       "sentiment": 0.21212121212121213
     },
     {
+      "title": "West Coast Port Employers Warn of Possible Strike at Los Angeles, Long Beach",
+      "link": "https://www.wsj.com/logistics-report/west-coast-port-employers-warn-of-possible-strike-at-los-angeles-long-beach-63bacb39?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 16:26:00 GMT",
+      "sentiment": -0.025
+    },
+    {
       "title": "Electric Tugboats Get L.A. Audition",
       "link": "https://www.wsj.com/logistics-report/electric-tugboats-get-l-a-audition-4168b93d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 11:55:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/warehouse-giant-gxo-pivots-to-data-centers-and-defense-to-boost-margins-986e2da1?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 12:00:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Air-Travel Halt Reverberates as Probe Zeroes In on a Router in Arkansas",
-      "link": "https://www.wsj.com/logistics-report/air-travel-halt-reverberates-as-probe-zeroes-in-on-a-router-in-arkansas-f1c2505a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 11:59:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Hear How the FAA’s Ground Stop Unfolded",
@@ -433,6 +433,12 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "Nvidia’s Interim CEO Has a Tough Challenge: Keep the Growth, Leave the Baggage",
+      "link": "https://www.wsj.com/tech/ai/nvidias-interim-ceo-has-a-tough-challenge-keep-the-growth-leave-the-baggage-6ff55c85?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:04:00 GMT",
+      "sentiment": -0.21296296296296294
+    },
+    {
       "title": "How Everyday Investors Are Playing the Nvidia Drama",
       "link": "https://www.wsj.com/finance/stocks/how-everyday-investors-are-playing-the-nvidia-drama-2cb23012?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 01:12:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 16:11:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "The Morning Risk Report: Commerce Department Moves to Crack Down on Chip Exports",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-commerce-department-moves-to-crack-down-on-chip-exports-39a2826f?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 12:44:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",

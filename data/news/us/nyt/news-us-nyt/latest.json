@@ -1,9 +1,15 @@
 {
   "entries": [
     {
-      "title": "Democrats Nominate Jeffries as Speaker, Making History",
+      "title": "The Anti-A.I. Campus Movement Is Growing",
+      "link": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html",
+      "published": "Wed, 18 Nov 2026 16:16:31 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
-      "published": "Wed, 18 Nov 2026 15:39:59 +0000",
+      "published": "Wed, 18 Nov 2026 16:42:43 +0000",
       "sentiment": 0.20393939393939395
     },
     {
@@ -37,10 +43,10 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Fans Flock to This Famous Sign. Neighbors Say, Get Off My Road.",
+      "title": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
       "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
-      "published": "Wed, 18 Nov 2026 10:03:36 +0000",
-      "sentiment": 0.1
+      "published": "Wed, 18 Nov 2026 15:52:48 +0000",
+      "sentiment": -0.033333333333333326
     },
     {
       "title": "U.S. Catholic Bishops Are Discussing A.I. at Annual Meeting",
@@ -173,30 +179,6 @@
       "link": "https://www.nytimes.com/2026/11/17/us/politics/duffy-hill-ground-stop-faa.html",
       "published": "Wed, 18 Nov 2026 00:03:19 +0000",
       "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
-      "published": "Tue, 17 Nov 2026 22:08:37 +0000",
-      "sentiment": 0.02361111111111111
-    },
-    {
-      "title": "Schools Are Closing Nationwide as Enrollment Drops. Parents Are Livid.",
-      "link": "https://www.nytimes.com/2026/11/17/us/public-schools-closing-birth-rate-enrollment.html",
-      "published": "Tue, 17 Nov 2026 20:35:53 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Measles Is Officially Back in the United States. What Now?",
-      "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-      "published": "Tue, 17 Nov 2026 18:12:15 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "His Body Was Crushed in a Car Accident. His Artistry Brought Him Back.",
-      "link": "https://www.nytimes.com/2026/11/17/us/san-francisco-artist-paul-madonna-show.html",
-      "published": "Tue, 17 Nov 2026 21:31:26 +0000",
-      "sentiment": 0.12
     }
   ]
 }

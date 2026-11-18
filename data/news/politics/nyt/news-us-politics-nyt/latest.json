@@ -1,9 +1,15 @@
 {
   "entries": [
     {
-      "title": "Democrats Nominate Jeffries as Speaker, Making History",
+      "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
+      "published": "Wed, 18 Nov 2026 16:54:28 +0000",
+      "sentiment": -0.35
+    },
+    {
+      "title": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
-      "published": "Wed, 18 Nov 2026 15:39:59 +0000",
+      "published": "Wed, 18 Nov 2026 16:42:43 +0000",
       "sentiment": 0.20393939393939395
     },
     {
@@ -137,18 +143,6 @@
       "link": "https://www.nytimes.com/2026/11/17/us/politics/duffy-hill-ground-stop-faa.html",
       "published": "Wed, 18 Nov 2026 00:03:19 +0000",
       "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
-      "published": "Tue, 17 Nov 2026 22:08:37 +0000",
-      "sentiment": 0.02361111111111111
-    },
-    {
-      "title": "Measles Is Officially Back in the United States. What Now?",
-      "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-      "published": "Tue, 17 Nov 2026 18:12:15 +0000",
-      "sentiment": 0.0
     }
   ]
 }
