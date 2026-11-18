@@ -1,9 +1,21 @@
 {
   "entries": [
     {
+      "title": "Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.",
+      "link": "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
+      "published": "Wed, 18 Nov 2026 15:29:42 +0000",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
+      "published": "Wed, 18 Nov 2026 13:54:15 +0000",
+      "sentiment": 0.125
+    },
+    {
       "title": "Hospitals Rush to Patch Java Vulnerabilities",
       "link": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
-      "published": "Wed, 18 Nov 2026 13:42:44 +0000",
+      "published": "Wed, 18 Nov 2026 15:27:41 +0000",
       "sentiment": -0.6
     },
     {
@@ -27,20 +39,20 @@
     {
       "title": "What to Expect at Today’s DealBook Summit",
       "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-lineup-vance-musk.html",
-      "published": "Wed, 18 Nov 2026 11:23:06 +0000",
+      "published": "Wed, 18 Nov 2026 14:48:13 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "JD Vance, Elon Musk and Sam Altman Are in the DealBook Summit 2026 Lineup",
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-2026-speaker-lineup.html",
-      "published": "Wed, 18 Nov 2026 10:25:36 +0000",
-      "sentiment": 0.4
     },
     {
       "title": "Here’s the latest on the 2026 DealBook Summit.",
       "link": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
-      "published": "Wed, 18 Nov 2026 13:41:10 +0000",
+      "published": "Wed, 18 Nov 2026 15:37:17 +0000",
       "sentiment": 0.5
+    },
+    {
+      "title": "Elon Musk and Sam Altman Are in the DealBook Summit 2026 Lineup",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-2026-speaker-lineup.html",
+      "published": "Wed, 18 Nov 2026 14:32:17 +0000",
+      "sentiment": 0.4
     },
     {
       "title": "Europe Is Racing to Make Air Defenses ‘Cheaper Than What We Are Shooting Down’",
@@ -75,7 +87,7 @@
     {
       "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
       "link": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
-      "published": "Wed, 18 Nov 2026 03:57:08 +0000",
+      "published": "Wed, 18 Nov 2026 14:24:35 +0000",
       "sentiment": 0.0
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
       "published": "Mon, 16 Nov 2026 18:57:59 +0000",
       "sentiment": 0.07500000000000001
-    },
-    {
-      "title": "Robert Pattinson Named as the Next James Bond",
-      "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
-      "published": "Tue, 17 Nov 2026 15:25:43 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
-      "link": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
-      "published": "Mon, 16 Nov 2026 14:56:41 +0000",
-      "sentiment": -0.175
     }
   ]
 }
