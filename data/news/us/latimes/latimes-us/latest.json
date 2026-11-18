@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Russian spy stalked, photographed Silicon Valley tech defense company workers, feds say",
+      "link": "https://www.latimes.com/california/story/2026-11-18/feds-russian-spy-silicon-valley-pursuit",
+      "published": "Wed, 18 Nov 2026 20:46:42 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Birthday party turns tragic for California family after children's parents found dead, lawsuit says",
       "link": "https://www.latimes.com/california/story/2026-11-18/birthday-party-turns-tragic-for-california-family-after-children-find-their-parents-dead-lawsuit-says",
       "published": "Wed, 18 Nov 2026 18:53:34 GMT",
@@ -13,16 +19,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "The Ivy League brought back the SAT. Should UC follow?",
-      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Plastic producers face scrutiny after half fail to report data required by California law",
       "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": -0.15555555555555553
+    },
+    {
+      "title": "The Ivy League brought back the SAT. Should UC follow?",
+      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Santa Ana suspends its Flock license plate reader camera system",
@@ -241,16 +247,16 @@
       "sentiment": 0.08
     },
     {
-      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
-      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2633333333333333
-    },
-    {
       "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
       "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.10250000000000001
+    },
+    {
+      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
+      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.2633333333333333
     },
     {
       "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
@@ -469,10 +475,10 @@
       "sentiment": -0.09166666666666666
     },
     {
-      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
+      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
+      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.3
     },
     {
       "title": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
@@ -487,10 +493,10 @@
       "sentiment": 0.2625
     },
     {
-      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
-      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
+      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3
+      "sentiment": 0.0
     },
     {
       "title": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",
@@ -553,16 +559,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
-      "link": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03888888888888889
-    },
-    {
       "title": "Who will fill Raman's council seat? Community groups brace for a fight",
       "link": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "sentiment": 0.26904761904761904
+    },
+    {
+      "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
+      "link": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03888888888888889
     },
     {
       "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
