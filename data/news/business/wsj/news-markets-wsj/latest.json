@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Set to Rise After Nvidia Earnings Soothe AI Jitters",
+      "title": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors’ Nerves",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 09:52:59 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.25
     },
     {
       "title": "Walmart’s Winning Combo: Thrifty Shoppers and Wary AI Investors",
@@ -103,6 +103,12 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "Treasury Yields Rise Amid Hawkish Fedspeak",
+      "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 14:02:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Alstom Shares Drop After Train Maker Floats Possible Equity Raise",
       "link": "https://www.wsj.com/business/alstom-shares-drop-after-train-maker-floats-possible-equity-raise-5800e588?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 13:17:00 GMT",
@@ -127,16 +133,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Big Investors Are Cutting Their Losses on Troubled Properties",
-      "link": "https://www.wsj.com/economy/central-banking/big-investors-are-cutting-their-losses-on-troubled-properties-a82b644d?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 11:30:00 GMT",
-      "sentiment": 0.07999999999999999
-    },
-    {
-      "title": "Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic",
+      "title": "Tech Stocks Fail to Benefit From Nvidia Earnings",
       "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 13:22:00 GMT",
-      "sentiment": 0.30000000000000004
+      "published": "Wed, 18 Nov 2026 15:07:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -199,6 +199,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "U.S. Natural Gas Futures Gain on More Supportive Weather",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-on-more-supportive-weather-245b9223?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 14:08:00 GMT",
+      "sentiment": 0.2066666666666667
+    },
+    {
       "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
       "published": "Wed, 18 Nov 2026 13:45:00 GMT",
@@ -223,16 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 21:53:00 GMT",
-      "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "Dollar Could Fall in 2027 if Fed Cuts Rates",
+      "title": "Euro’s Weakness Continues; Eurozone Bond Yields Fall",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.125
+      "published": "Wed, 18 Nov 2026 14:23:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 98.42",
@@ -319,16 +319,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
-      "link": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main",
-      "published": "Thu, 12 Nov 2026 17:43:00 GMT",
-      "sentiment": 0.19545454545454546
-    },
-    {
       "title": "The Investors Set to Win Big in Anthropic’s IPO",
       "link": "https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 10:30:00 GMT",
       "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main",
+      "published": "Thu, 12 Nov 2026 17:43:00 GMT",
+      "sentiment": 0.19545454545454546
     },
     {
       "title": "These Charts Show How More People Are Pulling Cash Out of Their Homes",
@@ -337,21 +337,21 @@
       "sentiment": 0.48749999999999993
     },
     {
-      "title": "The End of the No-Brainer AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Here Are the New Contribution Limits for 401(k)s and IRAs in 2027",
       "link": "https://www.wsj.com/personal-finance/retirement/here-are-the-new-contribution-limits-for-401-k-s-and-iras-in-2027-40fe1db2?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 18:01:00 GMT",
       "sentiment": 0.1321212121212121
     },
     {
+      "title": "The End of the No-Brainer AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
       "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 14:16:00 GMT",
+      "published": "Wed, 18 Nov 2026 13:57:00 GMT",
       "sentiment": 0.32857142857142857
     },
     {
