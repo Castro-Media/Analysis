@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case",
+      "link": "https://www.wsj.com/us-news/law/murder-charges-brought-against-two-men-in-fatal-south-carolina-road-rage-case-188a309d?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 23:00:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "The Latest Way to Make College More Affordable: Shorter Degrees",
       "link": "https://www.wsj.com/us-news/education/college-three-year-degrees-cost-bachelors-5b19b5cb?mod=rss_usnews",
       "published": "Wed, 18 Nov 2026 10:30:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51?mod=rss_usnews",
       "published": "Mon, 16 Nov 2026 19:13:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Mamdani Disbands Controversial NYPD Protest Unit",
-      "link": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb?mod=rss_usnews",
-      "published": "Mon, 16 Nov 2026 18:07:00 GMT",
-      "sentiment": 0.55
     },
     {
       "title": "Christian Schools, Big Universities Try to Fight Race-Discrimination Rule",
@@ -67,6 +67,12 @@
       "sentiment": -0.5
     },
     {
+      "title": "Weil Gotshal Bankruptcy Team Heading to Skadden",
+      "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 23:11:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "Lindsay Clancy Faces Retrial in Deaths of Her Three Children",
       "link": "https://www.wsj.com/us-news/lindsay-clancy-faces-retrial-in-deaths-of-her-three-children-d842d3d6?mod=rss_usnews",
       "published": "Mon, 16 Nov 2026 17:24:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_usnews",
       "published": "Fri, 13 Nov 2026 15:18:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Judge, Economist Richard Posner Dies at 87",
-      "link": "https://www.wsj.com/arts-culture/books/judge-economist-richard-posner-dies-at-87-26d35652?mod=rss_usnews",
-      "published": "Thu, 12 Nov 2026 02:14:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "See What the ‘Super El Niño’ Means for This Year’s Ski Season",
@@ -127,40 +127,46 @@
       "sentiment": 0.05
     },
     {
+      "title": "Opinion | Congrats on Your Anthropic Shares",
+      "link": "https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 22:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | RFK Jr. and the U.S. Measles Revival",
+      "link": "https://www.wsj.com/opinion/measles-status-vaccines-us-rfk-jr-640545a1?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 22:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Congress Dithers on Section 702",
+      "link": "https://www.wsj.com/opinion/congress-section-702-fisa-national-security-7f982700?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 22:40:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | Notable & Quotable: Justice Alito’s Warning",
+      "link": "https://www.wsj.com/opinion/notable-quotable-justice-alitos-warning-69707589?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 22:00:00 GMT",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Opinion | The GOP Ponders Its Purpose",
+      "link": "https://www.wsj.com/opinion/the-gop-ponders-its-purpose-48eb0acd?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 22:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | The Shakespearean Tragedy of King Donald",
       "link": "https://www.wsj.com/opinion/the-shakespearean-tragedy-of-king-donald-a588e1ed?mod=rss_usnews",
       "published": "Wed, 18 Nov 2026 21:46:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | North Carolina Has a Lesson for Chris Christie",
-      "link": "https://www.wsj.com/opinion/north-carolina-has-a-lesson-for-chris-christie-94089dbf?mod=rss_usnews",
-      "published": "Wed, 18 Nov 2026 21:45:00 GMT",
-      "sentiment": 0.019444444444444448
-    },
-    {
-      "title": "Opinion | Opportunity Knocks. Democrats Don’t Answer.",
-      "link": "https://www.wsj.com/opinion/opportunity-knocks-democrats-dont-answer-524cf611?mod=rss_usnews",
-      "published": "Wed, 18 Nov 2026 21:44:00 GMT",
-      "sentiment": 0.42500000000000004
-    },
-    {
-      "title": "Opinion | Tales From a City of Thieves",
-      "link": "https://www.wsj.com/opinion/tales-from-a-city-of-thieves-656369ff?mod=rss_usnews",
-      "published": "Wed, 18 Nov 2026 21:43:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Opinion | To Negotiate With Putin Is to Concede Defeat",
-      "link": "https://www.wsj.com/opinion/to-negotiate-with-putin-is-to-concede-defeat-aee5f1e2?mod=rss_usnews",
-      "published": "Wed, 18 Nov 2026 21:34:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Gettysburg’s Main Oration Proved an Easy Act to Follow",
-      "link": "https://www.wsj.com/opinion/gettysburgs-main-oration-proved-an-easy-act-to-follow-5dcea729?mod=rss_usnews",
-      "published": "Wed, 18 Nov 2026 21:33:00 GMT",
-      "sentiment": 0.3
+      "title": "Mamdani Disbands Controversial NYPD Protest Unit",
+      "link": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb?mod=rss_usnews",
+      "published": "Mon, 16 Nov 2026 18:07:00 GMT",
+      "sentiment": 0.55
     },
     {
       "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/us-news/tanker-hits-cruise-ship-with-over-100-people-on-board-near-port-of-new-orleans-480a901a?mod=rss_usnews",
       "published": "Fri, 13 Nov 2026 23:44:00 GMT",
       "sentiment": 0.3181818181818182
-    },
-    {
-      "title": "Congress’s Top Doctor Resigns Amid IG Findings of Lax Drug Handling",
-      "link": "https://www.wsj.com/politics/rear-admiral-resigns-as-congresss-top-doctor-amid-probe-55aba49d?mod=rss_usnews",
-      "published": "Fri, 13 Nov 2026 17:28:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop",
