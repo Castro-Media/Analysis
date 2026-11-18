@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Watch: David Ellison on Elon Musk’s Investment in Skydance",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
+      "published": "Wed, 18 Nov 2026 20:11:09 +0000",
+      "sentiment": 0.2
+    },
+    {
       "title": "Hailey Bieber Says Social Media Fueled Rhode but Took a Toll on Her Mental Health",
       "link": "https://www.nytimes.com/2026/11/18/business/dealbook/hailey-bieber-rhode-social-media.html",
       "published": "Wed, 18 Nov 2026 19:13:30 +0000",
       "sentiment": -0.16333333333333333
     },
     {
-      "title": "Fed Saw Need to Continue Raising Rates Despite October Skip",
+      "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
       "link": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
-      "published": "Wed, 18 Nov 2026 19:48:27 +0000",
-      "sentiment": 0.3333333333333333
+      "published": "Wed, 18 Nov 2026 20:35:00 +0000",
+      "sentiment": 0.29166666666666663
     },
     {
       "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
@@ -33,7 +39,7 @@
     {
       "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
       "link": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-      "published": "Wed, 18 Nov 2026 19:51:08 +0000",
+      "published": "Wed, 18 Nov 2026 20:49:53 +0000",
       "sentiment": 0.0
     },
     {
@@ -45,7 +51,7 @@
     {
       "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
       "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-      "published": "Wed, 18 Nov 2026 17:30:27 +0000",
+      "published": "Wed, 18 Nov 2026 20:08:35 +0000",
       "sentiment": -0.07500000000000001
     },
     {
@@ -81,7 +87,7 @@
     {
       "title": "Hospitals Rush to Patch Java Vulnerabilities",
       "link": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
-      "published": "Wed, 18 Nov 2026 17:48:18 +0000",
+      "published": "Wed, 18 Nov 2026 17:48:19 +0000",
       "sentiment": -0.6
     },
     {
@@ -117,7 +123,7 @@
     {
       "title": "Here’s the latest on the 2026 DealBook Summit.",
       "link": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
-      "published": "Wed, 18 Nov 2026 19:26:32 +0000",
+      "published": "Wed, 18 Nov 2026 20:43:39 +0000",
       "sentiment": 0.5
     },
     {
@@ -257,12 +263,6 @@
       "link": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
       "published": "Tue, 17 Nov 2026 14:01:14 +0000",
       "sentiment": 0.014814814814814817
-    },
-    {
-      "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
-      "link": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
-      "published": "Wed, 18 Nov 2026 06:32:57 +0000",
-      "sentiment": 0.0
     }
   ]
 }

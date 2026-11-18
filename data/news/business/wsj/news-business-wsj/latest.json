@@ -157,6 +157,12 @@
       "sentiment": 0.10833333333333334
     },
     {
+      "title": "Opinion | William & Mary & Wawa",
+      "link": "https://www.wsj.com/opinion/william-mary-wawa-9e5ab768?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 19:54:00 GMT",
+      "sentiment": 0.45
+    },
+    {
       "title": "Opinion | Another Cautionary Tale for MamdaniMarts",
       "link": "https://www.wsj.com/opinion/another-cautionary-tale-for-mamdanimarts-9c0a2b9a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 00:05:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/can-nvidia-thrive-without-jensen-huang-5b0001d5?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 20:29:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Opinion | The FAA Is a Classic Government Failure",
-      "link": "https://www.wsj.com/opinion/just-another-frantic-friday-at-the-faa-f36a9df4?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 02:05:00 GMT",
-      "sentiment": -0.075
     },
     {
       "title": "Venture Global Pushes to Expand LNG Production Amid Demand Growth Expectations",
@@ -343,16 +343,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "West Coast Port Employers Warn of Possible Strike at Los Angeles, Long Beach",
+      "link": "https://www.wsj.com/logistics-report/west-coast-port-employers-warn-of-possible-strike-at-los-angeles-long-beach-63bacb39?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 20:09:00 GMT",
+      "sentiment": -0.025
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-106eebc0?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 17:28:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "West Coast Port Employers Warn of Possible Strike at Los Angeles, Long Beach",
-      "link": "https://www.wsj.com/logistics-report/west-coast-port-employers-warn-of-possible-strike-at-los-angeles-long-beach-63bacb39?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 16:26:00 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "Electric Tugboats Get L.A. Audition",
@@ -463,16 +463,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
-      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 02:54:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
       "link": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 02:00:00 GMT",
       "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:54:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
