@@ -7,16 +7,40 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Iran and U.S. trade fire as Iran denies reports of planned dirty bomb attack in D.C.",
-      "link": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
-      "published": "Tue, 17 Nov 2026 08:07:05 EST",
-      "sentiment": -0.06666666666666667
+      "title": "Multiple tech outages have Americans asking: Can somebody fix this?",
+      "link": "https://www.cbc.ca/news/world/outages-faa-banks-microsoft-nsa-are-they-related-9.7425366?cmp=rss",
+      "published": "Tue, 17 Nov 2026 17:18:44 EST",
+      "sentiment": 0.09774305555555556
     },
     {
       "title": "IIHF confirms cyberattack after website goes offline",
       "link": "https://www.cbc.ca/news/world/iihf-website-hacked-russia-9.7424810?cmp=rss",
       "published": "Tue, 17 Nov 2026 16:44:05 EST",
       "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "FAA halts installation of new routers linked to Friday's airport ground stop until root of problem found",
+      "link": "https://www.cbc.ca/news/world/faa-airport-ground-stop-routers-installation-halted-9.7425635?cmp=rss",
+      "published": "Tue, 17 Nov 2026 17:17:13 EST",
+      "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "Trump should reverse Lake Ontario name change, says National Congress of American Indians",
+      "link": "https://www.cbc.ca/news/canada/toronto/national-congress-american-indians-trump-lake-ontario-9.7425638?cmp=rss",
+      "published": "Tue, 17 Nov 2026 17:15:29 EST",
+      "sentiment": -0.05
+    },
+    {
+      "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors",
+      "link": "https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620?cmp=rss",
+      "published": "Tue, 17 Nov 2026 17:56:59 EST",
+      "sentiment": -0.18333333333333335
+    },
+    {
+      "title": "Iran and U.S. trade fire as Iran denies reports of planned dirty bomb attack in D.C.",
+      "link": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
+      "published": "Tue, 17 Nov 2026 08:07:05 EST",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "How China is positioning itself as a global leader as it hosts Trump, Putin",
@@ -91,34 +115,10 @@
       "sentiment": -0.10555555555555556
     },
     {
-      "title": "The U.S. has officially lost its measles elimination status",
+      "title": "The U.S. has officially lost its measles elimination status amid worst outbreak in 35 years",
       "link": "https://www.cbc.ca/news/health/u-s-loses-measles-elimination-status-9.7425114?cmp=rss",
       "published": "Tue, 17 Nov 2026 11:55:51 EST",
-      "sentiment": 0.1375
-    },
-    {
-      "title": "Diallo wants to restore 'broken' trust in soccer as he challenges Infantino for FIFA presidency",
-      "link": "https://www.cbc.ca/sports/soccer/philippe-diallo-fifa-presidential-election-candidate-uefa-9.7423742?cmp=rss",
-      "published": "Mon, 16 Nov 2026 12:05:27 EST",
-      "sentiment": -0.011111111111111118
-    },
-    {
-      "title": "Journalists call for justice after reporter found dead in Mexican coastal city of Acapulco",
-      "link": "https://www.cbc.ca/news/world/mexico-journalist-dead-investigation-9.7423747?cmp=rss",
-      "published": "Mon, 16 Nov 2026 16:41:09 EST",
-      "sentiment": 0.0846153846153846
-    },
-    {
-      "title": "Tiger Woods returning to competition for first time since car crash and DUI arrest",
-      "link": "https://www.cbc.ca/sports/golf/tiger-woods-return-competition-hero-world-challenge-9.7424967?cmp=rss",
-      "published": "Tue, 17 Nov 2026 10:44:42 EST",
-      "sentiment": 0.022727272727272728
-    },
-    {
-      "title": "United Airlines says issue affecting departing flights has been resolved",
-      "link": "https://www.cbc.ca/news/world/united-airlines-widespread-system-outage-9.7424259?cmp=rss",
-      "published": "Mon, 16 Nov 2026 17:59:23 EST",
-      "sentiment": 0.0
+      "sentiment": -0.09
     }
   ]
 }

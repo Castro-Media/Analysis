@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Nvidia Beats Estimates in First Earnings Report After Jensen Huang’s Ouster",
+      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
       "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 21:48:00 GMT",
-      "sentiment": 0.1625
+      "published": "Tue, 17 Nov 2026 23:30:00 GMT",
+      "sentiment": 0.125
+    },
+    {
+      "title": "The SEC Is Investigating Nvidia",
+      "link": "https://www.wsj.com/business/the-sec-is-investigating-nvidia-c59a9845?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 22:43:00 GMT",
+      "sentiment": 0.04444444444444445
     },
     {
       "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 16:20:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
-      "link": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 16:11:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
@@ -67,9 +67,15 @@
       "sentiment": -0.05555555555555555
     },
     {
+      "title": "La-Z-Boy Posts Higher Revenue On New Stores, Acquisitions",
+      "link": "https://www.wsj.com/business/earnings/la-z-boy-posts-higher-revenue-on-new-stores-acquisitions-d078f3aa?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.1871212121212121
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-60155668?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 17:26:00 GMT",
+      "published": "Tue, 17 Nov 2026 21:58:00 GMT",
       "sentiment": 0.35000000000000003
     },
     {
@@ -91,10 +97,10 @@
       "sentiment": -0.04201388888888889
     },
     {
-      "title": "Lush’s CEO Says He Learned His Leadership Values in Grade School",
-      "link": "https://www.wsj.com/articles/lushs-ceo-says-he-learned-his-leadership-values-in-grade-school-fe52f89a?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 11:10:00 GMT",
-      "sentiment": 0.1
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-926920d3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 22:01:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Klarna Revenue Gains as Customer Base Grows",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/tyson-foods-guides-for-sales-decline-as-beef-business-remains-under-pressure-9cb8ba01?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 17:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Intel Sued by Investors After 29% Stock Plunge",
-      "link": "https://www.wsj.com/tech/intel-sued-by-investors-after-29-stock-plunge-c6591bbf?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 15:52:00 GMT",
-      "sentiment": -0.5
     },
     {
       "title": "Tesla Will Invest $3.31 Billion to Expand German Factory for Cybercab Production",
@@ -157,6 +157,12 @@
       "sentiment": 0.2681818181818182
     },
     {
+      "title": "Opinion | Saving the Franchise Model, for Good",
+      "link": "https://www.wsj.com/opinion/joint-employer-nlrb-american-franchise-act-congress-6e04225f?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 22:35:00 GMT",
+      "sentiment": 0.7
+    },
+    {
       "title": "Opinion | The Great AI Chip Heist Is Here",
       "link": "https://www.wsj.com/opinion/the-great-ai-chip-heist-is-here-df70c466?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 21:31:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.wsj.com/opinion/donald-trump-diesel-deal-vladimir-putin-russia-7c282795?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 21:11:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Nvidia Shows The Limits Of Corporate Boards",
-      "link": "https://www.wsj.com/opinion/nvidia-shows-the-limits-of-corporate-boards-761741a6?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 19:40:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -265,6 +265,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "Lush’s CEO Says He Learned His Leadership Values in Grade School",
+      "link": "https://www.wsj.com/articles/lushs-ceo-says-he-learned-his-leadership-values-in-grade-school-fe52f89a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 11:10:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
       "link": "https://www.wsj.com/cfo-journal/nvidia-earnings-anthropic-ipo-ahead-in-new-test-for-ai-economy-7dced222?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 12:33:00 GMT",
@@ -274,12 +280,6 @@
       "title": "How Mastercard’s CEO Stays in Front of Change",
       "link": "https://www.wsj.com/articles/how-mastercards-ceo-stays-in-front-of-change-f54f2ce8?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 11:01:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nvidia Succession Shows Key Part of CFOs’ Jobs: Serving as On-Call CEOs in a Pinch",
-      "link": "https://www.wsj.com/cfo-journal/nvidia-succession-shows-key-part-of-cfos-jobs-serving-as-on-call-ceos-in-a-pinch-dfb15c3b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 12:25:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,12 +313,6 @@
       "sentiment": 0.3
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-926920d3?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 17:24:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Martha Stewart Warns Kalshi Users About Insider Trading",
       "link": "https://www.wsj.com/cmo-today/martha-stewart-warns-kalshi-users-about-insider-trading-1aedd51b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 14:23:00 GMT",
@@ -341,6 +335,12 @@
       "link": "https://www.wsj.com/arts-culture/film/odyssey-mockbuster-asylum-christopher-nolan-matt-damon-cc89bc18?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 10:30:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Verizon Trades Network Claims for Pop-Culture Buzz",
+      "link": "https://www.wsj.com/cmo-today/verizon-trades-network-claims-for-pop-culture-buzz-78295970?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 14:18:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Electric Tugboats Are Coming to the Port of Los Angeles. It’s Not Just About Emissions.",
@@ -433,6 +433,12 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+      "link": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 16:11:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "The Morning Risk Report: Commerce Department Moves to Crack Down on Chip Exports",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-commerce-department-moves-to-crack-down-on-chip-exports-39a2826f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 12:44:00 GMT",
@@ -457,10 +463,10 @@
       "sentiment": 0.05
     },
     {
-      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 02:11:00 GMT",
-      "sentiment": 0.0
+      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
@@ -469,28 +475,22 @@
       "sentiment": 0.05
     },
     {
-      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 02:11:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "The Defense Contractor at the Center of the Ground Stop",
-      "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 03:15:00 GMT",
-      "sentiment": -0.1125
+      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 23:30:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
       "link": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 18:41:00 GMT",
       "sentiment": 0.012500000000000004
+    },
+    {
+      "title": "The Defense Contractor at the Center of the Ground Stop",
+      "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 16 Nov 2026 03:15:00 GMT",
+      "sentiment": -0.1125
     },
     {
       "title": "Best Small-Business Loans in November 2026",
