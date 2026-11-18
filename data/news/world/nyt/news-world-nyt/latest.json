@@ -9,8 +9,14 @@
     {
       "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
       "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "published": "Wed, 18 Nov 2026 16:41:06 +0000",
+      "published": "Wed, 18 Nov 2026 19:31:39 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "published": "Wed, 18 Nov 2026 17:47:13 +0000",
+      "sentiment": 0.04285714285714285
     },
     {
       "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
@@ -19,9 +25,15 @@
       "sentiment": 0.0
     },
     {
+      "title": "Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years.",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+      "published": "Wed, 18 Nov 2026 18:38:15 +0000",
+      "sentiment": -0.25
+    },
+    {
       "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
       "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-      "published": "Wed, 18 Nov 2026 15:22:16 +0000",
+      "published": "Wed, 18 Nov 2026 17:23:46 +0000",
       "sentiment": 0.0
     },
     {
@@ -73,21 +85,21 @@
       "sentiment": -0.1
     },
     {
-      "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
-      "link": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
-      "published": "Tue, 17 Nov 2026 17:41:06 +0000",
-      "sentiment": -0.25
+      "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
+      "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+      "published": "Wed, 18 Nov 2026 17:30:27 +0000",
+      "sentiment": -0.07500000000000001
     },
     {
-      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "published": "Tue, 17 Nov 2026 19:41:03 +0000",
-      "sentiment": 0.05
+      "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
+      "link": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+      "published": "Wed, 18 Nov 2026 17:42:27 +0000",
+      "sentiment": -0.09833333333333336
     },
     {
       "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
       "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-      "published": "Wed, 18 Nov 2026 15:15:37 +0000",
+      "published": "Wed, 18 Nov 2026 17:52:32 +0000",
       "sentiment": 0.0
     },
     {
@@ -115,7 +127,7 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Xi Greets Trump With a Hug as He Arrives in China",
+      "title": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
       "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
       "published": "Wed, 18 Nov 2026 11:14:00 +0000",
       "sentiment": 0.15625
@@ -219,7 +231,7 @@
     {
       "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
       "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-      "published": "Tue, 17 Nov 2026 18:26:38 +0000",
+      "published": "Wed, 18 Nov 2026 17:21:50 +0000",
       "sentiment": 0.11249999999999999
     },
     {
@@ -233,6 +245,12 @@
       "link": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
       "published": "Tue, 17 Nov 2026 14:37:57 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
+      "link": "https://www.nytimes.com/2026/11/17/world/americas/christian-sanon-trial-haiti-president-assassination.html",
+      "published": "Tue, 17 Nov 2026 17:41:06 +0000",
+      "sentiment": -0.25
     },
     {
       "title": "A Visual Tour of President Trump’s Visits to Asia",
@@ -283,6 +301,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "published": "Tue, 17 Nov 2026 19:41:03 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "Carney and Xi Announce Canada-China Trade Pact",
       "link": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
       "published": "Tue, 17 Nov 2026 17:19:21 +0000",
@@ -291,7 +315,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest",
-      "published": "Wed, 18 Nov 2026 04:29:13 +0000",
+      "published": "Wed, 18 Nov 2026 04:29:14 +0000",
       "sentiment": 0.5
     },
     {
@@ -329,30 +353,6 @@
       "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
       "published": "Tue, 17 Nov 2026 17:28:57 +0000",
       "sentiment": -0.03013888888888889
-    },
-    {
-      "title": "10 Numbers That Might Change How You See Asia",
-      "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
-      "published": "Mon, 16 Nov 2026 22:14:10 +0000",
-      "sentiment": 0.2931818181818182
-    },
-    {
-      "title": "The Death of ‘Keep 1.5 Alive’",
-      "link": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html",
-      "published": "Tue, 17 Nov 2026 05:20:43 +0000",
-      "sentiment": -0.0034090909090909102
-    },
-    {
-      "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
-      "published": "Mon, 16 Nov 2026 20:29:23 +0000",
-      "sentiment": 0.06439393939393939
-    },
-    {
-      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
-      "published": "Mon, 16 Nov 2026 17:36:21 +0000",
-      "sentiment": 0.0
     }
   ]
 }
