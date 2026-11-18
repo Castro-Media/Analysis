@@ -1,10 +1,28 @@
 {
   "entries": [
     {
+      "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
+      "link": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
+      "published": "Wed, 18 Nov 2026 21:41:58 +0000",
+      "sentiment": -0.07142857142857142
+    },
+    {
+      "title": "Jensen Huang Is Top of Mind for Tech Leaders at DealBook Summit",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/jensen-huang-nvidia-tech-leaders-reaction.html",
+      "published": "Wed, 18 Nov 2026 21:04:35 +0000",
+      "sentiment": 0.25
+    },
+    {
       "title": "Watch: David Ellison on Elon Musk’s Investment in Skydance",
       "link": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
       "published": "Wed, 18 Nov 2026 20:11:09 +0000",
       "sentiment": 0.2
+    },
+    {
+      "title": "Watch: Canada’s Prime Minister on Negotiating With President Trump",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/carney-canada-trade-deal-trump.html",
+      "published": "Wed, 18 Nov 2026 20:04:53 +0000",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "Hailey Bieber Says Social Media Fueled Rhode but Took a Toll on Her Mental Health",
@@ -27,7 +45,7 @@
     {
       "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
       "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "published": "Wed, 18 Nov 2026 19:51:39 +0000",
+      "published": "Wed, 18 Nov 2026 21:11:29 +0000",
       "sentiment": -0.4
     },
     {
@@ -35,6 +53,12 @@
       "link": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-skydance-elon-musk.html",
       "published": "Wed, 18 Nov 2026 18:34:49 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html",
+      "published": "Wed, 18 Nov 2026 18:19:07 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
@@ -81,7 +105,7 @@
     {
       "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-      "published": "Wed, 18 Nov 2026 17:48:49 +0000",
+      "published": "Wed, 18 Nov 2026 21:41:37 +0000",
       "sentiment": 0.10000000000000002
     },
     {
@@ -115,16 +139,16 @@
       "sentiment": 0.0
     },
     {
+      "title": "Here’s the latest on the 2026 DealBook Summit.",
+      "link": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
+      "published": "Wed, 18 Nov 2026 21:19:53 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Elon Musk and Sam Altman Are in the DealBook Summit 2026 Lineup",
       "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-2026-speaker-lineup.html",
       "published": "Wed, 18 Nov 2026 14:32:17 +0000",
       "sentiment": 0.4
-    },
-    {
-      "title": "Here’s the latest on the 2026 DealBook Summit.",
-      "link": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
-      "published": "Wed, 18 Nov 2026 20:43:39 +0000",
-      "sentiment": 0.5
     },
     {
       "title": "Europe Is Racing to Make Air Defenses ‘Cheaper Than What We Are Shooting Down’",
@@ -239,30 +263,6 @@
       "link": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
       "published": "Tue, 17 Nov 2026 13:02:17 +0000",
       "sentiment": -0.024999999999999994
-    },
-    {
-      "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
-      "link": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
-      "published": "Tue, 17 Nov 2026 13:27:15 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
-      "link": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
-      "published": "Tue, 17 Nov 2026 21:04:16 +0000",
-      "sentiment": -0.07575757575757576
-    },
-    {
-      "title": "Disney Doubles Down on New Shows and Movies Amid Industry Upheaval",
-      "link": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
-      "published": "Tue, 17 Nov 2026 17:03:49 +0000",
-      "sentiment": 0.06026936026936027
-    },
-    {
-      "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
-      "link": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
-      "published": "Tue, 17 Nov 2026 14:01:14 +0000",
-      "sentiment": 0.014814814814814817
     }
   ]
 }

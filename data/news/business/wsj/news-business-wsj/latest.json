@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Anthropic Prices IPO at $83 a Share",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 21:39:00 GMT",
+      "sentiment": 0.3111111111111111
+    },
+    {
       "title": "Europe Ditched Russian Fuel. Now It’s Hooked on Chinese Green Tech Instead.",
       "link": "https://www.wsj.com/business/energy-oil/europe-ditched-russian-fuel-now-its-hooked-on-chinese-green-tech-instead-6d3f2fd6?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 18:00:00 GMT",
@@ -31,9 +37,9 @@
       "sentiment": -0.12777777777777777
     },
     {
-      "title": "The Art and Science of Sports Sponsorships",
-      "link": "https://www.wsj.com/cio-journal/the-art-and-science-of-sports-sponsorships-370156d3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 10:55:00 GMT",
+      "title": "Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+      "link": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 21:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -61,12 +67,6 @@
       "sentiment": 0.15
     },
     {
-      "title": "UniCredit’s Commerzbank Bid Gets EU, U.S. Approval",
-      "link": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 15:13:00 GMT",
-      "sentiment": -0.05555555555555555
-    },
-    {
       "title": "Lowe’s Sales Rise, as Professional Customers Drive Growth",
       "link": "https://www.wsj.com/business/retail/lowes-lifts-outlook-following-higher-sales-a18c6141?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 19:47:00 GMT",
@@ -91,10 +91,10 @@
       "sentiment": 0.0909090909090909
     },
     {
-      "title": "La-Z-Boy Posts Higher Revenue On New Stores, Acquisitions",
-      "link": "https://www.wsj.com/business/earnings/la-z-boy-posts-higher-revenue-on-new-stores-acquisitions-d078f3aa?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 22:24:00 GMT",
-      "sentiment": 0.1871212121212121
+      "title": "The Art and Science of Sports Sponsorships",
+      "link": "https://www.wsj.com/cio-journal/the-art-and-science-of-sports-sponsorships-370156d3?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows",
@@ -193,6 +193,18 @@
       "sentiment": 0.1
     },
     {
+      "title": "Oil Futures Extend Decline on Supply Surplus Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 21:42:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 21:02:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Venture Global Pushes to Expand LNG Production Amid Demand Growth Expectations",
       "link": "https://www.wsj.com/business/energy-oil/venture-global-pushes-to-expand-lng-production-amid-demand-growth-expectations-067008cf?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 19:27:00 GMT",
@@ -209,18 +221,6 @@
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8dccf69b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 17:30:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 13:45:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Energy Chief Urges Western Europe to Pivot to Power Expansion",
-      "link": "https://www.wsj.com/world/europe/u-s-energy-chief-urges-western-europe-to-pivot-to-power-expansion-e75d8bfe?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 10:34:00 GMT",
-      "sentiment": -0.0625
     },
     {
       "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
@@ -487,10 +487,10 @@
       "sentiment": 0.35000000000000003
     },
     {
-      "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
-      "link": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 18:41:00 GMT",
-      "sentiment": 0.012500000000000004
+      "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
+      "link": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 07:24:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Best Small-Business Loans in November 2026",
