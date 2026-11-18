@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
+      "link": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "Le Pen’s Lead in French Election Race Has EU in Scramble for Funding",
+      "link": "https://www.wsj.com/world/europe/le-pens-lead-in-french-election-race-has-eu-in-scramble-for-funding-9f4e2001?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "A Hunger Crisis Is Making Ebola Even Deadlier",
       "link": "https://www.wsj.com/world/africa/a-hunger-crisis-is-making-ebola-even-deadlier-ef14c676?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 21:08:00 GMT",
       "sentiment": -0.16666666666666666
-    },
-    {
-      "title": "Inside Xi Jinping’s Grip on Power Ahead of Trump Talks",
-      "link": "https://www.wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 18:35:00 GMT",
-      "sentiment": 0.021875000000000006
-    },
-    {
-      "title": "Trump Returns to World Stage After Midterm Setback",
-      "link": "https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 13:35:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
@@ -73,6 +73,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Trump Returns to World Stage After Midterm Setback",
+      "link": "https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b?mod=rss_worldnews",
+      "published": "Tue, 17 Nov 2026 13:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nvidia Forms National-Security Committee After Huang’s Exit",
       "link": "https://www.wsj.com/politics/national-security/nvidia-forms-national-security-committee-after-huangs-exit-c3261fc2?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 12:57:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 02:22:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO",
-      "link": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 02:11:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Bitter Feud Between the Leaders of Brazil and Argentina Goes Global",
@@ -223,6 +223,12 @@
       "sentiment": 0.13333333333333333
     },
     {
+      "title": "Inside Xi Jinping’s Grip on Power Ahead of Trump Talks",
+      "link": "https://www.wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd?mod=rss_worldnews",
+      "published": "Tue, 17 Nov 2026 18:35:00 GMT",
+      "sentiment": 0.021875000000000006
+    },
+    {
       "title": "Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit",
       "link": "https://www.wsj.com/world/china/why-neither-trump-nor-xi-is-likely-to-raise-nvidia-at-their-summit-5b93bc1a?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 11:55:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852?mod=rss_worldnews",
       "published": "Mon, 16 Nov 2026 06:59:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "China Poached This Top Harvard Professor. Now He Wants Others to Join Him.",
-      "link": "https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews",
-      "published": "Sun, 15 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.175
     },
     {
       "title": "Ukrainian Strike Severs Part of Russia’s Crimean Bridge",
@@ -383,12 +383,6 @@
       "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews",
       "published": "Mon, 16 Nov 2026 22:35:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression",
-      "link": "https://www.wsj.com/world/asia/in-the-philippines-trump-checks-in-with-an-ally-resisting-chinese-aggression-24143b14?mod=rss_worldnews",
-      "published": "Mon, 16 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",

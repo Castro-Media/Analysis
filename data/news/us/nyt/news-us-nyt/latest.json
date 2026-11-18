@@ -1,15 +1,27 @@
 {
   "entries": [
     {
+      "title": "A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says",
+      "link": "https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html",
+      "published": "Wed, 18 Nov 2026 02:37:34 +0000",
+      "sentiment": -0.3133333333333333
+    },
+    {
+      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+      "link": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+      "published": "Wed, 18 Nov 2026 02:09:10 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
       "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-      "published": "Wed, 18 Nov 2026 00:17:51 +0000",
+      "published": "Wed, 18 Nov 2026 01:36:41 +0000",
       "sentiment": 0.05
     },
     {
       "title": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
       "link": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
-      "published": "Tue, 17 Nov 2026 23:46:09 +0000",
+      "published": "Wed, 18 Nov 2026 01:27:04 +0000",
       "sentiment": 0.0
     },
     {
@@ -117,7 +129,7 @@
     {
       "title": "Measles Is Officially Back in the United States. What Now?",
       "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-      "published": "Tue, 17 Nov 2026 18:12:14 +0000",
+      "published": "Tue, 17 Nov 2026 18:12:15 +0000",
       "sentiment": 0.0
     },
     {
@@ -137,12 +149,6 @@
       "link": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html",
       "published": "Tue, 17 Nov 2026 19:51:57 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "El Niño Draws Sea Turtles to California’s Coast for the First Time",
-      "link": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html",
-      "published": "Tue, 17 Nov 2026 08:06:57 +0000",
-      "sentiment": 0.13333333333333333
     }
   ]
 }
