@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "He Runs One of the World’s Deadliest Military Forces. We Went Inside His Bunker.",
+      "link": "https://www.wsj.com/world/he-runs-one-of-the-worlds-deadliest-military-forces-we-went-inside-his-bunker-ba042402?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia",
+      "link": "https://www.wsj.com/world/u-s-enters-unprecedented-three-way-nuclear-rivalry-with-china-and-russia-2f2385c3?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.30416666666666664
+    },
+    {
       "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
       "link": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 02:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/can-a-new-leader-make-the-u-n-relevant-again-2893f9ef?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 21:43:00 GMT",
       "sentiment": 0.20727272727272728
-    },
-    {
-      "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
-      "link": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 21:33:00 GMT",
-      "sentiment": -0.07499999999999998
-    },
-    {
-      "title": "Canada and China Draw Closer with Expanded Trade Pact",
-      "link": "https://www.wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 21:08:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
@@ -97,6 +97,12 @@
       "sentiment": 0.05
     },
     {
+      "title": "Canada and China Draw Closer with Expanded Trade Pact",
+      "link": "https://www.wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38?mod=rss_worldnews",
+      "published": "Tue, 17 Nov 2026 21:08:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "The Bitter Feud Between the Leaders of Brazil and Argentina Goes Global",
       "link": "https://www.wsj.com/world/americas/the-bitter-feud-between-the-leaders-of-brazil-and-argentina-goes-global-6a91033f?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 03:00:00 GMT",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9?mod=rss_worldnews",
       "published": "Sat, 14 Nov 2026 03:00:00 GMT",
       "sentiment": 0.13
-    },
-    {
-      "title": "Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments",
-      "link": "https://www.wsj.com/business/autos/stellantis-offers-to-repay-c-24-million-to-canada-but-government-says-automaker-breaching-commitments-15d5e00c?mod=rss_worldnews",
-      "published": "Fri, 13 Nov 2026 15:53:00 GMT",
-      "sentiment": 0.01666666666666668
     },
     {
       "title": "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
+      "link": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews",
+      "published": "Tue, 17 Nov 2026 21:33:00 GMT",
+      "sentiment": -0.07499999999999998
+    },
+    {
       "title": "European Leaders Near Deal to Pick Spanish Economist as Next ECB President",
       "link": "https://www.wsj.com/world/europe/european-leaders-near-deal-to-pick-spanish-economist-as-next-ecb-president-62cc0c92?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 12:11:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/economy/eurozone-industrial-production-picked-up-in-september-40e4d56a?mod=rss_worldnews",
       "published": "Mon, 16 Nov 2026 10:43:00 GMT",
       "sentiment": 0.16
-    },
-    {
-      "title": "What Greece Learned From Going Broke—and Others In Europe Still Haven’t",
-      "link": "https://www.wsj.com/world/europe/greece-debt-today-aaffcb16?mod=rss_worldnews",
-      "published": "Sat, 14 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.13333333333333333
     },
     {
       "title": "Inside Xi Jinping’s Grip on Power Ahead of Trump Talks",
@@ -377,12 +377,6 @@
       "link": "https://www.wsj.com/world/why-this-weeks-meeting-of-world-leaders-wont-be-yalta-2-0-8cbf3a32?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 03:00:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
-      "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews",
-      "published": "Mon, 16 Nov 2026 22:35:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
