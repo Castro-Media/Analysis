@@ -1,10 +1,22 @@
 {
   "entries": [
     {
+      "title": "Metrolink CEO Darren Kettle to step down amid criticism over rail agency's operations",
+      "link": "https://www.latimes.com/california/story/2026-11-17/metrolink-ceo-darren-kettle-to-step-down-amid-criticism-over-rail-agencys-operations",
+      "published": "Wed, 18 Nov 2026 00:08:47 GMT",
+      "sentiment": -0.15555555555555556
+    },
+    {
       "title": "Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill",
       "link": "https://www.latimes.com/california/story/2026-11-17/la-me-landfill-geyser",
       "published": "Tue, 17 Nov 2026 22:46:46 GMT",
       "sentiment": 0.024999999999999994
+    },
+    {
+      "title": "'What a mistake.' Popular Studio City restaurant and bar will close to make way for new housing project",
+      "link": "https://www.latimes.com/food/story/2026-11-17/oy-bar-studio-city-closure",
+      "published": "Tue, 17 Nov 2026 22:38:07 GMT",
+      "sentiment": 0.36818181818181817
     },
     {
       "title": "You were caught up in the FAA airport chaos. Are you entitled to a refund?",
@@ -43,6 +55,12 @@
       "sentiment": -0.03174603174603175
     },
     {
+      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
+      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
       "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
@@ -53,12 +71,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
       "sentiment": 0.4454545454545455
-    },
-    {
-      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
-      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2
     },
     {
       "title": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
@@ -193,16 +205,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
-      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
       "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
       "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
+      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Family of Franklin High student who died at school files damage claims against LAUSD",
@@ -563,12 +575,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future",
       "published": "Wed, 11 Nov 2026 11:00:00 GMT",
       "sentiment": 0.05284090909090909
-    },
-    {
-      "title": "Voters rejected Prop. 45. The battle over California's housing crisis continues",
-      "link": "https://www.latimes.com/environment/story/2026-11-11/voters-rejected-prop-45-battle-over-californias-housing-crisis-continues",
-      "published": "Wed, 11 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
     }
   ]
 }

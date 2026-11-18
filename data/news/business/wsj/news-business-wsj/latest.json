@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
+      "link": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 00:06:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
       "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 23:30:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 18:41:00 GMT",
       "sentiment": 0.012500000000000004
-    },
-    {
-      "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
-      "link": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 16:20:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
@@ -157,6 +157,12 @@
       "sentiment": 0.2681818181818182
     },
     {
+      "title": "Opinion | Another Cautionary Tale for MamdaniMarts",
+      "link": "https://www.wsj.com/opinion/another-cautionary-tale-for-mamdanimarts-9c0a2b9a?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 00:05:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Opinion | Saving the Franchise Model, for Good",
       "link": "https://www.wsj.com/opinion/joint-employer-nlrb-american-franchise-act-congress-6e04225f?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 22:35:00 GMT",
@@ -187,9 +193,9 @@
       "sentiment": -0.075
     },
     {
-      "title": "Opinion | How’s That Russian Diesel Deal Going?",
-      "link": "https://www.wsj.com/opinion/donald-trump-diesel-deal-vladimir-putin-russia-7c282795?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 21:11:00 GMT",
+      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 00:55:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -214,12 +220,6 @@
       "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power",
       "link": "https://www.wsj.com/business/energy-oil/google-embraces-geothermal-technology-to-vaporize-rock-for-clean-power-dbd66d05?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 11:30:00 GMT",
-      "sentiment": 0.3666666666666667
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-02dc2fa2?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 21:55:00 GMT",
       "sentiment": 0.3666666666666667
     },
     {
@@ -469,16 +469,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
-      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
       "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 23:30:00 GMT",
       "sentiment": 0.125
+    },
+    {
+      "title": "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
+      "link": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 02:38:00 GMT",
+      "sentiment": 0.05
     },
     {
       "title": "General Motors Seeks Outside CEO Contenders to Succeed Mary Barra",
@@ -487,10 +487,10 @@
       "sentiment": 0.012500000000000004
     },
     {
-      "title": "The Defense Contractor at the Center of the Ground Stop",
-      "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 03:15:00 GMT",
-      "sentiment": -0.1125
+      "title": "Home Depot CEO Steps Down After Medical Leave of Absence",
+      "link": "https://www.wsj.com/business/retail/home-depot-elevates-finance-chief-richard-mcphail-to-ceo-1364922a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 11:17:00 GMT",
+      "sentiment": -0.04201388888888889
     },
     {
       "title": "Best Small-Business Loans in November 2026",
