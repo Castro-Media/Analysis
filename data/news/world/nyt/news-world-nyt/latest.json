@@ -9,13 +9,13 @@
     {
       "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
       "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-      "published": "Wed, 18 Nov 2026 19:31:39 +0000",
+      "published": "Wed, 18 Nov 2026 20:13:01 +0000",
       "sentiment": -0.05
     },
     {
       "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
       "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-      "published": "Wed, 18 Nov 2026 17:47:13 +0000",
+      "published": "Wed, 18 Nov 2026 20:29:31 +0000",
       "sentiment": 0.04285714285714285
     },
     {
@@ -63,7 +63,7 @@
     {
       "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
       "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
-      "published": "Wed, 18 Nov 2026 11:51:05 +0000",
+      "published": "Wed, 18 Nov 2026 20:22:46 +0000",
       "sentiment": 0.03409090909090909
     },
     {
@@ -85,9 +85,21 @@
       "sentiment": -0.1
     },
     {
+      "title": "Undoing Brexit",
+      "link": "https://www.nytimes.com/2026/11/18/world/19int-theworld-brexit-trump-xi-putin.html",
+      "published": "Wed, 18 Nov 2026 20:41:00 +0000",
+      "sentiment": 0.2111111111111111
+    },
+    {
+      "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
+      "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+      "published": "Wed, 18 Nov 2026 20:21:11 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
       "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-      "published": "Wed, 18 Nov 2026 17:30:27 +0000",
+      "published": "Wed, 18 Nov 2026 20:08:35 +0000",
       "sentiment": -0.07500000000000001
     },
     {
@@ -341,18 +353,6 @@
       "link": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
       "published": "Wed, 18 Nov 2026 03:46:06 +0000",
       "sentiment": -0.025
-    },
-    {
-      "title": "Trump Will Miss Most of the ASEAN Summit",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
-      "published": "Tue, 17 Nov 2026 17:51:27 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-      "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
-      "published": "Tue, 17 Nov 2026 17:28:57 +0000",
-      "sentiment": -0.03013888888888889
     }
   ]
 }
