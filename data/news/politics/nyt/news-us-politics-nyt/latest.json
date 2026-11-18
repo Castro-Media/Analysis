@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+      "published": "Wed, 18 Nov 2026 00:17:51 +0000",
+      "sentiment": 0.05
+    },
+    {
       "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
       "published": "Tue, 17 Nov 2026 23:38:01 +0000",
@@ -9,7 +15,7 @@
     {
       "title": "Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
-      "published": "Tue, 17 Nov 2026 23:25:31 +0000",
+      "published": "Tue, 17 Nov 2026 23:25:32 +0000",
       "sentiment": 0.5
     },
     {
@@ -39,13 +45,13 @@
     {
       "title": "Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54",
       "link": "https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html",
-      "published": "Tue, 17 Nov 2026 21:46:19 +0000",
+      "published": "Wed, 18 Nov 2026 00:35:22 +0000",
       "sentiment": -0.4
     },
     {
       "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-      "published": "Tue, 17 Nov 2026 21:34:43 +0000",
+      "published": "Wed, 18 Nov 2026 00:06:19 +0000",
       "sentiment": 0.21562499999999998
     },
     {
@@ -59,6 +65,12 @@
       "link": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
       "published": "Tue, 17 Nov 2026 19:50:00 +0000",
       "sentiment": -0.06590909090909092
+    },
+    {
+      "title": "Republicans Recoil as Duffy Outlines $50 Billion Request for Air Traffic Improvements",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/duffy-hill-ground-stop-faa.html",
+      "published": "Wed, 18 Nov 2026 00:03:19 +0000",
+      "sentiment": 0.033333333333333326
     },
     {
       "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
       "published": "Mon, 16 Nov 2026 23:39:25 +0000",
       "sentiment": 0.3
-    },
-    {
-      "title": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
-      "published": "Tue, 17 Nov 2026 02:03:06 +0000",
-      "sentiment": -0.00416666666666667
-    },
-    {
-      "title": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
-      "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
-      "published": "Mon, 16 Nov 2026 23:44:56 +0000",
-      "sentiment": 0.06818181818181818
     }
   ]
 }

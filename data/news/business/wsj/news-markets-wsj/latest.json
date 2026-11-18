@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Nvidia Earnings Live: Chip Giant’s Revenue Comes in Strong, Stock Ticks Higher",
+      "title": "Stock Market News, Nov. 17, 2026: Nvidia Lifts Guidance, Sending Stock Higher",
       "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 10:11:07 GMT",
-      "sentiment": 0.08476430976430976
+      "sentiment": -0.015277777777777779
     },
     {
       "title": "Slower Retail Sales Drag on Market",
@@ -103,6 +103,24 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "JGBs Edge Lower Ahead of 20-Year Auction",
+      "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 00:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gold Treads Water as Fed, Dollar Keep Weighing",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-treads-water-as-fed-dollar-keep-weighing-3f6439e8?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 23:59:00 GMT",
+      "sentiment": 0.08928571428571429
+    },
+    {
+      "title": "Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
+      "published": "Tue, 17 Nov 2026 23:55:00 GMT",
+      "sentiment": 0.025
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 21:53:00 GMT",
@@ -115,22 +133,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
-      "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-eurozone-bond-yields-edge-lower-as-fresh-drivers-are-sought-746b3b6d?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 17:56:00 GMT",
-      "sentiment": -0.06666666666666665
-    },
-    {
-      "title": "Volatility Has Fundamentally Rewired the AI Trade",
-      "link": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 11:25:00 GMT",
-      "sentiment": 0.75
-    },
-    {
-      "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
-      "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 22:51:00 GMT",
-      "sentiment": -0.07777777777777778
+      "title": "Nikkei Rises 1.0%, Led by Chip, AI Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 00:34:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "U.S. Stocks Fall as AI Doubts Fester",
@@ -154,12 +160,6 @@
       "title": "European Stock Indexes Lower Amid Market-Wide Falls",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 08:39:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
-      "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 06:49:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,6 +199,12 @@
       "sentiment": 0.35
     },
     {
+      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=rss_markets_main",
+      "published": "Wed, 18 Nov 2026 00:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Oil Futures Post Modest Gains",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 20:50:00 GMT",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-4a1e94a5?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 21:51:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Oil Futures Retreat on Expected Global Surplus",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 21:50:00 GMT",
-      "sentiment": -0.02
     },
     {
       "title": "WSJ Dollar Index Falls 0.04% to 98.42",
@@ -289,6 +289,12 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
+      "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 22:51:00 GMT",
+      "sentiment": -0.07777777777777778
+    },
+    {
       "title": "AI Stocks Resume Their Slide",
       "link": "https://www.wsj.com/finance/stocks/ai-stocks-resume-their-slide-1094403c?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 21:38:00 GMT",
@@ -313,12 +319,6 @@
       "sentiment": 0.43333333333333335
     },
     {
-      "title": "The End of the No-Brainer AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
       "link": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
       "published": "Thu, 12 Nov 2026 01:00:00 GMT",
@@ -337,16 +337,16 @@
       "sentiment": 0.43333333333333335
     },
     {
-      "title": "The End of the No-Brainer AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
-      "published": "Mon, 16 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "These Charts Show How More People Are Pulling Cash Out of Their Homes",
       "link": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 10:30:00 GMT",
       "sentiment": 0.48749999999999993
+    },
+    {
+      "title": "The End of the No-Brainer AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
+      "published": "Mon, 16 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
