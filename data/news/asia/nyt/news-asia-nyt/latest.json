@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+      "published": "Thu, 19 Nov 2026 00:52:53 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html",
       "published": "Wed, 18 Nov 2026 23:35:48 +0000",
@@ -9,12 +15,12 @@
     {
       "title": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
       "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
-      "published": "Wed, 18 Nov 2026 17:52:32 +0000",
+      "published": "Thu, 19 Nov 2026 00:52:52 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Putin renews his warm bond with Xi.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/putin-renews-his-warm-bond-with-xi",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
       "published": "Wed, 18 Nov 2026 14:14:34 +0000",
       "sentiment": 0.3333333333333333
     },
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
       "published": "Tue, 17 Nov 2026 18:59:25 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
-      "published": "Tue, 17 Nov 2026 14:37:57 +0000",
-      "sentiment": -0.1
     }
   ]
 }
