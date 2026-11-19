@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Canada Producer Prices Rise Again in October, Buoyed by Energy Products",
+      "link": "https://www.wsj.com/economy/canada-producer-prices-rise-again-in-october-buoyed-by-energy-products-e2caa281?mod=rss_socialeconomyfeed",
+      "published": "Thu, 19 Nov 2026 14:35:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "South African Reserve Bank Maintains Main Repo Rate at 7.25%",
+      "link": "https://www.wsj.com/economy/central-banking/south-african-reserve-bank-maintains-main-repo-rate-at-7-25-5c31ca05?mod=rss_socialeconomyfeed",
+      "published": "Thu, 19 Nov 2026 13:57:00 GMT",
+      "sentiment": 0.06944444444444443
+    },
+    {
+      "title": "U.S. Jobless Claims Unexpectedly Move Higher",
+      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-unexpectedly-move-higher-ac495e71?mod=rss_socialeconomyfeed",
+      "published": "Thu, 19 Nov 2026 13:56:00 GMT",
+      "sentiment": 0.11666666666666665
+    },
+    {
       "title": "What will last week’s string of techruptions mean for the economy going forward? Read more in today’s WSJ Economics newsletter:",
       "link": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_socialeconomyfeed",
       "published": "Thu, 19 Nov 2026 10:50:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/economy/central-banking/bank-of-japans-ueda-reaffirms-readiness-to-keep-raising-rates-8365bc0a?mod=rss_socialeconomyfeed",
       "published": "Thu, 19 Nov 2026 04:10:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Australia’s Jobless Rate Rises to Highest Level Since 2021",
-      "link": "https://www.wsj.com/economy/australias-jobless-rate-rises-to-highest-level-since-2021-b8cf74cb?mod=rss_socialeconomyfeed",
-      "published": "Thu, 19 Nov 2026 02:03:00 GMT",
-      "sentiment": -0.25
-    },
-    {
-      "title": "From cigarettes and denim to supersonic jets: an industrial North Carolina region reinvents its economy",
-      "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed",
-      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0037878787878787845
-    },
-    {
-      "title": "Moody’s Says U.S. Economy Grew More Than Expected",
-      "link": "https://www.wsj.com/economy/moodys-says-u-s-economy-grew-more-than-expected-416c91a5?mod=rss_socialeconomyfeed",
-      "published": "Wed, 18 Nov 2026 22:50:00 GMT",
-      "sentiment": 0.10500000000000001
     },
     {
       "title": "Cost Pressures Already in Pipeline to Fuel Higher Inflation",
@@ -187,6 +187,12 @@
       "sentiment": 0.19
     },
     {
+      "title": "From cigarettes and denim to supersonic jets: an industrial North Carolina region reinvents its economy",
+      "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed",
+      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0037878787878787845
+    },
+    {
       "title": "U.S. Jobless Claims Rise More Than Expected in the Week",
       "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-rise-more-than-expected-in-the-week-c1651a1c?mod=rss_socialeconomyfeed",
       "published": "Thu, 12 Nov 2026 13:52:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/economy/jobs/canada-unemployment-rate-climbs-to-six-month-high-of-6-7-90a664ca?mod=rss_socialeconomyfeed",
       "published": "Fri, 06 Nov 2026 16:19:00 GMT",
       "sentiment": 0.10666666666666667
-    },
-    {
-      "title": "U.S. Jobless Claims Slide Lower Again",
-      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-slide-lower-again-54f85605?mod=rss_socialeconomyfeed",
-      "published": "Thu, 05 Nov 2026 13:54:00 GMT",
-      "sentiment": 0.012121212121212116
     }
   ]
 }
