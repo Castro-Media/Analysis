@@ -1,16 +1,16 @@
 {
   "entries": [
     {
-      "title": "Live Updates: Trump Holds First Summit With Xi and Putin, Whom He Calls ‘Friend’",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "published": "Thu, 19 Nov 2026 09:49:23 +0000",
-      "sentiment": 0.19318181818181818
-    },
-    {
       "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
       "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
       "published": "Thu, 19 Nov 2026 06:42:09 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "Colombia’s President Is Acquiring a Reputation for Courting Controversy",
+      "link": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
+      "published": "Thu, 19 Nov 2026 10:03:10 +0000",
+      "sentiment": -0.13181818181818183
     },
     {
       "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
@@ -79,10 +79,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
-      "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
-      "published": "Wed, 18 Nov 2026 22:24:50 +0000",
-      "sentiment": 0.03409090909090909
+      "title": "On nukes, Trump says, ‘It’s very hard to give them up.’ It’s been done before.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before",
+      "published": "Thu, 19 Nov 2026 10:41:36 +0000",
+      "sentiment": -0.3791666666666667
+    },
+    {
+      "title": "A village was burned, its people killed or exiled. Was it part of a genocide?",
+      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-camps-photos",
+      "published": "Thu, 19 Nov 2026 10:17:31 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+      "link": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "published": "Thu, 19 Nov 2026 10:02:50 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Aung San Suu Kyi did not condemn the pogroms against the Rohingya.",
@@ -99,7 +111,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
-      "published": "Thu, 19 Nov 2026 09:44:35 +0000",
+      "published": "Thu, 19 Nov 2026 10:37:25 +0000",
       "sentiment": 0.5
     },
     {
@@ -117,7 +129,7 @@
     {
       "title": "How the War in Iran Will Remake the Global Energy Order",
       "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "published": "Thu, 19 Nov 2026 09:25:56 +0000",
+      "published": "Thu, 19 Nov 2026 10:27:38 +0000",
       "sentiment": 0.16666666666666666
     },
     {
@@ -247,6 +259,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/russia-rock-music-boris-grebenshchikov.html",
+      "published": "Wed, 18 Nov 2026 22:24:50 +0000",
+      "sentiment": 0.03409090909090909
+    },
+    {
       "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
       "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
       "published": "Wed, 18 Nov 2026 09:52:56 +0000",
@@ -329,30 +347,6 @@
       "link": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
       "published": "Tue, 17 Nov 2026 16:00:01 +0000",
       "sentiment": 0.06742424242424241
-    },
-    {
-      "title": "Anne Thurston Has Died. She Revealed Salacious Details of Mao’s Life.",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/anne-thurston-dead.html",
-      "published": "Tue, 17 Nov 2026 17:49:58 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-      "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-      "published": "Wed, 18 Nov 2026 17:21:50 +0000",
-      "sentiment": 0.11249999999999999
-    },
-    {
-      "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-      "published": "Tue, 17 Nov 2026 18:59:25 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Putin Is Open to Meeting With North Korea’s Leader in China, Kremlin Says",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/putin-kim-jong-un-north-korea-china-meeting.html",
-      "published": "Tue, 17 Nov 2026 14:37:57 +0000",
-      "sentiment": -0.1
     }
   ]
 }

@@ -79,16 +79,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "The Ivy League brought back the SAT. Should UC follow?",
-      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Plastic producers face scrutiny after half fail to report data required by California law",
       "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": -0.15555555555555553
+    },
+    {
+      "title": "The Ivy League brought back the SAT. Should UC follow?",
+      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Santa Ana suspends its Flock license plate reader camera system",
@@ -169,6 +169,12 @@
       "sentiment": -0.20000000000000004
     },
     {
+      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
+      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03174603174603175
+    },
+    {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
       "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
@@ -185,12 +191,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
-      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03174603174603175
     },
     {
       "title": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
@@ -307,22 +307,16 @@
       "sentiment": 0.08
     },
     {
-      "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
-      "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
+      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
+      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.2633333333333333
     },
     {
       "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
       "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.10250000000000001
-    },
-    {
-      "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
-      "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2633333333333333
     },
     {
       "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
@@ -335,6 +329,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.04545454545454545
+    },
+    {
+      "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
+      "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Family of Franklin High student who died at school files damage claims against LAUSD",
@@ -373,12 +373,6 @@
       "sentiment": -0.037500000000000006
     },
     {
-      "title": "LAPD's plan for license plate readers on Western Avenue is on hold",
-      "link": "https://www.latimes.com/california/story/2026-11-15/lapds-plan-to-install-license-plate-readers-on-western-avenue-hits-roadblock",
-      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The new state insurance commissioner has a plan to overhaul the troubled home insurance market. Will it work?",
       "link": "https://www.latimes.com/business/story/2026-11-15/new-state-insurance-commissioner-has-plan-to-overhaul-troubled-home-insurance-market-will-it-work",
       "published": "Sun, 15 Nov 2026 11:00:00 GMT",
@@ -399,6 +393,12 @@
     {
       "title": "Offshore oil rigs could be 'toppled' off California under Trump plan",
       "link": "https://www.latimes.com/environment/story/2026-11-15/offshore-oil-rigs-could-be-toppled-off-california-under-trump-plan",
+      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "LAPD's plan for license plate readers on Western Avenue is on hold",
+      "link": "https://www.latimes.com/california/story/2026-11-15/lapds-plan-to-install-license-plate-readers-on-western-avenue-hits-roadblock",
       "published": "Sun, 15 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
@@ -535,28 +535,28 @@
       "sentiment": -0.09166666666666666
     },
     {
-      "title": "Arellano: Mexican ambassador says 'it's business as usual' after the midterms and Miller's promotion",
-      "link": "https://www.latimes.com/california/story/2026-11-13/roberto-lazzeri-montano-mexican-ambassador-to-us",
-      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.2625
-    },
-    {
       "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
       "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
-      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
-      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3
-    },
-    {
       "title": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
       "link": "https://www.latimes.com/california/story/2026-11-13/fierce-debate-over-how-bad-californias-el-nino-winter-will-be",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0866666666666667
+    },
+    {
+      "title": "Arellano: Mexican ambassador says 'it's business as usual' after the midterms and Miller's promotion",
+      "link": "https://www.latimes.com/california/story/2026-11-13/roberto-lazzeri-montano-mexican-ambassador-to-us",
+      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.2625
+    },
+    {
+      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
+      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
+      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",

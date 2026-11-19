@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Alibaba Earnings Rebound Sharply as AI Profitability Improves",
+      "link": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 10:38:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "Uber Co-Founder Kalanick Teases Protest at Nvidia as Calls for Huang’s Return Continue",
       "link": "https://www.wsj.com/tech/ai/uber-co-founder-kalanick-teases-protest-at-nvidia-as-calls-for-huangs-return-continue-37c4f635?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 02:57:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 23:11:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Europe Ditched Russian Fuel. Now It’s Hooked on Chinese Green Tech Instead.",
-      "link": "https://www.wsj.com/business/energy-oil/europe-ditched-russian-fuel-now-its-hooked-on-chinese-green-tech-instead-6d3f2fd6?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 18:00:00 GMT",
-      "sentiment": -0.03333333333333333
     },
     {
       "title": "HPE Adds Former JPMorgan Exec to Board, Amends Agreement With Elliott Investment",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Soitec Shares Climb on Guidance, Cash Deposits as Strong AI Demand Boosts Visibility",
+      "link": "https://www.wsj.com/business/retail/soitec-shares-climb-on-guidance-cash-deposits-as-strong-ai-demand-boosts-visibility-f24ef65a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 10:07:00 GMT",
+      "sentiment": 0.15416666666666667
+    },
+    {
       "title": "Novartis Sees Sales Growth Through 2031",
       "link": "https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 06:31:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/retail/tjx-raises-full-year-outlook-expects-sales-trends-to-accelerate-through-holiday-season-e0542322?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 13:14:00 GMT",
       "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "Target Posts Strongest Sales Growth in Years as Focus on New Products, Value Pays Off",
-      "link": "https://www.wsj.com/business/retail/target-posts-strongest-sales-growth-in-years-as-focus-on-new-products-value-pays-off-4f82006d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 11:41:00 GMT",
-      "sentiment": 0.0909090909090909
     },
     {
       "title": "Lenovo Maintains Revenue Momentum on AI-Fueled Hardware Demand",
@@ -193,10 +193,10 @@
       "sentiment": 0.1
     },
     {
-      "title": "Oil Prices Mixed as Traders Weigh Supply Outlook, Middle East Shipping Risks",
+      "title": "Oil Prices Edge Higher as Traders Weigh Middle East Shipping Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "sentiment": 0.049999999999999996
+      "published": "Thu, 19 Nov 2026 10:21:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
@@ -433,6 +433,12 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "Europe Ditched Russian Fuel. Now It’s Hooked on Chinese Green Tech Instead.",
+      "link": "https://www.wsj.com/business/energy-oil/europe-ditched-russian-fuel-now-its-hooked-on-chinese-green-tech-instead-6d3f2fd6?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 18:00:00 GMT",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "What I Learned From Talking to Job Seekers in All 50 States",
       "link": "https://www.wsj.com/lifestyle/careers/what-i-learned-from-talking-to-job-seekers-in-all-50-states-3c848143?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 16:12:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 02:54:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "Nvidia’s Interim CEO Has a Tough Challenge: Keep the Growth, Leave the Baggage",
-      "link": "https://www.wsj.com/tech/ai/nvidias-interim-ceo-has-a-tough-challenge-keep-the-growth-leave-the-baggage-6ff55c85?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 02:04:00 GMT",
-      "sentiment": -0.21296296296296294
     },
     {
       "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
