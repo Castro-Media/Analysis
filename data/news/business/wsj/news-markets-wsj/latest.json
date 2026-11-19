@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, November 18, 2026: Nvidia Earnings Fail to Soothe Investors’ Nerves",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 09:52:59 GMT",
-      "sentiment": -0.25
+      "title": "Anthropic IPO Today: AI Giant Prepares to Start Trading in High-Stakes Offering",
+      "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 09:34:15 GMT",
+      "sentiment": 0.08333333333333333
     },
     {
       "title": "Anthropic Raises $81 Billion in Biggest IPO Ever",
@@ -13,7 +13,7 @@
       "sentiment": 0.16666666666666666
     },
     {
-      "title": "Wall Street Pledged to Mobilize $500 Billion for Nvidia—But Hasn’t Put Up a Dime",
+      "title": "Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime",
       "link": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 02:00:00 GMT",
       "sentiment": 0.0
@@ -103,6 +103,12 @@
       "sentiment": -0.06666666666666667
     },
     {
+      "title": "European Stock Indexes Rise as Tech Sentiment Improves",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 08:24:00 GMT",
+      "sentiment": 0.05357142857142857
+    },
+    {
       "title": "Eurozone Bond Yields Fall Ahead of Spanish, French Bond Auctions",
       "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 07:48:00 GMT",
@@ -127,9 +133,9 @@
       "sentiment": 0.3333333333333333
     },
     {
-      "title": "Treasury Yields Mixed Amid Hawkish Fedspeak",
-      "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 21:34:00 GMT",
+      "title": "Stock Futures Rise as Optimism Improves Ahead of Anthropic Trading Debut",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 09:47:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -137,12 +143,6 @@
       "link": "https://www.wsj.com/finance/asian-equities-decline-as-caution-prevails-eaf3c1e9?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 05:42:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Nikkei Rises 0.2%, Led by Chip, Retail Stocks",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 00:34:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "U.S. Stocks Mixed, Nvidia Down Again Ahead of Anthropic IPO",
@@ -199,6 +199,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Gold Pressured by Rate-Hike Bets, Broader Commodities Retreat",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 08:52:00 GMT",
+      "sentiment": -0.009595959595959602
+    },
+    {
       "title": "Time for Copper-Focused BHP to Show How It Can Grow",
       "link": "https://www.wsj.com/business/time-for-copper-focused-bhp-to-show-how-it-can-grow-a713515a?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 07:06:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 01:13:00 GMT",
       "sentiment": -0.19999999999999998
-    },
-    {
-      "title": "Gold Catches Breath But Stays at Over One-Year Lows",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 00:29:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -229,10 +229,10 @@
       "sentiment": 0.22083333333333333
     },
     {
-      "title": "Dollar Remains Elevated on U.S. Rate-Rise Prospects",
+      "title": "Euro Stabilizes Against Dollar But at Risk of Further Weakening",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 07:52:00 GMT",
-      "sentiment": 0.19
+      "published": "Thu, 19 Nov 2026 08:18:00 GMT",
+      "sentiment": -0.008333333333333333
     },
     {
       "title": "WSJ Dollar Index Rises 0.22% to 98.64",
