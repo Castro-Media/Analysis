@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
+      "link": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+      "published": "Thu, 19 Nov 2026 21:39:11 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "How Much Anthropic Are You About to Own?",
+      "link": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
+      "published": "Thu, 19 Nov 2026 21:50:33 +0000",
+      "sentiment": 0.26
+    },
+    {
+      "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
+      "link": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
+      "published": "Thu, 19 Nov 2026 21:16:51 +0000",
+      "sentiment": 0.1125
+    },
+    {
       "title": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
       "link": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
       "published": "Thu, 19 Nov 2026 20:46:06 +0000",
@@ -57,7 +75,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
-      "published": "Thu, 19 Nov 2026 20:44:18 +0000",
+      "published": "Thu, 19 Nov 2026 21:48:56 +0000",
       "sentiment": 0.5
     },
     {
@@ -197,24 +215,6 @@
       "link": "https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html",
       "published": "Wed, 18 Nov 2026 22:18:01 +0000",
       "sentiment": -0.4000000000000001
-    },
-    {
-      "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
-      "link": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
-      "published": "Thu, 19 Nov 2026 16:12:00 +0000",
-      "sentiment": -0.07142857142857142
-    },
-    {
-      "title": "Jensen Huang Is Top of Mind for Tech Leaders at DealBook Summit",
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/jensen-huang-nvidia-tech-leaders-reaction.html",
-      "published": "Wed, 18 Nov 2026 22:30:34 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Watch: David Ellison on Elon Musk’s Investment in Skydance",
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
-      "published": "Wed, 18 Nov 2026 20:11:09 +0000",
-      "sentiment": 0.2
     }
   ]
 }
