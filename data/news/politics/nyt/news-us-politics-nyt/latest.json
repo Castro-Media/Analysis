@@ -1,9 +1,33 @@
 {
   "entries": [
     {
+      "title": "Alaska Republican Narrowly Defeats Independent House Candidate",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
+      "published": "Thu, 19 Nov 2026 02:47:11 +0000",
+      "sentiment": -0.014583333333333337
+    },
+    {
+      "title": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
+      "published": "Thu, 19 Nov 2026 01:10:37 +0000",
+      "sentiment": 0.02727272727272727
+    },
+    {
+      "title": "Widespread Tech Outages Put Focus on Trump’s National Security Cuts",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
+      "published": "Thu, 19 Nov 2026 01:16:32 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+      "published": "Thu, 19 Nov 2026 00:58:47 +0000",
+      "sentiment": -0.05111111111111111
+    },
+    {
       "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
-      "published": "Wed, 18 Nov 2026 23:13:04 +0000",
+      "published": "Wed, 18 Nov 2026 23:13:05 +0000",
       "sentiment": 0.11818181818181818
     },
     {
@@ -51,7 +75,7 @@
     {
       "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
-      "published": "Wed, 18 Nov 2026 17:15:08 +0000",
+      "published": "Thu, 19 Nov 2026 01:23:01 +0000",
       "sentiment": -0.35
     },
     {
@@ -69,7 +93,7 @@
     {
       "title": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-      "published": "Wed, 18 Nov 2026 21:41:37 +0000",
+      "published": "Thu, 19 Nov 2026 02:06:56 +0000",
       "sentiment": 0.10000000000000002
     },
     {
@@ -113,12 +137,6 @@
       "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
       "published": "Wed, 18 Nov 2026 07:43:35 +0000",
       "sentiment": 0.275
-    },
-    {
-      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-      "link": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
-      "published": "Wed, 18 Nov 2026 03:26:28 +0000",
-      "sentiment": 0.0
     }
   ]
 }
