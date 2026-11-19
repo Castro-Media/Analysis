@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Trump’s Personal Lawyer to Step Down as Sullivan & Cromwell Co-Chair",
+      "link": "https://www.wsj.com/us-news/law/trumps-personal-lawyer-to-step-down-as-sullivan-cromwell-co-chair-f988b3e0?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 21:39:00 GMT",
+      "sentiment": -0.054797979797979804
+    },
+    {
       "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
       "link": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 18:02:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 12:22:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Alibaba Earnings Rebound Sharply as AI Profitability Improves",
-      "link": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 11:27:00 GMT",
-      "sentiment": -0.1860479797979798
     },
     {
       "title": "HPE Adds Former JPMorgan Exec to Board, Amends Agreement With Elliott Investment",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Boston Beer Taps Operating Chief Hodges to Be Next CEO",
+      "link": "https://www.wsj.com/business/boston-beer-taps-operating-chief-hodges-to-be-next-ceo-bbd425ed?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 21:22:00 GMT",
+      "sentiment": -0.004797979797979801
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-e830e34e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 17:49:00 GMT",
@@ -91,10 +97,22 @@
       "sentiment": -0.046666666666666676
     },
     {
+      "title": "Intuit to Sell Mailchimp for $3.68 Billion",
+      "link": "https://www.wsj.com/business/earnings/intuit-to-sell-mailchimp-for-3-68-billion-33f03f9c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 21:35:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Temu Owner Reports Flat Profit, Revenue as Challenges Continue",
       "link": "https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 12:40:00 GMT",
       "sentiment": -0.0125
+    },
+    {
+      "title": "Alibaba Earnings Rebound Sharply as AI Profitability Improves",
+      "link": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 11:27:00 GMT",
+      "sentiment": -0.1860479797979798
     },
     {
       "title": "Babcock Shares Climb on Earnings Beat, Push Into Drones",
@@ -107,24 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 11:01:00 GMT",
       "sentiment": 0.2111111111111111
-    },
-    {
-      "title": "Soitec Shares Climb on Guidance, Cash Deposits as Strong AI Demand Boosts Visibility",
-      "link": "https://www.wsj.com/business/retail/soitec-shares-climb-on-guidance-cash-deposits-as-strong-ai-demand-boosts-visibility-f24ef65a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 10:07:00 GMT",
-      "sentiment": 0.15416666666666667
-    },
-    {
-      "title": "Lowe’s Sales Rise, as Professional Customers Drive Growth",
-      "link": "https://www.wsj.com/business/retail/lowes-lifts-outlook-following-higher-sales-a18c6141?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 19:47:00 GMT",
-      "sentiment": 0.17142857142857146
-    },
-    {
-      "title": "TJX Raises Full-Year Outlook, Expects Sales Trends to Accelerate Through Holiday Season",
-      "link": "https://www.wsj.com/business/retail/tjx-raises-full-year-outlook-expects-sales-trends-to-accelerate-through-holiday-season-e0542322?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 13:14:00 GMT",
-      "sentiment": 0.21666666666666667
     },
     {
       "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
@@ -403,16 +403,16 @@
       "sentiment": -0.03571428571428571
     },
     {
+      "title": "Thousands of Anthropic Employees and Investors Are Set to Reap Fortunes",
+      "link": "https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 21:30:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "Anthropic’s IPO Is a Win for Venture. Its Success Could Reshape the Industry.",
       "link": "https://www.wsj.com/pro/venture-capital/anthropics-ipo-is-a-win-for-venture-its-success-could-reshape-the-industry-2bfdecc0?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 16:53:00 GMT",
       "sentiment": 0.29000000000000004
-    },
-    {
-      "title": "Thousands of Anthropic Employees and Investors Are Set to Reap Fortunes",
-      "link": "https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 14:00:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
