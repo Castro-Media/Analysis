@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Novartis Sees Sales Growth Through 2031",
+      "link": "https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 06:31:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "Lowe’s Sales Rise, as Professional Customers Drive Growth",
       "link": "https://www.wsj.com/business/retail/lowes-lifts-outlook-following-higher-sales-a18c6141?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 19:47:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/retail/target-posts-strongest-sales-growth-in-years-as-focus-on-new-products-value-pays-off-4f82006d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 11:41:00 GMT",
       "sentiment": 0.0909090909090909
-    },
-    {
-      "title": "The Art and Science of Sports Sponsorships",
-      "link": "https://www.wsj.com/cio-journal/the-art-and-science-of-sports-sponsorships-370156d3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Lenovo Maintains Revenue Momentum on AI-Fueled Hardware Demand",
@@ -193,6 +193,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
+      "link": "https://www.wsj.com/business/energy-oil/the-iran-war-could-permanently-slash-reliance-on-hormuz-iea-says-eefd69b3?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 05:55:00 GMT",
+      "sentiment": -0.03888888888888889
+    },
+    {
       "title": "Oil Falls, Weighed by Larger-Than-Expected Rise in U.S. Inventories",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 01:13:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 21:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Venture Global Pushes to Expand LNG Production Amid Demand Growth Expectations",
-      "link": "https://www.wsj.com/business/energy-oil/venture-global-pushes-to-expand-lng-production-amid-demand-growth-expectations-067008cf?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 19:27:00 GMT",
-      "sentiment": -0.049999999999999996
     },
     {
       "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
@@ -331,16 +331,16 @@
       "sentiment": 0.06818181818181818
     },
     {
+      "title": "The Art and Science of Sports Sponsorships",
+      "link": "https://www.wsj.com/cio-journal/the-art-and-science-of-sports-sponsorships-370156d3?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
       "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 19:43:00 GMT",
       "sentiment": 0.35000000000000003
-    },
-    {
-      "title": "Martha Stewart Warns Kalshi Users About Insider Trading",
-      "link": "https://www.wsj.com/cmo-today/martha-stewart-warns-kalshi-users-about-insider-trading-1aedd51b?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 14:23:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -481,16 +481,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
-      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 02:54:00 GMT",
-      "sentiment": 0.125
-    },
-    {
       "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
       "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 19:43:00 GMT",
       "sentiment": 0.35000000000000003
+    },
+    {
+      "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+      "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 02:54:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Best Small-Business Loans in November 2026",
