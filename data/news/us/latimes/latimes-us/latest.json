@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "L.A. County issues evacuation warnings as storm nears; snow, flooding expected",
+      "link": "https://www.latimes.com/california/story/2026-11-18/la-county-issues-evacuation-warnings-as-storm-nears-snow-flooding-expected",
+      "published": "Wed, 18 Nov 2026 23:10:12 GMT",
+      "sentiment": 0.09750000000000002
+    },
+    {
+      "title": "Newsom arrives in D.C. with an AI plan, as Trump aides struggle to address outages",
+      "link": "https://www.latimes.com/politics/story/2026-11-18/newsom-arrives-in-d-c-with-ai-plan-as-trump-aides-struggle-to-address-outages",
+      "published": "Wed, 18 Nov 2026 22:34:21 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "LAPD officer bitten by pit bull during altercation in Skid Row; woman arrested",
+      "link": "https://www.latimes.com/california/story/2026-11-18/pit-bull-bites-lapd-officer-during-skid-row-altercation-woman-held",
+      "published": "Wed, 18 Nov 2026 22:20:35 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "She said 'Yes' at the beach. Then a surprise El Niño wave stole her ring",
+      "link": "https://www.latimes.com/california/story/2026-11-18/she-said-yes-at-beach-then-surprise-el-nino-wave-stole-her-ring",
+      "published": "Wed, 18 Nov 2026 22:16:33 GMT",
+      "sentiment": 1.0
+    },
+    {
       "title": "Russian spy stalked, photographed Silicon Valley tech defense company workers, feds say",
       "link": "https://www.latimes.com/california/story/2026-11-18/feds-russian-spy-silicon-valley-pursuit",
       "published": "Wed, 18 Nov 2026 20:46:42 GMT",
@@ -106,7 +130,7 @@
       "title": "His killer left Rolex, cash, Hollywood awards behind: Unraveling a murder mystery",
       "link": "https://www.latimes.com/california/story/2026-11-17/he-let-killer-in-lapd-detectives-try-to-identify-killer-who-left-cash-valuables-behind",
       "published": "Tue, 17 Nov 2026 12:39:21 GMT",
-      "sentiment": -0.2
+      "sentiment": -0.20000000000000004
     },
     {
       "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
@@ -115,16 +139,16 @@
       "sentiment": -0.03174603174603175
     },
     {
-      "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
-      "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.4454545454545455
-    },
-    {
       "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
       "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
       "sentiment": -0.2
+    },
+    {
+      "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
+      "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.4454545454545455
     },
     {
       "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
@@ -247,16 +271,16 @@
       "sentiment": 0.08
     },
     {
-      "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
-      "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.10250000000000001
-    },
-    {
       "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
       "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": -0.2633333333333333
+    },
+    {
+      "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
+      "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.10250000000000001
     },
     {
       "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
@@ -265,16 +289,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
-      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.04545454545454545
-    },
-    {
       "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
       "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
+      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "Family of Franklin High student who died at school files damage claims against LAUSD",
@@ -391,14 +415,14 @@
       "sentiment": 0.0
     },
     {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "link": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
+      "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
+      "link": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
-      "link": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
+      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
+      "link": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
@@ -475,16 +499,16 @@
       "sentiment": -0.09166666666666666
     },
     {
-      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
-      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
-      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.3
-    },
-    {
       "title": "Fearmongering or fair warning? A fierce debate over how bad California's El Niño winter will get",
       "link": "https://www.latimes.com/california/story/2026-11-13/fierce-debate-over-how-bad-californias-el-nino-winter-will-be",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0866666666666667
+    },
+    {
+      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
+      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
+      "published": "Fri, 13 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Arellano: Mexican ambassador says 'it's business as usual' after the midterms and Miller's promotion",
@@ -493,10 +517,10 @@
       "sentiment": 0.2625
     },
     {
-      "title": "A quarter of California voters unsure they will respond to the next census, poll finds",
-      "link": "https://www.latimes.com/california/story/2026-11-13/quarter-of-california-voters-unsure-they-will-respond-to-next-census-poll-finds",
+      "title": "The U.S. and Iran are at war. But ICE is still working with Tehran on deportations",
+      "link": "https://www.latimes.com/california/story/2026-11-13/iran-trump-deportations-lawsuit",
       "published": "Fri, 13 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.3
     },
     {
       "title": "Surf legend's girlfriend said he was killed in a robbery. Authorities now suspect her in his murder",
@@ -557,24 +581,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-12/santa-cruz-countys-capitola-beach-closed-as-9-children-get-e-coli",
       "published": "Thu, 12 Nov 2026 16:48:08 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Who will fill Raman's council seat? Community groups brace for a fight",
-      "link": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.26904761904761904
-    },
-    {
-      "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
-      "link": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03888888888888889
-    },
-    {
-      "title": "Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?",
-      "link": "https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.03333333333333333
     }
   ]
 }

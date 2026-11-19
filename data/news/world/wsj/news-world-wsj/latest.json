@@ -1,10 +1,16 @@
 {
   "entries": [
     {
+      "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
+      "link": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 23:31:00 GMT",
+      "sentiment": -0.07499999999999998
+    },
+    {
       "title": "Hegseth Cements New Military Deal in Visit to Venezuela",
       "link": "https://www.wsj.com/world/americas/hegseth-cements-new-military-deal-in-visit-to-venezuela-621ccdcb?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 19:57:00 GMT",
-      "sentiment": -0.02121212121212122
+      "published": "Wed, 18 Nov 2026 23:18:00 GMT",
+      "sentiment": 0.018181818181818174
     },
     {
       "title": "See How Ukraine Hit Putin’s Showpiece Bridge",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/china/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-8bafa9a7?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 12:07:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
-      "link": "https://www.wsj.com/world/nvidias-strong-results-do-little-to-settle-questions-about-its-future-d1ba999d?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 10:50:00 GMT",
-      "sentiment": 0.08194444444444444
     },
     {
       "title": "Watch What U.S. Aircraft Carriers Bring to the Iran War",
@@ -157,6 +157,18 @@
       "sentiment": -0.4
     },
     {
+      "title": "Opinion | Extreme Poverty Is a Thing of the Past in India",
+      "link": "https://www.wsj.com/opinion/extreme-poverty-is-a-thing-of-the-past-in-india-a6f7b0a9?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 22:56:00 GMT",
+      "sentiment": -0.1875
+    },
+    {
+      "title": "Opinion | Why Ukraine’s Kerch Bridge Strike Matters",
+      "link": "https://www.wsj.com/opinion/ukraine-kerch-bridge-strike-vladimir-putin-russia-crimea-a58bdd6a?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 22:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | The Fate of Jensen Huang",
       "link": "https://www.wsj.com/opinion/the-fate-of-jensen-huang-fa395bad?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 21:43:00 GMT",
@@ -179,18 +191,6 @@
       "link": "https://www.wsj.com/opinion/donald-trump-summit-xi-jinping-vladimir-putin-china-russia-ukraine-22332eaf?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 22:36:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Opinion | Jensen Huang’s Offense Wasn’t Infidelity",
-      "link": "https://www.wsj.com/opinion/jensen-huang-nvidia-chips-export-controls-china-03dad391?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 22:33:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Chips, China and Trump",
-      "link": "https://www.wsj.com/opinion/chips-china-and-trump-652e30dc?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 21:39:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Europe Ditched Russian Fuel. Now It’s Hooked on Chinese Green Tech Instead.",
@@ -253,12 +253,6 @@
       "sentiment": 0.1
     },
     {
-      "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
-      "link": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 21:33:00 GMT",
-      "sentiment": -0.07499999999999998
-    },
-    {
       "title": "Ukrainian Strike Severs Part of Russia’s Crimean Bridge",
       "link": "https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 09:47:00 GMT",
@@ -281,6 +275,12 @@
       "link": "https://www.wsj.com/world/europe/u-s-overture-to-russia-on-european-security-sparks-alarm-eb9b6acf?mod=rss_worldnews",
       "published": "Tue, 10 Nov 2026 20:04:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+      "link": "https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
+      "published": "Sat, 07 Nov 2026 04:00:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "A Hunger Crisis Is Making Ebola Even Deadlier",
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
+      "link": "https://www.wsj.com/world/nvidias-strong-results-do-little-to-settle-questions-about-its-future-d1ba999d?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 10:50:00 GMT",
+      "sentiment": 0.08194444444444444
+    },
+    {
       "title": "Can a New Leader Make the U.N. Relevant Again?",
       "link": "https://www.wsj.com/world/can-a-new-leader-make-the-u-n-relevant-again-2893f9ef?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 21:43:00 GMT",
@@ -397,16 +403,16 @@
       "sentiment": 0.1787878787878788
     },
     {
-      "title": "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version",
-      "link": "https://www.wsj.com/world/asia/kim-jong-un-remakes-north-koreas-flag-ditching-soviet-era-version-c65efcfe?mod=rss_worldnews",
-      "published": "Fri, 13 Nov 2026 09:43:00 GMT",
-      "sentiment": 0.36818181818181817
-    },
-    {
       "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
       "link": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 14:56:00 GMT",
       "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version",
+      "link": "https://www.wsj.com/world/asia/kim-jong-un-remakes-north-koreas-flag-ditching-soviet-era-version-c65efcfe?mod=rss_worldnews",
+      "published": "Fri, 13 Nov 2026 09:43:00 GMT",
+      "sentiment": 0.36818181818181817
     },
     {
       "title": "Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80",

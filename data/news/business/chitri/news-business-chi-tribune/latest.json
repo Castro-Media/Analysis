@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Construction begins on $275 million cancer addition to Northwestern Medicine’s Orland Park campus",
+      "link": "https://www.chicagotribune.com/2026/11/18/cancer-addition-northwestern-orland-park/",
+      "published": "Wed, 18 Nov 2026 22:19:29 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "US Sen. Tammy Duckworth says she won’t write ‘blank check’ to FAA",
       "link": "https://www.chicagotribune.com/2026/11/18/tammy-duckworth-faa-ground-stop/",
       "published": "Wed, 18 Nov 2026 21:46:34 +0000",
@@ -25,10 +31,10 @@
       "sentiment": -0.1
     },
     {
-      "title": "Transportation Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown",
+      "title": "Transportation Secretary Sean Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner",
       "link": "https://www.chicagotribune.com/2026/11/18/sean-duffy-l3harris-contractor-faa-ground-stop/",
       "published": "Wed, 18 Nov 2026 19:04:05 +0000",
-      "sentiment": -0.1
+      "sentiment": 0.0
     },
     {
       "title": "CTA unveils 2026 schedule for vaunted Holiday Train and Holiday Bus",
@@ -55,10 +61,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble",
+      "title": "Anthropic prices its IPO at $83 per share, valuing the artificial intelligence giant at 1.5 trillion",
       "link": "https://www.chicagotribune.com/2026/11/18/anthropic-ipo/",
       "published": "Wed, 18 Nov 2026 14:55:06 +0000",
-      "sentiment": 0.0
+      "sentiment": -0.3
     },
     {
       "title": "Senator vows AI hearings after watchdog gets platforms to plan terrorist attacks",
@@ -593,12 +599,6 @@
       "link": "https://www.chicagotribune.com/2026/11/12/north-center-6-bedroom-home-with-rooftop-deck-4m/",
       "published": "Thu, 12 Nov 2026 11:00:03 +0000",
       "sentiment": -0.1
-    },
-    {
-      "title": "Today in Chicago History: First drive-in bank in the United States opens on LaSalle Street",
-      "link": "https://www.chicagotribune.com/2026/11/12/november-12-chicago-history/",
-      "published": "Thu, 12 Nov 2026 10:00:28 +0000",
-      "sentiment": 0.25
     }
   ]
 }
