@@ -1,15 +1,27 @@
 {
   "entries": [
     {
-      "title": "Anthropic I.P.O. Highlights How Washington Has Fallen Behind",
+      "title": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+      "published": "Thu, 19 Nov 2026 12:41:50 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+      "published": "Thu, 19 Nov 2026 12:08:19 +0000",
+      "sentiment": -0.1392857142857143
+    },
+    {
+      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
       "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "published": "Thu, 19 Nov 2026 10:03:26 +0000",
-      "sentiment": -0.2
+      "published": "Thu, 19 Nov 2026 11:27:37 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
       "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
-      "published": "Thu, 19 Nov 2026 10:03:18 +0000",
+      "published": "Thu, 19 Nov 2026 11:46:56 +0000",
       "sentiment": 0.08
     },
     {
@@ -125,12 +137,6 @@
       "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
       "published": "Thu, 19 Nov 2026 02:06:56 +0000",
       "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "How Mary Peltola Triumphed in Alaska’s Senate Race",
-      "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-      "published": "Wed, 18 Nov 2026 12:28:52 +0000",
-      "sentiment": -0.16999999999999998
     }
   ]
 }

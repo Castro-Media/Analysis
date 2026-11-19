@@ -1,10 +1,34 @@
 {
   "entries": [
     {
-      "title": "Anthropic I.P.O. Highlights How Washington Has Fallen Behind",
+      "title": "Mamdani, Musk, Altman, A.I. and Other DealBook Summit Highlights",
+      "link": "https://www.nytimes.com/2026/11/19/business/dealbook/mamdani-musk-altman-summit-highlights.html",
+      "published": "Thu, 19 Nov 2026 12:20:02 +0000",
+      "sentiment": -0.2125
+    },
+    {
+      "title": "Russia’s Takeover of Japan Tobacco Units Deals $8.6 Billion Blow",
+      "link": "https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html",
+      "published": "Thu, 19 Nov 2026 11:24:23 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week",
+      "link": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
+      "published": "Thu, 19 Nov 2026 11:00:14 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Iran Keeps Up Unrelenting Attacks on Ships in the Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
+      "published": "Thu, 19 Nov 2026 11:45:10 +0000",
+      "sentiment": -0.16590909090909092
+    },
+    {
+      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
       "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "published": "Thu, 19 Nov 2026 10:03:26 +0000",
-      "sentiment": -0.2
+      "published": "Thu, 19 Nov 2026 11:27:37 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
@@ -21,7 +45,7 @@
     {
       "title": "How the War in Iran Will Remake the Global Energy Order",
       "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "published": "Thu, 19 Nov 2026 10:27:38 +0000",
+      "published": "Thu, 19 Nov 2026 12:51:17 +0000",
       "sentiment": 0.16666666666666666
     },
     {
@@ -185,12 +209,6 @@
       "link": "https://www.nytimes.com/2026/11/18/business/dealbook/mark-carney-canada-us-trade.html",
       "published": "Wed, 18 Nov 2026 21:56:45 +0000",
       "sentiment": 0.17037037037037037
-    },
-    {
-      "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
-      "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-      "published": "Wed, 18 Nov 2026 20:08:36 +0000",
-      "sentiment": -0.07500000000000001
     }
   ]
 }
