@@ -1,10 +1,28 @@
 {
   "entries": [
     {
+      "title": "World Court Finds Myanmar Committed Genocide Against Rohingya",
+      "link": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 12:50:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
+      "link": "https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 11:35:00 GMT",
+      "sentiment": 0.225
+    },
+    {
       "title": "Trump Says ‘We Are Really Making History’ at First-Ever Summit With Xi, Putin",
       "link": "https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 10:03:00 GMT",
+      "published": "Thu, 19 Nov 2026 11:05:00 GMT",
       "sentiment": 0.014814814814814817
+    },
+    {
+      "title": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
+      "link": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 11:03:00 GMT",
+      "sentiment": 0.21666666666666667
     },
     {
       "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
@@ -13,28 +31,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
-      "link": "https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.225
-    },
-    {
       "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
       "link": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 23:31:00 GMT",
       "sentiment": -0.07499999999999998
-    },
-    {
-      "title": "Hegseth Cements New Military Deal in Visit to Venezuela",
-      "link": "https://www.wsj.com/world/americas/hegseth-cements-new-military-deal-in-visit-to-venezuela-621ccdcb?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 23:18:00 GMT",
-      "sentiment": 0.018181818181818174
-    },
-    {
-      "title": "See How Ukraine Hit Putin’s Showpiece Bridge",
-      "link": "https://www.wsj.com/world/see-how-ukraine-hit-putins-showpiece-bridge-83bbcbe6?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 17:15:00 GMT",
-      "sentiment": 0.10000000000000005
     },
     {
       "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
@@ -67,6 +67,12 @@
       "sentiment": 0.25
     },
     {
+      "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 12:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Asian Equities Mixed Amid Cautious Market Sentiment",
       "link": "https://www.wsj.com/finance/asian-equities-decline-as-caution-prevails-eaf3c1e9?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 05:42:00 GMT",
@@ -91,10 +97,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
-      "link": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 02:22:00 GMT",
-      "sentiment": 0.05
+      "title": "Hegseth Cements New Military Deal in Visit to Venezuela",
+      "link": "https://www.wsj.com/world/americas/hegseth-cements-new-military-deal-in-visit-to-venezuela-621ccdcb?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 23:18:00 GMT",
+      "sentiment": 0.018181818181818174
     },
     {
       "title": "Canada and China Draw Closer with Expanded Trade Pact",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/miguel-angel-felix-gallardo-architect-of-mexicos-modern-drug-trade-has-died-at-80-4f50a23a?mod=rss_worldnews",
       "published": "Sun, 15 Nov 2026 22:13:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State",
-      "link": "https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9?mod=rss_worldnews",
-      "published": "Sat, 14 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.13
     },
     {
       "title": "BOE’s Bailey Sees Length of Iran War as Key to Rate Path",
@@ -371,6 +371,12 @@
       "link": "https://www.wsj.com/world/the-38-year-old-captain-who-fought-off-cockpit-attack-on-flydubai-flight-cd2e484a?mod=rss_worldnews",
       "published": "Fri, 02 Oct 2026 12:21:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "See How Ukraine Hit Putin’s Showpiece Bridge",
+      "link": "https://www.wsj.com/world/see-how-ukraine-hit-putins-showpiece-bridge-83bbcbe6?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 17:15:00 GMT",
+      "sentiment": 0.10000000000000005
     },
     {
       "title": "U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia",

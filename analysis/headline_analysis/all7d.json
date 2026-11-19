@@ -1,15 +1,645 @@
 [
   {
+    "headline": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
+    "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-52-21 +0000"
+  },
+  {
+    "headline": "At historic summit, Xi and Putin share global stage with weakened Trump",
+    "link": "https://www.washingtonpost.com/politics/2026/11/18/trump-xi-putin-meet-with-conflicting-agendas-sharp-divides/",
+    "source": "wapo",
+    "pubdate": "2026-11-19-12-51-53 +0000"
+  },
+  {
+    "headline": "Badenoch defends amputee marathon runners claim in benefits cut row",
+    "link": "https://www.bbc.co.uk/news/articles/cw62pz48vj4go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-12-51-21 +0000"
+  },
+  {
+    "headline": "How the War in Iran Will Remake the Global Energy Order",
+    "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-51-17 +0000"
+  },
+  {
+    "headline": "How the War in Iran Will Remake the Global Energy Order",
+    "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-51-17 +0000"
+  },
+  {
+    "headline": "Oil Prices Retreat as Traders Weigh Supply Surplus Expectations, Middle East Risks",
+    "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-51-00 +0000"
+  },
+  {
+    "headline": "Live Updates: Trump Departs China After First-Ever Summit With Xi and Putin",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-50-09 +0000"
+  },
+  {
+    "headline": "World Court Finds Myanmar Committed Genocide Against Rohingya",
+    "link": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-50-00 +0000"
+  },
+  {
+    "headline": "Bill Zerella, Known for Taking Startups Public, on Why He Joined Stord as CFO",
+    "link": "https://www.wsj.com/cfo-journal/bill-zerella-known-for-taking-startups-public-on-why-he-joined-stord-as-cfo-816bc0e8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-50-00 +0000"
+  },
+  {
+    "headline": "Novartis Sees Sales Growth Through Next Round of Patent Expirations",
+    "link": "https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-47-00 +0000"
+  },
+  {
+    "headline": "What to Know About the Myanmar Genocide Case at the World Court",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-44-49 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-42-57 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-42-57 +0000"
+  },
+  {
+    "headline": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-41-50 +0000"
+  },
+  {
+    "headline": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-41-50 +0000"
+  },
+  {
+    "headline": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-41-50 +0000"
+  },
+  {
+    "headline": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-41-50 +0000"
+  },
+  {
+    "headline": "Wife files for divorce from $150M bourbon maker accused of secretly filming family having sex",
+    "link": "https://nypost.com/2026/11/19/us-news/wife-files-for-divorce-from-150m-bourbon-maker-accused-of-secretly-filming-family-having-sex/",
+    "source": "nypost",
+    "pubdate": "2026-11-19-12-41-47 +0000"
+  },
+  {
+    "headline": "Temu Owner Reports Flat Profit, Revenue as Challenges Continue",
+    "link": "https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-40-00 +0000"
+  },
+  {
+    "headline": "Walmart Sales Rise Powered by E-Commerce Gains",
+    "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-36-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-65309a9d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-33-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-65309a9d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-33-00 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-e522fa66?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-30-00 +0000"
+  },
+  {
+    "headline": "Anthropic gave $40M to an AI safety group. Most of the candidates it backed won.",
+    "link": "https://www.washingtonpost.com/technology/2026/11/19/anthropic-gave-40m-an-ai-safety-group-most-candidates-it-backed-won/",
+    "source": "wapo",
+    "pubdate": "2026-11-19-12-30-00 +0000"
+  },
+  {
+    "headline": "China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear",
+    "link": "https://www.startribune.com/trump-meets-xi-and-putin-in-china-with-nuclear-arms-and-two-wars-on-the-table/601923762",
+    "source": "startribune",
+    "pubdate": "2026-11-19-12-27-03 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-fcde730a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-27-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-fcde730a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-27-00 +0000"
+  },
+  {
+    "headline": "Dollar Could Stay Strong in 2027",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-27-00 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c03399ba?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-24-00 +0000"
+  },
+  {
+    "headline": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-23-29 +0000"
+  },
+  {
+    "headline": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-23-29 +0000"
+  },
+  {
+    "headline": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-22-00 +0000"
+  },
+  {
+    "headline": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-22-00 +0000"
+  },
+  {
+    "headline": "Boston’s Beloved Citgo Sign Returns After Rebuild, 30 Feet Higher",
+    "link": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-21-58 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-3e9085fc?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-21-00 +0000"
+  },
+  {
+    "headline": "Mamdani, Musk, Altman, A.I. and Other DealBook Summit Highlights",
+    "link": "https://www.nytimes.com/2026/11/19/business/dealbook/mamdani-musk-altman-summit-highlights.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-20-02 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-18-21 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-18-21 +0000"
+  },
+  {
+    "headline": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+    "link": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-16-40 +0000"
+  },
+  {
+    "headline": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+    "link": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-16-40 +0000"
+  },
+  {
+    "headline": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+    "link": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-16-39 +0000"
+  },
+  {
+    "headline": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+    "link": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-16-39 +0000"
+  },
+  {
+    "headline": "Anthropic Employees Work Hard, but Don’t Expect Them to Play Hard",
+    "link": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-11-09 +0000"
+  },
+  {
+    "headline": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-08-19 +0000"
+  },
+  {
+    "headline": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-08-19 +0000"
+  },
+  {
+    "headline": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-12-08-19 +0000"
+  },
+  {
+    "headline": "Bath & Body Works CEO Says Turnaround Progressing But Incomplete",
+    "link": "https://www.wsj.com/business/retail/bath-body-works-ceo-says-turnaround-progressing-but-incomplete-0aeef17d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-04-00 +0000"
+  },
+  {
+    "headline": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-12-02-29 +0000"
+  },
+  {
+    "headline": "Concerts, art, red light therapy: What to expect from Minneapolis Proper Hotel",
+    "link": "https://www.startribune.com/concerts-art-red-light-therapy-what-to-expect-from-minneapolis-proper-hotel/601923310",
+    "source": "startribune",
+    "pubdate": "2026-11-19-12-00-01 +0000"
+  },
+  {
+    "headline": "A fatal chase, a live audience and new scrutiny over Ramsey County’s pursuit policy",
+    "link": "https://www.startribune.com/fatal-ramsey-county-chase-live-on-patrol/601918037",
+    "source": "startribune",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "Yuen: Why Kirk Cousins couldn’t wait to get back to Minnesota",
+    "link": "https://www.startribune.com/kirk-cousins-family-minnesota/601921584",
+    "source": "startribune",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "Super Bowl champ Ben Utecht watched his daughters share one final Lakeville South volleyball season",
+    "link": "https://www.startribune.com/ben-utecht-elleora-amy-katriel-lakeville-south-minnesota-girls-volleyball/601915702",
+    "source": "startribune",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "Indian Motorcycle charting its own path, positioned as independent company",
+    "link": "https://www.startribune.com/indian-motorcycle-independent-carolwood-harley-davidson-competitor/601907133",
+    "source": "startribune",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "Inside the making of Matt’s Bar’s legendary Jucy Lucy",
+    "link": "https://www.startribune.com/inside-the-making-of-matts-bars-legendary-jucy-lucy/601904112",
+    "source": "startribune",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "Strike Threat Rises at Ports of L.A. and Long Beach",
+    "link": "https://www.wsj.com/logistics-report/strike-threat-rises-at-ports-of-l-a-and-long-beach-8cdc3d7b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "Where to get a free turkey or meal this Thanksgiving",
+    "link": "https://missionlocal.org/2026/11/2026-where-to-get-a-free-turkey-or-meal-this-thanksgiving/",
+    "source": "missionlocal",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "Anthropic’s brother-sister co-founders grew up right here, in the Mission",
+    "link": "https://missionlocal.org/2026/11/anthropic-dario-daniela-amodei-mission-ai-ipo/",
+    "source": "missionlocal",
+    "pubdate": "2026-11-19-12-00-00 +0000"
+  },
+  {
+    "headline": "On the heels of a historic trilateral summit, President Trump’s international power and leverage might be contracting. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/trump-sees-new-world-order-but-strains-only-worsen-b4306673?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-57-00 +0000"
+  },
+  {
+    "headline": "Reporter banned from summit after asking Trump about Jensen Huang in front of Chinese leader",
+    "link": "https://nypost.com/2026/11/19/us-news/bloomberg-reporter-banned-from-summit-after-asking-trump-if-jensen-huangs-been-disloyal-to-the-us/",
+    "source": "nypost",
+    "pubdate": "2026-11-19-11-48-24 +0000"
+  },
+  {
+    "headline": "Reporter banned from summit after asking Trump about Jensen Huang in front of Chinese leader",
+    "link": "https://nypost.com/2026/11/19/us-news/bloomberg-reporter-banned-from-summit-after-asking-trump-if-jensen-huangs-been-disloyal-to-the-us/",
+    "source": "nypost",
+    "pubdate": "2026-11-19-11-48-24 +0000"
+  },
+  {
+    "headline": "The Brexit debate is back – and there are nerves about what happens next",
+    "link": "https://www.bbc.co.uk/news/articles/cwy80x8pe4v3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-48-01 +0000"
+  },
+  {
+    "headline": "The Brexit debate is back – and there are nerves about what happens next",
+    "link": "https://www.bbc.co.uk/news/articles/cwy80x8pe4v3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-48-01 +0000"
+  },
+  {
+    "headline": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-46-56 +0000"
+  },
+  {
+    "headline": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-46-56 +0000"
+  },
+  {
+    "headline": "Cleverly to run as Tory London mayor candidate",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0ep02wn3lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-45-53 +0000"
+  },
+  {
+    "headline": "Iran Keeps Up Unrelenting Attacks on Ships in the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-45-10 +0000"
+  },
+  {
+    "headline": "Florida pastor found guilty over role in assassination of Haitian president",
+    "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-44-57 +0000"
+  },
+  {
     "headline": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
     "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-11-19-10-51-35 +0000"
+    "pubdate": "2026-11-19-11-43-39 +0000"
   },
   {
-    "headline": "What will last week’s string of techruptions mean for the economy going forward? Read more in today’s WSJ Economics newsletter:",
-    "link": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_socialeconomyfeed",
+    "headline": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+    "link": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-43-06 +0000"
+  },
+  {
+    "headline": "Indian driver wins $1.3m in life-changing lottery prize",
+    "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-38-09 +0000"
+  },
+  {
+    "headline": "How Everyday Investors Manage Their Stakes in Nvidia",
+    "link": "https://www.wsj.com/finance/investing/how-everyday-investors-manage-their-stakes-in-nvidia-8270f025?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-11-19-10-50-00 +0000"
+    "pubdate": "2026-11-19-11-38-00 +0000"
+  },
+  {
+    "headline": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
+    "link": "https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-35-00 +0000"
+  },
+  {
+    "headline": "Neal: Karl-Anthony Towns returns as NBA champion, but Wolves shouldn’t envy him",
+    "link": "https://www.startribune.com/minnesota-timberwolves-new-york-knicks-karl-anthony-towns-anthony-edwards-injury-wolves-roster-26-27/601921524",
+    "source": "startribune",
+    "pubdate": "2026-11-19-11-30-00 +0000"
+  },
+  {
+    "headline": "The Post’s 225 icons: Joey Chestnut became an NYC legend one hot dog at a time",
+    "link": "https://nypost.com/2026/11/19/us-news/the-posts-225-icons-joey-chestnut-became-an-nyc-legend-one-hot-dog-at-a-time/",
+    "source": "nypost",
+    "pubdate": "2026-11-19-11-30-00 +0000"
+  },
+  {
+    "headline": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-27-37 +0000"
+  },
+  {
+    "headline": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-27-37 +0000"
+  },
+  {
+    "headline": "Alibaba Earnings Rebound Sharply as AI Profitability Improves",
+    "link": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-27-00 +0000"
+  },
+  {
+    "headline": "The Bond Market’s Surprising Take on the AI Trade",
+    "link": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-26-00 +0000"
+  },
+  {
+    "headline": "Babcock Shares Climb on Earnings Beat, Push Into Drones",
+    "link": "https://www.wsj.com/business/earnings/babcock-shares-climb-on-earnings-beat-push-into-drones-6f490fba?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-25-00 +0000"
+  },
+  {
+    "headline": "Russia’s Takeover of Japan Tobacco Units Deals $8.6 Billion Blow",
+    "link": "https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-24-23 +0000"
+  },
+  {
+    "headline": "Russia’s Takeover of Japan Tobacco Units Deals $8.6 Billion Blow",
+    "link": "https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-24-23 +0000"
+  },
+  {
+    "headline": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-23-02 +0000"
+  },
+  {
+    "headline": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-23-02 +0000"
+  },
+  {
+    "headline": "Wild are building a Stanley Cup contender, but will Quinn Hughes stick around?",
+    "link": "https://www.startribune.com/quinn-hughes-contract-minnesota-wild-nhl-free-agency-trade-rumors-stanley-cup-2027-kirill-kaprizov/601921371",
+    "source": "startribune",
+    "pubdate": "2026-11-19-11-15-00 +0000"
+  },
+  {
+    "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-07-37 +0000"
+  },
+  {
+    "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-11-07-37 +0000"
+  },
+  {
+    "headline": "Trump Says ‘We Are Really Making History’ at First-Ever Summit With Xi, Putin",
+    "link": "https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-05-00 +0000"
+  },
+  {
+    "headline": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
+    "link": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-03-00 +0000"
+  },
+  {
+    "headline": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
+    "link": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-03-00 +0000"
+  },
+  {
+    "headline": "Lenovo Maintains Revenue Momentum on AI-Fueled Hardware Demand",
+    "link": "https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-01-00 +0000"
+  },
+  {
+    "headline": "Old Town 3-bedroom home with rooftop deck, terrace and 2 balconies: $1.9M",
+    "link": "https://www.chicagotribune.com/2026/11/19/old-town-mohawk/",
+    "source": "chitri",
+    "pubdate": "2026-11-19-11-00-32 +0000"
+  },
+  {
+    "headline": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week",
+    "link": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-11-00-14 +0000"
+  },
+  {
+    "headline": "Amazon warns NYC customers they face price hikes up to $5 for every order if delivery bill is passed",
+    "link": "https://nypost.com/2026/11/19/business/in-new-campaign-amazon-warns-nyc-customers-they-face-price-hikes-up-to-5-for-every-order-if-delivery-bill-is-passed/",
+    "source": "nypost",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: The very first AI chatbot was released in 1966. It turned its creator into AI's most ferocious critic",
+    "link": "https://www.latimes.com/business/story/2026-11-19/the-very-first-ai-chatbot-was-released-in-1966-it-turned-its-creator-into-ais-fiercest-critic",
+    "source": "latimes",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "See How Data Centers Became the Growth Engine of America’s Power Grid",
+    "link": "https://www.wsj.com/business/energy-oil/see-how-data-centers-became-the-growth-engine-of-americas-power-grid-70399f64?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Veteran CFO Bill Zerella Aims to Fast-Track Growth at Stord",
+    "link": "https://www.wsj.com/cfo-journal/veteran-cfo-bill-zerella-aims-to-fast-track-growth-at-stord-d78a5fdd?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Can prosecutors block Newsom's move to wipe out death sentences? It's unlikely, experts say",
+    "link": "https://www.latimes.com/california/story/2026-11-19/california-prosecutors-newsom-death-penalty-commutation-challenge",
+    "source": "latimes",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Amazon warns NYC customers they face price hikes up to $5 for every order if delivery bill is passed",
+    "link": "https://nypost.com/2026/11/19/business/in-new-campaign-amazon-warns-nyc-customers-they-face-price-hikes-up-to-5-for-every-order-if-delivery-bill-is-passed/",
+    "source": "nypost",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Can prosecutors block Newsom's move to wipe out death sentences? It's unlikely, experts say",
+    "link": "https://www.latimes.com/california/story/2026-11-19/california-prosecutors-newsom-death-penalty-commutation-challenge",
+    "source": "latimes",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "High tides, big storms: Next week will be key test as El Niño pounds California coast",
+    "link": "https://www.latimes.com/california/story/2026-11-19/high-tides-big-storms-next-week-will-be-key-test-as-el-nino-pounds-california-coast",
+    "source": "latimes",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Unlocked cells. Family dinners. A once-violent prison is trying something new.",
+    "link": "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/",
+    "source": "wapo",
+    "pubdate": "2026-11-19-11-00-00 +0000"
+  },
+  {
+    "headline": "Opinion | Mayo Clinic’s new CEO should aim to heal rural Minnesota’s health care",
+    "link": "https://www.startribune.com/rural-america-health-equity-gap-doctor-shortage-hospital-closures/601921517",
+    "source": "startribune",
+    "pubdate": "2026-11-19-10-59-00 +0000"
+  },
+  {
+    "headline": "Where Commerce Actually Begins",
+    "link": "https://www.wsj.com/business/where-commerce-actually-begins-46828154?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-19-10-59-00 +0000"
+  },
+  {
+    "headline": "Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-10-58-24 +0000"
+  },
+  {
+    "headline": "Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
+    "source": "nyt",
+    "pubdate": "2026-11-19-10-58-24 +0000"
+  },
+  {
+    "headline": "World marathon champion Jepchirchir gets three-year doping ban",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-10-56-38 +0000"
+  },
+  {
+    "headline": "Danish lawmakers approve a security deal with Greenland and the US",
+    "link": "https://nypost.com/2026/11/19/world-news/danish-lawmakers-approve-a-security-deal-with-greenland-and-the-us/",
+    "source": "nypost",
+    "pubdate": "2026-11-19-10-56-21 +0000"
   },
   {
     "headline": "Four Ways Techruptions May Shape the Economy",
@@ -18,10 +648,10 @@
     "pubdate": "2026-11-19-10-50-00 +0000"
   },
   {
-    "headline": "Anthropic raises $81bn in record-breaking stock market debut",
-    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-19-10-48-04 +0000"
+    "headline": "What will last week’s string of techruptions mean for the economy going forward? Read more in today’s WSJ Economics newsletter:",
+    "link": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-11-19-10-50-00 +0000"
   },
   {
     "headline": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -36,16 +666,10 @@
     "pubdate": "2026-11-19-10-48-04 +0000"
   },
   {
-    "headline": "Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms and the war in Ukraine",
-    "link": "https://www.startribune.com/trump-meets-xi-and-putin-in-china-with-nuclear-arms-and-two-wars-on-the-table/601923762",
-    "source": "startribune",
-    "pubdate": "2026-11-19-10-47-05 +0000"
-  },
-  {
-    "headline": "Conflicting agendas and a weakened Trump mark historic three-way summit",
-    "link": "https://www.washingtonpost.com/politics/2026/11/18/trump-xi-putin-meet-with-conflicting-agendas-sharp-divides/",
-    "source": "wapo",
-    "pubdate": "2026-11-19-10-43-00 +0000"
+    "headline": "Anthropic raises $81bn in record-breaking stock market debut",
+    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-11-19-10-48-04 +0000"
   },
   {
     "headline": "On nukes, Trump says, ‘It’s very hard to give them up.’ It’s been done before.",
@@ -60,34 +684,10 @@
     "pubdate": "2026-11-19-10-41-36 +0000"
   },
   {
-    "headline": "Alibaba Earnings Rebound Sharply as AI Profitability Improves",
-    "link": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-19-10-38-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-37-25 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-37-25 +0000"
-  },
-  {
-    "headline": "Dollar Stays Near 19-Month High, Treasury Yields Rise",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-19-10-36-00 +0000"
-  },
-  {
-    "headline": "Cleverly to run as Tory London mayor candidate",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0ep02wn3lo?at_medium=RSS&at_campaign=rss",
+    "headline": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+    "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-11-19-10-33-34 +0000"
+    "pubdate": "2026-11-19-10-32-10 +0000"
   },
   {
     "headline": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
@@ -120,18 +720,6 @@
     "pubdate": "2026-11-19-10-30-00 +0000"
   },
   {
-    "headline": "How the War in Iran Will Remake the Global Energy Order",
-    "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-27-38 +0000"
-  },
-  {
-    "headline": "How the War in Iran Will Remake the Global Energy Order",
-    "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-27-38 +0000"
-  },
-  {
     "headline": "'Making history': Trump, Putin and Xi meet in unprecedented China summit",
     "link": "https://www.latimes.com/politics/story/2026-11-19/making-history-trump-putin-xi-meet-in-unprecedented-china-summit",
     "source": "latimes",
@@ -142,12 +730,6 @@
     "link": "https://nypost.com/2026/11/19/world-news/houthis-strike-saudi-arabia-pif-tower-in-riyadh-causing-damage/",
     "source": "nypost",
     "pubdate": "2026-11-19-10-23-20 +0000"
-  },
-  {
-    "headline": "Oil Prices Edge Higher as Traders Weigh Middle East Shipping Risks",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-19-10-21-00 +0000"
   },
   {
     "headline": "Hobbled at home, Trump turns abroad",
@@ -174,30 +756,6 @@
     "pubdate": "2026-11-19-10-07-00 +0000"
   },
   {
-    "headline": "Anthropic I.P.O. Highlights How Washington Has Fallen Behind",
-    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-03-26 +0000"
-  },
-  {
-    "headline": "Anthropic I.P.O. Highlights How Washington Has Fallen Behind",
-    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-03-26 +0000"
-  },
-  {
-    "headline": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
-    "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-03-18 +0000"
-  },
-  {
-    "headline": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
-    "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-03-18 +0000"
-  },
-  {
     "headline": "Colombia’s President Is Acquiring a Reputation for Courting Controversy",
     "link": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
     "source": "nyt",
@@ -208,24 +766,12 @@
     "link": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html",
     "source": "nyt",
     "pubdate": "2026-11-19-10-03-10 +0000"
-  },
-  {
-    "headline": "Boston’s Beloved Citgo Sign Returns After Rebuild, 30 Feet Higher",
-    "link": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-03-09 +0000"
   },
   {
     "headline": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
     "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
     "source": "nyt",
     "pubdate": "2026-11-19-10-03-03 +0000"
-  },
-  {
-    "headline": "Trump Says ‘We Are Really Making History’ at First-Ever Summit With Xi, Putin",
-    "link": "https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-11-19-10-03-00 +0000"
   },
   {
     "headline": "Three MAGA Women Who Defined an Era in Congress Are Exiting",
@@ -244,12 +790,6 @@
     "link": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
     "source": "nyt",
     "pubdate": "2026-11-19-10-02-50 +0000"
-  },
-  {
-    "headline": "Anthropic Employees Work Hard, but Don’t Expect Them to Play Hard",
-    "link": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-10-02-46 +0000"
   },
   {
     "headline": "UK to provide Ukraine with 1,000 long-range strike drones",
@@ -306,7 +846,7 @@
     "pubdate": "2026-11-19-09-50-40 +0000"
   },
   {
-    "headline": "Trump, Xi, Putin conclude trilateral meeting at APEC summit",
+    "headline": "Xi-Trump-Putin summit concludes with joint statement warning world bodies to not 'abuse their jurisdiction'",
     "link": "https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-11-19-09-49-18 +0000"
@@ -316,18 +856,6 @@
     "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-11-19-09-47-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-11-19-09-42-02 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-11-19-09-42-02 +0000"
   },
   {
     "headline": "Treasury, Eurozone Bond Yields Edge Higher",
@@ -342,7 +870,7 @@
     "pubdate": "2026-11-19-09-37-00 +0000"
   },
   {
-    "headline": "Anthropic IPO Today: AI Giant Prepares to Start Trading in High-Stakes Offering",
+    "headline": "Anthropic IPO Updates: AI Giant Prepares to Start Trading in High-Stakes Offering",
     "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-11-19-09-34-15 +0000"
@@ -396,28 +924,10 @@
     "pubdate": "2026-11-19-09-21-54 +0000"
   },
   {
-    "headline": "President Trump Starts Asia Trip in Manila by Shrugging Off U.S. Concerns",
-    "link": "https://www.nytimes.com/2026/11/17/world/asia/17trump-summit-manila-asean-marcos.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-09-17-19 +0000"
-  },
-  {
     "headline": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
     "link": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html",
     "source": "nyt",
     "pubdate": "2026-11-19-09-16-48 +0000"
-  },
-  {
-    "headline": "Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-09-15-23 +0000"
-  },
-  {
-    "headline": "Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-09-15-23 +0000"
   },
   {
     "headline": "Florida rainfall supercharged by El Niño floods roads and collapses synagogue’s roof",
@@ -462,12 +972,6 @@
     "pubdate": "2026-11-19-09-02-52 +0000"
   },
   {
-    "headline": "What to Know About the Myanmar Genocide Case at the World Court",
-    "link": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-08-58-46 +0000"
-  },
-  {
     "headline": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
     "link": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
     "source": "nyt",
@@ -510,40 +1014,16 @@
     "pubdate": "2026-11-19-08-32-47 +0000"
   },
   {
-    "headline": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
-    "link": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-08-31-48 +0000"
-  },
-  {
-    "headline": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
-    "link": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-08-31-48 +0000"
-  },
-  {
     "headline": "European Stock Indexes Rise as Tech Sentiment Improves",
     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-11-19-08-24-00 +0000"
   },
   {
-    "headline": "World marathon champion Jepchirchir gets three-year doping ban",
-    "link": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-19-08-20-47 +0000"
-  },
-  {
     "headline": "Undefeated NY high school football coach resigns after team is kicked out of playoffs over 53-second mistake",
     "link": "https://nypost.com/2026/11/19/sports/ny-undefeated-middletown-high-school-football-coach-resigns-after-team-is-kicked-out-of-playoffs/",
     "source": "nypost",
     "pubdate": "2026-11-19-07-53-36 +0000"
-  },
-  {
-    "headline": "Eurozone Bond Yields Fall Ahead of Spanish, French Bond Auctions",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-19-07-48-00 +0000"
   },
   {
     "headline": "Crimean Bridge attacked again, Russia says",
@@ -588,28 +1068,10 @@
     "pubdate": "2026-11-19-06-44-08 +0000"
   },
   {
-    "headline": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-06-42-09 +0000"
-  },
-  {
-    "headline": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-06-42-09 +0000"
-  },
-  {
     "headline": "LA County child protective services worker charged with molesting children while on the job",
     "link": "https://www.latimes.com/california/story/2026-11-18/la-county-child-protective-services-worker-charged-with-molesting-children-he-met-on-job",
     "source": "latimes",
     "pubdate": "2026-11-19-06-34-02 +0000"
-  },
-  {
-    "headline": "Novartis Sees Sales Growth Through 2031",
-    "link": "https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-19-06-31-00 +0000"
   },
   {
     "headline": "Increase in direct cremations since pandemic",
@@ -646,18 +1108,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-11-19-06-04-30 +0000"
-  },
-  {
-    "headline": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
-    "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-06-02-52 +0000"
-  },
-  {
-    "headline": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
-    "link": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-06-02-52 +0000"
   },
   {
     "headline": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
@@ -738,12 +1188,6 @@
     "pubdate": "2026-11-19-05-00-13 +0000"
   },
   {
-    "headline": "Lenovo Maintains Revenue Momentum on AI-Fueled Hardware Demand",
-    "link": "https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-19-04-48-00 +0000"
-  },
-  {
     "headline": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
     "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -774,7 +1218,7 @@
     "pubdate": "2026-11-19-04-30-00 +0000"
   },
   {
-    "headline": "Mike Wise, prize-winning sports columnist for The Post, dies at 62",
+    "headline": "Mike Wise, prize-winning former sports columnist for The Post, dies at 62",
     "link": "https://www.washingtonpost.com/obituaries/2026/11/18/mike-wise-prize-winning-sports-columnist-post-dies-62/",
     "source": "wapo",
     "pubdate": "2026-11-19-04-27-28 +0000"
@@ -1038,12 +1482,6 @@
     "pubdate": "2026-11-19-02-00-53 +0000"
   },
   {
-    "headline": "From cigarettes and denim to supersonic jets: an industrial North Carolina region reinvents its economy",
-    "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-11-19-02-00-00 +0000"
-  },
-  {
     "headline": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
     "link": "https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=rss_worldnews",
     "source": "wsj",
@@ -1074,28 +1512,22 @@
     "pubdate": "2026-11-19-02-00-00 +0000"
   },
   {
+    "headline": "From cigarettes and denim to supersonic jets: an industrial North Carolina region reinvents its economy",
+    "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-11-19-02-00-00 +0000"
+  },
+  {
     "headline": "How a Battered Industrial Corridor Beat the Odds and Reimagined Its Economy",
     "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-11-19-02-00-00 +0000"
   },
   {
-    "headline": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
+    "headline": "Trump dismisses Vance-negotiated Iran deal as a ‘waste of time’",
     "link": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
     "source": "nypost",
     "pubdate": "2026-11-19-01-54-29 +0000"
-  },
-  {
-    "headline": "Trump blasts Vance-negotiated Iran deal as a ‘waste of time’",
-    "link": "https://nypost.com/2026/11/18/us-news/trump-blasts-vance-negotiated-iran-deal-as-a-waste-of-time/",
-    "source": "nypost",
-    "pubdate": "2026-11-19-01-54-29 +0000"
-  },
-  {
-    "headline": "Judge issues 14-day extension order blocking Trump’s DC memorial arch",
-    "link": "https://nypost.com/2026/11/18/us-news/judge-issues-14-day-extension-order-blocking-trumps-dc-memorial-arch/",
-    "source": "nypost",
-    "pubdate": "2026-11-19-01-52-58 +0000"
   },
   {
     "headline": "Judge issues 14-day extension order blocking Trump’s DC memorial arch",
@@ -1114,12 +1546,6 @@
     "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
     "source": "nyt",
     "pubdate": "2026-11-19-01-47-16 +0000"
-  },
-  {
-    "headline": "Wheelchair-bound man dies from injuries sustained in mysterious NYC shooting 36 years ago: ‘Suffered constant pain’",
-    "link": "https://nypost.com/2026/11/18/us-news/wheelchair-bound-man-dies-from-injuries-sustained-in-mysterious-shooting-36-years-ago-suffered-constant-pain/",
-    "source": "nypost",
-    "pubdate": "2026-11-19-01-41-57 +0000"
   },
   {
     "headline": "LA bar famed for oysters to close permanently after 2-year landlord battle",
@@ -1194,12 +1620,6 @@
     "pubdate": "2026-11-19-01-14-12 +0000"
   },
   {
-    "headline": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
-    "link": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "source": "nyt",
-    "pubdate": "2026-11-19-01-14-12 +0000"
-  },
-  {
     "headline": "Oil Falls, Weighed by Larger-Than-Expected Rise in U.S. Inventories",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1218,22 +1638,10 @@
     "pubdate": "2026-11-19-01-11-00 +0000"
   },
   {
-    "headline": "Man accused of attacking Uber driver in Hopkins posts $800K bond, leaves jail",
-    "link": "https://www.startribune.com/attempted-murder-charge-filed-in-attack-on-somali-american-uber-driver/601922139",
-    "source": "startribune",
-    "pubdate": "2026-11-19-01-06-00 +0000"
-  },
-  {
     "headline": "Police price tag for L.A.'s '28 Summer Olympics could hit $4 billion, LAPD chief says",
     "link": "https://www.latimes.com/california/story/2026-11-18/police-price-tag-for-l-as-28-summer-olympics-could-hit-4-billion",
     "source": "latimes",
     "pubdate": "2026-11-19-01-01-57 +0000"
-  },
-  {
-    "headline": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
-    "link": "https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-11-19-01-00-00 +0000"
   },
   {
     "headline": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
@@ -1585,6 +1993,12 @@
   },
   {
     "headline": "Weil Gotshal Bankruptcy Team Heading to Skadden",
+    "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-18-23-11-00 +0000"
+  },
+  {
+    "headline": "Weil Gotshal Bankruptcy Team Heading to Skadden",
     "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-11-18-23-11-00 +0000"
@@ -1704,18 +2118,6 @@
     "pubdate": "2026-11-18-22-35-00 +0000"
   },
   {
-    "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-18-22-34-56 +0000"
-  },
-  {
-    "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-18-22-34-56 +0000"
-  },
-  {
     "headline": "Judge Extends Block on Building Trump’s Triumphal Arch",
     "link": "https://www.nytimes.com/2026/11/18/us/politics/judge-block-trump-arch.html",
     "source": "nyt",
@@ -1738,12 +2140,6 @@
     "link": "https://www.latimes.com/politics/story/2026-11-18/newsom-arrives-in-d-c-with-ai-plan-as-trump-aides-struggle-to-address-outages",
     "source": "latimes",
     "pubdate": "2026-11-18-22-34-21 +0000"
-  },
-  {
-    "headline": "Target’s slow comeback continues, with holiday shopping the next big test",
-    "link": "https://www.startribune.com/target-earnings-holidays-rebound-growth-sales-third-quarter/601917713",
-    "source": "startribune",
-    "pubdate": "2026-11-18-22-33-52 +0000"
   },
   {
     "headline": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
@@ -1878,12 +2274,6 @@
     "pubdate": "2026-11-18-22-00-14 +0000"
   },
   {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-1e52dbdf?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-18-22-00-00 +0000"
-  },
-  {
     "headline": "Opinion | Notable & Quotable: Justice Alito’s Warning",
     "link": "https://www.wsj.com/opinion/notable-quotable-justice-alitos-warning-69707589?mod=rss_usnews",
     "source": "wsj",
@@ -1950,18 +2340,6 @@
     "pubdate": "2026-11-18-21-54-00 +0000"
   },
   {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-106eebc0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-18-21-54-00 +0000"
-  },
-  {
-    "headline": "U.S. Natural Gas Futures Post Strong Gains",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-on-more-supportive-weather-245b9223?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-18-21-51-00 +0000"
-  },
-  {
     "headline": "US Sen. Tammy Duckworth says she won’t write ‘blank check’ to FAA",
     "link": "https://www.chicagotribune.com/2026/11/18/tammy-duckworth-faa-ground-stop/",
     "source": "chitri",
@@ -1992,12 +2370,6 @@
     "pubdate": "2026-11-18-21-43-00 +0000"
   },
   {
-    "headline": "Oil Futures Extend Decline on Supply Surplus Expectations",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-21-42-00 +0000"
-  },
-  {
     "headline": "Tech Stocks Boosted by Cybersecurity Rally",
     "link": "https://www.wsj.com/finance/stocks/tech-stocks-boosted-by-cybersecurity-rally-5f9ff803?mod=rss_markets_main",
     "source": "wsj",
@@ -2026,12 +2398,6 @@
     "link": "https://nypost.com/2026/11/18/world-news/jewish-israeli-documentaries-face-tremendous-challenges-nancy-spielberg-says/",
     "source": "nypost",
     "pubdate": "2026-11-18-21-34-49 +0000"
-  },
-  {
-    "headline": "The Johnnies are fighting: Minnesota’s St. John’s sues New York school over trademark",
-    "link": "https://www.startribune.com/st-johns-university-johnnies-lawsuit/601918774",
-    "source": "startribune",
-    "pubdate": "2026-11-18-21-34-02 +0000"
   },
   {
     "headline": "Opinion | To Negotiate With Putin Is to Concede Defeat",
@@ -2088,12 +2454,6 @@
     "pubdate": "2026-11-18-21-13-06 +0000"
   },
   {
-    "headline": "Police: Mom fatally shoots 2 children in Twin Cities home, calls 911 and is arrested",
-    "link": "https://www.startribune.com/two-children-fatally-shot-in-savage-and-woman-is-arrested/601923217",
-    "source": "startribune",
-    "pubdate": "2026-11-18-21-12-17 +0000"
-  },
-  {
     "headline": "Nvidia’s interim CEO urges employees to leave Jensen Huang behind: ‘Let’s move forward’",
     "link": "https://nypost.com/2026/11/18/business/nvidias-interim-ceo-urges-employees-to-leave-jensen-huang-behind-lets-move-forward/",
     "source": "nypost",
@@ -2134,18 +2494,6 @@
     "link": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-11-18-21-00-00 +0000"
-  },
-  {
-    "headline": "Strib Varsity writers predict outcomes of top state tournament semifinal matchups",
-    "link": "https://www.startribune.com/minnesota-high-school-football-state-semifinals-predictions-us-bank-stadium/601920769",
-    "source": "startribune",
-    "pubdate": "2026-11-18-21-00-00 +0000"
-  },
-  {
-    "headline": "Sonny Gray returns to Twins at age 37 on two-year, $55 million deal",
-    "link": "https://www.startribune.com/sonny-gray-contract-minnesota-twins-roster-2027-news-payroll-pohlad-family-mlb-free-agency-moves/601923475",
-    "source": "startribune",
-    "pubdate": "2026-11-18-20-59-01 +0000"
   },
   {
     "headline": "Number of Muslims worldwide will soon surpass Christians: study",
@@ -2302,12 +2650,6 @@
     "link": "https://www.wsj.com/logistics-report/west-coast-port-employers-warn-of-possible-strike-at-los-angeles-long-beach-63bacb39?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-11-18-20-09-00 +0000"
-  },
-  {
-    "headline": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
-    "link": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-    "source": "nyt",
-    "pubdate": "2026-11-18-20-08-36 +0000"
   },
   {
     "headline": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
@@ -2580,12 +2922,6 @@
     "pubdate": "2026-11-18-18-00-00 +0000"
   },
   {
-    "headline": "State finds Bemidji schools staff sexually harassed students for years",
-    "link": "https://www.startribune.com/investigation-students-sexually-harassed-by-bemidji-school-staff-for-years/601922319",
-    "source": "startribune",
-    "pubdate": "2026-11-18-17-56-28 +0000"
-  },
-  {
     "headline": "Opinion | How China Is Winning in Latin America",
     "link": "https://www.wsj.com/opinion/how-china-is-winning-in-latin-america-e6a99fec?mod=rss_worldnews",
     "source": "wsj",
@@ -2596,12 +2932,6 @@
     "link": "https://nypost.com/2026/11/18/us-news/markwayne-mullin-furiously-defends-govt-flight-to-lsu-texas-game-after-faa-ground-stop-accuses-dems-of-hypocrisy/",
     "source": "nypost",
     "pubdate": "2026-11-18-17-52-26 +0000"
-  },
-  {
-    "headline": "Burcum: My grandma lived the family drama behind SNL’s viral ‘Sister’ skit",
-    "link": "https://www.startribune.com/saturday-night-live-sister-sketch-john-mulaney-online-reaction/601922260",
-    "source": "startribune",
-    "pubdate": "2026-11-18-17-46-16 +0000"
   },
   {
     "headline": "ECB President Christine Lagarde on Why She’s Stepping Down Early",
@@ -2826,12 +3156,6 @@
     "pubdate": "2026-11-18-16-15-46 +0000"
   },
   {
-    "headline": "What I Learned From Talking to Job Seekers in All 50 States",
-    "link": "https://www.wsj.com/lifestyle/careers/what-i-learned-from-talking-to-job-seekers-in-all-50-states-3c848143?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-16-12-00 +0000"
-  },
-  {
     "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
     "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2974,12 +3298,6 @@
     "link": "https://www.washingtonpost.com/nation/2026/11/18/asif-merchant-sentenced-27-years-over-plot-kill-us-leaders/",
     "source": "wapo",
     "pubdate": "2026-11-18-14-40-00 +0000"
-  },
-  {
-    "headline": "Cal-Maine Foods to Cull 1.76 Million Birds After Florida Facility Tests Positive for Bird Flu",
-    "link": "https://www.wsj.com/business/retail/cal-maine-foods-to-cull-1-76-million-birds-after-florida-facility-tests-positive-for-bird-flu-96982877?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-14-39-00 +0000"
   },
   {
     "headline": "'It's not fine': Massive tech failures fuel alarm about critical U.S. infrastructure, AI",
@@ -3138,12 +3456,6 @@
     "pubdate": "2026-11-18-13-17-06 +0000"
   },
   {
-    "headline": "Fried chicken and a chat with an old friend: How Marcos catered to Trump",
-    "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
-    "source": "nyt",
-    "pubdate": "2026-11-18-13-17-06 +0000"
-  },
-  {
     "headline": "Hacks, AI or just overdue updates - why have there been so many outages?",
     "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3180,12 +3492,6 @@
     "pubdate": "2026-11-18-13-04-48 +0000"
   },
   {
-    "headline": "The Morning Risk Report: SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-3d719200?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-12-56-00 +0000"
-  },
-  {
     "headline": "Extra £500m for NHS as Reform boycott the Senedd",
     "link": "https://www.bbc.co.uk/news/videos/crvg2lq64nv7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -3202,18 +3508,6 @@
     "link": "https://www.wsj.com/cfo-journal/kress-takes-point-on-nvidia-results-as-chip-maker-beats-expectations-e5c4ed1c?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-11-18-12-29-00 +0000"
-  },
-  {
-    "headline": "How Mary Peltola Triumphed in Alaska’s Senate Race",
-    "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-    "source": "nyt",
-    "pubdate": "2026-11-18-12-28-52 +0000"
-  },
-  {
-    "headline": "How Mary Peltola Triumphed in Alaska’s Senate Race",
-    "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-    "source": "nyt",
-    "pubdate": "2026-11-18-12-28-52 +0000"
   },
   {
     "headline": "Senator vows AI hearings after watchdog gets platforms to plan terrorist attacks",
@@ -3244,12 +3538,6 @@
     "link": "https://www.wsj.com/world/china/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-8bafa9a7?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-11-18-12-07-00 +0000"
-  },
-  {
-    "headline": "Her ex sued her. Her cat died. Now influencer Haley Baylee wants to ‘Win the Mall.’",
-    "link": "https://www.startribune.com/win-the-mall-haley-baylee-matt-kalil-netflix-miss-minnesota-vikings-minnetonka-high-school/601910667",
-    "source": "startribune",
-    "pubdate": "2026-11-18-12-00-00 +0000"
   },
   {
     "headline": "Republicans fret Anthropic IPO will enrich ‘evil’ far-left donors: ‘200 George Soroses’",
@@ -3324,12 +3612,6 @@
     "pubdate": "2026-11-18-11-14-00 +0000"
   },
   {
-    "headline": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
-    "link": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
-    "source": "nyt",
-    "pubdate": "2026-11-18-11-14-00 +0000"
-  },
-  {
     "headline": "Walmart’s Winning Combo: Thrifty Shoppers and Wary AI Investors",
     "link": "https://www.wsj.com/finance/stocks/walmarts-winning-combo-thrifty-shoppers-and-wary-ai-investors-183184e3?mod=rss_markets_main",
     "source": "wsj",
@@ -3354,12 +3636,6 @@
     "pubdate": "2026-11-18-11-08-23 +0000"
   },
   {
-    "headline": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
-    "link": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html",
-    "source": "nyt",
-    "pubdate": "2026-11-18-11-08-23 +0000"
-  },
-  {
     "headline": "Bally’s secures $560 million in new financing to advance slowed casino project as first VGTs open in Chicago",
     "link": "https://www.chicagotribune.com/2026/11/18/ballys-chicago-financing/",
     "source": "chitri",
@@ -3372,6 +3648,12 @@
     "pubdate": "2026-11-18-11-00-00 +0000"
   },
   {
+    "headline": "Why it feels like the entire internet is breaking right now — and what’s really going on",
+    "link": "https://nypost.com/2026/11/18/business/why-it-feels-like-the-entire-internet-is-breaking-right-now-and-whats-really-going-on/",
+    "source": "nypost",
+    "pubdate": "2026-11-18-11-00-00 +0000"
+  },
+  {
     "headline": "T.J. Maxx plans to close two California stores",
     "link": "https://www.latimes.com/business/story/2026-11-18/t-j-maxx-plans-to-close-two-california-stores",
     "source": "latimes",
@@ -3381,12 +3663,6 @@
     "headline": "KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music",
     "link": "https://www.wsj.com/pro/private-equity/kkr-joins-carlyle-to-pour-475-million-into-recording-rights-buyer-litmus-music-3eb71af8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-11-18-11-00-00 +0000"
-  },
-  {
-    "headline": "Why it feels like the entire internet is breaking right now — and what’s really going on",
-    "link": "https://nypost.com/2026/11/18/business/why-it-feels-like-the-entire-internet-is-breaking-right-now-and-whats-really-going-on/",
-    "source": "nypost",
     "pubdate": "2026-11-18-11-00-00 +0000"
   },
   {
@@ -3420,20 +3696,8 @@
     "pubdate": "2026-11-18-10-53-21 +0000"
   },
   {
-    "headline": "‘World’s most endangered tribe’ looks for help as they make rare contact with workers in ‘troubling’ sign",
-    "link": "https://nypost.com/2026/11/18/world-news/brazils-isolated-awa-tribe-pleads-for-help-in-troubling-sign-during-rare-contact-with-workers-in-amazon-rainforest/",
-    "source": "nypost",
-    "pubdate": "2026-11-18-10-51-32 +0000"
-  },
-  {
     "headline": "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
     "link": "https://www.wsj.com/world/nvidias-strong-results-do-little-to-settle-questions-about-its-future-d1ba999d?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-11-18-10-50-00 +0000"
-  },
-  {
-    "headline": "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
-    "link": "https://www.wsj.com/world/nvidias-strong-results-do-little-to-settle-questions-about-its-future-d1ba999d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-11-18-10-50-00 +0000"
   },
@@ -3460,12 +3724,6 @@
     "link": "https://www.wsj.com/world/europe/u-s-energy-chief-urges-western-europe-to-pivot-to-power-expansion-e75d8bfe?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-11-18-10-34-00 +0000"
-  },
-  {
-    "headline": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
-    "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-10-30-00 +0000"
   },
   {
     "headline": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
@@ -3565,13 +3823,13 @@
   },
   {
     "headline": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-    "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb?mod=rss_socialeconomyfeed",
+    "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-11-18-09-58-00 +0000"
   },
   {
     "headline": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
-    "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb?mod=rss_worldnews",
+    "link": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-11-18-09-58-00 +0000"
   },
@@ -3678,12 +3936,6 @@
     "pubdate": "2026-11-18-08-31-11 +0000"
   },
   {
-    "headline": "Generali Expects to Exceed 2027 Targets as AI Adoption Ramps Up",
-    "link": "https://www.wsj.com/business/earnings/generali-expects-to-exceed-2027-targets-as-ai-adoption-ramps-up-1d1787cf?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-08-23-00 +0000"
-  },
-  {
     "headline": "Santa Ana suspends its Flock license plate reader camera system",
     "link": "https://www.latimes.com/california/story/2026-11-18/santa-ana-suspends-its-flock-license-plate-reader-camera-system",
     "source": "latimes",
@@ -3762,12 +4014,6 @@
     "pubdate": "2026-11-18-06-00-38 +0000"
   },
   {
-    "headline": "Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
-    "link": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-05-33-00 +0000"
-  },
-  {
     "headline": "A rocky road for ‘I Play Rocky’: ‘At one point I thought, screw this,’ says director",
     "link": "https://48hills.org/2026/11/a-rocky-road-for-i-play-rocky-at-one-point-i-thought-screw-this-says-director/",
     "source": "48hills",
@@ -3808,12 +4054,6 @@
     "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-11-18-04-57-06 +0000"
-  },
-  {
-    "headline": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
-    "link": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
-    "source": "nypost",
-    "pubdate": "2026-11-18-04-46-06 +0000"
   },
   {
     "headline": "Democrat Mary Peltola unseated Republican Sen. Dan Sullivan of Alaska to become the first Alaska Native elected to the U.S. Senate, expanding the majority her party won in the midterm elections",
@@ -3942,12 +4182,6 @@
     "pubdate": "2026-11-18-02-03-16 +0000"
   },
   {
-    "headline": "Irishman charged with destroying US military aircraft with axe",
-    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-18-02-00-37 +0000"
-  },
-  {
     "headline": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
     "link": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=rss_worldnews",
     "source": "wsj",
@@ -3962,12 +4196,6 @@
   {
     "headline": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
     "link": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-18-02-00-00 +0000"
-  },
-  {
-    "headline": "Mary Barra Transformed GM. Her Successor May Have to Do It Again.",
-    "link": "https://www.wsj.com/business/autos/mary-barra-transformed-gm-her-successor-may-have-to-do-it-again-aca050e9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-11-18-02-00-00 +0000"
   },
@@ -4182,12 +4410,6 @@
     "pubdate": "2026-11-17-23-15-00 +0000"
   },
   {
-    "headline": "Why tech firms you’ve never heard of are causing major problems at the likes of JPMorgan, Apple Pay and Zoom",
-    "link": "https://nypost.com/2026/11/17/business/why-tech-firms-youve-never-heard-of-are-causing-major-problems-at-the-likes-of-jpmorgan-apple-pay-and-zoom/",
-    "source": "nypost",
-    "pubdate": "2026-11-17-23-13-17 +0000"
-  },
-  {
     "headline": "Iran Is Emboldened After Trump and GOP’s Election Losses, Officials Say",
     "link": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
     "source": "nyt",
@@ -4380,12 +4602,6 @@
     "pubdate": "2026-11-17-21-52-34 +0000"
   },
   {
-    "headline": "Slower Retail Sales Drag on Market",
-    "link": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-17-21-49-00 +0000"
-  },
-  {
     "headline": "Can a New Leader Make the U.N. Relevant Again?",
     "link": "https://www.wsj.com/world/can-a-new-leader-make-the-u-n-relevant-again-2893f9ef?mod=rss_worldnews",
     "source": "wsj",
@@ -4440,21 +4656,21 @@
     "pubdate": "2026-11-17-21-01-05 +0000"
   },
   {
-    "headline": "The Silicon Valley Brawl Over a 39-Story Tower in a Leafy Suburban Neighborhood",
-    "link": "https://www.wsj.com/real-estate/the-silicon-valley-brawl-over-a-39-story-tower-in-a-leafy-suburban-neighborhood-7009b1d4?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-11-17-21-00-00 +0000"
-  },
-  {
-    "headline": "The Silicon Valley Brawl Over a 39-Story Tower in a Leafy Suburban Neighborhood",
-    "link": "https://www.wsj.com/real-estate/the-silicon-valley-brawl-over-a-39-story-tower-in-a-leafy-suburban-neighborhood-7009b1d4?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-11-17-21-00-00 +0000"
-  },
-  {
     "headline": "Chicago opens city’s first self-cleaning public toilet",
     "link": "https://www.washingtonpost.com/nation/2026/11/17/chicago-opens-citys-first-self-cleaning-public-toilet/",
     "source": "wapo",
+    "pubdate": "2026-11-17-21-00-00 +0000"
+  },
+  {
+    "headline": "The Silicon Valley Brawl Over a 39-Story Tower in a Leafy Suburban Neighborhood",
+    "link": "https://www.wsj.com/real-estate/the-silicon-valley-brawl-over-a-39-story-tower-in-a-leafy-suburban-neighborhood-7009b1d4?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-11-17-21-00-00 +0000"
+  },
+  {
+    "headline": "The Silicon Valley Brawl Over a 39-Story Tower in a Leafy Suburban Neighborhood",
+    "link": "https://www.wsj.com/real-estate/the-silicon-valley-brawl-over-a-39-story-tower-in-a-leafy-suburban-neighborhood-7009b1d4?mod=rss_usnews",
+    "source": "wsj",
     "pubdate": "2026-11-17-21-00-00 +0000"
   },
   {
@@ -4554,12 +4770,6 @@
     "pubdate": "2026-11-17-20-00-00 +0000"
   },
   {
-    "headline": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
-    "link": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-17-20-00-00 +0000"
-  },
-  {
     "headline": "Blue Island assisted living facility to pay $160,000 in pregnancy discrimination suit",
     "link": "https://www.chicagotribune.com/2026/11/17/blue-island-assisted-living-160000-settlement/",
     "source": "chitri",
@@ -4576,18 +4786,6 @@
     "link": "https://www.wsj.com/politics/national-security/classified-u-s-intelligence-system-is-down-for-now-u-s-officials-say-aa09b6d1?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-11-17-19-45-00 +0000"
-  },
-  {
-    "headline": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
-    "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-17-19-43-00 +0000"
-  },
-  {
-    "headline": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
-    "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-17-19-43-00 +0000"
   },
   {
     "headline": "New lawmakers play a Capitol Hill game, with prime office space as the prize",
@@ -4626,12 +4824,6 @@
     "pubdate": "2026-11-17-19-26-28 +0000"
   },
   {
-    "headline": "A.I.’s People-Pleasing Problem",
-    "link": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
-    "source": "nyt",
-    "pubdate": "2026-11-17-19-16-41 +0000"
-  },
-  {
     "headline": "Opinion | Houston, We Have an Ongoing FAA Problem",
     "link": "https://www.wsj.com/opinion/houston-we-have-an-ongoing-faa-problem-2bafc9ee?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -4660,12 +4852,6 @@
     "link": "https://www.wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-11-17-18-35-00 +0000"
-  },
-  {
-    "headline": "A lawyer for Fed governor Lisa Cook said she won’t participate in a White House hearing on whether to fire her unless the Trump administration removes a senior economic adviser from the panel",
-    "link": "https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-11-17-18-34-00 +0000"
   },
   {
     "headline": "Fed’s Lisa Cook Rebuffs White House Hearing, Citing Biased Panel",
@@ -4914,12 +5100,6 @@
     "pubdate": "2026-11-17-16-00-01 +0000"
   },
   {
-    "headline": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-    "link": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
-    "source": "nyt",
-    "pubdate": "2026-11-17-16-00-01 +0000"
-  },
-  {
     "headline": "U.S. job gains look good — just not for women, analysis finds",
     "link": "https://www.washingtonpost.com/business/2026/11/17/us-job-gains-look-good-just-not-women-analysis-finds/",
     "source": "wapo",
@@ -5106,12 +5286,6 @@
     "pubdate": "2026-11-17-12-15-00 +0000"
   },
   {
-    "headline": "Major Arab newspaper calls for decriminalization of same-sex relationships",
-    "link": "https://www.washingtonpost.com/world/2026/11/17/major-arab-newspaper-calls-decriminalization-same-sex-relationships/",
-    "source": "wapo",
-    "pubdate": "2026-11-17-12-00-00 +0000"
-  },
-  {
     "headline": "Community leader and advocate Luis de la Garza has died at 72",
     "link": "https://missionlocal.org/2026/11/luis-de-la-garza-obituary-san-francisco/",
     "source": "missionlocal",
@@ -5122,12 +5296,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-11-17-11-58-16 +0000"
-  },
-  {
-    "headline": "GXO Looks to Data Centers, Aerospace and Defense for Growth",
-    "link": "https://www.wsj.com/logistics-report/gxo-looks-to-data-centers-aerospace-and-defense-for-growth-083604d0?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-17-11-57-00 +0000"
   },
   {
     "headline": "The young people caught up in Britain's Neets crisis",
@@ -5158,12 +5326,6 @@
     "link": "https://www.chicagotribune.com/2026/11/17/oak-forest-culvers-franchisee-mentor-award/",
     "source": "chitri",
     "pubdate": "2026-11-17-11-12-54 +0000"
-  },
-  {
-    "headline": "Lush’s CEO Says He Learned His Leadership Values in Grade School",
-    "link": "https://www.wsj.com/articles/lushs-ceo-says-he-learned-his-leadership-values-in-grade-school-fe52f89a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-17-11-10-00 +0000"
   },
   {
     "headline": "La Grange Park eases residency requirements for police",
@@ -5232,12 +5394,6 @@
     "pubdate": "2026-11-17-11-00-00 +0000"
   },
   {
-    "headline": "After 2 years in military prison, mother is acquitted in baby’s death",
-    "link": "https://www.washingtonpost.com/national-security/2026/11/17/after-2-years-military-prison-mother-is-acquitted-babys-death/",
-    "source": "wapo",
-    "pubdate": "2026-11-17-11-00-00 +0000"
-  },
-  {
     "headline": "Immigration arrests after organised crime blitz",
     "link": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5250,12 +5406,6 @@
     "pubdate": "2026-11-17-10-36-21 +0000"
   },
   {
-    "headline": "Home equity is among the biggest pools of consumers’ wealth, and people are increasingly using it to pay down credit cards and buy cars",
-    "link": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-11-17-10-30-00 +0000"
-  },
-  {
     "headline": "Why Big Investors Are Burning Lenders on Apartment Loans",
     "link": "https://www.wsj.com/real-estate/commercial/why-big-investors-are-burning-lenders-on-apartment-loans-7129d849?mod=rss_markets_main",
     "source": "wsj",
@@ -5264,6 +5414,12 @@
   {
     "headline": "These Charts Show How More People Are Pulling Cash Out of Their Homes",
     "link": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-17-10-30-00 +0000"
+  },
+  {
+    "headline": "Home equity is among the biggest pools of consumers’ wealth, and people are increasingly using it to pay down credit cards and buy cars",
+    "link": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-11-17-10-30-00 +0000"
   },
@@ -5398,12 +5554,6 @@
     "link": "https://www.latimes.com/california/story/2026-11-16/dark-smoke-at-chiquita-canyon-landfill-in-santa-clarita-valley-prompts-evacuations",
     "source": "latimes",
     "pubdate": "2026-11-17-02-28-42 +0000"
-  },
-  {
-    "headline": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
-    "link": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-11-17-02-22-00 +0000"
   },
   {
     "headline": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
@@ -5658,12 +5808,6 @@
     "pubdate": "2026-11-16-21-33-00 +0000"
   },
   {
-    "headline": "Business Daily",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-16-21-30-00 +0000"
-  },
-  {
     "headline": "Motorcyclist speeding at 136 mph is pulled over by CHP",
     "link": "https://www.latimes.com/california/story/2026-11-16/motorcyclist-speeding-at-136-mph-is-pulled-over-by-chp",
     "source": "latimes",
@@ -5722,12 +5866,6 @@
     "link": "https://48hills.org/2026/11/screen-grabs-hitching-a-ride-with-gay-mexican-truckers-on-the-road/",
     "source": "48hills",
     "pubdate": "2026-11-16-20-43-16 +0000"
-  },
-  {
-    "headline": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
-    "link": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
-    "source": "nyt",
-    "pubdate": "2026-11-16-20-29-23 +0000"
   },
   {
     "headline": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
@@ -5994,12 +6132,6 @@
     "pubdate": "2026-11-16-12-42-14 +0000"
   },
   {
-    "headline": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
-    "link": "https://www.wsj.com/cfo-journal/nvidia-earnings-anthropic-ipo-ahead-in-new-test-for-ai-economy-7dced222?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-16-12-33-00 +0000"
-  },
-  {
     "headline": "'Morning Joe' co-anchor Willie Geist is leaving MS NOW",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-11-16/morning-joe-co-anchor-willie-geist-is-leaving-ms-now",
     "source": "latimes",
@@ -6246,12 +6378,6 @@
     "pubdate": "2026-11-15-22-04-28 +0000"
   },
   {
-    "headline": "Tories pledge to halt screen-based school exams and cut coursework",
-    "link": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-15-22-00-37 +0000"
-  },
-  {
     "headline": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
     "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
     "source": "nyt",
@@ -6438,20 +6564,20 @@
     "pubdate": "2026-11-15-11-00-00 +0000"
   },
   {
+    "headline": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+    "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-15-10-30-00 +0000"
+  },
+  {
+    "headline": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+    "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-15-10-30-00 +0000"
+  },
+  {
     "headline": "High mortgage rates have crushed homeowners’ budgets. Some lucky Americans haven’t felt any of it. Meet the one in five mortgage holders who are America’s three percenters.",
     "link": "https://www.wsj.com/economy/housing/theyre-lucky-enough-to-have-a-3-mortgageand-feel-like-they-can-never-move-76c8d15a?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-11-15-10-30-00 +0000"
-  },
-  {
-    "headline": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-    "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-15-10-30-00 +0000"
-  },
-  {
-    "headline": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-    "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-11-15-10-30-00 +0000"
   },
@@ -6828,12 +6954,6 @@
     "pubdate": "2026-11-14-03-05-33 +0000"
   },
   {
-    "headline": "The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State",
-    "link": "https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-11-14-03-00-00 +0000"
-  },
-  {
     "headline": "FBI disrupts crypto theft scheme by North Korean hacking group; billions stolen so far",
     "link": "https://www.latimes.com/california/story/2026-11-13/fbi-disrupts-crypto-theft-scheme-by-north-korean-hacking-group-billions-stolen-so-far",
     "source": "latimes",
@@ -6876,14 +6996,14 @@
     "pubdate": "2026-11-14-01-10-08 +0000"
   },
   {
-    "headline": "Shoppers’ complaints about food prices could soon grow louder, as surging energy costs and supply-chain delays are elevating costs for producers: “The worst is yet to come”",
-    "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_socialeconomyfeed",
+    "headline": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
+    "link": "https://www.wsj.com/business/wingstop-aws-digital-ordering-8e4567d1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-11-14-01-00-00 +0000"
   },
   {
-    "headline": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
-    "link": "https://www.wsj.com/business/wingstop-aws-digital-ordering-8e4567d1?mod=pls_whats_news_us_business_f",
+    "headline": "Shoppers’ complaints about food prices could soon grow louder, as surging energy costs and supply-chain delays are elevating costs for producers: “The worst is yet to come”",
+    "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-11-14-01-00-00 +0000"
   },
@@ -7096,18 +7216,6 @@
     "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
     "source": "nyt",
     "pubdate": "2026-11-13-18-20-50 +0000"
-  },
-  {
-    "headline": "Tenderloin Buzz: Azalina’s to relocate, your chance to weigh in on a new mural, and more",
-    "link": "https://missionlocal.org/2026/11/tenderloin-buzz-azalinas-to-relocate-weigh-in-on-new-mural/",
-    "source": "missionlocal",
-    "pubdate": "2026-11-13-18-00-00 +0000"
-  },
-  {
-    "headline": "Where to find San Francisco’s holiday markets",
-    "link": "https://missionlocal.org/2026/11/sf-holiday-markets-2026/",
-    "source": "missionlocal",
-    "pubdate": "2026-11-13-18-00-00 +0000"
   },
   {
     "headline": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
@@ -7398,12 +7506,6 @@
     "pubdate": "2026-11-13-05-18-22 +0000"
   },
   {
-    "headline": "You may be eligible for a Knott's Berry Farm refund. Here's how to claim it",
-    "link": "https://www.latimes.com/california/story/2026-11-12/how-to-claim-knotts-berry-farm-refund",
-    "source": "latimes",
-    "pubdate": "2026-11-13-05-18-22 +0000"
-  },
-  {
     "headline": "FBI says US has seized $1.2 billion worth of cryptocurrency stolen from Binance",
     "link": "https://www.chicagotribune.com/2026/11/12/fbi-seizes-stolen-binance-cryptocurrency/",
     "source": "chitri",
@@ -7476,22 +7578,10 @@
     "pubdate": "2026-11-13-00-17-12 +0000"
   },
   {
-    "headline": "Newsom names Nancy Pelosi, Barry Bonds, Robin Williams to California Hall of Fame",
-    "link": "https://www.latimes.com/california/story/2026-11-12/newsom-california-hall-of-fame-class",
-    "source": "latimes",
-    "pubdate": "2026-11-13-00-17-12 +0000"
-  },
-  {
     "headline": "After his emotional return, Pope Leo denounces ‘machismo’ in Peru and demands women be protected",
     "link": "https://www.chicagotribune.com/2026/11/12/pope-leo-peru-trip/",
     "source": "chitri",
     "pubdate": "2026-11-12-23-47-37 +0000"
-  },
-  {
-    "headline": "Frontier is now offering first-class seats starting at $129",
-    "link": "https://www.latimes.com/travel/story/2026-11-12/frontier-airlines-first-class-seats-deal",
-    "source": "latimes",
-    "pubdate": "2026-11-12-23-30-53 +0000"
   },
   {
     "headline": "Frontier is now offering first-class seats starting at $129",
@@ -7644,12 +7734,6 @@
     "pubdate": "2026-11-12-17-48-55 +0000"
   },
   {
-    "headline": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
-    "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-    "source": "nyt",
-    "pubdate": "2026-11-12-17-38-28 +0000"
-  },
-  {
     "headline": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
     "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -7666,12 +7750,6 @@
     "link": "https://www.wsj.com/politics/elections/the-voters-who-swung-the-house-away-from-trump-8035c7d1?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-11-12-16-29-00 +0000"
-  },
-  {
-    "headline": "US home sales slumped in October to slowest pace in more than 16 years as mortgage rates surged",
-    "link": "https://www.chicagotribune.com/2026/11/12/us-home-sales-october/",
-    "source": "chitri",
-    "pubdate": "2026-11-12-15-06-12 +0000"
   },
   {
     "headline": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
@@ -7696,11 +7774,5 @@
     "link": "https://www.chicagotribune.com/2026/11/12/us-pulls-boys-team-from-fifa-under-17-world-cup-in-qatar-citing-security-in-the-gulf/",
     "source": "chitri",
     "pubdate": "2026-11-12-13-25-26 +0000"
-  },
-  {
-    "headline": "Malawi Lacks Money to Fund its El Niño Plans",
-    "link": "https://www.nytimes.com/2026/11/12/climate/el-nino-malawi-farmer-drought.html",
-    "source": "nyt",
-    "pubdate": "2026-11-12-11-57-04 +0000"
   }
 ]
