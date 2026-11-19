@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "How a Battered Industrial Corridor Beat the Odds and Reimagined Its Economy",
+      "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0037878787878787845
+    },
+    {
+      "title": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+      "link": "https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
+      "sentiment": -0.3888888888888889
+    },
+    {
+      "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
+      "link": "https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.12222222222222223
+    },
+    {
       "title": "Weil Gotshal Bankruptcy Team Heading to Skadden",
       "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 23:11:00 GMT",
@@ -19,24 +37,6 @@
       "sentiment": 0.016666666666666663
     },
     {
-      "title": "What I Learned From Talking to Job Seekers in All 50 States",
-      "link": "https://www.wsj.com/lifestyle/careers/what-i-learned-from-talking-to-job-seekers-in-all-50-states-3c848143?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 16:12:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Textron Selling Industrial Segment to Kingswood Capital for $1.2 Billion",
-      "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 13:11:00 GMT",
-      "sentiment": -0.05
-    },
-    {
-      "title": "The Morning Risk Report: SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-3d719200?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 12:56:00 GMT",
-      "sentiment": -0.12777777777777777
-    },
-    {
       "title": "HPE Adds Former JPMorgan Exec to Board, Amends Agreement With Elliott Investment",
       "link": "https://www.wsj.com/business/deals/hpe-adds-former-jpmorgan-exec-to-board-amends-agreement-with-elliott-investment-fb99517b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 22:02:00 GMT",
@@ -49,6 +49,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Textron Selling Industrial Segment to Kingswood Capital for $1.2 Billion",
+      "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 13:11:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
       "link": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 14:13:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
-      "link": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 17:10:00 GMT",
-      "sentiment": 0.10714285714285714
     },
     {
       "title": "Lowe’s Sales Rise, as Professional Customers Drive Growth",
@@ -193,6 +193,12 @@
       "sentiment": 0.1
     },
     {
+      "title": "Oil Falls, Weighed by Larger-Than-Expected Rise in U.S. Inventories",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 01:13:00 GMT",
+      "sentiment": -0.19999999999999998
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8dccf69b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 21:58:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/venture-global-pushes-to-expand-lng-production-amid-demand-growth-expectations-067008cf?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 19:27:00 GMT",
       "sentiment": -0.049999999999999996
-    },
-    {
-      "title": "U.S. Crude Oil Stockpiles Rise for Second Straight Week",
-      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-second-straight-week-086a0883?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 18:18:00 GMT",
-      "sentiment": -0.15555555555555556
     },
     {
       "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
@@ -325,6 +325,12 @@
       "sentiment": 0.2787878787878788
     },
     {
+      "title": "KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music",
+      "link": "https://www.wsj.com/pro/private-equity/kkr-joins-carlyle-to-pour-475-million-into-recording-rights-buyer-litmus-music-3eb71af8?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Kanye West’s Comeback Attempt Gains Traction After Apologies",
       "link": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 19:43:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/cmo-today/martha-stewart-warns-kalshi-users-about-insider-trading-1aedd51b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 14:23:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "The Four-Person Agency Cooking Up Kalshi Ads With Martha Stewart and Shane Gillis",
-      "link": "https://www.wsj.com/cmo-today/the-four-person-agency-cooking-up-kalshi-ads-with-martha-stewart-and-shane-gillis-4bd5af66?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 13:23:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -373,6 +373,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
+      "link": "https://www.wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 20:39:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Hear How the FAA’s Ground Stop Unfolded",
       "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:53:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 10:01:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Microsoft Service Restored After Widespread Outage, Company Says",
-      "link": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 14 Nov 2026 09:56:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
@@ -433,6 +433,18 @@
       "sentiment": 0.43333333333333335
     },
     {
+      "title": "What I Learned From Talking to Job Seekers in All 50 States",
+      "link": "https://www.wsj.com/lifestyle/careers/what-i-learned-from-talking-to-job-seekers-in-all-50-states-3c848143?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 16:12:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Morning Risk Report: SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-3d719200?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 12:56:00 GMT",
+      "sentiment": -0.12777777777777777
+    },
+    {
       "title": "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
       "link": "https://www.wsj.com/world/nvidias-strong-results-do-little-to-settle-questions-about-its-future-d1ba999d?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 10:50:00 GMT",
@@ -451,22 +463,22 @@
       "sentiment": -0.1
     },
     {
-      "title": "The SEC Is Investigating Nvidia",
-      "link": "https://www.wsj.com/business/the-sec-is-investigating-nvidia-c59a9845?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 22:43:00 GMT",
-      "sentiment": 0.04444444444444445
-    },
-    {
-      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 20:56:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
       "link": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 02:00:00 GMT",
       "sentiment": 0.09999999999999999
+    },
+    {
+      "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
+      "link": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 17:43:00 GMT",
+      "sentiment": 0.016666666666666663
+    },
+    {
+      "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
+      "link": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 07:24:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
@@ -479,18 +491,6 @@
       "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 20:56:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
-      "link": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 07:24:00 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
-      "link": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 17:43:00 GMT",
-      "sentiment": 0.016666666666666663
     },
     {
       "title": "Best Small-Business Loans in November 2026",
