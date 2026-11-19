@@ -1,21 +1,33 @@
 {
   "entries": [
     {
+      "title": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
+      "link": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+      "published": "Thu, 19 Nov 2026 03:54:30 +0000",
+      "sentiment": -0.03857142857142857
+    },
+    {
+      "title": "With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
+      "published": "Thu, 19 Nov 2026 02:58:29 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Alaska Republican Narrowly Defeats Independent House Candidate",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
-      "published": "Thu, 19 Nov 2026 02:47:11 +0000",
+      "published": "Thu, 19 Nov 2026 03:14:27 +0000",
       "sentiment": -0.014583333333333337
     },
     {
       "title": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
       "link": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
-      "published": "Thu, 19 Nov 2026 01:59:58 +0000",
+      "published": "Thu, 19 Nov 2026 03:42:19 +0000",
       "sentiment": 0.8
     },
     {
       "title": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
-      "published": "Thu, 19 Nov 2026 01:10:37 +0000",
+      "published": "Thu, 19 Nov 2026 02:54:47 +0000",
       "sentiment": 0.02727272727272727
     },
     {
@@ -37,9 +49,9 @@
       "sentiment": 0.11818181818181818
     },
     {
-      "title": "Fight Over Deportation Protections for Venezuelans Returns to Supreme Court",
+      "title": "Fight Over Deportation Protections for Venezuelans Escalates With Request to Supreme Court",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/supreme-court-trump-deportation-venezuelans.html",
-      "published": "Wed, 18 Nov 2026 22:42:02 +0000",
+      "published": "Thu, 19 Nov 2026 03:27:28 +0000",
       "sentiment": -0.16666666666666666
     },
     {
@@ -69,7 +81,7 @@
     {
       "title": "Trump Arrives in China Focused on Friendship With Xi, Not Nvidia Spy Scandal",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
-      "published": "Wed, 18 Nov 2026 18:52:04 +0000",
+      "published": "Thu, 19 Nov 2026 02:55:54 +0000",
       "sentiment": 0.32222222222222224
     },
     {
@@ -129,7 +141,7 @@
     {
       "title": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
       "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
-      "published": "Wed, 18 Nov 2026 21:43:13 +0000",
+      "published": "Wed, 18 Nov 2026 21:43:14 +0000",
       "sentiment": -0.033333333333333326
     },
     {
@@ -143,12 +155,6 @@
       "link": "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html",
       "published": "Wed, 18 Nov 2026 08:21:50 +0000",
       "sentiment": 0.19166666666666665
-    },
-    {
-      "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
-      "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
-      "published": "Wed, 18 Nov 2026 07:43:35 +0000",
-      "sentiment": 0.275
     }
   ]
 }
