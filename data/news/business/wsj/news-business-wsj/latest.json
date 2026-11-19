@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
+      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 15:34:00 GMT",
+      "sentiment": 0.09375
+    },
+    {
+      "title": "Who Will Succeed Mary Barra as GM’s Next CEO? A Look at Three Candidates",
+      "link": "https://www.wsj.com/business/autos/who-will-succeed-mary-barra-as-gms-next-ceo-a-look-at-three-candidates-1aaeaa17?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 15:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Why Anthropic Is Hiring a $400,000-a-Year Natural-Gas Supply Manager",
       "link": "https://www.wsj.com/business/energy-oil/why-anthropic-is-hiring-a-400-000-a-year-natural-gas-supply-manager-7c871e93?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 14:30:00 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "Walmart Sales Rise Powered by E-Commerce Gains",
-      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 13:44:00 GMT",
-      "sentiment": 0.11666666666666665
     },
     {
       "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 11:03:00 GMT",
       "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "See How Data Centers Became the Growth Engine of America’s Power Grid",
-      "link": "https://www.wsj.com/business/energy-oil/see-how-data-centers-became-the-growth-engine-of-americas-power-grid-70399f64?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.10416666666666667
     },
     {
       "title": "HPE Adds Former JPMorgan Exec to Board, Amends Agreement With Elliott Investment",
@@ -69,8 +69,8 @@
     {
       "title": "Evonik Shares Tumble After BASF Ends Takeover Efforts",
       "link": "https://www.wsj.com/business/evonik-shares-tumble-after-basf-ends-takeover-efforts-7cae3722?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 14:35:00 GMT",
-      "sentiment": 0.03333333333333333
+      "published": "Thu, 19 Nov 2026 15:29:00 GMT",
+      "sentiment": -0.041666666666666664
     },
     {
       "title": "Novartis Sees Sales Growth Through Next Round of Patent Expirations",
@@ -205,6 +205,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "See How Data Centers Became the Growth Engine of America’s Power Grid",
+      "link": "https://www.wsj.com/business/energy-oil/see-how-data-centers-became-the-growth-engine-of-americas-power-grid-70399f64?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.10416666666666667
+    },
+    {
       "title": "The Iran War Could Permanently Slash Reliance on Hormuz, IEA Says",
       "link": "https://www.wsj.com/business/energy-oil/the-iran-war-could-permanently-slash-reliance-on-hormuz-iea-says-eefd69b3?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 05:55:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 01:13:00 GMT",
       "sentiment": -0.19999999999999998
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8dccf69b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.10000000000000002
     },
     {
       "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
@@ -313,6 +313,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Marketers Level Up: The Unignorable Power of the Gamer Economy as ‘GTA VI’ Arrives",
+      "link": "https://www.wsj.com/cmo-today/marketers-level-up-the-unignorable-power-of-the-gamer-economy-as-gta-vi-arrives-334fc291?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 14:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
       "link": "https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 01:00:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/pro/private-equity/kkr-joins-carlyle-to-pour-475-million-into-recording-rights-buyer-litmus-music-3eb71af8?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": 0.06818181818181818
-    },
-    {
-      "title": "The Art and Science of Sports Sponsorships",
-      "link": "https://www.wsj.com/cio-journal/the-art-and-science-of-sports-sponsorships-370156d3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Strike Threat Rises at Ports of L.A. and Long Beach",
@@ -439,10 +439,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "How a Battered Industrial Corridor Beat the Odds and Reimagined Its Economy",
+      "title": "A Battered Industrial Center Reimagines Its Economy",
       "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0037878787878787845
+      "sentiment": 0.012121212121212116
     },
     {
       "title": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
@@ -475,15 +475,15 @@
       "sentiment": 0.016666666666666663
     },
     {
-      "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
-      "link": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 07:24:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Weil Gotshal Bankruptcy Team Heading to Skadden",
       "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 23:11:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
+      "link": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 18 Nov 2026 07:24:00 GMT",
       "sentiment": -0.1
     },
     {
@@ -495,13 +495,13 @@
     {
       "title": "Best Small-Business Loans in November 2026",
       "link": "https://www.wsj.com/buyside/personal-finance/business-loans/best-small-business-loans?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 13 Nov 2026 22:14:00 GMT",
+      "published": "Thu, 19 Nov 2026 14:56:00 GMT",
       "sentiment": 1.0
     },
     {
       "title": "Best Business Debt Consolidation Loans in November 2026",
       "link": "https://www.wsj.com/buyside/personal-finance/business-loans/business-debt-consolidation-loans?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 14:05:00 GMT",
+      "published": "Thu, 19 Nov 2026 15:23:00 GMT",
       "sentiment": 0.5
     },
     {
