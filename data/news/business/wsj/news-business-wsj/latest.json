@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+      "link": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 23:51:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump’s Personal Lawyer to Step Down as Sullivan & Cromwell Co-Chair",
       "link": "https://www.wsj.com/us-news/law/trumps-personal-lawyer-to-step-down-as-sullivan-cromwell-co-chair-f988b3e0?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 21:39:00 GMT",
@@ -31,9 +37,9 @@
       "sentiment": 0.2333333333333333
     },
     {
-      "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 12:22:00 GMT",
+      "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
+      "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 23:48:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -61,10 +67,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
-      "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
+      "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 22:26:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-e830e34e?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 22:10:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Gap Cuts Outlook After Warm Fall Weather Weighs on Sales",
+      "link": "https://www.wsj.com/business/earnings/gap-cuts-outlook-after-warm-fall-weather-weighs-on-sales-ca3ee7c3?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 22:01:00 GMT",
+      "sentiment": 0.14375
     },
     {
       "title": "Boston Beer Taps Operating Chief Hodges to Be Next CEO",
@@ -73,28 +91,10 @@
       "sentiment": -0.004797979797979801
     },
     {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/articles/health-care-roundup-market-talk-e830e34e?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 17:49:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Ubisoft Logs Strong Bookings as Players Welcome Assassin’s Creed Remake",
       "link": "https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 17:09:00 GMT",
       "sentiment": 0.13333333333333336
-    },
-    {
-      "title": "Evonik Shares Tumble After BASF Ends Takeover Efforts",
-      "link": "https://www.wsj.com/business/evonik-shares-tumble-after-basf-ends-takeover-efforts-7cae3722?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 15:29:00 GMT",
-      "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "Novartis Sees Sales Growth Through Next Round of Patent Expirations",
-      "link": "https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 12:47:00 GMT",
-      "sentiment": -0.046666666666666676
     },
     {
       "title": "Intuit to Sell Mailchimp for $3.68 Billion",
@@ -193,6 +193,18 @@
       "sentiment": 0.1
     },
     {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-fcde730a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 22:08:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-65309a9d?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 22:05:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Oil Futures End Volatile Session Near Flat",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 20:49:00 GMT",
@@ -209,18 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/u-s-diesel-prices-to-continue-to-fall-in-relief-for-consumers-u-s-energy-secretary-says-cfe83c18?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 20:12:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-fcde730a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 17:29:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "See How Data Centers Became the Growth Engine of America’s Power Grid",
-      "link": "https://www.wsj.com/business/energy-oil/see-how-data-centers-became-the-growth-engine-of-americas-power-grid-70399f64?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.10416666666666667
     },
     {
       "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
@@ -373,16 +373,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-3e9085fc?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 17:26:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
       "link": "https://www.wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 20:39:00 GMT",
       "sentiment": -0.0625
+    },
+    {
+      "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
+      "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Defense Contractor at the Center of the Ground Stop",
@@ -433,10 +433,22 @@
       "sentiment": -0.0625
     },
     {
+      "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 12:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
       "link": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 11:03:00 GMT",
       "sentiment": 0.21666666666666667
+    },
+    {
+      "title": "See How Data Centers Became the Growth Engine of America’s Power Grid",
+      "link": "https://www.wsj.com/business/energy-oil/see-how-data-centers-became-the-growth-engine-of-americas-power-grid-70399f64?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.10416666666666667
     },
     {
       "title": "Uber Co-Founder Kalanick Teases Protest at Nvidia as Calls for Huang’s Return Continue",
@@ -451,21 +463,9 @@
       "sentiment": 0.012121212121212116
     },
     {
-      "title": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
-      "link": "https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
-      "sentiment": -0.3888888888888889
-    },
-    {
-      "title": "Weil Gotshal Bankruptcy Team Heading to Skadden",
-      "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 23:11:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
       "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 20:12:00 GMT",
+      "published": "Thu, 19 Nov 2026 21:56:00 GMT",
       "sentiment": 0.0
     },
     {
