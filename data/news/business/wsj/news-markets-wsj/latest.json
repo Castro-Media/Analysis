@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Anthropic IPO Updates: AI Giant's Shares Jump in Largest IPO on Record",
+      "title": "Anthropic IPO Updates: AI Giant's Shares Jump, But Nasdaq, Dow Fall Again",
       "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 09:34:15 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 20:12:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
@@ -16,12 +22,6 @@
       "title": "What to Know About Anthropic’s Record-Breaking IPO",
       "link": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 18:14:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 15:52:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -133,9 +133,9 @@
       "sentiment": 0.2
     },
     {
-      "title": "Dow Leads Stocks Lower After Anthropic Starts Trading",
+      "title": "Investors Dumping AI Stocks to Buy Into Anthropic Send Tech Shares Lower",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 18:01:00 GMT",
+      "published": "Thu, 19 Nov 2026 20:22:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,15 +199,27 @@
       "sentiment": 0.3
     },
     {
-      "title": "Gold, Silver Futures Extend Losses",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 19:09:00 GMT",
-      "sentiment": 0.0
+      "title": "Oil Futures Pick Up as Middle East Risks Remain",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-supply-outlook-middle-east-shipping-risks-224e2724?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 20:49:00 GMT",
+      "sentiment": -0.0375
+    },
+    {
+      "title": "Crude Futures End Little Changed",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 20:44:00 GMT",
+      "sentiment": -0.16874999999999998
     },
     {
       "title": "U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
       "link": "https://www.wsj.com/business/energy-oil/u-s-diesel-prices-to-continue-to-fall-in-relief-for-consumers-u-s-energy-secretary-says-cfe83c18?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 18:52:00 GMT",
+      "published": "Thu, 19 Nov 2026 20:12:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gold, Silver Futures Extend Losses",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 19:09:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -215,18 +227,6 @@
       "link": "https://www.wsj.com/economy/canada-producer-prices-rise-again-in-october-buoyed-by-energy-products-e2caa281?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 14:35:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Time for Copper-Focused BHP to Show How It Can Grow",
-      "link": "https://www.wsj.com/business/time-for-copper-focused-bhp-to-show-how-it-can-grow-a713515a?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 07:06:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Oil Falls, Weighed by Larger-Than-Expected Rise in U.S. Inventories",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 01:13:00 GMT",
-      "sentiment": -0.19999999999999998
     },
     {
       "title": "Dollar Has Further Scope to Rally as Fed Could Out-Hike Peers",
