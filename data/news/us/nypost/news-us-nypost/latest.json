@@ -1,6 +1,48 @@
 {
   "entries": [
     {
+      "title": "Two teens shot by crew who fled on scooters in NYC park: cops",
+      "link": "https://nypost.com/2026/11/20/us-news/two-teens-shot-by-crew-on-scooters-in-nyc-park-cops/",
+      "published": "Fri, 20 Nov 2026 17:53:12 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russia open to ‘NATO-like’ status for Ukraine — but only if Putin can keep captured territory: US official",
+      "link": "https://nypost.com/2026/11/20/us-news/russia-open-to-nato-like-status-for-ukraine-but-only-if-putin-can-keep-captured-territory-us-official-2/",
+      "published": "Fri, 20 Nov 2026 17:50:36 -0500",
+      "sentiment": 0.0
+    },
+    {
+      "title": "New York can expect fewer ticks this year thanks to ‘Acorn Effect’",
+      "link": "https://nypost.com/2026/11/20/us-news/new-york-can-expect-fewer-ticks-this-year-thanks-to-acorn-effect/",
+      "published": "Fri, 20 Nov 2026 17:45:26 -0500",
+      "sentiment": 0.16818181818181818
+    },
+    {
+      "title": "Chinese national busted in sophisticated scheme to smuggle tens of millions of dollars in counterfeit goods through LA",
+      "link": "https://nypost.com/2026/11/20/us-news/chinese-national-caught-in-la-counterfeit-goods-smuggling-scheme/",
+      "published": "Fri, 20 Nov 2026 17:29:14 -0500",
+      "sentiment": 0.008333333333333333
+    },
+    {
+      "title": "Relative of family killed in NYC e-bike fire demands change: ‘I can’t bring them back’",
+      "link": "https://nypost.com/2026/11/20/us-news/relative-of-family-killed-in-bronx-e-bike-fire-demands-change-i-cant-bring-them-back/",
+      "published": "Fri, 20 Nov 2026 17:27:46 -0500",
+      "sentiment": -0.04
+    },
+    {
+      "title": "Families of victims murdered by California death row criminals back Trump’s meeting with loved ones",
+      "link": "https://nypost.com/2026/11/20/us-news/families-of-victims-murdered-by-california-death-row-inmates-back-trump-meeting/",
+      "published": "Fri, 20 Nov 2026 17:24:00 -0500",
+      "sentiment": 0.12499999999999997
+    },
+    {
+      "title": "When AI goes wild, the options for government intervention remain murky",
+      "link": "https://nypost.com/2026/11/20/us-news/when-ai-goes-wild-the-options-for-government-intervention-remain-murky/",
+      "published": "Fri, 20 Nov 2026 16:59:00 -0500",
+      "sentiment": 0.13333333333333333
+    },
+    {
       "title": "State Department official accused of lavish ‘vacations on taxpayer dime,’ triggering travel crackdown: ‘Rubio is fed up’",
       "link": "https://nypost.com/2026/11/20/us-news/state-department-official-accused-of-lavish-vacations-on-taxpayer-dime-triggering-travel-crackdown-rubio-is-fed-up/",
       "published": "Fri, 20 Nov 2026 16:49:27 -0500",
@@ -77,48 +119,6 @@
       "link": "https://nypost.com/2026/11/20/us-news/trump-thinks-he-can-make-a-deal-with-congressional-democrats-after-historic-blue-wave-midterms/",
       "published": "Fri, 20 Nov 2026 15:00:00 -0500",
       "sentiment": -0.04166666666666666
-    },
-    {
-      "title": "Trump stands by Howard Lutnick despite commerce secretary dismissing warning about Nvidia Chinese spy affair",
-      "link": "https://nypost.com/2026/11/20/us-news/trump-stands-by-howard-lutnick-amid-backlash-over-commerce-secs-handling-of-nvidia-chinese-spy-affair/",
-      "published": "Fri, 20 Nov 2026 14:47:37 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What Mamdani can expect after tearing his Achilles playing soccer: Tendon injuries explained",
-      "link": "https://nypost.com/2026/11/20/health/mamdani-injures-achilles-in-soccer-game-what-he-can-expect/",
-      "published": "Fri, 20 Nov 2026 14:44:56 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Woman says she was shackled to hospital bed, interrogated for hours after stillbirth: suit",
-      "link": "https://nypost.com/2026/11/20/us-news/woman-says-she-was-shackled-to-hospital-bed-interrogated-after-stillbirth/",
-      "published": "Fri, 20 Nov 2026 14:27:30 -0500",
-      "sentiment": -0.05
-    },
-    {
-      "title": "Iran has been ‘bullsh–ting people for 51 years,’ wants ‘fake deal’ to end war, Trump says",
-      "link": "https://nypost.com/2026/11/20/us-news/iran-wants-fake-deal-to-end-war-has-been-bullsh-ting-people-for-51-years-trump/",
-      "published": "Fri, 20 Nov 2026 14:25:44 -0500",
-      "sentiment": -0.09999999999999999
-    },
-    {
-      "title": "Marine Corps legend faces probe after questions about his relationships with students as JROTC instructor",
-      "link": "https://nypost.com/2026/11/20/us-news/marine-corps-legend-under-investigation-tied-to-his-time-as-high-school-instructor/",
-      "published": "Fri, 20 Nov 2026 14:18:12 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "What autopsy results reveal about Fiona the hippo’s tragic death",
-      "link": "https://nypost.com/2026/11/20/us-news/what-autopsy-results-reveal-about-fiona-the-hippos-death/",
-      "published": "Fri, 20 Nov 2026 14:11:05 -0500",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Trump to meet with victims of Gavin Newsom’s death penalty reversal as he blasts gov",
-      "link": "https://nypost.com/2026/11/20/us-news/trump-slams-gavin-newsoms-death-penalty-reversal-plans-to-meet-families/",
-      "published": "Fri, 20 Nov 2026 13:57:25 -0500",
-      "sentiment": -0.2
     }
   ]
 }
