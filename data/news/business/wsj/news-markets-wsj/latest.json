@@ -105,7 +105,7 @@
     {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-37edbe6f?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 17:26:00 GMT",
+      "published": "Fri, 20 Nov 2026 22:01:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -135,7 +135,7 @@
     {
       "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 21:27:00 GMT",
+      "published": "Fri, 20 Nov 2026 22:24:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -143,12 +143,6 @@
       "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 19:31:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-3af0bea5?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 17:24:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
@@ -161,6 +155,12 @@
       "link": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-e522fa66?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 22:10:00 GMT",
       "sentiment": 0.3
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-65309a9d?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 22:05:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Opinion | The Astonishing Wealth of Anthropic",
@@ -199,6 +199,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 22:09:00 GMT",
+      "sentiment": -0.09999999999999999
+    },
+    {
+      "title": "U.S. Natural Gas Futures Rise With Support From LNG Exports",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 22:04:00 GMT",
+      "sentiment": 0.03333333333333334
+    },
+    {
       "title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 21:16:00 GMT",
@@ -211,28 +223,16 @@
       "sentiment": -0.06666666666666667
     },
     {
-      "title": "Oil Futures Extend Decline on Improving Supply",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 15:00:00 GMT",
-      "sentiment": -0.2333333333333333
-    },
-    {
-      "title": "U.S. Natural Gas Futures Edge Up in Early Trading",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 14:33:00 GMT",
-      "sentiment": 0.10000000000000002
-    },
-    {
       "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 14:14:00 GMT",
       "sentiment": 0.16666666666666669
     },
     {
-      "title": "Dollar Falls as Risk Aversion Grips Wall Street",
+      "title": "WSJ Dollar Index Rises 0.42% This Week to 98.75",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 14:48:00 GMT",
-      "sentiment": 0.0
+      "published": "Fri, 20 Nov 2026 22:48:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "WSJ Dollar Index Rises to New 52-Week High",
