@@ -1,16 +1,28 @@
 {
   "entries": [
     {
-      "title": "Canada Retail Sales Pull Back After 0.8% Rise in September",
-      "link": "https://www.wsj.com/economy/consumers/canada-retail-sales-pull-back-after-0-8-rise-in-september-7f2f0568?mod=rss_socialeconomyfeed",
-      "published": "Fri, 20 Nov 2026 13:57:00 GMT",
-      "sentiment": 0.125
+      "title": "Consumer Sentiment Climbed in November",
+      "link": "https://www.wsj.com/economy/consumers/consumer-sentiment-climbed-in-november-3e9563d8?mod=rss_socialeconomyfeed",
+      "published": "Fri, 20 Nov 2026 15:39:00 GMT",
+      "sentiment": 0.10000000000000002
     },
     {
       "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
       "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_socialeconomyfeed",
-      "published": "Fri, 20 Nov 2026 10:38:00 GMT",
+      "published": "Fri, 20 Nov 2026 15:28:00 GMT",
       "sentiment": -0.022222222222222216
+    },
+    {
+      "title": "Week Ahead for FX, Bonds: Flash PMI Data to Provide Gauge on Economic Growth",
+      "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-flash-pmi-data-to-provide-gauge-on-economic-growth-86c1a572?mod=rss_socialeconomyfeed",
+      "published": "Fri, 20 Nov 2026 15:14:00 GMT",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Canada Retail Sales Pull Back After 0.8% Rise in September",
+      "link": "https://www.wsj.com/economy/consumers/canada-retail-sales-pull-back-after-0-8-rise-in-september-7f2f0568?mod=rss_socialeconomyfeed",
+      "published": "Fri, 20 Nov 2026 13:57:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "British business bank OakNorth, whose shareholders include Jared Kushner’s Affinity Partners investment firm and the SoftBank Vision Fund, received a full-charter U.S. banking license",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/uk/u-k-government-borrowed-more-in-october-but-is-on-track-for-smaller-deficit-f5209c71?mod=rss_socialeconomyfeed",
       "published": "Fri, 20 Nov 2026 07:53:00 GMT",
       "sentiment": 0.1
-    },
-    {
-      "title": "Spain Remains Europe’s Star Economy. Why Don’t People Feel Richer?",
-      "link": "https://www.wsj.com/economy/spain-remains-europes-star-economy-why-dont-people-feel-richer-cfa35091?mod=rss_socialeconomyfeed",
-      "published": "Fri, 20 Nov 2026 07:41:00 GMT",
-      "sentiment": 0.049999999999999996
-    },
-    {
-      "title": "U.K. Consumer Confidence Picks Up Despite Rising Headwinds",
-      "link": "https://www.wsj.com/economy/consumers/u-k-consumer-confidence-picks-up-despite-rising-headwinds-b79bb251?mod=rss_socialeconomyfeed",
-      "published": "Fri, 20 Nov 2026 07:32:00 GMT",
-      "sentiment": 0.04166666666666667
     },
     {
       "title": "Cost Pressures Already in Pipeline to Fuel Higher Inflation",
@@ -127,6 +127,12 @@
       "sentiment": -0.10000000000000002
     },
     {
+      "title": "U.K. Consumer Confidence Picks Up Despite Rising Headwinds",
+      "link": "https://www.wsj.com/economy/consumers/u-k-consumer-confidence-picks-up-despite-rising-headwinds-b79bb251?mod=rss_socialeconomyfeed",
+      "published": "Fri, 20 Nov 2026 07:32:00 GMT",
+      "sentiment": 0.04166666666666667
+    },
+    {
       "title": "Shoppers’ complaints about food prices could soon grow louder, as surging energy costs and supply-chain delays are elevating costs for producers: “The worst is yet to come”",
       "link": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_socialeconomyfeed",
       "published": "Sat, 14 Nov 2026 01:00:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/economy/consumers/canada-retail-sales-look-to-build-on-augusts-rebound-c80f8bec?mod=rss_socialeconomyfeed",
       "published": "Fri, 23 Oct 2026 15:04:00 GMT",
       "sentiment": 0.08
-    },
-    {
-      "title": "Consumer Sentiment Declined Slightly in October",
-      "link": "https://www.wsj.com/economy/consumers/consumer-sentiment-declined-slightly-in-october-bae24944?mod=rss_socialeconomyfeed",
-      "published": "Fri, 23 Oct 2026 14:17:00 GMT",
-      "sentiment": -0.07407407407407406
     },
     {
       "title": "Eurozone Goods-Trade Deficit Widens on Higher Energy Prices",
