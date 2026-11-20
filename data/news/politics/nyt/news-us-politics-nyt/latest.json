@@ -1,15 +1,27 @@
 {
   "entries": [
     {
+      "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+      "published": "Fri, 20 Nov 2026 18:51:22 +0000",
+      "sentiment": -0.024999999999999998
+    },
+    {
+      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "published": "Fri, 20 Nov 2026 18:05:36 +0000",
+      "sentiment": 0.10000000000000002
+    },
+    {
       "title": "Takeaways From ‘Melania: The Series,’ a Coda to the Film on the First Lady",
       "link": "https://www.nytimes.com/2026/11/20/arts/television/melania-the-series-takeaways.html",
-      "published": "Fri, 20 Nov 2026 17:41:53 +0000",
+      "published": "Fri, 20 Nov 2026 17:56:25 +0000",
       "sentiment": 0.08333333333333333
     },
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
-      "published": "Fri, 20 Nov 2026 17:45:05 +0000",
+      "published": "Fri, 20 Nov 2026 18:53:16 +0000",
       "sentiment": 0.5
     },
     {
@@ -75,7 +87,7 @@
     {
       "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
       "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-      "published": "Fri, 20 Nov 2026 17:43:49 +0000",
+      "published": "Fri, 20 Nov 2026 18:21:13 +0000",
       "sentiment": 0.4041666666666666
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
       "published": "Thu, 19 Nov 2026 12:08:19 +0000",
       "sentiment": -0.1392857142857143
-    },
-    {
-      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-      "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "published": "Thu, 19 Nov 2026 16:39:37 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "In Bending to Trump, Law Firm Did $11.8 Million of Free Work for Administration",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/kirkland-ellis-law-firm-trump.html",
-      "published": "Thu, 19 Nov 2026 14:38:55 +0000",
-      "sentiment": 0.08
     }
   ]
 }
