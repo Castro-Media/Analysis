@@ -73,16 +73,16 @@
       "sentiment": 0.10833333333333334
     },
     {
-      "title": "High tides, big storms: Next week will be key test as El Niño pounds California coast",
-      "link": "https://www.latimes.com/california/story/2026-11-19/high-tides-big-storms-next-week-will-be-key-test-as-el-nino-pounds-california-coast",
-      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.017037037037037038
-    },
-    {
       "title": "Can prosecutors block Newsom's move to wipe out death sentences? It's unlikely, experts say",
       "link": "https://www.latimes.com/california/story/2026-11-19/california-prosecutors-newsom-death-penalty-commutation-challenge",
       "published": "Thu, 19 Nov 2026 11:00:00 GMT",
       "sentiment": -0.075
+    },
+    {
+      "title": "High tides, big storms: Next week will be key test as El Niño pounds California coast",
+      "link": "https://www.latimes.com/california/story/2026-11-19/high-tides-big-storms-next-week-will-be-key-test-as-el-nino-pounds-california-coast",
+      "published": "Thu, 19 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.017037037037037038
     },
     {
       "title": "L.A. County child protective services worker charged with molesting 5 children while on the job",
@@ -253,16 +253,10 @@
       "sentiment": -0.20000000000000004
     },
     {
-      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
-      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03174603174603175
-    },
-    {
-      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
-      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
@@ -271,10 +265,16 @@
       "sentiment": 0.4454545454545455
     },
     {
-      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
-      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
+      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
+      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
+      "sentiment": -0.2
+    },
+    {
+      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
+      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03174603174603175
     },
     {
       "title": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
@@ -391,6 +391,18 @@
       "sentiment": 0.08
     },
     {
+      "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
+      "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
+      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
       "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
@@ -407,18 +419,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/la-me-county-executive-race",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
-      "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
-      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.04545454545454545
     },
     {
       "title": "Family of Franklin High student who died at school files damage claims against LAUSD",
@@ -535,14 +535,14 @@
       "sentiment": 0.0
     },
     {
-      "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
-      "link": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
+      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
+      "link": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
     {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "link": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
+      "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
+      "link": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
       "published": "Sat, 14 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },

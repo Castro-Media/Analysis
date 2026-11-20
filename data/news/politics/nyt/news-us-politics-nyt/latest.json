@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Top White House Cybersecurity Official Steps Down",
+      "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
+      "link": "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html",
+      "published": "Fri, 20 Nov 2026 03:47:05 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Top White House Cybersecurity Official Is Replaced",
       "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "published": "Fri, 20 Nov 2026 00:57:25 +0000",
-      "sentiment": 0.02361111111111111
+      "published": "Fri, 20 Nov 2026 03:31:41 +0000",
+      "sentiment": 0.08333333333333333
     },
     {
       "title": "Elon Musk Backs Away From MAGA and the Trump Presidency He Shaped",
@@ -15,7 +21,7 @@
     {
       "title": "Agriculture Secretary’s Christian Messages to Staff Went ‘Too Far,’ Judge Says",
       "link": "https://www.nytimes.com/2026/11/19/us/politics/rollins-christian-messages.html",
-      "published": "Thu, 19 Nov 2026 22:45:36 +0000",
+      "published": "Fri, 20 Nov 2026 02:52:59 +0000",
       "sentiment": 0.0875
     },
     {
@@ -69,7 +75,7 @@
     {
       "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
       "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "published": "Thu, 19 Nov 2026 16:39:36 +0000",
+      "published": "Thu, 19 Nov 2026 16:39:37 +0000",
       "sentiment": 0.0
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
       "published": "Thu, 19 Nov 2026 01:16:33 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "‘I’m Not MAGA’: Musk Plays Down G.O.P. Support After Midterm Loss",
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
-      "published": "Thu, 19 Nov 2026 00:58:47 +0000",
-      "sentiment": -0.05111111111111111
     }
   ]
 }
