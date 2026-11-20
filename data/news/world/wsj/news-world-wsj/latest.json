@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad",
+      "link": "https://www.wsj.com/politics/policy/trump-escapes-turmoil-at-home-by-seeking-out-a-friendlier-audience-abroad-da8c04d0?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 02:18:00 GMT",
+      "sentiment": -0.1125
+    },
+    {
+      "title": "U.S. Has Floated NATO Membership for Ukraine in Recent Meetings",
+      "link": "https://www.wsj.com/world/europe/u-s-has-floated-nato-membership-for-ukraine-in-recent-meetings-d5c8243a?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
+      "link": "https://www.wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 01:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Israeli Spy Chief Pressed for Renewed Iran Strikes During U.S. Visit",
       "link": "https://www.wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 20:39:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 18:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Consortium Wins Bid to Prospect at $62 Billion Kenyan Rare-Earth Deposit",
-      "link": "https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 17:44:00 GMT",
-      "sentiment": 0.15
-    },
-    {
-      "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
-      "link": "https://www.wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 15:32:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "World Court Finds Myanmar Committed Genocide Against Rohingya",
-      "link": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 12:50:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
@@ -67,6 +67,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Consortium Wins Bid to Prospect at $62 Billion Kenyan Rare-Earth Deposit",
+      "link": "https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 17:44:00 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "World Court Finds Myanmar Committed Genocide Against Rohingya",
+      "link": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 12:50:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 12:22:00 GMT",
@@ -82,18 +94,6 @@
       "title": "Trump Returns to World Stage After Midterm Setback",
       "link": "https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 13:35:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nvidia Forms National-Security Committee After Huang’s Exit",
-      "link": "https://www.wsj.com/politics/national-security/nvidia-forms-national-security-committee-after-huangs-exit-c3261fc2?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 12:57:00 GMT",
-      "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
-      "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 06:49:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -395,12 +395,6 @@
       "link": "https://www.wsj.com/world/nvidias-strong-results-do-little-to-settle-questions-about-its-future-d1ba999d?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 10:50:00 GMT",
       "sentiment": 0.08194444444444444
-    },
-    {
-      "title": "He Runs One of the World’s Deadliest Military Forces. We Went Inside His Bunker.",
-      "link": "https://www.wsj.com/world/he-runs-one-of-the-worlds-deadliest-military-forces-we-went-inside-his-bunker-ba042402?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
