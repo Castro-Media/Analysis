@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "Why can people with low bad cholesterol still have heart attacks?",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/why-can-people-with-low-bad-cholesterol-still-have-heart-attacks-swedish-scientists-who-studied-nearly-3000-blood-proteins-point-to-two-other-fat-carrying-particles-that-may-inflame-arteries/articleshow/135978987.cms",
+      "published": "2026-11-20T12:54:57+05:30",
+      "sentiment": 0.009523809523809537
+    },
+    {
+      "title": "Christie’s Auction Withdrawal: Christie’s pulled Kahlo painting; 1953 return complicates export claims",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-frida-kahlo-painting-expected-to-sell-for-up-to-3-5-million-was-withdrawn-from-a-christies-auction-in-new-york-just-hours-before-bidding-after-questions-emerged-over-its-ownership-and-how-it-left-mexico/articleshow/136011762.cms",
+      "published": "2026-11-20T12:47:04+05:30",
+      "sentiment": 0.20404040404040402
+    },
+    {
+      "title": "Canadian man discovers long-lost half-brother in Netherlands after 80 years",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/an-at-home-dna-test-solved-an-80-year-family-mystery-for-a-canadian-man-he-discovered-his-long-lost-half-brother-living-thousands-of-miles-away-in-the-netherlands/articleshow/136015201.cms",
+      "published": "2026-11-20T11:37:51+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bristol's 600-year-old Ashton Court Mansion could finally be restored after councillors backed a 125-year lease to a community trust, but the group has raised only £125,000 toward its early funding target",
+      "link": "https://timesofindia.indiatimes.com/world/uk/bristols-600-year-old-ashton-court-mansion-could-finally-be-restored-after-councillors-backed-a-125-year-lease-to-a-community-trust-but-the-group-has-raised-only-125000-toward-its-early-funding-target/articleshow/135980108.cms",
+      "published": "2026-11-20T12:07:43+05:30",
+      "sentiment": -0.037500000000000006
+    },
+    {
+      "title": "Florida student meets 7-year-old boy whose life she saved",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-florida-state-university-student-joined-a-bone-marrow-registry-in-2019-her-donation-saved-a-7-year-old-boys-life-and-years-later-he-finally-met-the-woman-who-gave-him-a-second-chance/articleshow/136015231.cms",
+      "published": "2026-11-20T11:47:45+05:30",
+      "sentiment": 0.0
+    },
+    {
       "title": "Prosecution Withdrawal: Powys Council drops case; renovation approval remains unconfirmed",
       "link": "https://timesofindia.indiatimes.com/world/uk/four-friends-paid-1-3-million-for-a-derelict-welsh-mansion-built-in-1776-and-spent-700000-restoring-it-after-facing-prosecution-over-alleged-unauthorised-work-the-local-council-dropped-its-case/articleshow/136010800.cms",
       "published": "2026-11-20T11:05:56+05:30",
@@ -79,46 +109,16 @@
       "sentiment": 0.125
     },
     {
+      "title": "Isolated tribe Awá emereges from Brazilian Amazon forest amid alarming threats by illegal invaders",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/isolated-tribe-aw-emereges-from-brazilian-amazon-forest-amid-alarming-threats-by-illegal-invaders/articleshow/135985625.cms",
+      "published": "2026-11-19T15:51:59+05:30",
+      "sentiment": -0.22000000000000003
+    },
+    {
       "title": "US prosecutor declines charges against white cop who killed Black man",
       "link": "https://timesofindia.indiatimes.com/world/us/us-prosecutor-declines-charges-against-white-cop-who-killed-black-man/articleshow/136010364.cms",
       "published": "2026-11-20T07:55:54+05:30",
       "sentiment": -0.07833333333333334
-    },
-    {
-      "title": "6 dead, including child, after suspected gas explosion levels building in Georgia",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/6-dead-including-child-after-suspected-gas-explosion-levels-building-in-georgia/articleshow/136009645.cms",
-      "published": "2026-11-20T07:13:11+05:30",
-      "sentiment": -0.05714285714285715
-    },
-    {
-      "title": "Ross Defends GTA 6 Gameplay: He denies racial targeting; says he kills everyone",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/i-kill-everyone-adin-ross-responds-after-gta-6-gameplay-sparks-racism-accusations/articleshow/136006378.cms",
-      "published": "2026-11-20T04:06:32+05:30",
-      "sentiment": -0.07333333333333333
-    },
-    {
-      "title": "PS5 Shutdown: Jasontheween loses 11 hours of GTA 6 progress; police visit prompts unconfirmed swatting claims",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/theres-no-way-jasontheween-breaks-down-after-losing-11-hours-of-gta-6-progress/articleshow/136005464.cms",
-      "published": "2026-11-20T03:56:19+05:30",
-      "sentiment": -0.12857142857142856
-    },
-    {
-      "title": "Skunkape Quest: Players report Bigfoot-like creature; night encounters may unlock quest",
-      "link": "https://timesofindia.indiatimes.com/sports/esports/gta/gta-6-bigfoot-explained-players-discover-mysterious-skunkape-and-unlock-hidden-quest/articleshow/136009111.cms",
-      "published": "2026-11-20T06:11:35+05:30",
-      "sentiment": -0.03333333333333334
-    },
-    {
-      "title": "Asmongold's Comments: Streamer rates GTA VI 9/10; criticises Jason Duval's character",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/come-up-with-other-games-gta-vi-faces-fresh-backlash-as-asmongold-calls-its-storyline-a-female-fantasy/articleshow/136007559.cms",
-      "published": "2026-11-20T05:31:00+05:30",
-      "sentiment": 0.1875
-    },
-    {
-      "title": "Asmongold Rates GTA 6 9/10: Asmongold criticises Jason Duval; says he enjoyed the game",
-      "link": "https://timesofindia.indiatimes.com/world/us-streamers/jason-isnt-that-great-asmongold-criticises-gta-6-character-while-rating-game-9/10/articleshow/136006808.cms",
-      "published": "2026-11-20T04:25:00+05:30",
-      "sentiment": 0.01196581196581196
     }
   ]
 }
