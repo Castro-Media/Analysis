@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Rout Deepens as Anthropic Stock Slides",
+      "title": "Stock Market Today: Tech Rout Deepens as Nvidia, Anthropic Slide",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 10:08:25 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Nasdaq Turns Red For The Year",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 21:50:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Anthropic’s IPO Bust Caps $4 Trillion AI Wipeout on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 21:03:00 GMT",
+      "sentiment": -0.4326388888888889
     },
     {
       "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
@@ -37,12 +49,6 @@
       "sentiment": 0.25
     },
     {
-      "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
-      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 05:40:00 GMT",
-      "sentiment": -0.18333333333333335
-    },
-    {
       "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
       "link": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 18:19:00 GMT",
@@ -65,12 +71,6 @@
       "link": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=rss_markets_main",
       "published": "Mon, 16 Nov 2026 10:30:00 GMT",
       "sentiment": -0.09999999999999999
-    },
-    {
-      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-      "link": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
-      "published": "Sun, 15 Nov 2026 10:30:00 GMT",
-      "sentiment": -0.325
     },
     {
       "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
@@ -115,6 +115,12 @@
       "sentiment": 0.75
     },
     {
+      "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 05:40:00 GMT",
+      "sentiment": -0.18333333333333335
+    },
+    {
       "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
       "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 00:00:00 GMT",
@@ -127,10 +133,10 @@
       "sentiment": 0.012121212121212116
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-e522fa66?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 22:10:00 GMT",
-      "sentiment": 0.3
+      "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 21:27:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Tech Rout Deepens as Anthropic Stock Slides",
@@ -151,16 +157,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-65309a9d?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 22:05:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "U.S. Stocks Slide as AI Bust Continues Despite Anthropic IPO",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-bust-continues-despite-anthropic-ipo-5a14e137?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 22:04:00 GMT",
-      "sentiment": -0.16666666666666666
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-e522fa66?mod=rss_markets_main",
+      "published": "Thu, 19 Nov 2026 22:10:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Opinion | The Astonishing Wealth of Anthropic",
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 21:16:00 GMT",
+      "sentiment": 0.09
+    },
+    {
       "title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 20:18:00 GMT",
@@ -221,12 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 14:14:00 GMT",
       "sentiment": 0.16666666666666669
-    },
-    {
-      "title": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 12:37:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Dollar Falls as Risk Aversion Grips Wall Street",
