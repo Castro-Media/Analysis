@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Denmark Accuses Russia of Trying to Kill Ukrainian Rapper",
+      "link": "https://www.wsj.com/world/europe/denmark-accuses-russia-of-trying-to-kill-ukrainian-rapper-a3a5e34c?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 20:52:00 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "How the Myanmar Genocide Ruling Raises the Stakes for Israel",
+      "link": "https://www.wsj.com/world/middle-east/how-the-myanmar-genocide-ruling-raises-the-stakes-for-israel-476feb2f?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 20:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "New Satellite Photos Show Expansion of North Korean Uranium-Enrichment Plant",
+      "link": "https://www.wsj.com/world/asia/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-f23c5512?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 20:16:00 GMT",
+      "sentiment": 0.03484848484848484
+    },
+    {
       "title": "Indian Man Sentenced to Almost 20 Years in Murder-for-Hire Plot on U.S. Soil",
       "link": "https://www.wsj.com/world/india/indian-man-sentenced-to-almost-20-years-in-murder-for-hire-plot-on-u-s-soil-cdeaf72a?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 18:57:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/world/uk/after-brexit-britains-government-floats-breturn-796e429f?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 14:24:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Russia Steps Up Attacks on Kyiv’s Bridges",
-      "link": "https://www.wsj.com/world/russia-steps-up-attacks-on-kyivs-bridges-a5b8a8e8?mod=rss_worldnews",
-      "published": "Fri, 20 Nov 2026 13:34:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "U.S. Has Floated NATO Membership for Ukraine in Recent Meetings",
-      "link": "https://www.wsj.com/world/europe/u-s-has-floated-nato-membership-for-ukraine-in-recent-meetings-d5c8243a?mod=rss_worldnews",
-      "published": "Fri, 20 Nov 2026 12:11:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad",
-      "link": "https://www.wsj.com/politics/policy/trump-escapes-turmoil-at-home-by-seeking-out-a-friendlier-audience-abroad-da8c04d0?mod=rss_worldnews",
-      "published": "Fri, 20 Nov 2026 02:18:00 GMT",
-      "sentiment": -0.1125
     },
     {
       "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
@@ -157,6 +157,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Opinion | Chips Aren’t a Magic Bullet for China Risks",
+      "link": "https://www.wsj.com/opinion/chips-arent-a-magic-bullet-for-china-risks-772e6d4a?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 19:55:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Opinion | Ukraine’s Long Russian War",
       "link": "https://www.wsj.com/opinion/ukraines-long-russian-war-6c14160f?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 17:12:00 GMT",
@@ -187,12 +193,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Opinion | Extreme Poverty Is a Thing of the Past in India",
-      "link": "https://www.wsj.com/opinion/extreme-poverty-is-a-thing-of-the-past-in-india-a6f7b0a9?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 22:56:00 GMT",
-      "sentiment": -0.1875
-    },
-    {
       "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
       "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 15:28:00 GMT",
@@ -202,6 +202,12 @@
       "title": "EU Open to ‘Closest Possible Relationship’ With U.K., Chief Says",
       "link": "https://www.wsj.com/world/europe/eu-open-to-closest-possible-relationship-with-u-k-chief-says-f2206559?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 14:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "U.S. Has Floated NATO Membership for Ukraine in Recent Meetings",
+      "link": "https://www.wsj.com/world/europe/u-s-has-floated-nato-membership-for-ukraine-in-recent-meetings-d5c8243a?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 12:11:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/poland-expects-deal-with-u-s-consortium-for-50-billion-nuclear-power-plant-8cd6a356?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 15:03:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "UniCredit Strikes Deal With Germany to Clear Path for Commerzbank Takeover",
-      "link": "https://www.wsj.com/business/unicredit-strikes-deal-with-germany-to-clear-path-for-commerzbank-takeover-8668f619?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 09:31:00 GMT",
-      "sentiment": 0.06666666666666667
     },
     {
       "title": "Trump, Xi, Putin End Historic Summit With Denunciation of Nuclear War",
@@ -373,16 +373,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Russia Steps Up Attacks on Kyiv’s Bridges",
+      "link": "https://www.wsj.com/world/russia-steps-up-attacks-on-kyivs-bridges-a5b8a8e8?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 13:34:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad",
+      "link": "https://www.wsj.com/politics/policy/trump-escapes-turmoil-at-home-by-seeking-out-a-friendlier-audience-abroad-da8c04d0?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 02:18:00 GMT",
+      "sentiment": -0.1125
+    },
+    {
       "title": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
       "link": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 11:03:00 GMT",
       "sentiment": 0.21666666666666667
-    },
-    {
-      "title": "See How Ukraine Hit Putin’s Showpiece Bridge",
-      "link": "https://www.wsj.com/world/see-how-ukraine-hit-putins-showpiece-bridge-83bbcbe6?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 17:15:00 GMT",
-      "sentiment": 0.10000000000000005
     },
     {
       "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
