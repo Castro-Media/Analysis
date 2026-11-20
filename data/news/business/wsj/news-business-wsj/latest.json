@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "A Navy Fighter Pilot’s Worst Fear: Forgetting His Uncrustables",
+      "link": "https://www.wsj.com/lifestyle/workplace/us-navy-uncrustables-smuckers-aircraft-carrier-04fa4784?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 10:30:00 GMT",
+      "sentiment": -1.0
+    },
+    {
       "title": "Parents Are ‘Flying Blind’ in an Exploding Autism-Therapy Industry",
       "link": "https://www.wsj.com/health/healthcare/autism-therapy-aba-parents-34cf1cc0?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 02:00:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 18:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
-      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 15:34:00 GMT",
-      "sentiment": 0.09375
     },
     {
       "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
@@ -97,6 +97,18 @@
       "sentiment": 0.13333333333333336
     },
     {
+      "title": "Lufthansa to Cut 1,000 Jobs at Flagship Airline as Challenges Mount",
+      "link": "https://www.wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 10:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
+      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 15:34:00 GMT",
+      "sentiment": 0.09375
+    },
+    {
       "title": "Temu Owner Reports Flat Profit, Revenue as Challenges Continue",
       "link": "https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 12:40:00 GMT",
@@ -113,18 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/babcock-shares-climb-on-earnings-beat-push-into-drones-6f490fba?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 11:25:00 GMT",
       "sentiment": 0.34545454545454546
-    },
-    {
-      "title": "Lenovo Maintains Revenue Momentum on AI-Fueled Hardware Demand",
-      "link": "https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 11:01:00 GMT",
-      "sentiment": 0.2111111111111111
-    },
-    {
-      "title": "Soitec Shares Climb on Guidance, Cash Deposits as Strong AI Demand Boosts Visibility",
-      "link": "https://www.wsj.com/business/retail/soitec-shares-climb-on-guidance-cash-deposits-as-strong-ai-demand-boosts-visibility-f24ef65a?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 10:07:00 GMT",
-      "sentiment": 0.15416666666666667
     },
     {
       "title": "Who Will Succeed Mary Barra as GM’s Next CEO? A Look at Three Candidates",
