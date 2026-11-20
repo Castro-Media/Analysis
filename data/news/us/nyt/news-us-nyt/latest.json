@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "L.A. Wants to Clean Up MacArthur Park. Will Fencing It Off Work?",
+      "link": "https://www.nytimes.com/2026/11/20/us/los-angeles-macarthur-park-fence.html",
+      "published": "Fri, 20 Nov 2026 17:24:35 +0000",
+      "sentiment": 0.10333333333333332
+    },
+    {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
-      "published": "Fri, 20 Nov 2026 16:30:33 +0000",
+      "published": "Fri, 20 Nov 2026 17:45:05 +0000",
       "sentiment": 0.5
     },
     {
@@ -19,10 +25,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Texas Execution Took an Hour as Prisoner Moaned in Pain, Witnesses Say",
+      "title": "Texas Prisoner Moaned as Drugs Flowed During Execution, Witnesses Say",
       "link": "https://www.nytimes.com/2026/11/20/us/texas-execution-lethal-injection-reinaldo-dennes.html",
-      "published": "Fri, 20 Nov 2026 15:41:34 +0000",
-      "sentiment": 0.0
+      "published": "Fri, 20 Nov 2026 17:31:55 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "2 Earthquakes Strike Los Angeles Area and Central California",
@@ -125,18 +131,6 @@
       "link": "https://www.nytimes.com/2026/11/19/us/lindsay-clancy-trial-juror-appeal.html",
       "published": "Thu, 19 Nov 2026 21:20:41 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "The Secret History of a 1972 Case on Press Freedom",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/the-docket-secret-history-press-freedom.html",
-      "published": "Thu, 19 Nov 2026 17:10:03 +0000",
-      "sentiment": -0.3458333333333333
-    },
-    {
-      "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
-      "published": "Thu, 19 Nov 2026 17:05:18 +0000",
-      "sentiment": 0.0
     }
   ]
 }
