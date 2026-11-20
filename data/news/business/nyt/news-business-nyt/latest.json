@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
+      "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+      "published": "Fri, 20 Nov 2026 19:39:26 +0000",
+      "sentiment": -0.07777777777777778
+    },
+    {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
       "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
       "published": "Fri, 20 Nov 2026 18:51:22 +0000",
@@ -15,7 +21,7 @@
     {
       "title": "Inside the Fight Between Native American Tribes and Kalshi",
       "link": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
-      "published": "Fri, 20 Nov 2026 17:09:16 +0000",
+      "published": "Fri, 20 Nov 2026 19:25:32 +0000",
       "sentiment": 0.125
     },
     {
@@ -45,8 +51,8 @@
     {
       "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
       "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-      "published": "Fri, 20 Nov 2026 18:44:04 +0000",
-      "sentiment": -0.5
+      "published": "Fri, 20 Nov 2026 19:41:08 +0000",
+      "sentiment": 0.21666666666666667
     },
     {
       "title": "How the U.S. Economy Is Tied to A.I.",
@@ -57,7 +63,7 @@
     {
       "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
       "link": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-      "published": "Fri, 20 Nov 2026 10:02:23 +0000",
+      "published": "Fri, 20 Nov 2026 19:15:29 +0000",
       "sentiment": 0.13792517006802724
     },
     {
@@ -275,12 +281,6 @@
       "link": "https://www.nytimes.com/2026/11/18/business/watch-elon-musk-dealbook-summit-not-maga.html",
       "published": "Thu, 19 Nov 2026 00:42:20 +0000",
       "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Watch: Robinhood’s C.E.O. Says He Shouldn’t Decide What You Can Trade",
-      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/adena-friedman-vlad-tenev-shayne-copland-dealbook-summit.html",
-      "published": "Thu, 19 Nov 2026 01:37:25 +0000",
-      "sentiment": 0.25
     }
   ]
 }
