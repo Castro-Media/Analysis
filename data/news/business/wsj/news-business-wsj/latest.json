@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Trump’s Personal Lawyer to Step Back as Sullivan & Cromwell Co-Chair",
+      "link": "https://www.wsj.com/us-news/law/trumps-personal-lawyer-to-step-down-as-sullivan-cromwell-co-chair-f988b3e0?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 00:50:00 GMT",
+      "sentiment": -0.015909090909090914
+    },
+    {
+      "title": "California Attorney General Issues Investigative Subpoena to Nvidia",
+      "link": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 00:01:00 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
       "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
       "link": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 23:51:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Trump’s Personal Lawyer to Step Down as Sullivan & Cromwell Co-Chair",
-      "link": "https://www.wsj.com/us-news/law/trumps-personal-lawyer-to-step-down-as-sullivan-cromwell-co-chair-f988b3e0?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 21:39:00 GMT",
-      "sentiment": -0.054797979797979804
     },
     {
       "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
@@ -31,10 +37,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Why Anthropic Is Hiring a $400,000-a-Year Natural-Gas Supply Manager",
-      "link": "https://www.wsj.com/business/energy-oil/why-anthropic-is-hiring-a-400-000-a-year-natural-gas-supply-manager-7c871e93?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 14:30:00 GMT",
-      "sentiment": 0.2333333333333333
+      "title": "Intuit Selling Mailchimp for $3.68 Billion to Berkshire Hathaway-Backed Bending Spoons",
+      "link": "https://www.wsj.com/business/earnings/intuit-to-sell-mailchimp-for-3-68-billion-33f03f9c?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 23:53:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 13:11:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
-      "link": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 14:13:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
@@ -97,12 +97,6 @@
       "sentiment": 0.13333333333333336
     },
     {
-      "title": "Intuit to Sell Mailchimp for $3.68 Billion",
-      "link": "https://www.wsj.com/business/earnings/intuit-to-sell-mailchimp-for-3-68-billion-33f03f9c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 21:35:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Temu Owner Reports Flat Profit, Revenue as Challenges Continue",
       "link": "https://www.wsj.com/business/earnings/temu-owner-reports-flat-profit-revenue-as-challenges-continue-039f7d3e?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 12:40:00 GMT",
@@ -125,6 +119,12 @@
       "link": "https://www.wsj.com/business/earnings/lenovo-maintains-revenue-momentum-on-ai-fueled-hardware-demand-852daa09?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 11:01:00 GMT",
       "sentiment": 0.2111111111111111
+    },
+    {
+      "title": "Soitec Shares Climb on Guidance, Cash Deposits as Strong AI Demand Boosts Visibility",
+      "link": "https://www.wsj.com/business/retail/soitec-shares-climb-on-guidance-cash-deposits-as-strong-ai-demand-boosts-visibility-f24ef65a?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 10:07:00 GMT",
+      "sentiment": 0.15416666666666667
     },
     {
       "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
@@ -379,6 +379,12 @@
       "sentiment": -0.0625
     },
     {
+      "title": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
+      "link": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 17 Nov 2026 14:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Quebecor Makes $21.96 Billion Bid for Telus in Canadian Telecom Deal",
       "link": "https://www.wsj.com/business/deals/quebecor-proposes-combination-with-telus-a6b8a209?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 00:00:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
       "published": "Sun, 15 Nov 2026 02:53:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 02:13:00 GMT",
-      "sentiment": -0.03571428571428571
     },
     {
       "title": "Thousands of Anthropic Employees and Investors Are Set to Reap Fortunes",
@@ -433,6 +433,12 @@
       "sentiment": -0.0625
     },
     {
+      "title": "Why Anthropic Is Hiring a $400,000-a-Year Natural-Gas Supply Manager",
+      "link": "https://www.wsj.com/business/energy-oil/why-anthropic-is-hiring-a-400-000-a-year-natural-gas-supply-manager-7c871e93?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 14:30:00 GMT",
+      "sentiment": 0.2333333333333333
+    },
+    {
       "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 12:22:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/tech/ai/uber-co-founder-kalanick-teases-protest-at-nvidia-as-calls-for-huangs-return-continue-37c4f635?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 02:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "A Battered Industrial Center Reimagines Its Economy",
-      "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.012121212121212116
     },
     {
       "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
