@@ -1,10 +1,52 @@
 {
   "entries": [
     {
+      "title": "Tragic Florida family killed by dad ID’d for first time — as ‘blindsided’ sister reveals couple went on date night just days before",
+      "link": "https://nypost.com/2026/11/20/us-news/tragic-florida-family-killed-by-dad-idd-for-first-time-as-blindsided-sister-reveals-couple-went-on-date-night-just-days-before/",
+      "published": "Fri, 20 Nov 2026 13:50:35 -0500",
+      "sentiment": -0.04999999999999999
+    },
+    {
+      "title": "Senate approves bipartisan bill to force data centers to pay for energy, speed up permitting reviews",
+      "link": "https://nypost.com/2026/11/20/us-news/senate-approves-bipartisan-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy/",
+      "published": "Fri, 20 Nov 2026 13:48:55 -0500",
+      "sentiment": 0.14285714285714288
+    },
+    {
+      "title": "Grand Canyon plane crash victim identified as devoted father who suffered ‘significant injury’ on football field only months prior",
+      "link": "https://nypost.com/2026/11/20/us-news/father-idd-in-deadly-grand-canyon-plane-crash/",
+      "published": "Fri, 20 Nov 2026 13:40:23 -0500",
+      "sentiment": 0.2333333333333333
+    },
+    {
+      "title": "Image of ‘Tribute in Light’ 9/11 memorial lands on global NatGeo Pictures of the Year list",
+      "link": "https://nypost.com/2026/11/20/us-news/tribute-in-light-lands-spot-on-natgeo-pictures-of-the-year-list/",
+      "published": "Fri, 20 Nov 2026 13:34:26 -0500",
+      "sentiment": 0.2
+    },
+    {
+      "title": "Second judge blocks Trump’s $1B Triumphal Arch project near Arlington: ‘Rushed job’",
+      "link": "https://nypost.com/2026/11/20/us-news/second-judge-blocks-trumps-1b-triumphal-arch-project-near-arlington-rushed-job/",
+      "published": "Fri, 20 Nov 2026 13:10:04 -0500",
+      "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "NYC straphanger, 73, randomly shoved onto subway tracks by stranger",
+      "link": "https://nypost.com/2026/11/20/us-news/nyc-straphanger-73-randomly-shoved-onto-subway-tracks-by-stranger/",
+      "published": "Fri, 20 Nov 2026 13:09:28 -0500",
+      "sentiment": 0.09999999999999998
+    },
+    {
+      "title": "Sick past of Kentucky mom accused of child incest revealed: ‘At least 16’ cop lovers, DUIs and a fast marriage",
+      "link": "https://nypost.com/2026/11/20/us-news/sick-past-of-kentucky-mom-accused-of-child-incest-revealed/",
+      "published": "Fri, 20 Nov 2026 13:07:59 -0500",
+      "sentiment": -0.31285714285714283
+    },
+    {
       "title": "TV host stuns coworkers by announcing she’s pregnant at 59: ‘I have questions’",
       "link": "https://nypost.com/2026/11/20/us-news/tv-host-stuns-coworkers-by-announcing-shes-pregnant-at-59-i-have-questions/",
       "published": "Fri, 20 Nov 2026 12:51:22 -0500",
-      "sentiment": 0.3333333333333333
+      "sentiment": 0.06666666666666665
     },
     {
       "title": "Fiona the hippo’s handler reveals she’s ‘still in disbelief’ over beloved animal’s ‘tragic ending’",
@@ -77,42 +119,6 @@
       "link": "https://nypost.com/2026/11/20/us-news/fema-bedbug-infestation-forces-hundreds-of-dc-staffers-to-work-from-home/",
       "published": "Fri, 20 Nov 2026 10:18:30 -0500",
       "sentiment": -0.35000000000000003
-    },
-    {
-      "title": "NYC DSA choir mercilessly mocked for bizarre protest song about future with ‘no NYPD’",
-      "link": "https://nypost.com/2026/11/20/us-news/tone-deaf-nyc-dsa-choir-mocked-for-protest-song-longing-for-future-with-no-nypd/",
-      "published": "Fri, 20 Nov 2026 10:12:27 -0500",
-      "sentiment": 0.05357142857142859
-    },
-    {
-      "title": "LAX passengers warned over surge in rideshare drivers with mismatched IDs to profiles",
-      "link": "https://nypost.com/2026/11/20/us-news/lax-passengers-warned-over-surge-in-rideshare-drivers-with-mismatched-ids-to-profiles/",
-      "published": "Fri, 20 Nov 2026 10:08:18 -0500",
-      "sentiment": -0.5
-    },
-    {
-      "title": "California’s big move to lure the next generation of space leaders to the Bay",
-      "link": "https://nypost.com/2026/11/20/us-news/san-francisco-landmark-could-become-nasas-next-space-academy/",
-      "published": "Fri, 20 Nov 2026 10:00:00 -0500",
-      "sentiment": 0.0028409090909090884
-    },
-    {
-      "title": "USDA boss Brooke Rollins barred from sending Christian messages to federal workers",
-      "link": "https://nypost.com/2026/11/20/us-news/usda-boss-brooke-rollins-barred-from-sending-christian-messages-to-federal-workers/",
-      "published": "Fri, 20 Nov 2026 09:56:06 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Cancer-stricken man details nightmare experience at LA’s famed Magic Castle over dress code clash: suit",
-      "link": "https://nypost.com/2026/11/20/us-news/man-with-cancer-denier-entrance-to-magic-castle-due-to-medical-beanie/",
-      "published": "Fri, 20 Nov 2026 09:56:04 -0500",
-      "sentiment": 0.45
-    },
-    {
-      "title": "Trump speaking to press after historic Xi-Putin talks questions over Ukraine War linger",
-      "link": "https://nypost.com/2026/11/20/us-news/trump-to-face-reporters-after-historic-xi-putin-talks-as-ukraine-war-questions-linger/",
-      "published": "Fri, 20 Nov 2026 09:42:21 -0500",
-      "sentiment": 0.2125
     }
   ]
 }
