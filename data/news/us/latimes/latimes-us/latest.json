@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "California subpoenas Nvidia as questions about CEO affair, AI chips mount",
+      "link": "https://www.latimes.com/california/story/2026-11-19/california-subpoenas-nvidia-as-questions-about-ceo-affair-ai-chips-mount",
+      "published": "Thu, 19 Nov 2026 23:04:44 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Erewhon's $749 Thanksgiving feast and L.A.'s holiday dinner divide",
+      "link": "https://www.latimes.com/california/story/2026-11-19/erewhon-thanksgiving-meal-budget",
+      "published": "Thu, 19 Nov 2026 22:42:05 GMT",
+      "sentiment": 0.037500000000000006
+    },
+    {
+      "title": "'Staggering' rail heists targeted dozens of L.A. trains, netted $22 million in shoes, other goods, feds say",
+      "link": "https://www.latimes.com/california/story/2026-11-19/staggering-rail-heists-targeted-dozens-of-la-trains-netted-22-million-in-shoes-other-goods-feds-say",
+      "published": "Thu, 19 Nov 2026 22:28:17 GMT",
+      "sentiment": 0.12166666666666667
+    },
+    {
       "title": "Democrats will soon represent the reddest parts of coastal Orange County in Sacramento",
       "link": "https://www.latimes.com/california/story/2026-11-19/democrats-will-soon-represent-reddest-parts-of-coastal-orange-county-in-sacramento",
       "published": "Thu, 19 Nov 2026 21:29:11 GMT",
@@ -31,7 +49,7 @@
       "sentiment": 0.08539944903581269
     },
     {
-      "title": "Heavy rain drenches Southern California, prompting river rescues, flash flood concerns",
+      "title": "Heavy rain drenches Southern California, prompting rescues, flash flood concerns",
       "link": "https://www.latimes.com/california/story/2026-11-19/socal-atmospheric-river-storm",
       "published": "Thu, 19 Nov 2026 14:56:07 GMT",
       "sentiment": 0.009999999999999998
@@ -133,16 +151,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "The Ivy League brought back the SAT. Should UC follow?",
-      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Plastic producers face scrutiny after half fail to report data required by California law",
       "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": -0.15555555555555553
+    },
+    {
+      "title": "The Ivy League brought back the SAT. Should UC follow?",
+      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Santa Ana suspends its Flock license plate reader camera system",
@@ -223,6 +241,12 @@
       "sentiment": -0.20000000000000004
     },
     {
+      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
       "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
@@ -233,12 +257,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
       "sentiment": -0.2
-    },
-    {
-      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
-      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
@@ -367,10 +385,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
-      "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
+      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
+      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.10250000000000001
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
@@ -379,16 +397,16 @@
       "sentiment": -0.2633333333333333
     },
     {
+      "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
+      "link": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.10250000000000001
+    },
+    {
       "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
       "link": "https://www.latimes.com/california/story/2026-11-16/la-me-county-executive-race",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
-      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.04545454545454545
     },
     {
       "title": "Family of Franklin High student who died at school files damage claims against LAUSD",
@@ -557,24 +575,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-13/lax-other-airports-fill-with-stranded-passengers-i-might-spend-rest-of-my-life-here",
       "published": "Fri, 13 Nov 2026 23:52:22 GMT",
       "sentiment": 0.05000000000000001
-    },
-    {
-      "title": "O.C. sheriff investigates whether employees alerted ICE before man's arrest",
-      "link": "https://www.latimes.com/california/story/2026-11-13/orange-county-sheriff-ice-arrest-probe",
-      "published": "Fri, 13 Nov 2026 23:40:47 GMT",
-      "sentiment": -0.025
-    },
-    {
-      "title": "Former state Sen. Kevin Murray, champion of urban parks and homeless services, dies at 66",
-      "link": "https://www.latimes.com/california/story/2026-11-13/former-state-sen-kevin-murray-champion-of-urban-parks-homeless-services-dies-at-66",
-      "published": "Fri, 13 Nov 2026 21:50:00 GMT",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Nationwide ground stop lifted, but passengers remain stranded at airports",
-      "link": "https://www.latimes.com/california/story/2026-11-13/faa-issues-nationwide-ground-stop",
-      "published": "Fri, 13 Nov 2026 21:27:56 GMT",
-      "sentiment": 0.0
     }
   ]
 }

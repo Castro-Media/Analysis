@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Officers Charged With Misconduct in Fatal South Carolina Road-Rage Shooting",
+      "link": "https://www.wsj.com/us-news/officers-charged-with-misconduct-in-fatal-south-carolina-road-rage-shooting-57526b04?mod=rss_usnews",
+      "published": "Thu, 19 Nov 2026 23:46:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Cincinnati’s Famous Hippo Fiona Dies After Ingesting a Visitor’s Hat",
+      "link": "https://www.wsj.com/us-news/cincinnatis-famous-hippo-fiona-dies-after-ingesting-a-visitors-hat-8bcf8c11?mod=rss_usnews",
+      "published": "Thu, 19 Nov 2026 22:35:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Trump’s Personal Lawyer to Step Down as Sullivan & Cromwell Co-Chair",
       "link": "https://www.wsj.com/us-news/law/trumps-personal-lawyer-to-step-down-as-sullivan-cromwell-co-chair-f988b3e0?mod=rss_usnews",
       "published": "Thu, 19 Nov 2026 21:39:00 GMT",
@@ -23,12 +35,6 @@
       "link": "https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_usnews",
       "published": "Thu, 19 Nov 2026 02:00:00 GMT",
       "sentiment": 0.012121212121212116
-    },
-    {
-      "title": "Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case",
-      "link": "https://www.wsj.com/us-news/law/murder-charges-brought-against-two-men-in-fatal-south-carolina-road-rage-case-188a309d?mod=rss_usnews",
-      "published": "Wed, 18 Nov 2026 23:00:00 GMT",
-      "sentiment": -0.08333333333333333
     },
     {
       "title": "The Latest Way to Make College More Affordable: Shorter Degrees",
@@ -61,16 +67,16 @@
       "sentiment": 0.21428571428571427
     },
     {
-      "title": "The Unlikely College Football Powerhouse Fueled by Texas Gas Money",
-      "link": "https://www.wsj.com/sports/football/the-unlikely-college-football-powerhouse-fueled-by-texas-gas-money-343541cd?mod=rss_usnews",
-      "published": "Fri, 06 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.5
-    },
-    {
       "title": "Weil Gotshal Bankruptcy Team Heading to Skadden",
       "link": "https://www.wsj.com/business/weil-gotshals-bankruptcy-team-heading-to-skadden-feb22b3b?mod=rss_usnews",
       "published": "Wed, 18 Nov 2026 23:11:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case",
+      "link": "https://www.wsj.com/us-news/law/murder-charges-brought-against-two-men-in-fatal-south-carolina-road-rage-case-188a309d?mod=rss_usnews",
+      "published": "Wed, 18 Nov 2026 23:00:00 GMT",
+      "sentiment": -0.08333333333333333
     },
     {
       "title": "Lindsay Clancy Faces Retrial in Deaths of Her Three Children",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/politics/california-voters-pass-ban-on-wealth-taxes-a045b6c1?mod=rss_usnews",
       "published": "Sat, 14 Nov 2026 02:03:00 GMT",
       "sentiment": -0.31666666666666665
-    },
-    {
-      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
-      "link": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_usnews",
-      "published": "Fri, 13 Nov 2026 15:18:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "See What the ‘Super El Niño’ Means for This Year’s Ski Season",
@@ -127,40 +127,40 @@
       "sentiment": 0.05
     },
     {
+      "title": "Opinion | The Tech Panic and Government Credibility",
+      "link": "https://www.wsj.com/opinion/tech-outages-panic-political-leaders-donald-trump-jd-vance-c356b10d?mod=rss_usnews",
+      "published": "Thu, 19 Nov 2026 22:59:00 GMT",
+      "sentiment": -0.14583333333333334
+    },
+    {
+      "title": "Opinion | Ron Johnson Tells the Social Security Truth",
+      "link": "https://www.wsj.com/opinion/ron-johnson-social-security-unsustainable-2807cb1b?mod=rss_usnews",
+      "published": "Thu, 19 Nov 2026 22:58:00 GMT",
+      "sentiment": 0.016666666666666666
+    },
+    {
+      "title": "Opinion | Last Week’s Outages Were Only the Start",
+      "link": "https://www.wsj.com/opinion/last-weeks-outages-were-only-the-start-361c19ed?mod=rss_usnews",
+      "published": "Thu, 19 Nov 2026 22:57:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "Opinion | The U.S. Navy Needs Frigates. Japan Has One",
+      "link": "https://www.wsj.com/opinion/the-u-s-navy-needs-frigates-japan-has-one-638b75e2?mod=rss_usnews",
+      "published": "Thu, 19 Nov 2026 22:48:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | How I Survived the Blue Tsunami",
+      "link": "https://www.wsj.com/opinion/how-i-survived-the-blue-tsunami-d1cf815b?mod=rss_usnews",
+      "published": "Thu, 19 Nov 2026 22:18:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Follow the Reagan Model on Defense Spending",
       "link": "https://www.wsj.com/opinion/follow-the-reagan-model-on-defense-spending-8033ce6b?mod=rss_usnews",
       "published": "Thu, 19 Nov 2026 20:00:00 GMT",
       "sentiment": 0.05
-    },
-    {
-      "title": "Opinion | No AI Company Is Too Big to Fail",
-      "link": "https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_usnews",
-      "published": "Thu, 19 Nov 2026 19:35:00 GMT",
-      "sentiment": -0.125
-    },
-    {
-      "title": "Opinion | Rural Americans Deserve a Seat at the Table",
-      "link": "https://www.wsj.com/opinion/rural-americans-deserve-a-seat-at-the-table-7e4bbebb?mod=rss_usnews",
-      "published": "Thu, 19 Nov 2026 17:25:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | This Election Proves What We Knew on Race",
-      "link": "https://www.wsj.com/opinion/this-election-proves-what-we-knew-on-race-43880b39?mod=rss_usnews",
-      "published": "Thu, 19 Nov 2026 17:24:00 GMT",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Opinion | A Lesson on the Economics of Tariff Leverage",
-      "link": "https://www.wsj.com/opinion/a-lesson-on-the-economics-of-tariff-leverage-ccb74d5c?mod=rss_usnews",
-      "published": "Thu, 19 Nov 2026 17:23:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | My Oath Is to Heal, not Kill",
-      "link": "https://www.wsj.com/opinion/my-oath-is-to-heal-not-kill-28b36fad?mod=rss_usnews",
-      "published": "Thu, 19 Nov 2026 17:23:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Five Takeaways From Navy Nominee’s Rocky Hearing",
@@ -199,16 +199,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire",
-      "link": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=rss_usnews",
-      "published": "Sun, 15 Nov 2026 00:18:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "The 11 Retirement-Planning Milestones Everyone Over 50 Needs to Know",
       "link": "https://www.wsj.com/personal-finance/retirement/retirement-planning-milestones-over-50s-5d8b6bf2?mod=rss_usnews",
       "published": "Thu, 19 Nov 2026 11:00:00 GMT",
       "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire",
+      "link": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=rss_usnews",
+      "published": "Sun, 15 Nov 2026 00:18:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "The Silicon Valley Brawl Over a 39-Story Tower in a Leafy Suburban Neighborhood",
