@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-ai-firms-are-hooked-on-nvidia-chips-now-comes-the-withdrawal-57391e23?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 12:57:00 GMT",
+      "sentiment": -0.2
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-11dded66?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 12:08:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/us-news/law/trumps-personal-lawyer-to-step-down-as-sullivan-cromwell-co-chair-f988b3e0?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 00:50:00 GMT",
       "sentiment": -0.015909090909090914
-    },
-    {
-      "title": "California Attorney General Issues Investigative Subpoena to Nvidia",
-      "link": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 00:01:00 GMT",
-      "sentiment": 0.05000000000000002
     },
     {
       "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
@@ -67,10 +67,10 @@
       "sentiment": -0.05
     },
     {
-      "title": "BJ’s Wholesale Lifts Outlook as Quarterly Profit, Revenue Rise",
+      "title": "BJ’s Wholesale Lifts Outlook, Posts Higher Quarterly Profit Despite Margin Pressure",
       "link": "https://www.wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 12:51:00 GMT",
-      "sentiment": 0.08333333333333333
+      "published": "Fri, 20 Nov 2026 13:24:00 GMT",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
@@ -253,6 +253,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "PayPal Appoints Xero Finance Chief Claire Bramley as Next CFO",
+      "link": "https://www.wsj.com/business/c-suite/paypal-appoints-xero-finance-chief-claire-bramley-as-next-cfo-cba4a93f?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 13:19:00 GMT",
+      "sentiment": 0.19999999999999998
+    },
+    {
       "title": "What I Learned From CFOs About ‘Time-Maxxing’",
       "link": "https://www.wsj.com/cfo-journal/what-i-learned-from-cfos-about-time-maxxing-1cdcdde7?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 12:12:00 GMT",
@@ -274,12 +280,6 @@
       "title": "Where Commerce Actually Begins",
       "link": "https://www.wsj.com/business/where-commerce-actually-begins-46828154?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 10:59:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Kress Takes Point on Nvidia Results as Chip Maker Beats Expectations",
-      "link": "https://www.wsj.com/cfo-journal/kress-takes-point-on-nvidia-results-as-chip-maker-beats-expectations-e5c4ed1c?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 12:29:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -433,6 +433,12 @@
       "sentiment": 1.0
     },
     {
+      "title": "California Attorney General Issues Investigative Subpoena to Nvidia",
+      "link": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 00:01:00 GMT",
+      "sentiment": 0.05000000000000002
+    },
+    {
       "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
       "link": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 18:02:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": -0.1860479797979798
     },
     {
-      "title": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
-      "link": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 11:03:00 GMT",
-      "sentiment": 0.21666666666666667
-    },
-    {
       "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
       "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 21:56:00 GMT",
@@ -475,16 +475,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
-      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 15:34:00 GMT",
-      "sentiment": 0.09375
-    },
-    {
       "title": "Trump’s Personal Lawyer to Step Back as Sullivan & Cromwell Co-Chair",
       "link": "https://www.wsj.com/us-news/law/trumps-personal-lawyer-to-step-down-as-sullivan-cromwell-co-chair-f988b3e0?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 00:50:00 GMT",
       "sentiment": -0.015909090909090914
+    },
+    {
+      "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
+      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 15:34:00 GMT",
+      "sentiment": 0.09375
     },
     {
       "title": "Who Will Succeed Mary Barra as GM’s Next CEO? A Look at Three Candidates",
