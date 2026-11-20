@@ -1,16 +1,28 @@
 {
   "entries": [
     {
+      "title": "Lethal Injection Took an Hour as Texas Executioners Hunted for a Vein",
+      "link": "https://www.nytimes.com/2026/11/20/us/texas-execution-lethal-injection-reinaldo-dennes.html",
+      "published": "Fri, 20 Nov 2026 14:11:29 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "2 Earthquakes Strike Los Angeles Area and Central California",
+      "link": "https://www.nytimes.com/2026/11/20/us/earthquakes-california-los-angeles-pinnacles.html",
+      "published": "Fri, 20 Nov 2026 14:20:49 +0000",
+      "sentiment": -0.05
+    },
+    {
       "title": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
       "link": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
       "published": "Fri, 20 Nov 2026 12:09:53 +0000",
       "sentiment": 0.0
     },
     {
-      "title": "These Underdogs Were Just Elected. No One Is More Surprised Than They Are.",
+      "title": "A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.",
       "link": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
-      "published": "Fri, 20 Nov 2026 10:02:31 +0000",
-      "sentiment": 0.15000000000000002
+      "published": "Fri, 20 Nov 2026 13:56:23 +0000",
+      "sentiment": 0.075
     },
     {
       "title": "New Ph.D. Enrollment in the Sciences Dropped 10 Percent Under Trump",
@@ -33,13 +45,13 @@
     {
       "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
       "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-      "published": "Fri, 20 Nov 2026 13:05:27 +0000",
+      "published": "Fri, 20 Nov 2026 14:25:22 +0000",
       "sentiment": 0.1
     },
     {
       "title": "Top White House Cybersecurity Official Is Replaced",
       "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "published": "Fri, 20 Nov 2026 03:31:41 +0000",
+      "published": "Fri, 20 Nov 2026 03:31:42 +0000",
       "sentiment": 0.08333333333333333
     },
     {
@@ -75,7 +87,7 @@
     {
       "title": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
       "link": "https://www.nytimes.com/2026/11/19/us/texas-culture-identity.html",
-      "published": "Thu, 19 Nov 2026 19:51:12 +0000",
+      "published": "Thu, 19 Nov 2026 19:51:13 +0000",
       "sentiment": 0.25
     },
     {
@@ -119,12 +131,6 @@
       "link": "https://www.nytimes.com/2026/11/19/us/politics/trump-mar-a-lago-search-bill-essayli.html",
       "published": "Thu, 19 Nov 2026 15:49:36 +0000",
       "sentiment": 0.25
-    },
-    {
-      "title": "A Paramedic Rushed to a Fatal Accident. The Dead Man Was Her Son.",
-      "link": "https://www.nytimes.com/2026/11/19/us/paramedic-accident-son-utah.html",
-      "published": "Thu, 19 Nov 2026 14:12:18 +0000",
-      "sentiment": -0.1
     }
   ]
 }

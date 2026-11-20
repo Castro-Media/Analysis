@@ -67,6 +67,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Canada Retail Sales Pull Back After 0.8% Rise in September",
+      "link": "https://www.wsj.com/economy/consumers/canada-retail-sales-pull-back-after-0-8-rise-in-september-7f2f0568?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 13:57:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "BJ’s Wholesale Lifts Outlook, Posts Higher Quarterly Profit Despite Margin Pressure",
       "link": "https://www.wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 13:24:00 GMT",
@@ -88,12 +94,6 @@
       "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
       "link": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 23:51:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
-      "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 22:26:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -253,6 +253,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.",
+      "link": "https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 14:12:00 GMT",
+      "sentiment": 0.014814814814814817
+    },
+    {
       "title": "PayPal Appoints Xero Finance Chief Claire Bramley as Next CFO",
       "link": "https://www.wsj.com/business/c-suite/paypal-appoints-xero-finance-chief-claire-bramley-as-next-cfo-cba4a93f?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 13:19:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/cfo-journal/veteran-cfo-bill-zerella-aims-to-fast-track-growth-at-stord-d78a5fdd?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 11:00:00 GMT",
       "sentiment": -0.0625
-    },
-    {
-      "title": "Where Commerce Actually Begins",
-      "link": "https://www.wsj.com/business/where-commerce-actually-begins-46828154?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 10:59:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
@@ -319,6 +319,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Where Commerce Actually Begins",
+      "link": "https://www.wsj.com/business/where-commerce-actually-begins-46828154?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 10:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
       "link": "https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 01:00:00 GMT",
@@ -337,10 +343,10 @@
       "sentiment": 0.2787878787878788
     },
     {
-      "title": "KKR Joins Carlyle to Pour $475 Million Into Recording Rights Buyer Litmus Music",
-      "link": "https://www.wsj.com/pro/private-equity/kkr-joins-carlyle-to-pour-475-million-into-recording-rights-buyer-litmus-music-3eb71af8?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
+      "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
+      "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 22:26:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/west-coast-port-employers-warn-of-possible-strike-at-los-angeles-long-beach-63bacb39?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 20:09:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "Electric Tugboats Get L.A. Audition",
-      "link": "https://www.wsj.com/logistics-report/electric-tugboats-get-l-a-audition-4168b93d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 11:55:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
@@ -481,16 +481,16 @@
       "sentiment": -0.015909090909090914
     },
     {
-      "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
-      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 15:34:00 GMT",
-      "sentiment": 0.09375
-    },
-    {
       "title": "Who Will Succeed Mary Barra as GM’s Next CEO? A Look at Three Candidates",
       "link": "https://www.wsj.com/business/autos/who-will-succeed-mary-barra-as-gms-next-ceo-a-look-at-three-candidates-1aaeaa17?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 15:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
+      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 15:34:00 GMT",
+      "sentiment": 0.09375
     },
     {
       "title": "Best Small-Business Loans in November 2026",

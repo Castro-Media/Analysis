@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "After Brexit, Britain’s Government Floats ‘Breturn’",
+      "link": "https://www.wsj.com/world/uk/after-brexit-britains-government-floats-breturn-796e429f?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 14:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Russia Steps Up Attacks on Kyiv’s Bridges",
       "link": "https://www.wsj.com/world/russia-steps-up-attacks-on-kyivs-bridges-a5b8a8e8?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 13:34:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 20:39:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Trump-Xi Summit Shows Putin’s Powerful Friendships Have Their Limits",
-      "link": "https://www.wsj.com/world/russia/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-4fbd87ba?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 20:08:00 GMT",
-      "sentiment": 0.060416666666666674
     },
     {
       "title": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The U.S. Is Auctioning Off a Slice of the Pacific Ocean Floor in Push for Minerals",
+      "link": "https://www.wsj.com/politics/the-u-s-is-auctioning-off-a-slice-of-the-pacific-ocean-floor-in-push-for-minerals-e6c1ecff?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 14:28:00 GMT",
+      "sentiment": 0.07878787878787878
+    },
+    {
       "title": "U.S. Consortium Wins Bid to Prospect at $62 Billion Kenyan Rare-Earth Deposit",
       "link": "https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 17:44:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/finance/asian-equities-decline-as-caution-prevails-eaf3c1e9?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 05:42:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Trump Returns to World Stage After Midterm Setback",
-      "link": "https://www.wsj.com/world/trump-returns-to-world-stage-after-midterm-setback-65a1c88b?mod=rss_worldnews",
-      "published": "Tue, 17 Nov 2026 13:35:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Hegseth Cements New Military Deal in Visit to Venezuela",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "EU Open to ‘Closest Possible Relationship’ With U.K., Chief Says",
+      "link": "https://www.wsj.com/world/europe/eu-open-to-closest-possible-relationship-with-u-k-chief-says-f2206559?mod=rss_worldnews",
+      "published": "Fri, 20 Nov 2026 14:41:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
       "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 10:38:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/unicredit-strikes-deal-with-germany-to-clear-path-for-commerzbank-takeover-8668f619?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 09:31:00 GMT",
       "sentiment": 0.06666666666666667
-    },
-    {
-      "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
-      "link": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews",
-      "published": "Wed, 18 Nov 2026 23:31:00 GMT",
-      "sentiment": -0.07499999999999998
     },
     {
       "title": "Trump, Xi, Putin End Historic Summit With Denunciation of Nuclear War",
@@ -253,6 +253,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Trump-Xi Summit Shows Putin’s Powerful Friendships Have Their Limits",
+      "link": "https://www.wsj.com/world/russia/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-4fbd87ba?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 20:08:00 GMT",
+      "sentiment": 0.060416666666666674
+    },
+    {
+      "title": "European Defense Chief Snaps at Pentagon Official Over Ukraine Criticism",
+      "link": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews",
+      "published": "Wed, 18 Nov 2026 23:31:00 GMT",
+      "sentiment": -0.07499999999999998
+    },
+    {
       "title": "Ukrainian Strike Severs Part of Russia’s Crimean Bridge",
       "link": "https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1?mod=rss_worldnews",
       "published": "Tue, 17 Nov 2026 09:47:00 GMT",
@@ -269,18 +281,6 @@
       "link": "https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=rss_worldnews",
       "published": "Wed, 11 Nov 2026 09:34:00 GMT",
       "sentiment": 0.082
-    },
-    {
-      "title": "U.S. Overture to Russia on European Security Sparks Alarm",
-      "link": "https://www.wsj.com/world/europe/u-s-overture-to-russia-on-european-security-sparks-alarm-eb9b6acf?mod=rss_worldnews",
-      "published": "Tue, 10 Nov 2026 20:04:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
-      "link": "https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
-      "published": "Sat, 07 Nov 2026 04:00:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "A Hunger Crisis Is Making Ebola Even Deadlier",
@@ -429,7 +429,7 @@
     {
       "title": "Best High-Yield Savings Accounts of November 2026: Up to 5.00%",
       "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 13:54:00 GMT",
+      "published": "Fri, 20 Nov 2026 14:04:00 GMT",
       "sentiment": 0.45
     },
     {
