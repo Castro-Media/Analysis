@@ -1,16 +1,22 @@
 {
   "entries": [
     {
-      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-      "published": "Sat, 21 Nov 2026 12:54:43 +0000",
-      "sentiment": 0.34
-    },
-    {
       "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
       "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-      "published": "Sat, 21 Nov 2026 13:36:40 +0000",
+      "published": "Sat, 21 Nov 2026 14:30:52 +0000",
       "sentiment": 0.19
+    },
+    {
+      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+      "published": "Sat, 21 Nov 2026 14:09:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+      "published": "Sat, 21 Nov 2026 12:54:44 +0000",
+      "sentiment": 0.34
     },
     {
       "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
@@ -67,12 +73,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
-      "link": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
-      "published": "Fri, 20 Nov 2026 08:13:07 +0000",
-      "sentiment": 0.19888888888888887
-    },
-    {
       "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
       "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
       "published": "Fri, 20 Nov 2026 01:37:20 +0000",
@@ -93,13 +93,13 @@
     {
       "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
       "link": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
-      "published": "Sat, 21 Nov 2026 11:04:53 +0000",
+      "published": "Sat, 21 Nov 2026 14:01:15 +0000",
       "sentiment": 0.5
     },
     {
       "title": "A Butler School in the Netherlands Offers Entry Into a Gilded World",
       "link": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
-      "published": "Sat, 21 Nov 2026 10:00:53 +0000",
+      "published": "Sat, 21 Nov 2026 14:17:42 +0000",
       "sentiment": 0.1
     },
     {
@@ -131,6 +131,12 @@
       "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
       "published": "Sat, 21 Nov 2026 12:31:35 +0000",
       "sentiment": 0.15000000000000002
+    },
+    {
+      "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
+      "link": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
+      "published": "Fri, 20 Nov 2026 08:13:07 +0000",
+      "sentiment": 0.19888888888888887
     },
     {
       "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
@@ -304,12 +310,6 @@
       "title": "Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il",
       "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
       "published": "Thu, 19 Nov 2026 10:58:24 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
-      "published": "Thu, 19 Nov 2026 06:46:07 +0000",
       "sentiment": 0.0
     }
   ]
