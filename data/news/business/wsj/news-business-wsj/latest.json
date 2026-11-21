@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
+      "link": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.14166666666666666
+    },
+    {
+      "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
+      "link": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.39999999999999997
+    },
+    {
+      "title": "Oxford and MIT Didn’t Bite. So Ken Griffin Took His Miami Campus Elsewhere.",
+      "link": "https://www.wsj.com/business/ken-griffin-citadel-miami-carnegie-mellon-338bcd20?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.08928571428571429
+    },
+    {
       "title": "How Mercedes-Benz Nearly Became Collateral Damage in a Chinese Car Ban",
       "link": "https://www.wsj.com/business/autos/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-4101cd7f?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 00:38:00 GMT",
@@ -17,24 +35,6 @@
       "link": "https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 22:46:00 GMT",
       "sentiment": -0.0625
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-11dded66?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 21:55:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
-      "link": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 20:41:00 GMT",
-      "sentiment": 0.375
-    },
-    {
-      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-      "link": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 20:32:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
@@ -67,6 +67,18 @@
       "sentiment": -0.05
     },
     {
+      "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
+      "link": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 20:41:00 GMT",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+      "link": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 20:32:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "BJ’s Wholesale Raises Outlook, But Promotions Weigh on Margins",
       "link": "https://www.wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 16:10:00 GMT",
@@ -83,18 +95,6 @@
       "link": "https://www.wsj.com/cmo-today/after-a-week-of-tech-panics-columbia-takes-its-dont-panic-room-to-times-square-47bd4af8?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 11:01:00 GMT",
       "sentiment": -0.015151515151515152
-    },
-    {
-      "title": "What Columbia Sportswear’s Ads Say About Its Culture",
-      "link": "https://www.wsj.com/articles/what-columbia-sportswears-ads-say-about-its-culture-cdff9695?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 10:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
-      "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 22:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Lufthansa to Cut 1,000 Jobs at Flagship Airline as Challenges Mount",
@@ -343,6 +343,12 @@
       "sentiment": 0.2787878787878788
     },
     {
+      "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
+      "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 22:26:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
       "link": "https://www.wsj.com/business/energy-oil/u-s-diesel-prices-to-continue-to-fall-in-relief-for-consumers-u-s-energy-secretary-says-cfe83c18?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 20:12:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/west-coast-port-employers-warn-of-possible-strike-at-los-angeles-long-beach-63bacb39?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 20:09:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "Electric Tugboats Get L.A. Audition",
-      "link": "https://www.wsj.com/logistics-report/electric-tugboats-get-l-a-audition-4168b93d?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 11:55:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
@@ -433,6 +433,12 @@
       "sentiment": 1.0
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-11dded66?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 21:55:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "The CEO Who Thinks Corporate America Failed the Political Test",
       "link": "https://www.wsj.com/business/patagonia-ceo-ryan-gellert-fb5ef0f8?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 18:40:00 GMT",
@@ -451,16 +457,10 @@
       "sentiment": -0.2
     },
     {
-      "title": "A Navy Fighter Pilot’s Worst Fear: Forgetting His Uncrustables",
-      "link": "https://www.wsj.com/lifestyle/workplace/us-navy-uncrustables-smuckers-aircraft-carrier-04fa4784?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 10:30:00 GMT",
-      "sentiment": -1.0
-    },
-    {
-      "title": "Parents Are ‘Flying Blind’ in an Exploding Autism-Therapy Industry",
-      "link": "https://www.wsj.com/health/healthcare/autism-therapy-aba-parents-34cf1cc0?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 02:00:00 GMT",
-      "sentiment": -0.029166666666666674
+      "title": "What Columbia Sportswear’s Ads Say About Its Culture",
+      "link": "https://www.wsj.com/articles/what-columbia-sportswears-ads-say-about-its-culture-cdff9695?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 10:57:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
