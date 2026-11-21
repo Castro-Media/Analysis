@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Ritz-Carlton rooms and a $665 steak dinner: Chad Bianco's security detail cost taxpayers millions",
+      "link": "https://www.latimes.com/california/story/2026-11-21/california-sheriffs-public-spending-in-gubernatorial-run-sparks-questions",
+      "published": "Sat, 21 Nov 2026 12:00:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
+      "link": "https://www.latimes.com/california/story/2026-11-21/desperate-to-curb-drugs-crime-la-is-building-fence-around-macarthur-park",
+      "published": "Sat, 21 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.1159090909090909
+    },
+    {
+      "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
+      "link": "https://www.latimes.com/california/story/2026-11-21/uc-openai-chatgpt-deal",
+      "published": "Sat, 21 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
+      "link": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
+      "published": "Sat, 21 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment",
       "link": "https://www.latimes.com/california/story/2026-11-20/yong-yang-lapd-officer-koreatown-shooting-da-charging-decision",
       "published": "Sat, 21 Nov 2026 03:39:49 GMT",
@@ -337,16 +361,10 @@
       "sentiment": -0.20000000000000004
     },
     {
-      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
-      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03174603174603175
-    },
-    {
-      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
-      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
@@ -355,10 +373,16 @@
       "sentiment": 0.4454545454545455
     },
     {
-      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
-      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
+      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
+      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
+      "sentiment": -0.2
+    },
+    {
+      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
+      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03174603174603175
     },
     {
       "title": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
@@ -475,6 +499,18 @@
       "sentiment": 0.08
     },
     {
+      "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
+      "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
+      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
+      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.04545454545454545
+    },
+    {
       "title": "A $470,000 machine was supposed to detect pesticides in legal weed. Labs say it failed badly",
       "link": "https://www.latimes.com/california/story/2026-11-16/470-000-machine-was-supposed-to-detect-pesticides-in-legal-weed-labs-say-it-failed-badly",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
@@ -491,18 +527,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/la-me-county-executive-race",
       "published": "Mon, 16 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "After coyote attack on toddler, some Westchester residents fear they could be next",
-      "link": "https://www.latimes.com/environment/story/2026-11-16/after-coyote-attack-on-toddler-some-westchester-residents-fear-they-could-be-next",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
-      "link": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
-      "published": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.04545454545454545
     },
     {
       "title": "Family of Franklin High student who died at school files damage claims against LAUSD",
@@ -551,30 +575,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-15/new-state-insurance-commissioner-has-plan-to-overhaul-troubled-home-insurance-market-will-it-work",
       "published": "Sun, 15 Nov 2026 11:00:00 GMT",
       "sentiment": -0.2159090909090909
-    },
-    {
-      "title": "Up to $800 million in Olympic contracts could be set aside for L.A. businesses",
-      "link": "https://www.latimes.com/california/story/2026-11-15/los-angeles-council-pushing-for-olympic-contracts",
-      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Commentary: Newsom, Hegseth, Becerra — who's in the hottest water? Our columnists discuss",
-      "link": "https://www.latimes.com/politics/story/2026-11-15/newsom-death-penalty-hegseth-impeachment-becerra-era-begins-in-california-barabak-chabria",
-      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.6999999999999998
-    },
-    {
-      "title": "Offshore oil rigs could be 'toppled' off California under Trump plan",
-      "link": "https://www.latimes.com/environment/story/2026-11-15/offshore-oil-rigs-could-be-toppled-off-california-under-trump-plan",
-      "published": "Sun, 15 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Surfliner 'train versus pedestrian' accident kills two: It happens 'more than people think'",
-      "link": "https://www.latimes.com/california/story/2026-11-14/surfliner-train-versus-pedestrian-accident-kills-two-it-happens-more-than-people-think",
-      "published": "Sun, 15 Nov 2026 05:02:59 GMT",
-      "sentiment": 0.13333333333333333
     }
   ]
 }
