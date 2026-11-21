@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+      "published": "Sat, 21 Nov 2026 05:01:09 +0000",
+      "sentiment": 0.34
+    },
+    {
+      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
+      "published": "Sat, 21 Nov 2026 05:01:07 +0000",
+      "sentiment": -0.21875
+    },
+    {
       "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
       "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
       "published": "Fri, 20 Nov 2026 20:22:14 +0000",
@@ -67,30 +79,6 @@
       "sentiment": 0.039999999999999994
     },
     {
-      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-      "published": "Thu, 19 Nov 2026 16:51:57 +0000",
-      "sentiment": -0.1111111111111111
-    },
-    {
-      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-      "published": "Thu, 19 Nov 2026 21:17:13 +0000",
-      "sentiment": 0.2
-    },
-    {
-      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-      "published": "Sat, 21 Nov 2026 05:01:09 +0000",
-      "sentiment": 0.34
-    },
-    {
-      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/in-frances-angry-autumn-tv-news-channels-are-accused-of-stirring-the-pot.html",
-      "published": "Sat, 21 Nov 2026 05:01:07 +0000",
-      "sentiment": -0.21875
-    },
-    {
       "title": "White Police Officers Are Convicted of Beating a Black Man in France",
       "link": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
       "published": "Fri, 20 Nov 2026 23:21:51 +0000",
@@ -133,6 +121,12 @@
       "sentiment": 0.13999999999999999
     },
     {
+      "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+      "published": "Thu, 19 Nov 2026 21:17:13 +0000",
+      "sentiment": 0.2
+    },
+    {
       "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
       "link": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
       "published": "Fri, 20 Nov 2026 14:16:51 +0000",
@@ -167,6 +161,12 @@
       "link": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
       "published": "Thu, 19 Nov 2026 18:47:57 +0000",
       "sentiment": 0.03214285714285714
+    },
+    {
+      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+      "link": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+      "published": "Thu, 19 Nov 2026 16:51:57 +0000",
+      "sentiment": -0.1111111111111111
     },
     {
       "title": "The Rohingya Crisis Over the Years",
