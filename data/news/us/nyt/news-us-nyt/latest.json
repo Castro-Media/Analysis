@@ -1,33 +1,63 @@
 {
   "entries": [
     {
+      "title": "A Prosecutor Got Drunk to Help the Police. Things Got Out of Hand.",
+      "link": "https://www.nytimes.com/2026/11/20/us/drunk-officers-training-maricopa-county-arizona.html",
+      "published": "Sat, 21 Nov 2026 02:22:41 +0000",
+      "sentiment": -0.11333333333333333
+    },
+    {
+      "title": "Washington State Fines Company $9 Million Over Fatal Tank Implosion",
+      "link": "https://www.nytimes.com/2026/11/20/us/washington-state-fatal-tank-implosion-fine.html",
+      "published": "Sat, 21 Nov 2026 02:18:13 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Takeaways From Trump’s Post-Trip News Conference",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+      "published": "Sat, 21 Nov 2026 02:15:29 +0000",
+      "sentiment": 0.30000000000000004
+    },
+    {
+      "title": "F.B.I. Is Still Looking for Evidence That Georgia’s 2020 Election Was Rigged",
+      "link": "https://www.nytimes.com/2026/11/20/us/fbi-investigation-fulton-county-2020-election.html",
+      "published": "Sat, 21 Nov 2026 01:01:22 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
+      "link": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
+      "published": "Sat, 21 Nov 2026 00:57:33 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
       "link": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
-      "published": "Sat, 21 Nov 2026 00:43:38 +0000",
+      "published": "Sat, 21 Nov 2026 02:06:07 +0000",
       "sentiment": 0.03333333333333333
     },
     {
       "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
       "link": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
-      "published": "Fri, 20 Nov 2026 23:33:06 +0000",
+      "published": "Sat, 21 Nov 2026 02:40:42 +0000",
       "sentiment": -0.07777777777777778
     },
     {
       "title": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
       "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
-      "published": "Fri, 20 Nov 2026 23:15:21 +0000",
-      "sentiment": -0.35
+      "published": "Sat, 21 Nov 2026 01:08:11 +0000",
+      "sentiment": -0.54
     },
     {
       "title": "Leaked Draft Report Finds ‘Catastrophic’ Training Failures at ICE",
       "link": "https://www.nytimes.com/video/us/100000011291007/leaked-draft-report-finds-catastrophic-training-failures-at-ice.html",
-      "published": "Fri, 20 Nov 2026 23:30:56 +0000",
+      "published": "Sat, 21 Nov 2026 00:55:25 +0000",
       "sentiment": -0.04343434343434343
     },
     {
       "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
       "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
-      "published": "Fri, 20 Nov 2026 22:35:10 +0000",
+      "published": "Sat, 21 Nov 2026 01:43:40 +0000",
       "sentiment": 0.13636363636363635
     },
     {
@@ -131,18 +161,6 @@
       "link": "https://www.nytimes.com/2026/11/19/us/california-train-robberies-indictment.html",
       "published": "Fri, 20 Nov 2026 03:08:13 +0000",
       "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
-      "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-      "published": "Fri, 20 Nov 2026 14:25:22 +0000",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Top White House Cybersecurity Official Is Replaced",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "published": "Fri, 20 Nov 2026 21:59:39 +0000",
-      "sentiment": 0.08333333333333333
     }
   ]
 }
