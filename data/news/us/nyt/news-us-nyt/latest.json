@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "FAA Says All Delta Flights Delayed as Automated System Falters",
+      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "published": "Sun, 22 Nov 2026 16:45:41 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "St. Patrick’s Day Parade Canceled as Florida Figures Out D.E.I. Law",
       "link": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html",
       "published": "Sun, 22 Nov 2026 15:33:55 +0000",
@@ -21,13 +27,13 @@
     {
       "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
       "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-      "published": "Sun, 22 Nov 2026 15:04:54 +0000",
+      "published": "Sun, 22 Nov 2026 16:25:53 +0000",
       "sentiment": -0.10000000000000002
     },
     {
       "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
       "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
-      "published": "Sun, 22 Nov 2026 14:00:16 +0000",
+      "published": "Sun, 22 Nov 2026 16:32:19 +0000",
       "sentiment": 0.07878787878787878
     },
     {
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
       "published": "Sat, 21 Nov 2026 13:57:49 +0000",
       "sentiment": -0.42499999999999993
-    },
-    {
-      "title": "Federal Court Halts Pregnant Workers’ Protection Law",
-      "link": "https://www.nytimes.com/2026/11/21/us/politics/federal-court-halts-pregnant-workers-protection-law.html",
-      "published": "Sat, 21 Nov 2026 05:53:09 +0000",
-      "sentiment": 0.11666666666666665
     }
   ]
 }
