@@ -1,9 +1,27 @@
 {
   "entries": [
     {
+      "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+      "published": "Sun, 22 Nov 2026 10:02:17 +0000",
+      "sentiment": 0.12727272727272726
+    },
+    {
+      "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+      "published": "Sun, 22 Nov 2026 10:02:15 +0000",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
+      "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
+      "published": "Sun, 22 Nov 2026 10:01:55 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
       "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-      "published": "Sun, 22 Nov 2026 03:44:20 +0000",
+      "published": "Sun, 22 Nov 2026 10:22:20 +0000",
       "sentiment": -0.06666666666666667
     },
     {
@@ -101,24 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/20/arts/television/melania-the-series-takeaways.html",
       "published": "Fri, 20 Nov 2026 17:56:25 +0000",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "Here’s the latest.",
-      "link": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
-      "published": "Fri, 20 Nov 2026 21:55:47 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
-      "published": "Fri, 20 Nov 2026 15:03:34 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "On the Carpet of Melania Trump’s Amazon Premiere in New York",
-      "link": "https://www.nytimes.com/2026/11/20/style/melania-trump-series-premiere-nyc.html",
-      "published": "Fri, 20 Nov 2026 22:10:47 +0000",
-      "sentiment": 0.09727272727272726
     }
   ]
 }
