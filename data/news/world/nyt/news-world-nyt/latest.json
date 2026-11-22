@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "How Stringent Anti-A.I. Cheating Rules Brought Down an Education Minister",
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "published": "Sun, 22 Nov 2026 04:28:43 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+      "published": "Sun, 22 Nov 2026 01:56:16 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
       "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-      "published": "Sun, 22 Nov 2026 07:04:28 +0000",
-      "sentiment": 0.05616161616161617
+      "published": "Sun, 22 Nov 2026 08:35:05 +0000",
+      "sentiment": 0.1090909090909091
     },
     {
       "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
@@ -17,12 +29,6 @@
       "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
       "published": "Sun, 22 Nov 2026 03:44:20 +0000",
       "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-      "published": "Sun, 22 Nov 2026 04:28:43 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
@@ -49,16 +55,10 @@
       "sentiment": -0.10000000000000002
     },
     {
-      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-      "published": "Sat, 21 Nov 2026 12:54:44 +0000",
-      "sentiment": 0.34
-    },
-    {
-      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-      "published": "Sat, 21 Nov 2026 17:14:17 +0000",
-      "sentiment": -0.21875
+      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+      "published": "Fri, 20 Nov 2026 10:38:20 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
@@ -67,16 +67,28 @@
       "sentiment": 0.05916666666666668
     },
     {
+      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+      "published": "Sat, 21 Nov 2026 12:54:44 +0000",
+      "sentiment": 0.34
+    },
+    {
+      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+      "published": "Fri, 20 Nov 2026 23:05:46 +0000",
+      "sentiment": 0.125
+    },
+    {
+      "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+      "published": "Sat, 21 Nov 2026 17:14:17 +0000",
+      "sentiment": -0.21875
+    },
+    {
       "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
       "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
       "published": "Sun, 22 Nov 2026 05:01:13 +0000",
       "sentiment": -0.044444444444444446
-    },
-    {
-      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-      "published": "Sun, 22 Nov 2026 01:56:16 +0000",
-      "sentiment": 0.1
     },
     {
       "title": "A Chinese Tech Hub Offers a Peek at the Electric Cars Headed for Canada",
@@ -139,22 +151,10 @@
       "sentiment": -0.03333333333333333
     },
     {
-      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-      "published": "Fri, 20 Nov 2026 10:38:20 +0000",
-      "sentiment": 0.5
-    },
-    {
       "title": "Turkey’s Van Cats Contend With Rising Temperatures",
       "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
       "published": "Sat, 21 Nov 2026 12:31:35 +0000",
       "sentiment": 0.15000000000000002
-    },
-    {
-      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-      "published": "Fri, 20 Nov 2026 23:05:46 +0000",
-      "sentiment": 0.125
     },
     {
       "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
@@ -299,6 +299,24 @@
       "link": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
       "published": "Thu, 19 Nov 2026 12:41:50 +0000",
       "sentiment": -0.25
+    },
+    {
+      "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+      "link": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+      "published": "Thu, 19 Nov 2026 18:55:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+      "published": "Thu, 19 Nov 2026 12:08:19 +0000",
+      "sentiment": -0.1392857142857143
+    },
+    {
+      "title": "On nukes, Trump says, ‘It’s very hard to give them up.’ It’s been done before.",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before",
+      "published": "Thu, 19 Nov 2026 10:41:37 +0000",
+      "sentiment": -0.3791666666666667
     }
   ]
 }
