@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
+      "link": "https://www.wsj.com/world/ukraine-is-racing-to-keep-its-booming-defense-industry-from-stalling-7e8f4b8c?mod=rss_worldnews",
+      "published": "Sun, 22 Nov 2026 03:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+      "link": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=rss_worldnews",
+      "published": "Sun, 22 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.05060606060606061
+    },
+    {
       "title": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
       "link": "https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49?mod=rss_worldnews",
       "published": "Sun, 22 Nov 2026 02:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef?mod=rss_worldnews",
       "published": "Sat, 21 Nov 2026 15:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Where in the World Is Mark Carney? Five Continents and 32 Countries in 113 Days",
-      "link": "https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0?mod=rss_worldnews",
-      "published": "Sat, 21 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.3090909090909091
-    },
-    {
-      "title": "The Political Taboo Tearing France Apart",
-      "link": "https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d?mod=rss_worldnews",
-      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.028787878787878782
     },
     {
       "title": "How the Myanmar Genocide Ruling Raises the Stakes for Israel",
@@ -73,6 +73,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Where in the World Is Mark Carney? Five Continents and 32 Countries in 113 Days",
+      "link": "https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0?mod=rss_worldnews",
+      "published": "Sat, 21 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.3090909090909091
+    },
+    {
       "title": "New Satellite Photos Show Expansion of North Korean Uranium-Enrichment Plant",
       "link": "https://www.wsj.com/world/asia/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-f23c5512?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 20:16:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 17:44:00 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "World Court Finds Myanmar Committed Genocide Against Rohingya",
-      "link": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 12:50:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "El Salvador Takes Its Gang-Fighting Strategy to Haiti",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The Political Taboo Tearing France Apart",
+      "link": "https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d?mod=rss_worldnews",
+      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.028787878787878782
+    },
+    {
       "title": "Denmark Accuses Russia of Trying to Kill Ukrainian Rapper",
       "link": "https://www.wsj.com/world/europe/denmark-accuses-russia-of-trying-to-kill-ukrainian-rapper-a3a5e34c?mod=rss_worldnews",
       "published": "Sat, 21 Nov 2026 00:39:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/u-s-has-floated-nato-membership-for-ukraine-in-recent-meetings-d5c8243a?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 12:11:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Spain Remains Europe’s Star Economy. Why Don’t People Feel Richer?",
-      "link": "https://www.wsj.com/economy/spain-remains-europes-star-economy-why-dont-people-feel-richer-cfa35091?mod=rss_worldnews",
-      "published": "Fri, 20 Nov 2026 07:41:00 GMT",
-      "sentiment": 0.049999999999999996
     },
     {
       "title": "Trump, Xi, Putin End Historic Summit With Denunciation of Nuclear War",
@@ -283,6 +283,12 @@
       "sentiment": 0.082
     },
     {
+      "title": "World Court Finds Myanmar Committed Genocide Against Rohingya",
+      "link": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews",
+      "published": "Thu, 19 Nov 2026 12:50:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "A Hunger Crisis Is Making Ebola Even Deadlier",
       "link": "https://www.wsj.com/world/africa/a-hunger-crisis-is-making-ebola-even-deadlier-ef14c676?mod=rss_worldnews",
       "published": "Wed, 18 Nov 2026 00:00:00 GMT",
@@ -304,12 +310,6 @@
       "title": "The Growing Push to Protect Trophy Hunting in Africa",
       "link": "https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews",
       "published": "Sun, 08 Nov 2026 03:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump’s Deportation Deal With Cameroon Will Equip Unit Accused of War Crimes",
-      "link": "https://www.wsj.com/world/africa/trumps-deportation-deal-with-cameroon-will-equip-unit-accused-of-war-crimes-a94d3faa?mod=rss_worldnews",
-      "published": "Thu, 29 Oct 2026 20:56:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -383,12 +383,6 @@
       "link": "https://www.wsj.com/world/russia-steps-up-attacks-on-kyivs-bridges-a5b8a8e8?mod=rss_worldnews",
       "published": "Fri, 20 Nov 2026 13:34:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad",
-      "link": "https://www.wsj.com/politics/policy/trump-escapes-turmoil-at-home-by-seeking-out-a-friendlier-audience-abroad-da8c04d0?mod=rss_worldnews",
-      "published": "Fri, 20 Nov 2026 02:18:00 GMT",
-      "sentiment": -0.1125
     },
     {
       "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
