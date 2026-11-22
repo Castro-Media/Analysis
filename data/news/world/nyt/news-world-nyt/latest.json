@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "How Stringent Anti-A.I. Cheating Rules Brought Down an Education Minister",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "published": "Sun, 22 Nov 2026 07:04:28 +0000",
+      "sentiment": 0.05616161616161617
+    },
+    {
+      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+      "published": "Sun, 22 Nov 2026 06:58:17 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+      "published": "Sun, 22 Nov 2026 03:44:20 +0000",
+      "sentiment": -0.06666666666666667
+    },
+    {
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "published": "Sun, 22 Nov 2026 04:28:43 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
       "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
       "published": "Sat, 21 Nov 2026 21:12:24 +0000",
@@ -43,70 +67,10 @@
       "sentiment": 0.05916666666666668
     },
     {
-      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
-      "published": "Fri, 20 Nov 2026 20:22:14 +0000",
-      "sentiment": 0.025
-    },
-    {
-      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-      "published": "Fri, 20 Nov 2026 23:05:46 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "published": "Sat, 21 Nov 2026 07:11:24 +0000",
-      "sentiment": 0.275
-    },
-    {
-      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "published": "Fri, 20 Nov 2026 20:31:00 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-      "published": "Fri, 20 Nov 2026 10:38:20 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
-      "published": "Fri, 20 Nov 2026 14:17:02 +0000",
-      "sentiment": 0.03174603174603176
-    },
-    {
-      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "published": "Fri, 20 Nov 2026 13:56:56 +0000",
-      "sentiment": 0.1875
-    },
-    {
       "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
       "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
       "published": "Sun, 22 Nov 2026 05:01:13 +0000",
       "sentiment": -0.044444444444444446
-    },
-    {
-      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-      "published": "Sun, 22 Nov 2026 06:51:28 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-      "published": "Sun, 22 Nov 2026 04:28:43 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-      "published": "Sun, 22 Nov 2026 03:44:19 +0000",
-      "sentiment": -0.06666666666666667
     },
     {
       "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
@@ -151,10 +115,34 @@
       "sentiment": 0.21212121212121213
     },
     {
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+      "published": "Fri, 20 Nov 2026 20:22:14 +0000",
+      "sentiment": 0.025
+    },
+    {
       "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
       "link": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
       "published": "Fri, 20 Nov 2026 23:29:25 +0000",
       "sentiment": -0.1
+    },
+    {
+      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+      "published": "Sat, 21 Nov 2026 07:11:24 +0000",
+      "sentiment": 0.275
+    },
+    {
+      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "published": "Fri, 20 Nov 2026 20:31:00 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+      "published": "Fri, 20 Nov 2026 10:38:20 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Turkey’s Van Cats Contend With Rising Temperatures",
@@ -163,10 +151,28 @@
       "sentiment": 0.15000000000000002
     },
     {
+      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+      "published": "Fri, 20 Nov 2026 23:05:46 +0000",
+      "sentiment": 0.125
+    },
+    {
       "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
       "link": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
       "published": "Fri, 20 Nov 2026 08:13:07 +0000",
       "sentiment": 0.19888888888888887
+    },
+    {
+      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+      "published": "Fri, 20 Nov 2026 13:56:56 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Gen Z Is Driving Global Political Change, Aiding Far Left and Far Right",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/youth-protests-far-right-left.html",
+      "published": "Fri, 20 Nov 2026 14:17:02 +0000",
+      "sentiment": 0.03174603174603176
     },
     {
       "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
@@ -293,24 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
       "published": "Thu, 19 Nov 2026 12:41:50 +0000",
       "sentiment": -0.25
-    },
-    {
-      "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
-      "link": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
-      "published": "Thu, 19 Nov 2026 18:55:36 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
-      "published": "Thu, 19 Nov 2026 12:08:19 +0000",
-      "sentiment": -0.1392857142857143
-    },
-    {
-      "title": "On nukes, Trump says, ‘It’s very hard to give them up.’ It’s been done before.",
-      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/on-nukes-trump-says-its-very-hard-to-give-them-up-its-been-done-before",
-      "published": "Thu, 19 Nov 2026 10:41:37 +0000",
-      "sentiment": -0.3791666666666667
     }
   ]
 }
