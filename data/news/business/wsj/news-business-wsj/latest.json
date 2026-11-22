@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Delta Delays Hundreds of Flights Over System Outage",
+      "link": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 22 Nov 2026 17:28:00 GMT",
+      "sentiment": 0.15625
+    },
+    {
       "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
       "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=pls_whats_news_us_business_f",
       "published": "Sun, 22 Nov 2026 10:30:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/ken-griffin-citadel-miami-carnegie-mellon-338bcd20?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
       "sentiment": 0.08928571428571429
-    },
-    {
-      "title": "How Mercedes-Benz Nearly Became Collateral Damage in a Chinese Car Ban",
-      "link": "https://www.wsj.com/business/autos/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-4101cd7f?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 00:38:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
@@ -127,6 +127,12 @@
       "sentiment": -0.0125
     },
     {
+      "title": "How Mercedes-Benz Nearly Became Collateral Damage in a Chinese Car Ban",
+      "link": "https://www.wsj.com/business/autos/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-4101cd7f?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 00:38:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Who Will Succeed Mary Barra as GM’s Next CEO? A Look at Three Candidates",
       "link": "https://www.wsj.com/business/autos/who-will-succeed-mary-barra-as-gms-next-ceo-a-look-at-three-candidates-1aaeaa17?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 15:00:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 18:41:00 GMT",
       "sentiment": 0.012500000000000004
-    },
-    {
-      "title": "Tesla Will Invest $3.31 Billion to Expand German Factory for Cybercab Production",
-      "link": "https://www.wsj.com/business/autos/tesla-to-invest-over-3-billion-to-expand-german-factory-in-cybercab-bet-6355017a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 21:33:00 GMT",
-      "sentiment": 0.1787878787878788
     },
     {
       "title": "Opinion | Why China Wants to Control a Yacht Maker",
@@ -481,16 +481,16 @@
       "sentiment": 0.11212121212121212
     },
     {
-      "title": "The CEO Who Thinks Corporate America Failed the Political Test",
-      "link": "https://www.wsj.com/business/patagonia-ceo-ryan-gellert-fb5ef0f8?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 18:40:00 GMT",
-      "sentiment": -0.16111111111111112
-    },
-    {
       "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
       "link": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
       "sentiment": 0.39999999999999997
+    },
+    {
+      "title": "The CEO Who Thinks Corporate America Failed the Political Test",
+      "link": "https://www.wsj.com/business/patagonia-ceo-ryan-gellert-fb5ef0f8?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 18:40:00 GMT",
+      "sentiment": -0.16111111111111112
     },
     {
       "title": "Best Small-Business Loans in November 2026",
