@@ -37,6 +37,12 @@
       "sentiment": 0.14166666666666666
     },
     {
+      "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
+      "link": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 06:59:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
       "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 04:51:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 21:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Textron Selling Industrial Segment to Kingswood Capital for $1.2 Billion",
-      "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 13:11:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
@@ -193,6 +193,12 @@
       "sentiment": 0.45
     },
     {
+      "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
+      "link": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 06:28:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
       "link": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 17:00:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 21:16:00 GMT",
       "sentiment": 0.09
-    },
-    {
-      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 10:56:00 GMT",
-      "sentiment": 0.09545454545454546
     },
     {
       "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
@@ -463,16 +463,16 @@
       "sentiment": 0.5
     },
     {
-      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-      "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.175
-    },
-    {
       "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
       "link": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 22 Nov 2026 21:49:00 GMT",
       "sentiment": 0.15625
+    },
+    {
+      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.175
     },
     {
       "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
@@ -481,16 +481,16 @@
       "sentiment": 0.39999999999999997
     },
     {
-      "title": "Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
-      "link": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 22:50:00 GMT",
-      "sentiment": 0.11212121212121212
-    },
-    {
       "title": "The CEO Who Thinks Corporate America Failed the Political Test",
       "link": "https://www.wsj.com/business/patagonia-ceo-ryan-gellert-fb5ef0f8?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 18:40:00 GMT",
       "sentiment": -0.16111111111111112
+    },
+    {
+      "title": "Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
+      "link": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 22:50:00 GMT",
+      "sentiment": 0.11212121212121212
     },
     {
       "title": "Best Small-Business Loans in November 2026",
