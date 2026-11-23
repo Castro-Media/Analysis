@@ -3,7 +3,13 @@
     {
       "title": "Nvidia Board Reinstates Jensen Huang as CEO",
       "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 18:01:00 GMT",
+      "published": "Mon, 23 Nov 2026 19:42:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
+      "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 19:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 10:36:00 GMT",
       "sentiment": 0.35
-    },
-    {
-      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
-      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.011111111111111118
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
@@ -313,6 +313,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "IMAX to Show Super Bowl LXI in Theaters Through Partnership With Disney, the NFL",
+      "link": "https://www.wsj.com/business/media/imax-to-show-super-bowl-lxi-in-theaters-through-partnership-with-disney-the-nfl-997dc4be?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 19:18:00 GMT",
+      "sentiment": 0.029523809523809515
+    },
+    {
       "title": "The Dating App Tapping A24 to Keep Users Coming Back for More",
       "link": "https://www.wsj.com/cmo-today/the-dating-app-tapping-a24-to-keep-users-coming-back-for-more-49f63f8b?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 14:11:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 20:41:00 GMT",
       "sentiment": 0.375
-    },
-    {
-      "title": "After a Week of Tech Panics, Columbia Takes Its ‘Don’t Panic Room’ to Times Square",
-      "link": "https://www.wsj.com/cmo-today/after-a-week-of-tech-panics-columbia-takes-its-dont-panic-room-to-times-square-47bd4af8?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 11:01:00 GMT",
-      "sentiment": -0.015151515151515152
     },
     {
       "title": "Labor Deal Fends Off Strike Threat at Ports of L.A., Long Beach",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
+      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.011111111111111118
+    },
+    {
       "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
       "link": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 01:44:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/ken-griffin-citadel-miami-carnegie-mellon-338bcd20?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
       "sentiment": 0.08928571428571429
-    },
-    {
-      "title": "How to Survive the Coming Age of Everything Breaking",
-      "link": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 00:00:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
