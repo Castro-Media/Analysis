@@ -103,16 +103,22 @@
       "sentiment": 0.6666666666666666
     },
     {
-      "title": "European Stock Indexes Higher in Cautious Trade",
+      "title": "European Tech Stocks Rally as Traders Buy AI Dip",
       "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 08:41:00 GMT",
-      "sentiment": 0.16999999999999998
+      "published": "Mon, 23 Nov 2026 09:52:00 GMT",
+      "sentiment": -0.025
     },
     {
-      "title": "German Bund Yields Rise, French Yields Fall Ahead of PMI Data",
+      "title": "Euro, Eurozone Yields Show Limited Reaction to Eurozone PMI Data",
       "link": "https://www.wsj.com/articles/german-bund-yields-rise-french-yields-fall-ahead-of-pmi-data-c4d45e93?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 08:21:00 GMT",
-      "sentiment": 0.0
+      "published": "Mon, 23 Nov 2026 09:48:00 GMT",
+      "sentiment": -0.0863095238095238
+    },
+    {
+      "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls",
+      "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 09:25:00 GMT",
+      "sentiment": 0.12142857142857143
     },
     {
       "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
@@ -127,10 +133,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "What It’s Like to Retire in Thailand",
-      "link": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
-      "published": "Sat, 21 Nov 2026 17:00:00 GMT",
-      "sentiment": 0.4166666666666667
+      "title": "Stock Futures Rally as Dust Settles After AI-Driven Selloff",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 09:50:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
@@ -154,12 +160,6 @@
       "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 22:24:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nasdaq Turns Red For The Year",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 21:50:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -199,6 +199,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Oil Prices May Stay Elevated in Near Term",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 09:50:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
       "title": "Gold Rebounds From Last Week’s Plunge, With Focus on U.S. Inflation Data",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 08:47:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 08:18:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Remains in Tight Range Amid Surplus Expectations, Gulf Attacks",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 08:15:00 GMT",
-      "sentiment": -0.11904761904761905
     },
     {
       "title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
@@ -229,10 +229,10 @@
       "sentiment": 0.03333333333333334
     },
     {
-      "title": "Euro Pares Gains, French Yields Fall After Weak French PMI Data",
+      "title": "Continued Euro Weakness Looks Likely For Now",
       "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 08:45:00 GMT",
-      "sentiment": -0.095
+      "published": "Mon, 23 Nov 2026 09:11:00 GMT",
+      "sentiment": 0.13333333333333333
     },
     {
       "title": "WSJ Dollar Index Rises 0.42% This Week to 98.75",
@@ -289,6 +289,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Nasdaq Turns Red For The Year",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 21:50:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Grabbing Inflation Protection Now Is a No-Brainer",
       "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 11:16:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 05:40:00 GMT",
       "sentiment": -0.18333333333333335
-    },
-    {
-      "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "sentiment": -0.3333333333333333
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
