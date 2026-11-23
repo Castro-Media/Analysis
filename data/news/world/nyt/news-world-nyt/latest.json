@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+      "published": "Mon, 23 Nov 2026 10:26:17 +0000",
+      "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Ukraine Claims Strikes on Russian Ships Near Libya",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+      "published": "Mon, 23 Nov 2026 09:59:08 +0000",
+      "sentiment": 0.011111111111111118
+    },
+    {
+      "title": "Dozens Unaccounted for After Fire Rips Through Candy Factory in Indonesia",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
+      "published": "Mon, 23 Nov 2026 10:45:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
+      "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+      "published": "Mon, 23 Nov 2026 10:02:48 +0000",
+      "sentiment": 0.09999999999999999
+    },
+    {
       "title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
       "link": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
       "published": "Mon, 23 Nov 2026 05:49:03 +0000",
@@ -61,30 +85,6 @@
       "sentiment": 0.06666666666666668
     },
     {
-      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-      "published": "Sun, 22 Nov 2026 10:16:39 +0000",
-      "sentiment": -0.10000000000000002
-    },
-    {
-      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-      "published": "Fri, 20 Nov 2026 10:38:20 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-      "published": "Sat, 21 Nov 2026 13:35:19 +0000",
-      "sentiment": 0.05916666666666668
-    },
-    {
-      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
-      "published": "Sat, 21 Nov 2026 12:54:44 +0000",
-      "sentiment": 0.34
-    },
-    {
       "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
       "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
       "published": "Mon, 23 Nov 2026 05:33:31 +0000",
@@ -127,6 +127,18 @@
       "sentiment": -0.044444444444444446
     },
     {
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "published": "Sun, 22 Nov 2026 10:16:39 +0000",
+      "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+      "published": "Sat, 21 Nov 2026 13:35:19 +0000",
+      "sentiment": 0.05916666666666668
+    },
+    {
       "title": "A Chinese Tech Hub Offers a Peek at the Electric Cars Headed for Canada",
       "link": "https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html",
       "published": "Sat, 21 Nov 2026 11:00:08 +0000",
@@ -143,6 +155,12 @@
       "link": "https://www.nytimes.com/2026/11/21/world/europe/butler-school-international-butler-academy-netherlands.html",
       "published": "Sat, 21 Nov 2026 14:17:42 +0000",
       "sentiment": 0.1
+    },
+    {
+      "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+      "published": "Sat, 21 Nov 2026 12:54:44 +0000",
+      "sentiment": 0.34
     },
     {
       "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
@@ -191,6 +209,12 @@
       "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
       "published": "Fri, 20 Nov 2026 20:31:00 +0000",
       "sentiment": -0.03333333333333333
+    },
+    {
+      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
+      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
+      "published": "Fri, 20 Nov 2026 10:38:20 +0000",
+      "sentiment": 0.5
     },
     {
       "title": "Turkey’s Van Cats Contend With Rising Temperatures",
@@ -293,30 +317,6 @@
       "link": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
       "published": "Thu, 19 Nov 2026 18:47:57 +0000",
       "sentiment": 0.03214285714285714
-    },
-    {
-      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-      "published": "Thu, 19 Nov 2026 16:51:57 +0000",
-      "sentiment": -0.1111111111111111
-    },
-    {
-      "title": "The Rohingya Crisis Over the Years",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
-      "published": "Thu, 19 Nov 2026 16:27:27 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
-      "link": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
-      "published": "Thu, 19 Nov 2026 15:08:16 +0000",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Greenland Pulls Closer to the U.S. — by an Hour",
-      "link": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
-      "published": "Thu, 19 Nov 2026 16:14:06 +0000",
-      "sentiment": 0.0
     }
   ]
 }

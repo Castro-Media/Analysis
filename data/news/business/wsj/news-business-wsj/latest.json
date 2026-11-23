@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
+      "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:36:00 GMT",
+      "sentiment": 0.35
+    },
+    {
+      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill?’",
+      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
       "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 02:00:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=pls_whats_news_us_business_f",
       "published": "Sun, 22 Nov 2026 10:30:00 GMT",
       "sentiment": -0.05000000000000001
-    },
-    {
-      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-      "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
-      "link": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.14166666666666666
     },
     {
       "title": "Monte dei Paschi’s Board Sends Mixed Signals Over Intesa’s $37 Billion Offer",
@@ -313,6 +313,12 @@
       "sentiment": 0.3
     },
     {
+      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+      "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "After a Week of Tech Panics, Columbia Takes Its ‘Don’t Panic Room’ to Times Square",
       "link": "https://www.wsj.com/cmo-today/after-a-week-of-tech-panics-columbia-takes-its-dont-panic-room-to-times-square-47bd4af8?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 11:01:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 01:00:00 GMT",
       "sentiment": 0.12222222222222223
-    },
-    {
-      "title": "8 Gifts That Evoke the Simple Pleasures of Paper",
-      "link": "https://www.wsj.com/style/fashion/paper-notebook-analog-gifts-f6c46da9?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 19:30:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Tentative Deal Averts Strike Threat at Busiest U.S. Ports",
@@ -433,6 +433,18 @@
       "sentiment": -0.1
     },
     {
+      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.175
+    },
+    {
+      "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
+      "link": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.14166666666666666
+    },
+    {
       "title": "Oxford and MIT Didn’t Bite. So Ken Griffin Took His Miami Campus Elsewhere.",
       "link": "https://www.wsj.com/business/ken-griffin-citadel-miami-carnegie-mellon-338bcd20?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
@@ -449,18 +461,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-11dded66?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 21:55:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "The CEO Who Thinks Corporate America Failed the Political Test",
-      "link": "https://www.wsj.com/business/patagonia-ceo-ryan-gellert-fb5ef0f8?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 18:40:00 GMT",
-      "sentiment": -0.16111111111111112
-    },
-    {
-      "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
-      "link": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 17:28:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
@@ -487,10 +487,10 @@
       "sentiment": -0.16111111111111112
     },
     {
-      "title": "Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
-      "link": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 22:50:00 GMT",
-      "sentiment": 0.11212121212121212
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 19 Nov 2026 21:56:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
