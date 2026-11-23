@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Cocaine Gangs Batter Colombian Security Forces in Wave of Attacks",
+      "link": "https://www.wsj.com/world/americas/cocaine-gangs-batter-colombian-security-forces-in-wave-of-attacks-3f14fa2e?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 21:54:00 GMT",
+      "sentiment": -0.25
+    },
+    {
       "title": "Inside the Ukrainian Attack That Sank Russian Warship Docked in Libya",
       "link": "https://www.wsj.com/world/inside-the-ukrainian-attack-that-sank-russian-warship-docked-in-libya-2dbd658b?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 21:45:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/asia/north-koreas-kim-jong-un-welcomes-new-envoys-friendly-toward-us-8102b4aa?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 09:26:00 GMT",
       "sentiment": 0.17045454545454544
-    },
-    {
-      "title": "The Russian Exile Behind the Missiles That Helped Destroy the Crimea Bridge",
-      "link": "https://www.wsj.com/world/the-russian-exile-behind-the-missiles-that-helped-destroy-the-crimea-bridge-39adfa66?mod=rss_worldnews",
-      "published": "Mon, 23 Nov 2026 03:00:00 GMT",
-      "sentiment": -0.20000000000000004
     },
     {
       "title": "Fugitive Criminals Need a New Hideout Since the U.A.E. Started Extraditing Them",
@@ -157,6 +157,30 @@
       "sentiment": -0.01190476190476191
     },
     {
+      "title": "Opinion | Sanctioning People for Building Homes in the West Bank",
+      "link": "https://www.wsj.com/opinion/sanctioning-people-for-building-homes-in-the-west-bank-47c51eb7?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 22:49:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | What Napoleon Teaches Us About Meritocracy",
+      "link": "https://www.wsj.com/opinion/what-napoleon-teaches-us-about-meritocracy-475118a4?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 21:56:00 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Opinion | Trump’s Focus Moves to Foreign Policy",
+      "link": "https://www.wsj.com/opinion/trumps-focus-moves-to-foreign-policy-a8004ad5?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 21:56:00 GMT",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Opinion | Anchors Aweigh on the SS United States",
+      "link": "https://www.wsj.com/opinion/anchors-aweigh-on-the-ss-united-states-db357c33?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 21:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Opinion | Marco Rubio Is Hostage to a Failing Foreign Policy",
       "link": "https://www.wsj.com/opinion/marco-rubio-is-hostage-to-a-failing-foreign-policy-d4ddaeca?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 18:33:00 GMT",
@@ -169,34 +193,16 @@
       "sentiment": -0.5
     },
     {
-      "title": "Opinion | America Hits the Brakes on AI",
-      "link": "https://www.wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996?mod=rss_worldnews",
-      "published": "Sun, 22 Nov 2026 20:47:00 GMT",
-      "sentiment": -0.6999999999999998
-    },
-    {
-      "title": "Opinion | The Guatemalan Lawyer Who Beat Putin",
-      "link": "https://www.wsj.com/opinion/the-guatemalan-lawyer-who-beat-putin-59b34daa?mod=rss_worldnews",
-      "published": "Sun, 22 Nov 2026 17:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Iran Doubles Down on Its Nuclear Ambitions",
-      "link": "https://www.wsj.com/opinion/iran-doubles-down-on-its-nuclear-ambitions-3d3ca7d3?mod=rss_worldnews",
-      "published": "Sun, 22 Nov 2026 16:43:00 GMT",
-      "sentiment": -0.15555555555555556
-    },
-    {
-      "title": "Opinion | Vladimir Putin’s Existential Fight for Ukraine",
-      "link": "https://www.wsj.com/opinion/vladimir-putins-existential-fight-for-ukraine-5b9383b1?mod=rss_worldnews",
-      "published": "Sun, 22 Nov 2026 15:49:00 GMT",
-      "sentiment": -0.15
-    },
-    {
       "title": "EU Probes Coca-Cola Bottler, Citing Antitrust Concerns",
       "link": "https://www.wsj.com/world/europe/eu-probes-coca-cola-bottler-citing-antitrust-concerns-7717c957?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 17:27:00 GMT",
       "sentiment": 0.05
+    },
+    {
+      "title": "The Russian Exile Behind the Missiles That Helped Destroy the Crimea Bridge",
+      "link": "https://www.wsj.com/world/the-russian-exile-behind-the-missiles-that-helped-destroy-the-crimea-bridge-39adfa66?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 03:00:00 GMT",
+      "sentiment": -0.20000000000000004
     },
     {
       "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d?mod=rss_worldnews",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
       "sentiment": 0.028787878787878782
-    },
-    {
-      "title": "Denmark Accuses Russia of Trying to Kill Ukrainian Rapper",
-      "link": "https://www.wsj.com/world/europe/denmark-accuses-russia-of-trying-to-kill-ukrainian-rapper-a3a5e34c?mod=rss_worldnews",
-      "published": "Sat, 21 Nov 2026 00:39:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Trump, Xi, Putin End Historic Summit With Denunciation of Nuclear War",
