@@ -3,8 +3,14 @@
     {
       "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
       "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
-      "published": "Mon, 23 Nov 2026 11:33:01 +0000",
+      "published": "Mon, 23 Nov 2026 17:12:13 +0000",
       "sentiment": 0.2333333333333333
+    },
+    {
+      "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+      "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+      "published": "Mon, 23 Nov 2026 17:27:31 +0000",
+      "sentiment": -0.3
     },
     {
       "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
@@ -13,9 +19,9 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "Ukraine’s Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+      "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
       "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-      "published": "Mon, 23 Nov 2026 16:08:22 +0000",
+      "published": "Mon, 23 Nov 2026 17:18:44 +0000",
       "sentiment": 0.14523809523809525
     },
     {
@@ -79,12 +85,6 @@
       "sentiment": 0.19
     },
     {
-      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
-      "published": "Mon, 23 Nov 2026 15:41:25 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "COP31 Climate Talks Broke Down. Now What?",
       "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
       "published": "Mon, 23 Nov 2026 16:18:49 +0000",
@@ -99,19 +99,19 @@
     {
       "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
       "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
-      "published": "Mon, 23 Nov 2026 15:37:01 +0000",
+      "published": "Mon, 23 Nov 2026 17:50:10 +0000",
       "sentiment": -0.05
     },
     {
       "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
       "link": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
-      "published": "Mon, 23 Nov 2026 15:15:19 +0000",
+      "published": "Mon, 23 Nov 2026 17:44:58 +0000",
       "sentiment": 0.0
     },
     {
       "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
       "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
-      "published": "Mon, 23 Nov 2026 01:32:02 +0000",
+      "published": "Mon, 23 Nov 2026 17:15:17 +0000",
       "sentiment": -0.26666666666666666
     },
     {
@@ -123,7 +123,7 @@
     {
       "title": "A Landmark Genocide Ruling",
       "link": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
-      "published": "Mon, 23 Nov 2026 05:40:35 +0000",
+      "published": "Mon, 23 Nov 2026 05:40:36 +0000",
       "sentiment": 0.13333333333333333
     },
     {
@@ -155,6 +155,12 @@
       "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
       "published": "Sun, 22 Nov 2026 10:16:39 +0000",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+      "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+      "published": "Mon, 23 Nov 2026 15:41:25 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
@@ -299,18 +305,6 @@
       "link": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
       "published": "Thu, 19 Nov 2026 21:17:13 +0000",
       "sentiment": 0.2
-    },
-    {
-      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
-      "link": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
-      "published": "Fri, 20 Nov 2026 14:16:51 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
-      "published": "Fri, 20 Nov 2026 22:34:05 +0000",
-      "sentiment": 0.4041666666666666
     }
   ]
 }
