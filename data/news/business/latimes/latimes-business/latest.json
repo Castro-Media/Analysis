@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Huang's reinstatement, at Trump's urging, prompts national security concerns, outcry from lawmakers",
+      "link": "https://www.latimes.com/politics/story/2026-11-23/jensen-huang-is-reinstated-at-nvidia-after-trump-intervenes",
+      "published": "Mon, 23 Nov 2026 21:47:45 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Waymo pauses service ahead of San Francisco storms",
       "link": "https://www.latimes.com/business/story/2026-11-23/waymo-pauses-service-ahead-of-san-francisco-storms",
       "published": "Mon, 23 Nov 2026 19:19:40 GMT",
@@ -241,16 +247,16 @@
       "sentiment": -0.05
     },
     {
-      "title": "Hiltzik: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
-      "link": "https://www.latimes.com/business/story/2026-11-12/the-meltdown-in-tech-and-science-jobs-has-happened-before-will-happen-again",
-      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
       "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
       "link": "https://www.latimes.com/business/story/2026-11-12/cancer-institute-backed-by-larry-ellison-plans-major-layoffs-in-los-angeles",
       "published": "Thu, 12 Nov 2026 11:00:00 GMT",
       "sentiment": 0.04971590909090909
+    },
+    {
+      "title": "Hiltzik: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
+      "link": "https://www.latimes.com/business/story/2026-11-12/the-meltdown-in-tech-and-science-jobs-has-happened-before-will-happen-again",
+      "published": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Look dine-in theater chain to reopen former iPic theater in Pasadena",
@@ -391,6 +397,12 @@
       "sentiment": 0.11742424242424243
     },
     {
+      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
+      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.029356060606060594
+    },
+    {
       "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
       "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
@@ -401,12 +413,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
-      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.029356060606060594
     },
     {
       "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
@@ -433,16 +439,16 @@
       "sentiment": 0.11875
     },
     {
-      "title": "Utilities lobby for shield from wildfire costs",
-      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.12000000000000002
-    },
-    {
       "title": "Hiltzik: Can AI bots become conscious? Why Microsoft's AI boss says that's the wrong question",
       "link": "https://www.latimes.com/business/story/2026-11-03/ai-bots-conscious-microsoft-ai-boss-anthropic-suleyman-intelligence",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.10000000000000002
+    },
+    {
+      "title": "Utilities lobby for shield from wildfire costs",
+      "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.12000000000000002
     },
     {
       "title": "Newsom proposes $1-billion cap for film and TV tax incentive",
@@ -511,10 +517,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
-      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
+      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
+      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.14166666666666666
+      "sentiment": 0.08901515151515152
     },
     {
       "title": "As Californian ports push truckers to go green, the struggling industry asks for more subsidies",
@@ -523,10 +529,10 @@
       "sentiment": 0.08333333333333333
     },
     {
-      "title": "Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business",
-      "link": "https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism",
+      "title": "California's billionaire tax battle is playing out on Instagram — with paid influencers",
+      "link": "https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle",
       "published": "Thu, 29 Oct 2026 10:00:00 GMT",
-      "sentiment": 0.08901515151515152
+      "sentiment": 0.14166666666666666
     },
     {
       "title": "Disney's theme parks division lays off at least 100 employees",
