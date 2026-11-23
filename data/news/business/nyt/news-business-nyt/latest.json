@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "Here’s the latest.",
+      "link": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
+      "published": "Mon, 23 Nov 2026 14:42:52 +0000",
+      "sentiment": 0.25
+    },
+    {
       "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
       "link": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
-      "published": "Mon, 23 Nov 2026 13:47:16 +0000",
+      "published": "Mon, 23 Nov 2026 14:22:43 +0000",
       "sentiment": 0.0
     },
     {
@@ -49,10 +55,10 @@
       "sentiment": 0.7
     },
     {
-      "title": "Wall Street Set to Bounce Back After Tech Sell-Off",
+      "title": "Wall Street Surges After Jensen Huang’s Return to Nvidia",
       "link": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
-      "published": "Mon, 23 Nov 2026 12:56:40 +0000",
-      "sentiment": 0.07916666666666666
+      "published": "Mon, 23 Nov 2026 14:48:53 +0000",
+      "sentiment": -0.075
     },
     {
       "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
@@ -293,12 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
       "published": "Fri, 20 Nov 2026 17:11:42 +0000",
       "sentiment": 0.02708333333333333
-    },
-    {
-      "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
-      "link": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
-      "published": "Fri, 20 Nov 2026 02:44:44 +0000",
-      "sentiment": 0.13333333333333333
     }
   ]
 }
