@@ -1,7 +1,19 @@
 {
   "entries": [
     {
-      "title": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
+      "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
+      "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
+      "link": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 01:44:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
       "link": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 22 Nov 2026 21:49:00 GMT",
       "sentiment": 0.15625
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 02:00:00 GMT",
       "sentiment": 0.14166666666666666
-    },
-    {
-      "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
-      "link": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.39999999999999997
-    },
-    {
-      "title": "Oxford and MIT Didn’t Bite. So Ken Griffin Took His Miami Campus Elsewhere.",
-      "link": "https://www.wsj.com/business/ken-griffin-citadel-miami-carnegie-mellon-338bcd20?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.08928571428571429
     },
     {
       "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
@@ -67,6 +67,12 @@
       "sentiment": -0.05
     },
     {
+      "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
+      "link": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.39999999999999997
+    },
+    {
       "title": "Wonder Explores Sale of Food-Delivery Business Grubhub",
       "link": "https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 22:46:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 16:10:00 GMT",
       "sentiment": 0.22777777777777777
-    },
-    {
-      "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
-      "link": "https://www.wsj.com/logistics-report/union-pacific-ceo-apologizes-as-march-remark-fuels-opposition-to-merger-028c18ec?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 12:02:00 GMT",
-      "sentiment": 0.29523809523809524
     },
     {
       "title": "Lufthansa to Cut 1,000 Jobs at Flagship Airline as Challenges Mount",
@@ -349,6 +349,12 @@
       "sentiment": -0.0875
     },
     {
+      "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
+      "link": "https://www.wsj.com/logistics-report/union-pacific-ceo-apologizes-as-march-remark-fuels-opposition-to-merger-028c18ec?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 12:02:00 GMT",
+      "sentiment": 0.29523809523809524
+    },
+    {
       "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
       "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 22:26:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/strike-threat-rises-at-ports-of-l-a-and-long-beach-8cdc3d7b?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 12:00:00 GMT",
       "sentiment": 0.11666666666666668
-    },
-    {
-      "title": "Auto & Transport Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-106eebc0?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 21:54:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Oxford and MIT Didn’t Bite. So Ken Griffin Took His Miami Campus Elsewhere.",
+      "link": "https://www.wsj.com/business/ken-griffin-citadel-miami-carnegie-mellon-338bcd20?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.08928571428571429
+    },
+    {
       "title": "How to Survive the Coming Age of Everything Breaking",
       "link": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 00:00:00 GMT",
@@ -457,34 +463,28 @@
       "sentiment": 0.5
     },
     {
-      "title": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-ai-firms-are-hooked-on-nvidia-chips-now-comes-the-withdrawal-57391e23?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 12:57:00 GMT",
-      "sentiment": -0.2
-    },
-    {
       "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 10:30:00 GMT",
       "sentiment": 0.175
     },
     {
-      "title": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
+      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
       "link": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 22 Nov 2026 21:49:00 GMT",
       "sentiment": 0.15625
-    },
-    {
-      "title": "Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
-      "link": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 22:50:00 GMT",
-      "sentiment": 0.11212121212121212
     },
     {
       "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
       "link": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
       "sentiment": 0.39999999999999997
+    },
+    {
+      "title": "Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
+      "link": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 22:50:00 GMT",
+      "sentiment": 0.11212121212121212
     },
     {
       "title": "The CEO Who Thinks Corporate America Failed the Political Test",
