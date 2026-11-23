@@ -7,6 +7,24 @@
       "sentiment": 0.5
     },
     {
+      "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
+      "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 02:00:00 GMT",
+      "sentiment": -0.09351851851851851
+    },
+    {
+      "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
+      "link": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 01:44:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Has the AI Bubble Already Burst?",
       "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
       "published": "Sun, 22 Nov 2026 10:30:00 GMT",
@@ -23,24 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
       "published": "Sat, 21 Nov 2026 02:16:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 23:36:00 GMT",
-      "sentiment": -0.4326388888888889
-    },
-    {
-      "title": "Nasdaq Turns Red For The Year",
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 21:50:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
-      "link": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 16:59:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
@@ -73,6 +73,12 @@
       "sentiment": -0.09999999999999999
     },
     {
+      "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+      "link": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 16:59:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
       "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 09:18:00 GMT",
@@ -95,12 +101,6 @@
       "link": "https://www.wsj.com/finance/banking/jpmorgan-chase-names-bregje-de-best-to-succeed-jeremy-barnum-as-cfo-ea77f240?mod=rss_markets_main",
       "published": "Tue, 17 Nov 2026 16:34:00 GMT",
       "sentiment": 0.6666666666666666
-    },
-    {
-      "title": "Deutsche Bank Shares Drop After Leaks Put Spotlight on Troubled Past",
-      "link": "https://www.wsj.com/finance/deutsche-bank-shares-drop-after-wide-ranging-whistleblower-leaks-bc550948?mod=rss_markets_main",
-      "published": "Tue, 17 Nov 2026 14:14:00 GMT",
-      "sentiment": -0.25
     },
     {
       "title": "What It’s Like to Retire in Thailand",
@@ -133,9 +133,27 @@
       "sentiment": 0.0
     },
     {
+      "title": "Some Underperforming Japan Stocks May Start Rising After Strong Results",
+      "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 01:05:00 GMT",
+      "sentiment": 0.15212121212121213
+    },
+    {
+      "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 23:36:00 GMT",
+      "sentiment": -0.4326388888888889
+    },
+    {
       "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 22:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nasdaq Turns Red For The Year",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 21:50:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -143,24 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
       "published": "Fri, 20 Nov 2026 19:31:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 09:02:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
-      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 05:40:00 GMT",
-      "sentiment": -0.18333333333333335
-    },
-    {
-      "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
-      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "sentiment": -0.3333333333333333
     },
     {
       "title": "Opinion | How to Kill a Bull Market",
@@ -295,6 +295,18 @@
       "sentiment": 0.09545454545454546
     },
     {
+      "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 05:40:00 GMT",
+      "sentiment": -0.18333333333333335
+    },
+    {
+      "title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
       "title": "Anthropic’s IPO Mints New Millionaires",
       "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 22:41:00 GMT",
@@ -305,18 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/two-big-debuts-fail-to-boost-stocks-b68b79b1?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 21:43:00 GMT",
       "sentiment": -0.25
-    },
-    {
-      "title": "What to Know About Anthropic’s Record-Breaking IPO",
-      "link": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 18:14:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Bond Market’s Surprising Take on the AI Trade",
-      "link": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 11:26:00 GMT",
-      "sentiment": 0.43
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
