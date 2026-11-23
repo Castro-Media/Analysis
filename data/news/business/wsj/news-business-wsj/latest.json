@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+      "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
+      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
+      "sentiment": -0.10111111111111111
+    },
+    {
       "title": "Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again",
       "link": "https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 20:48:00 GMT",
       "sentiment": -0.033712121212121214
-    },
-    {
-      "title": "Nvidia Board Reinstates Jensen Huang as CEO",
-      "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 19:42:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 17:23:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Five Urgent Questions in D.C. About Jensen Huang’s Return as Nvidia CEO",
-      "link": "https://www.wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 15:57:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
@@ -67,6 +67,12 @@
       "sentiment": 0.125
     },
     {
+      "title": "HPE Lifts Outlook as AI Demand Boosts Revenue, Profit",
+      "link": "https://www.wsj.com/business/earnings/hpe-lifts-outlook-as-ai-demand-boosts-revenue-profit-1ae221df?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:37:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "EU Probes Coca-Cola Bottler, Citing Antitrust Concerns",
       "link": "https://www.wsj.com/world/europe/eu-probes-coca-cola-bottler-citing-antitrust-concerns-7717c957?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 17:27:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
       "sentiment": 0.39999999999999997
-    },
-    {
-      "title": "Wonder Explores Sale of Food-Delivery Business Grubhub",
-      "link": "https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 22:46:00 GMT",
-      "sentiment": -0.0625
     },
     {
       "title": "BJ’s Wholesale Raises Outlook, But Promotions Weigh on Margins",
@@ -193,22 +193,16 @@
       "sentiment": -0.2
     },
     {
+      "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:08:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-39f5dead?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 17:25:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "U.S. Natural Gas Futures Hand Back Last Week’s Gains",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 13:34:00 GMT",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 12:58:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 17:00:00 GMT",
       "sentiment": -0.11666666666666665
+    },
+    {
+      "title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 22:09:00 GMT",
+      "sentiment": -0.09999999999999999
     },
     {
       "title": "How Southwest, Target and AT&T Finance Chiefs Think About the Human in the Loop",
@@ -283,6 +283,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Wonder Explores Sale of Food-Delivery Business Grubhub",
+      "link": "https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 22:46:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
       "link": "https://www.wsj.com/business/wingstop-aws-digital-ordering-8e4567d1?mod=pls_whats_news_us_business_f",
       "published": "Sat, 14 Nov 2026 01:00:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/business/earnings/wendys-rejects-1-4-billion-buyout-offer-from-nelson-peltzs-trian-c97c7b0d?mod=pls_whats_news_us_business_f",
       "published": "Thu, 05 Nov 2026 13:24:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
-      "link": "https://www.wsj.com/business/deals/wendys-rejects-trians-1-4-billion-takeover-offer-984b1892?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 05 Nov 2026 13:20:00 GMT",
-      "sentiment": 0.3
     },
     {
       "title": "IMAX to Show Super Bowl LXI in Theaters Through Partnership With Disney, the NFL",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Five Urgent Questions in D.C. About Jensen Huang’s Return as Nvidia CEO",
+      "link": "https://www.wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 15:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
       "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 10:36:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 10:30:00 GMT",
       "sentiment": 0.175
-    },
-    {
-      "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
-      "link": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.14166666666666666
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
