@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+      "link": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+      "published": "Mon, 23 Nov 2026 13:47:16 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Can Jensen Huang Return to Nvidia?",
+      "link": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+      "published": "Mon, 23 Nov 2026 13:22:23 +0000",
+      "sentiment": 0.06818181818181818
+    },
+    {
+      "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
+      "link": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
+      "published": "Mon, 23 Nov 2026 13:08:05 +0000",
+      "sentiment": -0.26875
+    },
+    {
       "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
       "link": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
       "published": "Mon, 23 Nov 2026 10:03:46 +0000",
@@ -21,7 +39,7 @@
     {
       "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
       "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-      "published": "Mon, 23 Nov 2026 05:33:32 +0000",
+      "published": "Mon, 23 Nov 2026 13:18:42 +0000",
       "sentiment": 0.1590909090909091
     },
     {
@@ -33,7 +51,7 @@
     {
       "title": "Wall Street Set to Bounce Back After Tech Sell-Off",
       "link": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
-      "published": "Mon, 23 Nov 2026 12:53:41 +0000",
+      "published": "Mon, 23 Nov 2026 12:56:40 +0000",
       "sentiment": 0.07916666666666666
     },
     {
@@ -281,24 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
       "published": "Fri, 20 Nov 2026 02:44:44 +0000",
       "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
-      "link": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
-      "published": "Thu, 19 Nov 2026 21:39:12 +0000",
-      "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "How Much Anthropic Are You About to Own?",
-      "link": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
-      "published": "Thu, 19 Nov 2026 22:46:06 +0000",
-      "sentiment": 0.26
-    },
-    {
-      "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
-      "link": "https://www.nytimes.com/2026/11/19/business/jpmorgan-chase-customer-data-breach.html",
-      "published": "Thu, 19 Nov 2026 21:16:52 +0000",
-      "sentiment": 0.1125
     }
   ]
 }
