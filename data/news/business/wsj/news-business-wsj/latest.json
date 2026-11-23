@@ -13,10 +13,10 @@
       "sentiment": 0.35
     },
     {
-      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill?’",
+      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
       "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.1
+      "sentiment": 0.011111111111111118
     },
     {
       "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
@@ -35,6 +35,12 @@
       "link": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f",
       "published": "Sun, 22 Nov 2026 21:49:00 GMT",
       "sentiment": 0.15625
+    },
+    {
+      "title": "Texas Pacific Land to Buy EagleRock Land in $3 Billion All-Stock Deal",
+      "link": "https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 11:54:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
@@ -61,9 +67,9 @@
       "sentiment": 0.125
     },
     {
-      "title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
-      "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 04:51:00 GMT",
+      "title": "Nestle’s CEO Sees Limits to Recipe Reworks Amid Ultraprocessed Food Pushback",
+      "link": "https://www.wsj.com/arts-culture/food-cooking/nestles-ceo-sees-limits-to-recipe-reworks-amid-ultraprocessed-food-pushback-f02fb6ec?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 12:38:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 20:41:00 GMT",
       "sentiment": 0.375
-    },
-    {
-      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-      "link": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 20:32:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "BJ’s Wholesale Raises Outlook, But Promotions Weigh on Margins",
@@ -223,6 +223,12 @@
       "sentiment": -0.09999999999999999
     },
     {
+      "title": "How Southwest, Target and AT&T Finance Chiefs Think About the Human in the Loop",
+      "link": "https://www.wsj.com/cfo-journal/how-southwest-target-and-at-t-finance-chiefs-think-about-the-human-in-the-loop-c2f175a1?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 12:14:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
       "link": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 17:43:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/faa-groundstop-cost-7a7e22c3?mod=pls_whats_news_us_business_f",
       "published": "Tue, 17 Nov 2026 01:00:00 GMT",
       "sentiment": 0.0375
-    },
-    {
-      "title": "United Airlines Says It Resolved Tech Problem That Delayed Departures",
-      "link": "https://www.wsj.com/business/airlines/united-airlines-says-tech-troubles-are-impacting-flights-95b229d8?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 16 Nov 2026 23:13:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Financial Services Roundup: Market Talk",
@@ -343,10 +343,22 @@
       "sentiment": 0.12222222222222223
     },
     {
+      "title": "Labor Deal Fends Off Strike Threat at Ports of L.A., Long Beach",
+      "link": "https://www.wsj.com/logistics-report/labor-deal-fends-off-strike-threat-at-ports-of-l-a-long-beach-5d578a35?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 11:55:00 GMT",
+      "sentiment": -0.025
+    },
+    {
       "title": "Tentative Deal Averts Strike Threat at Busiest U.S. Ports",
       "link": "https://www.wsj.com/logistics-report/tentative-deal-averts-strike-threat-at-busiest-u-s-ports-6f9a60d1?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 13:46:00 GMT",
       "sentiment": -0.0875
+    },
+    {
+      "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+      "link": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 20:32:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
@@ -359,18 +371,6 @@
       "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 22:26:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says",
-      "link": "https://www.wsj.com/business/energy-oil/u-s-diesel-prices-to-continue-to-fall-in-relief-for-consumers-u-s-energy-secretary-says-cfe83c18?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 20:12:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Strike Threat Rises at Ports of L.A. and Long Beach",
-      "link": "https://www.wsj.com/logistics-report/strike-threat-rises-at-ports-of-l-a-and-long-beach-8cdc3d7b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 12:00:00 GMT",
-      "sentiment": 0.11666666666666668
     },
     {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
@@ -475,22 +475,22 @@
       "sentiment": 0.175
     },
     {
+      "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
+      "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 11:36:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
+      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.011111111111111118
+    },
+    {
       "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
       "link": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 01:00:00 GMT",
       "sentiment": 0.39999999999999997
-    },
-    {
-      "title": "The CEO Who Thinks Corporate America Failed the Political Test",
-      "link": "https://www.wsj.com/business/patagonia-ceo-ryan-gellert-fb5ef0f8?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 18:40:00 GMT",
-      "sentiment": -0.16111111111111112
-    },
-    {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 21:56:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
