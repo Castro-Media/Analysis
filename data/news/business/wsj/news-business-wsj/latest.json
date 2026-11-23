@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again",
+      "link": "https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 20:48:00 GMT",
+      "sentiment": -0.033712121212121214
+    },
+    {
       "title": "Nvidia Board Reinstates Jensen Huang as CEO",
       "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 19:42:00 GMT",
@@ -13,6 +19,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Jensen Is Back. But AI’s Problems Haven’t Gone Away.",
+      "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 18:32:00 GMT",
+      "sentiment": -0.1361111111111111
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 17:23:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 15:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Why Ken Chenault Is Calling for an AI ‘Manifesto’",
-      "link": "https://www.wsj.com/articles/why-ken-chenault-is-calling-for-an-ai-manifesto-7eab1b51?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 10:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
-      "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 10:36:00 GMT",
-      "sentiment": 0.35
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
@@ -253,6 +253,12 @@
       "sentiment": -0.09722222222222221
     },
     {
+      "title": "Why Ken Chenault Is Calling for an AI ‘Manifesto’",
+      "link": "https://www.wsj.com/articles/why-ken-chenault-is-calling-for-an-ai-manifesto-7eab1b51?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:57:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-3af0bea5?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 22:01:00 GMT",
@@ -274,12 +280,6 @@
       "title": "What I Learned From CFOs About ‘Time-Maxxing’",
       "link": "https://www.wsj.com/cfo-journal/what-i-learned-from-cfos-about-time-maxxing-1cdcdde7?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 12:12:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Bill Zerella, Known for Taking Startups Public, on Why He Joined Stord as CFO",
-      "link": "https://www.wsj.com/cfo-journal/bill-zerella-known-for-taking-startups-public-on-why-he-joined-stord-as-cfo-816bc0e8?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 12:50:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
+      "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:36:00 GMT",
+      "sentiment": 0.35
+    },
+    {
       "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
       "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 10:30:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=pls_whats_news_us_business_f",
       "published": "Sat, 21 Nov 2026 02:00:00 GMT",
       "sentiment": 0.14166666666666666
-    },
-    {
-      "title": "Oxford and MIT Didn’t Bite. So Ken Griffin Took His Miami Campus Elsewhere.",
-      "link": "https://www.wsj.com/business/ken-griffin-citadel-miami-carnegie-mellon-338bcd20?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.08928571428571429
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
@@ -487,10 +487,10 @@
       "sentiment": 0.175
     },
     {
-      "title": "Databricks In Early Talks To Raise Funds At $225 Billion Valuation",
-      "link": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 22:50:00 GMT",
-      "sentiment": 0.11212121212121212
+      "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
+      "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 19:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
