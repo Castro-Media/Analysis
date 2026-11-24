@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Press freedom group calls for ICE to release Afghan journalist from California detention",
+      "link": "https://www.latimes.com/california/story/2026-11-23/press-freedom-group-calls-for-ice-to-release-afghan-journalist-from-california-detention",
+      "published": "Tue, 24 Nov 2026 01:58:32 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "'I am 17!' Video shows young people arrested, tossed violently during chaotic ICE incident",
+      "link": "https://www.latimes.com/california/story/2026-11-23/i-am-17-young-people-arrested-tossed-violently-in-ice-incident",
+      "published": "Tue, 24 Nov 2026 01:41:13 GMT",
+      "sentiment": -0.35000000000000003
+    },
+    {
       "title": "Two people killed in Temecula helicopter crash",
       "link": "https://www.latimes.com/california/story/2026-11-23/two-people-killed-in-temecula-helicopter-crash",
       "published": "Mon, 23 Nov 2026 22:24:07 GMT",
@@ -121,16 +133,16 @@
       "sentiment": -0.008928571428571438
     },
     {
-      "title": "Dozens of dogs recovered in Pasadena need fur-ever homes. Here's how you can help",
-      "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
       "link": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
       "sentiment": 0.19999999999999998
+    },
+    {
+      "title": "Dozens of dogs recovered in Pasadena need fur-ever homes. Here's how you can help",
+      "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
@@ -139,10 +151,10 @@
       "sentiment": 0.04999999999999999
     },
     {
-      "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
-      "link": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
+      "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
+      "link": "https://www.latimes.com/california/story/2026-11-21/desperate-to-curb-drugs-crime-la-is-building-fence-around-macarthur-park",
       "published": "Sat, 21 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.1159090909090909
     },
     {
       "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
@@ -151,10 +163,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
-      "link": "https://www.latimes.com/california/story/2026-11-21/desperate-to-curb-drugs-crime-la-is-building-fence-around-macarthur-park",
+      "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
+      "link": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
       "published": "Sat, 21 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.1159090909090909
+      "sentiment": 0.0
     },
     {
       "title": "D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment",
@@ -493,16 +505,10 @@
       "sentiment": -0.20000000000000004
     },
     {
-      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
-      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.03174603174603175
-    },
-    {
-      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
-      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.2
+      "sentiment": 0.06818181818181818
     },
     {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
@@ -511,10 +517,16 @@
       "sentiment": 0.4454545454545455
     },
     {
-      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
-      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
+      "title": "Ghosts of Bell corruption scandal resurface as city eyes sale of low-income mobile home parks",
+      "link": "https://www.latimes.com/california/story/2026-11-17/bell-is-considering-closing-city-owned-mobile-home-parks",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
+      "sentiment": -0.2
+    },
+    {
+      "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
+      "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.03174603174603175
     },
     {
       "title": "Judge refuses to delay ruling that L.A.'s top federal prosecutor is serving unlawfully",
@@ -557,18 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/uc-riverside-affiliate-arrested-in-800-000-university-property-theft-case",
       "published": "Tue, 17 Nov 2026 00:40:12 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Labor and civil rights icon Dolores Huerta's final march on Sacramento",
-      "link": "https://www.latimes.com/california/story/2026-11-16/labor-civil-rights-icon-dolores-huertas-final-march-on-sacramento",
-      "published": "Mon, 16 Nov 2026 23:30:57 GMT",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "At Woodland Hills golf course, it's mountain lions vs. developers",
-      "link": "https://www.latimes.com/california/story/2026-11-16/woodland-hills-golf-course-mountain-lions-vs-developers",
-      "published": "Mon, 16 Nov 2026 23:04:31 GMT",
-      "sentiment": 0.13636363636363635
     }
   ]
 }
