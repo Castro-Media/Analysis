@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
+      "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 14:22:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Stripe’s Valuation Set to Top $200 Billion in Latest Investor Talks",
+      "link": "https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 14:20:00 GMT",
+      "sentiment": 0.22000000000000003
+    },
+    {
       "title": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:36:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/articles/the-white-house-push-to-reinstate-jensen-huang-097e06dd?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 10:51:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
-      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.033333333333333326
-    },
-    {
-      "title": "Then and Now: See How Nvidia and the Administration Pivoted on Huang",
-      "link": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 03:08:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
@@ -97,10 +97,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Analog Devices Profit, Revenue Rise as Industrial, Data-Center Demand Surges",
+      "title": "Analog Devices Profit, Revenue Rise but Forecast Is Mixed",
       "link": "https://www.wsj.com/business/earnings/analog-devices-profit-revenue-rise-as-industrial-data-center-demand-surges-3dfef138?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 13:13:00 GMT",
-      "sentiment": 0.25
+      "published": "Tue, 24 Nov 2026 14:10:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "Dollar Tree Lifts Outlook as Quarterly Sales Rise",
@@ -205,12 +205,6 @@
       "sentiment": 0.5
     },
     {
-      "title": "European Gas Edges Lower But Signs of Stronger Demand Keep Prices Elevated",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 08:54:00 GMT",
-      "sentiment": 0.04
-    },
-    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-39f5dead?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 21:55:00 GMT",
@@ -220,6 +214,12 @@
       "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 21:08:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
+      "link": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 06:28:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -313,6 +313,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "My Agent Takes the Morning Train",
+      "link": "https://www.wsj.com/cmo-today/my-agent-takes-the-morning-train-d949221a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 13:57:00 GMT",
+      "sentiment": 0.08333333333333333
+    },
+    {
       "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
       "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 21:06:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 10:30:00 GMT",
       "sentiment": 0.3
-    },
-    {
-      "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
-      "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Cyberattacks on Tankers Raise Fears of Iranian Disruption to Shipping, Ports",
@@ -373,12 +373,6 @@
       "sentiment": 0.29523809523809524
     },
     {
-      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
-      "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
       "link": "https://www.wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 20:39:00 GMT",
@@ -401,6 +395,12 @@
       "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 03:15:00 GMT",
       "sentiment": -0.1125
+    },
+    {
+      "title": "Hear How the FAA’s Ground Stop Unfolded",
+      "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
+      "published": "Sun, 15 Nov 2026 02:53:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
@@ -433,6 +433,18 @@
       "sentiment": -0.1
     },
     {
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
+      "title": "Then and Now: See How Nvidia and the Administration Pivoted on Huang",
+      "link": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 03:08:00 GMT",
+      "sentiment": -0.125
+    },
+    {
       "title": "By Engineering Huang’s Return, Trump Endorses Silicon Valley’s Founder Mode",
       "link": "https://www.wsj.com/business/by-engineering-huangs-return-trump-endorses-silicon-valleys-founder-mode-45c613f8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 02:00:00 GMT",
@@ -445,22 +457,10 @@
       "sentiment": 0.09642857142857142
     },
     {
-      "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
+      "title": "Jensen Huang Got His Job Back. What Message Does It Send to Corporate America?",
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
-      "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 22:25:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
-      "link": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 22:15:00 GMT",
-      "sentiment": 0.0125
+      "sentiment": 0.0
     },
     {
       "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
@@ -477,7 +477,7 @@
     {
       "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
       "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 01:00:00 GMT",
+      "published": "Tue, 24 Nov 2026 14:22:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -487,10 +487,10 @@
       "sentiment": -0.10111111111111111
     },
     {
-      "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
+      "title": "Jensen Huang Got His Job Back. What Message Does It Send to Corporate America?",
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.16666666666666666
+      "sentiment": 0.0
     },
     {
       "title": "Best Small-Business Loans in November 2026",
