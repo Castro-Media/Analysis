@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
+      "link": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 21:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "I Went Inside Chornobyl as Ukraine Races to Secure It",
       "link": "https://www.wsj.com/world/i-went-inside-chornobyl-as-ukraine-races-to-secure-it-08d719cd?mod=rss_worldnews",
       "published": "Tue, 24 Nov 2026 17:08:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews",
       "published": "Tue, 24 Nov 2026 12:23:00 GMT",
       "sentiment": -0.025
-    },
-    {
-      "title": "The Gap Between China’s Military Spectacle and Battlefield Reality",
-      "link": "https://www.wsj.com/world/china/the-gap-between-chinas-military-spectacle-and-battlefield-reality-3e32e7ed?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 11:55:00 GMT",
-      "sentiment": -0.25
     },
     {
       "title": "Oil Prices Rebound as Shipping Risks Persist",
@@ -157,6 +157,18 @@
       "sentiment": -0.01190476190476191
     },
     {
+      "title": "Opinion | Is Nvidia Trump’s Waterloo?",
+      "link": "https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 22:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Opinion | American Exceptionalism Will Win AI",
+      "link": "https://www.wsj.com/opinion/american-exceptionalism-will-win-ai-8e20e29d?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 22:21:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "Opinion | What’s Behind the Global Youth Revolts?",
       "link": "https://www.wsj.com/opinion/whats-behind-the-global-youth-revolts-c6a95324?mod=rss_worldnews",
       "published": "Tue, 24 Nov 2026 17:47:00 GMT",
@@ -179,18 +191,6 @@
       "link": "https://www.wsj.com/opinion/sanctioning-people-for-building-homes-in-the-west-bank-47c51eb7?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 22:49:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | What Napoleon Teaches Us About Meritocracy",
-      "link": "https://www.wsj.com/opinion/what-napoleon-teaches-us-about-meritocracy-475118a4?mod=rss_worldnews",
-      "published": "Mon, 23 Nov 2026 21:56:00 GMT",
-      "sentiment": -0.2
-    },
-    {
-      "title": "Opinion | Trump’s Focus Moves to Foreign Policy",
-      "link": "https://www.wsj.com/opinion/trumps-focus-moves-to-foreign-policy-a8004ad5?mod=rss_worldnews",
-      "published": "Mon, 23 Nov 2026 21:56:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Inside the Ukrainian Attack That Sank Russian Warship Docked in Libya",
@@ -225,8 +225,14 @@
     {
       "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
       "link": "https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 20:54:00 GMT",
+      "published": "Tue, 24 Nov 2026 22:41:00 GMT",
       "sentiment": -0.17500000000000002
+    },
+    {
+      "title": "The Gap Between China’s Military Spectacle and Battlefield Reality",
+      "link": "https://www.wsj.com/world/china/the-gap-between-chinas-military-spectacle-and-battlefield-reality-3e32e7ed?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 11:55:00 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "Alice Huang Had Ties to China’s Intelligence Network. But Was She Really a Spy?",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab?mod=rss_worldnews",
       "published": "Thu, 19 Nov 2026 18:02:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
-      "link": "https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=rss_worldnews",
-      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
-      "sentiment": -0.3888888888888889
     },
     {
       "title": "The Russian POW Camp Where Sex Abuse Became Part of the System",
