@@ -67,6 +67,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Abercrombie & Fitch Lifts Outlook as Sales Jump",
+      "link": "https://www.wsj.com/business/retail/abercrombie-fitch-lifts-outlook-as-sales-jump-c7f6a19f?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 13:31:00 GMT",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Kohl’s Raises Outlook, Says Turnaround Strategy Is Paying Off",
+      "link": "https://www.wsj.com/business/retail/kohls-raises-outlook-says-turnaround-strategy-is-paying-off-8fdaf341?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 13:19:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "Burlington Stores Cuts Outlook as Quarterly Sales Underwhelm",
       "link": "https://www.wsj.com/business/retail/burlington-stores-cuts-outlook-as-quarterly-sales-underwhelm-794f958d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:36:00 GMT",
@@ -83,6 +95,12 @@
       "link": "https://www.wsj.com/business/earnings/medtronics-sales-growth-slows-despite-broad-based-gains-9ef7b88a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:27:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Analog Devices Profit, Revenue Rise as Industrial, Data-Center Demand Surges",
+      "link": "https://www.wsj.com/business/earnings/analog-devices-profit-revenue-rise-as-industrial-data-center-demand-surges-3dfef138?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 13:13:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Dollar Tree Lifts Outlook as Quarterly Sales Rise",
@@ -107,24 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/xiaomis-profit-continues-to-fall-amid-weaker-revenue-across-businesses-791bebb0?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:06:00 GMT",
       "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Compass Group Plans to Move Primary Listing to U.S.",
-      "link": "https://www.wsj.com/business/earnings/compass-group-plans-to-move-primary-listing-to-u-s-b06b7ea8?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 08:33:00 GMT",
-      "sentiment": 0.2
-    },
-    {
-      "title": "HPE Lifts Outlook as AI Demand Boosts Revenue, Profit",
-      "link": "https://www.wsj.com/business/earnings/hpe-lifts-outlook-as-ai-demand-boosts-revenue-profit-1ae221df?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:37:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
-      "link": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 06:59:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Financial Services Roundup: Market Talk",
@@ -475,16 +475,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
-      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
-      "sentiment": -0.10111111111111111
-    },
-    {
       "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
       "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 01:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
+      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
+      "sentiment": -0.10111111111111111
     },
     {
       "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
