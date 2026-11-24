@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally",
+      "title": "Stock Market Today: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 09:53:51 GMT",
-      "sentiment": 0.05
+      "sentiment": 0.5
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 16:01:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "These Technical Measures Warned of Stock Market Whiplash",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 21:12:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Jensen Is Back. But AI’s Problems Haven’t Gone Away.",
-      "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 18:32:00 GMT",
-      "sentiment": -0.1361111111111111
     },
     {
       "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
@@ -289,6 +289,12 @@
       "sentiment": 0.020833333333333332
     },
     {
+      "title": "Jensen Is Back. But AI’s Problems Haven’t Gone Away.",
+      "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 18:32:00 GMT",
+      "sentiment": -0.1361111111111111
+    },
+    {
       "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
       "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 14:44:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 02:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Has the AI Bubble Already Burst?",
-      "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
-      "published": "Sun, 22 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.375
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
