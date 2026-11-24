@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+      "link": "https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 20:54:00 GMT",
+      "sentiment": -0.17500000000000002
+    },
+    {
       "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
       "link": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 20:09:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:36:00 GMT",
       "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
-      "link": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
@@ -67,6 +67,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "HP Offers ‘Prudent’ Guidance Amid Rising Memory Costs",
+      "link": "https://www.wsj.com/business/earnings/hp-offers-prudent-guidance-amid-rising-memory-costs-37c67b9d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 21:23:00 GMT",
+      "sentiment": 0.08666666666666667
+    },
+    {
+      "title": "Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service",
+      "link": "https://www.wsj.com/business/retail/shein-to-pay-100-million-to-settle-ftc-claims-of-unfair-customer-service-1d294269?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 21:13:00 GMT",
+      "sentiment": -0.3333333333333333
+    },
+    {
       "title": "Dick’s Sporting Goods Raises Profit Outlook on Core Business Strength",
       "link": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 15:09:00 GMT",
@@ -85,6 +97,24 @@
       "sentiment": 0.25
     },
     {
+      "title": "Workday Raises Full-Year Subscription Outlook After Sales Rise",
+      "link": "https://www.wsj.com/business/earnings/workday-raises-full-year-subscription-outlook-after-sales-rise-625a54e3?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 21:32:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Dell Lifts Outlook as Revenue Doubles on Server Demand",
+      "link": "https://www.wsj.com/business/earnings/dell-lifts-outlook-as-revenue-doubles-on-server-demand-40c14b0b?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 21:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Analog Devices Profit, Revenue Rise but Forecast Is Mixed",
+      "link": "https://www.wsj.com/business/earnings/analog-devices-profit-revenue-rise-as-industrial-data-center-demand-surges-3dfef138?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 14:10:00 GMT",
+      "sentiment": 0.125
+    },
+    {
       "title": "Burlington Stores Cuts Outlook as Quarterly Sales Underwhelm",
       "link": "https://www.wsj.com/business/retail/burlington-stores-cuts-outlook-as-quarterly-sales-underwhelm-794f958d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:36:00 GMT",
@@ -95,36 +125,6 @@
       "link": "https://www.wsj.com/business/earnings/medtronics-sales-growth-slows-despite-broad-based-gains-9ef7b88a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:27:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Analog Devices Profit, Revenue Rise but Forecast Is Mixed",
-      "link": "https://www.wsj.com/business/earnings/analog-devices-profit-revenue-rise-as-industrial-data-center-demand-surges-3dfef138?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 14:10:00 GMT",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Dollar Tree Lifts Outlook as Quarterly Sales Rise",
-      "link": "https://www.wsj.com/business/retail/dollar-tree-lifts-outlook-as-quarterly-sales-rise-80814dd2?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 12:09:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Best Buy Lifts Outlook as Profit, Revenue Rise",
-      "link": "https://www.wsj.com/business/retail/best-buy-lifts-outlook-as-profit-revenue-rise-cd86654c?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 12:08:00 GMT",
-      "sentiment": 0.375
-    },
-    {
-      "title": "Xiaomi’s Profit Continues to Fall Amid Weaker Revenue Across Businesses",
-      "link": "https://www.wsj.com/business/earnings/xiaomis-profit-continues-to-fall-amid-weaker-revenue-across-businesses-791bebb0?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 12:06:00 GMT",
-      "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "Compass Group Plans to Move Primary Listing to U.S.",
-      "link": "https://www.wsj.com/business/earnings/compass-group-plans-to-move-primary-listing-to-u-s-b06b7ea8?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 08:33:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Pentagon in Talks With General Motors and Ford to Make Military Drones",
@@ -193,16 +193,16 @@
       "sentiment": 0.037500000000000006
     },
     {
+      "title": "Oil Prices Rebound as Shipping Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 21:28:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 17:27:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Oil Prices Rebound as Shipping Risks Persist",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 12:33:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -259,6 +259,12 @@
       "sentiment": 0.23484848484848483
     },
     {
+      "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
+      "link": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-196a238a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 21:53:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/articles/why-ken-chenault-is-calling-for-an-ai-manifesto-7eab1b51?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 10:57:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-3af0bea5?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 22:01:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
@@ -469,16 +469,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
-      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
-      "sentiment": -0.10111111111111111
-    },
-    {
       "title": "Jensen Huang Got His Job Back. What Message Does It Send to Corporate America?",
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 02:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
+      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
+      "sentiment": -0.10111111111111111
     },
     {
       "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
