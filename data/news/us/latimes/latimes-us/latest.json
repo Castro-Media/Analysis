@@ -1,6 +1,42 @@
 {
   "entries": [
     {
+      "title": "L.A. has ADU fever: Accessory dwelling units make up 41% of new housing permits",
+      "link": "https://www.latimes.com/california/story/2026-11-24/la-has-adu-fever-accessory-dwellings-make-up-41-of-housing-permits",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
+      "link": "https://www.latimes.com/california/story/2026-11-24/jd-vances-memoir-catholic-conversion",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "How California's king tides will play out: Timing, locations, danger zones",
+      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.21666666666666665
+    },
+    {
+      "title": "Newsom's utilities commission moves to pass electricity rate hikes, other industry-friendly measures",
+      "link": "https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
+      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.15000000000000002
+    },
+    {
+      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
+      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Press freedom group calls for ICE to release Afghan journalist from California detention",
       "link": "https://www.latimes.com/california/story/2026-11-23/press-freedom-group-calls-for-ice-to-release-afghan-journalist-from-california-detention",
       "published": "Tue, 24 Nov 2026 01:58:32 GMT",
@@ -133,12 +169,6 @@
       "sentiment": -0.008928571428571438
     },
     {
-      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.04999999999999999
-    },
-    {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
       "link": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
@@ -149,6 +179,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
+      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.04999999999999999
     },
     {
       "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
@@ -235,16 +271,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
-      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
-      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.5
-    },
-    {
       "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
       "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
       "published": "Fri, 20 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
+      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Investigation underway after fire at wildlife center kills about 40 animals",
@@ -415,16 +451,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "The Ivy League brought back the SAT. Should UC follow?",
-      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Plastic producers face scrutiny after half fail to report data required by California law",
       "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": -0.15555555555555553
+    },
+    {
+      "title": "The Ivy League brought back the SAT. Should UC follow?",
+      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Santa Ana suspends its Flock license plate reader camera system",
@@ -505,6 +541,12 @@
       "sentiment": -0.20000000000000004
     },
     {
+      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
+      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
       "link": "https://www.latimes.com/california/story/2026-11-17/guide-to-eastside-los-angeles-2026",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
@@ -517,12 +559,6 @@
       "sentiment": -0.2
     },
     {
-      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
-      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
-    },
-    {
       "title": "Trump's education agenda will meet headwinds in next Congress, but he's far from powerless",
       "link": "https://www.latimes.com/california/story/2026-11-17/trumps-education-agenda-will-meet-headwinds-in-next-congress-but-hes-far-from-powerless",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
@@ -533,42 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-16/bill-essayli-la-first-assistant-serving-unlawfully-us-attorney-judge-ruling",
       "published": "Tue, 17 Nov 2026 03:45:17 GMT",
       "sentiment": 0.15
-    },
-    {
-      "title": "Kaiser mental health clinicians in California ratify labor contract with some AI guardrails",
-      "link": "https://www.latimes.com/california/story/2026-11-16/kaiser-mental-health-clinicians-in-california-ratify-labor-contract-with-some-ai-guardrails",
-      "published": "Tue, 17 Nov 2026 03:11:04 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Republican Rep. Obernolte declared winner in tight Southern California congressional race",
-      "link": "https://www.latimes.com/california/story/2026-11-16/republican-rep-obernolte-wins-in-tight-southern-california-race",
-      "published": "Tue, 17 Nov 2026 02:56:36 GMT",
-      "sentiment": 0.02428571428571429
-    },
-    {
-      "title": "Dark smoke at the Chiquita Canyon Landfill was 'escape of gas,' not explosion, fire officials say",
-      "link": "https://www.latimes.com/california/story/2026-11-16/dark-smoke-at-chiquita-canyon-landfill-in-santa-clarita-valley-prompts-evacuations",
-      "published": "Tue, 17 Nov 2026 02:28:42 GMT",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Driver accused of killing 3 women in North Hollywood Metro station crash appears in court",
-      "link": "https://www.latimes.com/california/story/2026-11-16/driver-accused-of-killing-3-in-noho-metro-station-crash-appears-in-court",
-      "published": "Tue, 17 Nov 2026 02:03:18 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Chabria: California loses a 'hummingbird' but the movement lives on",
-      "link": "https://www.latimes.com/california/story/2026-11-16/california-dolores-huerta-memorial-capitol-becerra",
-      "published": "Tue, 17 Nov 2026 00:52:19 GMT",
-      "sentiment": -0.02500000000000001
-    },
-    {
-      "title": "UC Riverside employee arrested in theft of $800,000 in university property",
-      "link": "https://www.latimes.com/california/story/2026-11-16/uc-riverside-affiliate-arrested-in-800-000-university-property-theft-case",
-      "published": "Tue, 17 Nov 2026 00:40:12 GMT",
-      "sentiment": 0.5
     }
   ]
 }

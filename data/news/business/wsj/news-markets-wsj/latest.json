@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Stocks Set to Cool After Epic Rally",
+      "title": "Stock Market Today: Tech Stocks Set to Dive Again After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 09:53:51 GMT",
-      "sentiment": 0.15
+      "sentiment": 0.1
+    },
+    {
+      "title": "These Technical Measures Warned of Stock Market Whiplash",
+      "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 11:10:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 18:32:00 GMT",
       "sentiment": -0.1361111111111111
-    },
-    {
-      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
-      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 14:44:00 GMT",
-      "sentiment": -0.09351851851851851
     },
     {
       "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
@@ -74,6 +74,12 @@
     },
     {
       "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 11:46:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-59d5ef65?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 21:56:00 GMT",
       "sentiment": 0.25
@@ -97,10 +103,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime",
-      "link": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main",
-      "published": "Thu, 19 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 11:52:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 11:40:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "AI Build-Out Is Far-Reaching for U.S. Economy",
+      "link": "https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.75
     },
     {
       "title": "Is Nvidia Becoming a Government-Sponsored Enterprise?",
@@ -115,28 +133,10 @@
       "sentiment": 0.125
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d350f360?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 21:57:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-39f5dead?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 21:55:00 GMT",
-      "sentiment": 0.10000000000000002
-    },
-    {
-      "title": "European Chip Stocks Fall as Jensen Huang Boost Fades",
+      "title": "AI Selloff a Realignment of Expectations, Not Broken Investment Cycle",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 10:19:00 GMT",
-      "sentiment": 0.0
+      "published": "Tue, 24 Nov 2026 11:04:00 GMT",
+      "sentiment": -0.06666666666666667
     },
     {
       "title": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
@@ -157,10 +157,10 @@
       "sentiment": 0.0625
     },
     {
-      "title": "Nvidia’s Rally Ripples Across Markets",
-      "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 19:45:00 GMT",
-      "sentiment": 0.2333333333333333
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d350f360?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 21:57:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "Opinion | Government Gets a Tax Windfall From Anthropic",
@@ -223,10 +223,10 @@
       "sentiment": 0.075
     },
     {
-      "title": "Oil Futures Extend Decline as Middle East Crude Continues to Flow",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 21:32:00 GMT",
-      "sentiment": -0.4666666666666666
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 21:58:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Dollar’s Fortunes Closely Linked to AI Trade",
@@ -289,6 +289,12 @@
       "sentiment": 0.020833333333333332
     },
     {
+      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 14:44:00 GMT",
+      "sentiment": -0.09351851851851851
+    },
+    {
       "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
       "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 14:20:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
       "published": "Sun, 22 Nov 2026 10:30:00 GMT",
       "sentiment": 0.375
-    },
-    {
-      "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
-      "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
-      "published": "Sat, 21 Nov 2026 02:16:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
