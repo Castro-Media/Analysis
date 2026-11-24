@@ -1,10 +1,22 @@
 {
   "entries": [
     {
+      "title": "Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S.",
+      "link": "https://www.wsj.com/world/middle-east/tiny-bahrain-is-paying-a-big-price-for-its-ties-to-the-u-s-77f0717a?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 09:24:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
       "link": "https://www.wsj.com/world/americas/mexico-took-down-a-top-drug-kingpin-can-it-dismantle-his-cartel-be03308a?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 03:00:00 GMT",
+      "published": "Tue, 24 Nov 2026 09:12:00 GMT",
       "sentiment": 0.06888888888888889
+    },
+    {
+      "title": "South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI",
+      "link": "https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 08:21:00 GMT",
+      "sentiment": 0.1
     },
     {
       "title": "Alice Huang Had Ties to China’s Intelligence Network. But Was She Really a Spy?",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/inside-the-ukrainian-attack-that-sank-russian-warship-docked-in-libya-2dbd658b?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 21:45:00 GMT",
       "sentiment": 0.1523809523809524
-    },
-    {
-      "title": "The Mass Exodus Making Cuba’s Economic Crisis Even Worse",
-      "link": "https://www.wsj.com/world/americas/the-mass-exodus-making-cubas-economic-crisis-even-worse-6fed25bd?mod=rss_worldnews",
-      "published": "Mon, 23 Nov 2026 18:03:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Morning Risk Report: Fugitives Seek New Hideouts as UAE Begins Extraditing",
-      "link": "https://www.wsj.com/risk-compliance-journal/fugitive-criminals-are-looking-for-new-hideouts-since-the-uae-started-extraditing-94e98eb1?mod=rss_worldnews",
-      "published": "Mon, 23 Nov 2026 12:36:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships",
@@ -67,6 +67,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 09:52:00 GMT",
+      "sentiment": 0.4
+    },
+    {
       "title": "AI Boost Puts Singapore Economy on Track for Best Performance in Years",
       "link": "https://www.wsj.com/world/asia/ai-boost-puts-singapore-economy-on-track-for-best-performance-in-years-7bb5f426?mod=rss_worldnews",
       "published": "Tue, 24 Nov 2026 06:11:00 GMT",
@@ -79,22 +85,22 @@
       "sentiment": -0.125
     },
     {
+      "title": "The Morning Risk Report: Fugitives Seek New Hideouts as UAE Begins Extraditing",
+      "link": "https://www.wsj.com/risk-compliance-journal/fugitive-criminals-are-looking-for-new-hideouts-since-the-uae-started-extraditing-94e98eb1?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 12:36:00 GMT",
+      "sentiment": 0.06818181818181818
+    },
+    {
       "title": "North Korea’s Kim Jong Un Welcomes New Envoys ‘Friendly Toward Us’",
       "link": "https://www.wsj.com/world/asia/north-koreas-kim-jong-un-welcomes-new-envoys-friendly-toward-us-8102b4aa?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 09:26:00 GMT",
       "sentiment": 0.17045454545454544
     },
     {
-      "title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
-      "link": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_worldnews",
-      "published": "Mon, 23 Nov 2026 04:55:00 GMT",
-      "sentiment": 0.06250000000000001
-    },
-    {
-      "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment",
-      "link": "https://www.wsj.com/economy/trade/eu-inks-trade-deal-with-indonesia-to-cut-tariffs-catalyze-investment-9810d41f?mod=rss_worldnews",
-      "published": "Mon, 23 Nov 2026 03:44:00 GMT",
-      "sentiment": 0.2375
+      "title": "The Mass Exodus Making Cuba’s Economic Crisis Even Worse",
+      "link": "https://www.wsj.com/world/americas/the-mass-exodus-making-cubas-economic-crisis-even-worse-6fed25bd?mod=rss_worldnews",
+      "published": "Mon, 23 Nov 2026 18:03:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Drug Kingpin’s Capture in Mexico Risks Bloody Succession Battle",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0?mod=rss_worldnews",
       "published": "Sat, 21 Nov 2026 03:00:00 GMT",
       "sentiment": 0.3090909090909091
-    },
-    {
-      "title": "El Salvador Takes Its Gang-Fighting Strategy to Haiti",
-      "link": "https://www.wsj.com/world/americas/el-salvador-takes-its-gang-fighting-strategy-to-haiti-dd25cf78?mod=rss_worldnews",
-      "published": "Fri, 20 Nov 2026 21:50:00 GMT",
-      "sentiment": 0.16666666666666666
     },
     {
       "title": "After Brexit, Britain’s Government Floats ‘Breturn’",
@@ -409,10 +409,10 @@
       "sentiment": 0.09999999999999999
     },
     {
-      "title": "The Russian POW Camp Where Sex Abuse Became Part of the System",
-      "link": "https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef?mod=rss_worldnews",
-      "published": "Sat, 21 Nov 2026 15:00:00 GMT",
-      "sentiment": 0.25
+      "title": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump",
+      "link": "https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49?mod=rss_worldnews",
+      "published": "Sun, 22 Nov 2026 02:00:00 GMT",
+      "sentiment": -0.2
     },
     {
       "title": "How to Refinance a Car Loan in 6 Steps",
