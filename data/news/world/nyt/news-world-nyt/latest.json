@@ -1,16 +1,22 @@
 {
   "entries": [
     {
+      "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+      "published": "Tue, 24 Nov 2026 11:55:30 +0000",
+      "sentiment": 0.26666666666666666
+    },
+    {
       "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
       "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
       "published": "Tue, 24 Nov 2026 10:35:29 +0000",
       "sentiment": -0.1
     },
     {
-      "title": "An Arctic Way of Life Fades as Norway Closes Its Last Coal Mine",
+      "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-      "published": "Tue, 24 Nov 2026 10:00:11 +0000",
-      "sentiment": 0.0375
+      "published": "Tue, 24 Nov 2026 12:02:18 +0000",
+      "sentiment": 0.009999999999999998
     },
     {
       "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
@@ -79,10 +85,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-      "published": "Sun, 22 Nov 2026 11:03:04 +0000",
-      "sentiment": 0.0
+      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+      "published": "Tue, 24 Nov 2026 12:34:52 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Stocks Set to Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
+      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "published": "Tue, 24 Nov 2026 12:50:46 +0000",
+      "sentiment": 0.1
     },
     {
       "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
@@ -190,6 +202,12 @@
       "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
       "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
       "published": "Sun, 22 Nov 2026 06:58:18 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
+      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "published": "Sun, 22 Nov 2026 11:03:04 +0000",
       "sentiment": 0.0
     },
     {
@@ -305,18 +323,6 @@
       "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
       "published": "Fri, 20 Nov 2026 20:31:00 +0000",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/pope-leo-catholic-sexual-abuse.html",
-      "published": "Fri, 20 Nov 2026 10:38:20 +0000",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-      "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "published": "Sat, 21 Nov 2026 12:31:35 +0000",
-      "sentiment": 0.15000000000000002
     }
   ]
 }

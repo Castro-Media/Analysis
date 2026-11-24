@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Set to Dive Again After Epic Rally",
+      "title": "Stock Market Today: Tech Stocks Set to Give Up Some Gains Again After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 09:53:51 GMT",
       "sentiment": 0.1
@@ -103,6 +103,18 @@
       "sentiment": 0.0
     },
     {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 12:07:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 11:57:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 11:52:00 GMT",
@@ -119,18 +131,6 @@
       "link": "https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 11:25:00 GMT",
       "sentiment": 0.75
-    },
-    {
-      "title": "Is Nvidia Becoming a Government-Sponsored Enterprise?",
-      "link": "https://www.wsj.com/politics/policy/is-nvidia-becoming-a-government-sponsored-enterprise-5ef9b833?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 10:50:00 GMT",
-      "sentiment": -0.17500000000000002
-    },
-    {
-      "title": "Ten-Year U.S. Treasury, German Bund Yields Seen Higher by End-2027",
-      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 07:07:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "AI Selloff a Realignment of Expectations, Not Broken Investment Cycle",
@@ -199,6 +199,24 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Oil Prices Rebound as Shipping Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 12:33:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Oil Swings Higher as Middle East Risks Keep Market Fragile",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 12:18:00 GMT",
+      "sentiment": 0.09545454545454546
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 12:02:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "European Gas Edges Lower But Signs of Stronger Demand Keep Prices Elevated",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 08:54:00 GMT",
@@ -209,24 +227,6 @@
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 08:37:00 GMT",
       "sentiment": 0.0625
-    },
-    {
-      "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 08:27:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Oil Futures Edge Higher on Likely Technical Recovery",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 23:38:00 GMT",
-      "sentiment": 0.075
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Dollar’s Fortunes Closely Linked to AI Trade",
