@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The White House Push to Reinstate Jensen Huang",
+      "link": "https://www.wsj.com/articles/the-white-house-push-to-reinstate-jensen-huang-097e06dd?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 10:51:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.033333333333333326
+    },
+    {
       "title": "Then and Now: See How Nvidia and the Administration Pivoted on Huang",
       "link": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 03:08:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 02:00:00 GMT",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
-      "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
-      "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 22:25:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
@@ -127,6 +127,12 @@
       "sentiment": 0.14375
     },
     {
+      "title": "Pentagon in Talks With General Motors and Ford to Make Military Drones",
+      "link": "https://www.wsj.com/politics/national-security/ford-general-motors-military-drones-c082d202?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 10:30:00 GMT",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Chinese Automakers Book Strong European Growth Ahead of Import Cap",
       "link": "https://www.wsj.com/business/autos/chinese-automakers-book-strong-european-growth-ahead-of-import-cap-ccdee0da?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 07:07:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/who-will-succeed-mary-barra-as-gms-next-ceo-a-look-at-three-candidates-1aaeaa17?mod=pls_whats_news_us_business_f",
       "published": "Thu, 19 Nov 2026 15:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Alphabet’s Waymo Pulls Robotaxis Off Freeways After California Ban",
-      "link": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 07:24:00 GMT",
-      "sentiment": -0.1
     },
     {
       "title": "Opinion | Nvidia and Trump’s State Capitalism",
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
+      "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
       "link": "https://www.wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 20:39:00 GMT",
@@ -395,12 +401,6 @@
       "link": "https://www.wsj.com/business/airlines/the-defense-contractor-at-the-center-of-the-ground-stop-e20c4173?mod=pls_whats_news_us_business_f",
       "published": "Mon, 16 Nov 2026 03:15:00 GMT",
       "sentiment": -0.1125
-    },
-    {
-      "title": "Hear How the FAA’s Ground Stop Unfolded",
-      "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 15 Nov 2026 02:53:00 GMT",
-      "sentiment": -0.125
     },
     {
       "title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 22:25:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
       "link": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 22:15:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": -0.033712121212121214
     },
     {
-      "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
-      "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 19:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
       "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 14:45:00 GMT",
@@ -481,15 +481,15 @@
       "sentiment": -0.10111111111111111
     },
     {
-      "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
-      "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 19:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
       "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
+      "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 19:00:00 GMT",
       "sentiment": 0.0
     },
     {

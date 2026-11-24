@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "An Arctic Way of Life Fades as Norway Closes Its Last Coal Mine",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+      "published": "Tue, 24 Nov 2026 10:00:11 +0000",
+      "sentiment": 0.0375
+    },
+    {
+      "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
+      "published": "Tue, 24 Nov 2026 10:02:08 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
       "published": "Tue, 24 Nov 2026 09:08:32 +0000",
@@ -73,16 +85,22 @@
       "sentiment": 0.0
     },
     {
-      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-      "published": "Sun, 22 Nov 2026 08:35:05 +0000",
-      "sentiment": 0.1090909090909091
+      "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+      "published": "Tue, 24 Nov 2026 10:35:29 +0000",
+      "sentiment": -0.1
     },
     {
-      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-      "published": "Sun, 22 Nov 2026 06:58:18 +0000",
-      "sentiment": 0.0
+      "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
+      "link": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
+      "published": "Tue, 24 Nov 2026 10:01:44 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+      "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+      "published": "Tue, 24 Nov 2026 10:00:20 +0000",
+      "sentiment": 0.28409090909090906
     },
     {
       "title": "The Woman Who Took Canada to Court Over Genocide",
@@ -157,10 +175,22 @@
       "sentiment": -0.20833333333333334
     },
     {
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "published": "Sun, 22 Nov 2026 08:35:05 +0000",
+      "sentiment": 0.1090909090909091
+    },
+    {
       "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
       "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
       "published": "Mon, 23 Nov 2026 21:46:33 +0000",
       "sentiment": -0.044444444444444446
+    },
+    {
+      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
+      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+      "published": "Sun, 22 Nov 2026 06:58:18 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
@@ -287,24 +317,6 @@
       "link": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
       "published": "Sat, 21 Nov 2026 12:31:35 +0000",
       "sentiment": 0.15000000000000002
-    },
-    {
-      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
-      "published": "Fri, 20 Nov 2026 23:05:46 +0000",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
-      "link": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
-      "published": "Fri, 20 Nov 2026 08:13:07 +0000",
-      "sentiment": 0.19888888888888887
-    },
-    {
-      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "published": "Fri, 20 Nov 2026 13:56:56 +0000",
-      "sentiment": 0.1875
     }
   ]
 }
