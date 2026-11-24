@@ -1,10 +1,16 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Nov. 23, 2026: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 09:52:53 GMT",
-      "sentiment": 0.0
+      "title": "Stock Market Today: Stocks Set to Cool After Epic Rally",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 09:53:51 GMT",
+      "sentiment": 0.15
+    },
+    {
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.033333333333333326
     },
     {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 14:44:00 GMT",
       "sentiment": -0.09351851851851851
-    },
-    {
-      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
-      "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 14:20:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
@@ -103,10 +103,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Euro Unlikely to Fall Much Further Against Dollar",
-      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 09:31:00 GMT",
-      "sentiment": -0.2222222222222222
+      "title": "Is Nvidia Becoming a Government-Sponsored Enterprise?",
+      "link": "https://www.wsj.com/politics/policy/is-nvidia-becoming-a-government-sponsored-enterprise-5ef9b833?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 10:50:00 GMT",
+      "sentiment": -0.17500000000000002
     },
     {
       "title": "Ten-Year U.S. Treasury, German Bund Yields Seen Higher by End-2027",
@@ -133,16 +133,22 @@
       "sentiment": 0.10000000000000002
     },
     {
+      "title": "European Chip Stocks Fall as Jensen Huang Boost Fades",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 10:19:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 10:13:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
       "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 09:52:00 GMT",
       "sentiment": 0.4
-    },
-    {
-      "title": "European Chip Stocks Fall as Jensen Huang Boost Fades",
-      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 09:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "U.S. Stocks Jump as Huang Return Triggers AI Rally",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 19:45:00 GMT",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "European Chip Stocks Surge After Nvidia Reinstates Huang as CEO",
-      "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 14:17:00 GMT",
-      "sentiment": -0.025
     },
     {
       "title": "Opinion | Government Gets a Tax Windfall From Anthropic",
@@ -229,6 +229,12 @@
       "sentiment": -0.4666666666666666
     },
     {
+      "title": "Dollar’s Fortunes Closely Linked to AI Trade",
+      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 10:31:00 GMT",
+      "sentiment": 0.16
+    },
+    {
       "title": "Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 03:03:00 GMT",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
       "published": "Thu, 19 Nov 2026 22:41:00 GMT",
       "sentiment": 0.23854545454545453
-    },
-    {
-      "title": "WSJ Dollar Index Rises 0.22% to 98.64",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 22:59:00 GMT",
-      "sentiment": 0.24545454545454545
     },
     {
       "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
@@ -289,6 +289,12 @@
       "sentiment": 0.020833333333333332
     },
     {
+      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 14:20:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Pouncing on Anthropic Won’t Make You Rich",
       "link": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 11:28:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
       "published": "Sat, 21 Nov 2026 02:16:00 GMT",
       "sentiment": -0.1
-    },
-    {
-      "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
-      "published": "Fri, 20 Nov 2026 23:36:00 GMT",
-      "sentiment": -0.4326388888888889
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
