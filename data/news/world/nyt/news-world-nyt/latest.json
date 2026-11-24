@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+      "published": "Tue, 24 Nov 2026 12:34:52 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
       "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
       "link": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
       "published": "Tue, 24 Nov 2026 11:55:30 +0000",
@@ -27,7 +33,7 @@
     {
       "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-      "published": "Tue, 24 Nov 2026 10:02:08 +0000",
+      "published": "Tue, 24 Nov 2026 13:40:55 +0000",
       "sentiment": -0.03333333333333333
     },
     {
@@ -79,21 +85,27 @@
       "sentiment": 0.09999999999999999
     },
     {
-      "title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
-      "link": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
-      "published": "Mon, 23 Nov 2026 05:49:04 +0000",
-      "sentiment": -0.1
+      "title": "Prince William and Catherine’s Country Home Broken Into, Police Say",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+      "published": "Tue, 24 Nov 2026 13:48:00 +0000",
+      "sentiment": -0.4
     },
     {
-      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
-      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
-      "published": "Tue, 24 Nov 2026 12:34:52 +0000",
-      "sentiment": 0.3333333333333333
+      "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
+      "published": "Tue, 24 Nov 2026 13:12:41 +0000",
+      "sentiment": 0.20000000000000004
     },
     {
-      "title": "Stocks Set to Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
+      "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+      "published": "Tue, 24 Nov 2026 13:02:31 +0000",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
       "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "published": "Tue, 24 Nov 2026 12:50:46 +0000",
+      "published": "Tue, 24 Nov 2026 13:14:53 +0000",
       "sentiment": 0.1
     },
     {
@@ -143,6 +155,12 @@
       "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
       "published": "Mon, 23 Nov 2026 17:50:10 +0000",
       "sentiment": -0.05
+    },
+    {
+      "title": "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate",
+      "link": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+      "published": "Mon, 23 Nov 2026 05:49:04 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
@@ -311,18 +329,6 @@
       "link": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
       "published": "Fri, 20 Nov 2026 23:29:25 +0000",
       "sentiment": -0.1
-    },
-    {
-      "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-      "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-      "published": "Sat, 21 Nov 2026 07:11:24 +0000",
-      "sentiment": 0.275
-    },
-    {
-      "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-      "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
-      "published": "Fri, 20 Nov 2026 20:31:00 +0000",
-      "sentiment": -0.03333333333333333
     }
   ]
 }
