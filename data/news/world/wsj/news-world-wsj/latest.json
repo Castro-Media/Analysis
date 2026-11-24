@@ -3,8 +3,20 @@
     {
       "title": "China Takes Down Shanghai Party Boss Once Seen as Potential Leader",
       "link": "https://www.wsj.com/world/china/china-takes-down-shanghai-party-boss-once-seen-as-potential-leader-5d6d06e0?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 14:45:00 GMT",
+      "published": "Tue, 24 Nov 2026 15:42:00 GMT",
       "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
+      "link": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 15:36:00 GMT",
+      "sentiment": -0.05555555555555555
+    },
+    {
+      "title": "British Police Arrest Two Men Over Suspected Burglary at Royal Estate",
+      "link": "https://www.wsj.com/world/uk/british-police-arrest-two-men-over-suspected-burglary-at-royal-estate-58221065?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 15:30:00 GMT",
+      "sentiment": -0.025
     },
     {
       "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/world/middle-east/tiny-bahrain-is-paying-a-big-price-for-its-ties-to-the-u-s-77f0717a?mod=rss_worldnews",
       "published": "Tue, 24 Nov 2026 10:12:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
-      "link": "https://www.wsj.com/world/americas/mexico-took-down-a-top-drug-kingpin-can-it-dismantle-his-cartel-be03308a?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 09:12:00 GMT",
-      "sentiment": 0.06888888888888889
-    },
-    {
-      "title": "South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI",
-      "link": "https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 08:21:00 GMT",
-      "sentiment": 0.1
     },
     {
       "title": "Oil Prices Rebound as Shipping Risks Persist",
@@ -85,16 +85,22 @@
       "sentiment": 0.4
     },
     {
+      "title": "South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI",
+      "link": "https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 08:21:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "AI Boost Puts Singapore Economy on Track for Best Performance in Years",
       "link": "https://www.wsj.com/world/asia/ai-boost-puts-singapore-economy-on-track-for-best-performance-in-years-7bb5f426?mod=rss_worldnews",
       "published": "Tue, 24 Nov 2026 06:11:00 GMT",
       "sentiment": 0.39999999999999997
     },
     {
-      "title": "Then and Now: See How Nvidia and the Administration Pivoted on Huang",
-      "link": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 03:08:00 GMT",
-      "sentiment": -0.125
+      "title": "Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?",
+      "link": "https://www.wsj.com/world/americas/mexico-took-down-a-top-drug-kingpin-can-it-dismantle-his-cartel-be03308a?mod=rss_worldnews",
+      "published": "Tue, 24 Nov 2026 09:12:00 GMT",
+      "sentiment": 0.06888888888888889
     },
     {
       "title": "Cocaine Gangs Batter Colombian Security Forces in Wave of Attacks",
@@ -119,12 +125,6 @@
       "link": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=rss_worldnews",
       "published": "Sun, 22 Nov 2026 03:00:00 GMT",
       "sentiment": 0.05060606060606061
-    },
-    {
-      "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
-      "link": "https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce?mod=rss_worldnews",
-      "published": "Sat, 21 Nov 2026 19:41:00 GMT",
-      "sentiment": 0.09999999999999999
     },
     {
       "title": "After Brexit, Britain’s Government Floats ‘Breturn’",
@@ -383,12 +383,6 @@
       "link": "https://www.wsj.com/world/asia/north-koreas-kim-jong-un-welcomes-new-envoys-friendly-toward-us-8102b4aa?mod=rss_worldnews",
       "published": "Mon, 23 Nov 2026 09:26:00 GMT",
       "sentiment": 0.17045454545454544
-    },
-    {
-      "title": "U.N. Climate Talks Collapse Over Fossil Fuel Rift",
-      "link": "https://www.wsj.com/world/u-n-climate-talks-collapse-over-fossil-fuel-rift-c70ee620?mod=rss_worldnews",
-      "published": "Sun, 22 Nov 2026 16:59:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Trump, Xi, Putin End Historic Summit With Denunciation of Nuclear War",

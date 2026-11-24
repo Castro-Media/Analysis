@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech Stocks Backslide After Epic Rally",
+      "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 09:53:51 GMT",
-      "sentiment": 0.1
+      "sentiment": 0.05
     },
     {
       "title": "These Technical Measures Warned of Stock Market Whiplash",
@@ -103,6 +103,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "U.S. Treasury Yields Tick Down Ahead of Inflation Data",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 15:16:00 GMT",
+      "sentiment": -0.027777777777777776
+    },
+    {
       "title": "Auto & Transport Roundup: Market Talk",
       "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 12:07:00 GMT",
@@ -127,16 +133,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "AI Build-Out Is Far-Reaching for U.S. Economy",
-      "link": "https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 11:25:00 GMT",
-      "sentiment": 0.75
-    },
-    {
-      "title": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
+      "title": "Tech Stocks Backslide After Epic Rally",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 13:28:00 GMT",
-      "sentiment": 0.5
+      "published": "Tue, 24 Nov 2026 15:44:00 GMT",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "AI Selloff a Realignment of Expectations, Not Broken Investment Cycle",
@@ -199,6 +199,12 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Crude Futures Pick Up After Sharp Drop",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 15:21:00 GMT",
+      "sentiment": -0.07833333333333332
+    },
+    {
       "title": "U.S. Natural Gas Futures Pick Up in Volatile Trading",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 14:12:00 GMT",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 12:33:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Oil Swings Higher as Middle East Risks Keep Market Fragile",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 12:18:00 GMT",
-      "sentiment": 0.09545454545454546
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -229,10 +229,10 @@
       "sentiment": 0.0625
     },
     {
-      "title": "Dollar’s Fortunes Closely Linked to AI Trade",
+      "title": "Dollar Could Rise Further in 2027 if Fed Lifts Rates",
       "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 10:31:00 GMT",
-      "sentiment": 0.16
+      "published": "Tue, 24 Nov 2026 15:17:00 GMT",
+      "sentiment": 0.22
     },
     {
       "title": "Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
@@ -343,10 +343,10 @@
       "sentiment": -0.09351851851851851
     },
     {
-      "title": "Has the AI Bubble Already Burst?",
-      "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
-      "published": "Sun, 22 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.375
+      "title": "When Paying for Mom and Dad’s Eldercare Rips Up Adult Kids’ Financial Future",
+      "link": "https://www.wsj.com/personal-finance/baby-boomer-silent-generation-wealth-transfer-elder-care-804e4a0e?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 10:00:00 GMT",
+      "sentiment": 0.04
     },
     {
       "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
