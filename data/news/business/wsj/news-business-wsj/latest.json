@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "By Engineering Huang’s Return, Trump Endorses Silicon Valley’s Founder Mode",
+      "link": "https://www.wsj.com/business/by-engineering-huangs-return-trump-endorses-silicon-valleys-founder-mode-45c613f8?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Frantic White House Push to Get Jensen Huang Back",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.09642857142857142
+    },
+    {
+      "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
+      "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 22:25:00 GMT",
@@ -11,30 +35,6 @@
       "link": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 22:15:00 GMT",
       "sentiment": 0.0125
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Nvidia Board Reinstates Jensen Huang as CEO",
-      "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:21:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
-      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
-      "sentiment": -0.10111111111111111
-    },
-    {
-      "title": "Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again",
-      "link": "https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 20:48:00 GMT",
-      "sentiment": -0.033712121212121214
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
@@ -313,6 +313,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
+      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
+      "sentiment": -0.10111111111111111
+    },
+    {
       "title": "IMAX to Show Super Bowl LXI in Theaters Through Partnership With Disney, the NFL",
       "link": "https://www.wsj.com/business/media/imax-to-show-super-bowl-lxi-in-theaters-through-partnership-with-disney-the-nfl-997dc4be?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 19:18:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 02:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
-      "link": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 20:41:00 GMT",
-      "sentiment": 0.375
     },
     {
       "title": "Labor Deal Fends Off Strike Threat at Ports of L.A., Long Beach",
@@ -433,6 +433,24 @@
       "sentiment": -0.1
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:58:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Nvidia Board Reinstates Jensen Huang as CEO",
+      "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again",
+      "link": "https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 20:48:00 GMT",
+      "sentiment": -0.033712121212121214
+    },
+    {
       "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
       "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 19:00:00 GMT",
@@ -443,24 +461,6 @@
       "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 18:32:00 GMT",
       "sentiment": -0.1361111111111111
-    },
-    {
-      "title": "Five Urgent Questions in D.C. About Jensen Huang’s Return as Nvidia CEO",
-      "link": "https://www.wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 15:57:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
-      "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 10:36:00 GMT",
-      "sentiment": 0.35
-    },
-    {
-      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
-      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.011111111111111118
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
@@ -475,22 +475,22 @@
       "sentiment": 0.011111111111111118
     },
     {
-      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-      "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
-      "published": "Sat, 21 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.175
-    },
-    {
-      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
-      "link": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 22 Nov 2026 21:49:00 GMT",
-      "sentiment": 0.15625
+      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
+      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
+      "sentiment": -0.10111111111111111
     },
     {
       "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
       "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 19:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 21 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.175
     },
     {
       "title": "Best Small-Business Loans in November 2026",
