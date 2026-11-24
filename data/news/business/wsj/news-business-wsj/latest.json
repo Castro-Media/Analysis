@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:36:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:02:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
       "link": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 10:55:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 03:08:00 GMT",
       "sentiment": -0.125
-    },
-    {
-      "title": "By Engineering Huang’s Return, Trump Endorses Silicon Valley’s Founder Mode",
-      "link": "https://www.wsj.com/business/by-engineering-huangs-return-trump-endorses-silicon-valleys-founder-mode-45c613f8?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Frantic White House Push to Get Jensen Huang Back",
-      "link": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.09642857142857142
     },
     {
       "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
@@ -67,6 +67,48 @@
       "sentiment": 0.0
     },
     {
+      "title": "Burlington Stores Cuts Outlook as Quarterly Sales Underwhelm",
+      "link": "https://www.wsj.com/business/retail/burlington-stores-cuts-outlook-as-quarterly-sales-underwhelm-794f958d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:36:00 GMT",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Dick’s Sporting Goods Raises Profit Outlook on Core Business Strength",
+      "link": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:34:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Medtronic’s Sales Growth Slows Despite Broad-Based Gains",
+      "link": "https://www.wsj.com/business/earnings/medtronics-sales-growth-slows-despite-broad-based-gains-9ef7b88a?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:27:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Dollar Tree Lifts Outlook as Quarterly Sales Rise",
+      "link": "https://www.wsj.com/business/retail/dollar-tree-lifts-outlook-as-quarterly-sales-rise-80814dd2?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:09:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Best Buy Lifts Outlook as Profit, Revenue Rise",
+      "link": "https://www.wsj.com/business/retail/best-buy-lifts-outlook-as-profit-revenue-rise-cd86654c?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:08:00 GMT",
+      "sentiment": 0.375
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:07:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Xiaomi’s Profit Continues to Fall Amid Weaker Revenue Across Businesses",
+      "link": "https://www.wsj.com/business/earnings/xiaomis-profit-continues-to-fall-amid-weaker-revenue-across-businesses-791bebb0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:06:00 GMT",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "Compass Group Plans to Move Primary Listing to U.S.",
       "link": "https://www.wsj.com/business/earnings/compass-group-plans-to-move-primary-listing-to-u-s-b06b7ea8?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 08:33:00 GMT",
@@ -79,52 +121,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "EU Probes Coca-Cola Bottler, Citing Antitrust Concerns",
-      "link": "https://www.wsj.com/world/europe/eu-probes-coca-cola-bottler-citing-antitrust-concerns-7717c957?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 17:27:00 GMT",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Nestle’s CEO Sees Limits to Recipe Reworks Amid Ultraprocessed Food Pushback",
-      "link": "https://www.wsj.com/business/nestles-ceo-sees-limits-to-recipe-reworks-amid-ultraprocessed-food-pushback-f02fb6ec?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 12:57:00 GMT",
-      "sentiment": 0.1
-    },
-    {
-      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
-      "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=pls_whats_news_us_business_f",
-      "published": "Sun, 22 Nov 2026 10:30:00 GMT",
-      "sentiment": -0.05000000000000001
-    },
-    {
       "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
       "link": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 06:59:00 GMT",
       "sentiment": 0.125
-    },
-    {
-      "title": "BJ’s Wholesale Raises Outlook, But Promotions Weigh on Margins",
-      "link": "https://www.wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 16:10:00 GMT",
-      "sentiment": 0.22777777777777777
-    },
-    {
-      "title": "Lufthansa to Cut 1,000 Jobs at Flagship Airline as Challenges Mount",
-      "link": "https://www.wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 10:21:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Intuit Selling Mailchimp for $3.68 Billion to Berkshire Hathaway-Backed Bending Spoons",
-      "link": "https://www.wsj.com/business/earnings/intuit-to-sell-mailchimp-for-3-68-billion-33f03f9c?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 23:53:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Gap Cuts Outlook After Warm Fall Weather Weighs on Sales",
-      "link": "https://www.wsj.com/business/earnings/gap-cuts-outlook-after-warm-fall-weather-weighs-on-sales-ca3ee7c3?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 22:01:00 GMT",
-      "sentiment": 0.14375
     },
     {
       "title": "Financial Services Roundup: Market Talk",
@@ -193,16 +193,22 @@
       "sentiment": 0.037500000000000006
     },
     {
+      "title": "Oil Prices Rebound as Shipping Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:33:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 11:52:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "European Gas Edges Lower But Signs of Stronger Demand Keep Prices Elevated",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 08:54:00 GMT",
       "sentiment": 0.04
-    },
-    {
-      "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 08:27:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
@@ -214,12 +220,6 @@
       "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 21:08:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
-      "link": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 06:28:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -235,6 +235,12 @@
       "sentiment": 0.15625
     },
     {
+      "title": "Lufthansa to Cut 1,000 Jobs at Flagship Airline as Challenges Mount",
+      "link": "https://www.wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 20 Nov 2026 10:21:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
       "link": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 17:43:00 GMT",
@@ -247,10 +253,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
-      "link": "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 17 Nov 2026 07:08:00 GMT",
-      "sentiment": -0.09722222222222221
+      "title": "Nvidia CFO’s Quick Stint as CEO; State Street Focuses on New Initiatives",
+      "link": "https://www.wsj.com/cfo-journal/nvidia-cfos-quick-stint-as-ceo-state-street-focuses-on-new-initiatives-9152857d?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 12:05:00 GMT",
+      "sentiment": 0.23484848484848483
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-3af0bea5?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 22:01:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "PayPal Names New CFO Amid Push to Prove Standalone Growth",
-      "link": "https://www.wsj.com/business/c-suite/paypal-appoints-xero-finance-chief-claire-bramley-as-next-cfo-cba4a93f?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 20 Nov 2026 15:08:00 GMT",
-      "sentiment": 0.15454545454545454
     },
     {
       "title": "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back.",
@@ -343,6 +343,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "Cyberattacks on Tankers Raise Fears of Iranian Disruption to Shipping, Ports",
+      "link": "https://www.wsj.com/logistics-report/cyberattacks-on-tankers-raise-fears-of-iranian-disruption-to-shipping-ports-b736a849?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 11:55:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Labor Deal Fends Off Strike Threat at Ports of L.A., Long Beach",
       "link": "https://www.wsj.com/logistics-report/labor-deal-fends-off-strike-threat-at-ports-of-l-a-long-beach-5d578a35?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 11:55:00 GMT",
@@ -365,12 +371,6 @@
       "link": "https://www.wsj.com/logistics-report/union-pacific-ceo-apologizes-as-march-remark-fuels-opposition-to-merger-028c18ec?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 12:02:00 GMT",
       "sentiment": 0.29523809523809524
-    },
-    {
-      "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
-      "link": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 19 Nov 2026 22:26:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
@@ -433,6 +433,18 @@
       "sentiment": -0.1
     },
     {
+      "title": "By Engineering Huang’s Return, Trump Endorses Silicon Valley’s Founder Mode",
+      "link": "https://www.wsj.com/business/by-engineering-huangs-return-trump-endorses-silicon-valleys-founder-mode-45c613f8?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Frantic White House Push to Get Jensen Huang Back",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.09642857142857142
+    },
+    {
       "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 02:00:00 GMT",
@@ -451,28 +463,16 @@
       "sentiment": 0.0125
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Nvidia Board Reinstates Jensen Huang as CEO",
-      "link": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:21:00 GMT",
-      "sentiment": 0.0
+      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
+      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
+      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
+      "sentiment": 0.011111111111111118
     },
     {
       "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
       "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 14:45:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
-      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.011111111111111118
     },
     {
       "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
