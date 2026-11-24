@@ -7,6 +7,12 @@
       "sentiment": -0.125
     },
     {
+      "title": "Nvidia’s Relief Rally Stalls",
+      "link": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 16:01:00 GMT",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 21:45:00 GMT",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Nvidia Chief’s Return Lifts Many Boats",
-      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 21:12:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
@@ -103,10 +103,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "U.S. Treasury Auction of 5-Year Note Shows Slightly Soft Demand",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:53:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data",
       "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 18:38:00 GMT",
-      "sentiment": -0.033333333333333326
+      "published": "Tue, 24 Nov 2026 21:42:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -127,10 +133,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 17:24:00 GMT",
-      "sentiment": 0.5
+      "title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:32:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 09:52:00 GMT",
       "sentiment": 0.4
-    },
-    {
-      "title": "U.S. Stocks Jump as Huang Return Triggers AI Rally",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 22:01:00 GMT",
-      "sentiment": 0.0625
     },
     {
       "title": "Opinion | Government Gets a Tax Windfall From Anthropic",
@@ -199,28 +199,28 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "Front Month Nymex Natural Gas Rose 4.37% to Settle at $3.3230",
+      "title": "Crude Futures Settle Higher on Shipping Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:51:00 GMT",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Oil Prices Rebound as Shipping Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:28:00 GMT",
+      "sentiment": 0.0625
+    },
+    {
+      "title": "U.S. Natural Gas Futures Recover Lost Ground",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 20:53:00 GMT",
-      "sentiment": 0.10749999999999997
+      "published": "Tue, 24 Nov 2026 21:04:00 GMT",
+      "sentiment": 0.05277777777777778
     },
     {
       "title": "Gold Futures Give Back Gains Following Nvidia-Driven Rally",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 18:52:00 GMT",
       "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Crude Futures Pick Up After Sharp Drop",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 15:21:00 GMT",
-      "sentiment": -0.07833333333333332
-    },
-    {
-      "title": "Oil Prices Rebound as Shipping Risks Persist",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 12:33:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -289,6 +289,12 @@
       "sentiment": 0.020833333333333332
     },
     {
+      "title": "Nvidia Chief’s Return Lifts Many Boats",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+      "published": "Mon, 23 Nov 2026 21:12:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Jensen Is Back. But AI’s Problems Haven’t Gone Away.",
       "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 18:32:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 11:28:00 GMT",
       "sentiment": 0.375
-    },
-    {
-      "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
-      "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.5
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
