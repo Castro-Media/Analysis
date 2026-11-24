@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "High tide breaks 44-year-old record in San Francisco as communities brace for higher water",
+      "link": "https://www.latimes.com/california/story/2026-11-24/november-tide-records-fall",
+      "published": "Tue, 24 Nov 2026 20:08:46 GMT",
+      "sentiment": 0.27438095238095234
+    },
+    {
+      "title": "A man's severed head was found in a rural California town. His wife and daughter have been arrested",
+      "link": "https://www.latimes.com/california/story/2026-11-24/severed-head-found-in-norcal-was-cold-case-for-years-forensic-genealogy-may-have-solved-it",
+      "published": "Tue, 24 Nov 2026 20:06:02 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "California city faces water contamination scare after alarm indicates a tank trespasser",
       "link": "https://www.latimes.com/california/story/2026-11-24/san-luis-obispo-water-contamination-scare-alarm-indicates-possible-trespasser",
       "published": "Tue, 24 Nov 2026 18:28:03 GMT",
@@ -19,12 +31,6 @@
       "sentiment": 0.21666666666666665
     },
     {
-      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
-      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.05
-    },
-    {
       "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
       "link": "https://www.latimes.com/business/story/2026-11-24/jensen-huang-is-back-at-nvidia-but-his-startling-return-causes-more-scrutiny",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
@@ -37,22 +43,28 @@
       "sentiment": 0.21212121212121213
     },
     {
+      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
+      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Newsom's utilities commission moves to pass electricity rate hikes, other industry-friendly measures",
       "link": "https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": -0.041666666666666664
     },
     {
-      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
-      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.15000000000000002
-    },
-    {
       "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
       "link": "https://www.latimes.com/california/story/2026-11-24/jd-vances-memoir-catholic-conversion",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
+      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Press freedom group calls for ICE to release Afghan journalist from California detention",
@@ -187,6 +199,12 @@
       "sentiment": -0.008928571428571438
     },
     {
+      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
+      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.04999999999999999
+    },
+    {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
       "link": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
@@ -197,12 +215,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.04999999999999999
     },
     {
       "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
@@ -289,16 +301,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
-      "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
-      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
       "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
       "published": "Fri, 20 Nov 2026 11:00:00 GMT",
       "sentiment": -0.5
+    },
+    {
+      "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
+      "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Investigation underway after fire at wildlife center kills about 40 animals",
@@ -469,16 +481,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "Plastic producers face scrutiny after half fail to report data required by California law",
-      "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.15555555555555553
-    },
-    {
       "title": "The Ivy League brought back the SAT. Should UC follow?",
       "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Plastic producers face scrutiny after half fail to report data required by California law",
+      "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.15555555555555553
     },
     {
       "title": "Santa Ana suspends its Flock license plate reader camera system",
@@ -557,12 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-17/he-let-killer-in-lapd-detectives-try-to-identify-killer-who-left-cash-valuables-behind",
       "published": "Tue, 17 Nov 2026 12:39:21 GMT",
       "sentiment": -0.20000000000000004
-    },
-    {
-      "title": "Richard Pan shaped California's strict vaccine laws. Now he takes on new battles in Congress",
-      "link": "https://www.latimes.com/california/story/2026-11-17/pediatrician-congress-california-vaccine-laws-medicaid",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.06818181818181818
     },
     {
       "title": "Arellano: Forget those New York takes on L.A. Here's your guide to the real Eastside",
