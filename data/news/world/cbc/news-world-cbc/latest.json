@@ -7,16 +7,28 @@
       "sentiment": -0.15
     },
     {
-      "title": "U.S. army blows up bomb chemicals in Iowa despite fears toxic plume could endanger residents",
+      "title": "U.S. army says detonation of bomb chemicals in Iowa a success despite toxic plume concerns",
       "link": "https://www.cbc.ca/news/world/us-army-detonation-lead-azide-iowa-9.7435246?cmp=rss",
       "published": "Wed, 25 Nov 2026 10:41:46 EST",
-      "sentiment": 0.0
+      "sentiment": 0.15
     },
     {
       "title": "Israeli strike kills 2 senior Hamas officials",
       "link": "https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419?cmp=rss",
       "published": "Wed, 25 Nov 2026 11:04:22 EST",
       "sentiment": -0.016071428571428573
+    },
+    {
+      "title": "Major League Baseball sues players' union, asking court to declare lockout legal",
+      "link": "https://www.cbc.ca/sports/baseball/mlb/mlb-lawsuit-players-union-labour-dispute-lockout-9.7435861?cmp=rss",
+      "published": "Wed, 25 Nov 2026 13:27:23 EST",
+      "sentiment": 0.08735795454545454
+    },
+    {
+      "title": "Libyan army says 2 officers were killed in Ukraine's attack on Russian warship",
+      "link": "https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192?cmp=rss",
+      "published": "Wed, 25 Nov 2026 08:49:04 EST",
+      "sentiment": -0.05000000000000001
     },
     {
       "title": "Christa Pike's injuries from botched execution still unknown, lawyers say",
@@ -31,13 +43,19 @@
       "sentiment": 0.020833333333333332
     },
     {
+      "title": "Remember when NASA slammed a spacecraft into an asteroid? We now have close-up images of the aftermath",
+      "link": "https://www.cbc.ca/news/science/esa-hera-mission-dimorphos-didymos-9.7435354?cmp=rss",
+      "published": "Wed, 25 Nov 2026 13:05:33 EST",
+      "sentiment": 0.040079365079365076
+    },
+    {
       "title": "Yemen's Houthis claim attack on major Saudi oil refinery",
       "link": "https://www.cbc.ca/news/world/yemen-houthi-saudi-arabia-strikes-9.7435269?cmp=rss",
       "published": "Wed, 25 Nov 2026 10:04:30 EST",
       "sentiment": -0.001309523809523805
     },
     {
-      "title": "Kilmar Abrego Garcia, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain",
+      "title": "Kilmar Ábrego García, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain",
       "link": "https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss",
       "published": "Wed, 25 Nov 2026 07:56:42 EST",
       "sentiment": 0.0
@@ -101,24 +119,6 @@
       "link": "https://www.cbc.ca/news/science/photos/in-photos-see-november-s-supermoon-9.7433926?cmp=rss",
       "published": "Tue, 24 Nov 2026 18:03:05 EST",
       "sentiment": 0.11388888888888889
-    },
-    {
-      "title": "Vanity Fair's Taylor Swift exposé sparks backlash",
-      "link": "https://www.cbc.ca/news/entertainment/taylor-swift-vanity-fair-criticism-backlash-9.7434367?cmp=rss",
-      "published": "Tue, 24 Nov 2026 17:03:27 EST",
-      "sentiment": 0.40727272727272723
-    },
-    {
-      "title": "Why Trump's move to get Jensen Huang reinstated as Nvidia CEO won't end the questions",
-      "link": "https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss",
-      "published": "Tue, 24 Nov 2026 04:00:00 EST",
-      "sentiment": 0.08775252525252525
-    },
-    {
-      "title": "2 men arrested after break-in at country residence of Prince William, Princess of Wales",
-      "link": "https://www.cbc.ca/news/world/breakin-royals-william-kate-country-home-sandringham-9.7433700?cmp=rss",
-      "published": "Tue, 24 Nov 2026 09:15:16 EST",
-      "sentiment": -0.1285714285714286
     }
   ]
 }
