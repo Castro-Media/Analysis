@@ -9,7 +9,7 @@ folder: news-us-missionlocal
 url: https://missionlocal.org/feed/
 api_key: null
 cadence: hourly
-last_fetched: 2026-11-25T09:55
+last_fetched: 2026-11-25T11:54
 description: News from Mission Local
 link: https://missionlocal.org
 ---

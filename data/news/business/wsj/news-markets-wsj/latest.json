@@ -1,9 +1,33 @@
 {
   "entries": [
     {
-      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 09:53:51 GMT",
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 09:56:46 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The AI Grinch Won’t Steal Christmas, but Watch Next Year",
+      "link": "https://www.wsj.com/finance/stocks/the-ai-grinch-wont-steal-christmas-but-watch-next-year-b5b2dd7a?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 11:31:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Car Industry Has a Seat-Belt Problem It Can’t Fix",
+      "link": "https://www.wsj.com/personal-finance/the-car-industry-has-a-seat-belt-problem-it-cant-fix-0aa4be6e?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 11:02:00 GMT",
+      "sentiment": 0.06727272727272728
+    },
+    {
+      "title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
+      "link": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.22499999999999998
+    },
+    {
+      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
+      "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 10:30:00 GMT",
       "sentiment": -0.125
     },
     {
@@ -16,24 +40,6 @@
       "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
       "link": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 21:55:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:53:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nvidia’s Relief Rally Stalls",
-      "link": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:23:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "These Technical Measures Warned of Stock Market Whiplash",
-      "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 11:10:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -67,12 +73,6 @@
       "sentiment": -0.09999999999999999
     },
     {
-      "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
-      "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
-      "published": "Wed, 18 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.28484848484848485
-    },
-    {
       "title": "Financial Services Roundup: Market Talk",
       "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-59d5ef65?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 21:56:00 GMT",
@@ -103,6 +103,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Nvidia’s Role as an Underwriter of the AI Boom",
+      "link": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 11:25:00 GMT",
+      "sentiment": 0.75
+    },
+    {
       "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 09:43:00 GMT",
@@ -125,12 +131,6 @@
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 21:58:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:56:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
@@ -199,6 +199,12 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+      "link": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 11:03:00 GMT",
+      "sentiment": -0.13571428571428573
+    },
+    {
       "title": "Oil Down as Supply Prospects Outweigh Gulf Risks",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 08:51:00 GMT",
@@ -223,16 +229,10 @@
       "sentiment": 0.0625
     },
     {
-      "title": "U.S. Natural Gas Futures Recover Lost Ground",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:04:00 GMT",
-      "sentiment": 0.05277777777777778
-    },
-    {
-      "title": "Sterling Could Struggle as BOE Governor Presents Before Lawmakers",
+      "title": "Expectations of Fed Tightening Drive Dollar Higher",
       "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 09:45:00 GMT",
-      "sentiment": 0.03333333333333333
+      "published": "Wed, 25 Nov 2026 11:51:00 GMT",
+      "sentiment": 0.125
     },
     {
       "title": "The WSJ Dollar Index Falls 0.27% to 98.75",
@@ -289,6 +289,24 @@
       "sentiment": 0.020833333333333332
     },
     {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:53:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Nvidia’s Relief Rally Stalls",
+      "link": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:23:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "These Technical Measures Warned of Stock Market Whiplash",
+      "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 11:10:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 22:25:00 GMT",
@@ -299,24 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
       "published": "Mon, 23 Nov 2026 21:45:00 GMT",
       "sentiment": 0.16666666666666666
-    },
-    {
-      "title": "Nvidia Chief’s Return Lifts Many Boats",
-      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 21:12:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Jensen Is Back. But AI’s Problems Haven’t Gone Away.",
-      "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 18:32:00 GMT",
-      "sentiment": -0.1361111111111111
-    },
-    {
-      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
-      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 14:44:00 GMT",
-      "sentiment": -0.09351851851851851
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
