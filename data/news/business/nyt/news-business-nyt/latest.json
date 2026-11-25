@@ -1,10 +1,28 @@
 {
   "entries": [
     {
-      "title": "Stock Sell-Off Set to Continue as A.I. Players Fall Again",
+      "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+      "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+      "published": "Wed, 25 Nov 2026 13:53:24 +0000",
+      "sentiment": 0.049999999999999996
+    },
+    {
+      "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
+      "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+      "published": "Wed, 25 Nov 2026 13:51:43 +0000",
+      "sentiment": 0.1318181818181818
+    },
+    {
+      "title": "Why the Nvidia Rally Fizzled",
+      "link": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
+      "published": "Wed, 25 Nov 2026 12:53:55 +0000",
+      "sentiment": -0.6
+    },
+    {
+      "title": "Stock Sell-Off Set to Continue as Investors Fret About A.I., Tariffs and Inflation",
       "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-      "published": "Wed, 25 Nov 2026 12:36:06 +0000",
-      "sentiment": -0.14583333333333331
+      "published": "Wed, 25 Nov 2026 13:35:19 +0000",
+      "sentiment": -0.09722222222222221
     },
     {
       "title": "Watch the Task Force Panel Discussions From the DealBook Summit",
@@ -275,24 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
       "published": "Tue, 24 Nov 2026 04:58:02 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-      "link": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
-      "published": "Sun, 22 Nov 2026 17:55:31 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
-      "link": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
-      "published": "Sun, 22 Nov 2026 17:53:44 +0000",
-      "sentiment": 0.0875
-    },
-    {
-      "title": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
-      "link": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
-      "published": "Sun, 22 Nov 2026 13:00:02 +0000",
-      "sentiment": 0.13636363636363635
     }
   ]
 }
