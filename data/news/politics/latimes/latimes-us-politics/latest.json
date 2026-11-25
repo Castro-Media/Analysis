@@ -1,10 +1,22 @@
 {
   "entries": [
     {
-      "title": "Mail delays at ICE detention centers leave immigrants missing appeals, facing deportation",
-      "link": "https://www.latimes.com/politics/story/2026-11-25/mail-delays-leave-ice-detainees-missing-appeals-facing-deportation",
+      "title": "Trump, dismissing Chinese espionage, adds to counterintelligence concerns",
+      "link": "https://www.latimes.com/politics/story/2026-11-25/trump-dismissing-chinese-espionage-adds-to-counterintelligence-concerns",
+      "published": "Wed, 25 Nov 2026 17:32:27 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Schiff signals he's ready to brawl in looming oversight battle",
+      "link": "https://www.latimes.com/politics/story/2026-11-25/schiff-signals-hes-ready-to-brawl-in-looming-oversight-battle",
+      "published": "Wed, 25 Nov 2026 16:58:37 GMT",
+      "sentiment": 0.1
+    },
+    {
+      "title": "Trump's DOJ touted this election fraud arrest as 'first of many.' Then the case fizzled",
+      "link": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.3333333333333333
+      "sentiment": 0.09999999999999999
     },
     {
       "title": "This veteran TV journalist could go to jail unless she gives up a confidential source",
@@ -13,10 +25,10 @@
       "sentiment": -0.05
     },
     {
-      "title": "Trump's DOJ touted this election fraud arrest as 'first of many.' Then the case fizzled",
-      "link": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
+      "title": "Mail delays at ICE detention centers leave immigrants missing appeals, facing deportation",
+      "link": "https://www.latimes.com/politics/story/2026-11-25/mail-delays-leave-ice-detainees-missing-appeals-facing-deportation",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.09999999999999999
+      "sentiment": -0.3333333333333333
     },
     {
       "title": "Trump's Nvidia intervention raises questions about corporate impunity",
@@ -563,18 +575,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-05/newsom-wants-to-empty-death-row-most-politicians-wouldnt-bother-or-dare",
       "published": "Thu, 5 Nov 2026 19:27:35 GMT",
       "sentiment": 0.12
-    },
-    {
-      "title": "Newsom moves to commute all California death sentences to life in prison without parole",
-      "link": "https://www.latimes.com/california/story/2026-11-05/newsom-commute-california-death-sentences",
-      "published": "Thu, 5 Nov 2026 19:21:59 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Harmeet Dhillon, California attorney who radically reshaped DOJ civil rights unit, resigns",
-      "link": "https://www.latimes.com/world-nation/story/2026-11-05/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division",
-      "published": "Thu, 5 Nov 2026 18:47:07 GMT",
-      "sentiment": 0.15
     }
   ]
 }
