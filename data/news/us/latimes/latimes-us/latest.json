@@ -61,10 +61,10 @@
       "sentiment": 0.14166666666666666
     },
     {
-      "title": "How California's king tides will play out: Timing, locations, danger zones",
-      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
+      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
+      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.21666666666666665
+      "sentiment": 0.05
     },
     {
       "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
@@ -73,10 +73,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
-      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
+      "title": "How California's king tides will play out: Timing, locations, danger zones",
+      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.05
+      "sentiment": 0.21666666666666665
     },
     {
       "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
@@ -235,12 +235,6 @@
       "sentiment": -0.008928571428571438
     },
     {
-      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.04999999999999999
-    },
-    {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
       "link": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
@@ -251,6 +245,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
+      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.04999999999999999
     },
     {
       "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
@@ -337,16 +337,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
-      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
-      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.5
-    },
-    {
       "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
       "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
       "published": "Fri, 20 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
+      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Investigation underway after fire at wildlife center kills about 40 animals",
@@ -517,16 +517,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "The Ivy League brought back the SAT. Should UC follow?",
-      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Plastic producers face scrutiny after half fail to report data required by California law",
       "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": -0.15555555555555553
+    },
+    {
+      "title": "The Ivy League brought back the SAT. Should UC follow?",
+      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Santa Ana suspends its Flock license plate reader camera system",
