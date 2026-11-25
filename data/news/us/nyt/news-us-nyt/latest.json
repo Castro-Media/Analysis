@@ -7,9 +7,21 @@
       "sentiment": -0.044444444444444446
     },
     {
+      "title": "The U.S. Isn’t in a Recession. Try Telling Many Americans That.",
+      "link": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
+      "published": "Wed, 25 Nov 2026 17:51:24 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "FEMA’s Hotline Did Not Offer Promised Help for Iowa Residents",
+      "link": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-fema-hotline.html",
+      "published": "Wed, 25 Nov 2026 16:59:42 +0000",
+      "sentiment": -0.25
+    },
+    {
       "title": "Van Hollen’s Challenge to Schumer Highlights Democratic Rift on Israel",
       "link": "https://www.nytimes.com/2026/11/25/us/politics/van-hollen-schumer-israel-senate.html",
-      "published": "Wed, 25 Nov 2026 16:41:29 +0000",
+      "published": "Wed, 25 Nov 2026 16:41:30 +0000",
       "sentiment": 0.020833333333333332
     },
     {
@@ -75,7 +87,7 @@
     {
       "title": "Here’s the latest.",
       "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/heres-the-latest",
-      "published": "Wed, 25 Nov 2026 16:30:24 +0000",
+      "published": "Wed, 25 Nov 2026 17:07:54 +0000",
       "sentiment": 0.5
     },
     {
@@ -185,12 +197,6 @@
       "link": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
       "published": "Tue, 24 Nov 2026 21:14:02 +0000",
       "sentiment": -0.0625
-    },
-    {
-      "title": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
-      "link": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
-      "published": "Tue, 24 Nov 2026 19:26:32 +0000",
-      "sentiment": 0.10952380952380954
     }
   ]
 }
