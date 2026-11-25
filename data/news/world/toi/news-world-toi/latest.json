@@ -1,6 +1,78 @@
 {
   "entries": [
     {
+      "title": "Spain's Canary Islands see record daily influx of migrants as nearly 2,000 reach archipelago",
+      "link": "https://timesofindia.indiatimes.com/world/europe/spains-canary-islands-see-record-single-day-influx-of-migrants-as-nearly-2000-reach-archipelago/articleshow/136159198.cms",
+      "published": "2026-11-25T16:48:38+05:30",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "A British clock house whose time runs 5 minutes ahead of Greenwich time has been restored",
+      "link": "https://timesofindia.indiatimes.com/world/uk/ramsgates-historic-clock-house-restored-a-journey-back-in-time-to-the-towns-unique-meridian/articleshow/136134128.cms",
+      "published": "2026-11-25T17:01:00+05:30",
+      "sentiment": 0.16944444444444443
+    },
+    {
+      "title": "A non-venomous snake that does not constrict its prey can still kill with its bite",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/a-non-venomous-snake-that-does-not-constrict-its-prey-can-still-kill-with-its-bite-a-study-of-three-drymarchon-species-found-their-jaws-generate-tissue-damaging-pressure-greater-than-constriction-by-similarly-sized-snakes/articleshow/136149907.cms",
+      "published": "2026-11-25T17:01:00+05:30",
+      "sentiment": 0.37666666666666665
+    },
+    {
+      "title": "Mortgage-Free Home: Army Veteran’s Family Gets New Home; construction begins Nov 20",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-wisconsin-army-veteran-went-to-a-craig-morgan-concert-expecting-a-night-of-music-instead-michael-king-and-his-family-learned-they-would-receive-a-new-mortgage-free-home-with-a-groundbreaking-planned-the-next-day/articleshow/136123086.cms",
+      "published": "2026-11-25T17:01:00+05:30",
+      "sentiment": 0.10252525252525252
+    },
+    {
+      "title": "3 dead, 23 trapped after flood hits illegal gold mine in Indonesia",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/3-dead-23-trapped-after-flood-hits-illegal-gold-mine-in-indonesia/articleshow/136157488.cms",
+      "published": "2026-11-25T15:59:46+05:30",
+      "sentiment": -0.225
+    },
+    {
+      "title": "IShowSpeed beats Kai Cenat in GTA 6 $1 million challenge after making dramatic comeback",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/ishowspeed-beats-kai-cenat-in-gta-6-1-million-challenge-after-making-dramatic-comeback/articleshow/136157401.cms",
+      "published": "2026-11-25T15:54:03+05:30",
+      "sentiment": -0.013541666666666674
+    },
+    {
+      "title": "Trump’s Russia business pitch loses steam as Putin presses for Donbas: Report",
+      "link": "https://timesofindia.indiatimes.com/world/europe/trumps-russia-business-pitch-loses-steam-as-putin-presses-for-donbas-report/articleshow/136156154.cms",
+      "published": "2026-11-25T15:45:48+05:30",
+      "sentiment": -0.15
+    },
+    {
+      "title": "North Carolina couple honours late daughter by rescuing hundreds of animals",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-couple-lost-their-18-year-old-daughter-in-a-car-crash-22-years-later-they-are-honouring-her-memory-by-rescuing-hundreds-of-orphaned-and-injured-animals-through-a-wildlife-centre-named-after-her/articleshow/136156318.cms",
+      "published": "2026-11-25T15:33:43+05:30",
+      "sentiment": -0.15
+    },
+    {
+      "title": "Iowa residents told to take shelter as US Army prepares to detonate 5 tonnes of explosives",
+      "link": "https://timesofindia.indiatimes.com/world/us/iowa-residents-told-to-take-shelter-as-us-army-prepares-to-detonate-5-tonnes-of-explosives-toxic-dust-feared/articleshow/136158928.cms",
+      "published": "2026-11-25T16:35:46+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US citizen deported to Mexico by Trump administration; DOJ admits mistake in court filing",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-citizen-deported-to-mexico-by-trump-administration-doj-admits-mistake-in-court-filing/articleshow/136110789.cms",
+      "published": "2026-11-23T23:16:36+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran lashes singer Parastoo Ahmadi 74 times for performing without hijab",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/four-years-after-aminis-death-iran-lashes-singer-parastoo-ahmadi-74-times-for-performing-without-hijab/articleshow/136154446.cms",
+      "published": "2026-11-25T15:16:35+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Trump called Abdul El-Sayed a 'jihadist' during midterms, now he wants to meet him over Trumpcare",
+      "link": "https://timesofindia.indiatimes.com/world/us/trump-called-abdul-el-sayed-a-jihadist-during-midterms-now-he-wants-to-meet-him-over-trumpcare/articleshow/136155664.cms",
+      "published": "2026-11-25T15:16:51+05:30",
+      "sentiment": 0.1
+    },
+    {
       "title": "Watch: Bangladesh’s Grameen Bank faces a wave of arson; 100 attacks in 15 days",
       "link": "https://timesofindia.indiatimes.com/world/south-asia/watch-bangladeshs-grameen-bank-faces-a-wave-of-arson-100-attacks-in-15-days/articleshow/136154633.cms",
       "published": "2026-11-25T14:43:27+05:30",
@@ -47,78 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/halifax-couple-paul-and-jane-bottomley-have-raised-86000-for-a-hospital-cancer-centre-through-christmas-hamper-raffles-that-paul-started-to-give-back-to-calderdale-royal-hospital-after-jane-began-chemotherapy/articleshow/136151276.cms",
       "published": "2026-11-25T14:01:00+05:30",
       "sentiment": -0.0625
-    },
-    {
-      "title": "Minnesota couple found guilty of $15 million healthcare fraud scheme",
-      "link": "https://timesofindia.indiatimes.com/world/us/minnesota-couple-found-guilty-of-15-million-healthcare-fraud-after-billing-insurers-for-fake-treatments-and-unlicensed-care-then-spending-proceeds-on-luxury-cars-and-a-mansion/articleshow/136151546.cms",
-      "published": "2026-11-25T12:25:50+05:30",
-      "sentiment": -0.25
-    },
-    {
-      "title": "After their son died of brain cancer, a family opened a children's museum in a hospital in his honour",
-      "link": "https://timesofindia.indiatimes.com/world/us/heartwarming-legacy-family-honors-sons-wish-by-opening-15000-sq-ft-childrens-museum-in-hospital-for-sick-kids/articleshow/136135300.cms",
-      "published": "2026-11-25T13:01:00+05:30",
-      "sentiment": 0.275
-    },
-    {
-      "title": "After 24 years together, woman loses home to partner's estranged wife",
-      "link": "https://timesofindia.indiatimes.com/world/us/an-arizona-woman-lived-with-her-partner-in-the-same-phoenix-house-for-24-years-but-he-never-divorced-his-estranged-wife-after-his-death-an-appeals-court-upheld-the-legal-wifes-ownership-of-the-home/articleshow/136128976.cms",
-      "published": "2026-11-25T13:01:00+05:30",
-      "sentiment": -0.024999999999999998
-    },
-    {
-      "title": "Man named two relatives to $746,000 life policy during Idaho divorce; court revives wife's claim",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-man-named-two-relatives-as-beneficiaries-of-a-746000-life-insurance-policy-during-idaho-divorce-proceedings-then-died-in-a-mining-accident-on-november-23-judges-revived-his-wifes-claim-to-a-share/articleshow/136125604.cms",
-      "published": "2026-11-25T13:01:00+05:30",
-      "sentiment": 0.14285714285714285
-    },
-    {
-      "title": "South Carolina woman fears 2 highway routes could take her home and son's house",
-      "link": "https://timesofindia.indiatimes.com/world/us/south-carolina-homeowner-says-2-proposed-highway-routes-could-run-through-her-home-as-1-56-billion-highway-project-threatens-to-wipe-out-her-sons-house/articleshow/136150335.cms",
-      "published": "2026-11-25T12:06:54+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Seattle man loses nearly $4 million debt relief after hiding $39,600 inheritance",
-      "link": "https://timesofindia.indiatimes.com/world/us/seattle-man-hid-39600-inherited-from-his-father-during-bankruptcy-court-revokes-his-discharge-of-nearly-4-million-in-debt-after-finding-fraud/articleshow/136148414.cms",
-      "published": "2026-11-25T11:00:00+05:30",
-      "sentiment": -0.06666666666666667
-    },
-    {
-      "title": "Yorkshire woman grows 4,200 trees inspired by grandchildren's climate protests",
-      "link": "https://timesofindia.indiatimes.com/science/earth/woman-in-her-80s-grows-4200-trees-from-seeds-after-her-grandchildren-join-climate-protests-donating-thousands-of-saplings-to-nature-reserves-across-north-yorkshire/articleshow/136131600.cms",
-      "published": "2026-11-25T08:15:00+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Southern African pythons use attractive tail movements to lure prey",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/southern-african-pythons-use-a-unique-tail-movement-to-attract-prey-social-media-videos-helped-scientists-document-a-hunting-behaviour-never-recorded-in-the-species-before/articleshow/136131726.cms",
-      "published": "2026-11-25T01:00:00+05:30",
-      "sentiment": 0.2
-    },
-    {
-      "title": "Kerala's Sneha Joy lost polls by 13 votes in 2020; now, she has won a Rs 32 crore lottery in Canada",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-kerala-woman-who-lost-a-local-election-by-just-13-votes-in-2020-moved-to-canada-with-her-husband-five-years-later-sneha-joy-has-won-a-canadian-5-million-lottery-jackpot-worth-more-than-rs-30-crore/articleshow/136127063.cms",
-      "published": "2026-11-25T11:01:00+05:30",
-      "sentiment": 0.4785714285714286
-    },
-    {
-      "title": "Fort Hood shooter Nidal Hasan seeks execution delay, says he was defending Taliban",
-      "link": "https://timesofindia.indiatimes.com/world/us/fort-hood-shooter-nidal-hasan-seeks-execution-delay-says-he-was-defending-taliban/articleshow/136148448.cms",
-      "published": "2026-11-25T10:30:21+05:30",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Australian family finds 5-foot venomous snake inside their toilet",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-family-discovered-a-5-foot-venomous-snake-inside-their-toilet-after-it-travelled-through-a-narrow-sewer-pipe-a-snake-catcher-said-he-had-never-encountered-such-a-rescue-in-his-career/articleshow/136146804.cms",
-      "published": "2026-11-25T08:56:31+05:30",
-      "sentiment": -0.011111111111111112
-    },
-    {
-      "title": "Watch: Armed men hold 30 hostage in Colombia supermarket; 10 rescued",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-armed-men-take-30-hostage-at-colombia-supermarket-after-failed-attempt-to-rob-cash-van-10-rescued/articleshow/136147326.cms",
-      "published": "2026-11-25T09:21:21+05:30",
-      "sentiment": 0.05
     }
   ]
 }

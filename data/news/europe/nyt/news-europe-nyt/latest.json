@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
+      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+      "published": "Wed, 25 Nov 2026 11:08:52 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "India and U.S. Artist Nick Cave Win Venice Biennale’s Top Prizes",
+      "link": "https://www.nytimes.com/2026/11/25/arts/design/venice-biennale-visitors-lions-nick-cave-india.html",
+      "published": "Wed, 25 Nov 2026 11:30:30 +0000",
+      "sentiment": 0.6333333333333333
+    },
+    {
       "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
       "link": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
       "published": "Wed, 25 Nov 2026 05:01:14 +0000",
@@ -37,10 +49,10 @@
       "sentiment": -0.1159090909090909
     },
     {
-      "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+      "title": "Prince William and Kate’s Country Home Is Broken Into; 2 Men Arrested",
       "link": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
       "published": "Tue, 24 Nov 2026 16:31:07 +0000",
-      "sentiment": 0.1
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
       "published": "Sun, 22 Nov 2026 18:12:18 +0000",
       "sentiment": 0.027083333333333334
-    },
-    {
-      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
-      "published": "Mon, 23 Nov 2026 15:41:25 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
-      "link": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
-      "published": "Sat, 21 Nov 2026 13:35:19 +0000",
-      "sentiment": 0.05916666666666668
     }
   ]
 }
