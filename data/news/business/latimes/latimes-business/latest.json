@@ -7,16 +7,16 @@
       "sentiment": -0.025
     },
     {
-      "title": "How one developer plans to build a big data center in L.A. County where NIMBYs won't notice",
-      "link": "https://www.latimes.com/business/story/2026-11-25/how-one-developer-plans-to-build-big-data-center-in-la-county-where-nimbys-wont-notice",
-      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.02727272727272727
-    },
-    {
       "title": "Shein to pay $100 million to settle claims it deceived U.S. shoppers",
       "link": "https://www.latimes.com/business/story/2026-11-25/shein-to-pay-100-million-to-settle-claims-it-deceived-u-s-shoppers",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "How one developer plans to build a big data center in L.A. County where NIMBYs won't notice",
+      "link": "https://www.latimes.com/business/story/2026-11-25/how-one-developer-plans-to-build-big-data-center-in-la-county-where-nimbys-wont-notice",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.02727272727272727
     },
     {
       "title": "Hiltzik: Jensen Huang's return to Nvidia makes everyone involved look corrupt",
@@ -43,16 +43,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Hiltzik: Who's to blame for tech outages? Clue: It's not AI or hackers",
-      "link": "https://www.latimes.com/business/story/2026-11-24/whos-to-blame-for-tech-outages-clue-its-not-ai-or-hackers",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
       "link": "https://www.latimes.com/business/story/2026-11-24/jensen-huang-is-back-at-nvidia-but-his-startling-return-causes-more-scrutiny",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "Hiltzik: Who's to blame for tech outages? Clue: It's not AI or hackers",
+      "link": "https://www.latimes.com/business/story/2026-11-24/whos-to-blame-for-tech-outages-clue-its-not-ai-or-hackers",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Newsom's utilities commission moves to pass electricity rate hikes, other industry-friendly measures",
@@ -133,16 +133,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Anthropic's record IPO nets huge windfall for L.A. investors",
-      "link": "https://www.latimes.com/business/story/2026-11-20/anthropics-record-ipo-nets-huge-windfall-for-la-investors",
-      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.39999999999999997
-    },
-    {
       "title": "With the new 'Hunger Games: Sunrise on the Reaping,' Lionsgate sees a rebound",
       "link": "https://www.latimes.com/entertainment-arts/business/story/2026-11-20/lionsgate-hunger-games-sunrise-on-the-reaping-turnaround",
       "published": "Fri, 20 Nov 2026 11:00:00 GMT",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "Anthropic's record IPO nets huge windfall for L.A. investors",
+      "link": "https://www.latimes.com/business/story/2026-11-20/anthropics-record-ipo-nets-huge-windfall-for-la-investors",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.39999999999999997
     },
     {
       "title": "California subpoenas Nvidia as questions about CEO affair, AI chips mount",
@@ -235,6 +235,12 @@
       "sentiment": 0.2
     },
     {
+      "title": "Merv Griffin desert estate hits the market",
+      "link": "https://www.latimes.com/business/story/2026-11-17/merv-griffin-desert-estate-hits-market",
+      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Popular Californian brewery set to close",
       "link": "https://www.latimes.com/business/story/2026-11-17/popular-californian-brewery-set-to-close",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-17/if-jensen-huang-really-was-irreplaceable-at-nvidia-that-shows-he-was-a-terrible-manager",
       "published": "Tue, 17 Nov 2026 11:00:00 GMT",
       "sentiment": -0.4
-    },
-    {
-      "title": "Merv Griffin desert estate hits the market",
-      "link": "https://www.latimes.com/business/story/2026-11-17/merv-griffin-desert-estate-hits-market",
-      "published": "Tue, 17 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Kaiser mental health clinicians in California ratify labor contract with some AI guardrails",
@@ -343,16 +343,16 @@
       "sentiment": 0.46666666666666673
     },
     {
-      "title": "Another California winery is struggling, being sued by lenders amid a slump in wine demand",
-      "link": "https://www.latimes.com/business/story/2026-11-10/another-california-winery-is-struggling-being-sued-by-lenders",
-      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Hiltzik: The Democrats' first 'affordability' remedy should be raising the federal minimum wage",
       "link": "https://www.latimes.com/business/story/2026-11-10/the-democrats-first-affordability-remedy-should-be-raising-the-federal-minimum-wage",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
+    },
+    {
+      "title": "He built a chipmaking giant. Now Jensen Huang faces his biggest test",
+      "link": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test",
+      "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.020833333333333332
     },
     {
       "title": "California judge says she was fired after objecting to settlements with insurers seeking rate hikes",
@@ -361,10 +361,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "He built a chipmaking giant. Now Jensen Huang faces his biggest test",
-      "link": "https://www.latimes.com/business/story/2026-11-10/he-built-chipmaking-giant-now-jensen-huang-faces-his-biggest-test",
+      "title": "Another California winery is struggling, being sued by lenders amid a slump in wine demand",
+      "link": "https://www.latimes.com/business/story/2026-11-10/another-california-winery-is-struggling-being-sued-by-lenders",
       "published": "Tue, 10 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.020833333333333332
+      "sentiment": 0.0
     },
     {
       "title": "Billionaire tax rejected on concern punishing the ultra-rich would hurt California's economy",
@@ -433,16 +433,16 @@
       "sentiment": -0.03333333333333333
     },
     {
-      "title": "Hiltzik: CVS unwinds its big mergers, ending a dream of healthcare dominance",
-      "link": "https://www.latimes.com/business/story/2026-11-06/cvs-healthcare-dominance-wrecked-unwinds-big-mergers",
-      "published": "Fri, 6 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "Clifton's quietly reopens with plans to become an immersive, Meow Wolf-inspired megaspace",
       "link": "https://www.latimes.com/travel/story/2026-11-06/cliftons-downtown-los-angeles-reopening-sanctuary",
       "published": "Fri, 6 Nov 2026 11:00:00 GMT",
       "sentiment": 0.21212121212121213
+    },
+    {
+      "title": "Hiltzik: CVS unwinds its big mergers, ending a dream of healthcare dominance",
+      "link": "https://www.latimes.com/business/story/2026-11-06/cvs-healthcare-dominance-wrecked-unwinds-big-mergers",
+      "published": "Fri, 6 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.25
     },
     {
       "title": "Social media companies sue California over new law restricting use for children",
@@ -451,22 +451,16 @@
       "sentiment": 0.01117424242424242
     },
     {
-      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
-      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
-      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.16
-    },
-    {
       "title": "New Culver City development will add hundreds of apartments, two parks and restaurants",
       "link": "https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
       "sentiment": 0.11742424242424243
     },
     {
-      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
-      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
+      "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
+      "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.029356060606060594
+      "sentiment": 0.0
     },
     {
       "title": "What the Democratic landslide means for GOP booster Elon Musk and his businesses",
@@ -475,10 +469,16 @@
       "sentiment": 0.2
     },
     {
-      "title": "SoCal Berry Growers to close six farm locations, lay off hundreds of workers",
-      "link": "https://www.latimes.com/business/story/2026-11-05/socal-berry-growers-to-close-six-farm-locations-lay-off-hundreds-of-workers",
+      "title": "Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal",
+      "link": "https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal",
       "published": "Thu, 5 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.029356060606060594
+    },
+    {
+      "title": "Billionaire tax continues to trail as many Californians vote to spare the state's ultra-rich stars",
+      "link": "https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated",
+      "published": "Thu, 5 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.16
     },
     {
       "title": "SoCal Outback Steakhouse franchisee files for bankruptcy, citing California's labor costs",
@@ -499,16 +499,16 @@
       "sentiment": 0.11875
     },
     {
-      "title": "Hiltzik: Can AI bots become conscious? Why Microsoft's AI boss says that's the wrong question",
-      "link": "https://www.latimes.com/business/story/2026-11-03/ai-bots-conscious-microsoft-ai-boss-anthropic-suleyman-intelligence",
-      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.10000000000000002
-    },
-    {
       "title": "Utilities lobby for shield from wildfire costs",
       "link": "https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs",
       "published": "Tue, 3 Nov 2026 11:00:00 GMT",
       "sentiment": -0.12000000000000002
+    },
+    {
+      "title": "Hiltzik: Can AI bots become conscious? Why Microsoft's AI boss says that's the wrong question",
+      "link": "https://www.latimes.com/business/story/2026-11-03/ai-bots-conscious-microsoft-ai-boss-anthropic-suleyman-intelligence",
+      "published": "Tue, 3 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.10000000000000002
     },
     {
       "title": "Newsom proposes $1-billion cap for film and TV tax incentive",

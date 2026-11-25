@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "U.S. Officials Say There’s No Evidence China Coordinated Jensen Huang’s Affair",
+      "link": "https://www.wsj.com/business/u-s-officials-say-theres-no-evidence-china-coordinated-jensen-huangs-affair-52fa4961?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 21:48:00 GMT",
+      "sentiment": 0.08125
+    },
+    {
       "title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
       "link": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 18:41:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/autos/seat-belt-use-car-crash-fatalities-141a7f9a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 02:00:00 GMT",
       "sentiment": -0.03181818181818183
-    },
-    {
-      "title": "When Do China’s Look-Alike SUVs Become Illegal Copycats?",
-      "link": "https://www.wsj.com/business/autos/when-do-chinas-look-alike-suvs-become-illegal-copycats-65498462?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 02:00:00 GMT",
-      "sentiment": -0.16666666666666666
     },
     {
       "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
@@ -67,6 +67,12 @@
       "sentiment": -0.15000000000000002
     },
     {
+      "title": "Macy’s Postpones Its Thanksgiving Day Parade Until Saturday",
+      "link": "https://www.wsj.com/us-news/macys-postpones-its-thanksgiving-day-parade-until-saturday-261dc15c?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 21:30:00 GMT",
+      "sentiment": 0.027499999999999997
+    },
+    {
       "title": "Retailers Have a Secret Weapon, and It’s Good Marketing",
       "link": "https://www.wsj.com/cmo-today/retailers-have-a-secret-weapon-and-its-good-marketing-53aabe99?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 14:27:00 GMT",
@@ -89,12 +95,6 @@
       "link": "https://www.wsj.com/business/retail/urban-outfitters-posts-higher-profit-but-comparable-store-sales-growth-slows-c050ff18?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 22:14:00 GMT",
       "sentiment": 0.2125
-    },
-    {
-      "title": "HP Offers ‘Prudent’ Guidance Amid Rising Memory Costs",
-      "link": "https://www.wsj.com/business/earnings/hp-offers-prudent-guidance-amid-rising-memory-costs-37c67b9d?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 21:23:00 GMT",
-      "sentiment": 0.08666666666666667
     },
     {
       "title": "Auto & Transport Roundup: Market Talk",
@@ -133,6 +133,12 @@
       "sentiment": 0.175
     },
     {
+      "title": "When Do China’s Look-Alike SUVs Become Illegal Copycats?",
+      "link": "https://www.wsj.com/business/autos/when-do-chinas-look-alike-suvs-become-illegal-copycats-65498462?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 02:00:00 GMT",
+      "sentiment": -0.16666666666666666
+    },
+    {
       "title": "Jensen Huang Apologized to Nvidia Staff in Company Meeting",
       "link": "https://www.wsj.com/business/jensen-huang-apologized-to-nvidia-staff-in-company-meeting-c798dfba?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 22:32:00 GMT",
@@ -149,12 +155,6 @@
       "link": "https://www.wsj.com/business/autos/chinese-automakers-book-strong-european-growth-ahead-of-import-cap-ccdee0da?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 07:07:00 GMT",
       "sentiment": 0.06190476190476191
-    },
-    {
-      "title": "BYD’s Shares Fall After Dutch Court Bars Sales of Ti7 SUV Model in EU",
-      "link": "https://www.wsj.com/business/autos/byds-shares-fall-after-dutch-court-bars-sales-of-ti7-suv-model-in-eu-f18ff808?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 08:49:00 GMT",
-      "sentiment": 0.21428571428571427
     },
     {
       "title": "Opinion | Is Nvidia Trump’s Waterloo?",
@@ -195,20 +195,14 @@
     {
       "title": "Oil Futures Pick Up as Middle East Tensions Persist",
       "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-supply-outlook-renewed-middle-east-tensions-182b1198?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 17:37:00 GMT",
-      "sentiment": 0.06999999999999999
+      "published": "Wed, 25 Nov 2026 21:07:00 GMT",
+      "sentiment": 0.075
     },
     {
       "title": "Energy & Utilities Roundup: Market Talk",
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 17:32:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "U.S. Natural Gas Inventories Decrease in Line With Average",
-      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 17:28:00 GMT",
-      "sentiment": 0.05000000000000001
     },
     {
       "title": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 10:30:00 GMT",
       "sentiment": -0.125
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f",
+      "published": "Tue, 24 Nov 2026 21:59:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "How Southwest, Target and AT&T Finance Chiefs Think About the Human in the Loop",
@@ -373,7 +373,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "SpaceX Gets U.S. Approval to Run One Million Orbital Data Centers",
+      "title": "SpaceX Gets Approval to Launch One Million Satellites For Orbital Data Centers",
       "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 19:39:00 GMT",
       "sentiment": -0.1
@@ -487,10 +487,10 @@
       "sentiment": -0.16666666666666666
     },
     {
-      "title": "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill’?",
-      "link": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 10:30:00 GMT",
-      "sentiment": 0.011111111111111118
+      "title": "SpaceX Gets Approval to Launch One Million Satellites For Orbital Data Centers",
+      "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 19:39:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "Best Small-Business Loans in November 2026",

@@ -1,9 +1,15 @@
 {
   "entries": [
     {
+      "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+      "link": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "published": "Wed, 25 Nov 2026 21:36:34 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
       "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-      "published": "Wed, 25 Nov 2026 20:40:45 +0000",
+      "published": "Wed, 25 Nov 2026 21:36:24 +0000",
       "sentiment": 0.0
     },
     {
@@ -15,7 +21,7 @@
     {
       "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
       "link": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
-      "published": "Wed, 25 Nov 2026 20:31:31 +0000",
+      "published": "Wed, 25 Nov 2026 21:52:41 +0000",
       "sentiment": -0.025
     },
     {
@@ -27,7 +33,7 @@
     {
       "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
       "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
-      "published": "Wed, 25 Nov 2026 19:00:36 +0000",
+      "published": "Wed, 25 Nov 2026 21:30:58 +0000",
       "sentiment": 0.0
     },
     {
@@ -51,7 +57,7 @@
     {
       "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
       "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-      "published": "Wed, 25 Nov 2026 19:39:49 +0000",
+      "published": "Wed, 25 Nov 2026 21:32:42 +0000",
       "sentiment": -0.0625
     },
     {
@@ -287,12 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
       "published": "Mon, 23 Nov 2026 13:08:06 +0000",
       "sentiment": -0.26875
-    },
-    {
-      "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
-      "link": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
-      "published": "Mon, 23 Nov 2026 10:03:47 +0000",
-      "sentiment": 0.0
     }
   ]
 }

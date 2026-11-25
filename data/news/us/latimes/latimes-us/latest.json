@@ -7,7 +7,7 @@
       "sentiment": 0.0
     },
     {
-      "title": "Trump, dismissing Chinese espionage, adds to counterintelligence concerns",
+      "title": "Trump, dismissing Chinese espionage, adds to national security concerns",
       "link": "https://www.latimes.com/politics/story/2026-11-25/trump-dismissing-chinese-espionage-adds-to-counterintelligence-concerns",
       "published": "Wed, 25 Nov 2026 17:32:27 GMT",
       "sentiment": 0.25
@@ -43,12 +43,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "title": "Parts of Pacifica pier crumble into the ocean in epic day of high tides, powerful waves",
-      "link": "https://www.latimes.com/california/story/2026-11-25/la-me-king-tides-explainer",
-      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.14
-    },
-    {
       "title": "Ruthless killing of roller-rink owner shook small California city. Now, a measure of justice",
       "link": "https://www.latimes.com/california/story/2026-11-25/ruthless-killing-of-roller-rink-owner-shook-small-california-city-now-measure-of-justice",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
@@ -59,6 +53,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
       "sentiment": 0.2
+    },
+    {
+      "title": "Parts of Pacifica pier crumble into the ocean in epic day of high tides, powerful waves",
+      "link": "https://www.latimes.com/california/story/2026-11-25/la-me-king-tides-explainer",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.14
     },
     {
       "title": "Malibu again delays rollout of speed cameras for deadly section of PCH",
@@ -569,12 +569,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-18/birthday-party-turns-tragic-for-california-family-after-children-find-their-parents-dead-lawsuit-says",
       "published": "Wed, 18 Nov 2026 18:53:34 GMT",
       "sentiment": -0.4166666666666667
-    },
-    {
-      "title": "Three L.A. suspects sought in burglary of top NFL rookie Max Iheanachor's Pittsburgh home",
-      "link": "https://www.latimes.com/sports/story/2026-11-18/nfl-steelers-max-iheanachor-home-burglary-three-suspects-sought",
-      "published": "Wed, 18 Nov 2026 16:40:35 GMT",
-      "sentiment": 0.225
     }
   ]
 }
