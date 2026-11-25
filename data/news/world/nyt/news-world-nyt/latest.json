@@ -13,6 +13,12 @@
       "sentiment": -0.13333333333333333
     },
     {
+      "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
+      "link": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
+      "published": "Wed, 25 Nov 2026 16:22:17 +0000",
+      "sentiment": 0.15833333333333335
+    },
+    {
       "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
       "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
       "published": "Wed, 25 Nov 2026 13:59:32 +0000",
@@ -25,10 +31,22 @@
       "sentiment": 0.0
     },
     {
+      "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+      "published": "Wed, 25 Nov 2026 13:25:15 +0000",
+      "sentiment": -0.1
+    },
+    {
       "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
       "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
       "published": "Wed, 25 Nov 2026 13:34:43 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+      "published": "Wed, 25 Nov 2026 13:35:09 +0000",
+      "sentiment": -0.07499999999999998
     },
     {
       "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
@@ -61,40 +79,16 @@
       "sentiment": 0.044444444444444446
     },
     {
-      "title": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
-      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
-      "published": "Wed, 25 Nov 2026 07:36:48 +0000",
-      "sentiment": 0.4
-    },
-    {
       "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
       "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
       "published": "Tue, 24 Nov 2026 10:35:30 +0000",
       "sentiment": -0.1
     },
     {
-      "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-      "published": "Tue, 24 Nov 2026 14:42:31 +0000",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
-      "published": "Tue, 24 Nov 2026 13:56:53 +0000",
-      "sentiment": 0.009999999999999998
-    },
-    {
-      "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
-      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-      "published": "Wed, 25 Nov 2026 13:25:15 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
-      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
-      "published": "Wed, 25 Nov 2026 13:35:09 +0000",
-      "sentiment": -0.07499999999999998
+      "title": "How to Celebrate Thanksgiving as an Expat",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
+      "published": "Wed, 25 Nov 2026 15:53:44 +0000",
+      "sentiment": 0.16666666666666666
     },
     {
       "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
@@ -119,6 +113,12 @@
       "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
       "published": "Wed, 25 Nov 2026 05:45:35 +0000",
       "sentiment": 0.0
+    },
+    {
+      "title": "Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region",
+      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+      "published": "Wed, 25 Nov 2026 07:36:48 +0000",
+      "sentiment": 0.4
     },
     {
       "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
@@ -157,6 +157,12 @@
       "sentiment": 0.20000000000000004
     },
     {
+      "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+      "published": "Tue, 24 Nov 2026 14:42:31 +0000",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
       "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
       "published": "Tue, 24 Nov 2026 12:34:52 +0000",
@@ -191,6 +197,12 @@
       "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
       "published": "Wed, 25 Nov 2026 14:45:10 +0000",
       "sentiment": 0.28409090909090906
+    },
+    {
+      "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+      "published": "Wed, 25 Nov 2026 16:47:22 +0000",
+      "sentiment": 0.009999999999999998
     },
     {
       "title": "Pope Francis Diary Excerpts Published in New Book",
@@ -335,18 +347,6 @@
       "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
       "published": "Mon, 23 Nov 2026 21:46:33 +0000",
       "sentiment": -0.044444444444444446
-    },
-    {
-      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-      "published": "Sun, 22 Nov 2026 06:58:18 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-      "published": "Sun, 22 Nov 2026 11:03:04 +0000",
-      "sentiment": 0.0
     }
   ]
 }
