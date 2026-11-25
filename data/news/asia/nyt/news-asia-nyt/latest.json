@@ -1,15 +1,27 @@
 {
   "entries": [
     {
+      "title": "Small Plane Crashes Off the Mississippi Coast, Killing 6",
+      "link": "https://www.nytimes.com/2026/11/25/us/mississippi-plane-crash-horn-island.html",
+      "published": "Wed, 25 Nov 2026 08:18:28 +0000",
+      "sentiment": -0.075
+    },
+    {
+      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "published": "Wed, 25 Nov 2026 07:29:44 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "Puerto Rico’s Jennifer Barreto Wins Miss Universe on Home Turf",
       "link": "https://www.nytimes.com/2026/11/25/us/miss-universe-winner-puerto-rico.html",
-      "published": "Wed, 25 Nov 2026 06:24:54 +0000",
+      "published": "Wed, 25 Nov 2026 08:21:20 +0000",
       "sentiment": 0.06666666666666667
     },
     {
       "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
       "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-      "published": "Wed, 25 Nov 2026 05:24:35 +0000",
+      "published": "Wed, 25 Nov 2026 05:24:36 +0000",
       "sentiment": 0.012121212121212116
     },
     {
@@ -107,18 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
       "published": "Sat, 21 Nov 2026 12:53:05 +0000",
       "sentiment": 0.21212121212121213
-    },
-    {
-      "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
-      "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
-      "published": "Fri, 20 Nov 2026 19:39:27 +0000",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-      "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-      "published": "Sat, 21 Nov 2026 05:13:03 +0000",
-      "sentiment": 0.10000000000000002
     }
   ]
 }

@@ -1,6 +1,60 @@
 {
   "entries": [
     {
+      "title": "Nvidia chip scandal: How Alice Huang's $270m network is linked to China's military",
+      "link": "https://timesofindia.indiatimes.com/world/china/nvidia-chip-scandal-how-alice-huangs-270-million-network-is-linked-to-chinas-military/articleshow/136151939.cms",
+      "published": "2026-11-25T13:37:59+05:30",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Pak astronaut Ali reaches China’s Tiangong station",
+      "link": "https://timesofindia.indiatimes.com/science/pak-astronaut-ali-reaches-chinas-tiangong-station/articleshow/136152904.cms",
+      "published": "2026-11-25T13:19:16+05:30",
+      "sentiment": 0.058333333333333334
+    },
+    {
+      "title": "California son wins fight over late father's partner's 1978 house",
+      "link": "https://timesofindia.indiatimes.com/world/us/california-woman-bought-a-house-in-1978-and-left-it-to-her-partner-through-a-trust-after-both-died-another-woman-challenged-his-sons-claim-to-the-property-but-the-court-ruled-in-his-favour/articleshow/136152939.cms",
+      "published": "2026-11-25T13:27:13+05:30",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russian overnight strikes kill two in Odesa, set Kyiv apartment block ablaze",
+      "link": "https://timesofindia.indiatimes.com/world/europe/russian-overnight-strikes-kill-two-in-odesa-set-kyiv-apartment-block-ablaze/articleshow/136151848.cms",
+      "published": "2026-11-25T12:38:05+05:30",
+      "sentiment": 0.06770833333333334
+    },
+    {
+      "title": "He raised £86,000 for cancer patients; now he is battling the disease himself",
+      "link": "https://timesofindia.indiatimes.com/world/uk/halifax-couple-paul-and-jane-bottomley-have-raised-86000-for-a-hospital-cancer-centre-through-christmas-hamper-raffles-that-paul-started-to-give-back-to-calderdale-royal-hospital-after-jane-began-chemotherapy/articleshow/136151276.cms",
+      "published": "2026-11-25T14:01:00+05:30",
+      "sentiment": -0.0625
+    },
+    {
+      "title": "Minnesota couple found guilty of $15 million healthcare fraud scheme",
+      "link": "https://timesofindia.indiatimes.com/world/us/minnesota-couple-found-guilty-of-15-million-healthcare-fraud-after-billing-insurers-for-fake-treatments-and-unlicensed-care-then-spending-proceeds-on-luxury-cars-and-a-mansion/articleshow/136151546.cms",
+      "published": "2026-11-25T12:25:50+05:30",
+      "sentiment": -0.25
+    },
+    {
+      "title": "After their son died of brain cancer, a family opened a children's museum in a hospital in his honour",
+      "link": "https://timesofindia.indiatimes.com/world/us/heartwarming-legacy-family-honors-sons-wish-by-opening-15000-sq-ft-childrens-museum-in-hospital-for-sick-kids/articleshow/136135300.cms",
+      "published": "2026-11-25T13:01:00+05:30",
+      "sentiment": 0.275
+    },
+    {
+      "title": "After 24 years together, woman loses home to partner's estranged wife",
+      "link": "https://timesofindia.indiatimes.com/world/us/an-arizona-woman-lived-with-her-partner-in-the-same-phoenix-house-for-24-years-but-he-never-divorced-his-estranged-wife-after-his-death-an-appeals-court-upheld-the-legal-wifes-ownership-of-the-home/articleshow/136128976.cms",
+      "published": "2026-11-25T13:01:00+05:30",
+      "sentiment": -0.024999999999999998
+    },
+    {
+      "title": "Man named two relatives to $746,000 life policy during Idaho divorce; court revives wife's claim",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-man-named-two-relatives-as-beneficiaries-of-a-746000-life-insurance-policy-during-idaho-divorce-proceedings-then-died-in-a-mining-accident-on-november-23-judges-revived-his-wifes-claim-to-a-share/articleshow/136125604.cms",
+      "published": "2026-11-25T13:01:00+05:30",
+      "sentiment": 0.14285714285714285
+    },
+    {
       "title": "South Carolina woman fears 2 highway routes could take her home and son's house",
       "link": "https://timesofindia.indiatimes.com/world/us/south-carolina-homeowner-says-2-proposed-highway-routes-could-run-through-her-home-as-1-56-billion-highway-project-threatens-to-wipe-out-her-sons-house/articleshow/136150335.cms",
       "published": "2026-11-25T12:06:54+05:30",
@@ -65,60 +119,6 @@
       "link": "https://timesofindia.indiatimes.com/world/uk/two-arrested-after-masked-men-break-into-prince-william-and-kate-middletons-country-home/articleshow/136145875.cms",
       "published": "2026-11-25T07:53:42+05:30",
       "sentiment": 0.0
-    },
-    {
-      "title": "Israel govt formation: Eisenkot, Lieberman join hands in bid to oust Netanyahu",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-govt-formation-eisenkot-lieberman-seal-first-coalition-pact-as-rivals-step-up-push-to-oust-netanyahu/articleshow/136145374.cms",
-      "published": "2026-11-25T07:02:32+05:30",
-      "sentiment": 0.20727272727272728
-    },
-    {
-      "title": "Flights delayed at Chicago O’Hare airport as ground radar system suffers outage",
-      "link": "https://timesofindia.indiatimes.com/world/us/flights-delayed-at-chicago-ohare-airport-as-ground-radar-system-suffers-outage/articleshow/136145242.cms",
-      "published": "2026-11-25T06:52:22+05:30",
-      "sentiment": -0.3
-    },
-    {
-      "title": "West Virginia town sues to save 12 historic buildings from demolition in national park",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-west-virginia-town-has-sued-to-save-12-historic-buildings-from-demolition-inside-a-national-park-even-as-a-36-million-federal-project-plans-to-restore-other-structures-and-bring-in-demolition-crews-on-november-30/articleshow/136141391.cms",
-      "published": "2026-11-25T01:43:37+05:30",
-      "sentiment": -0.0375
-    },
-    {
-      "title": "Meet Yash Patil, Indian-origin entrepreneur who took leave from Stanford to work with Open AI, founded his own startup and then sold it for $4.5 billion",
-      "link": "https://timesofindia.indiatimes.com/world/us/meet-yash-patil-indian-origin-entrepreneur-who-took-leave-from-stanford-to-work-with-open-ai-started-his-own-startup-and-then-sold-it-for-4-5-billion/articleshow/136141678.cms",
-      "published": "2026-11-25T01:37:55+05:30",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "High-profile Colorado attorney who set own house on fire and apologized to wife and children for domestic violence dies of accidental drug overdose",
-      "link": "https://timesofindia.indiatimes.com/world/us/high-profile-colorado-attorney-who-set-own-house-on-fire-and-apologized-to-wife-and-children-for-domestic-violence-dies-of-accidental-drug-overdose/articleshow/136141519.cms",
-      "published": "2026-11-25T01:13:17+05:30",
-      "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "Sydney medical student identifies 5 relatives in forgotten 1965 film after social media appeal",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-british-television-director-was-searching-for-an-unidentified-melbourne-family-seen-in-a-forgotten-1965-film-a-sydney-medical-student-recognised-five-relatives-after-spotting-the-footage-on-social-media/articleshow/136140889.cms",
-      "published": "2026-11-25T00:52:25+05:30",
-      "sentiment": 0.07592592592592592
-    },
-    {
-      "title": "Sofia Hernandez Mejia's arrest by ICE from Seattle airport: Husband says he feels useless as a US citizen",
-      "link": "https://timesofindia.indiatimes.com/world/us/sofia-hernandez-mejias-arrest-by-ice-from-seattle-airport-husband-says-he-feels-useless-as-a-us-citizen/articleshow/136141225.cms",
-      "published": "2026-11-25T00:44:15+05:30",
-      "sentiment": -0.18333333333333335
-    },
-    {
-      "title": "WestJet ordered to pay Canadian couple $2,000 after 16-hour delay blamed on wind",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/canadian-couple-kevin-and-marie-isobel-fraser-landed-in-vancouver-nearly-16-hours-late-after-westjet-blamed-a-wind-event-in-minneapolis-and-a-bc-tribunal-has-now-ordered-the-airline-to-pay-them-2000/articleshow/136140753.cms",
-      "published": "2026-11-25T00:17:11+05:30",
-      "sentiment": 0.051041666666666666
-    },
-    {
-      "title": "Colorado man freed after 27 years for infant's murder seeks $2m, but family calls claim a joke",
-      "link": "https://timesofindia.indiatimes.com/world/us/colorado-man-stephen-martinez-freed-after-27-years-when-his-murder-conviction-over-an-infants-death-was-overturned-is-now-seeking-about-2-million-from-the-state-and-the-babys-family-calls-his-claim-a-joke/articleshow/136140564.cms",
-      "published": "2026-11-25T00:08:55+05:30",
-      "sentiment": 0.028571428571428574
     }
   ]
 }
