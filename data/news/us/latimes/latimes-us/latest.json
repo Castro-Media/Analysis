@@ -1,10 +1,28 @@
 {
   "entries": [
     {
-      "title": "Accountant embezzled from indie films, used 'Fun Fun Fun' money for Vegas, female companions",
+      "title": "Malibu again delays rollout of speed cameras for deadly section of PCH",
+      "link": "https://www.latimes.com/california/story/2026-11-24/malibu-again-delays-rollout-of-speed-cameras-for-deadly-section-of-pch",
+      "published": "Wed, 25 Nov 2026 02:13:29 GMT",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Thomas Markle indicted on child porn charges; one victim allegedly was under 12",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-11-24/thomas-markle-indicted-on-federal-child-pornography-charges",
+      "published": "Wed, 25 Nov 2026 01:55:34 GMT",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Police, federal agents and anti-ICE activists clash outside Burbank hospital",
+      "link": "https://www.latimes.com/california/story/2026-11-24/police-federal-agents-anti-ice-activists-clash-near-burbank-hospital",
+      "published": "Wed, 25 Nov 2026 01:45:25 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "It happened in Vegas but didn't stay in Vegas. Film accountant spends big with embezzled cash",
       "link": "https://www.latimes.com/california/story/2026-11-24/accountant-embezzled-1-7million-from-indie-film-productions",
       "published": "Tue, 24 Nov 2026 23:39:14 GMT",
-      "sentiment": 0.2
+      "sentiment": 0.18
     },
     {
       "title": "Father dies in 500-foot fall while helping son on icy California mountain trail",
@@ -43,10 +61,10 @@
       "sentiment": 0.14166666666666666
     },
     {
-      "title": "How California's king tides will play out: Timing, locations, danger zones",
-      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
+      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
+      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.21666666666666665
+      "sentiment": 0.05
     },
     {
       "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
@@ -55,22 +73,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
-      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
+      "title": "How California's king tides will play out: Timing, locations, danger zones",
+      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.05
+      "sentiment": 0.21666666666666665
     },
     {
       "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
       "link": "https://www.latimes.com/california/story/2026-11-24/jd-vances-memoir-catholic-conversion",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
-      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.15000000000000002
     },
     {
       "title": "L.A. has ADU fever: Accessory dwelling units make up 41% of new housing permits",
@@ -83,6 +95,12 @@
       "link": "https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
+      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Press freedom group calls for ICE to release Afghan journalist from California detention",
@@ -217,12 +235,6 @@
       "sentiment": -0.008928571428571438
     },
     {
-      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.04999999999999999
-    },
-    {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
       "link": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
@@ -233,6 +245,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
+      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.04999999999999999
     },
     {
       "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
@@ -319,16 +337,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
-      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
-      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.5
-    },
-    {
       "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
       "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
       "published": "Fri, 20 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
+      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Investigation underway after fire at wildlife center kills about 40 animals",
@@ -499,16 +517,16 @@
       "sentiment": 0.225
     },
     {
-      "title": "The Ivy League brought back the SAT. Should UC follow?",
-      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Plastic producers face scrutiny after half fail to report data required by California law",
       "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
       "published": "Wed, 18 Nov 2026 11:00:00 GMT",
       "sentiment": -0.15555555555555553
+    },
+    {
+      "title": "The Ivy League brought back the SAT. Should UC follow?",
+      "link": "https://www.latimes.com/california/story/2026-11-18/uc-regents-sat-act-admissions-testing",
+      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Santa Ana suspends its Flock license plate reader camera system",
@@ -557,24 +575,6 @@
       "link": "https://www.latimes.com/food/story/2026-11-17/oy-bar-studio-city-closure",
       "published": "Tue, 17 Nov 2026 22:38:07 GMT",
       "sentiment": 0.36818181818181817
-    },
-    {
-      "title": "You were caught up in the FAA airport chaos. Are you entitled to a refund?",
-      "link": "https://www.latimes.com/california/story/2026-11-17/you-were-caught-up-in-faa-airport-chaos-are-you-entitled-to-refund",
-      "published": "Tue, 17 Nov 2026 18:04:54 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Cocaine kingpin known as 'Kraken' and 'Captain Morgan' arrested in San Diego, feds say",
-      "link": "https://www.latimes.com/california/story/2026-11-17/cocaine-kingpin-known-as-kraken-captain-morgan-arrested-in-san-diego-feds-say",
-      "published": "Tue, 17 Nov 2026 17:17:52 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "L.A. law firm sues to block HUD rule requiring public housing residents to prove immigration status",
-      "link": "https://www.latimes.com/california/story/2026-11-17/la-law-firm-sues-to-block-hud-rule-requiring-public-housing-residents-to-prove-immigration-status",
-      "published": "Tue, 17 Nov 2026 16:04:20 GMT",
-      "sentiment": 0.0
     }
   ]
 }
