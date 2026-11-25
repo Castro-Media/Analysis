@@ -13,12 +13,6 @@
       "sentiment": 0.1
     },
     {
-      "title": "Nithya Raman says L.A. child care is 'in crisis.' Here's her plan to change it",
-      "link": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
-      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "Trump's DOJ touted this election fraud arrest as 'first of many.' Then the case fizzled",
       "link": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
@@ -29,6 +23,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-25/tour-brings-3-d-statue-of-virgin-of-guadalupe-to-la-faithful",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
       "sentiment": 0.03409090909090909
+    },
+    {
+      "title": "Ruthless killing of roller-rink owner shook small California city. Now, a measure of justice",
+      "link": "https://www.latimes.com/california/story/2026-11-25/ruthless-killing-of-roller-rink-owner-shook-small-california-city-now-measure-of-justice",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.625
     },
     {
       "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
@@ -43,16 +43,16 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "title": "Maximum high tide records broken on SoCal coast as King Tides peak",
+      "title": "All-time high tide records broken in Southern California coast; waves batter NorCal coast",
       "link": "https://www.latimes.com/california/story/2026-11-25/la-me-king-tides-explainer",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.08
+      "sentiment": -0.060000000000000005
     },
     {
-      "title": "Ruthless killing of roller-rink owner shook small California city. Now, a measure of justice",
-      "link": "https://www.latimes.com/california/story/2026-11-25/ruthless-killing-of-roller-rink-owner-shook-small-california-city-now-measure-of-justice",
+      "title": "Nithya Raman says L.A. child care is 'in crisis.' Here's her plan to change it",
+      "link": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.625
+      "sentiment": 0.2
     },
     {
       "title": "Malibu again delays rollout of speed cameras for deadly section of PCH",
@@ -115,10 +115,10 @@
       "sentiment": 0.14166666666666666
     },
     {
-      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
-      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
+      "title": "How California's king tides will play out: Timing, locations, danger zones",
+      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.05
+      "sentiment": 0.21666666666666665
     },
     {
       "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
@@ -127,16 +127,10 @@
       "sentiment": 0.25
     },
     {
-      "title": "How California's king tides will play out: Timing, locations, danger zones",
-      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
+      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
+      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.21666666666666665
-    },
-    {
-      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
-      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.15000000000000002
+      "sentiment": 0.05
     },
     {
       "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
@@ -155,6 +149,12 @@
       "link": "https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
+      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Afghan journalist freed from California detention after 22 months",
@@ -289,6 +289,12 @@
       "sentiment": -0.008928571428571438
     },
     {
+      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
+      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.04999999999999999
+    },
+    {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
       "link": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
@@ -299,12 +305,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.04999999999999999
     },
     {
       "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
@@ -391,16 +391,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
-      "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
-      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
       "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
       "published": "Fri, 20 Nov 2026 11:00:00 GMT",
       "sentiment": -0.5
+    },
+    {
+      "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
+      "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.0
     },
     {
       "title": "Investigation underway after fire at wildlife center kills about 40 animals",
@@ -569,12 +569,6 @@
       "link": "https://www.latimes.com/sports/story/2026-11-18/nfl-steelers-max-iheanachor-home-burglary-three-suspects-sought",
       "published": "Wed, 18 Nov 2026 16:40:35 GMT",
       "sentiment": 0.225
-    },
-    {
-      "title": "Plastic producers face scrutiny after half fail to report data required by California law",
-      "link": "https://www.latimes.com/environment/story/2026-11-18/plastic-producers-face-scrutiny-after-half-fail-to-report-data-required-by-california-law",
-      "published": "Wed, 18 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.15555555555555553
     },
     {
       "title": "The Ivy League brought back the SAT. Should UC follow?",
