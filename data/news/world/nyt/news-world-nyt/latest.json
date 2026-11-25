@@ -15,19 +15,25 @@
     {
       "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
       "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-      "published": "Wed, 25 Nov 2026 12:31:34 +0000",
+      "published": "Wed, 25 Nov 2026 13:48:36 +0000",
       "sentiment": 0.25
     },
     {
-      "title": "Mexico Investigates Prosecutor Who Aided the C.I.A. Over Cartel Collusion",
+      "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
+      "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+      "published": "Wed, 25 Nov 2026 13:39:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
       "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-      "published": "Wed, 25 Nov 2026 10:04:19 +0000",
+      "published": "Wed, 25 Nov 2026 13:34:43 +0000",
       "sentiment": 0.0
     },
     {
       "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
       "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-      "published": "Wed, 25 Nov 2026 07:29:44 +0000",
+      "published": "Wed, 25 Nov 2026 13:40:09 +0000",
       "sentiment": 0.0
     },
     {
@@ -41,6 +47,12 @@
       "link": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
       "published": "Wed, 25 Nov 2026 08:05:15 +0000",
       "sentiment": -0.27306397306397306
+    },
+    {
+      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
+      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+      "published": "Wed, 25 Nov 2026 11:08:52 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
@@ -73,33 +85,15 @@
       "sentiment": 0.009999999999999998
     },
     {
-      "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-      "published": "Wed, 25 Nov 2026 08:55:39 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "Pope Francis Diary Excerpts Published in New Book",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-      "published": "Tue, 24 Nov 2026 22:03:38 +0000",
-      "sentiment": 0.04545454545454545
-    },
-    {
-      "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
-      "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
-      "published": "Wed, 25 Nov 2026 11:20:25 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
-      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
-      "published": "Wed, 25 Nov 2026 11:08:52 +0000",
-      "sentiment": 0.0
+      "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+      "published": "Wed, 25 Nov 2026 13:25:15 +0000",
+      "sentiment": -0.1
     },
     {
       "title": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
       "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
-      "published": "Wed, 25 Nov 2026 10:37:10 +0000",
+      "published": "Wed, 25 Nov 2026 13:35:09 +0000",
       "sentiment": -0.07499999999999998
     },
     {
@@ -181,6 +175,12 @@
       "sentiment": 0.26666666666666666
     },
     {
+      "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
+      "published": "Wed, 25 Nov 2026 08:55:39 +0000",
+      "sentiment": -0.03333333333333333
+    },
+    {
       "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
       "link": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
       "published": "Tue, 24 Nov 2026 10:01:45 +0000",
@@ -191,6 +191,12 @@
       "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
       "published": "Tue, 24 Nov 2026 15:37:35 +0000",
       "sentiment": 0.28409090909090906
+    },
+    {
+      "title": "Pope Francis Diary Excerpts Published in New Book",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+      "published": "Tue, 24 Nov 2026 22:03:38 +0000",
+      "sentiment": 0.04545454545454545
     },
     {
       "title": "The Woman Who Took Canada to Court Over Genocide",
@@ -341,12 +347,6 @@
       "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
       "published": "Sun, 22 Nov 2026 11:03:04 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-      "published": "Sun, 22 Nov 2026 14:34:02 +0000",
-      "sentiment": -0.06666666666666667
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 09:56:46 GMT",
       "sentiment": 0.0
@@ -103,34 +103,40 @@
       "sentiment": 0.0
     },
     {
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 13:15:00 GMT",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 13:09:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-eb63fc1e?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 13:04:00 GMT",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-39807782?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 12:56:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Nvidia’s Role as an Underwriter of the AI Boom",
       "link": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 11:25:00 GMT",
       "sentiment": 0.75
     },
     {
-      "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
-      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 09:43:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
+      "title": "Nasdaq Futures Tumble as AI Selloff Returns",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 09:36:00 GMT",
-      "sentiment": -0.1125
-    },
-    {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:59:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.25
+      "published": "Wed, 25 Nov 2026 13:28:00 GMT",
+      "sentiment": -0.125
     },
     {
       "title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 02:00:00 GMT",
       "sentiment": -0.31903409090909096
-    },
-    {
-      "title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 22:03:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Opinion | Government Gets a Tax Windfall From Anthropic",
@@ -199,6 +199,12 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 13:24:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
       "link": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 11:03:00 GMT",
@@ -217,22 +223,16 @@
       "sentiment": 0.125
     },
     {
-      "title": "Crude Futures Settle Higher on Shipping Risks",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:51:00 GMT",
-      "sentiment": -0.15
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
+      "published": "Tue, 24 Nov 2026 21:58:00 GMT",
+      "sentiment": 0.25
     },
     {
-      "title": "Oil Prices Rebound as Shipping Risks Persist",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:28:00 GMT",
-      "sentiment": 0.0625
-    },
-    {
-      "title": "Expectations of Fed Tightening Drive Dollar Higher",
+      "title": "Euro Expected to Depreciate Further Against Dollar",
       "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 11:51:00 GMT",
-      "sentiment": 0.125
+      "published": "Wed, 25 Nov 2026 13:41:00 GMT",
+      "sentiment": -0.09999999999999999
     },
     {
       "title": "The WSJ Dollar Index Falls 0.27% to 98.75",
