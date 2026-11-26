@@ -1,16 +1,34 @@
 {
   "entries": [
     {
+      "title": "Judge Says FCC Must Stop ABC License Review",
+      "link": "https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 02:33:00 GMT",
+      "sentiment": 0.2
+    },
+    {
+      "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.11458333333333333
+    },
+    {
+      "title": "The Race to Make Dinner Delivery More Affordable",
+      "link": "https://www.wsj.com/business/hospitality/the-race-to-make-dinner-delivery-more-affordable-deb2df99?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
       "link": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 22:27:00 GMT",
       "sentiment": -0.07777777777777778
     },
     {
-      "title": "Coming Soon: RFK Jr.’s Long-Delayed Ultraprocessed Food Definition",
+      "title": "Stephen Miller Revives MAHA Plan That Would Classify 60% of Food as Ultraprocessed",
       "link": "https://www.wsj.com/politics/policy/coming-soon-rfk-jr-s-long-delayed-ultraprocessed-food-definition-49c3aabc?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 22:15:00 GMT",
-      "sentiment": 0.21818181818181817
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "U.S. Officials Say There’s No Evidence China Coordinated Jensen Huang’s Affair",
@@ -23,18 +41,6 @@
       "link": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 18:41:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 12:13:00 GMT",
-      "sentiment": -0.30000000000000004
-    },
-    {
-      "title": "How Pegasystems’ Founder CEO Built a Culture for the ‘Long Haul’",
-      "link": "https://www.wsj.com/articles/how-pegasystems-founder-ceo-built-a-culture-for-the-long-haul-4bd60154?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 10:55:00 GMT",
-      "sentiment": -0.05
     },
     {
       "title": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 14:45:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Texas Pacific Land to Buy EagleRock Land in $3 Billion All-Stock Deal",
-      "link": "https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 11:54:00 GMT",
-      "sentiment": -0.15000000000000002
     },
     {
       "title": "Retailers Have a Secret Weapon, and It’s Good Marketing",
@@ -259,6 +259,12 @@
       "sentiment": 0.0037878787878787845
     },
     {
+      "title": "How Pegasystems’ Founder CEO Built a Culture for the ‘Long Haul’",
+      "link": "https://www.wsj.com/articles/how-pegasystems-founder-ceo-built-a-culture-for-the-long-haul-4bd60154?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 10:55:00 GMT",
+      "sentiment": -0.05
+    },
+    {
       "title": "Nvidia CFO’s Quick Stint as CEO; State Street Focuses on New Initiatives",
       "link": "https://www.wsj.com/cfo-journal/nvidia-cfos-quick-stint-as-ceo-state-street-focuses-on-new-initiatives-9152857d?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 12:05:00 GMT",
@@ -275,12 +281,6 @@
       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-196a238a?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 21:53:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "CrowdStrike’s $44 Billion Zscaler Deal Reflects a New Imperative in Cybersecurity",
-      "link": "https://www.wsj.com/pro/cybersecurity/crowdstrikes-44-billion-zscaler-deal-reflects-a-new-imperative-in-cybersecurity-5669e9db?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 15:43:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "How Restaurants Are Turning Kitchen Waste Into Profit",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 12:13:00 GMT",
+      "sentiment": -0.30000000000000004
+    },
+    {
       "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One",
       "link": "https://www.wsj.com/tech/ai/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-d0d4abc3?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 02:00:00 GMT",
@@ -457,28 +463,22 @@
       "sentiment": 0.13636363636363635
     },
     {
-      "title": "The White House Push to Reinstate Jensen Huang",
-      "link": "https://www.wsj.com/articles/the-white-house-push-to-reinstate-jensen-huang-097e06dd?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 10:51:00 GMT",
-      "sentiment": 0.25
-    },
-    {
       "title": "The Deadly Problem the Car Industry Can’t Solve: Holdouts Who Won’t Buckle Up",
       "link": "https://www.wsj.com/business/autos/seat-belt-use-car-crash-fatalities-141a7f9a?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 02:00:00 GMT",
       "sentiment": -0.03181818181818183
     },
     {
-      "title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
-      "link": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 18:24:00 GMT",
-      "sentiment": 0.22499999999999998
-    },
-    {
       "title": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
       "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 19:39:00 GMT",
       "sentiment": -0.1
+    },
+    {
+      "title": "Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
+      "link": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 18:24:00 GMT",
+      "sentiment": 0.22499999999999998
     },
     {
       "title": "The Friendship Breakup That Led to Bob Iger’s Biggest Boardroom Fight",

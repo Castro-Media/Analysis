@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "BOJ’s Tamura Urges Timely Rate Hikes, Bolstering Case for December Move",
+      "link": "https://www.wsj.com/economy/central-banking/bojs-tamura-urges-timely-rate-hikes-bolstering-case-for-december-move-9eb28f90?mod=rss_socialeconomyfeed",
+      "published": "Thu, 26 Nov 2026 02:03:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth",
+      "link": "https://www.wsj.com/economy/central-banking/bank-of-korea-resumes-rate-hikes-as-ai-boom-fuels-growth-f28c5cdb?mod=rss_socialeconomyfeed",
+      "published": "Thu, 26 Nov 2026 01:07:00 GMT",
+      "sentiment": 0.05
+    },
+    {
+      "title": "The AI-driven market rout is showing how much higher the bar has risen for the Federal Reserve to step in",
+      "link": "https://www.wsj.com/economy/central-banking/wild-market-swings-are-colliding-with-a-fed-bent-on-taming-inflation-73ccab56?mod=rss_socialeconomyfeed",
+      "published": "Thu, 26 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "Capital Account: President Trump has already paid a political and economic price for his tariffs. So why is he raising them again?",
+      "link": "https://www.wsj.com/economy/why-this-is-a-terrible-time-for-new-tariffs-a2e6b1d0?mod=rss_socialeconomyfeed",
+      "published": "Thu, 26 Nov 2026 01:00:00 GMT",
+      "sentiment": 0.1
+    },
+    {
       "title": "New Home Sales Surged in October",
       "link": "https://www.wsj.com/economy/housing/new-home-sales-surged-in-october-907a2e0b?mod=rss_socialeconomyfeed",
       "published": "Wed, 25 Nov 2026 15:42:00 GMT",
@@ -11,30 +35,6 @@
       "link": "https://www.wsj.com/economy/trade/world-trade-flows-surge-as-ai-boost-overwhelms-barriers-d0a18e21?mod=rss_socialeconomyfeed",
       "published": "Wed, 25 Nov 2026 14:20:00 GMT",
       "sentiment": 0.6
-    },
-    {
-      "title": "U.S. Jobless Claims Fall More Than Expected",
-      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-fall-more-than-expected-6a544eff?mod=rss_socialeconomyfeed",
-      "published": "Wed, 25 Nov 2026 14:00:00 GMT",
-      "sentiment": 0.08727272727272728
-    },
-    {
-      "title": "October Durable Goods Orders Rose Less Than Expected",
-      "link": "https://www.wsj.com/economy/october-durable-goods-orders-rose-less-than-expected-136f4e76?mod=rss_socialeconomyfeed",
-      "published": "Wed, 25 Nov 2026 13:52:00 GMT",
-      "sentiment": 0.16666666666666669
-    },
-    {
-      "title": "The U.S. said it would propose new tariffs on China and dozens of other countries",
-      "link": "https://www.wsj.com/economy/trade/u-s-set-to-raise-tariffs-on-china-eu-and-others-e991efdb?mod=rss_socialeconomyfeed",
-      "published": "Wed, 25 Nov 2026 13:36:00 GMT",
-      "sentiment": 0.08712121212121211
-    },
-    {
-      "title": "What would happen to the U.S. economy if the AI boom goes bust? It would take a painful hit, but the magnitude of the fallout remains a live debate among economists, business and financial leaders.",
-      "link": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_socialeconomyfeed",
-      "published": "Wed, 25 Nov 2026 02:00:00 GMT",
-      "sentiment": -0.2254545454545455
     },
     {
       "title": "Germany and France on Diverging Economic Paths, Surveys Show",
@@ -157,6 +157,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "The U.S. said it would propose new tariffs on China and dozens of other countries",
+      "link": "https://www.wsj.com/economy/trade/u-s-set-to-raise-tariffs-on-china-eu-and-others-e991efdb?mod=rss_socialeconomyfeed",
+      "published": "Wed, 25 Nov 2026 13:36:00 GMT",
+      "sentiment": 0.08712121212121211
+    },
+    {
       "title": "U.S. prepares to raise tariffs on China and other countries",
       "link": "https://www.wsj.com/economy/trade/u-s-prepares-to-raise-tariffs-on-china-and-other-countries-37981740?mod=rss_socialeconomyfeed",
       "published": "Tue, 24 Nov 2026 13:08:00 GMT",
@@ -181,10 +187,10 @@
       "sentiment": 0.375
     },
     {
-      "title": "German Trade Surplus Narrows Despite Rising Exports",
-      "link": "https://www.wsj.com/economy/trade/german-trade-surplus-narrows-despite-rising-exports-d462259d?mod=rss_socialeconomyfeed",
-      "published": "Mon, 09 Nov 2026 08:16:00 GMT",
-      "sentiment": 0.0
+      "title": "U.S. Jobless Claims Fall More Than Expected",
+      "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-fall-more-than-expected-6a544eff?mod=rss_socialeconomyfeed",
+      "published": "Wed, 25 Nov 2026 14:00:00 GMT",
+      "sentiment": 0.08727272727272728
     },
     {
       "title": "U.S. Jobless Claims Unexpectedly Move Higher",
@@ -209,12 +215,6 @@
       "link": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?mod=rss_socialeconomyfeed",
       "published": "Sat, 07 Nov 2026 16:09:00 GMT",
       "sentiment": 0.43333333333333335
-    },
-    {
-      "title": "Hiring blew past expectations with 165,000 jobs added to the economy last month. The unemployment rate declined to 4.1%.",
-      "link": "https://www.wsj.com/economy/jobs/october-jobs-report-unemployment-d7392948?mod=rss_socialeconomyfeed",
-      "published": "Fri, 06 Nov 2026 21:36:00 GMT",
-      "sentiment": -0.0375
     }
   ]
 }
