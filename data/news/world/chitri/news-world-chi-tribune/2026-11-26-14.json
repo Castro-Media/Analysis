@@ -1,0 +1,604 @@
+{
+  "entries": [
+    {
+      "title": "Today in History: NHL founded",
+      "link": "https://www.chicagotribune.com/2026/11/26/today-in-history-nhl-founded/",
+      "published": "Thu, 26 Nov 2026 09:30:49 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "2 men charged with stealing cufflinks and a clock in break-in at British royal couple’s country home",
+      "link": "https://www.chicagotribune.com/2026/11/25/break-in-william-kate-british-home/",
+      "published": "Wed, 25 Nov 2026 20:03:10 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US plans to hike tariffs on China, EU, Brazil and others over subsidized production",
+      "link": "https://www.chicagotribune.com/2026/11/25/us-tariffs-china-eu-brazil/",
+      "published": "Wed, 25 Nov 2026 14:23:38 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: President John F. Kennedy laid to rest",
+      "link": "https://www.chicagotribune.com/2026/11/25/today-in-history-jfk-arlington/",
+      "published": "Wed, 25 Nov 2026 09:30:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran rules out talks with US until its 7 conditions are met, and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/11/24/iran-talks-us-conditions-mideast-news/",
+      "published": "Tue, 24 Nov 2026 13:39:11 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "2 men arrested over suspected burglary at Prince William and Kate’s country home",
+      "link": "https://www.chicagotribune.com/2026/11/24/sandringham-suspected-burglary-uk-police/",
+      "published": "Tue, 24 Nov 2026 13:04:08 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: ‘Hollywood Ten’ cited for contempt of Congress",
+      "link": "https://www.chicagotribune.com/2026/11/24/today-in-history-hollywood-ten-cited-for-contempt-of-congress/",
+      "published": "Tue, 24 Nov 2026 09:30:57 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ukrainian drones hit Russian warship at naval base in Libya, President Volodymyr Zelenskyy says",
+      "link": "https://www.chicagotribune.com/2026/11/23/ukraine-drones-russian-warship-libya/",
+      "published": "Mon, 23 Nov 2026 12:10:26 +0000",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Rapper Don Toliver postpones London show after Manchester gig evacuation",
+      "link": "https://www.chicagotribune.com/2026/11/23/don-toliver-concert-unknown-substance/",
+      "published": "Mon, 23 Nov 2026 11:57:10 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Citigroup rescue plan unveiled",
+      "link": "https://www.chicagotribune.com/2026/11/23/today-in-history-citigroup-rescue-plan-unveiled/",
+      "published": "Mon, 23 Nov 2026 09:30:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
+      "link": "https://www.chicagotribune.com/2026/11/22/okinawa-celebrates-restored-shuri-castle-hall/",
+      "published": "Sun, 22 Nov 2026 20:45:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+      "link": "https://www.chicagotribune.com/2026/11/22/suspected-ukrainian-sea-drones-hit-russian-warship-benghazi-naval-base/",
+      "published": "Sun, 22 Nov 2026 18:50:45 +0000",
+      "sentiment": -0.4
+    },
+    {
+      "title": "Israeli opposition leader condemns suspected settler attacks as ‘terrorism,’ and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/11/22/israeli-opposition-leader-settler-attacks/",
+      "published": "Sun, 22 Nov 2026 16:40:08 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Today in History: John F. Kennedy killed",
+      "link": "https://www.chicagotribune.com/2026/11/22/today-in-history-john-f-kennedy-killed/",
+      "published": "Sun, 22 Nov 2026 09:30:42 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/11/21/iran-strikes-3-tankers/",
+      "published": "Sat, 21 Nov 2026 19:51:37 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Mexico detains top cartel boss ‘El Chapo Isidro,’ one of FBI’s 10 most wanted fugitives",
+      "link": "https://www.chicagotribune.com/2026/11/21/el-chapo-isidro/",
+      "published": "Sat, 21 Nov 2026 15:10:50 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Today in History: 6 killed in Waukesha Christmas parade attack",
+      "link": "https://www.chicagotribune.com/2026/11/21/today-in-history-6-killed-in-waukesha-christmas-parade-attack/",
+      "published": "Sat, 21 Nov 2026 09:30:23 +0000",
+      "sentiment": -0.225
+    },
+    {
+      "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
+      "link": "https://www.chicagotribune.com/2026/11/20/denmark-accuses-russia-kill-plot-ukranian-american/",
+      "published": "Fri, 20 Nov 2026 17:51:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation.",
+      "link": "https://www.chicagotribune.com/2026/11/20/poland-russian-missile-crashed-provocation/",
+      "published": "Fri, 20 Nov 2026 15:18:04 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Today in History: Mexican Revolution begins",
+      "link": "https://www.chicagotribune.com/2026/11/20/today-in-history-mexican-revolution-begins-2/",
+      "published": "Fri, 20 Nov 2026 09:30:06 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "UN’s highest court finds a country responsible for genocide for the first time",
+      "link": "https://www.chicagotribune.com/2026/11/19/myanmar-rohingya-genocide/",
+      "published": "Thu, 19 Nov 2026 23:56:18 +0000",
+      "sentiment": 0.225
+    },
+    {
+      "title": "US envoy Jared Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine",
+      "link": "https://www.chicagotribune.com/2026/11/19/russia-ukraine-security-guarantees/",
+      "published": "Thu, 19 Nov 2026 22:44:04 +0000",
+      "sentiment": 0.4
+    },
+    {
+      "title": "Takeaways from the historic summit between presidents Trump, Xi and Putin",
+      "link": "https://www.chicagotribune.com/2026/11/19/trump-xi-putin-summit-takeaways/",
+      "published": "Thu, 19 Nov 2026 21:03:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
+      "link": "https://www.chicagotribune.com/2026/11/19/senate-republicans-democrats-war-iran/",
+      "published": "Thu, 19 Nov 2026 20:21:56 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Today in History: President Abraham Lincoln delivers Gettysburg Address",
+      "link": "https://www.chicagotribune.com/2026/11/19/today-in-history-president-abraham-lincoln-delivers-gettysburg-address/",
+      "published": "Thu, 19 Nov 2026 09:30:19 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Trump meets Xi and Putin in China with nuclear arms and two wars on the table",
+      "link": "https://www.chicagotribune.com/2026/11/18/trump-meets-xi-putin/",
+      "published": "Thu, 19 Nov 2026 03:53:50 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "President Trump meets Xi Jinping and Vladimir Putin in China with nuclear arms and two wars on the table",
+      "link": "https://www.chicagotribune.com/2026/11/18/trump-putin-xi-jinping-talks/",
+      "published": "Wed, 18 Nov 2026 18:41:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Singer Julio Iglesias faces Spanish High Court investigation into alleged sexual misconduct",
+      "link": "https://www.chicagotribune.com/2026/11/18/julio-iglesias-alleged-sexual-misconduct/",
+      "published": "Wed, 18 Nov 2026 18:05:42 +0000",
+      "sentiment": 0.14
+    },
+    {
+      "title": "Today in History: ‘Steamboat Willie’ debuts onscreen",
+      "link": "https://www.chicagotribune.com/2026/11/18/today-in-history-steamboat-willie-debuts-onscreen/",
+      "published": "Wed, 18 Nov 2026 09:30:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Asking Eric: Activists social media posts result in doxxing",
+      "link": "https://www.chicagotribune.com/2026/11/18/asking-eric-activists-social-media-posts-result-in-doxxing/",
+      "published": "Wed, 18 Nov 2026 06:01:11 +0000",
+      "sentiment": 0.03333333333333333
+    },
+    {
+      "title": "Pope Leo forgives person who nailed him in the eye with a rosary in Peru",
+      "link": "https://www.chicagotribune.com/2026/11/17/pope-leo-peru-trip-rosary/",
+      "published": "Tue, 17 Nov 2026 17:32:46 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Measles is no longer considered eliminated in the US and Mexico",
+      "link": "https://www.chicagotribune.com/2026/11/17/measles-us-mexico/",
+      "published": "Tue, 17 Nov 2026 16:32:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Suez Canal opens",
+      "link": "https://www.chicagotribune.com/2026/11/17/today-in-history-suez-canal-opens/",
+      "published": "Tue, 17 Nov 2026 09:30:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Pope Leo bids ‘hasta luego’ to his second homeland of Peru as he wraps up marathon South American trip",
+      "link": "https://www.chicagotribune.com/2026/11/16/pope-leo-peru-south-american-trip/",
+      "published": "Mon, 16 Nov 2026 21:45:49 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: NFL strike ends",
+      "link": "https://www.chicagotribune.com/2026/11/16/today-in-history-nfl-strike-ends/",
+      "published": "Mon, 16 Nov 2026 09:30:24 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Prince Harry salutes wounded Ukrainian veterans as ‘role models’ on surprise Ukraine visit",
+      "link": "https://www.chicagotribune.com/2026/11/15/prince-harry-salutes-wounded-ukrainian-veterans/",
+      "published": "Sun, 15 Nov 2026 22:18:09 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israel kills a top Hamas commander as Jordan sentences 3 in church attack, and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/11/15/israel-kills-top-hamas-commander/",
+      "published": "Sun, 15 Nov 2026 19:30:51 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Today in History: World population reaches 8 billion",
+      "link": "https://www.chicagotribune.com/2026/11/15/today-in-history-world-population-reaches-8-billion/",
+      "published": "Sun, 15 Nov 2026 09:30:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "With shifting Iran rhetoric following US elections, President Trump leaves Mideast in limbo about path ahead",
+      "link": "https://www.chicagotribune.com/2026/11/14/shifting-iran-rhetoric-elections-trump/",
+      "published": "Sat, 14 Nov 2026 22:33:04 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Nellie Bly travels around the world",
+      "link": "https://www.chicagotribune.com/2026/11/14/today-in-history-nellie-bly-travels-around-the-world/",
+      "published": "Sat, 14 Nov 2026 09:30:58 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US secretary of state says further military action is not needed against an economically weakened Iran",
+      "link": "https://www.chicagotribune.com/2026/11/13/secretary-of-state-iran-military-action/",
+      "published": "Sat, 14 Nov 2026 03:42:43 +0000",
+      "sentiment": 0.075
+    },
+    {
+      "title": "Pope Leo XIV says it’s a ‘joy’ to be home as Peru’s Chiclayo welcomes back its former shepherd",
+      "link": "https://www.chicagotribune.com/2026/11/13/pope-joy-return-peru-chiclayo/",
+      "published": "Fri, 13 Nov 2026 17:07:47 +0000",
+      "sentiment": 0.26666666666666666
+    },
+    {
+      "title": "UK police launch sex offense investigation into children’s author and comedian David Walliams",
+      "link": "https://www.chicagotribune.com/2026/11/13/david-walliams-sex-offense-investigation/",
+      "published": "Fri, 13 Nov 2026 16:55:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+      "link": "https://www.chicagotribune.com/2026/11/13/europe-unified-voice-ukraine/",
+      "published": "Fri, 13 Nov 2026 16:55:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Ukraine fires nearly 1,200 drones at Russia as US-led talks consider wider European security",
+      "link": "https://www.chicagotribune.com/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/",
+      "published": "Fri, 13 Nov 2026 13:19:19 +0000",
+      "sentiment": 0.05
+    },
+    {
+      "title": "Today in History: Coal mine fire claims lives of 259",
+      "link": "https://www.chicagotribune.com/2026/11/13/today-in-history-coal-mine-fire-claims-lives-of-259/",
+      "published": "Fri, 13 Nov 2026 09:30:42 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "After his emotional return, Pope Leo denounces ‘machismo’ in Peru and demands women be protected",
+      "link": "https://www.chicagotribune.com/2026/11/12/pope-leo-peru-trip/",
+      "published": "Thu, 12 Nov 2026 23:47:37 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US envoys meet Russian President Putin before peace talks with Ukrainian leader",
+      "link": "https://www.chicagotribune.com/2026/11/12/us-envoys-russia-ukraine-peace-talks/",
+      "published": "Thu, 12 Nov 2026 22:00:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US pulls soccer team from boys Under-17 World Cup in Qatar citing security in the Gulf",
+      "link": "https://www.chicagotribune.com/2026/11/12/us-pulls-boys-team-from-fifa-under-17-world-cup-in-qatar-citing-security-in-the-gulf/",
+      "published": "Thu, 12 Nov 2026 13:25:26 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Ellis Island officially closed",
+      "link": "https://www.chicagotribune.com/2026/11/12/today-in-history-ellis-island-officially-closed/",
+      "published": "Thu, 12 Nov 2026 09:30:46 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Pope Leo returns to what is expected to be a national party in his second homeland of Peru",
+      "link": "https://www.chicagotribune.com/2026/11/11/pope-leo-peru-second-homeland/",
+      "published": "Wed, 11 Nov 2026 19:54:41 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Today in History: Nat Turner executed",
+      "link": "https://www.chicagotribune.com/2026/11/11/today-in-history-nat-turner-executed/",
+      "published": "Wed, 11 Nov 2026 09:30:18 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Gadi Eisenkot unveils agenda to reverse PM Benjamin Netanyahu’s policies as Israel’s new parliament sworn in",
+      "link": "https://www.chicagotribune.com/2026/11/10/gadi-eisenkot-agenda-israel-new-parliament/",
+      "published": "Tue, 10 Nov 2026 22:37:09 +0000",
+      "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "US charges 3 men with plotting terror attacks, including planned assault on UK airbase",
+      "link": "https://www.chicagotribune.com/2026/11/10/us-men-charged-terror-plots-uk-airbase/",
+      "published": "Tue, 10 Nov 2026 22:02:38 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "British comedian and children’s author David Walliams accused of sexual misconduct",
+      "link": "https://www.chicagotribune.com/2026/11/10/david-walliams-accused-sexual-misconduct/",
+      "published": "Tue, 10 Nov 2026 15:43:32 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Prince Harry’s wife Meghan makes first public appearance since father’s arrest",
+      "link": "https://www.chicagotribune.com/2026/11/10/prince-harry-meghan-father-arrest/",
+      "published": "Tue, 10 Nov 2026 13:33:07 +0000",
+      "sentiment": 0.06666666666666667
+    },
+    {
+      "title": "Today in History: Kyle Rittenhouse takes the stand",
+      "link": "https://www.chicagotribune.com/2026/11/10/today-in-history-kyle-rittenhouse-takes-the-stand/",
+      "published": "Tue, 10 Nov 2026 09:30:03 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "‘The End of Everything’ by M. John Harrison wins the 2026 Booker Prize for fiction",
+      "link": "https://www.chicagotribune.com/2026/11/09/the-end-of-everything-m-john-harrison-booker-prize/",
+      "published": "Mon, 09 Nov 2026 22:22:22 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "President Trump after meeting with Qatari PM says he believes war with Iran is militarily ‘effectively over’",
+      "link": "https://www.chicagotribune.com/2026/11/09/trump-iran-war-2/",
+      "published": "Mon, 09 Nov 2026 22:05:21 +0000",
+      "sentiment": 0.6
+    },
+    {
+      "title": "Pope Leo meets with survivors of clergy abuse in Argentina as it reckons with legacy and ongoing cases",
+      "link": "https://www.chicagotribune.com/2026/11/09/pope-leo-survivors-clergy-abuse-argentina/",
+      "published": "Mon, 09 Nov 2026 21:05:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence",
+      "link": "https://www.chicagotribune.com/2026/11/09/megyn-kelly-elon-musk-russell-brand/",
+      "published": "Mon, 09 Nov 2026 18:15:28 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "UN climate summit kicks off after a disastrous year of extreme weather",
+      "link": "https://www.chicagotribune.com/2026/11/09/un-climate-summit-extreme-weather/",
+      "published": "Mon, 09 Nov 2026 11:47:50 +0000",
+      "sentiment": -0.4125
+    },
+    {
+      "title": "Russell Brand sentenced to 10 1/2 years in a British prison for rape and sexual assault",
+      "link": "https://www.chicagotribune.com/2026/11/09/russell-brand-sentencing/",
+      "published": "Mon, 09 Nov 2026 11:46:34 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Today in History: Berlin Wall falls after 28 years",
+      "link": "https://www.chicagotribune.com/2026/11/09/today-in-history-berlin-wall-falls-after-28-years/",
+      "published": "Mon, 09 Nov 2026 09:30:36 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/11/08/saudi-arabia-intercepts-missiles-as-aramco-building-riyadh-damaged/",
+      "published": "Mon, 09 Nov 2026 01:47:52 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "What Donald Trump’s new White House chief of staff has said on immigration, childhood vaccines, foreign policy",
+      "link": "https://www.chicagotribune.com/2026/11/08/stephen-miller-chief-of-staff/",
+      "published": "Sun, 08 Nov 2026 15:57:44 +0000",
+      "sentiment": 0.0037878787878787845
+    },
+    {
+      "title": "Krakow mourns rare mass killing as authorities say attacker had far-right views",
+      "link": "https://www.chicagotribune.com/2026/11/08/krakow-mass-shooting/",
+      "published": "Sun, 08 Nov 2026 14:08:14 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Today in History: Florida election recount begins",
+      "link": "https://www.chicagotribune.com/2026/11/08/today-in-history-florida-election-recount-begins-2/",
+      "published": "Sun, 08 Nov 2026 09:30:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22",
+      "link": "https://www.chicagotribune.com/2026/11/07/central-japan-earthquake/",
+      "published": "Sun, 08 Nov 2026 00:54:22 +0000",
+      "sentiment": 0.04444444444444445
+    },
+    {
+      "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
+      "link": "https://www.chicagotribune.com/2026/11/07/us-militar-fired-commercial-vessel-gulf-oman/",
+      "published": "Sat, 07 Nov 2026 22:18:06 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Israel’s president taps opposition candidate Gadi Eisenkot to form a government, in setback for Benjamin Netanyahu",
+      "link": "https://www.chicagotribune.com/2026/11/07/eisenkot-not-netanyahu-israel-prime-minister/",
+      "published": "Sat, 07 Nov 2026 19:55:20 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, minister says",
+      "link": "https://www.chicagotribune.com/2026/11/07/gunman-krakow-5-dead/",
+      "published": "Sat, 07 Nov 2026 18:46:13 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "An estimated 40,000 pour into a park in Uruguay for Pope Leo’s first Mass in South America",
+      "link": "https://www.chicagotribune.com/2026/11/07/an-estimated-40000-pour-into-a-park-in-uruguay-for-pope-leos-first-mass-in-south-america/",
+      "published": "Sat, 07 Nov 2026 14:00:31 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Today in History: First woman elected to Congress",
+      "link": "https://www.chicagotribune.com/2026/11/07/today-in-history-first-woman-elected-to-congress-2/",
+      "published": "Sat, 07 Nov 2026 09:30:17 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "Father of Meghan Markle arrested on charges related to child sexual abuse material, AP sources say",
+      "link": "https://www.chicagotribune.com/2026/11/06/meghan-markle-father-arrested-on-child-sexual-abuse-material-charges/",
+      "published": "Fri, 06 Nov 2026 15:32:25 +0000",
+      "sentiment": 0.25
+    },
+    {
+      "title": "What to know about Pope Leo XIV’s trip to Uruguay, Argentina and Peru",
+      "link": "https://www.chicagotribune.com/2026/11/06/pope-leo-xiv-trip-uruguay-argentina-peru/",
+      "published": "Fri, 06 Nov 2026 13:35:02 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Abraham Lincoln wins presidency",
+      "link": "https://www.chicagotribune.com/2026/11/06/today-in-history-abraham-lincoln-wins-presidency-2/",
+      "published": "Fri, 06 Nov 2026 09:30:24 +0000",
+      "sentiment": 0.3
+    },
+    {
+      "title": "Russell Brand has been convicted of rape and sexual assault",
+      "link": "https://www.chicagotribune.com/2026/11/05/russell-brand-convicted-rape-sexual-assault/",
+      "published": "Thu, 05 Nov 2026 14:31:28 +0000",
+      "sentiment": 0.5
+    },
+    {
+      "title": "Still-recovering Pope Leo will head home to Latin America and his beloved Peru for a 12-day trip",
+      "link": "https://www.chicagotribune.com/2026/11/05/pope-leo-latin-america-peru/",
+      "published": "Thu, 05 Nov 2026 12:13:34 +0000",
+      "sentiment": 0.7
+    },
+    {
+      "title": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
+      "link": "https://www.chicagotribune.com/2026/11/05/europe-flights-diverted-bomb-threats-hoaxes/",
+      "published": "Thu, 05 Nov 2026 12:12:22 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Susan B. Anthony casts vote for president",
+      "link": "https://www.chicagotribune.com/2026/11/05/today-in-history-susan-b-anthony-casts-vote-for-president/",
+      "published": "Thu, 05 Nov 2026 09:30:08 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israel’s president takes first steps on building new government after accepting election results",
+      "link": "https://www.chicagotribune.com/2026/11/04/israel-president-election-results/",
+      "published": "Thu, 05 Nov 2026 00:20:57 +0000",
+      "sentiment": 0.19318181818181818
+    },
+    {
+      "title": "Bob Dylan comes knockin’ on Pope Leo’s door for Vatican visit",
+      "link": "https://www.chicagotribune.com/2026/11/04/bob-dylan-pope-leo/",
+      "published": "Wed, 04 Nov 2026 20:17:00 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran’s leaders say midterm results show US voters have rejected Trump’s war",
+      "link": "https://www.chicagotribune.com/2026/11/04/iran-leaders-midterm-results-trump-war/",
+      "published": "Wed, 04 Nov 2026 16:55:29 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Obama wins presidency in historic election",
+      "link": "https://www.chicagotribune.com/2026/11/04/today-in-history-obama-wins-presidency-in-historic-election/",
+      "published": "Wed, 04 Nov 2026 09:30:09 +0000",
+      "sentiment": 0.15
+    },
+    {
+      "title": "Iran’s chief negotiator says the US must act to prevent renewed war, and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/11/03/irans-chief-negotiator-says-us-must-act/",
+      "published": "Tue, 03 Nov 2026 19:02:20 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "Death toll hits 31 after Russian strikes on a Ukrainian aid site, with dozens still missing",
+      "link": "https://www.chicagotribune.com/2026/11/03/death-toll-hits-31-after-russian-strikes-ukrainian-aid-site/",
+      "published": "Tue, 03 Nov 2026 16:22:14 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says",
+      "link": "https://www.chicagotribune.com/2026/11/03/uk-ai-cyberattacks-on-critical-infrastructure-possible-2028/",
+      "published": "Tue, 03 Nov 2026 14:10:23 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next",
+      "link": "https://www.chicagotribune.com/2026/11/03/us-strikes-strait-of-hormuz/",
+      "published": "Tue, 03 Nov 2026 12:25:56 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Chevrolet Motor Car Co. founded",
+      "link": "https://www.chicagotribune.com/2026/11/03/today-in-history-chevrolet-motor-car-co-founded/",
+      "published": "Tue, 03 Nov 2026 09:30:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "4 Americans and 1 Canadian among the 69 dead in Spain’s train collision",
+      "link": "https://www.chicagotribune.com/2026/11/02/spain-train-collision-victims/",
+      "published": "Mon, 02 Nov 2026 12:12:32 +0000",
+      "sentiment": -0.2
+    },
+    {
+      "title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
+      "link": "https://www.chicagotribune.com/2026/11/02/iran-us-strait-hormuz-nuclear-talks/",
+      "published": "Mon, 02 Nov 2026 12:06:59 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Today in History: Chicago Cubs win the World Series",
+      "link": "https://www.chicagotribune.com/2026/11/02/today-in-history-chicago-cubs-win-the-world-series-2/",
+      "published": "Mon, 02 Nov 2026 09:30:08 +0000",
+      "sentiment": 0.8
+    },
+    {
+      "title": "Mexico comes alive during annual Day of the Dead celebrations",
+      "link": "https://www.chicagotribune.com/2026/11/01/mexico-comes-alive-during-day-of-the-dead-celebrations/",
+      "published": "Mon, 02 Nov 2026 01:21:18 +0000",
+      "sentiment": -0.05
+    },
+    {
+      "title": "Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/11/01/irans-top-diplomat-hopes-us-shows-rationality/",
+      "published": "Sun, 01 Nov 2026 20:53:16 +0000",
+      "sentiment": 0.1875
+    },
+    {
+      "title": "Today in History: Peace talks open in Ohio",
+      "link": "https://www.chicagotribune.com/2026/11/01/today-in-history-peace-talks-open-in-ohio/",
+      "published": "Sun, 01 Nov 2026 09:30:14 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds",
+      "link": "https://www.chicagotribune.com/2026/10/31/iran-targeted-us-air-defenses-then-hit-aircraft-buildings-mideast-bases/",
+      "published": "Sat, 31 Oct 2026 19:16:11 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Iran’s leader says response to attack would have no ‘geographic limits,’ and other Mideast news",
+      "link": "https://www.chicagotribune.com/2026/10/31/iran-war-no-geographic-limits-mideast-news/",
+      "published": "Sat, 31 Oct 2026 18:43:39 +0000",
+      "sentiment": -0.125
+    },
+    {
+      "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission",
+      "link": "https://www.chicagotribune.com/2026/10/31/nasa-telescope-rescue/",
+      "published": "Sat, 31 Oct 2026 14:07:39 +0000",
+      "sentiment": -0.25
+    },
+    {
+      "title": "Today in History: Lincoln Highway dedicated",
+      "link": "https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/",
+      "published": "Sat, 31 Oct 2026 08:30:29 +0000",
+      "sentiment": 0.0
+    }
+  ]
+}

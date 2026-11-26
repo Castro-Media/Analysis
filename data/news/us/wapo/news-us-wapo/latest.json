@@ -19,12 +19,6 @@
       "sentiment": 0.09659090909090909
     },
     {
-      "title": "Powerful Thanksgiving storm threatens East Coast with floods, damaging winds",
-      "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
-      "published": "Thu, 26 Nov 2026 10:00:00 +0000",
-      "sentiment": -0.15
-    },
-    {
       "title": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
       "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
       "published": "Thu, 26 Nov 2026 10:00:00 +0000",
@@ -41,6 +35,12 @@
       "link": "https://www.washingtonpost.com/nation/interactive/2026/11/26/macy-thanksgiving-parade-or-sliced-bread-choose-which-came-first-with-our-quiz/",
       "published": "Thu, 26 Nov 2026 10:00:00 +0000",
       "sentiment": 0.21666666666666665
+    },
+    {
+      "title": "Powerful Thanksgiving storm threatens East Coast with floods, damaging winds",
+      "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
+      "published": "Thu, 26 Nov 2026 10:00:00 +0000",
+      "sentiment": -0.15
     },
     {
       "title": "The mortality gap between Black and White Americans keeps shrinking",
@@ -127,16 +127,16 @@
       "sentiment": 0.033333333333333326
     },
     {
-      "title": "They graduated college, but they haven’t been able to use their degrees",
-      "link": "https://www.washingtonpost.com/business/2026/11/25/underemployment-among-those-22-27-years-old-hit-six-year-high/",
-      "published": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "sentiment": 0.3866666666666667
-    },
-    {
       "title": "White House insiders criticize DHS chief Mullin as Trump says he backs him",
       "link": "https://www.washingtonpost.com/immigration/2026/11/25/homeland-security-secretary-faces-criticism-over-tech-breakdowns-immigration/",
       "published": "Wed, 25 Nov 2026 10:00:00 +0000",
       "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "They graduated college, but they haven’t been able to use their degrees",
+      "link": "https://www.washingtonpost.com/business/2026/11/25/underemployment-among-those-22-27-years-old-hit-six-year-high/",
+      "published": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.3866666666666667
     },
     {
       "title": "Grand Canyon park leader who faced scrutiny over fire is retiring",
