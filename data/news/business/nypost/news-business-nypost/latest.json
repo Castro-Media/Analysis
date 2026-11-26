@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang’s affair with alleged spy was exposed",
+      "link": "https://nypost.com/2026/11/26/business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report/",
+      "published": "Thu, 26 Nov 2026 15:30:14 -0500",
+      "sentiment": 0.018181818181818174
+    },
+    {
       "title": "Sweeping closures confirmed for once-great gym chain known as ‘Mecca’ for muscleheads",
       "link": "https://nypost.com/2026/11/26/lifestyle/golds-gym-to-close-locations-in-four-states/",
       "published": "Thu, 26 Nov 2026 13:43:01 -0500",
@@ -28,7 +34,7 @@
       "title": "More than 16,000 NYC storefronts sit empty as businesses struggle",
       "link": "https://nypost.com/2026/11/26/business/big-apple-retail-blues-more-than-16000-nyc-storefronts-sit-empty-as-businesses-struggle/",
       "published": "Thu, 26 Nov 2026 09:43:09 -0500",
-      "sentiment": 0.006060606060606062
+      "sentiment": -0.1159090909090909
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -113,12 +119,6 @@
       "link": "https://nypost.com/2026/11/25/business/feds-preferred-inflation-gauge-jumps-to-3-8-as-wall-street-braces-for-rate-hike/",
       "published": "Wed, 25 Nov 2026 11:34:07 -0500",
       "sentiment": 0.19999999999999998
-    },
-    {
-      "title": "New home sales surge to highest level in nearly a year despite high mortgage rates",
-      "link": "https://nypost.com/2026/11/25/business/new-home-sales-surge-to-highest-level-in-nearly-a-year-despite-high-mortgage-rates/",
-      "published": "Wed, 25 Nov 2026 11:06:40 -0500",
-      "sentiment": -0.050909090909090904
     }
   ]
 }
