@@ -19,22 +19,10 @@
       "sentiment": -1.3877787807814457e-17
     },
     {
-      "title": "After alleged vandalism at UCLA, USC band won't perform at pregame and halftime",
-      "link": "https://www.latimes.com/california/story/2026-11-26/after-alleged-vandalism-at-ucla-usc-band-wont-perform-at-pregame-halftime",
-      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.016666666666666663
-    },
-    {
       "title": "A landlord says he's fixing Skid Row's worst buildings. Tenants say they were pushed out",
       "link": "https://www.latimes.com/california/story/2026-11-26/landlord-says-hes-fixing-skid-row-buildings-tenants-say-they-were-pushed-out",
       "published": "Thu, 26 Nov 2026 11:00:00 GMT",
       "sentiment": -0.45
-    },
-    {
-      "title": "Caregiving out loud: How humor, candor and pop culture are breaking the silence on an isolating role",
-      "link": "https://www.latimes.com/science/story/2026-11-26/why-family-caregiving-becoming-cultural-conversation",
-      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.02857142857142858
     },
     {
       "title": "Walmart delivery drones are set to touch down in Los Angeles",
@@ -49,10 +37,28 @@
       "sentiment": 0.13658008658008658
     },
     {
+      "title": "Caregiving out loud: How humor, candor and pop culture are breaking the silence on an isolating role",
+      "link": "https://www.latimes.com/science/story/2026-11-26/why-family-caregiving-becoming-cultural-conversation",
+      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.02857142857142858
+    },
+    {
+      "title": "After vandalism at UCLA, USC band won't perform at pregame and halftime",
+      "link": "https://www.latimes.com/california/story/2026-11-26/after-alleged-vandalism-at-ucla-usc-band-wont-perform-at-pregame-halftime",
+      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.011111111111111118
+    },
+    {
       "title": "Looking for a good deal on a Christmas tree? Try a national forest",
       "link": "https://www.latimes.com/environment/story/2026-11-26/looking-for-good-deal-on-christmas-tree-try-national-forest",
       "published": "Thu, 26 Nov 2026 11:00:00 GMT",
       "sentiment": 0.11597222222222223
+    },
+    {
+      "title": "California pays taxes for the rest of the country. You're welcome",
+      "link": "https://www.latimes.com/business/story/2026-11-26/california-pays-taxes-for-rest-of-country-youre-welcome",
+      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.29583333333333334
     },
     {
       "title": "Mike Woo is back on the political ethics beat — this time for L.A. County",
@@ -127,12 +133,6 @@
       "sentiment": 0.09999999999999999
     },
     {
-      "title": "'The miracle' in 3-D: Tour brings statue of the Virgin of Guadalupe to L.A. faithful",
-      "link": "https://www.latimes.com/california/story/2026-11-25/tour-brings-3-d-statue-of-virgin-of-guadalupe-to-la-faithful",
-      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.03409090909090909
-    },
-    {
       "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
       "link": "https://www.latimes.com/california/story/2026-11-25/lapd-police-shootings-report",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
@@ -145,10 +145,10 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "title": "Ruthless killing of roller-rink owner shook small California city. Now, a measure of justice",
-      "link": "https://www.latimes.com/california/story/2026-11-25/ruthless-killing-of-roller-rink-owner-shook-small-california-city-now-measure-of-justice",
+      "title": "Parts of Pacifica pier crumble into the ocean in epic day of high tides, powerful waves",
+      "link": "https://www.latimes.com/california/story/2026-11-25/la-me-king-tides-explainer",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.625
+      "sentiment": 0.14
     },
     {
       "title": "Nithya Raman says L.A. child care is 'in crisis.' Here's her plan to change it",
@@ -157,10 +157,16 @@
       "sentiment": 0.2
     },
     {
-      "title": "Parts of Pacifica pier crumble into the ocean in epic day of high tides, powerful waves",
-      "link": "https://www.latimes.com/california/story/2026-11-25/la-me-king-tides-explainer",
+      "title": "Ruthless killing of roller-rink owner shook small California city. Now, a measure of justice",
+      "link": "https://www.latimes.com/california/story/2026-11-25/ruthless-killing-of-roller-rink-owner-shook-small-california-city-now-measure-of-justice",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.14
+      "sentiment": -0.625
+    },
+    {
+      "title": "'The miracle' in 3-D: Tour brings statue of the Virgin of Guadalupe to L.A. faithful",
+      "link": "https://www.latimes.com/california/story/2026-11-25/tour-brings-3-d-statue-of-virgin-of-guadalupe-to-la-faithful",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.03409090909090909
     },
     {
       "title": "Malibu again delays rollout of speed cameras for deadly section of PCH",
@@ -223,16 +229,16 @@
       "sentiment": 0.14166666666666666
     },
     {
+      "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
+      "link": "https://www.latimes.com/california/story/2026-11-24/jd-vances-memoir-catholic-conversion",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.25
+    },
+    {
       "title": "How California's king tides will play out: Timing, locations, danger zones",
       "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": 0.21666666666666665
-    },
-    {
-      "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
-      "link": "https://www.latimes.com/business/story/2026-11-24/jensen-huang-is-back-at-nvidia-but-his-startling-return-causes-more-scrutiny",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.25
     },
     {
       "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
@@ -241,8 +247,8 @@
       "sentiment": 0.05
     },
     {
-      "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
-      "link": "https://www.latimes.com/california/story/2026-11-24/jd-vances-memoir-catholic-conversion",
+      "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
+      "link": "https://www.latimes.com/business/story/2026-11-24/jensen-huang-is-back-at-nvidia-but-his-startling-return-causes-more-scrutiny",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": 0.25
     },
@@ -397,10 +403,10 @@
       "sentiment": -0.008928571428571438
     },
     {
-      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
+      "title": "Dozens of dogs recovered in Pasadena need fur-ever homes. Here's how you can help",
+      "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.04999999999999999
+      "sentiment": 0.0
     },
     {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
@@ -409,16 +415,16 @@
       "sentiment": 0.19999999999999998
     },
     {
-      "title": "Dozens of dogs recovered in Pasadena need fur-ever homes. Here's how you can help",
-      "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
+      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
+      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": 0.04999999999999999
     },
     {
-      "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
-      "link": "https://www.latimes.com/california/story/2026-11-21/desperate-to-curb-drugs-crime-la-is-building-fence-around-macarthur-park",
+      "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
+      "link": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
       "published": "Sat, 21 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.1159090909090909
+      "sentiment": 0.0
     },
     {
       "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
@@ -427,10 +433,10 @@
       "sentiment": 0.5
     },
     {
-      "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
-      "link": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
+      "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
+      "link": "https://www.latimes.com/california/story/2026-11-21/desperate-to-curb-drugs-crime-la-is-building-fence-around-macarthur-park",
       "published": "Sat, 21 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
+      "sentiment": -0.1159090909090909
     },
     {
       "title": "D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment",
@@ -499,16 +505,16 @@
       "sentiment": -0.1
     },
     {
-      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
-      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
-      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.5
-    },
-    {
       "title": "Arellano: Orange County was once California's Republican heaven. Democrats have painted it blue",
       "link": "https://www.latimes.com/california/story/2026-11-20/orange-county-politics-blue",
       "published": "Fri, 20 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
+    },
+    {
+      "title": "Chino Valley Unified bans trans students from girls sports, restrooms as Sonja Shaw exits",
+      "link": "https://www.latimes.com/california/story/2026-11-20/chino-valley-unified-school-board-bans-transgender-students-girls-sports-restrooms",
+      "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.5
     },
     {
       "title": "Investigation underway after fire at wildlife center kills about 40 animals",
@@ -569,18 +575,6 @@
       "link": "https://www.latimes.com/politics/story/2026-11-19/doj-bill-essayli-mar-a-lago-raid-probe",
       "published": "Thu, 19 Nov 2026 17:12:58 GMT",
       "sentiment": 0.25
-    },
-    {
-      "title": "L.A. mourned when Cole's closed. Now the French dip icon has reopened. Here's a first look",
-      "link": "https://www.latimes.com/food/story/2026-11-19/first-look-inside-l-a-s-just-reopened-french-dip-icon-coles",
-      "published": "Thu, 19 Nov 2026 16:00:00 GMT",
-      "sentiment": 0.08539944903581269
-    },
-    {
-      "title": "Heavy rain drenches Southern California, prompting rescues, flash flood concerns",
-      "link": "https://www.latimes.com/california/story/2026-11-19/socal-atmospheric-river-storm",
-      "published": "Thu, 19 Nov 2026 14:56:07 GMT",
-      "sentiment": 0.009999999999999998
     }
   ]
 }
