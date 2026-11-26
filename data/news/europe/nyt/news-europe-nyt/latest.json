@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+      "link": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+      "published": "Thu, 26 Nov 2026 16:29:52 +0000",
+      "sentiment": 0.033766233766233764
+    },
+    {
       "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
       "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
       "published": "Thu, 26 Nov 2026 14:17:40 +0000",
@@ -25,10 +31,10 @@
       "sentiment": 0.3666666666666667
     },
     {
-      "title": "Will This $252 Million ‘Museum City’ Be a Boon, or a Boondoggle?",
+      "title": "Will Kanal, Brussels’ $252 Million New Museum, Transform the City?",
       "link": "https://www.nytimes.com/2026/11/26/arts/design/kanal-centre-pompidou-brussels.html",
-      "published": "Thu, 26 Nov 2026 10:00:59 +0000",
-      "sentiment": -0.03333333333333333
+      "published": "Thu, 26 Nov 2026 10:01:00 +0000",
+      "sentiment": 0.009090909090909087
     },
     {
       "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
@@ -113,12 +119,6 @@
       "link": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
       "published": "Tue, 24 Nov 2026 18:25:38 +0000",
       "sentiment": 0.07435897435897436
-    },
-    {
-      "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
-      "published": "Tue, 24 Nov 2026 14:13:17 +0000",
-      "sentiment": 0.0
     }
   ]
 }
