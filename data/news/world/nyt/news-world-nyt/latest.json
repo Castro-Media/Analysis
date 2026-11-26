@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+      "published": "Thu, 26 Nov 2026 10:00:12 +0000",
+      "sentiment": 0.04416666666666667
+    },
+    {
+      "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "published": "Thu, 26 Nov 2026 10:00:09 +0000",
+      "sentiment": 0.1
+    },
+    {
+      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+      "published": "Thu, 26 Nov 2026 10:02:53 +0000",
+      "sentiment": 0.3666666666666667
+    },
+    {
+      "title": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
+      "published": "Thu, 26 Nov 2026 10:04:17 +0000",
+      "sentiment": -0.2
+    },
+    {
       "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
       "link": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
       "published": "Thu, 26 Nov 2026 09:06:03 +0000",
@@ -61,28 +85,16 @@
       "sentiment": 0.15833333333333335
     },
     {
-      "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
-      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-      "published": "Wed, 25 Nov 2026 13:59:32 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
-      "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
-      "published": "Wed, 25 Nov 2026 13:39:46 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
-      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-      "published": "Wed, 25 Nov 2026 19:02:51 +0000",
+      "title": "The E.R. Closed at 5 P.M. A Dying Woman Showed Up 11 Minutes Too Late.",
+      "link": "https://www.nytimes.com/2026/11/26/world/canada/port-hardy-woman-dies-outside-er.html",
+      "published": "Thu, 26 Nov 2026 10:04:18 +0000",
       "sentiment": -0.1
     },
     {
-      "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
-      "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
-      "published": "Wed, 25 Nov 2026 22:30:27 +0000",
-      "sentiment": 0.0
+      "title": "How Birds With GPS and Audio Sensors Track Hidden Fishing Boats",
+      "link": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
+      "published": "Thu, 26 Nov 2026 10:04:04 +0000",
+      "sentiment": -0.16666666666666666
     },
     {
       "title": "London Banning Noise and Capping Fares for Its Pedicabs",
@@ -133,6 +145,18 @@
       "sentiment": 0.16666666666666666
     },
     {
+      "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
+      "published": "Wed, 25 Nov 2026 19:02:51 +0000",
+      "sentiment": -0.1
+    },
+    {
+      "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
+      "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html",
+      "published": "Wed, 25 Nov 2026 13:39:46 +0000",
+      "sentiment": 0.0
+    },
+    {
       "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
       "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
       "published": "Wed, 25 Nov 2026 17:33:35 +0000",
@@ -143,6 +167,18 @@
       "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
       "published": "Thu, 26 Nov 2026 06:30:00 +0000",
       "sentiment": -0.26
+    },
+    {
+      "title": "Mexico Investigates Possible Cartel Links of Prosecutor Who Aided C.I.A.",
+      "link": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html",
+      "published": "Wed, 25 Nov 2026 22:30:27 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+      "published": "Wed, 25 Nov 2026 13:59:32 +0000",
+      "sentiment": 0.25
     },
     {
       "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
@@ -323,24 +359,6 @@
       "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
       "published": "Mon, 23 Nov 2026 18:05:31 +0000",
       "sentiment": -0.3
-    },
-    {
-      "title": "COP31 Climate Talks Broke Down. Now What?",
-      "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-      "published": "Mon, 23 Nov 2026 16:18:49 +0000",
-      "sentiment": 0.01851851851851852
-    },
-    {
-      "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
-      "link": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
-      "published": "Mon, 23 Nov 2026 15:39:34 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
-      "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
-      "published": "Mon, 23 Nov 2026 17:50:10 +0000",
-      "sentiment": -0.05
     }
   ]
 }
