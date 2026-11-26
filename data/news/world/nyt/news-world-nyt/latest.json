@@ -1,10 +1,46 @@
 {
   "entries": [
     {
+      "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+      "published": "Thu, 26 Nov 2026 08:08:21 +0000",
+      "sentiment": -0.15
+    },
+    {
+      "title": "The Unbearable Heat of Delhi’s Summer Nights",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
+      "published": "Thu, 26 Nov 2026 08:47:33 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
+      "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
+      "published": "Thu, 26 Nov 2026 08:31:47 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "They Bought Their Dream Home. Their Neighbors Want to Evict Them.",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
+      "published": "Thu, 26 Nov 2026 05:01:11 +0000",
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+      "published": "Thu, 26 Nov 2026 07:14:18 +0000",
+      "sentiment": -0.0625
+    },
+    {
       "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
       "link": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
       "published": "Wed, 25 Nov 2026 20:40:27 +0000",
       "sentiment": 0.43333333333333335
+    },
+    {
+      "title": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
+      "published": "Thu, 26 Nov 2026 08:45:06 +0000",
+      "sentiment": 0.22499999999999998
     },
     {
       "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
@@ -49,70 +85,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
-      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
-      "published": "Thu, 26 Nov 2026 06:30:00 +0000",
-      "sentiment": -0.26
-    },
-    {
-      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
-      "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-      "published": "Wed, 25 Nov 2026 17:00:25 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-      "published": "Wed, 25 Nov 2026 05:24:36 +0000",
-      "sentiment": 0.012121212121212116
-    },
-    {
-      "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
-      "link": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
-      "published": "Wed, 25 Nov 2026 08:05:15 +0000",
-      "sentiment": -0.27306397306397306
-    },
-    {
-      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
-      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
-      "published": "Wed, 25 Nov 2026 17:33:35 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
-      "published": "Tue, 24 Nov 2026 16:27:04 +0000",
-      "sentiment": 0.044444444444444446
-    },
-    {
       "title": "London Banning Noise and Capping Fares for Its Pedicabs",
       "link": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
       "published": "Thu, 26 Nov 2026 05:01:11 +0000",
       "sentiment": 0.125
-    },
-    {
-      "title": "They Bought Their Dream Home. Their Neighbors Want to Evict Them.",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
-      "published": "Thu, 26 Nov 2026 05:01:11 +0000",
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
-      "published": "Thu, 26 Nov 2026 05:01:04 +0000",
-      "sentiment": -0.0625
-    },
-    {
-      "title": "Can Roof Tiles Reduce Indoor Heat? India Is Finding Out.",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
-      "published": "Thu, 26 Nov 2026 05:00:24 +0000",
-      "sentiment": 0.22499999999999998
-    },
-    {
-      "title": "The Unbearable Heat of Delhi’s Summer Nights",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/the-unbearable-heat-of-delhis-summer-nights.html",
-      "published": "Thu, 26 Nov 2026 05:00:18 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
@@ -155,6 +131,36 @@
       "link": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
       "published": "Thu, 26 Nov 2026 01:25:49 +0000",
       "sentiment": 0.16666666666666666
+    },
+    {
+      "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
+      "link": "https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html",
+      "published": "Wed, 25 Nov 2026 17:33:35 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+      "published": "Thu, 26 Nov 2026 06:30:00 +0000",
+      "sentiment": -0.26
+    },
+    {
+      "title": "Colombia’s Leader Blames ‘Terrorist Attack’ for Power Outages",
+      "link": "https://www.nytimes.com/2026/11/25/world/americas/colombia-blackout-terrorist-attack.html",
+      "published": "Wed, 25 Nov 2026 08:05:15 +0000",
+      "sentiment": -0.27306397306397306
+    },
+    {
+      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "published": "Wed, 25 Nov 2026 17:00:25 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+      "published": "Wed, 25 Nov 2026 05:24:36 +0000",
+      "sentiment": 0.012121212121212116
     },
     {
       "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
@@ -283,6 +289,12 @@
       "sentiment": 0.04545454545454545
     },
     {
+      "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+      "published": "Tue, 24 Nov 2026 16:27:04 +0000",
+      "sentiment": 0.044444444444444446
+    },
+    {
       "title": "The Woman Who Took Canada to Court Over Genocide",
       "link": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
       "published": "Mon, 23 Nov 2026 21:21:53 +0000",
@@ -335,18 +347,6 @@
       "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
       "published": "Mon, 23 Nov 2026 18:54:42 +0000",
       "sentiment": 0.2333333333333333
-    },
-    {
-      "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
-      "link": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html",
-      "published": "Tue, 24 Nov 2026 00:35:20 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
-      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
-      "published": "Mon, 23 Nov 2026 13:53:33 +0000",
-      "sentiment": 0.19999999999999998
     }
   ]
 }
