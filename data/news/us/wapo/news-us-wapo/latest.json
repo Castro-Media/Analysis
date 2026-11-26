@@ -1,10 +1,10 @@
 {
   "entries": [
     {
-      "title": "Scattered flight delays, flooding and outages as powerful storm hits East Coast",
+      "title": "Flight delays, flooding and outages grow as storm batters East Coast",
       "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
-      "published": "Thu, 26 Nov 2026 16:46:02 +0000",
-      "sentiment": 0.19878787878787876
+      "published": "Thu, 26 Nov 2026 18:50:59 +0000",
+      "sentiment": -0.4318181818181818
     },
     {
       "title": "ICE arrests man in Boston days after he won $1 million in lottery",
@@ -127,16 +127,16 @@
       "sentiment": 0.033333333333333326
     },
     {
-      "title": "White House insiders criticize DHS chief Mullin as Trump says he backs him",
-      "link": "https://www.washingtonpost.com/immigration/2026/11/25/homeland-security-secretary-faces-criticism-over-tech-breakdowns-immigration/",
-      "published": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "sentiment": -0.08333333333333333
-    },
-    {
       "title": "They graduated college, but they haven’t been able to use their degrees",
       "link": "https://www.washingtonpost.com/business/2026/11/25/underemployment-among-those-22-27-years-old-hit-six-year-high/",
       "published": "Wed, 25 Nov 2026 10:00:00 +0000",
       "sentiment": 0.3866666666666667
+    },
+    {
+      "title": "White House insiders criticize DHS chief Mullin as Trump says he backs him",
+      "link": "https://www.washingtonpost.com/immigration/2026/11/25/homeland-security-secretary-faces-criticism-over-tech-breakdowns-immigration/",
+      "published": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "sentiment": -0.08333333333333333
     },
     {
       "title": "Grand Canyon park leader who faced scrutiny over fire is retiring",
@@ -155,12 +155,6 @@
       "link": "https://www.washingtonpost.com/nation/2026/11/24/5-ways-minimize-health-risks-armys-iowa-lead-detonation/",
       "published": "Tue, 24 Nov 2026 21:14:42 +0000",
       "sentiment": 0.5
-    },
-    {
-      "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate",
-      "link": "https://www.washingtonpost.com/climate-environment/2026/11/24/lead-azide-must-be-detonated-iowa-army-says-some-residents-urged-evacuate/",
-      "published": "Tue, 24 Nov 2026 18:05:48 +0000",
-      "sentiment": 0.45
     }
   ]
 }
