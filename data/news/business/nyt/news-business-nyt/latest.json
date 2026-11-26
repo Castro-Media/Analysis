@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Who Picked This Gift? My A.I. Holiday Shopper.",
+      "link": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html",
+      "published": "Thu, 26 Nov 2026 15:13:32 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+      "link": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+      "published": "Thu, 26 Nov 2026 15:12:12 +0000",
+      "sentiment": -0.033
+    },
+    {
       "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
       "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
       "published": "Thu, 26 Nov 2026 14:50:27 +0000",
@@ -31,10 +43,10 @@
       "sentiment": -0.13333333333333333
     },
     {
-      "title": "The New Itty-Bitty Fiat Is a Nifty Fit for the City",
+      "title": "The Fiat Topolino Is a Nifty Fit for the City: Review",
       "link": "https://www.nytimes.com/2026/11/26/business/fiat-topolino-electric-review.html",
-      "published": "Thu, 26 Nov 2026 10:02:11 +0000",
-      "sentiment": 0.03070500927643785
+      "published": "Thu, 26 Nov 2026 10:02:12 +0000",
+      "sentiment": 0.013095238095238099
     },
     {
       "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
@@ -45,7 +57,7 @@
     {
       "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
       "link": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
-      "published": "Thu, 26 Nov 2026 10:50:13 +0000",
+      "published": "Thu, 26 Nov 2026 15:20:30 +0000",
       "sentiment": 0.05
     },
     {
@@ -287,18 +299,6 @@
       "link": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
       "published": "Wed, 25 Nov 2026 19:35:44 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
-      "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-      "published": "Wed, 25 Nov 2026 14:45:10 +0000",
-      "sentiment": 0.28409090909090906
-    },
-    {
-      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
-      "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
-      "published": "Tue, 24 Nov 2026 00:55:56 +0000",
-      "sentiment": 0.3111111111111111
     }
   ]
 }
