@@ -1,6 +1,36 @@
 {
   "entries": [
     {
+      "title": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+      "link": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html",
+      "published": "Fri, 27 Nov 2026 10:03:51 +0000",
+      "sentiment": 0.3499999999999999
+    },
+    {
+      "title": "How to Live Calmly, Despite Stock Market Whiplash",
+      "link": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+      "published": "Fri, 27 Nov 2026 10:02:53 +0000",
+      "sentiment": 0.03131313131313132
+    },
+    {
+      "title": "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+      "link": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
+      "published": "Fri, 27 Nov 2026 10:02:41 +0000",
+      "sentiment": 0.16666666666666669
+    },
+    {
+      "title": "2 TV Shows Take on Sam Bankman-Fried and FTX",
+      "link": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
+      "published": "Fri, 27 Nov 2026 10:02:08 +0000",
+      "sentiment": -0.023809523809523808
+    },
+    {
+      "title": "48 Hours in Tokyo With an Airline Pilot",
+      "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
+      "published": "Fri, 27 Nov 2026 10:00:33 +0000",
+      "sentiment": 0.5
+    },
+    {
       "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
       "link": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
       "published": "Thu, 26 Nov 2026 20:37:15 +0000",
@@ -9,8 +39,8 @@
     {
       "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
       "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-      "published": "Thu, 26 Nov 2026 21:25:16 +0000",
-      "sentiment": 0.0
+      "published": "Fri, 27 Nov 2026 10:17:23 +0000",
+      "sentiment": 0.03333333333333333
     },
     {
       "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
@@ -263,42 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
       "published": "Tue, 24 Nov 2026 18:06:24 +0000",
       "sentiment": 0.03571428571428571
-    },
-    {
-      "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
-      "link": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
-      "published": "Tue, 24 Nov 2026 21:54:51 +0000",
-      "sentiment": 0.002777777777777782
-    },
-    {
-      "title": "How Huang’s Return Rewrote Corporate America’s Rules",
-      "link": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
-      "published": "Tue, 24 Nov 2026 19:36:07 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "published": "Tue, 24 Nov 2026 21:12:54 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
-      "link": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
-      "published": "Tue, 24 Nov 2026 10:04:07 +0000",
-      "sentiment": 0.13318181818181818
-    },
-    {
-      "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
-      "link": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
-      "published": "Tue, 24 Nov 2026 14:10:04 +0000",
-      "sentiment": -0.17499999999999996
-    },
-    {
-      "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
-      "link": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
-      "published": "Tue, 24 Nov 2026 10:03:27 +0000",
-      "sentiment": 0.06818181818181818
     }
   ]
 }

@@ -1,6 +1,30 @@
 {
   "entries": [
     {
+      "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
+      "published": "Fri, 27 Nov 2026 10:00:10 +0000",
+      "sentiment": -0.875
+    },
+    {
+      "title": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html",
+      "published": "Fri, 27 Nov 2026 10:02:12 +0000",
+      "sentiment": 0.17857142857142858
+    },
+    {
+      "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
+      "link": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
+      "published": "Fri, 27 Nov 2026 10:02:40 +0000",
+      "sentiment": 0.10000000000000002
+    },
+    {
+      "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
+      "published": "Fri, 27 Nov 2026 10:01:47 +0000",
+      "sentiment": 0.18727272727272726
+    },
+    {
       "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
       "link": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
       "published": "Fri, 27 Nov 2026 05:00:39 +0000",
@@ -61,28 +85,16 @@
       "sentiment": 0.1
     },
     {
-      "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
-      "published": "Thu, 26 Nov 2026 09:06:04 +0000",
-      "sentiment": -0.15
+      "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+      "link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
+      "published": "Fri, 27 Nov 2026 10:42:02 +0000",
+      "sentiment": 0.075
     },
     {
-      "title": "The Unbearable Heat of Delhi’s Summer Nights",
-      "link": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
-      "published": "Thu, 26 Nov 2026 18:16:29 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
-      "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
-      "published": "Thu, 26 Nov 2026 11:08:41 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "An Italian Couple Bought a House Built by Pier Paolo Pasolini. Local Villagers Want to Evict Them.",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
-      "published": "Thu, 26 Nov 2026 05:01:11 +0000",
-      "sentiment": 0.2
+      "title": "Why Russia Is Erasing Stalin’s Crimes",
+      "link": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
+      "published": "Fri, 27 Nov 2026 10:00:01 +0000",
+      "sentiment": 0.3333333333333333
     },
     {
       "title": "Ontario Premier Says He’d Use a Gun to Protect His Family",
@@ -109,10 +121,28 @@
       "sentiment": -0.16666666666666666
     },
     {
+      "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
+      "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
+      "published": "Thu, 26 Nov 2026 11:08:41 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+      "published": "Thu, 26 Nov 2026 09:06:04 +0000",
+      "sentiment": -0.15
+    },
+    {
       "title": "London Banning Noise and Capping Fares for Its Pedicabs",
       "link": "https://www.nytimes.com/2026/11/26/world/europe/london-pedicab-regulations-music-ban-nyc.html",
       "published": "Thu, 26 Nov 2026 05:01:11 +0000",
       "sentiment": 0.125
+    },
+    {
+      "title": "An Italian Couple Bought a House Built by Pier Paolo Pasolini. Local Villagers Want to Evict Them.",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html",
+      "published": "Thu, 26 Nov 2026 05:01:11 +0000",
+      "sentiment": 0.2
     },
     {
       "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
@@ -125,6 +155,12 @@
       "link": "https://www.nytimes.com/2026/11/26/world/asia/india-extreme-heat-housing-roof-tiles.html",
       "published": "Fri, 27 Nov 2026 05:05:26 +0000",
       "sentiment": 0.22499999999999998
+    },
+    {
+      "title": "The Unbearable Heat of Delhi’s Summer Nights",
+      "link": "https://www.nytimes.com/2026/11/26/world/asia/delhi-heat-summer-nights.html",
+      "published": "Thu, 26 Nov 2026 18:16:29 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
@@ -323,42 +359,6 @@
       "link": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
       "published": "Tue, 24 Nov 2026 12:34:52 +0000",
       "sentiment": 0.3333333333333333
-    },
-    {
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-      "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "published": "Tue, 24 Nov 2026 21:12:54 +0000",
-      "sentiment": 0.05
-    },
-    {
-      "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
-      "published": "Tue, 24 Nov 2026 11:55:30 +0000",
-      "sentiment": 0.26666666666666666
-    },
-    {
-      "title": "Japan’s Leader, in Break With U.S., Defends International Criminal Court",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
-      "published": "Wed, 25 Nov 2026 17:41:06 +0000",
-      "sentiment": -0.1
-    },
-    {
-      "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
-      "published": "Wed, 25 Nov 2026 08:55:39 +0000",
-      "sentiment": -0.03333333333333333
-    },
-    {
-      "title": "A U.N. Leader Focuses on the Deadly Problem of Road Safety",
-      "link": "https://www.nytimes.com/2026/11/24/world/women-leadership-road-safety-nneka-henry.html",
-      "published": "Tue, 24 Nov 2026 10:01:45 +0000",
-      "sentiment": -0.2
-    },
-    {
-      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
-      "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-      "published": "Wed, 25 Nov 2026 14:45:10 +0000",
-      "sentiment": 0.28409090909090906
     }
   ]
 }
