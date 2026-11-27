@@ -1,15 +1,33 @@
 {
   "entries": [
     {
+      "title": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
+      "link": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
+      "published": "Fri, 27 Nov 2026 15:30:19 +0000",
+      "sentiment": 0.11227272727272727
+    },
+    {
+      "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+      "link": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+      "published": "Fri, 27 Nov 2026 15:29:05 +0000",
+      "sentiment": 0.04
+    },
+    {
+      "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
+      "link": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+      "published": "Fri, 27 Nov 2026 15:18:58 +0000",
+      "sentiment": 0.18333333333333335
+    },
+    {
       "title": "Stocks Rally at End of a Week of Wild Swings",
       "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
-      "published": "Fri, 27 Nov 2026 14:44:21 +0000",
+      "published": "Fri, 27 Nov 2026 15:39:03 +0000",
       "sentiment": 0.1
     },
     {
       "title": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
       "link": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html",
-      "published": "Fri, 27 Nov 2026 10:03:51 +0000",
+      "published": "Fri, 27 Nov 2026 15:29:56 +0000",
       "sentiment": 0.3499999999999999
     },
     {
@@ -32,8 +50,8 @@
     },
     {
       "title": "48 Hours in Tokyo With an Airline Pilot",
-      "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
-      "published": "Fri, 27 Nov 2026 10:00:33 +0000",
+      "link": "https://www.nytimes.com/2026/11/27/travel/48-hours-tokyo-layover.html",
+      "published": "Fri, 27 Nov 2026 10:00:34 +0000",
       "sentiment": 0.5
     },
     {
@@ -275,24 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
       "published": "Tue, 24 Nov 2026 23:06:01 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
-      "link": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
-      "published": "Tue, 24 Nov 2026 19:29:19 +0000",
-      "sentiment": 0.011111111111111112
-    },
-    {
-      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-      "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "published": "Tue, 24 Nov 2026 19:54:59 +0000",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
-      "link": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
-      "published": "Wed, 25 Nov 2026 14:01:00 +0000",
-      "sentiment": -0.025
     }
   ]
 }
