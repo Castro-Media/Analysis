@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Flight delays, flooding and power outages grow as storm batters East Coast",
+      "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
+      "published": "Thu, 26 Nov 2026 23:52:04 +0000",
+      "sentiment": -0.4318181818181818
+    },
+    {
       "title": "Anita DeFrantz, 'outstanding advocate for Olympic values,' dies at 74",
       "link": "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/",
       "published": "Thu, 26 Nov 2026 22:11:09 +0000",
@@ -17,12 +23,6 @@
       "link": "https://www.washingtonpost.com/obituaries/2026/11/26/strobe-talbott-who-helped-shape-clinton-era-foreign-policy-dies-80/",
       "published": "Thu, 26 Nov 2026 21:28:12 +0000",
       "sentiment": -0.0875
-    },
-    {
-      "title": "Flight delays, flooding and outages grow as storm batters East Coast",
-      "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
-      "published": "Thu, 26 Nov 2026 20:45:41 +0000",
-      "sentiment": -0.4318181818181818
     },
     {
       "title": "ICE arrests man in Boston days after he won $1 million in lottery",
@@ -43,16 +43,16 @@
       "sentiment": 0.09659090909090909
     },
     {
-      "title": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
-      "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
-      "published": "Thu, 26 Nov 2026 10:00:00 +0000",
-      "sentiment": 0.0
-    },
-    {
       "title": "Tech billionaire takes his case against red tape to the Federal Reserve",
       "link": "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/",
       "published": "Thu, 26 Nov 2026 10:00:00 +0000",
       "sentiment": -0.06590909090909092
+    },
+    {
+      "title": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
+      "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
+      "published": "Thu, 26 Nov 2026 10:00:00 +0000",
+      "sentiment": 0.0
     },
     {
       "title": "Which came first, Macy’s Thanksgiving parade or sliced bread? Take our history quiz.",
@@ -155,12 +155,6 @@
       "link": "https://www.washingtonpost.com/business/2026/11/25/underemployment-among-those-22-27-years-old-hit-six-year-high/",
       "published": "Wed, 25 Nov 2026 10:00:00 +0000",
       "sentiment": 0.3866666666666667
-    },
-    {
-      "title": "Grand Canyon park leader who faced scrutiny over fire is retiring",
-      "link": "https://www.washingtonpost.com/nation/2026/11/24/grand-canyon-national-park-superintendent-who-faced-scrutiny-over-fire-will-retire/",
-      "published": "Tue, 24 Nov 2026 23:00:00 +0000",
-      "sentiment": 0.25
     }
   ]
 }
