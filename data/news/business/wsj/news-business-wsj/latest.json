@@ -193,12 +193,6 @@
       "sentiment": 0.0
     },
     {
-      "title": "Asian Markets Mostly Higher as Sentiment Stabilizes",
-      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 27 Nov 2026 02:13:00 GMT",
-      "sentiment": -0.0875
-    },
-    {
       "title": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/opec-allies-face-tough-choices-as-surplus-builds-hormuz-risks-persist-769f8d98?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 13:27:00 GMT",
@@ -221,6 +215,12 @@
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 22:03:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "Oil Futures Pick Up as Middle East Tensions Persist",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-supply-outlook-renewed-middle-east-tensions-182b1198?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 21:07:00 GMT",
+      "sentiment": 0.075
     },
     {
       "title": "How Southwest, Target and AT&T Finance Chiefs Think About the Human in the Loop",
@@ -463,15 +463,21 @@
       "sentiment": 0.0715909090909091
     },
     {
+      "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
+      "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 17:58:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
       "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 19:39:00 GMT",
       "sentiment": -0.1
     },
     {
-      "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
-      "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 26 Nov 2026 17:58:00 GMT",
+      "title": "The Five-Year-Old Budget Airline That Halted Operations on Thanksgiving",
+      "link": "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 13:17:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -479,12 +485,6 @@
       "link": "https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 03:03:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "The Five-Year-Old Budget Airline That Halted Operations on Thanksgiving",
-      "link": "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 26 Nov 2026 13:17:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
