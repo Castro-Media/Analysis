@@ -25,6 +25,12 @@
       "sentiment": 0.10000000000000002
     },
     {
+      "title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
+      "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+      "published": "Fri, 27 Nov 2026 17:37:15 +0000",
+      "sentiment": 0.25285714285714284
+    },
+    {
       "title": "France’s Bookstores, Beloved Curators of Literature, Are in a Deep Crisis",
       "link": "https://www.nytimes.com/2026/11/27/world/europe/france-bookstore-crisis-closures.html",
       "published": "Fri, 27 Nov 2026 15:26:55 +0000",
@@ -79,10 +85,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
-      "published": "Thu, 26 Nov 2026 10:04:18 +0000",
-      "sentiment": -0.2
+      "title": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
+      "published": "Fri, 27 Nov 2026 17:45:33 +0000",
+      "sentiment": -0.07714285714285714
     },
     {
       "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
@@ -93,7 +99,7 @@
     {
       "title": "Why Russia Is Erasing Stalin’s Crimes",
       "link": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
-      "published": "Fri, 27 Nov 2026 10:00:01 +0000",
+      "published": "Fri, 27 Nov 2026 16:29:46 +0000",
       "sentiment": 0.3333333333333333
     },
     {
@@ -107,6 +113,12 @@
       "link": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
       "published": "Fri, 27 Nov 2026 05:45:53 +0000",
       "sentiment": 0.13636363636363635
+    },
+    {
+      "title": "El Salvador’s Nayib Bukele Elates Haiti With Fight Against Gangs",
+      "link": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html",
+      "published": "Thu, 26 Nov 2026 10:04:18 +0000",
+      "sentiment": -0.2
     },
     {
       "title": "The E.R. Closed at 5 P.M. A Dying Woman Showed Up 11 Minutes Too Late.",
@@ -341,24 +353,6 @@
       "link": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
       "published": "Tue, 24 Nov 2026 14:13:17 +0000",
       "sentiment": 0.0
-    },
-    {
-      "title": "Prince William and Kate’s Country Home Is Broken Into; 2 Men Arrested",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
-      "published": "Tue, 24 Nov 2026 16:31:07 +0000",
-      "sentiment": -0.15000000000000002
-    },
-    {
-      "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
-      "published": "Tue, 24 Nov 2026 13:12:42 +0000",
-      "sentiment": 0.20000000000000004
-    },
-    {
-      "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-      "published": "Tue, 24 Nov 2026 14:42:31 +0000",
-      "sentiment": -0.0625
     }
   ]
 }
