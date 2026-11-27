@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+      "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 12:48:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Meituan Posts Earnings Beat as Price War Cools",
       "link": "https://www.wsj.com/business/earnings/meituan-posts-earnings-beat-as-price-war-cools-d1380f04?mod=pls_whats_news_us_business_f",
       "published": "Fri, 27 Nov 2026 09:13:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 03:03:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
-      "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 26 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.11458333333333333
     },
     {
       "title": "Lumibird Shares Surge After Thales Targets Majority Stake in $483 Million Laser Deal",
@@ -193,10 +193,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "Oil Prices Rise Ahead of OPEC+ Meeting as Middle East Supply Risks Persist",
+      "title": "Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 27 Nov 2026 08:27:00 GMT",
-      "sentiment": 0.19999999999999998
+      "published": "Fri, 27 Nov 2026 12:50:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 12:04:00 GMT",
+      "sentiment": 0.5
     },
     {
       "title": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist",
@@ -217,9 +223,9 @@
       "sentiment": 0.5
     },
     {
-      "title": "Energy & Utilities Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 22:03:00 GMT",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/airlines/tech-media-telecom-roundup-market-talk-1071f974?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 12:00:00 GMT",
       "sentiment": 0.5
     },
     {
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
       "published": "Wed, 18 Nov 2026 17:43:00 GMT",
       "sentiment": 0.016666666666666663
-    },
-    {
-      "title": "FAA Pauses Router Installations After Nationwide Ground Stop",
-      "link": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 00:06:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Tokenization and AI Rewrite the CFO Playbook for Corporate Cybersecurity",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.11458333333333333
+    },
+    {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
       "link": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 22:27:00 GMT",
@@ -457,12 +463,6 @@
       "sentiment": -0.30000000000000004
     },
     {
-      "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One",
-      "link": "https://www.wsj.com/tech/ai/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-d0d4abc3?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0715909090909091
-    },
-    {
       "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
       "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 17:58:00 GMT",
@@ -475,16 +475,16 @@
       "sentiment": 0.0
     },
     {
-      "title": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
-      "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 19:39:00 GMT",
-      "sentiment": -0.1
-    },
-    {
       "title": "Why So Many College Students Are Majoring in Sports Business",
       "link": "https://www.wsj.com/lifestyle/careers/why-so-many-college-students-are-majoring-in-sports-business-adc82aa1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 18:00:00 GMT",
       "sentiment": 0.5
+    },
+    {
+      "title": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
+      "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 19:39:00 GMT",
+      "sentiment": -0.1
     },
     {
       "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
