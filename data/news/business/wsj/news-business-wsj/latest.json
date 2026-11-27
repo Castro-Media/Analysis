@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+      "link": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 17:12:00 GMT",
+      "sentiment": -0.25
+    },
+    {
       "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
       "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=pls_whats_news_us_business_f",
       "published": "Fri, 27 Nov 2026 12:48:00 GMT",
@@ -29,12 +35,6 @@
       "link": "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 13:17:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "Judge Says FCC Must Stop ABC License Review",
-      "link": "https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 26 Nov 2026 03:03:00 GMT",
-      "sentiment": 0.2
     },
     {
       "title": "Lumibird Shares Surge After Thales Targets Majority Stake in $483 Million Laser Deal",
@@ -157,6 +157,12 @@
       "sentiment": -0.1125
     },
     {
+      "title": "Opinion | Jensen Huang’s Bad Lesson for Students",
+      "link": "https://www.wsj.com/opinion/jensen-huangs-bad-lesson-for-students-0f168587?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 16:36:00 GMT",
+      "sentiment": -0.6999999999999998
+    },
+    {
       "title": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
       "link": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 18:10:00 GMT",
@@ -184,12 +190,6 @@
       "title": "Opinion | Nvidia’s Lesson: Set Rules Before a Crisis",
       "link": "https://www.wsj.com/opinion/nvidias-lesson-set-rules-before-a-crisis-d4ccc369?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 18:34:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Opinion | Don’t Privatize Air Transportation. Modernize",
-      "link": "https://www.wsj.com/opinion/dont-privatize-air-transportation-modernize-5cbbe619?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 17:32:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -319,6 +319,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Judge Says FCC Must Stop ABC License Review",
+      "link": "https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 03:03:00 GMT",
+      "sentiment": 0.2
+    },
+    {
       "title": "These Charts Show How Fed Up Americans Are With the Cost of Streaming",
       "link": "https://www.wsj.com/business/media/these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-133a63ca?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 03:00:00 GMT",
@@ -335,12 +341,6 @@
       "link": "https://www.wsj.com/cmo-today/my-agent-takes-the-morning-train-d949221a?mod=pls_whats_news_us_business_f",
       "published": "Tue, 24 Nov 2026 13:57:00 GMT",
       "sentiment": 0.08333333333333333
-    },
-    {
-      "title": "‘60 Minutes’ Tries to Move Past Months of Turmoil",
-      "link": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f",
-      "published": "Mon, 23 Nov 2026 21:06:00 GMT",
-      "sentiment": -0.10111111111111111
     },
     {
       "title": "China and Other Countries Face Higher U.S. Tariffs Over Industrial Subsidies",
@@ -463,16 +463,16 @@
       "sentiment": -0.30000000000000004
     },
     {
+      "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+      "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 12:48:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Why So Many College Students Are Majoring in Sports Business",
       "link": "https://www.wsj.com/lifestyle/careers/why-so-many-college-students-are-majoring-in-sports-business-adc82aa1?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 18:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
-      "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 26 Nov 2026 17:58:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "The Five-Year-Old Budget Airline That Halted Operations on Thanksgiving",
@@ -481,9 +481,9 @@
       "sentiment": 0.0
     },
     {
-      "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
-      "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 27 Nov 2026 12:48:00 GMT",
+      "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
+      "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 17:58:00 GMT",
       "sentiment": 0.0
     },
     {
