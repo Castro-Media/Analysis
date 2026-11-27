@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "title": "Walmart reveals bold new delivery tactic to tackle demand in Los Angeles",
+      "link": "https://nypost.com/2026/11/26/us-news/walmart-plans-drone-deliveries-across-los-angeles-starting-in-2027/",
+      "published": "Thu, 26 Nov 2026 21:41:43 -0500",
+      "sentiment": 0.16742424242424242
+    },
+    {
+      "title": "Florida detective fatally struck by alleged drunk wrong-way driver on Thanksgiving morning",
+      "link": "https://nypost.com/2026/11/26/us-news/florida-detective-fatally-struck-by-allegedly-drunk-wrong-way-driver-on-thanksgiving-morning/",
+      "published": "Thu, 26 Nov 2026 21:41:13 -0500",
+      "sentiment": -0.033333333333333326
+    },
+    {
+      "title": "Central Park breaks 20-year Thanksgiving rain record as NYC slammed with extreme storms",
+      "link": "https://nypost.com/2026/11/26/us-news/central-park-breaks-20-year-thanksgiving-rain-record-as-nyc-slammed-with-extreme-storms/",
+      "published": "Thu, 26 Nov 2026 21:34:30 -0500",
+      "sentiment": -0.041666666666666664
+    },
+    {
+      "title": "Chilling clue connected to missing NorCal woman washes ashore in king tides",
+      "link": "https://nypost.com/2026/11/26/us-news/norcal-womans-purse-found-near-beach-where-she-vanished/",
+      "published": "Thu, 26 Nov 2026 21:00:00 -0500",
+      "sentiment": -0.21666666666666665
+    },
+    {
+      "title": "Deadly new threat lurking in California as El Niño fuels toxic mushroom growth",
+      "link": "https://nypost.com/2026/11/26/us-news/california-warns-of-deadly-mushroom-bloom-as-el-nino-brings-heavy-rains/",
+      "published": "Thu, 26 Nov 2026 20:40:41 -0500",
+      "sentiment": 0.14545454545454545
+    },
+    {
+      "title": "Palisades family celebrates Thanksgiving in unfinished home in sign of fire-ravaged town’s comeback",
+      "link": "https://nypost.com/2026/11/26/us-news/palisades-family-celebrates-thanksgiving-in-unfinished-home/",
+      "published": "Thu, 26 Nov 2026 20:30:00 -0500",
+      "sentiment": 0.1
+    },
+    {
+      "title": "What Elizabeth Holmes, Lindsay Clancy, Christa Pike, Ghislaine Maxwell are eating for Thanksgiving behind bars",
+      "link": "https://nypost.com/2026/11/26/us-news/elizabeth-holmes-lindsay-clancy-christa-pike-ghislaine-maxwell-thanksgiving-meals/",
+      "published": "Thu, 26 Nov 2026 20:29:27 -0500",
+      "sentiment": 0.04999999999999999
+    },
+    {
+      "title": "Fire-ravaged Pacific Palisades roars back as Black Friday shopping boom takes hold",
+      "link": "https://nypost.com/2026/11/26/us-news/fire-ravaged-palisades-roars-back-with-black-friday-shopping-boom/",
+      "published": "Thu, 26 Nov 2026 20:00:00 -0500",
+      "sentiment": -0.08333333333333333
+    },
+    {
       "title": "Family of Alaska mom who died after walking into plane propeller reveals theory about tragedy",
       "link": "https://nypost.com/2026/11/26/us-news/family-of-alaska-mom-christina-blake-who-died-after-walking-into-plane-propeller-reveals-theory-about-tragedy/",
       "published": "Thu, 26 Nov 2026 19:53:04 -0500",
@@ -71,54 +119,6 @@
       "link": "https://nypost.com/2026/11/26/us-news/sage-steele-settles-covid-19-and-freedom-of-speech-lawsuit-with-caa/",
       "published": "Thu, 26 Nov 2026 17:00:00 -0500",
       "sentiment": 0.1
-    },
-    {
-      "title": "High tide washes out Pacific Surfliner travel plans as weather continues to bash SoCal",
-      "link": "https://nypost.com/2026/11/26/us-news/california-surfliner-train-suspended-on-thanksgiving-amid-high-tides/",
-      "published": "Thu, 26 Nov 2026 16:58:21 -0500",
-      "sentiment": 0.16
-    },
-    {
-      "title": "Hawaii marching band needs $700K to make postponed Thanksgiving Day Parade — after COVID ruined last NYC trip",
-      "link": "https://nypost.com/2026/11/26/us-news/hawaii-marching-band-needs-700k-to-make-postponed-thanksgiving-day-parade/",
-      "published": "Thu, 26 Nov 2026 16:51:53 -0500",
-      "sentiment": 0.3125
-    },
-    {
-      "title": "NYC volunteers flood subway car to treat straphangers to annual ‘Thanksgiving Train’ spread",
-      "link": "https://nypost.com/2026/11/26/us-news/nyc-volunteers-flood-subway-car-to-treat-straphangers-to-annual-thanksgiving-train-spread/",
-      "published": "Thu, 26 Nov 2026 16:37:55 -0500",
-      "sentiment": 0.2130681818181818
-    },
-    {
-      "title": "Dark Eagle, America’s first operational long-range hypersonic missile battery, is ‘ready to go,’ Army honcho claims",
-      "link": "https://nypost.com/2026/11/26/us-news/dark-eagle-americas-first-operational-long-range-hypersonic-missile-battery-is-ready-to-go-army-honcho-claims/",
-      "published": "Thu, 26 Nov 2026 16:25:56 -0500",
-      "sentiment": 0.13333333333333333
-    },
-    {
-      "title": "NYC straphanger clinging to life after subway goons attack him over asking for quiet: cops",
-      "link": "https://nypost.com/2026/11/26/us-news/nyc-subway-rider-clings-to-life-after-goons-attack-him-for-asking-for-quiet-cops/",
-      "published": "Thu, 26 Nov 2026 16:18:57 -0500",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Horror as 6-year-old girl is shot dead while playing outside her California home",
-      "link": "https://nypost.com/2026/11/26/us-news/6-year-old-girl-shot-dead-while-playing-outside-her-california-home/",
-      "published": "Thu, 26 Nov 2026 16:15:00 -0500",
-      "sentiment": 0.125
-    },
-    {
-      "title": "Beloved family-owned NYC store where Seinfeld was a regular calls it quits after nearly 100 years",
-      "link": "https://nypost.com/2026/11/26/us-news/nycs-zingone-bros-where-seinfeld-was-a-regular-calls-it-quits-after-nearly-100-years/",
-      "published": "Thu, 26 Nov 2026 16:08:39 -0500",
-      "sentiment": 0.26249999999999996
-    },
-    {
-      "title": "Heartbroken teacher parents of teen hiker killed on California mountain speak out on ‘unimaginably’ difficult loss",
-      "link": "https://nypost.com/2026/11/26/us-news/parents-of-teen-hiker-killed-on-california-mountain-break-silence/",
-      "published": "Thu, 26 Nov 2026 16:00:00 -0500",
-      "sentiment": -0.15000000000000002
     }
   ]
 }

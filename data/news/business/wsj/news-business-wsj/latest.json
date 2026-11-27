@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
+      "link": "https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
+      "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "The Five-Year-Old Budget Airline That Halted Operations on Thanksgiving",
       "link": "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 13:17:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/business/hospitality/the-race-to-make-dinner-delivery-more-affordable-deb2df99?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 01:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "link": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 22:27:00 GMT",
-      "sentiment": -0.07777777777777778
-    },
-    {
-      "title": "Stephen Miller Revives MAHA Plan That Would Classify 60% of Food as Ultraprocessed",
-      "link": "https://www.wsj.com/politics/policy/coming-soon-rfk-jr-s-long-delayed-ultraprocessed-food-definition-49c3aabc?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 22:15:00 GMT",
-      "sentiment": 0.13636363636363635
     },
     {
       "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
@@ -193,6 +193,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Asian Markets Mostly Higher as Sentiment Stabilizes",
+      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 02:13:00 GMT",
+      "sentiment": -0.0875
+    },
+    {
       "title": "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist",
       "link": "https://www.wsj.com/business/energy-oil/opec-allies-face-tough-choices-as-surplus-builds-hormuz-risks-persist-769f8d98?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 13:27:00 GMT",
@@ -215,12 +221,6 @@
       "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 22:03:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Oil Futures Pick Up as Middle East Tensions Persist",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-supply-outlook-renewed-middle-east-tensions-182b1198?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 21:07:00 GMT",
-      "sentiment": 0.075
     },
     {
       "title": "How Southwest, Target and AT&T Finance Chiefs Think About the Human in the Loop",
@@ -433,6 +433,18 @@
       "sentiment": -0.1
     },
     {
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "link": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 22:27:00 GMT",
+      "sentiment": -0.07777777777777778
+    },
+    {
+      "title": "Stephen Miller Revives MAHA Plan That Would Classify 60% of Food as Ultraprocessed",
+      "link": "https://www.wsj.com/politics/policy/coming-soon-rfk-jr-s-long-delayed-ultraprocessed-food-definition-49c3aabc?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 22:15:00 GMT",
+      "sentiment": 0.13636363636363635
+    },
+    {
       "title": "U.S. Officials Say There’s No Evidence China Coordinated Jensen Huang’s Affair",
       "link": "https://www.wsj.com/business/u-s-officials-say-theres-no-evidence-china-coordinated-jensen-huangs-affair-52fa4961?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 21:48:00 GMT",
@@ -451,18 +463,6 @@
       "sentiment": 0.0715909090909091
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 21:58:00 GMT",
-      "sentiment": 0.25
-    },
-    {
-      "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
-      "link": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=pls_whats_news_us_business_f",
-      "published": "Tue, 24 Nov 2026 20:09:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers",
       "link": "https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 19:39:00 GMT",
@@ -475,15 +475,15 @@
       "sentiment": 0.2
     },
     {
-      "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
-      "link": "https://www.wsj.com/business/ftc-imposes-strict-board-restrictions-on-berettas-25-stake-in-rival-sturm-ruger-2d0cc315?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 17:22:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
       "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 17:58:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+      "link": "https://www.wsj.com/business/ftc-imposes-strict-board-restrictions-on-berettas-25-stake-in-rival-sturm-ruger-2d0cc315?mod=pls_whats_news_us_business_f",
+      "published": "Wed, 25 Nov 2026 17:22:00 GMT",
       "sentiment": 0.0
     },
     {

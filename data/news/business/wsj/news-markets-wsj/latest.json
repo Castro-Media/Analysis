@@ -7,6 +7,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Asian Markets Mostly Higher as Sentiment Stabilizes",
+      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+      "published": "Fri, 27 Nov 2026 02:13:00 GMT",
+      "sentiment": -0.0875
+    },
+    {
       "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
       "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
       "published": "Thu, 26 Nov 2026 19:55:00 GMT",
@@ -35,12 +41,6 @@
       "link": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 21:48:00 GMT",
       "sentiment": 0.16818181818181818
-    },
-    {
-      "title": "Stocks Finish Lower After Wild Session",
-      "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 21:23:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Where to Find Bargains After the AI Power Boom Reality Check",
@@ -103,6 +103,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+      "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "published": "Fri, 27 Nov 2026 02:16:00 GMT",
+      "sentiment": 0.3
+    },
+    {
       "title": "Health Care Roundup: Market Talk",
       "link": "https://www.wsj.com/business/health-care-roundup-market-talk-b4d17b6e?mod=rss_markets_main",
       "published": "Thu, 26 Nov 2026 12:11:00 GMT",
@@ -127,22 +133,22 @@
       "sentiment": 0.25
     },
     {
-      "title": "Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
-      "link": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
-      "published": "Thu, 26 Nov 2026 10:55:00 GMT",
-      "sentiment": 0.13636363636363635
-    },
-    {
-      "title": "Nikkei Rises 0.4%, Led by Banks, Trading Houses",
+      "title": "MSCI India Gets Rare Earnings Upgrade",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "published": "Fri, 27 Nov 2026 00:18:00 GMT",
-      "sentiment": -0.05
+      "published": "Fri, 27 Nov 2026 01:21:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
       "published": "Thu, 26 Nov 2026 13:01:00 GMT",
       "sentiment": 0.008333333333333338
+    },
+    {
+      "title": "Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
+      "link": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
+      "published": "Thu, 26 Nov 2026 10:55:00 GMT",
+      "sentiment": 0.13636363636363635
     },
     {
       "title": "European Indexes Open Sharply Higher After U.S. Recovery",
@@ -155,12 +161,6 @@
       "link": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
       "published": "Thu, 26 Nov 2026 05:22:00 GMT",
       "sentiment": 0.15876623376623375
-    },
-    {
-      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
-      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 22:21:00 GMT",
-      "sentiment": 0.125
     },
     {
       "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
@@ -199,6 +199,12 @@
       "sentiment": 0.037500000000000006
     },
     {
+      "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "published": "Fri, 27 Nov 2026 01:48:00 GMT",
+      "sentiment": 0.016666666666666666
+    },
+    {
       "title": "Gold Stabilizes But Faces Fragile Recovery",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
       "published": "Fri, 27 Nov 2026 00:25:00 GMT",
@@ -223,10 +229,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "Crude Posts Back-to-Back Gains on Middle East Tension",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 22:09:00 GMT",
-      "sentiment": 0.01428571428571429
+      "title": "Asian Currencies Might Be Weighed by AI Uncertainties",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "published": "Fri, 27 Nov 2026 02:44:00 GMT",
+      "sentiment": -0.18888888888888888
     },
     {
       "title": "Euro Stays Slightly Higher After Europe Picks New ECB Chief",
@@ -251,12 +257,6 @@
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 03:03:00 GMT",
       "sentiment": 0.12222222222222223
-    },
-    {
-      "title": "The WSJ Dollar Index Rises 0.27% to 99.02",
-      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
-      "published": "Mon, 23 Nov 2026 22:34:00 GMT",
-      "sentiment": 0.6
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -289,6 +289,12 @@
       "sentiment": 0.05000000000000002
     },
     {
+      "title": "Stocks Finish Lower After Wild Session",
+      "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
+      "published": "Wed, 25 Nov 2026 21:23:00 GMT",
+      "sentiment": 0.05
+    },
+    {
       "title": "Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss",
       "link": "https://www.wsj.com/finance/investing/dan-loebs-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-46f36108?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 19:33:00 GMT",
@@ -311,12 +317,6 @@
       "link": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
       "published": "Tue, 24 Nov 2026 22:07:00 GMT",
       "sentiment": 0.2
-    },
-    {
-      "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
-      "link": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
-      "published": "Tue, 24 Nov 2026 21:55:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
