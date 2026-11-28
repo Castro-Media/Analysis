@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "Americans Have More Riding on the Stock Market Than Ever",
+      "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 28 Nov 2026 12:02:00 GMT",
+      "sentiment": 0.13333333333333333
+    },
+    {
+      "title": "The Newsletter Bonanza Is Slowing Down",
+      "link": "https://www.wsj.com/business/media/the-newsletter-bonanza-is-slowing-down-32a8ba0a?mod=pls_whats_news_us_business_f",
+      "published": "Sat, 28 Nov 2026 12:00:00 GMT",
+      "sentiment": 0.17222222222222222
+    },
+    {
       "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
       "link": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=pls_whats_news_us_business_f",
       "published": "Fri, 27 Nov 2026 17:12:00 GMT",
@@ -22,18 +34,6 @@
       "title": "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
       "link": "https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=pls_whats_news_us_business_f",
       "published": "Fri, 27 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
-      "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=pls_whats_news_us_business_f",
-      "published": "Fri, 27 Nov 2026 02:00:00 GMT",
-      "sentiment": 0.5
-    },
-    {
-      "title": "The Five-Year-Old Budget Airline That Halted Operations on Thanksgiving",
-      "link": "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 26 Nov 2026 13:17:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -229,6 +229,12 @@
       "sentiment": 0.5
     },
     {
+      "title": "The Five-Year-Old Budget Airline That Halted Operations on Thanksgiving",
+      "link": "https://www.wsj.com/business/airlines/the-five-year-old-budget-airliner-that-halted-operations-on-thanksgiving-adca4a2f?mod=pls_whats_news_us_business_f",
+      "published": "Thu, 26 Nov 2026 13:17:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "How Southwest, Target and AT&T Finance Chiefs Think About the Human in the Loop",
       "link": "https://www.wsj.com/cfo-journal/how-southwest-target-and-at-t-finance-chiefs-think-about-the-human-in-the-loop-c2f175a1?mod=pls_whats_news_us_business_f",
       "published": "Mon, 23 Nov 2026 12:14:00 GMT",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68?mod=pls_whats_news_us_business_f",
       "published": "Fri, 20 Nov 2026 10:21:00 GMT",
       "sentiment": 0.0
-    },
-    {
-      "title": "One Airline’s Frantic Race to Avoid a Ground-Stop Meltdown",
-      "link": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 18 Nov 2026 17:43:00 GMT",
-      "sentiment": 0.016666666666666663
     },
     {
       "title": "Tokenization and AI Rewrite the CFO Playbook for Corporate Cybersecurity",
@@ -433,6 +433,12 @@
       "sentiment": -0.1
     },
     {
+      "title": "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top",
+      "link": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 02:00:00 GMT",
+      "sentiment": 0.5
+    },
+    {
       "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
       "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=pls_whats_news_us_business_f",
       "published": "Thu, 26 Nov 2026 02:00:00 GMT",
@@ -455,12 +461,6 @@
       "link": "https://www.wsj.com/business/u-s-officials-say-theres-no-evidence-china-coordinated-jensen-huangs-affair-52fa4961?mod=pls_whats_news_us_business_f",
       "published": "Wed, 25 Nov 2026 21:48:00 GMT",
       "sentiment": 0.08125
-    },
-    {
-      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=pls_whats_news_us_business_f",
-      "published": "Wed, 25 Nov 2026 12:13:00 GMT",
-      "sentiment": -0.30000000000000004
     },
     {
       "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
@@ -487,10 +487,10 @@
       "sentiment": 0.0
     },
     {
-      "title": "The Race to Make Dinner Delivery More Affordable",
-      "link": "https://www.wsj.com/business/hospitality/the-race-to-make-dinner-delivery-more-affordable-deb2df99?mod=pls_whats_news_us_business_f",
-      "published": "Thu, 26 Nov 2026 01:00:00 GMT",
-      "sentiment": 0.5
+      "title": "Lundbeck, Top Antidepressant Maker, Weighs Move Into Psychedelics",
+      "link": "https://www.wsj.com/health/pharma/lundbeck-top-antidepressant-maker-weighs-move-into-psychedelics-970e5d96?mod=pls_whats_news_us_business_f",
+      "published": "Fri, 27 Nov 2026 12:43:00 GMT",
+      "sentiment": 0.3
     },
     {
       "title": "Best Small-Business Loans in November 2026",
