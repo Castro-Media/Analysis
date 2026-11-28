@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
+      "link": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
+      "published": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
+      "link": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
+      "published": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "sentiment": 0.16666666666666666
+    },
+    {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
       "published": "Fri, 27 Nov 2026 21:16:00 GMT",
@@ -23,18 +35,6 @@
       "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
       "published": "Fri, 27 Nov 2026 10:30:00 GMT",
       "sentiment": 0.225
-    },
-    {
-      "title": "Asian Markets Rise as AI Sentiment Stabilizes",
-      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
-      "published": "Fri, 27 Nov 2026 05:53:00 GMT",
-      "sentiment": -0.19999999999999998
-    },
-    {
-      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
-      "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
-      "published": "Thu, 26 Nov 2026 19:55:00 GMT",
-      "sentiment": 0.3714285714285714
     },
     {
       "title": "Where to Find Bargains After the AI Power Boom Reality Check",
@@ -211,16 +211,16 @@
       "sentiment": 0.25
     },
     {
+      "title": "Asian Markets Rise as AI Sentiment Stabilizes",
+      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+      "published": "Fri, 27 Nov 2026 05:53:00 GMT",
+      "sentiment": -0.19999999999999998
+    },
+    {
       "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
       "link": "https://www.wsj.com/finance/commodities-futures/australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-72d6fe9b?mod=rss_markets_main",
       "published": "Fri, 27 Nov 2026 05:14:00 GMT",
       "sentiment": 0.03333333333333333
-    },
-    {
-      "title": "Gold Rises But Big Moves Seen as Unlikely for Now",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
-      "published": "Thu, 26 Nov 2026 17:23:00 GMT",
-      "sentiment": -0.25
     },
     {
       "title": "ECB Leadership Change Has No Material Impact on Euro",
@@ -283,6 +283,12 @@
       "sentiment": 0.05000000000000002
     },
     {
+      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+      "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+      "published": "Thu, 26 Nov 2026 19:55:00 GMT",
+      "sentiment": 0.3714285714285714
+    },
+    {
       "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
       "link": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
       "published": "Thu, 26 Nov 2026 02:00:00 GMT",
@@ -305,12 +311,6 @@
       "link": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
       "published": "Wed, 25 Nov 2026 21:48:00 GMT",
       "sentiment": 0.16818181818181818
-    },
-    {
-      "title": "Stocks Finish Lower After Wild Session",
-      "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
-      "published": "Wed, 25 Nov 2026 21:23:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
