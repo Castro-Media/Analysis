@@ -1,9 +1,33 @@
 {
   "entries": [
     {
+      "title": "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror",
+      "link": "https://www.nytimes.com/2026/11/28/world/middleeast/freed-from-a-notorious-syrian-prison-but-still-trapped-by-its-terror.html",
+      "published": "Sat, 28 Nov 2026 10:00:23 +0000",
+      "sentiment": -0.1416666666666667
+    },
+    {
+      "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+      "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+      "published": "Sat, 28 Nov 2026 10:02:15 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Canada’s Arctic Reservists Know the Land. Fewer Young People Do.",
+      "link": "https://www.nytimes.com/2026/11/28/world/canada/canada-rangers-quebec-arctic-military.html",
+      "published": "Sat, 28 Nov 2026 10:00:44 +0000",
+      "sentiment": 0.2125
+    },
+    {
       "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
       "link": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
       "published": "Sat, 28 Nov 2026 05:01:10 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
+      "link": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
+      "published": "Sat, 28 Nov 2026 05:01:05 +0000",
       "sentiment": 0.0
     },
     {
@@ -11,12 +35,6 @@
       "link": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html",
       "published": "Sat, 28 Nov 2026 05:01:18 +0000",
       "sentiment": -0.3
-    },
-    {
-      "title": "FIFA May Scrap the Peace Prize It Gave to Trump",
-      "link": "https://www.nytimes.com/2026/11/28/world/europe/fifa-peace-prize-trump-infantino.html",
-      "published": "Sat, 28 Nov 2026 05:01:05 +0000",
-      "sentiment": 0.0
     },
     {
       "title": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
@@ -67,24 +85,6 @@
       "sentiment": 0.18727272727272726
     },
     {
-      "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
-      "link": "https://www.nytimes.com/2026/11/27/world/asia/north-korea-defectors-children-school-seoul.html",
-      "published": "Fri, 27 Nov 2026 05:00:39 +0000",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Japanese Volleyball Player Rui Takahashi Makes Waves By Coming Out as Gay",
-      "link": "https://www.nytimes.com/2026/11/27/world/asia/rui-takahashi-japan-volleyball-gay-athlete.html",
-      "published": "Fri, 27 Nov 2026 05:00:17 +0000",
-      "sentiment": 0.12222222222222223
-    },
-    {
-      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
-      "published": "Thu, 26 Nov 2026 18:23:08 +0000",
-      "sentiment": 0.3666666666666667
-    },
-    {
       "title": "Police Link Release of Substance at Don Toliver Concert to Robbery Attempts",
       "link": "https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html",
       "published": "Fri, 27 Nov 2026 23:24:27 +0000",
@@ -113,6 +113,18 @@
       "link": "https://www.nytimes.com/video/world/europe/100000010915175/why-russia-is-erasing-stalins-crimes.html",
       "published": "Fri, 27 Nov 2026 16:29:46 +0000",
       "sentiment": 0.3333333333333333
+    },
+    {
+      "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
+      "link": "https://www.nytimes.com/2026/11/27/world/asia/north-korea-defectors-children-school-seoul.html",
+      "published": "Fri, 27 Nov 2026 05:00:39 +0000",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Japanese Volleyball Player Rui Takahashi Makes Waves By Coming Out as Gay",
+      "link": "https://www.nytimes.com/2026/11/27/world/asia/rui-takahashi-japan-volleyball-gay-athlete.html",
+      "published": "Fri, 27 Nov 2026 05:00:17 +0000",
+      "sentiment": 0.12222222222222223
     },
     {
       "title": "Ontario Premier Says He’d Use a Gun to Protect His Family",
@@ -167,6 +179,12 @@
       "link": "https://www.nytimes.com/2026/11/26/climate/seabirds-tracking-hidden-fishing-boats.html",
       "published": "Thu, 26 Nov 2026 10:04:05 +0000",
       "sentiment": -0.16666666666666666
+    },
+    {
+      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+      "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+      "published": "Thu, 26 Nov 2026 18:23:08 +0000",
+      "sentiment": 0.3666666666666667
     },
     {
       "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
@@ -335,24 +353,6 @@
       "link": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
       "published": "Wed, 25 Nov 2026 05:01:14 +0000",
       "sentiment": -0.13333333333333333
-    },
-    {
-      "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-      "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-      "published": "Wed, 25 Nov 2026 05:24:36 +0000",
-      "sentiment": 0.012121212121212116
-    },
-    {
-      "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
-      "link": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
-      "published": "Wed, 25 Nov 2026 02:55:17 +0000",
-      "sentiment": 0.3
-    },
-    {
-      "title": "Trump Administration Pauses Joint Operations With Ecuador",
-      "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
-      "published": "Wed, 25 Nov 2026 00:42:52 +0000",
-      "sentiment": -0.15000000000000002
     }
   ]
 }
