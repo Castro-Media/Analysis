@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "title": "NBC Pulls an Ad That Some Described as Antisemitic",
+      "link": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html",
+      "published": "Fri, 27 Nov 2026 23:29:54 +0000",
+      "sentiment": 0.1645021645021645
+    },
+    {
       "title": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
       "link": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
       "published": "Fri, 27 Nov 2026 17:02:48 +0000",
@@ -45,7 +51,7 @@
     {
       "title": "2 TV Shows Take on Sam Bankman-Fried and FTX",
       "link": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
-      "published": "Fri, 27 Nov 2026 10:02:08 +0000",
+      "published": "Fri, 27 Nov 2026 10:02:09 +0000",
       "sentiment": -0.023809523809523808
     },
     {
@@ -287,12 +293,6 @@
       "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
       "published": "Tue, 24 Nov 2026 23:27:37 +0000",
       "sentiment": -0.08333333333333333
-    },
-    {
-      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
-      "link": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
-      "published": "Tue, 24 Nov 2026 23:06:01 +0000",
-      "sentiment": 0.0
     }
   ]
 }
