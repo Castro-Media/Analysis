@@ -1,22 +1,16 @@
 {
   "entries": [
     {
-      "title": "Supreme Court at a crossroads over gun rights and assault weapons",
-      "link": "https://www.latimes.com/politics/story/2026-11-28/supreme-court-at-crossroads-over-gun-rights-assault-weapons",
-      "published": "Sat, 28 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.09351851851851851
-    },
-    {
-      "title": "Inside the L.A. library parking lot that has become a haven for homeless women",
-      "link": "https://www.latimes.com/california/story/2026-11-28/inside-la-library-parking-lot-that-has-become-haven-for-homeless-women",
-      "published": "Sat, 28 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.08333333333333333
-    },
-    {
       "title": "Early endorsements leave labor in unusual position at start of Becerra era",
       "link": "https://www.latimes.com/california/story/2026-11-28/fewer-endorsements-leave-labor-in-unusual-position-at-start-of-becerra-era",
       "published": "Sat, 28 Nov 2026 11:00:00 GMT",
       "sentiment": 0.16527777777777777
+    },
+    {
+      "title": "After a historic hatch, what's next for Southern California's sea turtles?",
+      "link": "https://www.latimes.com/science/story/2026-11-28/whats-next-for-southern-californias-native-born-sea-turtles",
+      "published": "Sat, 28 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.10714285714285714
     },
     {
       "title": "Inside the race for control of NASA's Jet Propulsion Laboratory",
@@ -25,10 +19,16 @@
       "sentiment": 0.15
     },
     {
-      "title": "After a historic hatch, what's next for Southern California's sea turtles?",
-      "link": "https://www.latimes.com/science/story/2026-11-28/whats-next-for-southern-californias-native-born-sea-turtles",
+      "title": "Inside the L.A. library parking lot that has become a haven for homeless women",
+      "link": "https://www.latimes.com/california/story/2026-11-28/inside-la-library-parking-lot-that-has-become-haven-for-homeless-women",
       "published": "Sat, 28 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.10714285714285714
+      "sentiment": -0.08333333333333333
+    },
+    {
+      "title": "Supreme Court at a crossroads over gun rights and assault weapons",
+      "link": "https://www.latimes.com/politics/story/2026-11-28/supreme-court-at-crossroads-over-gun-rights-assault-weapons",
+      "published": "Sat, 28 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.09351851851851851
     },
     {
       "title": "California's ocean temperatures are shattering records and fueling dangerous flooding",
@@ -67,6 +67,12 @@
       "sentiment": 0.27999999999999997
     },
     {
+      "title": "Celebrity eagle Jackie's death from bird flu highlights massive, ongoing outbreak",
+      "link": "https://www.latimes.com/environment/story/2026-11-27/celebrity-eagle-jackies-death-from-bird-flu-highlights-massive-ongoing-epidemic",
+      "published": "Fri, 27 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.015000000000000003
+    },
+    {
       "title": "2 teens fell down a SoCal mountain; 14-year-old did not survive",
       "link": "https://www.latimes.com/california/story/2026-11-27/2-teens-fell-down-socal-mountain-wrightwood-14-year-old-did-not-survive",
       "published": "Fri, 27 Nov 2026 11:00:00 GMT",
@@ -77,12 +83,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search",
       "published": "Fri, 27 Nov 2026 11:00:00 GMT",
       "sentiment": -0.15
-    },
-    {
-      "title": "Celebrity eagle Jackie's death from bird flu highlights massive, ongoing outbreak",
-      "link": "https://www.latimes.com/environment/story/2026-11-27/celebrity-eagle-jackies-death-from-bird-flu-highlights-massive-ongoing-epidemic",
-      "published": "Fri, 27 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.015000000000000003
     },
     {
       "title": "Officials ID woman whose body washed ashore in Newport Beach",
@@ -127,16 +127,16 @@
       "sentiment": -1.3877787807814457e-17
     },
     {
-      "title": "After vandalism at UCLA, USC band won't perform at pregame and halftime",
-      "link": "https://www.latimes.com/california/story/2026-11-26/after-alleged-vandalism-at-ucla-usc-band-wont-perform-at-pregame-halftime",
-      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.011111111111111118
-    },
-    {
       "title": "Caregiving out loud: How humor, candor and pop culture are breaking the silence on an isolating role",
       "link": "https://www.latimes.com/science/story/2026-11-26/why-family-caregiving-becoming-cultural-conversation",
       "published": "Thu, 26 Nov 2026 11:00:00 GMT",
       "sentiment": -0.02857142857142858
+    },
+    {
+      "title": "After vandalism at UCLA, USC band won't perform at pregame and halftime",
+      "link": "https://www.latimes.com/california/story/2026-11-26/after-alleged-vandalism-at-ucla-usc-band-wont-perform-at-pregame-halftime",
+      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.011111111111111118
     },
     {
       "title": "Looking for a good deal on a Christmas tree? Try a national forest",
@@ -145,28 +145,28 @@
       "sentiment": 0.11597222222222223
     },
     {
-      "title": "A landlord says he's fixing Skid Row's worst buildings. Tenants say they were pushed out",
-      "link": "https://www.latimes.com/california/story/2026-11-26/landlord-says-hes-fixing-skid-row-buildings-tenants-say-they-were-pushed-out",
-      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.45
-    },
-    {
       "title": "A new study maps the state's native bees, revealing remarkable diversity around L.A. basin",
       "link": "https://www.latimes.com/environment/story/2026-11-26/new-study-maps-californias-native-bees-for-first-time-ucsb",
       "published": "Thu, 26 Nov 2026 11:00:00 GMT",
       "sentiment": 0.13658008658008658
     },
     {
-      "title": "Californians pay taxes for the rest of the country. You're welcome",
-      "link": "https://www.latimes.com/business/story/2026-11-26/california-pays-taxes-for-rest-of-country-youre-welcome",
+      "title": "A landlord says he's fixing Skid Row's worst buildings. Tenants say they were pushed out",
+      "link": "https://www.latimes.com/california/story/2026-11-26/landlord-says-hes-fixing-skid-row-buildings-tenants-say-they-were-pushed-out",
       "published": "Thu, 26 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.29583333333333334
+      "sentiment": -0.45
     },
     {
       "title": "Walmart delivery drones are set to touch down in Los Angeles",
       "link": "https://www.latimes.com/business/story/2026-11-26/walmart-delivery-drones-are-set-to-touch-down-in-los-angeles",
       "published": "Thu, 26 Nov 2026 11:00:00 GMT",
       "sentiment": 0.014814814814814817
+    },
+    {
+      "title": "Californians pay taxes for the rest of the country. You're welcome",
+      "link": "https://www.latimes.com/business/story/2026-11-26/california-pays-taxes-for-rest-of-country-youre-welcome",
+      "published": "Thu, 26 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.29583333333333334
     },
     {
       "title": "Mike Woo is back on the political ethics beat — this time for L.A. County",
@@ -247,12 +247,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "title": "Nithya Raman says L.A. child care is 'in crisis.' Here's her plan to change it",
-      "link": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
-      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.2
-    },
-    {
       "title": "'The miracle' in 3-D: Tour brings statue of the Virgin of Guadalupe to L.A. faithful",
       "link": "https://www.latimes.com/california/story/2026-11-25/tour-brings-3-d-statue-of-virgin-of-guadalupe-to-la-faithful",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
@@ -269,6 +263,12 @@
       "link": "https://www.latimes.com/california/story/2026-11-25/la-me-king-tides-explainer",
       "published": "Wed, 25 Nov 2026 11:00:00 GMT",
       "sentiment": 0.14
+    },
+    {
+      "title": "Nithya Raman says L.A. child care is 'in crisis.' Here's her plan to change it",
+      "link": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "sentiment": 0.2
     },
     {
       "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
@@ -337,10 +337,10 @@
       "sentiment": 0.14166666666666666
     },
     {
-      "title": "How California's king tides will play out: Timing, locations, danger zones",
-      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
+      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
+      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.21666666666666665
+      "sentiment": 0.05
     },
     {
       "title": "Nvidia's stunning U-turn: Why Jensen Huang is back and why critics are alarmed",
@@ -349,10 +349,16 @@
       "sentiment": 0.25
     },
     {
-      "title": "Terror shadowed the 1984 L.A. Olympics. It offers lessons for 2028",
-      "link": "https://www.latimes.com/california/story/2026-11-24/terror-shadowed-1984-la-summer-olympics-lessons-for-2028",
+      "title": "How California's king tides will play out: Timing, locations, danger zones",
+      "link": "https://www.latimes.com/california/story/2026-11-24/california-king-tides-timing-locations-danger-zones",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.05
+      "sentiment": 0.21666666666666665
+    },
+    {
+      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
+      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "sentiment": -0.15000000000000002
     },
     {
       "title": "Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president",
@@ -371,12 +377,6 @@
       "link": "https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures",
       "published": "Tue, 24 Nov 2026 11:00:00 GMT",
       "sentiment": -0.041666666666666664
-    },
-    {
-      "title": "After explosion of toxic trash, residents demand extension of temporary housing",
-      "link": "https://www.latimes.com/environment/story/2026-11-24/after-landfill-explosion-families-urge-extension-temporary-housing",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "sentiment": -0.15000000000000002
     },
     {
       "title": "Afghan journalist freed from California detention after 22 months",
@@ -511,12 +511,6 @@
       "sentiment": -0.008928571428571438
     },
     {
-      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
-      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
-      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "sentiment": 0.04999999999999999
-    },
-    {
       "title": "Body pulled from L.A. River following powerful storm, investigation underway",
       "link": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
@@ -526,6 +520,18 @@
       "title": "Dozens of dogs recovered in Pasadena need fur-ever homes. Here's how you can help",
       "link": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
       "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Lopez: A sporty red Cadillac, rock 'n' roll, ice cream and cookies. They got to 100 by staying young",
+      "link": "https://www.latimes.com/california/story/2026-11-21/red-cadillac-rock-n-roll-ice-cream-cookies-they-got-to-100-by-staying-young",
+      "published": "Sat, 21 Nov 2026 13:00:00 GMT",
+      "sentiment": 0.04999999999999999
+    },
+    {
+      "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
+      "link": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
+      "published": "Sat, 21 Nov 2026 11:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -539,12 +545,6 @@
       "link": "https://www.latimes.com/california/story/2026-11-21/uc-openai-chatgpt-deal",
       "published": "Sat, 21 Nov 2026 11:00:00 GMT",
       "sentiment": 0.5
-    },
-    {
-      "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
-      "link": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
-      "published": "Sat, 21 Nov 2026 11:00:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment",
