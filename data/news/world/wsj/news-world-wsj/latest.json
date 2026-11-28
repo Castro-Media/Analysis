@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "A Handgun on His Hip, Colombia’s New President Turns Drug War Into Theater",
+      "link": "https://www.wsj.com/world/americas/colombia-president-espriella-military-drug-traffickers-17a62644?mod=rss_worldnews",
+      "published": "Sat, 28 Nov 2026 03:00:00 GMT",
+      "sentiment": -0.03787878787878789
+    },
+    {
+      "title": "Why Karl Marx’s Ideas Are Making a Comeback in Europe",
+      "link": "https://www.wsj.com/world/europe/why-karl-marxs-ideas-are-making-a-comeback-in-europe-79c4330b?mod=rss_worldnews",
+      "published": "Sat, 28 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "How Starlink Limits Force Ukraine to Fight With the Brakes On",
+      "link": "https://www.wsj.com/world/how-starlink-limits-force-ukraine-to-fight-with-the-brakes-on-3fd1d605?mod=rss_worldnews",
+      "published": "Sat, 28 Nov 2026 03:00:00 GMT",
+      "sentiment": 0.2333333333333333
+    },
+    {
       "title": "S&P Revises Outlook on France’s Credit Rating to Negative From Stable",
       "link": "https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews",
       "published": "Fri, 27 Nov 2026 22:08:00 GMT",
@@ -19,27 +37,15 @@
       "sentiment": 0.1
     },
     {
-      "title": "Israeli Report on Soldiers Using Palestinians as Human Shields Ignites National Backlash",
-      "link": "https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca?mod=rss_worldnews",
-      "published": "Fri, 27 Nov 2026 18:00:00 GMT",
-      "sentiment": 0.0
-    },
-    {
-      "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
-      "link": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_worldnews",
-      "published": "Fri, 27 Nov 2026 17:12:00 GMT",
-      "sentiment": -0.25
-    },
-    {
-      "title": "France Slips Into Recession as Exports Sag",
-      "link": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5?mod=rss_worldnews",
-      "published": "Fri, 27 Nov 2026 13:39:00 GMT",
-      "sentiment": 0.0
-    },
-    {
       "title": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews",
       "published": "Fri, 27 Nov 2026 20:31:00 GMT",
+      "sentiment": 0.0
+    },
+    {
+      "title": "Israeli Report on Soldiers Using Palestinians as Human Shields Ignites National Backlash",
+      "link": "https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca?mod=rss_worldnews",
+      "published": "Fri, 27 Nov 2026 18:00:00 GMT",
       "sentiment": 0.0
     },
     {
@@ -59,12 +65,6 @@
       "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-supply-outlook-renewed-middle-east-tensions-182b1198?mod=rss_worldnews",
       "published": "Wed, 25 Nov 2026 21:07:00 GMT",
       "sentiment": 0.075
-    },
-    {
-      "title": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
-      "link": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews",
-      "published": "Wed, 25 Nov 2026 01:43:00 GMT",
-      "sentiment": -0.05555555555555555
     },
     {
       "title": "Chinese Shares Lifted as Beijing Signals More Market Support",
@@ -199,6 +199,12 @@
       "sentiment": 0.04
     },
     {
+      "title": "France Slips Into Recession as Exports Sag",
+      "link": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5?mod=rss_worldnews",
+      "published": "Fri, 27 Nov 2026 13:39:00 GMT",
+      "sentiment": 0.0
+    },
+    {
       "title": "Inflation Slides in France, Spain on Declining Fuel Prices",
       "link": "https://www.wsj.com/world/europe/french-inflation-slides-on-drop-in-fuel-prices-2bd7e78e?mod=rss_worldnews",
       "published": "Fri, 27 Nov 2026 11:16:00 GMT",
@@ -217,10 +223,10 @@
       "sentiment": 0.04545454545454545
     },
     {
-      "title": "As Another Wartime Winter Sets In, Kyiv Residents Weigh Finally Leaving",
-      "link": "https://www.wsj.com/world/as-another-wartime-winter-sets-in-kyiv-residents-weigh-finally-leaving-c76357dc?mod=rss_worldnews",
-      "published": "Thu, 26 Nov 2026 17:00:00 GMT",
-      "sentiment": -0.1
+      "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+      "link": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_worldnews",
+      "published": "Fri, 27 Nov 2026 17:12:00 GMT",
+      "sentiment": -0.25
     },
     {
       "title": "China Takes Down Shanghai Party Boss Once Seen as Potential Leader",
@@ -245,12 +251,6 @@
       "link": "https://www.wsj.com/world/china/the-gap-between-chinas-military-spectacle-and-battlefield-reality-3e32e7ed?mod=rss_worldnews",
       "published": "Tue, 24 Nov 2026 11:55:00 GMT",
       "sentiment": -0.25
-    },
-    {
-      "title": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January",
-      "link": "https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews",
-      "published": "Tue, 24 Nov 2026 11:13:00 GMT",
-      "sentiment": 0.0
     },
     {
       "title": "Wife of Japanese Reporter Held in Russia Appeals for His Release",
@@ -373,6 +373,12 @@
       "sentiment": 0.0
     },
     {
+      "title": "As Another Wartime Winter Sets In, Kyiv Residents Weigh Finally Leaving",
+      "link": "https://www.wsj.com/world/as-another-wartime-winter-sets-in-kyiv-residents-weigh-finally-leaving-c76357dc?mod=rss_worldnews",
+      "published": "Thu, 26 Nov 2026 17:00:00 GMT",
+      "sentiment": -0.1
+    },
+    {
       "title": "New Tariffs on China Risk Undermining Trade Truce With U.S.",
       "link": "https://www.wsj.com/world/new-tariffs-on-china-could-undermine-trade-truce-with-u-s-bf43adcf?mod=rss_worldnews",
       "published": "Thu, 26 Nov 2026 08:42:00 GMT",
@@ -383,12 +389,6 @@
       "link": "https://www.wsj.com/world/europe/behind-frances-unrest-lies-a-historic-decline-in-spending-power-ab0c7d65?mod=rss_worldnews",
       "published": "Thu, 26 Nov 2026 03:00:00 GMT",
       "sentiment": -0.05
-    },
-    {
-      "title": "Inside the Scramble to Avert Conflict With Russia in the Baltic",
-      "link": "https://www.wsj.com/world/europe/inside-the-scramble-to-avert-conflict-with-russia-in-the-baltic-4ec51b82?mod=rss_worldnews",
-      "published": "Wed, 25 Nov 2026 18:52:00 GMT",
-      "sentiment": 0.05
     },
     {
       "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade",
